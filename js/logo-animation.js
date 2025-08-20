@@ -1,7 +1,32 @@
 // Logo animation JS (WebGL + TWGL)
 const mediaList = [
-  "./videos/ezgif-767ed7843f54ec.mp4", // User's local ezgif file
-  "./videos/ezgif-767ed7843f54ec.mp4"
+  "https://mizubyte.github.io/videos/ezgif-767ed7843f54ec.mp4",
+  "https://mizubyte.github.io/videos/ezgif-767ed7843f54ec.mp4",
+  "https://mizubyte.github.io/videos/ezgif-767ed7843f54ec.mp4",
+  "https://mizubyte.github.io/videos/ezgif-767ed7843f54ec.mp4",
+  "https://mizubyte.github.io/videos/ezgif-767ed7843f54ec.mp4",
+  "https://mizubyte.github.io/videos/ezgif-767ed7843f54ec.mp4",
+  "https://mizubyte.github.io/videos/1.mp4",
+  "https://mizubyte.github.io/videos/2.mp4",
+  "https://mizubyte.github.io/videos/3.mp4",
+  "https://mizubyte.github.io/videos/4.mp4",
+  "https://mizubyte.github.io/videos/5.mp4",
+  "https://mizubyte.github.io/videos/6.mp4",
+  "https://mizubyte.github.io/videos/7.mp4",
+  "https://mizubyte.github.io/videos/8.mp4",
+  "https://mizubyte.github.io/videos/9.mp4",
+  "https://mizubyte.github.io/videos/10.mp4",
+  "https://mizubyte.github.io/videos/11.mp4",
+  "https://mizubyte.github.io/videos/12.mp4",
+  "https://mizubyte.github.io/videos/13.mp4",
+  "https://mizubyte.github.io/videos/14.mp4",
+  "https://mizubyte.github.io/videos/15.mp4",
+  "https://mizubyte.github.io/videos/16.mp4",
+  "https://mizubyte.github.io/videos/17.mp4",
+  "https://mizubyte.github.io/videos/18.mp4",
+  "https://mizubyte.github.io/videos/19.mp4",
+  "https://mizubyte.github.io/videos/20.mp4"
+
 ];
 const rndNum = Math.floor(Math.random() * mediaList.length);
 const src = mediaList[rndNum];
