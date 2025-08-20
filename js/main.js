@@ -1,5 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Add event listener for Anime Cards button
+    const openCardsBtn = document.getElementById('open-cards');
+    if (openCardsBtn) {
+        openCardsBtn.onclick = function() {
+            window.location.href = 'cards/card.html';
+        };
+    }
     // Modal for full image view
+    let modalPrevBtn2, modalNextBtn2;
     const imageModal = document.getElementById('imageModal');
     const modalImage = document.getElementById('modalImage');
     const imageModalClose = document.getElementById('imageModalClose');
