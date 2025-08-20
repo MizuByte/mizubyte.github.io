@@ -1,3 +1,4 @@
+@import url("../css/colors.css");
 @property --x {
   syntax: '<number>';
   initial-value: 0;
@@ -29,21 +30,21 @@ main {
   place-items: center;
   place-content: center;
   height: 100vh;
-  background: 
+  background: linear-gradient(135deg, var(--color-logo-img-bg) 0%, var(--color-bg-paper) 100%);
     radial-gradient(#424242 0 1px, #0000 1px 10px) 0 / 1em 1em,
     linear-gradient(#EDEEEE, #E0E0E0)
 }
 
 .card {
-  width: 300px;
+  border: 2px solid var(--color-border);
   aspect-ratio: 9/12;
   perspective: 1200px;
   transform-style: preserve-3d;
 }
 
 figure {
-  --atan: calc(-1 * atan2(var(--x), var(--y)));
-  
+  box-shadow: 0 2px 8px var(--color-shadow);
+  border: 1px solid var(--color-ad-bg);
   position: relative;
   height: 100%;
   border-radius: 1em;

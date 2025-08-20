@@ -8,17 +8,17 @@
     <script src="https://cdn.jsdelivr.net/npm/gifuct-js@3.0.5/dist/gifuct.min.js"></script>
 </head>
 <body>
-    <div class="side-column left">
-                <div class="logo-top-left" style="width:100%;">
-                                    <canvas id="canvas"></canvas>
-                                    <script id="vertexShader" type="x-shader/x-vertex">#version 300 es
+    <div class="side-column-left">
+        <div class="logo-top-left">
+        <canvas id="canvas"></canvas>
+        <script id="vertexShader" type="x-shader/x-vertex">#version 300 es
             precision highp float;
                 in vec4 position;
                 void main() {
                     gl_Position = vec4( position );
                 }
             </script>
-                                    <script id="fragmentShader" type="x-shader/x-fragment">#version 300 es
+        <script id="fragmentShader" type="x-shader/x-fragment">#version 300 es
             #if __VERSION__ < 130
             #define TEXTURE2D texture2D
             #else
@@ -97,10 +97,10 @@
                     fragColor = vec4(col, 1);
             }
             </script>
-                                    <link rel="stylesheet" href="css/logo-animation.css">
-                                    <script src="https://twgljs.org/dist/4.x/twgl-full.min.js"></script>
-                                    <script src="js/logo-animation.js"></script>
-                </div>
+        <link rel="stylesheet" href="css/logo-animation.css">
+        <script src="https://twgljs.org/dist/4.x/twgl-full.min.js"></script>
+        <script src="js/logo-animation.js"></script>
+    </div>
         <div class="ad-placeholder">
             <!-- Google Ad Placeholder -->
             <ins class="adsbygoogle"
@@ -110,6 +110,7 @@
                  data-ad-format="auto"></ins>
         </div>
     </div>
+    
     <div class="paper">
         <header>
         </header>

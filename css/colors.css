@@ -1,0 +1,35 @@
+/* Centralized color variables for the entire site */
+:root {
+    --color-bg-main: #FDF2F2;
+    --color-text-main: #ffffff;
+    --color-bg-paper: #f4f4f4;
+    --color-text-paper: #333333;
+    --color-border: #ddd;
+    --color-btn-bg: #4CAF50;
+    --color-btn-bg-hover: #45a049;
+    --color-anime-selected-bg: #4CAF50;
+    --color-anime-selected-text: #ffffff;
+    --color-ad-bg: #333333;
+    --color-tweet-bg: #222222;
+    --color-tweet-text: #eeeeee;
+    --color-tweet-date: #aaaaaa;
+    --color-modal-bg: rgba(0,0,0,0.85);
+    --color-modal-img-btn: #0d6efd;
+    --color-modal-img-btn-hover: #0056b3;
+    --color-modal-content-bg: #fefefe;
+    --color-modal-content-text: #333333;
+    --color-modal-close: #aaa;
+    --color-modal-close-hover: #000;
+    --color-btn-outline: #fff;
+    --color-shadow: rgba(0,0,0,0.5);
+    --color-shadow-modal: rgba(0,0,0,0.85);
+    --color-shadow-btn: rgba(0,0,0,0.7);
+    --color-border-modal: #888;
+    --color-btn-expand: #0d6efd;
+    --color-btn-expand-hover: #0056b3;
+    --color-logo-border: #020203;
+    --color-logo-shadow: #020203;
+    --color-logo-bg: transparent;
+    --color-logo-img-bg: #EDEEEE;
+    --color-logo-img-bg2: #E0E0E0;
+}
