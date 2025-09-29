@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MizuByte</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="cards/card.css">
     <script src="https://cdn.jsdelivr.net/npm/gifuct-js@3.0.5/dist/gifuct.min.js"></script>
 </head>
 <body>
@@ -116,23 +117,42 @@
         </header>
         <main>
             <div class="button-container">
-                <button id="modal-open-button" class="action-button">Button 1</button>
-                <button id="open-card" class="action-button">Anime Cards</button>
+                <button id="toggle-cards" class="action-button">Show Cards</button>
             </div>
-            <div id="anime-selection" class="anime-selection-container">
-                <div class="anime-box" data-value="boruto">Boruto</div>
-                <div class="anime-box" data-value="black-clover">Black Clover</div>
-                <div class="anime-box" data-value="one-piece">One Piece</div>
+            <div id="main-content">
+                <center>
+                    <div class="twitter-feed" id="twitter-feed">
+                    <!-- Twitter timelines will be loaded here by main.js -->
+                    </div>
+                </center>
             </div>
-            <center>
-                <div class="twitter-feed" id="twitter-feed">
-                <!-- Twitter timelines will be loaded here by main.js -->
+            <div id="cards-content" style="display:none;">
+                <div class="cards-grid">
+                    <div class="card">
+                        <figure>
+                            <span class="card-figure-text">One Piece</span>
+                            <img src="images/onepiece_card2.png" alt="">
+                        </figure>
+                    </div>
+                    <div class="card">
+                        <figure>
+                            <span class="card-figure-text">Boruto</span>
+                            <img src="images/boruto_card.png" alt="">
+                        </figure>
+                    </div>
+                    <div class="card">
+                        <figure>
+                            <span class="card-figure-text">Black Clover</span>
+                            <img src="images/onepiece_card.png" alt="">
+                        </figure>
+                    </div>
                 </div>
-            </center>
+            </div>
         </main>
         <footer>
         </footer>
     </div>
+    
     <div class="side-column right">
         <div class="ad-placeholder">
             <!-- Google Ad Placeholder -->
@@ -161,7 +181,8 @@
             <span class="close-button" id="imageModalClose">&times;</span>
             <img class="modal-image" id="modalImage" src="" alt="Full Image" />
         </div>
-        <script src="js/main.js"></script>
+    <script src="js/main.js"></script>
+    <script src="cards/card.js"></script>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>

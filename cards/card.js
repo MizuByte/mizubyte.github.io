@@ -1,3 +1,4 @@
+// Card click logic removed; handled by main.js
 const cards = document.querySelectorAll('.card');
 
 let mouseEnterTarget = null;

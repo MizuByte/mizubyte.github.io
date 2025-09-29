@@ -205,62 +205,75 @@ document.addEventListener('DOMContentLoaded', () => {
         let allTweets = [];
         for (const handle of handles) {
             const tweets = await fetchNitterTweets(handle, 8);
-            allTweets.push({ handle, tweets });
-        }
-        twitterFeed.innerHTML = allTweets.map(account => {
-            // Split tweets into two columns and pad to equal length
-            const tweets = account.tweets;
-            const mid = Math.ceil(tweets.length / 2);
-            let col1 = tweets.slice(0, mid);
-            let col2 = tweets.slice(mid);
-            // Pad columns to equal length
-            const maxLen = Math.max(col1.length, col2.length);
-            while (col1.length < maxLen) col1.push(null);
-            while (col2.length < maxLen) col2.push(null);
-            let tweetGrid = '<div class="nitter-tweet-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">';
-            [col1, col2].forEach(colTweets => {
-                tweetGrid += '<div class="nitter-tweet-column">';
-                colTweets.forEach(t => {
-                    if (t) {
-                        let validImages = Array.isArray(t.images) ? t.images.filter(src => src && src !== 'null' && src !== '').map(src => src.startsWith('http') ? src : ('https://nitter.net' + src)) : [];
-                        let imgSize = 220;
-                        if (t.content && t.content.length > 320) imgSize = 120;
-                        else if (t.content && t.content.length < 80) imgSize = 300;
-                        let imagesHtml = '';
-                        if (validImages.length > 0) {
-                            if (validImages.length === 1) {
-                                imagesHtml = `<div class=\"nitter-images\"><img src=\"${validImages[0]}\" class=\"nitter-img\" style=\"max-width:${imgSize}px;min-width:${imgSize}px;min-height:${imgSize}px;\" onclick=\"openImageModal('${validImages[0]}', ['${validImages[0]}'])\" /></div>`;
-                            } else {
-                                imagesHtml = `<div class=\"nitter-images nitter-images-multi\">`;
-                                imagesHtml += `<div class=\"nitter-img-carousel\">`;
-                                imagesHtml += validImages.map((img, idx) => `<img src=\"${img}\" class=\"nitter-img\" data-idx=\"${idx}\" style=\"display:${idx === 0 ? 'block' : 'none'};max-width:${imgSize}px;min-width:${imgSize}px;min-height:${imgSize}px;\" onclick=\"openImageModal('${img}', [${validImages.map(i => `'${i}'`).join(',')}])\" />`).join('');
-                                imagesHtml += `<button class=\"nitter-img-prev\">&#8592;</button>`;
-                                imagesHtml += `<button class=\"nitter-img-next\">&#8594;</button>`;
-                                imagesHtml += `</div></div>`;
-                            }
-                        }
-                        let dateNode = t.date;
-                        let localTime = '';
-                        if (typeof dateNode === 'string') {
-                            localTime = dateNode;
-                        } else if (dateNode && dateNode.textContent) {
-                            localTime = dateNode.textContent.trim();
-                        }
-                        let contentHtml = `<div class=\"nitter-content\">${t.content}</div>`;
-                        if (t.content && t.content.length > 320) {
-                            contentHtml = `<div class=\"nitter-content\">${t.content.substring(0, 320)}... <button class='aufklappen-btn' onclick='this.parentElement.classList.add(\"expanded\");this.style.display=\"none\";this.parentElement.parentElement.parentElement.style.height=\"auto\";'>aufklappen</button></div><div class=\"nitter-content expanded\" style=\"display:none;\">${t.content} <button class='aufklappen-btn' onclick='this.parentElement.style.display=\"none\";this.parentElement.previousElementSibling.classList.remove(\"expanded\");this.parentElement.previousElementSibling.querySelector(\".aufklappen-btn\").style.display=\"block\";this.parentElement.parentElement.parentElement.style.height=\"\";'>zuklappen</button></div>`;
-                        }
-                        tweetGrid += `<div class=\"nitter-tweet\">${imagesHtml}${contentHtml}</div><div class=\"nitter-tweet-date-row\" style=\"text-align:center;margin-bottom:30px;font-size:1em;color:#0d6efd;\">${account.handle} ${localTime}</div>`;
-                    } else {
-                        // Empty placeholder for equal height
-                        tweetGrid += `<div class=\"nitter-tweet\" style=\"visibility:hidden;\"></div>`;
-                    }
-                });
-                tweetGrid += '</div>';
+            // Add handle info to each tweet for sorting
+            tweets.forEach(t => {
+                t._handle = handle;
             });
-            tweetGrid += '</div>';
-            return `<div class=\"nitter-account-feed\"><h3 style=\"color:#0d6efd;\">${account.handle}</h3>${tweetGrid}</div>`;
-        }).join('');
+            allTweets = allTweets.concat(tweets);
+        }
+        // Sort allTweets by date (newest first)
+        function parseDate(dateStr) {
+            // Try to parse date string, fallback to 0
+            let d = Date.parse(dateStr);
+            if (!isNaN(d)) return d;
+            // Try to parse formats like '1h', '2m', 'now', etc.
+            if (/now/i.test(dateStr)) return Date.now();
+            let match = dateStr.match(/(\d+)([hm])/);
+            if (match) {
+                let val = parseInt(match[1]);
+                if (match[2] === 'h') return Date.now() - val * 3600 * 1000;
+                if (match[2] === 'm') return Date.now() - val * 60 * 1000;
+            }
+            return 0;
+        }
+        // Quicksort implementation
+        function quickSort(arr) {
+            if (arr.length <= 1) return arr;
+            let pivot = arr[Math.floor(arr.length / 2)];
+            let pivotDate = parseDate(pivot.date);
+            let left = arr.filter(t => parseDate(t.date) > pivotDate);
+            let right = arr.filter(t => parseDate(t.date) < pivotDate);
+            let equal = arr.filter(t => parseDate(t.date) === pivotDate);
+            return quickSort(left).concat(equal, quickSort(right));
+        }
+        allTweets = quickSort(allTweets);
+        // Render as a single grid
+        const maxCols = 2;
+        let tweetGrid = '<div class="nitter-tweet-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">';
+        for (let i = 0; i < allTweets.length; i++) {
+            const t = allTweets[i];
+            let validImages = Array.isArray(t.images) ? t.images.filter(src => src && src !== 'null' && src !== '').map(src => src.startsWith('http') ? src : ('https://nitter.net' + src)) : [];
+            let imgSize = 220;
+            if (t.content && t.content.length > 320) imgSize = 120;
+            else if (t.content && t.content.length < 80) imgSize = 300;
+            let imagesHtml = '';
+            if (validImages.length > 0) {
+                if (validImages.length === 1) {
+                    imagesHtml = `<div class="nitter-images"><img src="${validImages[0]}" class="nitter-img" style="max-width:${imgSize}px;min-width:${imgSize}px;min-height:${imgSize}px;" onclick="openImageModal('${validImages[0]}', ['${validImages[0]}'])" /></div>`;
+                } else {
+                    imagesHtml = `<div class="nitter-images nitter-images-multi">`;
+                    imagesHtml += `<div class="nitter-img-carousel">`;
+                    imagesHtml += validImages.map((img, idx) => `<img src="${img}" class="nitter-img" data-idx="${idx}" style="display:${idx === 0 ? 'block' : 'none'};max-width:${imgSize}px;min-width:${imgSize}px;min-height:${imgSize}px;" onclick="openImageModal('${img}', [${validImages.map(i => `'${i}'`).join(',')}])" />`).join('');
+                    imagesHtml += `<button class="nitter-img-prev">&#8592;</button>`;
+                    imagesHtml += `<button class="nitter-img-next">&#8594;</button>`;
+                    imagesHtml += `</div></div>`;
+                }
+            }
+            let dateNode = t.date;
+            let localTime = '';
+            if (typeof dateNode === 'string') {
+                localTime = dateNode;
+            } else if (dateNode && dateNode.textContent) {
+                localTime = dateNode.textContent.trim();
+            }
+            let contentHtml = `<div class="nitter-content">${t.content}</div>`;
+            if (t.content && t.content.length > 320) {
+                contentHtml = `<div class="nitter-content">${t.content.substring(0, 320)}... <button class='aufklappen-btn' onclick='this.parentElement.classList.add("expanded");this.style.display="none";this.parentElement.parentElement.parentElement.style.height="auto";'>aufklappen</button></div><div class="nitter-content expanded" style="display:none;">${t.content} <button class='aufklappen-btn' onclick='this.parentElement.style.display="none";this.parentElement.previousElementSibling.classList.remove("expanded");this.parentElement.previousElementSibling.querySelector(".aufklappen-btn").style.display="block";this.parentElement.parentElement.parentElement.style.height="";'>zuklappen</button></div>`;
+            }
+            tweetGrid += `<div class="nitter-tweet">${imagesHtml}${contentHtml}<div class="nitter-tweet-date-row" style="text-align:center;margin-bottom:30px;font-size:1em;color:#0d6efd;">${localTime}</div></div>`;
+        }
+        tweetGrid += '</div>';
+        twitterFeed.innerHTML = tweetGrid;
     }
 
     // Carousel navigation for multiple images
@@ -369,4 +382,62 @@ document.addEventListener('DOMContentLoaded', () => {
             modalImage.style.transform = 'scale(1)';
         });
     }
+        // --- Cards toggle logic ---
+        const toggleBtn = document.getElementById('toggle-cards');
+        const mainContent = document.getElementById('main-content');
+        const cardsContent = document.getElementById('cards-content');
+
+        if (toggleBtn && mainContent && cardsContent) {
+            const paper = document.querySelector('.paper');
+            toggleBtn.onclick = function() {
+                if (mainContent.style.display !== 'none') {
+                    mainContent.style.display = 'none';
+                    cardsContent.style.display = 'block';
+                    toggleBtn.textContent = 'Back';
+                    if (paper) paper.classList.add('cards-active');
+                } else {
+                    mainContent.style.display = '';
+                    cardsContent.style.display = 'none';
+                    toggleBtn.textContent = 'Show Cards';
+                    if (paper) paper.classList.remove('cards-active');
+                }
+            };
+        }
+
+        // --- Card selection logic ---
+        const cardElems = document.querySelectorAll('#cards-content .card');
+        function getAnimeFromCard(card) {
+            const text = card.querySelector('.card-figure-text')?.textContent?.trim().toLowerCase();
+            if (text === 'one piece') return 'one-piece';
+            if (text === 'boruto') return 'boruto';
+            if (text === 'black clover') return 'black-clover';
+            return null;
+        }
+        function updateSelectedAnime() {
+            const selected = [];
+            cardElems.forEach(card => {
+                if (card.classList.contains('greyed')) {
+                    const anime = getAnimeFromCard(card);
+                    if (anime) selected.push(anime);
+                }
+            });
+            localStorage.setItem(selectedAnimeKey, JSON.stringify(selected));
+            updateNitterFeedWrapper();
+        }
+        cardElems.forEach(card => {
+            card.addEventListener('click', function() {
+                card.classList.toggle('greyed');
+                updateSelectedAnime();
+            });
+        });
+        // On page load, restore selection
+        const savedSelectionsCards = JSON.parse(localStorage.getItem(selectedAnimeKey)) || [];
+        cardElems.forEach(card => {
+            const anime = getAnimeFromCard(card);
+            if (anime && savedSelectionsCards.includes(anime)) {
+                card.classList.add('greyed');
+            } else {
+                card.classList.remove('greyed');
+            }
+        });
 });

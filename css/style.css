@@ -1,8 +1,8 @@
 @import url("colors.css");
 body {
+    font-family: "Source Code Pro", monospace;
     background-color: var(--color-bg-main);
     color: var(--color-text-main);
-    font-family: 'Arial', sans-serif;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -298,7 +298,6 @@ main {
     right: 50px;
     color: var(--color-btn-outline);
     font-size: 40px;
-    font-weight: bold;
     cursor: pointer;
     z-index: 101;
 }
