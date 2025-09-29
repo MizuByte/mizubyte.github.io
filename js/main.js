@@ -1,4 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Helper function to get anime key from card element
+    function getAnimeFromCard(card) {
+        return card.getAttribute('data-anime');
+    }
     // Add event listener for Anime Cards button
     const openCardsBtn = document.getElementById('open-cards');
     if (openCardsBtn) {
@@ -138,7 +142,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     const animeSelectionContainer = document.getElementById('anime-selection');
     const twitterFeed = document.getElementById('twitter-feed');
-    const selectedAnimeKey = 'selectedAnime';
+// --- Global variables ---
+const selectedAnimeKey = 'selectedAnime';
     const modal = document.getElementById("myModal");
     const modalButton = document.getElementById("modal-open-button");
     const closeButton = document.getElementsByClassName("close-button")[0];
@@ -150,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'black-clover': ['BCspoiler']
     };
 
-    async function fetchNitterTweets(username, count = 5) {
+    async function fetchNitterTweets(username, count = 9) {
         const proxyUrl = 'https://corsproxy.io/?';
         const nitterUrl = `https://nitter.net/${username}`;
         try {
@@ -204,7 +209,7 @@ document.addEventListener('DOMContentLoaded', () => {
         twitterFeed.innerHTML = '<p>Loading tweets...</p>';
         let allTweets = [];
         for (const handle of handles) {
-            const tweets = await fetchNitterTweets(handle, 8);
+            const tweets = await fetchNitterTweets(handle, 9);
             // Add handle info to each tweet for sorting
             tweets.forEach(t => {
                 t._handle = handle;
@@ -238,8 +243,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         allTweets = quickSort(allTweets);
         // Render as a single grid
-        const maxCols = 2;
-        let tweetGrid = '<div class="nitter-tweet-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">';
+    const maxCols = 3;
+    let tweetGrid = '<div class="nitter-tweet-grid" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0px;">';
         for (let i = 0; i < allTweets.length; i++) {
             const t = allTweets[i];
             let validImages = Array.isArray(t.images) ? t.images.filter(src => src && src !== 'null' && src !== '').map(src => src.startsWith('http') ? src : ('https://nitter.net' + src)) : [];
@@ -270,7 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (t.content && t.content.length > 320) {
                 contentHtml = `<div class="nitter-content">${t.content.substring(0, 320)}... <button class='aufklappen-btn' onclick='this.parentElement.classList.add("expanded");this.style.display="none";this.parentElement.parentElement.parentElement.style.height="auto";'>aufklappen</button></div><div class="nitter-content expanded" style="display:none;">${t.content} <button class='aufklappen-btn' onclick='this.parentElement.style.display="none";this.parentElement.previousElementSibling.classList.remove("expanded");this.parentElement.previousElementSibling.querySelector(".aufklappen-btn").style.display="block";this.parentElement.parentElement.parentElement.style.height="";'>zuklappen</button></div>`;
             }
-            tweetGrid += `<div class="nitter-tweet">${imagesHtml}${contentHtml}<div class="nitter-tweet-date-row" style="text-align:center;margin-bottom:30px;font-size:1em;color:#0d6efd;">${localTime}</div></div>`;
+            tweetGrid += `<div class="nitter-tweet">${imagesHtml}${contentHtml}<div class="nitter-tweet-date-row" style="text-align:center;margin-bottom:3px;font-size:1em;color:#0d6efd;">${localTime}</div></div>`;
         }
         tweetGrid += '</div>';
         twitterFeed.innerHTML = tweetGrid;
@@ -404,40 +409,63 @@ document.addEventListener('DOMContentLoaded', () => {
             };
         }
 
-        // --- Card selection logic ---
-        const cardElems = document.querySelectorAll('#cards-content .card');
-        function getAnimeFromCard(card) {
-            const text = card.querySelector('.card-figure-text')?.textContent?.trim().toLowerCase();
-            if (text === 'one piece') return 'one-piece';
-            if (text === 'boruto') return 'boruto';
-            if (text === 'black clover') return 'black-clover';
-            return null;
-        }
-        function updateSelectedAnime() {
-            const selected = [];
-            cardElems.forEach(card => {
-                if (card.classList.contains('greyed')) {
-                    const anime = getAnimeFromCard(card);
-                    if (anime) selected.push(anime);
-                }
-            });
-            localStorage.setItem(selectedAnimeKey, JSON.stringify(selected));
-            updateNitterFeedWrapper();
-        }
-        cardElems.forEach(card => {
-            card.addEventListener('click', function() {
-                card.classList.toggle('greyed');
-                updateSelectedAnime();
-            });
-        });
-        // On page load, restore selection
-        const savedSelectionsCards = JSON.parse(localStorage.getItem(selectedAnimeKey)) || [];
-        cardElems.forEach(card => {
-            const anime = getAnimeFromCard(card);
-            if (anime && savedSelectionsCards.includes(anime)) {
-                card.classList.add('greyed');
-            } else {
-                card.classList.remove('greyed');
+
+
+    // --- Card flip and filter logic ---
+    const cardElems = document.querySelectorAll('#cards-content .card');
+
+    cardElems.forEach(card => {
+        // Flip on click
+        card.addEventListener('click', function(e) {
+            // Only flip if not clicking a filter button
+            if (!e.target.classList.contains('filter-btn')) {
+                card.classList.toggle('flipped');
             }
         });
+        // Filter button logic
+        const filterBtns = card.querySelectorAll('.filter-btn');
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                // Remove selected from all
+                filterBtns.forEach(b => b.classList.remove('selected'));
+                btn.classList.add('selected');
+                // Save filter selection for this anime
+                const anime = card.getAttribute('data-anime');
+                let filterSelections = JSON.parse(localStorage.getItem('filterSelections') || '{}');
+                filterSelections[anime] = btn.getAttribute('data-filter');
+                localStorage.setItem('filterSelections', JSON.stringify(filterSelections));
+                // Optionally, update feed immediately
+                updateNitterFeedWrapper();
+            });
+        });
+    });
+
+    function updateSelectedAnime() {
+        const selected = [];
+        cardElems.forEach(card => {
+            if (card.classList.contains('greyed')) {
+                const anime = getAnimeFromCard(card);
+                if (anime) selected.push(anime);
+            }
+        });
+        localStorage.setItem(selectedAnimeKey, JSON.stringify(selected));
+        updateNitterFeedWrapper();
+    }
+    cardElems.forEach(card => {
+        card.addEventListener('click', function() {
+            card.classList.toggle('greyed');
+            updateSelectedAnime();
+        });
+    });
+    // On page load, restore selection
+    const savedSelectionsCards = JSON.parse(localStorage.getItem(selectedAnimeKey)) || [];
+    cardElems.forEach(card => {
+        const anime = getAnimeFromCard(card);
+        if (anime && savedSelectionsCards.includes(anime)) {
+            card.classList.add('greyed');
+        } else {
+            card.classList.remove('greyed');
+        }
+    });
 });
