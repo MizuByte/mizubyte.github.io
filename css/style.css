@@ -8,11 +8,9 @@ body {
     align-items: center;
     margin: 0;
     padding: 20px;
-}
 body.modal-active .side-column {
-/* removed stray closing brace before .paper selector */
-    background: rgba(0,0,0,0.85) !important;
-    box-shadow: 0 0 120px 60px rgba(0,0,0,0.85) inset;
+    background: var(--color-modal-bg) !important;
+    box-shadow: 0 0 120px 60px var(--color-modal-bg) inset;
     transition: background 0.3s;
 }
 
@@ -41,8 +39,8 @@ body.modal-active .side-column {
     left: 0;
     right: auto;
     background:
-      radial-gradient(#424242 0 1px, #0000 1px 10px) 0 / 1em 1em,
-      linear-gradient(#EDEEEE, #E0E0E0);
+      radial-gradient(var(--color-side-bg) 0 1px, #0000 1px 10px) 0 / 1em 1em,
+      linear-gradient(var(--color-logo-img-bg), var(--color-logo-img-bg2));
 }
 .side-column.right {
     left: auto;
@@ -52,7 +50,7 @@ body.modal-active .side-column {
 .ad-placeholder {
     width: 100%;
     height: 45%;
-    background-color: #333;
+    background-color: var(--color-ad-bg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,7 +65,7 @@ body.modal-active .side-column {
     padding: 10px;
     box-shadow: 0 0 10px var(--color-shadow);
     position: relative;
-    z-index: 100;
+    z-index: 50;
     margin-left: 0px;
     margin-right: 0px;
     overflow-y: auto;
@@ -76,7 +74,82 @@ body.modal-active .side-column {
 
 header {
     padding-bottom: 20px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.filter-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.filter-section h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: var(--color-text-paper);
+}
+
+.anime-selection {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.anime-selection label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.filter-options {
+    display: flex;
+    gap: 10px;
+}
+
+.filter-btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--color-btn-bg);
+    color: white;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+.filter-btn:hover {
+    background-color: var(--color-btn-bg-hover);
+}
+
+.filter-btn.active {
+    background-color: var(--color-btn-bg-hover);
+    box-shadow: 0 0 10px rgba(76, 175, 80, 0.5);
+    transform: scale(1.05);
+}
+
+.fetch-btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--color-fetch-btn);
+    color: white;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+.fetch-btn:hover {
+    background-color: var(--color-fetch-btn-hover);
 }
 
 .logo-top-left {
@@ -152,21 +225,6 @@ main {
     border-color: var(--color-anime-selected-bg);
 }
 
-.twitter-feed {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    padding: 10px;
-    max-width: 100%;
-    overflow: hidden;
-    box-sizing: border-box;
-    margin-left: 8px;
-    margin-right: 8px;
-    z-index: 100;
-}
-
 .nitter-account-feed {
     width: 100%;
     margin-bottom: 32px;
@@ -186,13 +244,13 @@ main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: minmax(320px, auto);
-    gap: 0px;
+    gap: 30px;
     width: 100%;
     max-width: 1800px;
     margin: 0 auto;
     box-sizing: border-box;
-    justify-items: center;
-    align-items: center;
+    place-items: center;
+    justify-content: center;
 }
 
 .nitter-tweet {
@@ -200,8 +258,6 @@ main {
     color: var(--color-tweet-text);
     border-radius: 8px;
     margin: 0;
-    margin-right: 8px;
-    margin-left: 8px;
     padding: 16px;
     box-shadow: 0 2px 8px var(--color-shadow);
     overflow: visible;
@@ -211,34 +267,28 @@ main {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    width: 96%;
-    max-width: 570px;
+    width: 100%;
     max-height: 570px;
-    min-width: 330px;
     min-height: 330px;
     aspect-ratio: 1 / 1;
     font-size: 1.1em;
     margin-top: 8px;
     margin-bottom: 8px;
-    margin-right: 8px;
-    margin-left: 8px;
     padding-bottom: 0px;
 }
 
+.nitter-tweet.no-image {
+    justify-content: center;
+}
+
 .nitter-images {
-    margin-top: 8px;
-    margin-bottom: 8px;
-    max-height: 500;
-    max-width: 500;
-    min-width: 180px;
-    min-height: 180px;
-    height: auto;
-    margin-right: 0;
-    margin-left: 0;
+    width: 200px;
+    height: 200px;
+    margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    aspect-ratio: 1 / 1;
+    overflow: hidden;
 }
 .nitter-img {
     width: 100%;
@@ -256,50 +306,49 @@ main {
 .modal {
     display: none;
     position: fixed;
-    z-index: 200;
-        z-index: 99999;
+    z-index: 1000000 !important;
     top: 0;
-    width: 100vw;
-    height: 100vh;
-    background: rgba(0,0,0,0.85);
+    width: 75vw;
+    height: 75vh;
+    background: var(--color-modal-bg);
     justify-content: center;
     align-items: center;
-    box-shadow: 0 0 120px 60px rgba(0,0,0,0.85) inset;
+    box-shadow: 0 0 900px 450px var(--color-modal-bg) inset;
 }
 .modal-image {
-    max-width: 90vw;
-    max-height: 90vh;
-    border-radius: 10px;
-    box-shadow: 0 0 60px 20px rgba(0,0,0,0.85);
+    width: 75vw;
+    height: 75vh;
+    object-fit: contain;
     display: block;
     margin: auto;
     position: relative;
-    z-index: 101;
+    z-index: 1000001 !important;
+    user-select: none;
 }
 
 .modal-img-prev, .modal-img-next {
-    background: var(--color-modal-img-btn) !important;
-    color: var(--color-text-main) !important;
-    border: none;
-    border-radius: 50%;
-        z-index: 99999;
-    height: 120px;
-    font-size: 4em;
+    background: rgba(0,0,0,0.7) !important;
+    color: #ffffff !important;
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    width: 60px;
+    height: 60px;
+    font-size: 2em;
     cursor: pointer;
-    box-shadow: 0 4px 32px rgba(0,0,0,0.7);
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: background 0.2s, color 0.2s;
-    opacity: 1;
+    transition: all 0.3s ease;
+    opacity: 0.8;
     z-index: 9999 !important;
-    outline: 4px solid var(--color-btn-outline);
+    outline: none;
 }
 
 .modal-img-prev:hover, .modal-img-next:hover {
-    background: var(--color-modal-img-btn-hover) !important;
-    color: var(--color-text-main) !important;
+    background: rgba(255,255,255,0.2) !important;
+    color: #ffffff !important;
     opacity: 1;
+    transform: scale(1.1);
 }
 .modal .close-button {
     position: absolute;
@@ -308,7 +357,7 @@ main {
     color: var(--color-btn-outline);
     font-size: 40px;
     cursor: pointer;
-    z-index: 101;
+    z-index: 1000002;
 }
 .nitter-img-prev {
     left: 8px;
@@ -318,7 +367,7 @@ main {
 }
 .nitter-date {
     font-size: 0.9em;
-    color: #aaa;
+    color: var(--color-tweet-date);
     margin-bottom: 5px;
     text-align: right;
     width: 100%;
@@ -345,8 +394,8 @@ main {
 .aufklappen-btn {
     display: block;
     margin: 8px auto 0 auto;
-    background: #0d6efd;
-    color: #fff;
+    background: var(--color-btn-expand);
+    color: var(--color-btn-outline);
     border: none;
     border-radius: 6px;
     padding: 6px 16px;
@@ -355,7 +404,7 @@ main {
     transition: background 0.2s;
 }
 .aufklappen-btn:hover {
-    background: #0056b3;
+    background: var(--color-btn-expand-hover);
 }
 
 
@@ -370,14 +419,14 @@ footer {
 .modal {
     display: none; 
     position: fixed; 
-    z-index: 20; 
+    z-index: 1000000 !important; 
     left: 0;
     top: 0;
     width: 100%; 
     height: 100%; 
     overflow: auto; 
     background-color: rgb(0,0,0); 
-    background-color: rgba(0,0,0,0.4); 
+    background-color: var(--color-modal-bg); 
 }
 
 .modal-content {
@@ -406,4 +455,52 @@ footer {
     color: var(--color-modal-close-hover);
     text-decoration: none;
     cursor: pointer;
+}
+
+.source-btn {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    background: var(--color-btn-overlay-bg);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 0.8em;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.source-btn:hover {
+    background: var(--color-btn-overlay-bg-hover);
+}
+
+.source-indicator {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background: var(--color-btn-overlay-bg);
+    color: white;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 0.8em;
+    z-index: 10;
+}
+
+.translate-btn {
+    position: absolute;
+    bottom: 8px;
+    left: 80px;
+    background: var(--color-btn-overlay-bg);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 0.8em;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.translate-btn:hover {
+    background: var(--color-btn-overlay-bg-hover);
 }

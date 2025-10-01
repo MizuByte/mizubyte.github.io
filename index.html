@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MizuByte</title>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="cards/card.css">
     <script src="https://cdn.jsdelivr.net/npm/gifuct-js@3.0.5/dist/gifuct.min.js"></script>
 </head>
 <body>
@@ -114,66 +113,36 @@
     
     <center><div class="paper">
         <header>
-        </header>
-        <main>
-            <div class="button-container">
-                <button id="toggle-cards" class="action-button">Show Cards</button>
-            </div>
-            <div id="main-content">
-                <center>
-                    <div class="twitter-feed" id="twitter-feed">
-                    <!-- Twitter timelines will be loaded here by main.js -->
-                    </div>
-                </center>
-            </div>
-            <div id="cards-content" style="display:none;">
-                <div class="cards-grid">
-                    <div class="card" data-anime="one-piece">
-                        <div class="card-inner">
-                            <div class="card-front">
-                                <figure>
-                                    <span class="card-figure-text">One Piece</span>
-                                    <img src="images/onepiece_card2.png" alt="One Piece">
-                                </figure>
-                            </div>
-                            <div class="card-back">
-                                <button class="filter-btn" data-filter="spoilers">Only Spoilers</button>
-                                <button class="filter-btn" data-filter="no-spoilers">No Spoilers</button>
-                                <button class="filter-btn" data-filter="all">Misc News & Spoilers</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card" data-anime="boruto">
-                        <div class="card-inner">
-                            <div class="card-front">
-                                <figure>
-                                    <span class="card-figure-text">Boruto</span>
-                                    <img src="images/boruto_card.png" alt="Boruto">
-                                </figure>
-                            </div>
-                            <div class="card-back">
-                                <button class="filter-btn" data-filter="spoilers">Only Spoilers</button>
-                                <button class="filter-btn" data-filter="no-spoilers">No Spoilers</button>
-                                <button class="filter-btn" data-filter="all">Misc News & Spoilers</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card" data-anime="black-clover">
-                        <div class="card-inner">
-                            <div class="card-front">
-                                <figure>
-                                    <span class="card-figure-text">Black Clover</span>
-                                    <img src="images/onepiece_card.png" alt="Black Clover">
-                                </figure>
-                            </div>
-                            <div class="card-back">
-                                <button class="filter-btn" data-filter="spoilers">Only Spoilers</button>
-                                <button class="filter-btn" data-filter="no-spoilers">No Spoilers</button>
-                                <button class="filter-btn" data-filter="all">Misc News & Spoilers</button>
-                            </div>
-                        </div>
+            <div class="filters">
+                <div class="filter-section">
+                    <h3>Select Anime:</h3>
+                    <div class="anime-selection" id="anime-selection">
+                        <label><input type="checkbox" value="one-piece"> One Piece</label>
+                        <label><input type="checkbox" value="boruto"> Boruto</label>
+                        <label><input type="checkbox" value="black-clover"> Black Clover</label>
                     </div>
                 </div>
+                <div class="filter-section">
+                    <h3>Filter:</h3>
+                    <div class="filter-options">
+                        <button class="filter-btn active" data-filter="all">All</button>
+                        <button class="filter-btn" data-filter="spoilers">Spoilers Only</button>
+                        <button class="filter-btn" data-filter="no-spoilers">No Spoilers</button>
+                        <button id="fetch-btn" class="fetch-btn">Fetch News</button>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div id="main-content">
+                <center>
+                    <div class="nitter-tweet-grid" id="news-grid">
+                    <!-- News items will be loaded here -->
+                    </div>
+                    <div style="text-align:center;margin-top:12px;">
+                        <button id="more-btn" class="fetch-more-btn">More</button>
+                    </div>
+                </center>
             </div>
         </main>
         <footer>
@@ -209,7 +178,6 @@
             <img class="modal-image" id="modalImage" src="" alt="Full Image" />
         </div>
     <script src="js/main.js"></script>
-    <script src="cards/card.js"></script>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
