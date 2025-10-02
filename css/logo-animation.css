@@ -23,4 +23,41 @@
     z-index: 9999;
     background: var(--color-logo-bg);
     pointer-events: auto;
+    transition: all 0.3s ease;
+}
+
+/* Mobile responsive logo */
+@media (max-width: 768px) {
+    .logo-top-left {
+        height: 60px !important;
+        width: 60px !important;
+        top: 10px !important;
+        left: 10px !important;
+    }
+
+    #canvas {
+        height: 60px !important;
+        width: 60px !important;
+        top: 10px !important;
+        left: 10px !important;
+        border: 2px solid var(--color-logo-border) !important;
+        box-shadow: 0 2px 6px var(--color-logo-shadow) !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-top-left {
+        height: 50px !important;
+        width: 50px !important;
+        top: 8px !important;
+        left: 8px !important;
+    }
+
+    #canvas {
+        height: 50px !important;
+        width: 50px !important;
+        top: 8px !important;
+        left: 8px !important;
+        border: 2px solid var(--color-logo-border) !important;
+    }
 }

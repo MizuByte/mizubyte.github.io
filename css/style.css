@@ -8,6 +8,7 @@ body {
     align-items: center;
     margin: 0;
     padding: 20px;
+}
 body.modal-active .side-column {
     background: var(--color-modal-bg) !important;
     box-shadow: 0 0 120px 60px var(--color-modal-bg) inset;
@@ -63,18 +64,39 @@ body.modal-active .side-column {
     width: 1270px;
     min-height: 100vh;
     padding: 10px;
-    box-shadow: 0 0 10px var(--color-shadow);
     position: relative;
     z-index: 50;
     margin-left: 0px;
     margin-right: 0px;
     overflow-y: auto;
     max-height: none;
+    /* DEPTH 2: Main paper moderately raised */
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
 }
 
 header {
     padding-bottom: 20px;
     border-bottom: 1px solid var(--color-border);
+    /* DEPTH 0: Header flush with paper */
+}
+
+.loading-bar-container {
+    width: 100%;
+    height: 4px;
+    background-color: var(--color-border);
+    margin-bottom: 15px;
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.loading-bar {
+    height: 100%;
+    width: 0%;
+    background-color: #0d6efd;
+    transition: width 0.3s ease;
+    border-radius: 2px;
 }
 
 .filters {
@@ -97,10 +119,127 @@ header {
     color: var(--color-text-paper);
 }
 
+/* Anime Filter Section - Full Width */
+.anime-filter-section {
+    grid-column: 1 / -1;
+    width: 100%;
+}
+
+/* Anime Selection Container - PEAK DESIGN dark elegance */
 .anime-selection {
     display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, rgba(10, 77, 163, 0.15) 0%, rgba(0, 0, 0, 0.6) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 
+        0 6px 16px rgba(0, 0, 0, 0.7),
+        0 2px 6px rgba(0, 0, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Settings Row - Centered at top */
+.anime-settings-row {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.settings-checkbox {
+    padding: 10px 20px !important;
+    background: rgba(10, 77, 163, 0.25);
+    border-radius: 12px;
+    border: 1px solid rgba(30, 136, 229, 0.4);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.settings-checkbox:hover {
+    background: rgba(10, 77, 163, 0.4);
+    border-color: rgba(30, 136, 229, 0.6);
+    box-shadow: 0 4px 10px rgba(10, 77, 163, 0.3);
+}
+
+/* Anime Grid - Responsive cards */
+.anime-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+    width: 100%;
+}
+
+/* Individual Anime Card - PEAK premium cards */
+.anime-card {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px;
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 2px solid rgba(255, 255, 255, 0.06);
+    box-shadow: 
+        0 4px 12px rgba(0, 0, 0, 0.6),
+        0 2px 4px rgba(0, 0, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.anime-card:hover {
+    border-color: rgba(30, 136, 229, 0.5);
+    background: rgba(0, 0, 0, 0.6);
+    box-shadow: 
+        0 6px 20px rgba(0, 0, 0, 0.7),
+        0 3px 8px rgba(10, 77, 163, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.08);
+    transform: translateY(-2px);
+}
+
+/* Anime Card Header */
+.anime-card-header {
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.anime-main-checkbox {
+    padding: 8px 12px !important;
+    width: 100%;
+    justify-content: flex-start;
+    background: rgba(10, 77, 163, 0.2);
+    border-radius: 8px;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.anime-main-checkbox:hover {
+    background: rgba(10, 77, 163, 0.35);
+    box-shadow: 0 3px 8px rgba(10, 77, 163, 0.4);
+}
+
+.anime-main-checkbox .checkbox-label {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+/* Anime Sources - Sub-checkboxes */
+.anime-sources {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-left: 8px;
+}
+
+.source-checkbox {
+    padding: 6px 10px !important;
+    font-size: 0.95em;
+    opacity: 0.9;
+}
+
+.source-checkbox:hover {
+    opacity: 1;
+    background: rgba(25, 118, 210, 0.12);
 }
 
 .anime-selection label {
@@ -111,45 +250,356 @@ header {
     font-size: 1em;
 }
 
+.section-title {
+    margin: 0;
+    font-size: 1.2em;
+    color: var(--color-text-paper);
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
 .filter-options {
     display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Modern Button Base Style - PEAK DESIGN Premium */
+.modern-btn {
+    display: inline-flex;
+    align-items: center;
     gap: 10px;
-}
-
-.filter-btn {
-    padding: 8px 16px;
-    border: none;
-    border-radius: 5px;
-    background-color: var(--color-btn-bg);
-    color: white;
+    padding: 12px 24px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #0a4da3 0%, #1976d2 100%);
+    color: #ffffff;
     cursor: pointer;
     font-size: 1em;
-    transition: background-color 0.3s;
-}
-
-.filter-btn:hover {
-    background-color: var(--color-btn-bg-hover);
-}
-
-.filter-btn.active {
-    background-color: var(--color-btn-bg-hover);
-    box-shadow: 0 0 10px rgba(76, 175, 80, 0.5);
-    transform: scale(1.05);
-}
-
-.fetch-btn {
-    padding: 8px 16px;
+    font-weight: 600;
     border: none;
-    border-radius: 5px;
-    background-color: var(--color-fetch-btn);
-    color: white;
-    cursor: pointer;
-    font-size: 1em;
-    transition: background-color 0.3s;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 
+        0 6px 16px rgba(10, 77, 163, 0.5),
+        0 3px 6px rgba(0, 0, 0, 0.4),
+        0 1px 2px rgba(0, 0, 0, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.25);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.fetch-btn:hover {
-    background-color: var(--color-fetch-btn-hover);
+.modern-btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 70%);
+    transform: translate(-50%, -50%);
+    transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1), height 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.modern-btn:hover::before {
+    width: 400px;
+    height: 400px;
+}
+
+.modern-btn:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 
+        0 10px 32px rgba(25, 118, 210, 0.6),
+        0 6px 12px rgba(0, 0, 0, 0.5),
+        0 2px 4px rgba(0, 0, 0, 0.4),
+        inset 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+
+.modern-btn:active {
+    transform: translateY(-1px) scale(0.98);
+    box-shadow: 
+        0 4px 12px rgba(10, 77, 163, 0.5),
+        0 2px 4px rgba(0, 0, 0, 0.4),
+        inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.modern-btn .btn-text,
+.modern-btn .btn-icon {
+    position: relative;
+    z-index: 1;
+}
+
+.modern-btn .btn-icon {
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Toggle Button Specific */
+.toggle-btn .toggle-icon {
+    transition: transform 0.3s ease;
+}
+
+.toggle-btn.expanded .toggle-icon {
+    transform: rotate(180deg);
+}
+
+/* Modern Checkbox */
+.modern-checkbox {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: transparent;
+}
+
+.modern-checkbox:hover {
+    background: rgba(25, 118, 210, 0.08);
+}
+
+.modern-checkbox input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    accent-color: var(--color-btn-bg);
+    transition: transform 0.2s ease;
+}
+
+.modern-checkbox input[type="checkbox"]:hover {
+    transform: scale(1.1);
+}
+
+.modern-checkbox input[type="checkbox"]:checked {
+    transform: scale(1.15);
+}
+
+.modern-checkbox .checkbox-label {
+    font-size: 1em;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.modern-checkbox input[type="checkbox"]:checked + .checkbox-label {
+    color: #42A5F5;
+    font-weight: 600;
+    text-shadow: 0 0 8px rgba(66, 165, 245, 0.4);
+}
+
+/* Modern Radio Buttons - DEPTH 2 (moderately raised) */
+.modern-radio {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 18px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: var(--color-bg-paper);
+    position: relative;
+    /* DEPTH 2 preset */
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+}
+
+.modern-radio:hover {
+    background: rgba(27, 94, 32, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);
+}
+
+.modern-radio input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.modern-radio .radio-custom {
+    width: 22px;
+    height: 22px;
+    border: 2px solid var(--color-border);
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.modern-radio .radio-custom::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--color-btn-bg);
+    transition: transform 0.3s ease;
+}
+
+.modern-radio input[type="radio"]:checked + .radio-custom {
+    border-color: var(--color-btn-bg);
+    background: rgba(76, 175, 80, 0.1);
+}
+
+.modern-radio input[type="radio"]:checked + .radio-custom::after {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.modern-radio .radio-label {
+    font-size: 1em;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.modern-radio input[type="radio"]:checked ~ .radio-label {
+    color: var(--color-btn-bg);
+    font-weight: 700;
+}
+
+/* Refresh/Fetch Button Specific */
+.fetch-btn .btn-icon {
+    transition: transform 0.6s ease;
+}
+
+.fetch-btn:hover .btn-icon {
+    transform: rotate(180deg);
+}
+
+.fetch-btn.loading .btn-icon {
+    animation: spin 1s linear infinite;
+}
+
+/* Reload Button Specific */
+.reload-btn {
+    background: linear-gradient(135deg, #5856d6 0%, #af52de 100%);
+    border-color: #5856d6;
+    box-shadow: 0 4px 12px rgba(88, 86, 214, 0.25);
+}
+
+.reload-btn:hover {
+    box-shadow: 0 6px 16px rgba(88, 86, 214, 0.4);
+}
+
+.reload-btn .btn-icon {
+    transition: transform 0.6s ease;
+}
+
+.reload-btn:hover .btn-icon {
+    transform: rotate(360deg);
+}
+
+.reload-btn.loading .btn-icon {
+    animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.fetch-more-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 40px;
+    border-radius: 50px;
+    background: linear-gradient(135deg, #0a4da3 0%, #1565c0 50%, #1e88e5 100%);
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 1.15em;
+    font-weight: 700;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 
+        0 8px 28px rgba(10, 77, 163, 0.6),
+        0 4px 10px rgba(0, 0, 0, 0.5),
+        0 2px 4px rgba(0, 0, 0, 0.4),
+        inset 0 2px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -2px 0 rgba(0, 0, 0, 0.3);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    letter-spacing: 0.5px;
+}
+
+.fetch-more-btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 70%);
+    transform: translate(-50%, -50%);
+    transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1), height 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.fetch-more-btn:hover::before {
+    width: 500px;
+    height: 500px;
+}
+
+.fetch-more-btn:hover {
+    transform: translateY(-4px) scale(1.03);
+    box-shadow: 
+        0 14px 40px rgba(21, 101, 192, 0.7),
+        0 8px 16px rgba(0, 0, 0, 0.6),
+        0 3px 6px rgba(0, 0, 0, 0.5),
+        inset 0 2px 0 rgba(255, 255, 255, 0.35),
+        inset 0 -2px 0 rgba(0, 0, 0, 0.25);
+}
+
+.fetch-more-btn:active {
+    transform: translateY(-2px) scale(0.99);
+    box-shadow: 
+        0 6px 20px rgba(10, 77, 163, 0.6),
+        0 3px 8px rgba(0, 0, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.25),
+        inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+}
+
+.fetch-more-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: 
+        0 3px 10px rgba(10, 77, 163, 0.3),
+        0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.more-btn-text {
+    position: relative;
+    z-index: 1;
+    font-weight: 700;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.more-btn-icon {
+    position: relative;
+    z-index: 1;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
+}
+
+.fetch-more-btn:hover .more-btn-icon {
+    transform: translateY(6px);
+    animation: bounce 0.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(6px); }
+    50% { transform: translateY(10px); }
+}
+
+.fetch-more-btn.loading .more-btn-icon {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
 }
 
 .logo-top-left {
@@ -163,16 +613,66 @@ header {
     height: auto;
 }
 
+/* Logo bottom-right - DESKTOP: Match top-left positioning */
 .logo-bottom-right {
-    position: absolute;
-    bottom: 20px;
+    position: fixed;
+    top: 20px;
     right: 20px;
-    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    z-index: 9999;
+}
+
+/* Discord link wrapper */
+.discord-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.discord-link:hover {
+    transform: translateY(-3px) scale(1.05);
+}
+
+.discord-link:active {
+    transform: translateY(-1px) scale(1.02);
+}
+
+.logo-bottom-right p {
+    font-size: 0.9em;
+    margin: 0;
+    color: var(--color-text-main);
+    text-align: center;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.discord-link:hover p {
+    color: #42A5F5;
+    text-shadow: 0 0 8px rgba(66, 165, 245, 0.4);
 }
 
 .logo-bottom-right img {
-    width: 80px;
-    height: auto;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    border: 3px solid var(--color-logo-border);
+    box-shadow: 0 2px 10px var(--color-logo-shadow);
+    border-radius: 8px;
+    background: var(--color-logo-bg);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.discord-link:hover img {
+    border-color: #42A5F5;
+    box-shadow: 0 4px 20px rgba(66, 165, 245, 0.5),
+                0 2px 10px var(--color-logo-shadow);
 }
 
 main {
@@ -256,7 +756,7 @@ main {
 .nitter-tweet {
     background: var(--color-tweet-bg);
     color: var(--color-tweet-text);
-    border-radius: 8px;
+    border-radius: 24px;
     margin: 0;
     padding: 16px;
     box-shadow: 0 2px 8px var(--color-shadow);
@@ -275,6 +775,69 @@ main {
     margin-top: 8px;
     margin-bottom: 8px;
     padding-bottom: 0px;
+    cursor: pointer;
+    
+    /* Smooth animations for grid position changes AND hover */
+    transition: grid-column 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+                grid-row 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+                width 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+                height 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+                max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+                opacity 0.3s ease,
+                transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Tweet depth and borders - DEPTH 3 (highly raised) with PEAK colors */
+.nitter-tweet {
+    border-bottom: 3px solid var(--edge-color, #4A90E2);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.85),
+                0 4px 6px rgba(0, 0, 0, 0.7),
+                0 10px 4px -4px var(--edge-color, rgba(74, 144, 226, 0.6));
+}
+
+/* Tweet Hover Effect - More dramatic */
+.nitter-tweet:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.9),
+                0 6px 10px rgba(0, 0, 0, 0.8),
+                0 14px 6px -5px var(--edge-color, rgba(74, 144, 226, 0.8));
+    border-bottom-width: 4px;
+}
+
+/* Prevent hover effect when expanded */
+.nitter-tweet.expanded:hover {
+    transform: none;
+}
+
+/* One Piece - Vibrant Gold/Orange (pirate gold) */
+.nitter-tweet[data-anime="onepiece"] {
+    --edge-color: #FFA500;
+}
+
+/* One Piece Alpha (pewpiece) - Rich Crimson Red */
+.nitter-tweet[data-anime="onepiece"][data-subsource="alpha"] {
+    --edge-color: #DC143C;
+}
+
+/* One Piece Beta (WorstGenHQ) - Deep Ocean Blue */
+.nitter-tweet[data-anime="onepiece"][data-subsource="beta"] {
+    --edge-color: #1E90FF;
+}
+
+/* One Piece Gamma (Mugiwara_23) - Lush Emerald Green */
+.nitter-tweet[data-anime="onepiece"][data-subsource="gamma"] {
+    --edge-color: #32CD32;
+}
+
+/* Boruto - Royal Purple (shinobi purple) */
+.nitter-tweet[data-anime="boruto"] {
+    --edge-color: #9C27B0;
+}
+
+/* Black Clover - Mystical Forest Green (grimoire green) */
+.nitter-tweet[data-anime="blackclover"] {
+    --edge-color: #2E7D32;
 }
 
 .nitter-tweet.no-image {
@@ -313,7 +876,11 @@ main {
     background: var(--color-modal-bg);
     justify-content: center;
     align-items: center;
-    box-shadow: 0 0 900px 450px var(--color-modal-bg) inset;
+    /* DEPTH 4: Floating/Modal - strongest shadow */
+    border-top: 2px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 4px solid rgba(0, 0, 0, 0.9);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.85),
+                0 0 900px 450px var(--color-modal-bg) inset;
 }
 .modal-image {
     width: 75vw;
@@ -381,15 +948,17 @@ main {
     max-height: 120px;
     overflow: hidden;
     position: relative;
-    transition: max-height 0.3s;
     margin-top: 8px;
     text-align: left;
     width: 100%;
+    /* No transitions on content - only cell movement is animated */
 }
 .nitter-content.expanded {
     max-height: none;
     overflow: visible;
     text-align: left;
+    font-size: 3.1em;
+    /* No transitions on content - only cell movement is animated */
 }
 .aufklappen-btn {
     display: block;
@@ -503,4 +1072,418 @@ footer {
 
 .translate-btn:hover {
     background: var(--color-btn-overlay-bg-hover);
+}
+
+/* ========================================
+   MOBILE / PHONE RESPONSIVE LAYOUT
+   ======================================== */
+
+@media (max-width: 768px) {
+    /* Reset body - full width, no side columns */
+    body {
+        padding: 0;
+        display: block;
+        overflow-x: hidden;
+    }
+
+    /* Hide side columns completely on mobile BUT keep logos visible */
+    .side-column {
+        display: none !important;
+    }
+
+    /* FORCE logo-bottom-right to be visible on mobile - OVERRIDE side-column hiding */
+    .side-column .logo-bottom-right {
+        display: flex !important;
+    }
+
+    /* Mobile header with logos */
+    body::before {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 80px;
+        background: var(--color-bg-main);
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 100;
+        border-bottom: 2px solid var(--color-border);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    }
+
+    /* Mobile top-left miniature logo animation */
+    .logo-top-left {
+        position: fixed !important;
+        top: 10px !important;
+        left: 10px !important;
+        width: 60px !important;
+        height: 60px !important;
+        z-index: 101 !important;
+        pointer-events: auto !important;
+    }
+
+    .logo-top-left #canvas {
+        width: 60px !important;
+        height: 60px !important;
+        aspect-ratio: 1 / 1 !important;
+        border: 2px solid var(--color-logo-border) !important;
+        box-shadow: 0 2px 6px var(--color-logo-shadow) !important;
+    }
+
+    /* Mobile top-right logo with text - VISIBLE AND CLICKABLE */
+    .logo-bottom-right {
+        position: fixed !important;
+        top: 10px !important;
+        right: 10px !important;
+        left: auto !important;
+        bottom: auto !important;
+        width: auto !important;
+        height: auto !important;
+        z-index: 101 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 4px !important;
+    }
+
+    /* Mobile Discord link */
+    .discord-link {
+        gap: 4px !important;
+    }
+
+    .logo-bottom-right p {
+        font-size: 0.7em !important;
+        margin: 0 !important;
+        color: var(--color-text-main) !important;
+        text-align: center !important;
+    }
+
+    .logo-bottom-right img {
+        width: 50px !important;
+        height: 50px !important;
+        border: 2px solid var(--color-logo-border) !important;
+    }
+
+    /* Mobile hover effects (touch feedback) */
+    .discord-link:active {
+        transform: scale(0.95) !important;
+    }
+
+    .discord-link:active img {
+        border-color: #42A5F5 !important;
+    }
+
+    /* Paper - Full width, below header */
+    .paper {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-height: calc(100vh - 80px) !important;
+        margin: 80px 0 0 0 !important;
+        padding: 15px !important;
+        border-radius: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Header adjustments */
+    header {
+        padding-bottom: 15px !important;
+    }
+
+    .filters {
+        flex-direction: column !important;
+        gap: 15px !important;
+    }
+
+    .filter-section {
+        width: 100% !important;
+    }
+
+    /* Anime selection - stacked layout */
+    .anime-selection {
+        padding: 15px !important;
+    }
+
+    .anime-grid {
+        grid-template-columns: 1fr !important;
+        gap: 12px !important;
+    }
+
+    .anime-card {
+        padding: 12px !important;
+    }
+
+    /* Content type filters - stack vertically */
+    .filter-options {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        width: 100% !important;
+    }
+
+    .modern-radio {
+        width: 100% !important;
+        justify-content: center !important;
+    }
+
+    .modern-btn {
+        width: 100% !important;
+        justify-content: center !important;
+        padding: 14px 20px !important;
+    }
+
+    /* Tweet grid - 2x2 layout */
+    .nitter-tweet-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 15px !important;
+        padding: 0 !important;
+    }
+
+    /* Individual tweets - smaller */
+    .nitter-tweet {
+        font-size: 0.85em !important;
+        padding: 12px !important;
+        border-radius: 16px !important;
+        min-height: 200px !important;
+        max-height: 400px !important;
+    }
+
+    /* Expanded tweet - 2 columns wide */
+    .nitter-tweet.expanded {
+        grid-column: span 2 !important;
+        max-height: 600px !important;
+        font-size: 0.95em !important;
+    }
+
+    /* Tweet content adjustments */
+    .nitter-tweet .tweet-header {
+        font-size: 0.9em !important;
+    }
+
+    .nitter-tweet .tweet-text {
+        font-size: 0.95em !important;
+        line-height: 1.3 !important;
+    }
+
+    .nitter-tweet img,
+    .nitter-tweet video {
+        max-height: 200px !important;
+    }
+
+    .nitter-tweet.expanded img,
+    .nitter-tweet.expanded video {
+        max-height: 350px !important;
+    }
+
+    /* Buttons - full width and larger touch targets */
+    .fetch-more-btn {
+        width: 100% !important;
+        padding: 18px 30px !important;
+        font-size: 1.1em !important;
+        justify-content: center !important;
+    }
+
+    /* Modal adjustments */
+    .modal-content {
+        width: 95% !important;
+        max-width: 95% !important;
+        margin: 10% auto !important;
+        padding: 15px !important;
+    }
+
+    .modal-image {
+        max-width: 100% !important;
+        max-height: 70vh !important;
+    }
+
+    /* Hide hover effects on mobile (no mouse) */
+    .nitter-tweet:hover {
+        transform: none !important;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7),
+                    0 8px 3px -3px var(--edge-color, rgba(58, 123, 200, 0.5)) !important;
+    }
+
+    /* Touch-friendly spacing */
+    .modern-checkbox {
+        padding: 12px 16px !important;
+        min-height: 44px !important;
+    }
+
+    .modern-checkbox input[type="checkbox"] {
+        width: 24px !important;
+        height: 24px !important;
+    }
+
+    /* Section titles */
+    .section-title {
+        font-size: 1.1em !important;
+    }
+
+    .filter-section h3 {
+        font-size: 1.1em !important;
+    }
+
+    /* Loading bar */
+    .loading-bar-container {
+        margin-bottom: 12px !important;
+    }
+
+    /* Account feed spacing */
+    .nitter-account-feed {
+        margin: 20px 0 !important;
+    }
+
+    /* Ensure carousel buttons are touch-friendly */
+    .carousel-btn {
+        width: 44px !important;
+        height: 44px !important;
+        font-size: 1.2em !important;
+    }
+
+    /* Adjust anime selection settings */
+    .anime-settings-row {
+        padding-bottom: 10px !important;
+    }
+
+    .settings-checkbox {
+        padding: 12px 20px !important;
+        min-height: 44px !important;
+    }
+
+    /* Source checkboxes touch-friendly */
+    .source-checkbox {
+        padding: 10px 12px !important;
+        min-height: 44px !important;
+    }
+
+    /* Main anime checkboxes */
+    .anime-main-checkbox {
+        padding: 12px 16px !important;
+        min-height: 48px !important;
+    }
+
+    /* Toggle button larger */
+    .toggle-btn {
+        min-height: 48px !important;
+    }
+}
+
+/* Extra small phones (portrait) */
+@media (max-width: 480px) {
+    /* Even smaller header */
+    body::before {
+        height: 70px !important;
+    }
+
+    .paper {
+        margin-top: 70px !important;
+        padding: 10px !important;
+    }
+
+    /* Tiny logos */
+    .logo-top-left {
+        width: 50px !important;
+        height: 50px !important;
+        top: 8px !important;
+        left: 8px !important;
+    }
+
+    .logo-top-left #canvas {
+        width: 50px !important;
+        height: 50px !important;
+    }
+
+    .logo-bottom-right {
+        top: 8px !important;
+        right: 8px !important;
+    }
+
+    .logo-bottom-right p {
+        font-size: 0.6em !important;
+    }
+
+    .logo-bottom-right img {
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    /* Smaller tweet grid gap */
+    .nitter-tweet-grid {
+        gap: 10px !important;
+    }
+
+    /* Tweets even smaller */
+    .nitter-tweet {
+        font-size: 0.8em !important;
+        padding: 10px !important;
+        min-height: 180px !important;
+    }
+
+    .nitter-tweet.expanded {
+        font-size: 0.9em !important;
+    }
+
+    /* Smaller buttons */
+    .modern-btn {
+        padding: 12px 16px !important;
+        font-size: 0.95em !important;
+    }
+
+    .fetch-more-btn {
+        padding: 16px 24px !important;
+        font-size: 1em !important;
+    }
+}
+
+/* ========================================
+   FLOATING OVERLAY (always-on-top CTA layer)
+   Sits above the main layout but below modals (modals use z-index: 1000000)
+   ======================================== */
+.floating-overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    pointer-events: none; /* allow clicks to pass through except on children */
+    z-index: 5000; /* above paper (z-index:50) and most UI, but below modals */
+}
+
+.floating-overlay .logo-bottom-right.floating {
+    pointer-events: auto; /* re-enable pointer events for the CTA */
+    position: fixed !important;
+    top: 20px !important;
+    right: 20px !important;
+    z-index: 5001 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 8px !important;
+}
+
+/* Ensure the floating CTA adapts for mobile sizes */
+@media (max-width: 768px) {
+    .floating-overlay .logo-bottom-right.floating {
+        top: 10px !important;
+        right: 10px !important;
+    }
+    .floating-overlay .logo-bottom-right.floating img {
+        width: 50px !important;
+        height: 50px !important;
+    }
+    .floating-overlay .logo-bottom-right.floating p {
+        font-size: 0.7em !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .floating-overlay .logo-bottom-right.floating {
+        top: 8px !important;
+        right: 8px !important;
+    }
+    .floating-overlay .logo-bottom-right.floating img {
+        width: 40px !important;
+        height: 40px !important;
+    }
+    .floating-overlay .logo-bottom-right.floating p {
+        font-size: 0.6em !important;
+    }
 }

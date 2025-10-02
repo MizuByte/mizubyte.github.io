@@ -113,22 +113,100 @@
     
     <center><div class="paper">
         <header>
+            <div class="loading-bar-container">
+                <div class="loading-bar" id="loading-bar"></div>
+            </div>
             <div class="filters">
-                <div class="filter-section">
-                    <h3>Select Anime:</h3>
+                <div class="filter-section anime-filter-section">
+                    <button id="toggle-anime-selection" class="modern-btn toggle-btn">
+                        <span class="btn-text">Select Anime</span>
+                        <svg class="btn-icon toggle-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="6 9 12 15 18 9"></polyline>
+                        </svg>
+                    </button>
                     <div class="anime-selection" id="anime-selection">
-                        <label><input type="checkbox" value="one-piece"> One Piece</label>
-                        <label><input type="checkbox" value="boruto"> Boruto</label>
-                        <label><input type="checkbox" value="black-clover"> Black Clover</label>
+                        <!-- Settings Row -->
+                        <div class="anime-settings-row">
+                            <label class="modern-checkbox settings-checkbox">
+                                <input type="checkbox" id="detailed-mode">
+                                <span class="checkbox-label">Detailed Mode</span>
+                            </label>
+                        </div>
+                        
+                        <!-- Anime Grid -->
+                        <div class="anime-grid">
+                            <!-- One Piece Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="one-piece">
+                                        <span class="checkbox-label">One Piece</span>
+                                    </label>
+                                </div>
+                                <div id="one-piece-sources" class="anime-sources">
+                                    <label class="modern-checkbox source-checkbox">
+                                        <input type="checkbox" value="pewpiece">
+                                        <span class="checkbox-label">Alpha</span>
+                                    </label>
+                                    <label class="modern-checkbox source-checkbox">
+                                        <input type="checkbox" value="WorstGenHQ">
+                                        <span class="checkbox-label">Beta</span>
+                                    </label>
+                                    <label class="modern-checkbox source-checkbox">
+                                        <input type="checkbox" value="Mugiwara_23">
+                                        <span class="checkbox-label">Gamma</span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Boruto Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="boruto">
+                                        <span class="checkbox-label">Boruto</span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Black Clover Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="black-clover">
+                                        <span class="checkbox-label">Black Clover</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="filter-section">
-                    <h3>Filter:</h3>
+                    <h3 class="section-title">Content Type:</h3>
                     <div class="filter-options">
-                        <button class="filter-btn active" data-filter="all">All</button>
-                        <button class="filter-btn" data-filter="spoilers">Spoilers Only</button>
-                        <button class="filter-btn" data-filter="no-spoilers">No Spoilers</button>
-                        <button id="fetch-btn" class="fetch-btn">Fetch News</button>
+                        <label class="content-type-option modern-radio">
+                            <input type="radio" name="content-type" value="misc" checked>
+                            <span class="radio-custom"></span>
+                            <span class="radio-label">Misc News</span>
+                        </label>
+                        <label class="content-type-option modern-radio">
+                            <input type="radio" name="content-type" value="spoilers">
+                            <span class="radio-custom"></span>
+                            <span class="radio-label">Spoilers</span>
+                        </label>
+                        <button id="fetch-btn" class="modern-btn fetch-btn">
+                            <svg class="btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polyline points="23 4 23 10 17 10"></polyline>
+                                <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+                            </svg>
+                            <span class="btn-text">Refresh</span>
+                        </button>
+                        <button id="reload-btn" class="modern-btn reload-btn">
+                            <svg class="btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"></path>
+                            </svg>
+                            <span class="btn-text">Reload</span>
+                        </button>
                     </div>
                 </div>
             </div>
@@ -139,8 +217,13 @@
                     <div class="nitter-tweet-grid" id="news-grid">
                     <!-- News items will be loaded here -->
                     </div>
-                    <div style="text-align:center;margin-top:12px;">
-                        <button id="more-btn" class="fetch-more-btn">More</button>
+                    <div style="text-align:center;margin-top:20px;margin-bottom:20px;">
+                        <button id="more-btn" class="fetch-more-btn">
+                            <span class="more-btn-text">Load More</span>
+                            <svg class="more-btn-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="6 9 12 15 18 9"></polyline>
+                            </svg>
+                        </button>
                     </div>
                 </center>
             </div>
@@ -158,10 +241,7 @@
                  data-ad-slot="your-ad-slot"
                  data-ad-format="auto"></ins>
         </div>
-        <div class="logo-bottom-right">
-            <p>Text above logo</p>
-            <img src="images/logo_placeholder.png" alt="Logo">
-        </div>
+        <!-- Logo moved to floating overlay to ensure visibility on mobile and above layout layers -->
     </div>
 
     <!-- The Modal -->
@@ -179,5 +259,14 @@
         </div>
     <script src="js/main.js"></script>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- Floating overlay for always-on-top clickable CTA (Discord logo) -->
+        <div id="floating-overlay" class="floating-overlay" aria-hidden="false">
+            <div class="logo-bottom-right floating">
+                <a href="http://discord.gg/djw2TUQWnt" target="_blank" rel="noopener noreferrer" class="discord-link" tabindex="0">
+                    <p>Join the Discord!</p>
+                    <img src="images/logo_placeholder.png" alt="Logo">
+                </a>
+            </div>
+        </div>
 </body>
 </html>

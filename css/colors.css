@@ -1,40 +1,99 @@
-/* Centralized color variables for the entire site */
+/* PEAK DESIGN DARK MODE - Ultra-refined color palette */
 :root {
-    --color-bg-main: #0a0a0a;
-    --color-text-main: #ffffff;
-    --color-bg-paper: #1e1e1e;
-    --color-text-paper: #e0e0e0;
-    --color-border: #444444;
-    --color-btn-bg: #2E7D32;
-    --color-btn-bg-hover: #388E3C;
-    --color-anime-selected-bg: #2E7D32;
-    --color-anime-selected-text: #ffffff;
-    --color-ad-bg: #0f0f0f;
-    --color-tweet-bg: #222222;
-    --color-tweet-text: #eeeeee;
-    --color-tweet-date: #aaaaaa;
-    --color-modal-bg: rgba(0,0,0,0.9);
-    --color-modal-img-btn: #0d6efd;
-    --color-modal-img-btn-hover: #0056b3;
-    --color-modal-content-bg: #0f0f0f;
-    --color-modal-content-text: #e0e0e0;
-    --color-modal-close: #aaa;
-    --color-modal-close-hover: #666;
-    --color-btn-outline: #fff;
-    --color-shadow: rgba(0,0,0,0.7);
-    --color-shadow-modal: rgba(0,0,0,0.9);
-    --color-shadow-btn: rgba(0,0,0,0.8);
-    --color-border-modal: #888;
-    --color-btn-expand: #0d6efd;
-    --color-btn-expand-hover: #0056b3;
-    --color-logo-border: #444444;
-    --color-logo-shadow: #444444;
+    /* Pure Black Foundations - True OLED-friendly blacks */
+    --color-bg-main: #000000;
+    --color-bg-paper: #0a0a0a;
+    --color-ad-bg: #000000;
+    --color-side-bg: #000000;
     --color-logo-bg: transparent;
-    --color-logo-img-bg: #0f0f0f;
-    --color-logo-img-bg2: #1a1a1a;
-    --color-fetch-btn: #2196F3;
-    --color-fetch-btn-hover: #1976D2;
-    --color-btn-overlay-bg: rgba(0, 0, 0, 0.7);
-    --color-btn-overlay-bg-hover: rgba(0, 0, 0, 0.9);
-    --color-side-bg: #0f0f0f;
+    
+    /* Rich Dark Surfaces - Subtle elevation */
+    --color-tweet-bg: #0f0f0f;
+    --color-modal-content-bg: #050505;
+    --color-logo-img-bg: #000000;
+    --color-logo-img-bg2: #0a0a0a;
+    
+    /* Crisp White Text - Maximum readability */
+    --color-text-main: #f5f5f5;
+    --color-text-paper: #e0e0e0;
+    --color-tweet-text: #ebebeb;
+    --color-anime-selected-text: #ffffff;
+    --color-modal-content-text: #e0e0e0;
+    --color-btn-outline: #f5f5f5;
+    
+    /* Sophisticated Grays - Refined hierarchy */
+    --color-tweet-date: #888888;
+    --color-modal-close: #999999;
+    --color-modal-close-hover: #666666;
+    
+    /* Premium Blue Accents - Vibrant yet refined */
+    --color-btn-bg: #0a4da3;
+    --color-btn-bg-hover: #1565c0;
+    --color-anime-selected-bg: #0a4da3;
+    --color-modal-img-btn: #1976D2;
+    --color-modal-img-btn-hover: #0a4da3;
+    --color-btn-expand: #1976D2;
+    --color-btn-expand-hover: #0a4da3;
+    --color-fetch-btn: #1976D2;
+    --color-fetch-btn-hover: #0a4da3;
+    
+    /* Elegant Borders - Subtle definition */
+    --color-border: #1a1a1a;
+    --color-border-modal: #2a2a2a;
+    --color-logo-border: #2a2a2a;
+    --color-logo-shadow: #1a1a1a;
+    
+    /* Deep Shadows - Dramatic depth */
+    --color-shadow: rgba(0,0,0,0.95);
+    --color-shadow-modal: rgba(0,0,0,0.98);
+    --color-shadow-btn: rgba(0,0,0,0.95);
+    
+    /* Overlays - Rich transparency */
+    --color-modal-bg: rgba(0,0,0,0.97);
+    --color-btn-overlay-bg: rgba(0, 0, 0, 0.92);
+    --color-btn-overlay-bg-hover: rgba(0, 0, 0, 0.98);
+}
+
+/* ===================================
+   PEAK DESIGN DEPTH SYSTEM - 4 LEVELS
+   Dramatic elevation with refined shadows
+   =================================== */
+
+/* DEPTH 0: Flush with background (no elevation) */
+.depth-0 {
+    box-shadow: none;
+    border: none;
+}
+
+/* DEPTH 1: Subtle raise (whisper-light elevation) */
+.depth-1 {
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.7),
+                0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* DEPTH 2: Moderate raise (clear elevation) */
+.depth-2 {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.9);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.8),
+                0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+/* DEPTH 3: High raise (strong elevation) */
+.depth-3 {
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.95);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.85),
+                0 3px 6px rgba(0, 0, 0, 0.7);
+}
+
+/* DEPTH 4: Floating (maximum elevation) */
+.depth-4 {
+    border-top: 2px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 4px solid rgba(0, 0, 0, 1);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.9),
+                0 6px 12px rgba(0, 0, 0, 0.8),
+                0 2px 4px rgba(0, 0, 0, 0.6);
 }
