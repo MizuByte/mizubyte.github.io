@@ -191,8 +191,9 @@
     // Map anime to Nitter usernames
     const animeNitterHandles = {
         'one-piece': ['pewpiece', 'WorstGenHQ', 'Mugiwara_23'],
-        'boruto': [''],
-        'black-clover': ['']
+        'boruto': ['SchmurfiV1'],
+        'black-clover': ['PacemanOP'],
+        'berserk': ['daily_berserk']
     };
 
     async function fetchNitterTweets(username, count = 9, cursor = '') {
@@ -282,7 +283,10 @@
         const handleToIndicator = {
             'pewpiece': 'One Piece α',
             'WorstGenHQ': 'One Piece β',
-            'Mugiwara_23': 'One Piece γ'
+            'Mugiwara_23': 'One Piece γ',
+            'daily_berserk': 'Berserk',
+            'SchmurfiV1': 'Boruto',
+            'PacemanOP': 'Black Clover'
         };
 
         if (savedSelections.length === 0) {
@@ -455,6 +459,8 @@
                 animeSource = 'boruto';
             } else if (t.handle === 'BlackClover_EN') {
                 animeSource = 'blackclover';
+            } else if (t.handle === 'daily_berserk') {
+                animeSource = 'berserk';
             }
             
             tweetGrid += `<div class="${tweetClass}" data-index="${i}" data-anime="${animeSource}" data-subsource="${subSource}">${imagesHtml}${contentHtml}<div class="nitter-tweet-date-row" style="text-align:center;margin-bottom:3px;font-size:1em;color:#0d6efd;">${localTime}</div><div class="source-indicator">${indicator}</div><button class="source-btn" onclick="window.open('https://nitter.net${t.url}')">Source</button><button class="translate-btn" onclick="translateText(this, decodeURIComponent('${encodeURIComponent(t.content)}'))">Translate</button></div>`;
@@ -812,7 +818,7 @@
                     const handle = handles[i];
                     const { tweets, nextCursor, error } = await fetchNitterTweets(handle, 20, '');
                     if (!error && tweets && tweets.length > 0) {
-                        const nonSpoilers = tweets.filter(t => !/spoil/i.test(t.content));
+                        const nonSpoilers = tweets.filter(t => !detectSpoiler(t.content, undefined));
                         const newOnes = nonSpoilers.filter(t => {
                             const key = (t.content || '') + '||' + (t.date || '');
                             return !existingKeys.has(key);
@@ -957,7 +963,7 @@
                             // Update cursor für nächste Iteration
                             window.cursors[handle] = nextCursor || '';
                             
-                            const spoilers = tweets.filter(t => /spoil/i.test(t.content));
+                            const spoilers = tweets.filter(t => detectSpoiler(t.content, undefined));
                             console.log(`Found ${spoilers.length} spoilers from ${handle} in this batch`);
                             moreSpoilers = moreSpoilers.concat(spoilers);
                             
@@ -1019,15 +1025,45 @@
         });
     }
 
-    function isSpoiler(tweet) {
-        return tweet.content.toLowerCase().includes('spoil');
+    /**
+     * Detect spoilers in content.
+     * For the 'berserk' series we match the words CHAPTER ... OUT (case-insensitive).
+     * Otherwise fallback to the simple 'spoil' substring.
+     * @param {string} content
+     * @param {string|string[]} anime Optional anime key or selected list to help determine special rules
+     */
+    function detectSpoiler(content, anime) {
+        if (!content || typeof content !== 'string') return false;
+        const text = content.toUpperCase();
+
+        // Normalize anime parameter to a single key if array provided
+        let aKey = '';
+        if (Array.isArray(anime)) {
+            // if multiple selected, prefer 'berserk' if present
+            aKey = anime.find(x => x && x.toLowerCase() === 'berserk') || '';
+        } else if (typeof anime === 'string') {
+            aKey = anime;
+        }
+        aKey = (aKey || '').toLowerCase();
+
+        // Special rule for Berserk: look for "CHAPTER" ... "OUT" pattern
+        if (aKey === 'berserk' || text.includes('BERSERK')) {
+            // Match CHAPTER followed somewhere later by OUT (words, not substrings)
+            const chapterOut = /\bCHAPTER\b[\s\S]{0,120}?\bOUT\b/i; // allow up to ~120 chars between
+            if (chapterOut.test(content)) return true;
+        }
+
+        // Generic fallback: look for 'spoil' substring
+        return /spoil/i.test(content);
     }
 
     function filterTweets(filterType) {
         const tweets = document.querySelectorAll('.nitter-tweet');
         tweets.forEach(tweet => {
             const content = tweet.querySelector('.nitter-content').textContent;
-            const isSpoil = /spoil/i.test(content);
+            // Determine anime context if available on the element
+            const animeAttr = tweet.getAttribute('data-anime') || null;
+            const isSpoil = detectSpoiler(content, animeAttr);
             if (filterType === 'all') {
                 tweet.style.display = 'block';
             } else if (filterType === 'spoilers') {
@@ -1085,7 +1121,17 @@
                 const { tweets, nextCursor, error } = await fetchNitterTweets(handle, 20, '');
                 
                 if (!error && tweets && tweets.length > 0) {
-                    const spoilers = tweets.filter(t => /spoil/i.test(t.content));
+                    // When fetching from handles, we can use the handle's associated anime key
+                    // Try to map handle back to an anime key
+                    const handleLower = (handle || '').toLowerCase();
+                    let handleAnimeKey = '';
+                    for (const key in animeNitterHandles) {
+                        if (animeNitterHandles[key].map(h => h.toLowerCase()).includes(handleLower)) {
+                            handleAnimeKey = key;
+                            break;
+                        }
+                    }
+                    const spoilers = tweets.filter(t => detectSpoiler(t.content, handleAnimeKey));
                     // Only add truly new spoilers
                     const newOnes = spoilers.filter(s => {
                         const key = (s.content || '') + '||' + (s.date || '');
@@ -1167,7 +1213,7 @@
                 }
                 
                 // Filter for spoilers
-                const spoilers = tweets.filter(t => /spoil/i.test(t.content));
+                    const spoilers = tweets.filter(t => detectSpoiler(t.content, undefined));
                 console.log(`Found ${spoilers.length} spoilers from ${handle} (${tweets.length} total tweets)`);
                 allSpoilers = allSpoilers.concat(spoilers);
                 
