@@ -1,0 +1,55 @@
+name: Notify Discord on spoiler changes
+
+on:
+  push:
+    # only run when site files change (adjust paths as needed)
+    paths:
+      - 'cards/**'
+      - 'index.html'
+  # allow manual testing from Actions -> Run workflow
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: changes
+        run: |
+          # On initial commit 'before' is all zeroes
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            CHANGED=$(git ls-files)
+          else
+            CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} || true)
+          fi
+          # export multi-line output
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGED" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Check for spoiler file changes
+        id: check
+        run: |
+          FILES="${{ steps.changes.outputs.files }}"
+          echo "changed files:\n$FILES"
+          if echo "$FILES" | grep -qE 'cards/|card.html|spoiler'; then
+            echo "spoilers=true" >> $GITHUB_OUTPUT
+          else
+            echo "spoilers=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send Discord notification
+        if: ${{ steps.check.outputs.spoilers == 'true' }}
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          FILES: ${{ steps.changes.outputs.files }}
+        run: |
+          # Build a safe JSON payload using jq (installed on ubuntu runners)
+          FILES=${FILES}
+          CONTENT="Neue Spoiler veröffentlicht:\n```\n${FILES}\n```"
+          PAYLOAD=$(jq -n --arg s "$CONTENT" '{content: $s}')
+          curl -s -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK" >/dev/null
