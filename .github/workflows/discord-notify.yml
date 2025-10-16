@@ -1,56 +1,46 @@
-name: Notify Discord on spoiler changes
+name: Monitor live site and notify Discord
 
 on:
-  push:
-    # only run when site files change (adjust paths as needed)
-    # Trigger only when the published site changes
-    paths:
-      - 'index.html'
-  # allow manual testing from Actions -> Run workflow
+  schedule:
+    - cron: '*/3 * * * *' # every 15 minutes
   workflow_dispatch:
 
 jobs:
-  notify:
+  monitor:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Get changed files
-        id: changes
-        run: |
-          # On initial commit 'before' is all zeroes
-          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
-            CHANGED=$(git ls-files)
-          else
-            CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} || true)
-          fi
-          # export multi-line output
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          echo "$CHANGED" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-      - name: Check for published-site changes
-        id: check
-        run: |
-          FILES="${{ steps.changes.outputs.files }}"
-          echo "changed files:\n$FILES"
-          # Only notify when index.html changed (i.e. site was updated/published)
-          if echo "$FILES" | grep -q "index.html"; then
-            echo "spoilers=true" >> $GITHUB_OUTPUT
-          else
-            echo "spoilers=false" >> $GITHUB_OUTPUT
-          fi
+      - name: Install monitor dependencies
+        working-directory: tools/monitor-spoilers
+        run: npm ci
 
-      - name: Send Discord notification
-        if: ${{ steps.check.outputs.spoilers == 'true' }}
+      - name: Run monitor (scrape live site and notify Discord)
+        working-directory: tools/monitor-spoilers
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          FILES: ${{ steps.changes.outputs.files }}
         run: |
-          # Build a safe JSON payload using jq (installed on ubuntu runners)
-          FILES=${FILES}
-          CONTENT="Neue Spoiler veröffentlicht:\n```\n${FILES}\n```"
-          PAYLOAD=$(jq -n --arg s "$CONTENT" '{content: $s}')
-          curl -s -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK" >/dev/null
+          echo "Running monitor..."
+          node monitor.js --once
+
+      - name: Commit updated seen.json (if any)
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tools/monitor-spoilers/seen.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(monitor): update seen.json by GitHub Actions"
+            git push origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
