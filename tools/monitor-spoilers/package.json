@@ -1,0 +1,13 @@
+{
+  "name": "monitor-spoilers",
+  "version": "0.1.0",
+  "description": "Monitor a site for new spoilers and notify Discord via webhook",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "node-fetch": "^3.4.1"
+  }
+}

@@ -3,8 +3,8 @@ name: Notify Discord on spoiler changes
 on:
   push:
     # only run when site files change (adjust paths as needed)
+    # Trigger only when the published site changes
     paths:
-      - 'cards/**'
       - 'index.html'
   # allow manual testing from Actions -> Run workflow
   workflow_dispatch:
@@ -31,12 +31,13 @@ jobs:
           echo "$CHANGED" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Check for spoiler file changes
+      - name: Check for published-site changes
         id: check
         run: |
           FILES="${{ steps.changes.outputs.files }}"
           echo "changed files:\n$FILES"
-          if echo "$FILES" | grep -qE 'cards/|card.html|spoiler'; then
+          # Only notify when index.html changed (i.e. site was updated/published)
+          if echo "$FILES" | grep -q "index.html"; then
             echo "spoilers=true" >> $GITHUB_OUTPUT
           else
             echo "spoilers=false" >> $GITHUB_OUTPUT
