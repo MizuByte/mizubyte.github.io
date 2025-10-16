@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost:8000/index.html",
+  "selector": ".spoiler-item",
+  "idAttr": "data-id",
+  "pollIntervalMinutes": 10,
+  "discordWebhook": ""
+}
