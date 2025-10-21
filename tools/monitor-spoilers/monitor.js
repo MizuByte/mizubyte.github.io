@@ -87,6 +87,7 @@ async function scrapeOnce() {
   const browser = await puppeteer.launch({ args: ['--no-sandbox','--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+  await page.waitForSelector(selector, { timeout: 30000 });
 
   // Evaluate page and extract items including anime key from data attributes
   const items = await page.$$eval(selector, (nodes, idAttr) => {

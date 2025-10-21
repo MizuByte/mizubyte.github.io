@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost:8000/index.html",
-  "selector": ".spoiler-item",
-  "idAttr": "data-id",
+  "url": "https://mizubyte.github.io/",
+  "selector": ".nitter-tweet",
+  "idAttr": "data-anime",
   "pollIntervalMinutes": 10,
   "discordWebhook": ""
 }
