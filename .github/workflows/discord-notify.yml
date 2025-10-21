@@ -22,7 +22,7 @@ jobs:
 
       - name: Install monitor dependencies
         working-directory: tools/monitor-spoilers
-        run: npm ci
+        run: npm install
 
       - name: Run monitor (scrape live site and notify Discord)
         working-directory: tools/monitor-spoilers
