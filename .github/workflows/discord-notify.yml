@@ -20,6 +20,22 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Create monitor config.json from example
+        working-directory: tools/monitor-spoilers
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          echo "Creating config.json from config.example.json"
+          cp config.example.json config.json
+          # Replace discordWebhook value using Python to avoid brittle shell parsing
+          python3 - <<'PY'
+import json, os
+path = 'config.json'
+data = json.load(open(path))
+data['discordWebhook'] = os.environ.get('DISCORD_WEBHOOK', '')
+json.dump(data, open(path, 'w'), indent=2)
+PY
+
       - name: Install monitor dependencies
         working-directory: tools/monitor-spoilers
         run: npm install
