@@ -27,14 +27,8 @@ jobs:
         run: |
           echo "Creating config.json from config.example.json"
           cp config.example.json config.json
-          # Replace discordWebhook value using Python to avoid brittle shell parsing
-          python3 - <<'PY'
-import json, os
-path = 'config.json'
-data = json.load(open(path))
-data['discordWebhook'] = os.environ.get('DISCORD_WEBHOOK', '')
-json.dump(data, open(path, 'w'), indent=2)
-PY
+          # Set discordWebhook value using node (setup-node is available)
+          node -e "const fs=require('fs'); const p='config.json'; const d=JSON.parse(fs.readFileSync(p)); d.discordWebhook=process.env.DISCORD_WEBHOOK||''; fs.writeFileSync(p, JSON.stringify(d, null, 2));"
 
       - name: Install monitor dependencies
         working-directory: tools/monitor-spoilers
