@@ -87,7 +87,41 @@ async function scrapeOnce() {
   const browser = await puppeteer.launch({ args: ['--no-sandbox','--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
-  await page.waitForSelector(selector, { timeout: 30000 });
+
+  // Ensure the front-end has selections so it actually loads tweets.
+  // By default the site requires a non-empty `selectedAnime` localStorage key
+  // before it fetches tweets. Allow overriding via config.json (defaultSelections).
+  const defaultSelections = cfg.defaultSelections || ['one-piece','boruto','black-clover','berserk'];
+  const defaultContentType = cfg.contentType || 'spoilers';
+  try {
+    await page.evaluate((sel, ct) => {
+      try {
+        localStorage.setItem('selectedAnime', JSON.stringify(sel));
+        localStorage.setItem('contentType', ct);
+      } catch (e) {
+        // ignore
+      }
+    }, defaultSelections, defaultContentType);
+    // reload so the front-end reads the selection during startup
+    await page.reload({ waitUntil: 'networkidle2', timeout: 60000 });
+  } catch (e) {
+    console.warn('Warning: failed to set localStorage/default selections in page', e && e.message);
+  }
+
+  // Wait longer for the tweet elements to appear (client-side fetch may take longer)
+  try {
+    await page.waitForSelector(selector, { timeout: 60000 });
+  } catch (e) {
+    // Dump a short snapshot of the page to aid debugging
+    try {
+      const html = await page.content();
+      console.error('Timeout waiting for selector. Page snapshot length:', html.length);
+    } catch (inner) {
+      console.error('Failed to get page content after timeout:', inner && inner.message);
+    }
+    await browser.close();
+    throw e;
+  }
 
   // Evaluate page and extract items including anime key from data attributes
   const items = await page.$$eval(selector, (nodes, idAttr) => {
