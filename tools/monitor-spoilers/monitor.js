@@ -1,4 +1,29 @@
 #!/usr/bin/env node
+
+// Polyfill minimal `File` global for environments where it's not available
+// (some versions of `undici`/fetch expect a `File` constructor to exist).
+// This keeps CI runners (GitHub Actions) from failing with `ReferenceError: File is not defined`.
+if (typeof globalThis.File === 'undefined') {
+  globalThis.File = class File {
+    constructor(parts = [], name = '', options = {}) {
+      this._parts = parts;
+      this.name = String(name || '');
+      this.type = String((options && options.type) || '');
+      this.lastModified = Number((options && options.lastModified) || Date.now());
+      // size is not strictly required by our codepaths; provide a best-effort estimate
+      try {
+        this.size = parts.reduce((acc, p) => acc + (p && typeof p.length === 'number' ? p.length : 0), 0);
+      } catch (e) {
+        this.size = 0;
+      }
+    }
+    // minimal stream/iterable compatibility
+    async text() {
+      return this._parts.map(p => (typeof p === 'string' ? p : '')).join('');
+    }
+  };
+}
+
 const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
