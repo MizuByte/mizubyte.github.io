@@ -695,8 +695,9 @@ async function fetchHandleTweets(handle, {
           continue;
         }
       }
-
-      if (!parsed) break;
+      // NOTE: do NOT break here — if cache-bust failed we should still attempt
+      // the browser fallback below (Puppeteer) when enabled. Previously the
+      // early `break` prevented the browser fallback from running.
     }
 
     // If still not parsed and browser fallback requested, try a real browser context
