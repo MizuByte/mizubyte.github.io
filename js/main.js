@@ -40,6 +40,7 @@
     let modalTranslateY = 0;
 
     window.openImageModal = function(src, imagesArr) {
+        if (!imageModal || !modalImage) return;
         if (Array.isArray(imagesArr) && imagesArr.length > 1) {
             modalImages = imagesArr;
             modalCurrentIdx = imagesArr.indexOf(src);
@@ -47,7 +48,7 @@
             modalImages = [src];
             modalCurrentIdx = 0;
         }
-        modalImage.src = modalImages[modalCurrentIdx];
+        modalImage.src = modalImages[modalCurrentIdx] || '';
         imageModal.style.display = 'flex';
         // Reset zoom and pan
         modalScale = 1;
@@ -72,13 +73,28 @@
     // Zoom and pan event listeners
     // Zoom and pan event listeners (wheel zoom + drag pan + double-click reset)
     (function bindModalInteractions() {
+        if (!modalImage) return;
         let isDragging = false;
         let dragStartX = 0, dragStartY = 0;
         let dragImgX = 0, dragImgY = 0;
 
+        // If an image never loads (blocked/hotlink/CORS), avoid follow-on logic elsewhere.
+        modalImage.addEventListener('error', () => {
+            try {
+                modalImage.src = '';
+            } catch (e) {
+                // ignore
+            }
+        });
+
         modalImage.addEventListener('wheel', (e) => {
             e.preventDefault();
+            // Avoid wheel-zoom math on a not-yet-laid-out image.
+            const w = modalImage.naturalWidth || 0;
+            const h = modalImage.naturalHeight || 0;
+            if (w === 0 || h === 0) return;
             const rect = modalImage.getBoundingClientRect();
+            if (!rect || rect.width === 0 || rect.height === 0) return;
             const mouseX = e.clientX - rect.left;
             const mouseY = e.clientY - rect.top;
             const zoomFactor = e.deltaY > 0 ? 0.9 : 1.1;
@@ -196,69 +212,147 @@
         'berserk': ['daily_berserk']
     };
 
+    // Nitter in-browser fetching is fragile: instances/proxies regularly go down.
+    // Use fallbacks and keep failures non-fatal.
+    const NITTER_BASE_URLS = [
+        'https://nitter.net',
+        'https://nitter.poast.org',
+        'https://nitter.privacydev.net',
+        'https://nitter.fdn.fr'
+    ];
+
+    // CORS proxies are also unreliable. Try a small set.
+    // Note: some proxies require special URL formats; only include ones you know work.
+    const CORS_PROXIES = [
+        (url) => `https://corsproxy.io/?${url}`
+    ];
+
+    // Prevent console spam for repeating network failures.
+    const __onceLogs = new Set();
+    function logOnce(key, level, ...args) {
+        if (__onceLogs.has(key)) return;
+        __onceLogs.add(key);
+        const fn = console[level] || console.log;
+        fn.apply(console, args);
+    }
+
+    function buildNitterUrl(baseUrl, username, cursor) {
+        const base = (baseUrl || '').replace(/\/$/, '');
+        const qs = cursor
+            ? `?cursor=${encodeURIComponent(cursor)}&t=${Date.now()}`
+            : `?t=${Date.now()}`;
+        return `${base}/${username}${qs}`;
+    }
+
+    function looksLikeNitterTimelineHtml(html) {
+        const lowered = (html || '').toLowerCase();
+        const looksBlocked =
+            lowered.includes('cloudflare') ||
+            lowered.includes('attention required') ||
+            lowered.includes('captcha') ||
+            lowered.includes('access denied');
+        const looksTimeline = lowered.includes('timeline-item') || lowered.includes('timeline');
+        return !looksBlocked && looksTimeline;
+    }
+
+    async function tryFetchText(url) {
+        const resp = await fetch(url, { cache: 'no-store' });
+        if (!resp.ok) {
+            return { ok: false, status: resp.status, text: '' };
+        }
+        const text = await resp.text();
+        return { ok: true, status: resp.status, text };
+    }
+
     async function fetchNitterTweets(username, count = 9, cursor = '') {
-        const proxyUrl = 'https://corsproxy.io/?';
-        const nitterUrl = `https://nitter.net/${username}${cursor ? '?cursor=' + encodeURIComponent(cursor) + '&t=' + Date.now() : '?t=' + Date.now()}`;
-        console.log('Nitter URL:', nitterUrl);
         try {
-            const response = await fetch(proxyUrl + nitterUrl);
-            const html = await response.text();
-            console.log('HTML length:', html.length);
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-            
-            // Filter out reposts/retweets completely
-            const allTimelineItems = Array.from(doc.querySelectorAll('.timeline-item'));
-            
-            const tweets = allTimelineItems
-                .filter(tweet => {
-                    // Check for ACTUAL retweet indicators (not the retweet button UI)
-                    // Reposts have a retweet-header div at the top showing who retweeted it
-                    const hasRetweetHeader = tweet.querySelector('.retweet-header');
-                    
-                    // Some reposts might have a special class on the timeline-item
-                    const isRetweet = tweet.classList.contains('retweet');
-                    
-                    // Skip if content starts with "RT @" (classic retweet text pattern)
-                    const content = tweet.querySelector('.tweet-content')?.innerText || '';
-                    const startsWithRT = content.trim().startsWith('RT @');
-                    
-                    // Skip if it's a repost
-                    if (hasRetweetHeader || isRetweet || startsWithRT) {
-                        return false;
+            let lastError = '';
+            for (const baseUrl of NITTER_BASE_URLS) {
+                const nitterUrl = buildNitterUrl(baseUrl, username, cursor);
+                console.log('Nitter URL:', nitterUrl);
+
+                // 1) Best-effort direct fetch (works for users with permissive CORS via extensions or same-origin)
+                // Usually blocked by CORS, so we fall through.
+                try {
+                    const direct = await tryFetchText(nitterUrl);
+                    if (direct.ok && looksLikeNitterTimelineHtml(direct.text)) {
+                        const html = direct.text;
+                        console.log('HTML length:', html.length);
+                        return parseNitterTimelineHtml(username, html, count);
                     }
-                    
-                    return true;
-                })
-                .slice(0, count);
-            
-            console.log('Found tweets (excluding reposts):', tweets.length, 'out of', allTimelineItems.length);
-            const tweetData = tweets.map(tweet => {
-                const content = tweet.querySelector('.tweet-content')?.innerText || '';
-                const date = tweet.querySelector('span.tweet-date a')?.innerText || '';
-                // Get images (try .still-image, .attachment.image, src and data-src)
-                // Try broader selector for images
-                let imageNodes = tweet.querySelectorAll('.attachments img, .attachments .still-image, .attachments .attachment.image');
-                let images = Array.from(imageNodes)
-                    .map(img => {
-                        let src = img.getAttribute('src') || img.getAttribute('data-src');
-                        return src;
-                    })
-                    .filter(src => src && src !== 'null');
-                return { content, date, images, url: tweet.querySelector('.tweet-date a')?.getAttribute('href') || '', handle: username };
-            });
-            const showMore = doc.querySelector('.show-more a');
-            let nextCursor = '';
-            if (showMore) {
-                const href = showMore.getAttribute('href');
-                const match = href.match(/cursor=([^&]*)/);
-                if (match) nextCursor = decodeURIComponent(match[1]);
+                    if (!direct.ok) {
+                        lastError = `HTTP_${direct.status}`;
+                    }
+                } catch (e) {
+                    // ignore: likely CORS
+                }
+
+                // 2) Proxy fetch fallback
+                for (const proxyFn of CORS_PROXIES) {
+                    const proxiedUrl = proxyFn(nitterUrl);
+                    const res = await tryFetchText(proxiedUrl);
+                    if (!res.ok) {
+                        lastError = `HTTP_${res.status}`;
+                        logOnce(`nitter_http_${res.status}`, 'warn', `Nitter/proxy fetch failing (first seen): HTTP ${res.status}`);
+                        continue;
+                    }
+                    if (!looksLikeNitterTimelineHtml(res.text)) {
+                        lastError = 'BLOCKED_OR_BAD_HTML';
+                        logOnce('nitter_bad_html', 'warn', 'Nitter response blocked/unexpected (first seen). Tweets will be empty until it recovers.');
+                        continue;
+                    }
+                    console.log('HTML length:', res.text.length);
+                    return parseNitterTimelineHtml(username, res.text, count);
+                }
             }
-            return { tweets: tweetData, nextCursor };
+
+            return { tweets: [], nextCursor: '', error: lastError || 'FETCH_FAILED' };
+
         } catch (err) {
             console.error('Fetch error:', err);
             return { tweets: [], nextCursor: '', error: err.message };
         }
+    }
+
+    function parseNitterTimelineHtml(username, html, count) {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+
+        // Filter out reposts/retweets completely
+        const allTimelineItems = Array.from(doc.querySelectorAll('.timeline-item'));
+
+        const tweets = allTimelineItems
+            .filter(tweet => {
+                const hasRetweetHeader = tweet.querySelector('.retweet-header');
+                const isRetweet = tweet.classList.contains('retweet');
+                const content = tweet.querySelector('.tweet-content')?.innerText || '';
+                const startsWithRT = content.trim().startsWith('RT @');
+                return !(hasRetweetHeader || isRetweet || startsWithRT);
+            })
+            .slice(0, count);
+
+        console.log('Found tweets (excluding reposts):', tweets.length, 'out of', allTimelineItems.length);
+
+        const tweetData = tweets.map(tweet => {
+            const content = tweet.querySelector('.tweet-content')?.innerText || '';
+            const date = tweet.querySelector('span.tweet-date a')?.innerText || '';
+            const imageNodes = tweet.querySelectorAll('.attachments img, .attachments .still-image, .attachments .attachment.image');
+            const images = Array.from(imageNodes)
+                .map(img => img.getAttribute('src') || img.getAttribute('data-src'))
+                .filter(src => src && src !== 'null');
+            const url = tweet.querySelector('.tweet-date a')?.getAttribute('href') || '';
+            return { content, date, images, url, handle: username };
+        });
+
+        const showMore = doc.querySelector('.show-more a');
+        let nextCursor = '';
+        if (showMore) {
+            const href = showMore.getAttribute('href');
+            const match = href.match(/cursor=([^&]*)/);
+            if (match) nextCursor = decodeURIComponent(match[1]);
+        }
+
+        return { tweets: tweetData, nextCursor };
     }
 
     function deduplicateTweets(tweets) {
@@ -340,6 +434,8 @@
                 const { tweets, nextCursor, error } = await fetchNitterTweets(handle, perHandle, cursor);
                 if (error) {
                     errors.push(`Error fetching from ${handle}: ${error}`);
+                    // Don't treat network errors as exhaustion.
+                    continue;
                 }
                 if (!tweets || tweets.length === 0) {
                     window.exhausted[handle] = true;
@@ -359,7 +455,26 @@
         }
 
         if (newTweets.length === 0 && errors.length > 0) {
-            newsGrid.innerHTML = '<p style="color: #999; text-align: center;">Failed to load tweets:<br>' + errors.join('<br>') + '</p>';
+            const has520 = errors.some(e => e.includes('HTTP_520'));
+            const hasBadHtml = errors.some(e => e.includes('BLOCKED_OR_BAD_HTML'));
+            let hint = '';
+            if (has520) {
+                hint = 'The CORS proxy/Nitter instance looks down (HTTP 520). This is usually temporary.';
+            } else if (hasBadHtml) {
+                hint = 'Nitter is returning blocked/unexpected HTML (often Cloudflare/captcha).';
+            } else {
+                hint = 'The fetch failed (likely CORS/proxy instability).';
+            }
+
+            newsGrid.innerHTML =
+                '<div style="color:#bbb; text-align:center; line-height:1.5; padding: 16px;">'
+                + '<div style="font-size: 1.05em; margin-bottom: 6px;">Failed to load tweets</div>'
+                + `<div style="color:#888; margin-bottom: 10px;">${hint}</div>`
+                + '<div style="color:#777; font-size: 0.95em;">Try again in a few minutes, or switch to another Nitter mirror.</div>'
+                + '<div style="margin-top:10px; color:#666; font-size: 0.85em; text-align:left; max-width: 720px; margin-left:auto; margin-right:auto;">'
+                + errors.map(e => `• ${e}`).join('<br>')
+                + '</div>'
+                + '</div>';
             if (loadingBar) loadingBar.style.width = '0%';
             return;
         }
@@ -645,7 +760,13 @@
     function updateNitterFeedWrapper() {
         return updateNitterFeed().then(() => {
             setupImageCarousels();
-            filterTweets(currentFilter);
+            // Avoid crashing if a global filter state isn't initialized.
+            if (typeof window.currentFilter === 'undefined') {
+                window.currentFilter = 'all';
+            }
+            if (typeof filterTweets === 'function') {
+                filterTweets(window.currentFilter);
+            }
         });
     }
 
