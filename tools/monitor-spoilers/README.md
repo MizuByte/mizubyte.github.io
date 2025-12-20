@@ -1,13 +1,13 @@
-Spoiler monitor (local)
-=======================
+Spoiler monitor
+===============
 
-This small Node.js tool loads a webpage with a headless browser (Puppeteer), executes the page's JavaScript, finds spoiler elements using a CSS selector, and posts new spoilers to a Discord webhook.
+This Node.js tool monitors Nitter (a Twitter alternative) for anime spoilers. It scrapes tweets from specified handles, detects spoilers based on configurable keywords or image-only posts, and posts notifications to a Discord webhook.
 
 When to use
-- If your site builds spoiler content only client-side (via JS) and you want an automated notifier.
-- Run this locally (or on a server) as a background job / cron / pm2 service.
+- To automatically monitor Twitter accounts for anime leaks/spoilers without using Twitter's API.
+- Runs locally or in GitHub Actions as a scheduled job.
 
-Quick start (macOS)
+Quick start
 1. Install Node.js (>=16) and npm.
 2. From this folder:
 
@@ -15,19 +15,23 @@ Quick start (macOS)
 cd tools/monitor-spoilers
 npm install
 cp config.example.json config.json
-# Edit config.json: set url, selector and (optionally) idAttr
-# Put your Discord webhook URL in the file or set env DISCORD_WEBHOOK
-node monitor.js
+# Edit config.json: set nitterBaseUrls, handles, spoilerKeywords, treatImageOnlyAsSpoiler, etc.
+# Set your Discord webhook URL in the file or as env DISCORD_WEBHOOK
+node monitor.js --once  # for one-time run
+# or node monitor.js  # for continuous monitoring
 ```
 
-Run as a background process (recommended): use pm2 or a launchd plist on macOS.
+Run in GitHub Actions: The included workflow runs this automatically on schedule.
 
 Configuration
-- `url`: the URL to monitor (can be a local server like http://localhost:8000 or a file:// path but Puppeteer may need an http server).
-- `selector`: CSS selector that matches all spoiler items on the page.
-- `idAttr`: (optional) attribute used as unique id (e.g., `data-id`). If omitted the script will use textContent as id.
-- `pollIntervalMinutes`: how often to run when you run in loop mode.
+- `nitterBaseUrls`: Array of Nitter instance URLs to try (fallbacks for reliability).
+- `handles`: Array of Twitter handles to monitor (without @).
+- `spoilerKeywords`: Array of keywords that indicate a spoiler (e.g., "spoil", "leak").
+- `treatImageOnlyAsSpoiler`: Boolean; if true, posts with images but no text are considered spoilers.
+- `pollIntervalMinutes`: How often to check when running in loop mode.
+- `discordWebhookUrl`: Discord webhook URL (or set via env DISCORD_WEBHOOK).
 
 Notes
-- The tool keeps a `seen.json` file with IDs it already notified about. Do not commit secrets; `config.json` is ignored by default.
-- If your site is only accessible in your local browser session, run a local static server (e.g. `npx http-server .`) so Puppeteer can fetch it.
+- The tool keeps a `lastNews.json` file with seen tweet IDs. Do not commit secrets; `config.json` is ignored.
+- Uses direct HTML scraping with cheerio; no browser required.
+- If Nitter instances are blocked, update `nitterBaseUrls` with working mirrors.
