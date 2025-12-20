@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm'
+          # cache disabled to avoid requiring a repo-level lockfile
 
       - name: Create monitor config.json from example
         working-directory: tools/monitor-spoilers
