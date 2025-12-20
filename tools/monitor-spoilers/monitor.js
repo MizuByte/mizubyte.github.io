@@ -155,10 +155,7 @@ function getNitterBaseUrls() {
 
   // Keep a few known mirrors as fallback. These change over time; order matters.
   const defaults = [
-    'https://nitter.net',
-    'https://nitter.poast.org',
-    'https://nitter.privacydev.net',
-    'https://nitter.fdn.fr'
+    'https://nitter.net'
   ];
 
   return uniqueStrings([...fromEnv, ...fromCfgList, ...fromCfgSingle, ...defaults]).map(normalizeBaseUrl);

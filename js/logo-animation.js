@@ -60,6 +60,7 @@ function setMedia(idx) {
     mediaElem.src = src;
     mediaElem.crossOrigin = "anonymous";
     mediaElem.style.display = 'none';
+    mediaElem.onload = () => { /* ready */ };
     document.body.appendChild(mediaElem);
   } else {
     mediaElem = document.createElement('video');
@@ -67,8 +68,12 @@ function setMedia(idx) {
     mediaElem.crossOrigin = "anonymous";
     mediaElem.loop = true;
     mediaElem.muted = true;
-    mediaElem.play();
+    // Play when ready; attach handler to avoid race conditions
+    mediaElem.preload = 'auto';
     mediaElem.style.display = 'none';
+    mediaElem.addEventListener('canplay', () => {
+      try { mediaElem.play(); } catch (e) { /* ignore */ }
+    }, { once: true });
     document.body.appendChild(mediaElem);
   }
 }
@@ -93,7 +98,24 @@ let textures = twgl.createTextures(gl, {
 });
 
 const render = (time) => {
+  // Ensure the drawing buffer has correct pixel size and explicit width/height
   twgl.resizeCanvasToDisplaySize(gl.canvas, 1.0);
+  // Ensure canvas element has explicit width/height attributes (avoid zero-size OffscreenCanvas in some extensions)
+  try {
+    const dpr = window.devicePixelRatio || 1;
+    const w = Math.max(1, Math.floor(gl.canvas.clientWidth * dpr));
+    const h = Math.max(1, Math.floor(gl.canvas.clientHeight * dpr));
+    if (gl.canvas.width !== w) gl.canvas.width = w;
+    if (gl.canvas.height !== h) gl.canvas.height = h;
+  } catch (e) {
+    // defensive: continue
+  }
+
+  // If the canvas ended up zero-sized for any reason, skip this frame to avoid OffscreenCanvas errors
+  if (!gl.canvas.width || !gl.canvas.height) {
+    requestAnimationFrame(render);
+    return;
+  }
 
   let videoReady = false;
   if (mediaElem instanceof HTMLVideoElement) {
@@ -102,10 +124,15 @@ const render = (time) => {
     videoReady = mediaElem.complete;
   }
 
-  if (videoReady) {
-    gl.bindTexture(gl.TEXTURE_2D, textures.video);
-    gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, true);
-    gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, mediaElem);
+  if (videoReady && mediaElem && gl.canvas.width > 0 && gl.canvas.height > 0) {
+    try {
+      gl.bindTexture(gl.TEXTURE_2D, textures.video);
+      gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, true);
+      gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, mediaElem);
+    } catch (e) {
+      // If texImage2D fails (race or zero-size), skip updating texture this frame
+      if (console && console.warn) console.warn('texture update skipped:', e && e.message);
+    }
   }
 
   gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);

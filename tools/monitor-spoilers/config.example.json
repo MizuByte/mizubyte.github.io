@@ -25,10 +25,7 @@
   "fetchTimeoutMs": 30000,
   "siteJsonMaxItems": 60,
   "nitterBaseUrls": [
-    "https://nitter.net",
-    "https://nitter.poast.org",
-    "https://nitter.privacydev.net",
-    "https://nitter.fdn.fr"
+    "https://nitter.net"
   ],
   "spoilerKeywords": ["spoil", "spoiler", "leak", "leaks", "raw", "raws"],
   "treatImageOnlyAsSpoiler": true
