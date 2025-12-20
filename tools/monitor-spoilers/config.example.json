@@ -1,7 +1,34 @@
 {
-  "url": "https://mizubyte.github.io/",
-  "selector": ".nitter-tweet",
-  "idAttr": "data-anime",
   "pollIntervalMinutes": 10,
-  "discordWebhook": ""
+  "discordWebhook": "",
+  "defaultSelections": ["one-piece", "boruto", "black-clover", "berserk"],
+  "extraHandles": [],
+  "discordMentions": {
+    "onepiece": "",
+    "boruto": "",
+    "blackclover": "",
+    "berserk": ""
+  },
+  "handleMentions": {
+    "pewpiece": "",
+    "worstgenhq": "",
+    "mugiwara_23": "",
+    "schmurfiv1": "",
+    "pacemanop": "",
+    "daily_berserk": ""
+  },
+  "maxTweetsPerHandle": 40,
+  "maxPagesPerHandle": 2,
+  "fetchRetries": 3,
+  "retryDelayMs": 3000,
+  "handleDelayMs": 1500,
+  "fetchTimeoutMs": 30000,
+  "nitterBaseUrls": [
+    "https://nitter.net",
+    "https://nitter.poast.org",
+    "https://nitter.privacydev.net",
+    "https://nitter.fdn.fr"
+  ],
+  "spoilerKeywords": ["spoil", "spoiler", "leak", "leaks", "raw", "raws"],
+  "treatImageOnlyAsSpoiler": true
 }

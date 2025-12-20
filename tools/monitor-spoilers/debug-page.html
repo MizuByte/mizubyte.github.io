@@ -1,0 +1,272 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MizuByte</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202510290101/show_ads_impl.js?bust=31095531"></script><script src="https://cdn.jsdelivr.net/npm/gifuct-js@3.0.5/dist/gifuct.min.js"></script>
+    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9702548844924211" crossorigin="anonymous" data-checked-head="true"></script>
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://fundingchoicesmessages.google.com/i/ca-pub-9702548844924211?href=https%3A%2F%2Fmizubyte.github.io&amp;ers=2"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxV93jVLtixrdDCPc5y4DwWZB5nDKgiHBDljwfLTD16-9SBoF2QjIXaQZ-vA1P1nUjOiTqB7GwIo6949M1OypYJWhxghOSoERR8dD4CuB8d1q1x8Wa49w679Xh0gE7hf0IkZ96BXww==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzYxOTYwNjA2LDE2MDAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly9taXp1Ynl0ZS5naXRodWIuaW8vIixudWxsLFtbOCwiTkVyZndJSGNkSzQiXSxbOSwiZW4tVVMiXSxbMTksIjEiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI5LCJ0cnVlIl1dXQ"></script></head>
+<body>
+    <div class="side-column-left">
+        <div class="logo-top-left">
+        <canvas id="canvas" width="144" height="144"></canvas>
+        <script id="vertexShader" type="x-shader/x-vertex">#version 300 es
+            precision highp float;
+                in vec4 position;
+                void main() {
+                    gl_Position = vec4( position );
+                }
+            </script>
+        <script id="fragmentShader" type="x-shader/x-fragment">#version 300 es
+            #if __VERSION__ < 130
+            #define TEXTURE2D texture2D
+            #else
+            #define TEXTURE2D texture
+            #endif
+            precision highp float;
+            out vec4 fragColor;
+            uniform vec2 u_resolution;
+            uniform float u_time;
+            uniform sampler2D u_video;
+  
+            #define R u_resolution
+            #define T u_time
+            float character(int n, vec2 p) {
+                    p = floor(p*vec2(-4., 4.) + 2.5);
+                    if (clamp(p.x, 0., 4.) == p.x) {
+                            if (clamp(p.y, 0., 4.) == p.y) {
+                                    int a = int(round(p.x) + 5. * round(p.y));
+                                    if (((n >> a) & 1) == 1) return 1.;
+                            }   
+                    }
+                    return 0.;
+            }
+            void main(){ 
+                    vec2 F = gl_FragCoord.xy;
+                    vec2 uv = (2.*F.xy-R.xy)/max(R.x,R.y);
+                    float size = 5.;
+                    float srez = size*2.;
+                    vec3 col = texture(u_video, floor(F.xy/srez)*srez/R.xy).rgb;   
+                    float gray = .3 * col.r + .6 * col.g + .1 * col.b;
+                    int n =  0000;
+                    if (gray > 0.0233) n = 4096;     // .
+                    if (gray > 0.0465) n = 131200;   // :
+                    if (gray > 0.0698) n = 4329476;  // !
+                    if (gray > 0.0930) n = 459200;   // =
+                    if (gray > 0.1163) n = 4591748;  // 1
+                    if (gray > 0.1395) n = 12652620; // 3
+                    if (gray > 0.1628) n = 14749828; // 7
+                    if (gray > 0.1860) n = 18393220; // y
+                    if (gray > 0.2093) n = 15239300; // ?
+                    if (gray > 0.2326) n = 17318431; // l
+                    if (gray > 0.2558) n = 32641156; // t
+                    if (gray > 0.2791) n = 18393412; // v
+                    if (gray > 0.3023) n = 18157905; // x
+                    if (gray > 0.3256) n = 17463428; // 4
+                    if (gray > 0.3488) n = 14954572; // 5
+                    if (gray > 0.3721) n = 13177118; // 2
+                    if (gray > 0.3953) n = 18405034; // w
+                    if (gray > 0.4186) n = 16269839; // c
+                    if (gray > 0.4419) n = 15018318; // 0 
+                    if (gray > 0.4651) n = 18400814; // u
+                    if (gray > 0.4884) n = 33081316; // q
+                    if (gray > 0.5116) n = 15255086; // o
+                    if (gray > 0.5349) n = 32045584; // p
+                    if (gray > 0.5581) n = 6566222;  // 6
+                    if (gray > 0.5814) n = 15022158; // 9
+                    if (gray > 0.6047) n = 18444881; // k
+                    if (gray > 0.6279) n = 16272942; // g
+                    if (gray > 0.6512) n = 18415153; // h
+                    if (gray > 0.6744) n = 32641183; // i
+                    if (gray > 0.6977) n = 32540207; // j
+                    if (gray > 0.7209) n = 18732593; // m
+                    if (gray > 0.7442) n = 18667121; // n
+                    if (gray > 0.7674) n = 16267326; // s
+                    if (gray > 0.7907) n = 32575775; // z
+                    if (gray > 0.8140) n = 15022414; // 8
+                    if (gray > 0.8372) n = 15255537; // a
+                    if (gray > 0.8605) n = 32032318; // d
+                    if (gray > 0.8837) n = 32045617; // r
+                    if (gray > 0.9070) n = 33061392; // f
+                    if (gray > 0.9302) n = 33061407; // e 
+                    if (gray > 0.9535) n = 32045630; // b
+                    if (gray > 0.9767) n = 11512810; // #
+                    vec2 p = mod(F.xy/size, 2.) - vec2(1);
+                    col = col*character(n, p);
+                    fragColor = vec4(col, 1);
+            }
+            </script>
+        <link rel="stylesheet" href="css/logo-animation.css">
+        <script src="https://twgljs.org/dist/4.x/twgl-full.min.js"></script>
+        <script src="js/logo-animation.js"></script>
+    </div>
+        <div class="ad-placeholder">
+            <!-- Google Ad Placeholder -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-your-ad-client" data-ad-slot="your-ad-slot" data-ad-format="auto"></ins>
+        </div>
+    </div><video src="https://mizubyte.github.io/videos/12.mp4" crossorigin="anonymous" loop="" style="display: none;"></video>
+    
+    <center><div class="paper">
+        <header>
+            <div class="loading-bar-container">
+                <div class="loading-bar" id="loading-bar" style="width: 0%;"></div>
+            </div>
+            <div class="filters">
+                <div class="filter-section anime-filter-section">
+                    <button id="toggle-anime-selection" class="modern-btn toggle-btn">
+                        <span class="btn-text">Select Anime</span>
+                        <svg class="btn-icon toggle-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="6 9 12 15 18 9"></polyline>
+                        </svg>
+                    </button>
+                    <div class="anime-selection" id="anime-selection" style="display: none;">
+                        <!-- Settings Row -->
+                        <div class="anime-settings-row">
+                            <label class="modern-checkbox settings-checkbox">
+                                <input type="checkbox" id="detailed-mode">
+                                <span class="checkbox-label">Detailed Mode</span>
+                            </label>
+                        </div>
+                        
+                        <!-- Anime Grid -->
+                        <div class="anime-grid">
+                            <!-- One Piece Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="one-piece">
+                                        <span class="checkbox-label">One Piece</span>
+                                    </label>
+                                </div>
+                                <div id="one-piece-sources" class="anime-sources">
+                                    <label class="modern-checkbox source-checkbox">
+                                        <input type="checkbox" value="pewpiece">
+                                        <span class="checkbox-label">Alpha</span>
+                                    </label>
+                                    <label class="modern-checkbox source-checkbox">
+                                        <input type="checkbox" value="WorstGenHQ">
+                                        <span class="checkbox-label">Beta</span>
+                                    </label>
+                                    <label class="modern-checkbox source-checkbox">
+                                        <input type="checkbox" value="Mugiwara_23">
+                                        <span class="checkbox-label">Gamma</span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Boruto Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="boruto">
+                                        <span class="checkbox-label">Boruto</span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Black Clover Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="black-clover">
+                                        <span class="checkbox-label">Black Clover</span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Berserk Card -->
+                            <div class="anime-card">
+                                <div class="anime-card-header">
+                                    <label class="modern-checkbox anime-main-checkbox">
+                                        <input type="checkbox" value="berserk">
+                                        <span class="checkbox-label">Berserk</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="filter-section">
+                    <h3 class="section-title">Content Type:</h3>
+                    <div class="filter-options">
+                        <label class="content-type-option modern-radio">
+                            <input type="radio" name="content-type" value="misc" checked="">
+                            <span class="radio-custom"></span>
+                            <span class="radio-label">Misc News</span>
+                        </label>
+                        <label class="content-type-option modern-radio">
+                            <input type="radio" name="content-type" value="spoilers">
+                            <span class="radio-custom"></span>
+                            <span class="radio-label">Spoilers</span>
+                        </label>
+                        <button id="fetch-btn" class="modern-btn fetch-btn">
+                            <svg class="btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polyline points="23 4 23 10 17 10"></polyline>
+                                <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+                            </svg>
+                            <span class="btn-text">Refresh</span>
+                        </button>
+                        <button id="reload-btn" class="modern-btn reload-btn">
+                            <svg class="btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"></path>
+                            </svg>
+                            <span class="btn-text">Reload</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div id="main-content">
+                <center>
+                    <div class="nitter-tweet-grid" id="news-grid"><p style="color: #999; text-align: center;">No spoilers found.</p></div>
+                    <div style="text-align:center;margin-top:20px;margin-bottom:20px;">
+                        <button id="more-btn" class="fetch-more-btn">
+                            <span class="more-btn-text">Load More</span>
+                            <svg class="more-btn-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="6 9 12 15 18 9"></polyline>
+                            </svg>
+                        </button>
+                    </div>
+                </center>
+            </div>
+        </main>
+        <footer>
+        </footer>
+    </div></center>
+    
+    <div class="side-column right">
+        <div class="ad-placeholder">
+            <!-- Google Ad Placeholder -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-your-ad-client" data-ad-slot="your-ad-slot" data-ad-format="auto"></ins>
+        </div>
+        <!-- Logo moved to floating overlay to ensure visibility on mobile and above layout layers -->
+    </div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+      <!-- Modal content -->
+      <div class="modal-content">
+        <span class="close-button">×</span>
+        <p>Here is the pop-up menu content.</p>
+      </div>
+    </div>
+
+        <div id="imageModal" class="modal">
+            <span class="close-button" id="imageModalClose">×</span>
+            <img class="modal-image" id="modalImage" src="" alt="Full Image">
+        </div>
+    <script src="js/main.js"></script>
+        <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- Floating overlay for always-on-top clickable CTA (Discord logo) -->
+        <div id="floating-overlay" class="floating-overlay" aria-hidden="false">
+            <div class="logo-bottom-right floating">
+                <a href="http://discord.gg/djw2TUQWnt" target="_blank" rel="noopener noreferrer" class="discord-link" tabindex="0">
+                    <p>Join the Discord!</p>
+                    <img src="images/logo_placeholder.png" alt="Logo">
+                </a>
+            </div>
+        </div>
+
+
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><div id="aswift_0_host" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"></div></ins><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fmizubyte.github.io" title="Twitter settings iframe" style="display: none;"></iframe><iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>

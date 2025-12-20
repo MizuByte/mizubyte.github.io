@@ -1,31 +1,151 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
-const puppeteer = require('puppeteer');
 const fetch = require('node-fetch');
-
-const ROOT = path.resolve(__dirname);
-const SEEN_FILE = path.join(ROOT, 'seen.json');
-
-const cfgPath = path.join(ROOT, 'config.json');
-if (!fs.existsSync(cfgPath)) {
-  console.error('Missing config.json — copy config.example.json to config.json and edit it.');
-  process.exit(1);
-}
-const cfg = JSON.parse(fs.readFileSync(cfgPath, 'utf8'));
-
+const cheerio = require('cheerio');
 const crypto = require('crypto');
+
+const SCRIPT_DIR = __dirname;
+const CONFIG_FILE = path.join(SCRIPT_DIR, 'config.json');
+const CONFIG_EXAMPLE_FILE = path.join(SCRIPT_DIR, 'config.example.json');
+const SEEN_FILE = path.join(SCRIPT_DIR, 'seen.json');
+const LAST_NEWS_FILE = path.join(SCRIPT_DIR, 'lastNews.json');
+
+function loadJsonFile(filePath) {
+  try {
+    const raw = fs.readFileSync(filePath, 'utf8');
+    if (!raw || !raw.trim()) return null;
+    return JSON.parse(raw);
+  } catch (e) {
+    return null;
+  }
+}
+
+function loadConfig() {
+  const cfgFromFile = loadJsonFile(CONFIG_FILE);
+  if (cfgFromFile && typeof cfgFromFile === 'object') return cfgFromFile;
+  const cfgFromExample = loadJsonFile(CONFIG_EXAMPLE_FILE);
+  if (cfgFromExample && typeof cfgFromExample === 'object') return cfgFromExample;
+  return {};
+}
+
+const cfg = loadConfig();
+
+function normalizeBaseUrl(baseUrl) {
+  return (baseUrl || '').toString().trim().replace(/\/$/, '');
+}
+
+function uniqueStrings(list) {
+  const out = [];
+  const seen = new Set();
+  for (const v of list || []) {
+    const s = (v || '').toString().trim();
+    if (!s) continue;
+    if (seen.has(s)) continue;
+    seen.add(s);
+    out.push(s);
+  }
+  return out;
+}
+
+function getNitterBaseUrls() {
+  const fromCfgList = Array.isArray(cfg.nitterBaseUrls) ? cfg.nitterBaseUrls : [];
+  const fromCfgSingle = cfg.nitterBaseUrl ? [cfg.nitterBaseUrl] : [];
+  const fromEnv = (process.env.NITTER_BASE_URLS || '')
+    .split(',')
+    .map(s => s.trim())
+    .filter(Boolean);
+
+  // Keep a few known mirrors as fallback. These change over time; order matters.
+  const defaults = [
+    'https://nitter.net',
+    'https://nitter.poast.org',
+    'https://nitter.privacydev.net',
+    'https://nitter.fdn.fr'
+  ];
+
+  return uniqueStrings([...fromEnv, ...fromCfgList, ...fromCfgSingle, ...defaults]).map(normalizeBaseUrl);
+}
+
+const NITTER_BASE_URLS = getNitterBaseUrls();
 
 async function loadSeen() {
   try {
-    return JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8')) || [];
+    const data = JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8'));
+    return Array.isArray(data) ? data : [];
   } catch (e) {
     return [];
   }
 }
 
+const DEFAULT_SELECTIONS = ['one-piece', 'boruto', 'black-clover', 'berserk'];
+
+const HANDLE_CONFIG = {
+  'pewpiece': { anime: 'onepiece', label: 'One Piece α', subsource: 'alpha' },
+  'worstgenhq': { anime: 'onepiece', label: 'One Piece β', subsource: 'beta' },
+  'mugiwara_23': { anime: 'onepiece', label: 'One Piece γ', subsource: 'gamma' },
+  'schmurfiv1': { anime: 'boruto', label: 'Boruto', subsource: '' },
+  'pacemanop': { anime: 'blackclover', label: 'Black Clover', subsource: '' },
+  'daily_berserk': { anime: 'berserk', label: 'Berserk', subsource: '' }
+};
+
+const ANIME_SELECTIONS = {
+  'one-piece': ['pewpiece', 'worstgenhq', 'mugiwara_23'],
+  'boruto': ['schmurfiv1'],
+  'black-clover': ['pacemanop'],
+  'berserk': ['daily_berserk']
+};
+
+const ANIME_LABELS = {
+  onepiece: 'One Piece',
+  boruto: 'Boruto',
+  blackclover: 'Black Clover',
+  berserk: 'Berserk',
+  unknown: 'Unknown'
+};
+
 async function saveSeen(list) {
-  fs.writeFileSync(SEEN_FILE, JSON.stringify(list, null, 2));
+  fs.writeFileSync(SEEN_FILE, JSON.stringify(Array.isArray(list) ? list : [], null, 2));
+}
+
+function loadLastNews() {
+  try {
+    const data = JSON.parse(fs.readFileSync(LAST_NEWS_FILE, 'utf8'));
+    if (data && typeof data === 'object') return data;
+  } catch (e) {}
+  return {};
+}
+
+function saveLastNews(map) {
+  try {
+    fs.writeFileSync(LAST_NEWS_FILE, JSON.stringify(map, null, 2));
+  } catch (e) {
+    console.warn('Failed to persist last news cache:', e && e.message);
+  }
+}
+
+const lastNewsCache = loadLastNews();
+
+function rememberLastNews(handle, tweet) {
+  if (!handle || !tweet) return;
+  const text = (tweet.content || '').replace(/\s+/g, ' ').trim().slice(0, 240);
+  if (!text && !(tweet.attachments && tweet.attachments.length)) return;
+  lastNewsCache[handle] = {
+    text: text || '(image-only post)',
+    url: tweet.url || '',
+    date: tweet.date || '',
+    recordedAt: new Date().toISOString()
+  };
+}
+
+function reportLastNews(handle) {
+  if (!handle) return;
+  const last = lastNewsCache[handle];
+  if (last) {
+    console.warn(`[last-known] ${handle}: "${last.text}" ${last.url || ''} (seen ${last.date || last.recordedAt || 'unknown'})`);
+  } else {
+    console.warn(`[last-known] ${handle}: no previous news recorded`);
+  }
 }
 
 function isBerserkSpoiler(text) {
@@ -34,13 +154,28 @@ function isBerserkSpoiler(text) {
   return chapterOut.test(text) || /spoil/i.test(text);
 }
 
-function detectSpoilerForAnime(text, animeKey) {
-  if (!text || typeof text !== 'string') return false;
-  const up = text.toUpperCase();
-  if ((animeKey || '').toLowerCase() === 'berserk' || up.includes('BERSERK')) {
-    return isBerserkSpoiler(text);
+function detectSpoilerForAnime(text, animeKey, { hasAttachments = false } = {}) {
+  const normalizedAnime = (animeKey || '').toString().toLowerCase();
+  const safeText = (text || '').toString();
+  const up = safeText.toUpperCase();
+
+  if (normalizedAnime === 'berserk' || up.includes('BERSERK')) {
+    return isBerserkSpoiler(safeText);
   }
-  return /spoil/i.test(text);
+
+  const keywords = Array.isArray(cfg.spoilerKeywords) && cfg.spoilerKeywords.length
+    ? cfg.spoilerKeywords
+    : ['spoil', 'spoiler', 'leak', 'leaks', 'raw', 'raws'];
+
+  for (const kw of keywords) {
+    const k = (kw || '').toString().trim();
+    if (!k) continue;
+    if (safeText.toLowerCase().includes(k.toLowerCase())) return true;
+  }
+
+  if (cfg.treatImageOnlyAsSpoiler && hasAttachments && (!safeText || !safeText.trim())) return true;
+
+  return false;
 }
 
 function makeIdForItem(anime, text, url) {
@@ -48,130 +183,374 @@ function makeIdForItem(anime, text, url) {
   return crypto.createHash('sha256').update(s).digest('hex');
 }
 
-async function notifyDiscordGrouped(webhook, grouped) {
-  // grouped is { animeKey: [items] }
+function normalizeHandle(handle) {
+  return (handle || '').toString().trim().toLowerCase();
+}
+
+function resolveHandles(selectionList = []) {
+  const selections = Array.isArray(selectionList) && selectionList.length ? selectionList : DEFAULT_SELECTIONS;
+  const handles = new Set();
+  for (const entry of selections) {
+    if (!entry) continue;
+    const key = normalizeHandle(entry);
+    if (HANDLE_CONFIG[key]) {
+      handles.add(key);
+    } else if (ANIME_SELECTIONS[key]) {
+      ANIME_SELECTIONS[key].forEach(h => handles.add(normalizeHandle(h)));
+    }
+  }
+  return Array.from(handles);
+}
+
+function animeLabel(animeKey) {
+  const normalized = (animeKey || '').toString().toLowerCase();
+  return ANIME_LABELS[normalized] || ANIME_LABELS[normalized.replace(/-/g, '')] || animeKey;
+}
+
+function sleep(ms) {
+  if (!ms || ms <= 0) return Promise.resolve();
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function notifyDiscordGrouped(webhook, grouped, { roleMentions = {}, handleMentions = {}, animeLabels = {} } = {}) {
   for (const animeKey of Object.keys(grouped)) {
     const items = grouped[animeKey];
+    const displayName = animeLabels[animeKey] || animeLabel(animeKey);
+    const mention = roleMentions[animeKey] ? ` ${roleMentions[animeKey]}` : '';
     const lines = items.map(it => {
-      const title = (it.title || it.text || '').replace(/\s+/g, ' ').trim().slice(0,200);
-      const url = it.url || '';
-      return url ? `- ${title}\n  ${url}` : `- ${title}`;
+      const parts = [];
+      if (it.sourceLabel) parts.push(it.sourceLabel);
+      if (it.handle && !parts.includes(`@${it.handle}`)) parts.push(`@${it.handle}`);
+      if (handleMentions[it.handle]) parts.push(handleMentions[it.handle]);
+      const prefix = parts.length ? `[${parts.join(' ')}] ` : '';
+      const base = (it.title || it.text || '').replace(/\s+/g, ' ').trim().slice(0, 200) || '(image-only post)';
+      return it.url ? `- ${prefix}${base}\n  ${it.url}` : `- ${prefix}${base}`;
     });
-    const header = `Neue Spoiler für **${animeKey}** (${items.length}):`;
-    const content = header + '\n' + lines.join('\n');
+    const header = `Neue Spoiler für **${displayName}** (${items.length})${mention}`;
+    const content = [header, ...lines].join('\n');
     try {
       await fetch(webhook, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ content })
       });
-      // small delay to be nicer to Discord
-      await new Promise(r => setTimeout(r, 500));
+      await sleep(500);
     } catch (e) {
       console.error('Failed to send Discord message for', animeKey, e.message || e);
     }
   }
 }
 
+async function fetchWithRetries(url, { retries = 3, retryDelayMs = 3000, timeoutMs = 30000, debug = false, userAgent, handle } = {}) {
+  const headers = {
+    'User-Agent': userAgent || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9'
+  };
+
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), timeoutMs);
+      const response = await fetch(url, { headers, redirect: 'follow', signal: controller.signal });
+      clearTimeout(timer);
+
+      if (response.status === 200) {
+        const text = await response.text();
+        if (!text || !text.trim()) {
+          throw new Error('Empty response body');
+        }
+        return text;
+      }
+
+      if (response.status === 429) {
+        if (attempt === retries) {
+          if (handle) reportLastNews(handle);
+          throw new Error(`HTTP 429 from ${url}`);
+        }
+        if (debug) console.warn(`[fetch] 429 from ${url}, retrying in ${retryDelayMs * (attempt + 1)}ms`);
+        await sleep(retryDelayMs * (attempt + 1));
+        continue;
+      }
+
+      if (response.status >= 500 && attempt < retries) {
+        if (debug) console.warn(`[fetch] ${response.status} from ${url}, retrying...`);
+        await sleep(retryDelayMs * (attempt + 1));
+        continue;
+      }
+
+      const body = await response.text().catch(() => '');
+      if (handle) reportLastNews(handle);
+      throw new Error(`HTTP ${response.status} from ${url} (body length ${body.length})`);
+    } catch (err) {
+      if (attempt === retries) {
+        if (handle) reportLastNews(handle);
+        throw err;
+      }
+      if (debug) console.warn(`[fetch] attempt ${attempt + 1} failed for ${url}:`, err.message || err);
+      await sleep(retryDelayMs * (attempt + 1));
+    }
+  }
+
+  return null;
+}
+
+function parseNitterPage(handle, html, baseUrl) {
+  const $ = cheerio.load(html);
+  const tweets = [];
+
+  $('.timeline-item').each((_, element) => {
+    const node = $(element);
+    const hasRetweetHeader = node.find('.retweet-header').length > 0;
+    const isRetweetClass = node.hasClass('retweet');
+    const content = (node.find('.tweet-content').text() || '').trim();
+    const startsWithRT = content.startsWith('RT @');
+    if (hasRetweetHeader || isRetweetClass || startsWithRT) return;
+
+    const linkEl = node.find('.tweet-date a').first();
+    const href = linkEl.attr('href') || '';
+    const fullUrl = href ? (href.startsWith('http') ? href : `${baseUrl}${href}`) : '';
+    const date = (linkEl.text() || '').trim();
+
+    const attachments = [];
+    node
+      .find('.attachments img, .attachments .still-image, .attachments .attachment.image')
+      .each((__, img) => {
+        const src = $(img).attr('src') || $(img).attr('data-src');
+        if (src && src !== 'null') {
+          attachments.push(src.startsWith('http') ? src : `${baseUrl}${src}`);
+        }
+      });
+
+    if (!content && attachments.length === 0) return;
+
+    tweets.push({
+      handle,
+      content,
+      url: fullUrl,
+      date,
+      attachments
+    });
+  });
+
+  let nextCursor = '';
+  const moreHref = $('.show-more a').attr('href');
+  if (moreHref) {
+    const match = moreHref.match(/cursor=([^&]+)/);
+    if (match) nextCursor = decodeURIComponent(match[1]);
+  }
+
+  return { tweets, nextCursor };
+}
+
+function looksBlockedOrBad(html) {
+  if (!html || !html.trim()) return true;
+  const sample = html.slice(0, 2000).toLowerCase();
+  if (sample.includes('cloudflare')) return true;
+  if (sample.includes('access denied')) return true;
+  if (sample.includes('just a moment')) return true;
+  if (sample.includes('captcha')) return true;
+  // Nitter pages should at least have some timeline structure
+  if (!sample.includes('timeline') && !sample.includes('tweet')) return true;
+  return false;
+}
+
+async function fetchHandleTweets(handle, {
+  limit = 40,
+  maxPages = 2,
+  retries = 3,
+  retryDelayMs = 3000,
+  pageDelayMs = 1500,
+  timeoutMs = 30000,
+  debug = false,
+  userAgent
+} = {}) {
+  const normalized = normalizeHandle(handle);
+  const collected = [];
+  let cursor = '';
+
+  const baseUrls = NITTER_BASE_URLS.length ? NITTER_BASE_URLS : ['https://nitter.net'];
+
+  for (let page = 0; page < maxPages; page++) {
+    const params = new URLSearchParams();
+    if (cursor) params.set('cursor', cursor);
+    params.set('t', Date.now().toString());
+
+    let parsed = null;
+    let lastError = null;
+
+    for (const baseUrl of baseUrls) {
+      const url = `${baseUrl}/${normalized}?${params.toString()}`;
+      if (debug) console.log(`[${new Date().toISOString()}] Fetching ${url}`);
+
+      let html;
+      try {
+        html = await fetchWithRetries(url, { retries, retryDelayMs, timeoutMs, debug, userAgent, handle: normalized });
+      } catch (err) {
+        lastError = err;
+        if (debug) console.warn(`[${new Date().toISOString()}] ${normalized}: failed from ${baseUrl}: ${err.message || err}`);
+        continue;
+      }
+
+      if (!html) {
+        lastError = new Error('Empty response body');
+        continue;
+      }
+
+      if (looksBlockedOrBad(html)) {
+        lastError = new Error(`Blocked or bad HTML from ${baseUrl} (len=${html.length})`);
+        if (debug) console.warn(`[${new Date().toISOString()}] ${normalized}: ${lastError.message}`);
+        continue;
+      }
+
+      const result = parseNitterPage(normalized, html, baseUrl);
+      if (debug) console.log(`[${new Date().toISOString()}] ${normalized}: parsed ${result.tweets.length} tweets from ${baseUrl}`);
+      parsed = { ...result, baseUrl };
+      break;
+    }
+
+    if (!parsed) {
+      if (lastError && debug) {
+        console.error(`[${new Date().toISOString()}] ${normalized}: all Nitter instances failed: ${lastError.message || lastError}`);
+      }
+      break;
+    }
+
+    const { tweets, nextCursor } = parsed;
+    collected.push(...tweets);
+
+    if (tweets.length) {
+      rememberLastNews(normalized, tweets[0]);
+    }
+
+    if (collected.length >= limit) break;
+    if (!nextCursor) break;
+    cursor = nextCursor;
+
+    if (pageDelayMs) await sleep(pageDelayMs);
+  }
+
+  return collected.slice(0, limit);
+}
+
 async function scrapeOnce() {
-  const url = cfg.url;
-  // selector should match the rendered tweet elements (default to .nitter-tweet)
-  const selector = cfg.selector || '.nitter-tweet';
-  const idAttr = cfg.idAttr || null;
   const webhook = process.env.DISCORD_WEBHOOK || cfg.discordWebhook;
   if (!webhook) {
     console.error('No Discord webhook provided. Set DISCORD_WEBHOOK env or discordWebhook in config.json');
     process.exit(1);
   }
 
-  const browser = await puppeteer.launch({ args: ['--no-sandbox','--disable-setuid-sandbox'] });
-  const page = await browser.newPage();
-  await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+  const DEBUG = process.argv.includes('--debug') || process.env.DEBUG === '1' || cfg.debug;
+  const VERBOSE = process.argv.includes('--verbose') || process.env.VERBOSE === '1';
 
-  // Ensure the front-end has selections so it actually loads tweets.
-  // By default the site requires a non-empty `selectedAnime` localStorage key
-  // before it fetches tweets. Allow overriding via config.json (defaultSelections).
-  const defaultSelections = cfg.defaultSelections || ['one-piece','boruto','black-clover','berserk'];
-  const defaultContentType = cfg.contentType || 'spoilers';
-  try {
-    await page.evaluate((sel, ct) => {
-      try {
-        localStorage.setItem('selectedAnime', JSON.stringify(sel));
-        localStorage.setItem('contentType', ct);
-      } catch (e) {
-        // ignore
-      }
-    }, defaultSelections, defaultContentType);
-    // reload so the front-end reads the selection during startup
-    await page.reload({ waitUntil: 'networkidle2', timeout: 60000 });
-  } catch (e) {
-    console.warn('Warning: failed to set localStorage/default selections in page', e && e.message);
-  }
+  const selections = cfg.defaultSelections || cfg.selectedAnime || DEFAULT_SELECTIONS;
+  const extraHandles = Array.isArray(cfg.extraHandles) ? cfg.extraHandles.map(normalizeHandle) : [];
+  const handles = [...new Set([...resolveHandles(selections), ...extraHandles])];
 
-  // Wait longer for the tweet elements to appear (client-side fetch may take longer)
-  try {
-    await page.waitForSelector(selector, { timeout: 60000 });
-  } catch (e) {
-    // Dump a short snapshot of the page to aid debugging
-    try {
-      const html = await page.content();
-      console.error('Timeout waiting for selector. Page snapshot length:', html.length);
-    } catch (inner) {
-      console.error('Failed to get page content after timeout:', inner && inner.message);
-    }
-    await browser.close();
-    throw e;
-  }
-
-  // Evaluate page and extract items including anime key from data attributes
-  const items = await page.$$eval(selector, (nodes, idAttr) => {
-    return nodes.map(n => {
-      const text = (n.querySelector('.nitter-content .text-part')?.innerText || n.textContent || '').trim();
-      const urlEl = n.querySelector('.tweet-date a') || n.querySelector('a');
-      const url = urlEl ? (urlEl.href || urlEl.getAttribute('href')) : null;
-      const anime = n.getAttribute('data-anime') || (n.dataset && n.dataset.anime) || '';
-      const subsource = n.getAttribute('data-subsource') || (n.dataset && n.dataset.subsource) || '';
-      const idFromAttr = idAttr ? (n.getAttribute(idAttr) || null) : null;
-      const titleEl = n.querySelector('h3') || n.querySelector('.tweet-content');
-      const title = titleEl ? (titleEl.innerText || titleEl.textContent || '').trim() : null;
-      return { idFromAttr, text, url, title, anime, subsource };
-    });
-  }, idAttr);
-
-  await browser.close();
-
-  const seen = await loadSeen();
-  const seenSet = new Set(seen);
-
-  // Build items with stable ids and filter spoilers per-anime
-  const filtered = [];
-  for (const it of items) {
-    const animeKey = (it.anime || 'unknown').toLowerCase() || 'unknown';
-    const id = it.idFromAttr || makeIdForItem(animeKey, it.text, it.url);
-    if (seenSet.has(id)) continue;
-    // detect spoiler using series-aware logic
-    if (!detectSpoilerForAnime(it.text, animeKey)) continue;
-    filtered.push({ id, anime: animeKey, title: it.title, text: it.text, url: it.url });
-  }
-
-  if (filtered.length === 0) {
-    console.log('No new spoilers found');
+  if (!handles.length) {
+    console.warn('No handles resolved from selections; nothing to scrape.');
     return;
   }
 
-  // Group by anime
-  const grouped = {};
-  for (const it of filtered) {
-    grouped[it.anime] = grouped[it.anime] || [];
-    grouped[it.anime].push(it);
-    seenSet.add(it.id);
+  console.log(`[${new Date().toISOString()}] scrapeOnce: fetching ${handles.length} handles`);
+
+  const fetchOptions = {
+    limit: cfg.maxTweetsPerHandle || 40,
+    maxPages: cfg.maxPagesPerHandle || 2,
+    retries: cfg.fetchRetries ?? 3,
+    retryDelayMs: cfg.retryDelayMs ?? 3000,
+    pageDelayMs: cfg.pageDelayMs ?? 1500,
+    timeoutMs: cfg.fetchTimeoutMs ?? 30000,
+    debug: DEBUG,
+    userAgent: cfg.userAgent
+  };
+
+  const seen = await loadSeen();
+  const seenSet = new Set(seen);
+  const filtered = [];
+  const concurrency = Math.max(1, Math.min(handles.length, Number(cfg.fetchConcurrency) || 3));
+  const handleDelayMs = cfg.handleDelayMs ?? 1500;
+
+  let index = 0;
+
+  async function processNext(workerId) {
+    while (true) {
+      if (index >= handles.length) break;
+      const handle = handles[index];
+      index += 1;
+
+      const meta = HANDLE_CONFIG[handle] || { anime: 'unknown', label: `@${handle}`, subsource: '' };
+      if (VERBOSE || DEBUG) {
+        const workerTag = concurrency > 1 ? `worker#${workerId} ` : '';
+        console.log(`[${new Date().toISOString()}] ${workerTag}Processing handle ${handle} (anime=${meta.anime})`);
+      }
+
+      let tweets = [];
+      try {
+        tweets = await fetchHandleTweets(handle, fetchOptions);
+      } catch (err) {
+        console.error(`Failed to fetch ${handle}:`, err.message || err);
+        reportLastNews(handle);
+        continue;
+      }
+
+      if (!tweets.length) {
+        if (VERBOSE || DEBUG) console.log(`[${new Date().toISOString()}] ${handle}: no tweets fetched`);
+        continue;
+      }
+
+      for (const tweet of tweets) {
+        const text = (tweet.content || '').trim();
+        const url = tweet.url || '';
+        const id = makeIdForItem(meta.anime, text, url);
+        if (seenSet.has(id)) continue;
+        const hasAttachments = Array.isArray(tweet.attachments) && tweet.attachments.length > 0;
+        if (!detectSpoilerForAnime(text, meta.anime, { hasAttachments })) continue;
+
+        const cleanTitle = text.replace(/\s+/g, ' ').trim().slice(0, 200);
+        filtered.push({
+          id,
+          anime: meta.anime,
+          title: cleanTitle,
+          text,
+          url,
+          handle,
+          sourceLabel: meta.label || `@${handle}`
+        });
+        seenSet.add(id);
+      }
+
+      if (handleDelayMs > 0) await sleep(handleDelayMs);
+    }
   }
 
-  // Notify per-anime
-  await notifyDiscordGrouped(webhook, grouped);
+  const workerCount = Math.min(concurrency, handles.length);
+  const workers = [];
+  for (let i = 0; i < workerCount; i++) {
+    workers.push(processNext(i + 1));
+  }
+  await Promise.all(workers);
+  if (!filtered.length) {
+    console.log('No new spoilers found');
+    saveLastNews(lastNewsCache);
+    return;
+  }
 
-  // Persist seen IDs
+  const grouped = {};
+  for (const item of filtered) {
+    grouped[item.anime] = grouped[item.anime] || [];
+    grouped[item.anime].push(item);
+    seenSet.add(item.id);
+  }
+
+  await notifyDiscordGrouped(webhook, grouped, {
+    roleMentions: cfg.discordMentions || {},
+    handleMentions: cfg.handleMentions || {},
+    animeLabels: cfg.animeLabels || {}
+  });
+
   await saveSeen(Array.from(seenSet));
+  saveLastNews(lastNewsCache);
 }
 
 async function main() {
