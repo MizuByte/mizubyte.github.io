@@ -6,10 +6,12 @@ const cheerio = require('cheerio');
 const crypto = require('crypto');
 
 const SCRIPT_DIR = __dirname;
+const REPO_ROOT = path.resolve(SCRIPT_DIR, '..', '..');
 const CONFIG_FILE = path.join(SCRIPT_DIR, 'config.json');
 const CONFIG_EXAMPLE_FILE = path.join(SCRIPT_DIR, 'config.example.json');
 const SEEN_FILE = path.join(SCRIPT_DIR, 'seen.json');
 const LAST_NEWS_FILE = path.join(SCRIPT_DIR, 'lastNews.json');
+const SITE_DATA_FILE = path.join(REPO_ROOT, 'data', 'latestSpoilers.json');
 
 function loadJsonFile(filePath) {
   try {
@@ -124,6 +126,102 @@ function saveLastNews(map) {
   }
 }
 
+function ensureDirExists(dirPath) {
+  try {
+    fs.mkdirSync(dirPath, { recursive: true });
+  } catch (e) {
+    // ignore
+  }
+}
+
+function writeSiteSpoilersJson(items) {
+  // This file is consumed by the GitHub Pages site (same-origin fetch).
+  // Keep it small and free of secrets. Produce categorized output with
+  // `spoilers` and `misc` arrays, and also include `items` for
+  // backward compatibility.
+  const list = Array.isArray(items) ? items : [];
+  const maxTotal = Number(cfg.siteJsonMaxItems) > 0 ? Number(cfg.siteJsonMaxItems) : 60;
+  const perHandleMax = Number(cfg.siteJsonPerHandleMax) > 0 ? Number(cfg.siteJsonPerHandleMax) : 5;
+
+  // Separate spoilers and misc while enforcing per-handle and global limits.
+  const spoilers = [];
+  const misc = [];
+  const countsByHandle = Object.create(null);
+
+  function addIfAllowed(targetArray, it) {
+    if (!it || !it.handle) return false;
+    const h = it.handle;
+    countsByHandle[h] = countsByHandle[h] || 0;
+    if (countsByHandle[h] >= perHandleMax) return false;
+    if (spoilers.length + misc.length >= maxTotal) return false;
+    targetArray.push({
+      id: it.id,
+      anime: it.anime,
+      handle: it.handle,
+      sourceLabel: it.sourceLabel,
+      title: it.title,
+      text: it.text || '',
+      url: it.url,
+      date: it.date || '',
+      isSpoiler: Boolean(it.isSpoiler),
+      hasAttachments: Boolean(it.hasAttachments),
+      attachments: Array.isArray(it.attachments) ? it.attachments : []
+    });
+    countsByHandle[h] += 1;
+    return true;
+  }
+
+  // Try to add spoilers first so they get priority in the limited output.
+  for (const it of list) {
+    if (!it) continue;
+    if (Boolean(it.isSpoiler)) addIfAllowed(spoilers, it);
+  }
+
+  // Fill remaining slots with misc posts.
+  for (const it of list) {
+    if (!it) continue;
+    if (Boolean(it.isSpoiler)) continue;
+    if (spoilers.length + misc.length >= maxTotal) break;
+    addIfAllowed(misc, it);
+  }
+
+  // Keep a combined `items` array for compatibility but limited to maxTotal
+  // and following the same per-handle limits (we already enforced them above).
+  const combined = [...spoilers, ...misc].slice(0, maxTotal);
+
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    source: 'tools/monitor-spoilers/monitor.js',
+    spoilers,
+    misc,
+    // Backward-compatible field: `items` contains combined list.
+    items: combined
+  };
+
+  ensureDirExists(path.dirname(SITE_DATA_FILE));
+  fs.writeFileSync(SITE_DATA_FILE, JSON.stringify(payload, null, 2));
+}
+
+function makeSiteItem(meta, handle, tweet, { isSpoiler = false } = {}) {
+  const text = (tweet?.content || '').toString();
+  const url = (tweet?.url || '').toString();
+  const hasAttachments = Array.isArray(tweet?.attachments) && tweet.attachments.length > 0;
+  const id = makeIdForItem(meta.anime, text.trim(), url);
+  return {
+    id,
+    anime: meta.anime,
+    handle,
+    sourceLabel: meta.label || `@${handle}`,
+    title: text.replace(/\s+/g, ' ').trim().slice(0, 200),
+    text,
+    url,
+    date: tweet?.date || '',
+    isSpoiler: Boolean(isSpoiler),
+    hasAttachments,
+    attachments: hasAttachments ? tweet.attachments : []
+  };
+}
+
 const lastNewsCache = loadLastNews();
 
 function rememberLastNews(handle, tweet) {
@@ -131,6 +229,8 @@ function rememberLastNews(handle, tweet) {
   const text = (tweet.content || '').replace(/\s+/g, ' ').trim().slice(0, 240);
   if (!text && !(tweet.attachments && tweet.attachments.length)) return;
   lastNewsCache[handle] = {
+    handle,
+    tweet,
     text: text || '(image-only post)',
     url: tweet.url || '',
     date: tweet.date || '',
@@ -309,7 +409,18 @@ function parseNitterPage(handle, html, baseUrl) {
 
     const linkEl = node.find('.tweet-date a').first();
     const href = linkEl.attr('href') || '';
-    const fullUrl = href ? (href.startsWith('http') ? href : `${baseUrl}${href}`) : '';
+    let fullUrl = '';
+    try {
+      if (href) {
+        const u = href.startsWith('http') ? new URL(href) : new URL(href, baseUrl);
+        // strip query and fragment to avoid transient params like ?t=...
+        u.search = '';
+        u.hash = '';
+        fullUrl = `${u.origin}${u.pathname}`;
+      }
+    } catch (e) {
+      fullUrl = href ? (href.startsWith('http') ? href : `${baseUrl}${href}`) : '';
+    }
     const date = (linkEl.text() || '').trim();
 
     const attachments = [];
@@ -318,7 +429,14 @@ function parseNitterPage(handle, html, baseUrl) {
       .each((__, img) => {
         const src = $(img).attr('src') || $(img).attr('data-src');
         if (src && src !== 'null') {
-          attachments.push(src.startsWith('http') ? src : `${baseUrl}${src}`);
+          try {
+            const au = src.startsWith('http') ? new URL(src) : new URL(src, baseUrl);
+            au.search = '';
+            au.hash = '';
+            attachments.push(`${au.origin}${au.pathname}`);
+          } catch (e) {
+            attachments.push(src.startsWith('http') ? src : `${baseUrl}${src}`);
+          }
         }
       });
 
@@ -374,13 +492,13 @@ async function fetchHandleTweets(handle, {
   for (let page = 0; page < maxPages; page++) {
     const params = new URLSearchParams();
     if (cursor) params.set('cursor', cursor);
-    params.set('t', Date.now().toString());
 
     let parsed = null;
     let lastError = null;
 
     for (const baseUrl of baseUrls) {
-      const url = `${baseUrl}/${normalized}?${params.toString()}`;
+      const qs = params.toString();
+      const url = qs ? `${baseUrl}/${normalized}?${qs}` : `${baseUrl}/${normalized}`;
       if (debug) console.log(`[${new Date().toISOString()}] Fetching ${url}`);
 
       let html;
@@ -468,6 +586,7 @@ async function scrapeOnce() {
   const seen = await loadSeen();
   const seenSet = new Set(seen);
   const filtered = [];
+  const allItems = [];
   const concurrency = Math.max(1, Math.min(handles.length, Number(cfg.fetchConcurrency) || 3));
   const handleDelayMs = cfg.handleDelayMs ?? 1500;
 
@@ -503,20 +622,18 @@ async function scrapeOnce() {
         const text = (tweet.content || '').trim();
         const url = tweet.url || '';
         const id = makeIdForItem(meta.anime, text, url);
-        if (seenSet.has(id)) continue;
         const hasAttachments = Array.isArray(tweet.attachments) && tweet.attachments.length > 0;
-        if (!detectSpoilerForAnime(text, meta.anime, { hasAttachments })) continue;
 
-        const cleanTitle = text.replace(/\s+/g, ' ').trim().slice(0, 200);
-        filtered.push({
-          id,
-          anime: meta.anime,
-          title: cleanTitle,
-          text,
-          url,
-          handle,
-          sourceLabel: meta.label || `@${handle}`
-        });
+        const isSpoiler = detectSpoilerForAnime(text, meta.anime, { hasAttachments });
+
+        // Website JSON gets everything (dedup later).
+        allItems.push(makeSiteItem(meta, handle, tweet, { isSpoiler }));
+
+        // Discord notifications remain spoiler-only and deduped across runs.
+        if (seenSet.has(id)) continue;
+        if (!isSpoiler) continue;
+
+        filtered.push(makeSiteItem(meta, handle, tweet, { isSpoiler: true }));
         seenSet.add(id);
       }
 
@@ -530,9 +647,37 @@ async function scrapeOnce() {
     workers.push(processNext(i + 1));
   }
   await Promise.all(workers);
+
+  // Always update the public site JSON. If today's scrape yields nothing (e.g. Nitter down),
+  // fall back to last known items so the site doesn't go blank.
+  const unique = new Map();
+  for (const it of allItems) {
+    if (!it || !it.id) continue;
+    if (!unique.has(it.id)) unique.set(it.id, it);
+  }
+
+  if (unique.size === 0) {
+    const fallback = Object.values(lastNewsCache || {})
+      .map(entry => {
+        const handle = normalizeHandle(entry?.handle || entry?.tweet?.handle || '');
+        if (!handle) return null;
+        const meta = HANDLE_CONFIG[handle] || { anime: 'unknown', label: `@${handle}`, subsource: '' };
+        const tweet = entry?.tweet || { content: entry?.text || '', url: entry?.url || '', date: entry?.date || entry?.recordedAt || '', attachments: [] };
+        const text = (tweet.content || '').toString();
+        const hasAttachments = Array.isArray(tweet.attachments) && tweet.attachments.length > 0;
+        const isSpoiler = detectSpoilerForAnime(text, meta.anime, { hasAttachments });
+        return makeSiteItem(meta, handle, tweet, { isSpoiler });
+      })
+      .filter(Boolean);
+    writeSiteSpoilersJson(fallback);
+  } else {
+    writeSiteSpoilersJson(Array.from(unique.values()));
+  }
+
   if (!filtered.length) {
     console.log('No new spoilers found');
     saveLastNews(lastNewsCache);
+    await saveSeen(Array.from(seenSet));
     return;
   }
 

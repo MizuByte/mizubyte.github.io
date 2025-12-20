@@ -23,6 +23,7 @@
   "retryDelayMs": 3000,
   "handleDelayMs": 1500,
   "fetchTimeoutMs": 30000,
+  "siteJsonMaxItems": 60,
   "nitterBaseUrls": [
     "https://nitter.net",
     "https://nitter.poast.org",
