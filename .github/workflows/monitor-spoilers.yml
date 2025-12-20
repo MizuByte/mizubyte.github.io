@@ -1,0 +1,58 @@
+name: Run Spoiler Monitor and Update JSON
+
+on:
+  schedule:
+    # Approximate ~every 24 minutes using minute list (0,24,48).
+    # Note: cron cannot evenly schedule a 24-minute interval across the hour; this runs 3x/hour => 72 runs/day.
+    - cron: '0,24,48 * * * *'
+  workflow_dispatch: {}
+
+jobs:
+  monitor:
+    name: Run monitor and commit JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Create monitor config.json from example
+        working-directory: tools/monitor-spoilers
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          echo "Creating config.json from config.example.json"
+          cp config.example.json config.json
+          node -e "const fs=require('fs'); const p='config.json'; const d=JSON.parse(fs.readFileSync(p)); d.discordWebhook=process.env.DISCORD_WEBHOOK||d.discordWebhook||''; fs.writeFileSync(p, JSON.stringify(d, null, 2));"
+
+      - name: Install dependencies
+        working-directory: tools/monitor-spoilers
+        run: |
+          npm ci --no-audit --no-fund
+          # Ensure Puppeteer can download Chromium on the runner (do NOT set PUPPETEER_SKIP_DOWNLOAD here)
+
+      - name: Run monitor (with Puppeteer/browser fallback)
+        working-directory: tools/monitor-spoilers
+        env:
+          BROWSER_FALLBACK: '1'
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          # Run a single iteration. Do not skip Puppeteer download on runners so Chromium is available.
+          node monitor.js --once --debug
+
+      - name: Commit updated JSON
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          message: 'chore(monitor): update data/latestSpoilers.json'
+          add: 'data/latestSpoilers.json'
+          push: true

@@ -1,8 +1,8 @@
 name: Monitor live site and notify Discord
 
 on:
-  schedule:
-    - cron: '*/3 * * * *' # every 15 minutes
+  # Disabled: use `.github/workflows/monitor-spoilers.yml` as the single scheduler.
+  # Keep this workflow only for manual/debug runs if needed.
   workflow_dispatch:
 
 jobs:

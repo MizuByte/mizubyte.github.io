@@ -3,7 +3,51 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
+const xml2js = require('xml2js');
 const crypto = require('crypto');
+
+async function fetchWithPuppeteerHtml(url, { timeoutMs = 30000, debug = false, userAgent } = {}) {
+  // Prefer puppeteer-core with CHROME_PATH for local development (avoids a Chromium download).
+  // If CHROME_PATH is not set, fall back to full puppeteer (CI-friendly where Chromium will be downloaded).
+  const chromePath = process.env.CHROME_PATH || cfg.chromePath || findLocalBrowserPath() || '';
+  let puppeteerPkg;
+  try {
+    if (chromePath) {
+      puppeteerPkg = require('puppeteer-core');
+      if (debug) console.error('[puppeteer] using puppeteer-core with CHROME_PATH', chromePath);
+    } else {
+      puppeteerPkg = require('puppeteer');
+      if (debug) console.error('[puppeteer] using full puppeteer (Chromium expected to be available or downloaded)');
+    }
+  } catch (err) {
+    console.error('[puppeteer] require failed:', err && err.message ? err.message : err);
+    throw new Error('Puppeteer not available. Install puppeteer or set CHROME_PATH and install puppeteer-core.');
+  }
+
+  const launchOpts = {
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    timeout: timeoutMs
+  };
+  if (chromePath) launchOpts.executablePath = chromePath;
+
+  const browser = await puppeteerPkg.launch(launchOpts);
+  try {
+    const page = await browser.newPage();
+    if (userAgent) await page.setUserAgent(userAgent);
+    await page.setDefaultNavigationTimeout(timeoutMs);
+    await page.setViewport({ width: 1200, height: 800 });
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: timeoutMs });
+    const html = await page.content();
+    if (debug) console.error('[puppeteer] fetched', url, 'len', html && html.length);
+    await page.close();
+    await browser.close();
+    return html;
+  } catch (err) {
+    try { await browser.close(); } catch (e) {}
+    throw err;
+  }
+}
 
 const SCRIPT_DIR = __dirname;
 const REPO_ROOT = path.resolve(SCRIPT_DIR, '..', '..');
@@ -32,6 +76,32 @@ function loadConfig() {
 }
 
 const cfg = loadConfig();
+
+function findLocalBrowserPath() {
+  // Common Chrome/Edge install locations on Windows
+  const candidates = [
+    process.env.CHROME_PATH,
+    'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+    'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
+    // Opera / Opera GX common locations
+    path.join(process.env.LOCALAPPDATA || '', 'Programs\\Opera GX\\launcher.exe'),
+    path.join(process.env.LOCALAPPDATA || '', 'Programs\\Opera\\launcher.exe'),
+    'C:\\Program Files\\Opera GX\\launcher.exe',
+    'C:\\Program Files (x86)\\Opera GX\\launcher.exe',
+    'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
+    'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+    path.join(process.env.LOCALAPPDATA || '', 'Google\\Chrome\\Application\\chrome.exe'),
+    path.join(process.env.LOCALAPPDATA || '', 'Microsoft\\Edge\\Application\\msedge.exe')
+  ].filter(Boolean);
+  for (const p of candidates) {
+    try {
+      if (p && fs.existsSync(p)) return p;
+    } catch (e) {
+      // ignore
+    }
+  }
+  return null;
+}
 
 function normalizeBaseUrl(baseUrl) {
   return (baseUrl || '').toString().trim().replace(/\/$/, '');
@@ -136,25 +206,50 @@ function ensureDirExists(dirPath) {
 
 function writeSiteSpoilersJson(items) {
   // This file is consumed by the GitHub Pages site (same-origin fetch).
-  // Keep it small and free of secrets. Produce categorized output with
-  // `spoilers` and `misc` arrays, and also include `items` for
-  // backward compatibility.
-  const list = Array.isArray(items) ? items : [];
-  const maxTotal = Number(cfg.siteJsonMaxItems) > 0 ? Number(cfg.siteJsonMaxItems) : 60;
-  const perHandleMax = Number(cfg.siteJsonPerHandleMax) > 0 ? Number(cfg.siteJsonPerHandleMax) : 5;
+  // Produce categorized output with `spoilers` and `misc` arrays, and
+  // include a backward-compatible `items` array. Enforce per-handle and
+  // global limits to avoid overly large JSON blobs.
+  const all = Array.isArray(items) ? items : [];
+  const perHandleMax = Number(cfg.siteJsonPerHandleMax) > 0 ? Number(cfg.siteJsonPerHandleMax) : 6;
+  const globalMax = Number(cfg.siteJsonGlobalMax) > 0 ? Number(cfg.siteJsonGlobalMax) : 60;
+  const miscMax = Number(cfg.siteJsonMiscMax) > 0 ? Number(cfg.siteJsonMiscMax) : Math.min(20, globalMax);
 
-  // Separate spoilers and misc while enforcing per-handle and global limits.
+  // Collect per-handle up to perHandleMax preserving original order
+  const byHandle = new Map();
+  for (const it of all) {
+    if (!it || !it.handle) continue;
+    const h = it.handle.toString().toLowerCase();
+    if (!byHandle.has(h)) byHandle.set(h, []);
+    if (byHandle.get(h).length < perHandleMax) byHandle.get(h).push(it);
+  }
+
   const spoilers = [];
   const misc = [];
-  const countsByHandle = Object.create(null);
 
-  function addIfAllowed(targetArray, it) {
-    if (!it || !it.handle) return false;
-    const h = it.handle;
-    countsByHandle[h] = countsByHandle[h] || 0;
-    if (countsByHandle[h] >= perHandleMax) return false;
-    if (spoilers.length + misc.length >= maxTotal) return false;
-    targetArray.push({
+  for (const [, list] of byHandle) {
+    for (const it of list) {
+      if (!it) continue;
+      if (it.isSpoiler) {
+        if (spoilers.length < globalMax) spoilers.push(it);
+      } else {
+        if (misc.length < miscMax) misc.push(it);
+      }
+    }
+  }
+
+  // Add any items that didn't have a handle (edge cases)
+  for (const it of all) {
+    if (!it) continue;
+    if (it.handle) continue;
+    if (it.isSpoiler) {
+      if (spoilers.length < globalMax) spoilers.push(it);
+    } else {
+      if (misc.length < miscMax) misc.push(it);
+    }
+  }
+
+  function toSafe(it) {
+    return {
       id: it.id,
       anime: it.anime,
       handle: it.handle,
@@ -166,36 +261,19 @@ function writeSiteSpoilersJson(items) {
       isSpoiler: Boolean(it.isSpoiler),
       hasAttachments: Boolean(it.hasAttachments),
       attachments: Array.isArray(it.attachments) ? it.attachments : []
-    });
-    countsByHandle[h] += 1;
-    return true;
+    };
   }
 
-  // Try to add spoilers first so they get priority in the limited output.
-  for (const it of list) {
-    if (!it) continue;
-    if (Boolean(it.isSpoiler)) addIfAllowed(spoilers, it);
-  }
-
-  // Fill remaining slots with misc posts.
-  for (const it of list) {
-    if (!it) continue;
-    if (Boolean(it.isSpoiler)) continue;
-    if (spoilers.length + misc.length >= maxTotal) break;
-    addIfAllowed(misc, it);
-  }
-
-  // Keep a combined `items` array for compatibility but limited to maxTotal
-  // and following the same per-handle limits (we already enforced them above).
-  const combined = [...spoilers, ...misc].slice(0, maxTotal);
+  const safeSpoilers = spoilers.slice(0, globalMax).map(toSafe);
+  const safeMisc = misc.slice(0, miscMax).map(toSafe);
+  const safeItems = safeSpoilers.concat(safeMisc).slice(0, globalMax);
 
   const payload = {
     generatedAt: new Date().toISOString(),
     source: 'tools/monitor-spoilers/monitor.js',
-    spoilers,
-    misc,
-    // Backward-compatible field: `items` contains combined list.
-    items: combined
+    spoilers: safeSpoilers,
+    misc: safeMisc,
+    items: safeItems
   };
 
   ensureDirExists(path.dirname(SITE_DATA_FILE));
@@ -497,6 +575,46 @@ async function fetchHandleTweets(handle, {
     let lastError = null;
 
     for (const baseUrl of baseUrls) {
+      // Try RSS feed first for this mirror (lighter & often more reliable)
+      try {
+        const rssUrl = `${baseUrl}/${normalized}/rss`;
+        if (debug) console.log(`[${new Date().toISOString()}] ${normalized}: trying RSS ${rssUrl}`);
+        const xml = await fetchWithRetries(rssUrl, { retries: 1, retryDelayMs, timeoutMs, debug, userAgent, handle: normalized });
+        if (xml && xml.trim() && !looksBlockedOrBad(xml)) {
+          try {
+            const parsedXml = await xml2js.parseStringPromise(xml, { explicitArray: false });
+            const items = (parsedXml?.rss?.channel?.item) || [];
+            const arr = Array.isArray(items) ? items : [items];
+            const tweets = [];
+            for (const it of arr) {
+              if (!it) continue;
+              const contentHtml = it.description || it.title || '';
+              const $d = cheerio.load(contentHtml);
+              const text = $d.text().replace(/\s+/g, ' ').trim();
+              const link = (it.link || '').toString();
+              const date = it.pubDate || it.date || '';
+              const attachments = [];
+              // extract image links if present in the description
+              $d('img').each((i, im) => {
+                const s = $d(im).attr('src') || $d(im).attr('data-src');
+                if (s) attachments.push(s);
+              });
+              if (!text && attachments.length === 0) continue;
+              tweets.push({ handle: normalized, content: text, url: link, date, attachments });
+            }
+            if (tweets.length) {
+              parsed = { tweets, nextCursor: '' };
+              if (debug) console.log(`[${new Date().toISOString()}] ${normalized}: parsed ${tweets.length} tweets from RSS ${rssUrl}`);
+              break;
+            }
+          } catch (e) {
+            if (debug) console.warn(`[${new Date().toISOString()}] ${normalized}: RSS parse failed for ${baseUrl}:`, e && e.message);
+          }
+        }
+      } catch (e) {
+        if (debug) console.warn(`[${new Date().toISOString()}] ${normalized}: RSS request failed for ${baseUrl}:`, e && e.message);
+      }
+
       const qs = params.toString();
       const url = qs ? `${baseUrl}/${normalized}?${qs}` : `${baseUrl}/${normalized}`;
       if (debug) console.log(`[${new Date().toISOString()}] Fetching ${url}`);
@@ -531,7 +649,55 @@ async function fetchHandleTweets(handle, {
       if (lastError && debug) {
         console.error(`[${new Date().toISOString()}] ${normalized}: all Nitter instances failed: ${lastError.message || lastError}`);
       }
-      break;
+
+      // As a final attempt, try each base URL once more with a cache-busting
+      // query parameter. This can help when mirrors return cached error pages
+      // or when a CDN serves an empty/503 body. We strip query params later
+      // when producing the stored tweet URL, so this won't leak into output.
+      for (const baseUrl2 of baseUrls) {
+        try {
+          const qs = params.toString();
+          const cb = `cb=${Date.now()}`;
+          const url2 = qs ? `${baseUrl2}/${normalized}?${qs}&${cb}` : `${baseUrl2}/${normalized}?${cb}`;
+          if (debug) console.log(`[${new Date().toISOString()}] Fetching (cache-bust) ${url2}`);
+          const html2 = await fetchWithRetries(url2, { retries, retryDelayMs, timeoutMs, debug, userAgent, handle: normalized });
+          if (!html2) continue;
+          if (looksBlockedOrBad(html2)) continue;
+          const result2 = parseNitterPage(normalized, html2, baseUrl2);
+          if (result2 && result2.tweets && result2.tweets.length) {
+            parsed = { ...result2, baseUrl: baseUrl2 };
+            break;
+          }
+        } catch (e) {
+          if (debug) console.warn(`[${new Date().toISOString()}] ${normalized}: cache-bust attempt failed for ${baseUrl2}:`, e && e.message);
+          continue;
+        }
+      }
+
+      if (!parsed) break;
+    }
+
+    // If still not parsed and browser fallback requested, try a real browser context
+    if (!parsed && (process.env.BROWSER_FALLBACK === '1' || cfg.useBrowserFallback)) {
+      for (const baseUrl3 of baseUrls) {
+        try {
+          const qs = params.toString();
+          const url3 = qs ? `${baseUrl3}/${normalized}?${qs}` : `${baseUrl3}/${normalized}`;
+          if (DEBUG || debug) console.log(`[${new Date().toISOString()}] ${normalized}: trying Puppeteer ${url3}`);
+          const html3 = await fetchWithPuppeteerHtml(url3, { timeoutMs, debug, userAgent });
+          if (!html3) continue;
+          if (looksBlockedOrBad(html3)) continue;
+          const result3 = parseNitterPage(normalized, html3, baseUrl3);
+          if (result3 && result3.tweets && result3.tweets.length) {
+            parsed = { ...result3, baseUrl: baseUrl3 };
+            break;
+          }
+        } catch (e) {
+          if (DEBUG || debug) console.warn(`[${new Date().toISOString()}] ${normalized}: puppeteer attempt failed for ${baseUrl3}:`, e && e.message);
+          continue;
+        }
+      }
+      if (!parsed) break;
     }
 
     const { tweets, nextCursor } = parsed;
@@ -669,7 +835,29 @@ async function scrapeOnce() {
         return makeSiteItem(meta, handle, tweet, { isSpoiler });
       })
       .filter(Boolean);
-    writeSiteSpoilersJson(fallback);
+
+    if (fallback.length > 0) {
+      // We have a last-known cache; publish that so the site doesn't go blank.
+      console.warn('No fresh items from Nitter; using last-known items for site JSON');
+      writeSiteSpoilersJson(fallback);
+    } else {
+      // No live items and no last-known cache. Prefer preserving an existing
+      // site JSON file instead of overwriting it with an empty payload so
+      // the site remains stable during transient network failures.
+      try {
+        if (fs.existsSync(SITE_DATA_FILE)) {
+          console.warn('No new items and no last-known cache; preserving existing', SITE_DATA_FILE);
+          // leave existing file in place
+        } else {
+          // Ensure a valid (yet empty) file exists to avoid 404s for first-time runs
+          console.warn('No existing site JSON found; writing an empty payload');
+          writeSiteSpoilersJson([]);
+        }
+      } catch (e) {
+        console.error('Error checking/preserving existing site JSON:', e && e.message);
+        writeSiteSpoilersJson([]);
+      }
+    }
   } else {
     writeSiteSpoilersJson(Array.from(unique.values()));
   }

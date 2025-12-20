@@ -21,6 +21,34 @@ node monitor.js --once  # for one-time run
 # or node monitor.js  # for continuous monitoring
 ```
 
+### Running in GitHub Actions (Option B - recommended)
+
+1) Add a repository secret `DISCORD_WEBHOOK` with your Discord webhook URL.
+
+2) The workflow `.github/workflows/monitor-spoilers.yml` will:
+- copy `config.example.json` -> `config.json` at runtime
+- run `npm ci` on the runner (Chromium will be downloaded by Puppeteer)
+- run `node monitor.js --once --debug`
+- commit `data/latestSpoilers.json` back to the repo when changed
+
+Notes:
+- Do NOT set `PUPPETEER_SKIP_DOWNLOAD=1` in the workflow. Allow Chromium download on the runner.
+- If you want to restrict which Nitter mirrors to use, edit `tools/monitor-spoilers/config.example.json` in your repo and commit changes.
+
+### Local debugging tips
+
+If you want to test locally and avoid a Chromium download, install Chrome/Edge/Opera and set an env var pointing to the executable before running:
+
+```powershell
+# Example (PowerShell) - set path to your local Chrome
+$env:CHROME_PATH='C:\Program Files\Google\Chrome\Application\chrome.exe'
+$env:BROWSER_FALLBACK='1'
+$env:DISCORD_WEBHOOK='https://discord.com/api/webhooks/...'
+node monitor.js --once --debug
+```
+
+If you don't have a system browser or prefer to use the runner's Chromium, remove `PUPPETEER_SKIP_DOWNLOAD` and allow Puppeteer to download Chromium.
+
 Run in GitHub Actions: The included workflow runs this automatically on schedule.
 
 Configuration

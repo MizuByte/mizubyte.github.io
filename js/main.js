@@ -215,10 +215,7 @@
     // Nitter in-browser fetching is fragile: instances/proxies regularly go down.
     // Use fallbacks and keep failures non-fatal.
     const NITTER_BASE_URLS = [
-        'https://nitter.net',
-        'https://nitter.poast.org',
-        'https://nitter.privacydev.net',
-        'https://nitter.fdn.fr'
+        'https://nitter.net'
     ];
 
     // CORS proxies are also unreliable. Try a small set.
