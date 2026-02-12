@@ -1,551 +1,188 @@
 {
-  "generatedAt": "2026-02-12T21:28:54.448Z",
+  "generatedAt": "2026-02-12T22:54:05.732Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "a3756017db6845750464619c78cfa6397fa535d6257c6feebd6e892c8b0cac02",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Why don’t Boruto fans want leakers to leak the new chapters anymore? Did something happen? #BORUTO",
+      "text": "Why don’t Boruto fans want leakers to leak the new chapters anymore? Did something happen? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2021273625676881994#m",
+      "date": "Tue, 10 Feb 2026 17:22:40 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA0BpaXXoAApe-P.jpg"
+      ]
+    }
+  ],
   "misc": [
     {
-      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "WE FINALLY HIT 400k Thank you 🫶",
-      "text": "WE FINALLY HIT 400k Thank you 🫶",
-      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
-      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "id": "3c6cff08d3927b74fa8cf9f484db05007400ce62bb09922d31d5ccbc8db7a552",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
+      "text": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2021995733445202117#m",
+      "date": "Thu, 12 Feb 2026 17:12:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+        "https://nitter.net/pic/media%2FHA-SZjzbsAIJ5c1.jpg"
       ]
     },
     {
-      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
-      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "id": "9f6b68c2724638c1e7776aa386e864e36670a04408890567b1fbde411d01cb88",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "??? HyMni3 (@PanteraFan49) Says the niggеr — https://nitter.net/PanteraFan49/status/2021679589647417694#m",
+      "text": "??? HyMni3 (@PanteraFan49) Says the niggеr — https://nitter.net/PanteraFan49/status/2021679589647417694#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2021706923612017016#m",
+      "date": "Wed, 11 Feb 2026 22:04:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
-        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
-        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+        "https://nitter.net/pic/media%2FHA6LuC1aMAAl-Fz.jpg",
+        "https://nitter.net/pic/media%2FHA5y2exbsAIkRM5.jpg"
       ]
     },
     {
-      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
-      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
-      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
-      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "id": "3913ce2fea5b315720ec4e4adfcce5db40faf73c73944b0587bc459749a1bf58",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BORUTO TBV NEWS‼️ There are rumors that the Manga will have around 200 chapters when the story ends! #BORUTO",
+      "text": "BORUTO TBV NEWS‼️ There are rumors that the Manga will have around 200 chapters when the story ends! #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2021228746150133865#m",
+      "date": "Tue, 10 Feb 2026 14:24:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+        "https://nitter.net/pic/media%2FHAzY1KNXcAAaHrn.jpg"
       ]
     },
     {
-      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First look at Kureha in onepiece live action season 2",
-      "text": "First look at Kureha in onepiece live action season 2",
-      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
-      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "This mf isn’t Japanese btw #BORUTO",
+      "text": "This mf isn’t Japanese btw #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
+      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
       ]
     },
     {
-      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
-      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
-      ]
-    },
-    {
-      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
-      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
-      ]
-    },
-    {
-      "id": "f66794373cf15d6a37e3353932be256699c271542b7bbdb7ff6f580d5462c736",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
-      "text": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
-      "url": "https://nitter.net/sammy_here_/status/2021992209458020851#m",
-      "date": "Thu, 12 Feb 2026 16:58:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-PMqzX0AATJ1X.jpg",
-        "https://nitter.net/pic/media%2FHA-PMrnXsAAyrNz.jpg"
-      ]
-    },
-    {
-      "id": "f97d4ba2f25cbeea31a59ea9ac5c0fa00c03356ae90e588fed9877ab3ecbc7b1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174",
-      "text": "#ONEPIECE1174",
-      "url": "https://nitter.net/Nerona_Imu_/status/2021970776170410331#m",
-      "date": "Thu, 12 Feb 2026 15:32:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA97staaUAEdKH_.jpg"
-      ]
-    },
-    {
-      "id": "5d9cb47c13d74b624e558dae6175d8f9ab6c20e96fe71ecad1e31ba0a50a7c08",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Do you like Dragon Loki design? explain why you like it or not.",
-      "text": "Do you like Dragon Loki design? explain why you like it or not.",
-      "url": "https://nitter.net/WorstGenHQ/status/2021986683097694419#m",
-      "date": "Thu, 12 Feb 2026 16:36:06 GMT",
+      "id": "f81d746445f6aef19f84d51d774baf543a79295e3818e187cbd668753e2e1a7d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "People seem to interpret that I hate this… y’all complain about others who hate on Boruto that they have a poor reading comprehension but apparently you all have the same issue…? I never said that I h",
+      "text": "People seem to interpret that I hate this… y’all complain about others who hate on Boruto that they have a poor reading comprehension but apparently you all have the same issue…? I never said that I hate on this… I just think it’s funny that people suddenly start tweeting in Japanese? Whats wrong with this?",
+      "url": "https://nitter.net/SchmurfiV1/status/2020927358501269724#m",
+      "date": "Mon, 09 Feb 2026 18:26:43 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "60b26e088df97c046895d755b82aedc0f054bfb8a4e4a976fa022f3a832d0fca",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 The Naruto verse is cooked 😭",
-      "text": "#ONEPIECE1174 The Naruto verse is cooked 😭",
-      "url": "https://nitter.net/unonumero_56/status/2021971901539901710#m",
-      "date": "Thu, 12 Feb 2026 15:37:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA98udOWUAAYdVK.jpg"
-      ]
-    },
-    {
-      "id": "f9c1cb72e9580351ddf8b201e509faee07587fd78f742823bf549c49bafefba9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
-      "text": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
-      "url": "https://nitter.net/Foji_Er_/status/2021967085228998866#m",
-      "date": "Thu, 12 Feb 2026 15:18:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA94WPRbEAAsBb2.jpg"
-      ]
-    },
-    {
-      "id": "1b27afb94c7248878cc812463551f7bbbfdd4f467da0aaa7f6ad6dbd768da336",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "What the fuck Loki grew over 100x #ONEPIECE1174",
-      "text": "What the fuck Loki grew over 100x #ONEPIECE1174",
-      "url": "https://nitter.net/X_VIR3/status/2021966346217574517#m",
-      "date": "Thu, 12 Feb 2026 15:15:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA93quVWkAArpL6.jpg"
-      ]
-    },
-    {
-      "id": "23ffcb95b9e56093d7bd102d09620f24fb1e81439c22d2df2f145e885591c6eb",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022042301128695998#m",
-      "date": "Thu, 12 Feb 2026 20:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-8wgxaQAAyuC8.jpg"
-      ]
-    },
-    {
-      "id": "85909b6d8405b250872a3c03c15bafbbc60e4c37fa9aeb3e1f0573cf9d5afc15",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022012106334236836#m",
-      "date": "Thu, 12 Feb 2026 18:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-hS6HXYAAhwAZ.jpg"
-      ]
-    },
-    {
-      "id": "e9e30e4057f19592bfa40a78df6f7be3dbba869466d97ac3bd220c40cc75a18a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021951708067197263#m",
-      "date": "Thu, 12 Feb 2026 14:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA9qXQ4WEAAZsNB.jpg"
-      ]
-    },
-    {
-      "id": "24093d00cbc9bf527787c1c117b6d7ce7f370cc62a940b02b436090f08535852",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021921506675024358#m",
-      "date": "Thu, 12 Feb 2026 12:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA9O5VUa8AAl9CQ.jpg"
-      ]
-    },
-    {
-      "id": "ef42f14e212cfc450603e50449b9bc7024408ca7179651e2d9cd2cdee54b8284",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021861118579241374#m",
-      "date": "Thu, 12 Feb 2026 08:17:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA8X-RJbsAItwF8.jpg"
-      ]
-    },
-    {
-      "id": "20c2503ca18a37437e6437221e1083ed03a1165aee2c3f7dbf85ad547011c04d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021800716554191044#m",
-      "date": "Thu, 12 Feb 2026 04:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA7hCbIXYAAubO5.jpg"
-      ]
     }
   ],
   "items": [
     {
-      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "WE FINALLY HIT 400k Thank you 🫶",
-      "text": "WE FINALLY HIT 400k Thank you 🫶",
-      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
-      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
-      "isSpoiler": false,
+      "id": "a3756017db6845750464619c78cfa6397fa535d6257c6feebd6e892c8b0cac02",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Why don’t Boruto fans want leakers to leak the new chapters anymore? Did something happen? #BORUTO",
+      "text": "Why don’t Boruto fans want leakers to leak the new chapters anymore? Did something happen? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2021273625676881994#m",
+      "date": "Tue, 10 Feb 2026 17:22:40 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+        "https://nitter.net/pic/media%2FHA0BpaXXoAApe-P.jpg"
       ]
     },
     {
-      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
-      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "id": "3c6cff08d3927b74fa8cf9f484db05007400ce62bb09922d31d5ccbc8db7a552",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
+      "text": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2021995733445202117#m",
+      "date": "Thu, 12 Feb 2026 17:12:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
-        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
-        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+        "https://nitter.net/pic/media%2FHA-SZjzbsAIJ5c1.jpg"
       ]
     },
     {
-      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
-      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
-      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
-      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "id": "9f6b68c2724638c1e7776aa386e864e36670a04408890567b1fbde411d01cb88",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "??? HyMni3 (@PanteraFan49) Says the niggеr — https://nitter.net/PanteraFan49/status/2021679589647417694#m",
+      "text": "??? HyMni3 (@PanteraFan49) Says the niggеr — https://nitter.net/PanteraFan49/status/2021679589647417694#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2021706923612017016#m",
+      "date": "Wed, 11 Feb 2026 22:04:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+        "https://nitter.net/pic/media%2FHA6LuC1aMAAl-Fz.jpg",
+        "https://nitter.net/pic/media%2FHA5y2exbsAIkRM5.jpg"
       ]
     },
     {
-      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First look at Kureha in onepiece live action season 2",
-      "text": "First look at Kureha in onepiece live action season 2",
-      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
-      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "id": "3913ce2fea5b315720ec4e4adfcce5db40faf73c73944b0587bc459749a1bf58",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BORUTO TBV NEWS‼️ There are rumors that the Manga will have around 200 chapters when the story ends! #BORUTO",
+      "text": "BORUTO TBV NEWS‼️ There are rumors that the Manga will have around 200 chapters when the story ends! #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2021228746150133865#m",
+      "date": "Tue, 10 Feb 2026 14:24:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+        "https://nitter.net/pic/media%2FHAzY1KNXcAAaHrn.jpg"
       ]
     },
     {
-      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
-      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "This mf isn’t Japanese btw #BORUTO",
+      "text": "This mf isn’t Japanese btw #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
+      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
       ]
     },
     {
-      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
-      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
-      ]
-    },
-    {
-      "id": "f66794373cf15d6a37e3353932be256699c271542b7bbdb7ff6f580d5462c736",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
-      "text": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
-      "url": "https://nitter.net/sammy_here_/status/2021992209458020851#m",
-      "date": "Thu, 12 Feb 2026 16:58:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-PMqzX0AATJ1X.jpg",
-        "https://nitter.net/pic/media%2FHA-PMrnXsAAyrNz.jpg"
-      ]
-    },
-    {
-      "id": "f97d4ba2f25cbeea31a59ea9ac5c0fa00c03356ae90e588fed9877ab3ecbc7b1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174",
-      "text": "#ONEPIECE1174",
-      "url": "https://nitter.net/Nerona_Imu_/status/2021970776170410331#m",
-      "date": "Thu, 12 Feb 2026 15:32:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA97staaUAEdKH_.jpg"
-      ]
-    },
-    {
-      "id": "5d9cb47c13d74b624e558dae6175d8f9ab6c20e96fe71ecad1e31ba0a50a7c08",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Do you like Dragon Loki design? explain why you like it or not.",
-      "text": "Do you like Dragon Loki design? explain why you like it or not.",
-      "url": "https://nitter.net/WorstGenHQ/status/2021986683097694419#m",
-      "date": "Thu, 12 Feb 2026 16:36:06 GMT",
+      "id": "f81d746445f6aef19f84d51d774baf543a79295e3818e187cbd668753e2e1a7d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "People seem to interpret that I hate this… y’all complain about others who hate on Boruto that they have a poor reading comprehension but apparently you all have the same issue…? I never said that I h",
+      "text": "People seem to interpret that I hate this… y’all complain about others who hate on Boruto that they have a poor reading comprehension but apparently you all have the same issue…? I never said that I hate on this… I just think it’s funny that people suddenly start tweeting in Japanese? Whats wrong with this?",
+      "url": "https://nitter.net/SchmurfiV1/status/2020927358501269724#m",
+      "date": "Mon, 09 Feb 2026 18:26:43 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "60b26e088df97c046895d755b82aedc0f054bfb8a4e4a976fa022f3a832d0fca",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 The Naruto verse is cooked 😭",
-      "text": "#ONEPIECE1174 The Naruto verse is cooked 😭",
-      "url": "https://nitter.net/unonumero_56/status/2021971901539901710#m",
-      "date": "Thu, 12 Feb 2026 15:37:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA98udOWUAAYdVK.jpg"
-      ]
-    },
-    {
-      "id": "f9c1cb72e9580351ddf8b201e509faee07587fd78f742823bf549c49bafefba9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
-      "text": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
-      "url": "https://nitter.net/Foji_Er_/status/2021967085228998866#m",
-      "date": "Thu, 12 Feb 2026 15:18:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA94WPRbEAAsBb2.jpg"
-      ]
-    },
-    {
-      "id": "1b27afb94c7248878cc812463551f7bbbfdd4f467da0aaa7f6ad6dbd768da336",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "What the fuck Loki grew over 100x #ONEPIECE1174",
-      "text": "What the fuck Loki grew over 100x #ONEPIECE1174",
-      "url": "https://nitter.net/X_VIR3/status/2021966346217574517#m",
-      "date": "Thu, 12 Feb 2026 15:15:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA93quVWkAArpL6.jpg"
-      ]
-    },
-    {
-      "id": "23ffcb95b9e56093d7bd102d09620f24fb1e81439c22d2df2f145e885591c6eb",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022042301128695998#m",
-      "date": "Thu, 12 Feb 2026 20:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-8wgxaQAAyuC8.jpg"
-      ]
-    },
-    {
-      "id": "85909b6d8405b250872a3c03c15bafbbc60e4c37fa9aeb3e1f0573cf9d5afc15",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022012106334236836#m",
-      "date": "Thu, 12 Feb 2026 18:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-hS6HXYAAhwAZ.jpg"
-      ]
-    },
-    {
-      "id": "e9e30e4057f19592bfa40a78df6f7be3dbba869466d97ac3bd220c40cc75a18a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021951708067197263#m",
-      "date": "Thu, 12 Feb 2026 14:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA9qXQ4WEAAZsNB.jpg"
-      ]
-    },
-    {
-      "id": "24093d00cbc9bf527787c1c117b6d7ce7f370cc62a940b02b436090f08535852",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021921506675024358#m",
-      "date": "Thu, 12 Feb 2026 12:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA9O5VUa8AAl9CQ.jpg"
-      ]
-    },
-    {
-      "id": "ef42f14e212cfc450603e50449b9bc7024408ca7179651e2d9cd2cdee54b8284",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021861118579241374#m",
-      "date": "Thu, 12 Feb 2026 08:17:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA8X-RJbsAItwF8.jpg"
-      ]
-    },
-    {
-      "id": "20c2503ca18a37437e6437221e1083ed03a1165aee2c3f7dbf85ad547011c04d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2021800716554191044#m",
-      "date": "Thu, 12 Feb 2026 04:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA7hCbIXYAAubO5.jpg"
-      ]
     }
   ]
 }
