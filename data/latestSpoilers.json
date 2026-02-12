@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T22:54:05.732Z",
+  "generatedAt": "2026-02-12T23:24:58.115Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,98 @@
     }
   ],
   "misc": [
+    {
+      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "WE FINALLY HIT 400k Thank you 🫶",
+      "text": "WE FINALLY HIT 400k Thank you 🫶",
+      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
+      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+      ]
+    },
+    {
+      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
+      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
+        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
+        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+      ]
+    },
+    {
+      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
+      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
+      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
+      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+      ]
+    },
+    {
+      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "First look at Kureha in onepiece live action season 2",
+      "text": "First look at Kureha in onepiece live action season 2",
+      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
+      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+      ]
+    },
+    {
+      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
+      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+      ]
+    },
+    {
+      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
+      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
+      ]
+    },
     {
       "id": "3c6cff08d3927b74fa8cf9f484db05007400ce62bb09922d31d5ccbc8db7a552",
       "anime": "boruto",
@@ -66,19 +158,17 @@
       ]
     },
     {
-      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
+      "id": "400ce6512b182ea4c8dee072668848ca197c2658ad920bad861ba53de30e8962",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "This mf isn’t Japanese btw #BORUTO",
-      "text": "This mf isn’t Japanese btw #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
-      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
+      "title": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "text": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "url": "https://nitter.net/SchmurfiV1/status/2020927572838842871#m",
+      "date": "Mon, 09 Feb 2026 18:27:35 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f81d746445f6aef19f84d51d774baf543a79295e3818e187cbd668753e2e1a7d",
@@ -111,6 +201,98 @@
       ]
     },
     {
+      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "WE FINALLY HIT 400k Thank you 🫶",
+      "text": "WE FINALLY HIT 400k Thank you 🫶",
+      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
+      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+      ]
+    },
+    {
+      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
+      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
+        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
+        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+      ]
+    },
+    {
+      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
+      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
+      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
+      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+      ]
+    },
+    {
+      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "First look at Kureha in onepiece live action season 2",
+      "text": "First look at Kureha in onepiece live action season 2",
+      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
+      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+      ]
+    },
+    {
+      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
+      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+      ]
+    },
+    {
+      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
+      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
+      ]
+    },
+    {
       "id": "3c6cff08d3927b74fa8cf9f484db05007400ce62bb09922d31d5ccbc8db7a552",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -157,19 +339,17 @@
       ]
     },
     {
-      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
+      "id": "400ce6512b182ea4c8dee072668848ca197c2658ad920bad861ba53de30e8962",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "This mf isn’t Japanese btw #BORUTO",
-      "text": "This mf isn’t Japanese btw #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
-      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
+      "title": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "text": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "url": "https://nitter.net/SchmurfiV1/status/2020927572838842871#m",
+      "date": "Mon, 09 Feb 2026 18:27:35 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f81d746445f6aef19f84d51d774baf543a79295e3818e187cbd668753e2e1a7d",
