@@ -1,5 +1,187 @@
 {
-  "generatedAt": "2025-12-20T03:29:13.092Z",
+  "generatedAt": "2026-02-12T20:05:18.700Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "items": []
+  "spoilers": [],
+  "misc": [
+    {
+      "id": "f66794373cf15d6a37e3353932be256699c271542b7bbdb7ff6f580d5462c736",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
+      "text": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
+      "url": "https://nitter.net/sammy_here_/status/2021992209458020851#m",
+      "date": "Thu, 12 Feb 2026 16:58:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA-PMqzX0AATJ1X.jpg",
+        "https://nitter.net/pic/media%2FHA-PMrnXsAAyrNz.jpg"
+      ]
+    },
+    {
+      "id": "f97d4ba2f25cbeea31a59ea9ac5c0fa00c03356ae90e588fed9877ab3ecbc7b1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174",
+      "text": "#ONEPIECE1174",
+      "url": "https://nitter.net/Nerona_Imu_/status/2021970776170410331#m",
+      "date": "Thu, 12 Feb 2026 15:32:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA97staaUAEdKH_.jpg"
+      ]
+    },
+    {
+      "id": "5d9cb47c13d74b624e558dae6175d8f9ab6c20e96fe71ecad1e31ba0a50a7c08",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Do you like Dragon Loki design? explain why you like it or not.",
+      "text": "Do you like Dragon Loki design? explain why you like it or not.",
+      "url": "https://nitter.net/WorstGenHQ/status/2021986683097694419#m",
+      "date": "Thu, 12 Feb 2026 16:36:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "60b26e088df97c046895d755b82aedc0f054bfb8a4e4a976fa022f3a832d0fca",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 The Naruto verse is cooked 😭",
+      "text": "#ONEPIECE1174 The Naruto verse is cooked 😭",
+      "url": "https://nitter.net/unonumero_56/status/2021971901539901710#m",
+      "date": "Thu, 12 Feb 2026 15:37:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA98udOWUAAYdVK.jpg"
+      ]
+    },
+    {
+      "id": "f9c1cb72e9580351ddf8b201e509faee07587fd78f742823bf549c49bafefba9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
+      "text": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
+      "url": "https://nitter.net/Foji_Er_/status/2021967085228998866#m",
+      "date": "Thu, 12 Feb 2026 15:18:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA94WPRbEAAsBb2.jpg"
+      ]
+    },
+    {
+      "id": "1b27afb94c7248878cc812463551f7bbbfdd4f467da0aaa7f6ad6dbd768da336",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What the fuck Loki grew over 100x #ONEPIECE1174",
+      "text": "What the fuck Loki grew over 100x #ONEPIECE1174",
+      "url": "https://nitter.net/X_VIR3/status/2021966346217574517#m",
+      "date": "Thu, 12 Feb 2026 15:15:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA93quVWkAArpL6.jpg"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f66794373cf15d6a37e3353932be256699c271542b7bbdb7ff6f580d5462c736",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
+      "text": "Luffy riding a western dragon and an eastern dragon in back to back arcs 🔥 #ONEPIECE1174",
+      "url": "https://nitter.net/sammy_here_/status/2021992209458020851#m",
+      "date": "Thu, 12 Feb 2026 16:58:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA-PMqzX0AATJ1X.jpg",
+        "https://nitter.net/pic/media%2FHA-PMrnXsAAyrNz.jpg"
+      ]
+    },
+    {
+      "id": "f97d4ba2f25cbeea31a59ea9ac5c0fa00c03356ae90e588fed9877ab3ecbc7b1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174",
+      "text": "#ONEPIECE1174",
+      "url": "https://nitter.net/Nerona_Imu_/status/2021970776170410331#m",
+      "date": "Thu, 12 Feb 2026 15:32:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA97staaUAEdKH_.jpg"
+      ]
+    },
+    {
+      "id": "5d9cb47c13d74b624e558dae6175d8f9ab6c20e96fe71ecad1e31ba0a50a7c08",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Do you like Dragon Loki design? explain why you like it or not.",
+      "text": "Do you like Dragon Loki design? explain why you like it or not.",
+      "url": "https://nitter.net/WorstGenHQ/status/2021986683097694419#m",
+      "date": "Thu, 12 Feb 2026 16:36:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "60b26e088df97c046895d755b82aedc0f054bfb8a4e4a976fa022f3a832d0fca",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 The Naruto verse is cooked 😭",
+      "text": "#ONEPIECE1174 The Naruto verse is cooked 😭",
+      "url": "https://nitter.net/unonumero_56/status/2021971901539901710#m",
+      "date": "Thu, 12 Feb 2026 15:37:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA98udOWUAAYdVK.jpg"
+      ]
+    },
+    {
+      "id": "f9c1cb72e9580351ddf8b201e509faee07587fd78f742823bf549c49bafefba9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
+      "text": "#سبويلر_ون_بيس صورة لوكي التنين كامل 🥶🥶",
+      "url": "https://nitter.net/Foji_Er_/status/2021967085228998866#m",
+      "date": "Thu, 12 Feb 2026 15:18:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA94WPRbEAAsBb2.jpg"
+      ]
+    },
+    {
+      "id": "1b27afb94c7248878cc812463551f7bbbfdd4f467da0aaa7f6ad6dbd768da336",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What the fuck Loki grew over 100x #ONEPIECE1174",
+      "text": "What the fuck Loki grew over 100x #ONEPIECE1174",
+      "url": "https://nitter.net/X_VIR3/status/2021966346217574517#m",
+      "date": "Thu, 12 Feb 2026 15:15:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA93quVWkAArpL6.jpg"
+      ]
+    }
+  ]
 }
