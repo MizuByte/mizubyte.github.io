@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T19:31:39.929Z",
+  "generatedAt": "2026-02-13T20:59:29.781Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -263,18 +263,31 @@
       ]
     },
     {
-      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
+      "id": "400ce6512b182ea4c8dee072668848ca197c2658ad920bad861ba53de30e8962",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "This mf isn’t Japanese btw #BORUTO",
-      "text": "This mf isn’t Japanese btw #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
-      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
+      "title": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "text": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "url": "https://nitter.net/SchmurfiV1/status/2020927572838842871#m",
+      "date": "Mon, 09 Feb 2026 18:27:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b6d9c2ef5f005f2418ffa8c9a6d455294a4c28fdddaf8764c6e84ec66d3fa648",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022404689132732590#m",
+      "date": "Fri, 13 Feb 2026 20:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
+        "https://nitter.net/pic/media%2FHBEGWQqbYAABqGN.jpg"
       ]
     },
     {
@@ -320,21 +333,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBCz9YmbwAA6CtV.jpg"
-      ]
-    },
-    {
-      "id": "8d4903bebf3d9c238df4c4074eea6f64e9babb98b67891ba385ed90236778170",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022283899175309324#m",
-      "date": "Fri, 13 Feb 2026 12:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBCYfWdWIAE8fRB.jpg"
       ]
     }
   ],
@@ -598,18 +596,31 @@
       ]
     },
     {
-      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
+      "id": "400ce6512b182ea4c8dee072668848ca197c2658ad920bad861ba53de30e8962",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "This mf isn’t Japanese btw #BORUTO",
-      "text": "This mf isn’t Japanese btw #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
-      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
+      "title": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "text": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
+      "url": "https://nitter.net/SchmurfiV1/status/2020927572838842871#m",
+      "date": "Mon, 09 Feb 2026 18:27:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b6d9c2ef5f005f2418ffa8c9a6d455294a4c28fdddaf8764c6e84ec66d3fa648",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022404689132732590#m",
+      "date": "Fri, 13 Feb 2026 20:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
+        "https://nitter.net/pic/media%2FHBEGWQqbYAABqGN.jpg"
       ]
     },
     {
@@ -655,21 +666,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBCz9YmbwAA6CtV.jpg"
-      ]
-    },
-    {
-      "id": "8d4903bebf3d9c238df4c4074eea6f64e9babb98b67891ba385ed90236778170",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022283899175309324#m",
-      "date": "Fri, 13 Feb 2026 12:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBCYfWdWIAE8fRB.jpg"
       ]
     }
   ]
