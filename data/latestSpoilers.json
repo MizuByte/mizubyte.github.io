@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-02-13T18:26:32.140Z",
+  "generatedAt": "2026-02-13T19:31:39.929Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "304a52a0a25d9e536adbb59620f97b98a788a531cb47a8022bc5cbe6e3652dc8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 THIS DESIGN IS SO COOL I JUST HAD TO DO DRAW IT!!! LOKI a gigantic BLACK DRAGON - The sketch took about an hour saw the leaks and immediately got drawing",
+      "text": "#ONEPIECE1174 THIS DESIGN IS SO COOL I JUST HAD TO DO DRAW IT!!! LOKI a gigantic BLACK DRAGON - The sketch took about an hour saw the leaks and immediately got drawing",
+      "url": "https://nitter.net/AyePart2/status/2022269065750851713#m",
+      "date": "Fri, 13 Feb 2026 11:18:11 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBCKjZQaEAA9nxl.jpg"
+      ]
+    },
     {
       "id": "a3756017db6845750464619c78cfa6397fa535d6257c6feebd6e892c8b0cac02",
       "anime": "boruto",
@@ -20,6 +35,173 @@
   ],
   "misc": [
     {
+      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "WE FINALLY HIT 400k Thank you 🫶",
+      "text": "WE FINALLY HIT 400k Thank you 🫶",
+      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
+      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+      ]
+    },
+    {
+      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
+      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
+        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
+        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+      ]
+    },
+    {
+      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
+      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
+      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
+      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+      ]
+    },
+    {
+      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "First look at Kureha in onepiece live action season 2",
+      "text": "First look at Kureha in onepiece live action season 2",
+      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
+      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+      ]
+    },
+    {
+      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
+      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+      ]
+    },
+    {
+      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
+      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
+      ]
+    },
+    {
+      "id": "32fe42a8a33bae30d36c2007faf09217a0fd931f600c4613a321d0907940e94a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Now watching peak content, @AniKing 😂 Atlético Madrid vs. FC Barcelona - Stadionvlog 😡 | SCHLIMMSTER BRUCH SEI... piped.video/WCJnQCIiZxs?si=_pr3… via @YouTube",
+      "text": "Now watching peak content, @AniKing 😂 Atlético Madrid vs. FC Barcelona - Stadionvlog 😡 | SCHLIMMSTER BRUCH SEI... piped.video/WCJnQCIiZxs?si=_pr3… via @YouTube",
+      "url": "https://nitter.net/WorstGenHQ/status/2022376947288871066#m",
+      "date": "Fri, 13 Feb 2026 18:26:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2022303969129725952%2FBqBgT-h8%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "70be2ef2ddb40f28013083fed6cdf3337a5f24a8bc9c8b6316a28edf3ac295c8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This is the biggest case of psychopath for no reason in one piece really 😂 And he was like: Imu's fault, so I can just enjoy 😭😭 #ONEPIECE1174",
+      "text": "This is the biggest case of psychopath for no reason in one piece really 😂 And he was like: Imu's fault, so I can just enjoy 😭😭 #ONEPIECE1174",
+      "url": "https://nitter.net/Myglobalbun/status/2022369948438327455#m",
+      "date": "Fri, 13 Feb 2026 17:59:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBDmb--WoAAYMTN.png"
+      ]
+    },
+    {
+      "id": "59f37bf35124a572cb4f780a524a8d7f50ac94bbb214cff055b6523625c170ef",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 “On a curious day, when thunder and snow both flurry… a giant beast shall appear to blot out the skies… the drums of liberation will boom out… AND THE SUN GOD WILL RISE” Video",
+      "text": "#ONEPIECE1174 “On a curious day, when thunder and snow both flurry… a giant beast shall appear to blot out the skies… the drums of liberation will boom out… AND THE SUN GOD WILL RISE” Video",
+      "url": "https://nitter.net/Soul_StormOP/status/2022352611488170303#m",
+      "date": "Fri, 13 Feb 2026 16:50:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2022352560242458625%2Fimg%2FHc3DCLJUUwd_tE4X.jpg"
+      ]
+    },
+    {
+      "id": "f255abc9c7a96523bfebffcc226f337f62ec78170cdecc5a209b1a594e599031",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 \"Strongest in the world\"",
+      "text": "#ONEPIECE1174 \"Strongest in the world\"",
+      "url": "https://nitter.net/sigmarshanks/status/2022307642631246067#m",
+      "date": "Fri, 13 Feb 2026 13:51:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBCuFVxW4AAFm2H.jpg"
+      ]
+    },
+    {
+      "id": "e7386292d41b007b4c92296b086b5ecc27b888a7b531764c0666a4b7c9da6d64",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Piccolo this, Jin Woo that…. Let me show you the real goat Aura farmer Video",
+      "text": "Piccolo this, Jin Woo that…. Let me show you the real goat Aura farmer Video",
+      "url": "https://nitter.net/inviz0/status/2022095862021906507#m",
+      "date": "Thu, 12 Feb 2026 23:49:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2022095451273789440%2Fimg%2Fn5cGC1TQD2-HvAqM.jpg"
+      ]
+    },
+    {
       "id": "b28fb095bdecf9ad46150f61863a926194bde1c5cfd05c13b660a6588a0b0e24",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -81,17 +263,19 @@
       ]
     },
     {
-      "id": "400ce6512b182ea4c8dee072668848ca197c2658ad920bad861ba53de30e8962",
+      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
-      "text": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
-      "url": "https://nitter.net/SchmurfiV1/status/2020927572838842871#m",
-      "date": "Mon, 09 Feb 2026 18:27:35 GMT",
+      "title": "This mf isn’t Japanese btw #BORUTO",
+      "text": "This mf isn’t Japanese btw #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
+      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
+      ]
     },
     {
       "id": "2621fc6f5f70d013e441e73c9da3294df3253a10d432b65d58535614211a5fb3",
@@ -152,39 +336,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBCYfWdWIAE8fRB.jpg"
       ]
-    },
-    {
-      "id": "e7e66e11660f92edd425a18ac5672bbdec01c94693f6ec788ef0af5e506e01d0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022253694427726268#m",
-      "date": "Fri, 13 Feb 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBB9BONaEAEds4V.jpg"
-      ]
-    },
-    {
-      "id": "4f7925494b86a343d2654c437f201e1aaf3547721024976f209accc41c28ff0b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022223498559590499#m",
-      "date": "Fri, 13 Feb 2026 08:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBBhjidXoAAzZel.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "304a52a0a25d9e536adbb59620f97b98a788a531cb47a8022bc5cbe6e3652dc8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 THIS DESIGN IS SO COOL I JUST HAD TO DO DRAW IT!!! LOKI a gigantic BLACK DRAGON - The sketch took about an hour saw the leaks and immediately got drawing",
+      "text": "#ONEPIECE1174 THIS DESIGN IS SO COOL I JUST HAD TO DO DRAW IT!!! LOKI a gigantic BLACK DRAGON - The sketch took about an hour saw the leaks and immediately got drawing",
+      "url": "https://nitter.net/AyePart2/status/2022269065750851713#m",
+      "date": "Fri, 13 Feb 2026 11:18:11 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBCKjZQaEAA9nxl.jpg"
+      ]
+    },
     {
       "id": "a3756017db6845750464619c78cfa6397fa535d6257c6feebd6e892c8b0cac02",
       "anime": "boruto",
@@ -201,6 +370,173 @@
       ]
     },
     {
+      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "WE FINALLY HIT 400k Thank you 🫶",
+      "text": "WE FINALLY HIT 400k Thank you 🫶",
+      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
+      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+      ]
+    },
+    {
+      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
+      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
+        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
+        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+      ]
+    },
+    {
+      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
+      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
+      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
+      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+      ]
+    },
+    {
+      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "First look at Kureha in onepiece live action season 2",
+      "text": "First look at Kureha in onepiece live action season 2",
+      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
+      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+      ]
+    },
+    {
+      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
+      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+      ]
+    },
+    {
+      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
+      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
+      ]
+    },
+    {
+      "id": "32fe42a8a33bae30d36c2007faf09217a0fd931f600c4613a321d0907940e94a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Now watching peak content, @AniKing 😂 Atlético Madrid vs. FC Barcelona - Stadionvlog 😡 | SCHLIMMSTER BRUCH SEI... piped.video/WCJnQCIiZxs?si=_pr3… via @YouTube",
+      "text": "Now watching peak content, @AniKing 😂 Atlético Madrid vs. FC Barcelona - Stadionvlog 😡 | SCHLIMMSTER BRUCH SEI... piped.video/WCJnQCIiZxs?si=_pr3… via @YouTube",
+      "url": "https://nitter.net/WorstGenHQ/status/2022376947288871066#m",
+      "date": "Fri, 13 Feb 2026 18:26:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2022303969129725952%2FBqBgT-h8%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "70be2ef2ddb40f28013083fed6cdf3337a5f24a8bc9c8b6316a28edf3ac295c8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This is the biggest case of psychopath for no reason in one piece really 😂 And he was like: Imu's fault, so I can just enjoy 😭😭 #ONEPIECE1174",
+      "text": "This is the biggest case of psychopath for no reason in one piece really 😂 And he was like: Imu's fault, so I can just enjoy 😭😭 #ONEPIECE1174",
+      "url": "https://nitter.net/Myglobalbun/status/2022369948438327455#m",
+      "date": "Fri, 13 Feb 2026 17:59:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBDmb--WoAAYMTN.png"
+      ]
+    },
+    {
+      "id": "59f37bf35124a572cb4f780a524a8d7f50ac94bbb214cff055b6523625c170ef",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 “On a curious day, when thunder and snow both flurry… a giant beast shall appear to blot out the skies… the drums of liberation will boom out… AND THE SUN GOD WILL RISE” Video",
+      "text": "#ONEPIECE1174 “On a curious day, when thunder and snow both flurry… a giant beast shall appear to blot out the skies… the drums of liberation will boom out… AND THE SUN GOD WILL RISE” Video",
+      "url": "https://nitter.net/Soul_StormOP/status/2022352611488170303#m",
+      "date": "Fri, 13 Feb 2026 16:50:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2022352560242458625%2Fimg%2FHc3DCLJUUwd_tE4X.jpg"
+      ]
+    },
+    {
+      "id": "f255abc9c7a96523bfebffcc226f337f62ec78170cdecc5a209b1a594e599031",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 \"Strongest in the world\"",
+      "text": "#ONEPIECE1174 \"Strongest in the world\"",
+      "url": "https://nitter.net/sigmarshanks/status/2022307642631246067#m",
+      "date": "Fri, 13 Feb 2026 13:51:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBCuFVxW4AAFm2H.jpg"
+      ]
+    },
+    {
+      "id": "e7386292d41b007b4c92296b086b5ecc27b888a7b531764c0666a4b7c9da6d64",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Piccolo this, Jin Woo that…. Let me show you the real goat Aura farmer Video",
+      "text": "Piccolo this, Jin Woo that…. Let me show you the real goat Aura farmer Video",
+      "url": "https://nitter.net/inviz0/status/2022095862021906507#m",
+      "date": "Thu, 12 Feb 2026 23:49:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2022095451273789440%2Fimg%2Fn5cGC1TQD2-HvAqM.jpg"
+      ]
+    },
+    {
       "id": "b28fb095bdecf9ad46150f61863a926194bde1c5cfd05c13b660a6588a0b0e24",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -262,17 +598,19 @@
       ]
     },
     {
-      "id": "400ce6512b182ea4c8dee072668848ca197c2658ad920bad861ba53de30e8962",
+      "id": "c17d8b2e610a63dd78e0b8f4330f975f47f4ff639569a63d9618e2e808184d2b",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
-      "text": "And I just wanted to point it out to others who don’t know him… As you can see me and that guy are mutuals… Why would I hate on this? Genuinely…",
-      "url": "https://nitter.net/SchmurfiV1/status/2020927572838842871#m",
-      "date": "Mon, 09 Feb 2026 18:27:35 GMT",
+      "title": "This mf isn’t Japanese btw #BORUTO",
+      "text": "This mf isn’t Japanese btw #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2020816574257516605#m",
+      "date": "Mon, 09 Feb 2026 11:06:30 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAth9bGW4AAl6uL.jpg"
+      ]
     },
     {
       "id": "2621fc6f5f70d013e441e73c9da3294df3253a10d432b65d58535614211a5fb3",
@@ -332,36 +670,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBCYfWdWIAE8fRB.jpg"
-      ]
-    },
-    {
-      "id": "e7e66e11660f92edd425a18ac5672bbdec01c94693f6ec788ef0af5e506e01d0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022253694427726268#m",
-      "date": "Fri, 13 Feb 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBB9BONaEAEds4V.jpg"
-      ]
-    },
-    {
-      "id": "4f7925494b86a343d2654c437f201e1aaf3547721024976f209accc41c28ff0b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022223498559590499#m",
-      "date": "Fri, 13 Feb 2026 08:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBBhjidXoAAzZel.jpg"
       ]
     }
   ]
