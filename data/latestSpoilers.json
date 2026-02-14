@@ -1,377 +1,188 @@
 {
-  "generatedAt": "2026-02-14T13:33:57.207Z",
+  "generatedAt": "2026-02-14T14:06:06.557Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "9dd33efca543ce775ea5ec66fbceb2773db3b9a927a0b29b8b1e048d12abf2fd",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631675780321295#m",
-      "date": "Sat, 14 Feb 2026 11:19:04 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHUyl6akAQuxNM.jpg",
-        "https://nitter.net/pic/media%2FHBHUykDakAAbhjE.jpg"
-      ]
-    },
-    {
-      "id": "5cfd3f1d5ee04c46176741ecf9fdb7ae6d4010b3feee91460e9d01beea86c2bb",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631666498617344#m",
-      "date": "Sat, 14 Feb 2026 11:19:02 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHSYBpbsAAZ38j.jpg"
-      ]
-    },
-    {
-      "id": "0afa2b9f17ab1286080ccac5c93fec306b667af4c081e2fca60bcb3d16fd4e7b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022629012393312395#m",
-      "date": "Sat, 14 Feb 2026 11:08:29 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHSXSNXUAAGxlK.jpg",
-        "https://nitter.net/pic/media%2FHBHSXTCXIAErtP2.jpg"
-      ]
-    },
-    {
-      "id": "e1caeb5086746fd9a94900768e6d6cbaf44b70dad434196aa7739becc4ab0cb6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022629001014186273#m",
-      "date": "Sat, 14 Feb 2026 11:08:27 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHSW1IXQAA9eB2.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
-      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "WE FINALLY HIT 400k Thank you 🫶",
-      "text": "WE FINALLY HIT 400k Thank you 🫶",
-      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
-      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "id": "83ead59b13c7a009106a8eb0c492dc8487d2c8f21e57dfd5ce888044e9cd06b7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022646282624401529#m",
+      "date": "Sat, 14 Feb 2026 12:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+        "https://nitter.net/pic/media%2FHBHiE0hWIAAuqIG.jpg"
       ]
     },
     {
-      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
-      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "id": "4b631afcb2de8d5a5b5b8b0f44be045f1509af7eb9803f68adc7cbbe821b84ab",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022616091663515835#m",
+      "date": "Sat, 14 Feb 2026 10:17:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
-        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
-        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+        "https://nitter.net/pic/media%2FHBHGneLakAIsV6r.jpg"
       ]
     },
     {
-      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
-      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
-      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
-      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "id": "7e22d9eec6f48f6064a386c95ef39f4931e3e7b81ff46a51d7e49431aee878a2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022585883547845070#m",
+      "date": "Sat, 14 Feb 2026 08:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+        "https://nitter.net/pic/media%2FHBGrJI1XAAAwpaZ.jpg"
       ]
     },
     {
-      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First look at Kureha in onepiece live action season 2",
-      "text": "First look at Kureha in onepiece live action season 2",
-      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
-      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "id": "4d278096691d2ade6811cedf35c79a0afb7dc4f5867b94c508adb3f78eb1cd4c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022555683929883047#m",
+      "date": "Sat, 14 Feb 2026 06:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+        "https://nitter.net/pic/media%2FHBGPrTZbEAAZsLk.jpg"
       ]
     },
     {
-      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
-      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "id": "a92fadef1d8bc5e1107875a67a29e389f819ec7ac8fa6e0b41233657de1fbdd3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022525491215769789#m",
+      "date": "Sat, 14 Feb 2026 04:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+        "https://nitter.net/pic/media%2FHBF0N2NbMAAB86v.jpg"
       ]
     },
     {
-      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
-      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "id": "7ad358370c6abb0859653484d9f019a4676ed9055c982331ff3eeed40be6629a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022495293049016464#m",
+      "date": "Sat, 14 Feb 2026 02:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
-      ]
-    },
-    {
-      "id": "5a991b1de57b6e1ade59887d41d18017f13e71eb83fdc3c691893b80774e0693",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 😭🤣",
-      "text": "#ONEPIECE1174 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022641004592193936#m",
-      "date": "Sat, 14 Feb 2026 11:56:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHdMG_akAEhxWe.jpg"
-      ]
-    },
-    {
-      "id": "c0eef37a5a8c21a5dc78a31cecb70b0aff5fa58dc2dd4e1879ab1f286c0d32b6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🤣🤣🤣",
-      "text": "🤣🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631685280665917#m",
-      "date": "Sat, 14 Feb 2026 11:19:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHUzH4akAU-rNE.jpg"
+        "https://nitter.net/pic/media%2FHBFYwGwXcAAYTtL.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "9dd33efca543ce775ea5ec66fbceb2773db3b9a927a0b29b8b1e048d12abf2fd",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631675780321295#m",
-      "date": "Sat, 14 Feb 2026 11:19:04 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHUyl6akAQuxNM.jpg",
-        "https://nitter.net/pic/media%2FHBHUykDakAAbhjE.jpg"
-      ]
-    },
-    {
-      "id": "5cfd3f1d5ee04c46176741ecf9fdb7ae6d4010b3feee91460e9d01beea86c2bb",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631666498617344#m",
-      "date": "Sat, 14 Feb 2026 11:19:02 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHSYBpbsAAZ38j.jpg"
-      ]
-    },
-    {
-      "id": "0afa2b9f17ab1286080ccac5c93fec306b667af4c081e2fca60bcb3d16fd4e7b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022629012393312395#m",
-      "date": "Sat, 14 Feb 2026 11:08:29 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHSXSNXUAAGxlK.jpg",
-        "https://nitter.net/pic/media%2FHBHSXTCXIAErtP2.jpg"
-      ]
-    },
-    {
-      "id": "e1caeb5086746fd9a94900768e6d6cbaf44b70dad434196aa7739becc4ab0cb6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022629001014186273#m",
-      "date": "Sat, 14 Feb 2026 11:08:27 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHSW1IXQAA9eB2.jpg"
-      ]
-    },
-    {
-      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "WE FINALLY HIT 400k Thank you 🫶",
-      "text": "WE FINALLY HIT 400k Thank you 🫶",
-      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
-      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
+      "id": "83ead59b13c7a009106a8eb0c492dc8487d2c8f21e57dfd5ce888044e9cd06b7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022646282624401529#m",
+      "date": "Sat, 14 Feb 2026 12:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
+        "https://nitter.net/pic/media%2FHBHiE0hWIAAuqIG.jpg"
       ]
     },
     {
-      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
-      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
+      "id": "4b631afcb2de8d5a5b5b8b0f44be045f1509af7eb9803f68adc7cbbe821b84ab",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022616091663515835#m",
+      "date": "Sat, 14 Feb 2026 10:17:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
-        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
-        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
+        "https://nitter.net/pic/media%2FHBHGneLakAIsV6r.jpg"
       ]
     },
     {
-      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
-      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
-      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
-      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
+      "id": "7e22d9eec6f48f6064a386c95ef39f4931e3e7b81ff46a51d7e49431aee878a2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022585883547845070#m",
+      "date": "Sat, 14 Feb 2026 08:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
+        "https://nitter.net/pic/media%2FHBGrJI1XAAAwpaZ.jpg"
       ]
     },
     {
-      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First look at Kureha in onepiece live action season 2",
-      "text": "First look at Kureha in onepiece live action season 2",
-      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
-      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
+      "id": "4d278096691d2ade6811cedf35c79a0afb7dc4f5867b94c508adb3f78eb1cd4c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022555683929883047#m",
+      "date": "Sat, 14 Feb 2026 06:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
+        "https://nitter.net/pic/media%2FHBGPrTZbEAAZsLk.jpg"
       ]
     },
     {
-      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
-      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
-      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
+      "id": "a92fadef1d8bc5e1107875a67a29e389f819ec7ac8fa6e0b41233657de1fbdd3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022525491215769789#m",
+      "date": "Sat, 14 Feb 2026 04:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+        "https://nitter.net/pic/media%2FHBF0N2NbMAAB86v.jpg"
       ]
     },
     {
-      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
-      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "id": "7ad358370c6abb0859653484d9f019a4676ed9055c982331ff3eeed40be6629a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2022495293049016464#m",
+      "date": "Sat, 14 Feb 2026 02:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
-      ]
-    },
-    {
-      "id": "5a991b1de57b6e1ade59887d41d18017f13e71eb83fdc3c691893b80774e0693",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 😭🤣",
-      "text": "#ONEPIECE1174 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022641004592193936#m",
-      "date": "Sat, 14 Feb 2026 11:56:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHdMG_akAEhxWe.jpg"
-      ]
-    },
-    {
-      "id": "c0eef37a5a8c21a5dc78a31cecb70b0aff5fa58dc2dd4e1879ab1f286c0d32b6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🤣🤣🤣",
-      "text": "🤣🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631685280665917#m",
-      "date": "Sat, 14 Feb 2026 11:19:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHUzH4akAU-rNE.jpg"
+        "https://nitter.net/pic/media%2FHBFYwGwXcAAYTtL.jpg"
       ]
     }
   ]
