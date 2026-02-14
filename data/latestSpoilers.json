@@ -1,98 +1,192 @@
 {
-  "generatedAt": "2026-02-14T17:04:15.231Z",
+  "generatedAt": "2026-02-14T17:46:50.142Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "9dd33efca543ce775ea5ec66fbceb2773db3b9a927a0b29b8b1e048d12abf2fd",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631675780321295#m",
-      "date": "Sat, 14 Feb 2026 11:19:04 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHUyl6akAQuxNM.jpg",
-        "https://nitter.net/pic/media%2FHBHUykDakAAbhjE.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
-      "id": "5a991b1de57b6e1ade59887d41d18017f13e71eb83fdc3c691893b80774e0693",
+      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 😭🤣",
-      "text": "#ONEPIECE1174 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022641004592193936#m",
-      "date": "Sat, 14 Feb 2026 11:56:09 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "WE FINALLY HIT 400k Thank you 🫶",
+      "text": "WE FINALLY HIT 400k Thank you 🫶",
+      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
+      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHdMG_akAEhxWe.jpg"
+        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
       ]
     },
     {
-      "id": "f39c1e56a43ebe8e8b807913124ed7596d8c0233709dfaec8460c8daa05e5f27",
+      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 Meme Piece Thread",
-      "text": "#ONEPIECE1174 Meme Piece Thread",
-      "url": "https://nitter.net/WorstGenHQ/status/2022628942772092963#m",
-      "date": "Sat, 14 Feb 2026 11:08:13 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
+      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHSS9YasAAYUOu.jpg"
+        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
+        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
+        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
       ]
     },
     {
-      "id": "c0eef37a5a8c21a5dc78a31cecb70b0aff5fa58dc2dd4e1879ab1f286c0d32b6",
+      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🤣🤣🤣",
-      "text": "🤣🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631685280665917#m",
-      "date": "Sat, 14 Feb 2026 11:19:07 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
+      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
+      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
+      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHUzH4akAU-rNE.jpg"
+        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
       ]
     },
     {
-      "id": "023cc10b6e538ebd66b51cee66df208f8db6a3ad047c271a8fb13f06d6aa1674",
+      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174",
-      "text": "#ONEPIECE1174",
-      "url": "https://nitter.net/Toadgashi/status/2022403055325737049#m",
-      "date": "Fri, 13 Feb 2026 20:10:37 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "First look at Kureha in onepiece live action season 2",
+      "text": "First look at Kureha in onepiece live action season 2",
+      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
+      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBEE3FhaYAAzSaM.jpg"
+        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
       ]
     },
     {
-      "id": "7a12cbb9ec4ebf9468b499783fc45517151f49563edb72b8923db5032e0ac7ec",
+      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
-      "text": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2022440901658972627#m",
-      "date": "Fri, 13 Feb 2026 22:41:00 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
+      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBEnNnZagAAxBt2.png"
+        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+      ]
+    },
+    {
+      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
+      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
+      ]
+    },
+    {
+      "id": "2d441703eddd37a3f1c8bceff85996fcdb49eeeca2b8f021e45809cce60234f9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "She loves you, she loves you not. ONE PIECE: INTO THE GRAND LINE 24 days left!",
+      "text": "She loves you, she loves you not. ONE PIECE: INTO THE GRAND LINE 24 days left!",
+      "url": "https://nitter.net/onepiecenetflix/status/2022702375882969484#m",
+      "date": "Sat, 14 Feb 2026 16:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBH1sMaXQAA4G8I.jpg"
+      ]
+    },
+    {
+      "id": "e8cfb6b50402d225420ef2812b72b489c8e8c9efc69c863de39dc39813035547",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【ワンピカード情報】 2.28(土)発売 ブースターパック『神の島の冒険』の 新PVが公開されました！ 本パックに収録される シークレットレア(スーパーパラレル)、解禁⚡️ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "text": "【ワンピカード情報】 2.28(土)発売 ブースターパック『神の島の冒険』の 新PVが公開されました！ 本パックに収録される シークレットレア(スーパーパラレル)、解禁⚡️ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2022658055394201824#m",
+      "date": "Sat, 14 Feb 2026 13:03:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2022657292236406784%2Fimg%2FaeF3l_jsijrAhEPf.jpg"
+      ]
+    },
+    {
+      "id": "7b593404b8d68ef753fe207a203c827a3c53f14fac89d93ccfb8f0960dac240c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "OPCG EXTRA BOOSTER -ONE PIECE HEROINES EDITION- [EB-03] CARD REVEALS: Hey One Piece Pirates! Here’s the alt-art EB03-001 Nefeltari Vivi! Add this beautifully illustrated Red and Blue card to your deck",
+      "text": "OPCG EXTRA BOOSTER -ONE PIECE HEROINES EDITION- [EB-03] CARD REVEALS: Hey One Piece Pirates! Here’s the alt-art EB03-001 Nefeltari Vivi! Add this beautifully illustrated Red and Blue card to your deck to enhance both your strategy and visual flair. Release Date: Feb. 20 Details are on the official website! en.onepiece-cardgame.com/pro… #ONEPIECE #onepiececardgame",
+      "url": "https://nitter.net/ONEPIECE_tcg_EN/status/2022657077542555872#m",
+      "date": "Sat, 14 Feb 2026 13:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBAjUR-boAA79zX.jpg"
+      ]
+    },
+    {
+      "id": "a9536cd0c58a076db6bc6bd15a9ef20b7b4ac25686f54a432f9ba2a71f842ed6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★発売まであと14日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "text": "★発売まであと14日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2022626883083681982#m",
+      "date": "Sat, 14 Feb 2026 11:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBBlksMaMAAGVQ1.jpg"
+      ]
+    },
+    {
+      "id": "f237154073be31655665e6f127302815d7a47f23e6c19221527bab442c1fa78d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◤ 最新情報 ◢ 3/14(土)～15(日)開催 『#ONEPIECEカードゲーム チャンピオンシップ25-26 ワールドファイナル』の記念品を公開！ #ワンピカード #ONEPIECE",
+      "text": "◤ 最新情報 ◢ 3/14(土)～15(日)開催 『#ONEPIECEカードゲーム チャンピオンシップ25-26 ワールドファイナル』の記念品を公開！ #ワンピカード #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2022595713935512000#m",
+      "date": "Sat, 14 Feb 2026 08:56:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBGz-5-aUAEB_qs.jpg",
+        "https://nitter.net/pic/media%2FHBGz_5SbkAAa9Yo.jpg"
+      ]
+    },
+    {
+      "id": "5d924f483fad039bb2e71ec6365be0b72246b38248f6e8d377117083fd6bff72",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "一番くじ ONE PIECE CARD GAME Ａ賞 モンキー・D・ルフィ ONE PIECE CARD GAME フィギュア 《パッケージver.》 #ONEPIECE",
+      "text": "一番くじ ONE PIECE CARD GAME Ａ賞 モンキー・D・ルフィ ONE PIECE CARD GAME フィギュア 《パッケージver.》 #ONEPIECE",
+      "url": "https://nitter.net/maiwarano3721/status/2022551698557071624#m",
+      "date": "Sat, 14 Feb 2026 06:01:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBGMCzSaEAAHSQM.jpg",
+        "https://nitter.net/pic/media%2FHBGMCy_aMAA30IJ.jpg",
+        "https://nitter.net/pic/media%2FHBGMCzKbYAAzrva.jpg",
+        "https://nitter.net/pic/media%2FHBGMCzQaoAAO8DW.jpg"
       ]
     },
     {
@@ -188,94 +282,189 @@
   ],
   "items": [
     {
-      "id": "9dd33efca543ce775ea5ec66fbceb2773db3b9a927a0b29b8b1e048d12abf2fd",
+      "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631675780321295#m",
-      "date": "Sat, 14 Feb 2026 11:19:04 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHUyl6akAQuxNM.jpg",
-        "https://nitter.net/pic/media%2FHBHUykDakAAbhjE.jpg"
-      ]
-    },
-    {
-      "id": "5a991b1de57b6e1ade59887d41d18017f13e71eb83fdc3c691893b80774e0693",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 😭🤣",
-      "text": "#ONEPIECE1174 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022641004592193936#m",
-      "date": "Sat, 14 Feb 2026 11:56:09 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "WE FINALLY HIT 400k Thank you 🫶",
+      "text": "WE FINALLY HIT 400k Thank you 🫶",
+      "url": "https://nitter.net/pewpiece/status/2021661409948664125#m",
+      "date": "Wed, 11 Feb 2026 19:03:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHdMG_akAEhxWe.jpg"
+        "https://nitter.net/pic/media%2FHA5iQoqbsAkPjdB.jpg"
       ]
     },
     {
-      "id": "f39c1e56a43ebe8e8b807913124ed7596d8c0233709dfaec8460c8daa05e5f27",
+      "id": "9c533d28b84b489b2a32ee27979bf1ab143c830ee06e2111d6595807c9850e24",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 Meme Piece Thread",
-      "text": "#ONEPIECE1174 Meme Piece Thread",
-      "url": "https://nitter.net/WorstGenHQ/status/2022628942772092963#m",
-      "date": "Sat, 14 Feb 2026 11:08:13 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1174 FULL SUMMARY FOR ONEPIECE CHAPTER 1174 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2021655637277720896#m",
+      "date": "Wed, 11 Feb 2026 18:40:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHSS9YasAAYUOu.jpg"
+        "https://nitter.net/pic/media%2FHA5dB0SbsAINu7i.png",
+        "https://nitter.net/pic/media%2FHA5dCXvaMAA4l6I.jpg",
+        "https://nitter.net/pic/media%2FHA5dDD3XkAA0Wdy.png"
       ]
     },
     {
-      "id": "c0eef37a5a8c21a5dc78a31cecb70b0aff5fa58dc2dd4e1879ab1f286c0d32b6",
+      "id": "30e4ef5ec6b50d0b12d8d6fe94f868a65d11cb70bef3917ba9e9580ec5f8fd0b",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🤣🤣🤣",
-      "text": "🤣🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2022631685280665917#m",
-      "date": "Sat, 14 Feb 2026 11:19:07 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say ",
+      "text": "#ONEPIECE1174 From: @Mugiwara_23 : \"So you can get an idea of how big Loki is when he transforms into a dragon: this giant Luffy is much smaller than just one of Loki’s horns in dragon form. If I say Dragon Loki is 50 times bigger than Dragon Kaidou, I think I’m still seriously underestimating it XD\"",
+      "url": "https://nitter.net/pewpiece/status/2021283151591481562#m",
+      "date": "Tue, 10 Feb 2026 18:00:31 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHUzH4akAU-rNE.jpg"
+        "https://nitter.net/pic/media%2FHA0KReeaAAE3d4c.png"
       ]
     },
     {
-      "id": "023cc10b6e538ebd66b51cee66df208f8db6a3ad047c271a8fb13f06d6aa1674",
+      "id": "3677288fe5029033614470e43d98970383720dff1db716a1bc69e1fa6eb2e176",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174",
-      "text": "#ONEPIECE1174",
-      "url": "https://nitter.net/Toadgashi/status/2022403055325737049#m",
-      "date": "Fri, 13 Feb 2026 20:10:37 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "First look at Kureha in onepiece live action season 2",
+      "text": "First look at Kureha in onepiece live action season 2",
+      "url": "https://nitter.net/pewpiece/status/2021237419828244883#m",
+      "date": "Tue, 10 Feb 2026 14:58:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBEE3FhaYAAzSaM.jpg"
+        "https://nitter.net/pic/media%2FHAzgt8cbIAAyKYB.jpg"
       ]
     },
     {
-      "id": "7a12cbb9ec4ebf9468b499783fc45517151f49563edb72b8923db5032e0ac7ec",
+      "id": "0406a82a215eafa2f429120ad5547e0fdc27974ac5bba9739fdc2c7442133271",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
-      "text": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2022440901658972627#m",
-      "date": "Fri, 13 Feb 2026 22:41:00 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "text": "New doodles of the One Piece live-action cast by Eiichiro Oda",
+      "url": "https://nitter.net/pewpiece/status/2021227912075100393#m",
+      "date": "Tue, 10 Feb 2026 14:21:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBEnNnZagAAxBt2.png"
+        "https://nitter.net/pic/media%2FHAzXf31W8AANmCb.jpg"
+      ]
+    },
+    {
+      "id": "bd919e67a4df84c39d24f100a8ee6146f30489264778e975c314d44c1f2978a3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "text": "EIICHIRO ODA MESSAGE FOR ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2021223328229294179#m",
+      "date": "Tue, 10 Feb 2026 14:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHAzT2EuXoAA9OKT.jpg"
+      ]
+    },
+    {
+      "id": "2d441703eddd37a3f1c8bceff85996fcdb49eeeca2b8f021e45809cce60234f9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "She loves you, she loves you not. ONE PIECE: INTO THE GRAND LINE 24 days left!",
+      "text": "She loves you, she loves you not. ONE PIECE: INTO THE GRAND LINE 24 days left!",
+      "url": "https://nitter.net/onepiecenetflix/status/2022702375882969484#m",
+      "date": "Sat, 14 Feb 2026 16:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBH1sMaXQAA4G8I.jpg"
+      ]
+    },
+    {
+      "id": "e8cfb6b50402d225420ef2812b72b489c8e8c9efc69c863de39dc39813035547",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【ワンピカード情報】 2.28(土)発売 ブースターパック『神の島の冒険』の 新PVが公開されました！ 本パックに収録される シークレットレア(スーパーパラレル)、解禁⚡️ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "text": "【ワンピカード情報】 2.28(土)発売 ブースターパック『神の島の冒険』の 新PVが公開されました！ 本パックに収録される シークレットレア(スーパーパラレル)、解禁⚡️ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2022658055394201824#m",
+      "date": "Sat, 14 Feb 2026 13:03:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2022657292236406784%2Fimg%2FaeF3l_jsijrAhEPf.jpg"
+      ]
+    },
+    {
+      "id": "7b593404b8d68ef753fe207a203c827a3c53f14fac89d93ccfb8f0960dac240c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "OPCG EXTRA BOOSTER -ONE PIECE HEROINES EDITION- [EB-03] CARD REVEALS: Hey One Piece Pirates! Here’s the alt-art EB03-001 Nefeltari Vivi! Add this beautifully illustrated Red and Blue card to your deck",
+      "text": "OPCG EXTRA BOOSTER -ONE PIECE HEROINES EDITION- [EB-03] CARD REVEALS: Hey One Piece Pirates! Here’s the alt-art EB03-001 Nefeltari Vivi! Add this beautifully illustrated Red and Blue card to your deck to enhance both your strategy and visual flair. Release Date: Feb. 20 Details are on the official website! en.onepiece-cardgame.com/pro… #ONEPIECE #onepiececardgame",
+      "url": "https://nitter.net/ONEPIECE_tcg_EN/status/2022657077542555872#m",
+      "date": "Sat, 14 Feb 2026 13:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBAjUR-boAA79zX.jpg"
+      ]
+    },
+    {
+      "id": "a9536cd0c58a076db6bc6bd15a9ef20b7b4ac25686f54a432f9ba2a71f842ed6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★発売まであと14日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "text": "★発売まであと14日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2022626883083681982#m",
+      "date": "Sat, 14 Feb 2026 11:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBBlksMaMAAGVQ1.jpg"
+      ]
+    },
+    {
+      "id": "f237154073be31655665e6f127302815d7a47f23e6c19221527bab442c1fa78d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◤ 最新情報 ◢ 3/14(土)～15(日)開催 『#ONEPIECEカードゲーム チャンピオンシップ25-26 ワールドファイナル』の記念品を公開！ #ワンピカード #ONEPIECE",
+      "text": "◤ 最新情報 ◢ 3/14(土)～15(日)開催 『#ONEPIECEカードゲーム チャンピオンシップ25-26 ワールドファイナル』の記念品を公開！ #ワンピカード #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2022595713935512000#m",
+      "date": "Sat, 14 Feb 2026 08:56:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBGz-5-aUAEB_qs.jpg",
+        "https://nitter.net/pic/media%2FHBGz_5SbkAAa9Yo.jpg"
+      ]
+    },
+    {
+      "id": "5d924f483fad039bb2e71ec6365be0b72246b38248f6e8d377117083fd6bff72",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "一番くじ ONE PIECE CARD GAME Ａ賞 モンキー・D・ルフィ ONE PIECE CARD GAME フィギュア 《パッケージver.》 #ONEPIECE",
+      "text": "一番くじ ONE PIECE CARD GAME Ａ賞 モンキー・D・ルフィ ONE PIECE CARD GAME フィギュア 《パッケージver.》 #ONEPIECE",
+      "url": "https://nitter.net/maiwarano3721/status/2022551698557071624#m",
+      "date": "Sat, 14 Feb 2026 06:01:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBGMCzSaEAAHSQM.jpg",
+        "https://nitter.net/pic/media%2FHBGMCy_aMAA30IJ.jpg",
+        "https://nitter.net/pic/media%2FHBGMCzKbYAAzrva.jpg",
+        "https://nitter.net/pic/media%2FHBGMCzQaoAAO8DW.jpg"
       ]
     },
     {
