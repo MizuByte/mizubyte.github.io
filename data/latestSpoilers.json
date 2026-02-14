@@ -1,188 +1,191 @@
 {
-  "generatedAt": "2026-02-14T14:06:06.557Z",
+  "generatedAt": "2026-02-14T14:49:45.960Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "9dd33efca543ce775ea5ec66fbceb2773db3b9a927a0b29b8b1e048d12abf2fd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/WorstGenHQ/status/2022631675780321295#m",
+      "date": "Sat, 14 Feb 2026 11:19:04 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBHUyl6akAQuxNM.jpg",
+        "https://nitter.net/pic/media%2FHBHUykDakAAbhjE.jpg"
+      ]
+    }
+  ],
   "misc": [
     {
-      "id": "83ead59b13c7a009106a8eb0c492dc8487d2c8f21e57dfd5ce888044e9cd06b7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022646282624401529#m",
-      "date": "Sat, 14 Feb 2026 12:17:07 GMT",
+      "id": "5a991b1de57b6e1ade59887d41d18017f13e71eb83fdc3c691893b80774e0693",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 😭🤣",
+      "text": "#ONEPIECE1174 😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2022641004592193936#m",
+      "date": "Sat, 14 Feb 2026 11:56:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHiE0hWIAAuqIG.jpg"
+        "https://nitter.net/pic/media%2FHBHdMG_akAEhxWe.jpg"
       ]
     },
     {
-      "id": "4b631afcb2de8d5a5b5b8b0f44be045f1509af7eb9803f68adc7cbbe821b84ab",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022616091663515835#m",
-      "date": "Sat, 14 Feb 2026 10:17:09 GMT",
+      "id": "f39c1e56a43ebe8e8b807913124ed7596d8c0233709dfaec8460c8daa05e5f27",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 Meme Piece Thread",
+      "text": "#ONEPIECE1174 Meme Piece Thread",
+      "url": "https://nitter.net/WorstGenHQ/status/2022628942772092963#m",
+      "date": "Sat, 14 Feb 2026 11:08:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHGneLakAIsV6r.jpg"
+        "https://nitter.net/pic/media%2FHBHSS9YasAAYUOu.jpg"
       ]
     },
     {
-      "id": "7e22d9eec6f48f6064a386c95ef39f4931e3e7b81ff46a51d7e49431aee878a2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022585883547845070#m",
-      "date": "Sat, 14 Feb 2026 08:17:07 GMT",
+      "id": "c0eef37a5a8c21a5dc78a31cecb70b0aff5fa58dc2dd4e1879ab1f286c0d32b6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🤣🤣🤣",
+      "text": "🤣🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2022631685280665917#m",
+      "date": "Sat, 14 Feb 2026 11:19:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBGrJI1XAAAwpaZ.jpg"
+        "https://nitter.net/pic/media%2FHBHUzH4akAU-rNE.jpg"
       ]
     },
     {
-      "id": "4d278096691d2ade6811cedf35c79a0afb7dc4f5867b94c508adb3f78eb1cd4c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022555683929883047#m",
-      "date": "Sat, 14 Feb 2026 06:17:06 GMT",
+      "id": "023cc10b6e538ebd66b51cee66df208f8db6a3ad047c271a8fb13f06d6aa1674",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174",
+      "text": "#ONEPIECE1174",
+      "url": "https://nitter.net/Toadgashi/status/2022403055325737049#m",
+      "date": "Fri, 13 Feb 2026 20:10:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBGPrTZbEAAZsLk.jpg"
+        "https://nitter.net/pic/media%2FHBEE3FhaYAAzSaM.jpg"
       ]
     },
     {
-      "id": "a92fadef1d8bc5e1107875a67a29e389f819ec7ac8fa6e0b41233657de1fbdd3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022525491215769789#m",
-      "date": "Sat, 14 Feb 2026 04:17:08 GMT",
+      "id": "7a12cbb9ec4ebf9468b499783fc45517151f49563edb72b8923db5032e0ac7ec",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
+      "text": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2022440901658972627#m",
+      "date": "Fri, 13 Feb 2026 22:41:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBF0N2NbMAAB86v.jpg"
-      ]
-    },
-    {
-      "id": "7ad358370c6abb0859653484d9f019a4676ed9055c982331ff3eeed40be6629a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022495293049016464#m",
-      "date": "Sat, 14 Feb 2026 02:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBFYwGwXcAAYTtL.jpg"
+        "https://nitter.net/pic/media%2FHBEnNnZagAAxBt2.png"
       ]
     }
   ],
   "items": [
     {
-      "id": "83ead59b13c7a009106a8eb0c492dc8487d2c8f21e57dfd5ce888044e9cd06b7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022646282624401529#m",
-      "date": "Sat, 14 Feb 2026 12:17:07 GMT",
-      "isSpoiler": false,
+      "id": "9dd33efca543ce775ea5ec66fbceb2773db3b9a927a0b29b8b1e048d12abf2fd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/WorstGenHQ/status/2022631675780321295#m",
+      "date": "Sat, 14 Feb 2026 11:19:04 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHiE0hWIAAuqIG.jpg"
+        "https://nitter.net/pic/media%2FHBHUyl6akAQuxNM.jpg",
+        "https://nitter.net/pic/media%2FHBHUykDakAAbhjE.jpg"
       ]
     },
     {
-      "id": "4b631afcb2de8d5a5b5b8b0f44be045f1509af7eb9803f68adc7cbbe821b84ab",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022616091663515835#m",
-      "date": "Sat, 14 Feb 2026 10:17:09 GMT",
+      "id": "5a991b1de57b6e1ade59887d41d18017f13e71eb83fdc3c691893b80774e0693",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 😭🤣",
+      "text": "#ONEPIECE1174 😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2022641004592193936#m",
+      "date": "Sat, 14 Feb 2026 11:56:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHGneLakAIsV6r.jpg"
+        "https://nitter.net/pic/media%2FHBHdMG_akAEhxWe.jpg"
       ]
     },
     {
-      "id": "7e22d9eec6f48f6064a386c95ef39f4931e3e7b81ff46a51d7e49431aee878a2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022585883547845070#m",
-      "date": "Sat, 14 Feb 2026 08:17:07 GMT",
+      "id": "f39c1e56a43ebe8e8b807913124ed7596d8c0233709dfaec8460c8daa05e5f27",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 Meme Piece Thread",
+      "text": "#ONEPIECE1174 Meme Piece Thread",
+      "url": "https://nitter.net/WorstGenHQ/status/2022628942772092963#m",
+      "date": "Sat, 14 Feb 2026 11:08:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBGrJI1XAAAwpaZ.jpg"
+        "https://nitter.net/pic/media%2FHBHSS9YasAAYUOu.jpg"
       ]
     },
     {
-      "id": "4d278096691d2ade6811cedf35c79a0afb7dc4f5867b94c508adb3f78eb1cd4c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022555683929883047#m",
-      "date": "Sat, 14 Feb 2026 06:17:06 GMT",
+      "id": "c0eef37a5a8c21a5dc78a31cecb70b0aff5fa58dc2dd4e1879ab1f286c0d32b6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🤣🤣🤣",
+      "text": "🤣🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2022631685280665917#m",
+      "date": "Sat, 14 Feb 2026 11:19:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBGPrTZbEAAZsLk.jpg"
+        "https://nitter.net/pic/media%2FHBHUzH4akAU-rNE.jpg"
       ]
     },
     {
-      "id": "a92fadef1d8bc5e1107875a67a29e389f819ec7ac8fa6e0b41233657de1fbdd3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022525491215769789#m",
-      "date": "Sat, 14 Feb 2026 04:17:08 GMT",
+      "id": "023cc10b6e538ebd66b51cee66df208f8db6a3ad047c271a8fb13f06d6aa1674",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174",
+      "text": "#ONEPIECE1174",
+      "url": "https://nitter.net/Toadgashi/status/2022403055325737049#m",
+      "date": "Fri, 13 Feb 2026 20:10:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBF0N2NbMAAB86v.jpg"
+        "https://nitter.net/pic/media%2FHBEE3FhaYAAzSaM.jpg"
       ]
     },
     {
-      "id": "7ad358370c6abb0859653484d9f019a4676ed9055c982331ff3eeed40be6629a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022495293049016464#m",
-      "date": "Sat, 14 Feb 2026 02:17:08 GMT",
+      "id": "7a12cbb9ec4ebf9468b499783fc45517151f49563edb72b8923db5032e0ac7ec",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
+      "text": "#ONEPIECE1174 Full reveal with all details will make his zoan looking even more incredible.. 🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2022440901658972627#m",
+      "date": "Fri, 13 Feb 2026 22:41:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBFYwGwXcAAYTtL.jpg"
+        "https://nitter.net/pic/media%2FHBEnNnZagAAxBt2.png"
       ]
     }
   ]
