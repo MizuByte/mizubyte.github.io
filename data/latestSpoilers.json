@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T18:01:53.497Z",
+  "generatedAt": "2026-02-15T18:57:54.039Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -96,6 +96,113 @@
       ]
     },
     {
+      "id": "37465401a2cd4c5932cc3385d007723410068bcb11a01a7db3f09c008b023732",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Where danger blooms, Miss All-Sunday is never far behind. 🌸 ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "text": "Where danger blooms, Miss All-Sunday is never far behind. 🌸 ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2023064764553814027#m",
+      "date": "Sun, 15 Feb 2026 16:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBJ85rXW8AAvwvQ.jpg"
+      ]
+    },
+    {
+      "id": "d86e79dbcb4c8e2025cb9a7432c55cdc7b8b3ff8864ff3f20dd495af4cd538ca",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ONE PIECE CARD GAME フィギュア A賞 モンキー・D・ルフィ ホントに尾田先生の書き下ろしのまま✨ またカッケールフィが増えた🤩 #フィギュア倶楽部 #フィギュア愛でる部",
+      "text": "ONE PIECE CARD GAME フィギュア A賞 モンキー・D・ルフィ ホントに尾田先生の書き下ろしのまま✨ またカッケールフィが増えた🤩 #フィギュア倶楽部 #フィギュア愛でる部",
+      "url": "https://nitter.net/tatsutora73/status/2023028425343238329#m",
+      "date": "Sun, 15 Feb 2026 13:35:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBM9oSVaoAAg5Tp.jpg",
+        "https://nitter.net/pic/media%2FHBM9oV-aUAATOL1.jpg",
+        "https://nitter.net/pic/media%2FHBM9oWHakAAiMve.jpg",
+        "https://nitter.net/pic/media%2FHBM9oVibwAAi_6L.jpg"
+      ]
+    },
+    {
+      "id": "7ef0b426e7e9caaa5249efe594e4090708af8ec949084db98a194eb6dffb158d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "一番くじワンピースＡ賞ルフィ開封 もうね……好き🫶",
+      "text": "一番くじワンピースＡ賞ルフィ開封 もうね……好き🫶",
+      "url": "https://nitter.net/RX93fa/status/2022977820709040458#m",
+      "date": "Sun, 15 Feb 2026 10:14:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBMPmrPaoAAcwHM.jpg",
+        "https://nitter.net/pic/media%2FHBMPmrMaIAAXxLo.jpg",
+        "https://nitter.net/pic/media%2FHBMPmrOaIAA2_Vj.jpg",
+        "https://nitter.net/pic/media%2FHBMPmrNbkAA0GGr.jpg"
+      ]
+    },
+    {
+      "id": "e8b70f8aa0214dbbb4a9844c4e919dd0f0e8af2eace6ae41b3bc9c591a034c5b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Read Ultimate Exorcist Kiyoshi, Ch. 80 in Shonen Jump for free! bit.ly/4kAH8p3",
+      "text": "Read Ultimate Exorcist Kiyoshi, Ch. 80 in Shonen Jump for free! bit.ly/4kAH8p3",
+      "url": "https://nitter.net/shonenjump/status/2023060484807639116#m",
+      "date": "Sun, 15 Feb 2026 15:43:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4bd4193509d5eb2ddd37df201833698dc5b1673fb50a983df6c9d89db4907777",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Read Blue Box, Ch. 230 in Shonen Jump for free! bit.ly/4aesFvG",
+      "text": "Read Blue Box, Ch. 230 in Shonen Jump for free! bit.ly/4aesFvG",
+      "url": "https://nitter.net/shonenjump/status/2023055451110113770#m",
+      "date": "Sun, 15 Feb 2026 15:23:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "11826978c7c7f9cf834755dd691f4f658f237b603e2e64cfd50e0a7f32cb8d8e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The final chapter! History is not just for the winners, but for all who merely go about their lives! Read The Elusive Samurai, Ch. 238 in Shonen Jump for free! bit.ly/3ObAAkV",
+      "text": "The final chapter! History is not just for the winners, but for all who merely go about their lives! Read The Elusive Samurai, Ch. 238 in Shonen Jump for free! bit.ly/3ObAAkV",
+      "url": "https://nitter.net/shonenjump/status/2023054466799268196#m",
+      "date": "Sun, 15 Feb 2026 15:19:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBNVTNhW8AAzLax.jpg"
+      ]
+    },
+    {
+      "id": "5bf42761f4c4d57283e3f979e7a4fcd4ead057aef096d21600af50a9b43f0f17",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023099268404257244#m",
+      "date": "Sun, 15 Feb 2026 18:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBN-EHYXwAAPjOq.jpg"
+      ]
+    },
+    {
       "id": "a97f09ed500fbe0c7e3c56ddbdc80baefcedcd8ad730dc7d938b6d82cc670191",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -168,21 +275,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBL0vE4WAAAyqeN.jpg"
-      ]
-    },
-    {
-      "id": "8fd83b8d9edfb9ef16af5510ce7ad83437d0d54567bafe6999966bf02f6baad1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022918081379520947#m",
-      "date": "Sun, 15 Feb 2026 06:17:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBLZRo9XEAAzzWK.jpg"
       ]
     }
   ],
@@ -280,6 +372,113 @@
       ]
     },
     {
+      "id": "37465401a2cd4c5932cc3385d007723410068bcb11a01a7db3f09c008b023732",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Where danger blooms, Miss All-Sunday is never far behind. 🌸 ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "text": "Where danger blooms, Miss All-Sunday is never far behind. 🌸 ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2023064764553814027#m",
+      "date": "Sun, 15 Feb 2026 16:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBJ85rXW8AAvwvQ.jpg"
+      ]
+    },
+    {
+      "id": "d86e79dbcb4c8e2025cb9a7432c55cdc7b8b3ff8864ff3f20dd495af4cd538ca",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ONE PIECE CARD GAME フィギュア A賞 モンキー・D・ルフィ ホントに尾田先生の書き下ろしのまま✨ またカッケールフィが増えた🤩 #フィギュア倶楽部 #フィギュア愛でる部",
+      "text": "ONE PIECE CARD GAME フィギュア A賞 モンキー・D・ルフィ ホントに尾田先生の書き下ろしのまま✨ またカッケールフィが増えた🤩 #フィギュア倶楽部 #フィギュア愛でる部",
+      "url": "https://nitter.net/tatsutora73/status/2023028425343238329#m",
+      "date": "Sun, 15 Feb 2026 13:35:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBM9oSVaoAAg5Tp.jpg",
+        "https://nitter.net/pic/media%2FHBM9oV-aUAATOL1.jpg",
+        "https://nitter.net/pic/media%2FHBM9oWHakAAiMve.jpg",
+        "https://nitter.net/pic/media%2FHBM9oVibwAAi_6L.jpg"
+      ]
+    },
+    {
+      "id": "7ef0b426e7e9caaa5249efe594e4090708af8ec949084db98a194eb6dffb158d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "一番くじワンピースＡ賞ルフィ開封 もうね……好き🫶",
+      "text": "一番くじワンピースＡ賞ルフィ開封 もうね……好き🫶",
+      "url": "https://nitter.net/RX93fa/status/2022977820709040458#m",
+      "date": "Sun, 15 Feb 2026 10:14:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBMPmrPaoAAcwHM.jpg",
+        "https://nitter.net/pic/media%2FHBMPmrMaIAAXxLo.jpg",
+        "https://nitter.net/pic/media%2FHBMPmrOaIAA2_Vj.jpg",
+        "https://nitter.net/pic/media%2FHBMPmrNbkAA0GGr.jpg"
+      ]
+    },
+    {
+      "id": "e8b70f8aa0214dbbb4a9844c4e919dd0f0e8af2eace6ae41b3bc9c591a034c5b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Read Ultimate Exorcist Kiyoshi, Ch. 80 in Shonen Jump for free! bit.ly/4kAH8p3",
+      "text": "Read Ultimate Exorcist Kiyoshi, Ch. 80 in Shonen Jump for free! bit.ly/4kAH8p3",
+      "url": "https://nitter.net/shonenjump/status/2023060484807639116#m",
+      "date": "Sun, 15 Feb 2026 15:43:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4bd4193509d5eb2ddd37df201833698dc5b1673fb50a983df6c9d89db4907777",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Read Blue Box, Ch. 230 in Shonen Jump for free! bit.ly/4aesFvG",
+      "text": "Read Blue Box, Ch. 230 in Shonen Jump for free! bit.ly/4aesFvG",
+      "url": "https://nitter.net/shonenjump/status/2023055451110113770#m",
+      "date": "Sun, 15 Feb 2026 15:23:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "11826978c7c7f9cf834755dd691f4f658f237b603e2e64cfd50e0a7f32cb8d8e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The final chapter! History is not just for the winners, but for all who merely go about their lives! Read The Elusive Samurai, Ch. 238 in Shonen Jump for free! bit.ly/3ObAAkV",
+      "text": "The final chapter! History is not just for the winners, but for all who merely go about their lives! Read The Elusive Samurai, Ch. 238 in Shonen Jump for free! bit.ly/3ObAAkV",
+      "url": "https://nitter.net/shonenjump/status/2023054466799268196#m",
+      "date": "Sun, 15 Feb 2026 15:19:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBNVTNhW8AAzLax.jpg"
+      ]
+    },
+    {
+      "id": "5bf42761f4c4d57283e3f979e7a4fcd4ead057aef096d21600af50a9b43f0f17",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023099268404257244#m",
+      "date": "Sun, 15 Feb 2026 18:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBN-EHYXwAAPjOq.jpg"
+      ]
+    },
+    {
       "id": "a97f09ed500fbe0c7e3c56ddbdc80baefcedcd8ad730dc7d938b6d82cc670191",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -352,21 +551,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBL0vE4WAAAyqeN.jpg"
-      ]
-    },
-    {
-      "id": "8fd83b8d9edfb9ef16af5510ce7ad83437d0d54567bafe6999966bf02f6baad1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2022918081379520947#m",
-      "date": "Sun, 15 Feb 2026 06:17:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBLZRo9XEAAzzWK.jpg"
       ]
     }
   ]
