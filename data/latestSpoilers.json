@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-02-16T09:37:43.767Z",
+  "generatedAt": "2026-02-16T10:34:52.024Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "468f95f1eb1b603eda9d002af5e7ab1ef9fe475cfd3995047fa2ab898b7de1e2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Hey @WorstGenHQ , You must know will loki join strawhat bro. Will chopper create some 💊💊💊 so he can be of human size and travel with them in sunny.",
-      "text": "Hey @WorstGenHQ , You must know will loki join strawhat bro. Will chopper create some 💊💊💊 so he can be of human size and travel with them in sunny.",
-      "url": "https://nitter.net/strawhat_davy/status/2022204348466704743#m",
-      "date": "Fri, 13 Feb 2026 07:01:02 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBBQI1lbsAAqi1x.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
       "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
@@ -112,98 +96,6 @@
       ]
     },
     {
-      "id": "046eaa3e4589a0b8269519d125add46f4f54779bd8764f638d494af44780206c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 2月20日(金)発売のVジャンプ4月特大号を先取りチェック! 『DQVII Reimagined』のやり込み要素や 36周年を迎えた『DQIV』特集に注目っ!! vjump.shueisha.co.jp/dqnext/",
-      "text": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 2月20日(金)発売のVジャンプ4月特大号を先取りチェック! 『DQVII Reimagined』のやり込み要素や 36周年を迎えた『DQIV』特集に注目っ!! vjump.shueisha.co.jp/dqnext/",
-      "url": "https://nitter.net/V_Jump/status/2023306362592113082#m",
-      "date": "Mon, 16 Feb 2026 08:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBQyHMtbcAArEZf.jpg"
-      ]
-    },
-    {
-      "id": "3652b1d38634c330243862a913aff85b6d41aa94d1fccbd5ba5f67837f5e0a61",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "gm",
-      "text": "gm",
-      "url": "https://nitter.net/shotguncaio/status/2023018148749037609#m",
-      "date": "Sun, 15 Feb 2026 12:54:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBM0Q--XYAAMHAV.jpg"
-      ]
-    },
-    {
-      "id": "f1f63ff3952a63e0bf5378d50b2e7f9f936e1c549a3312ad3d654afe2b1f89e3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ベースショップ戦利品！！ All PAGESはこのシーン…☔️❕❕ 朝からありんこさんとランデブー 久しぶりにお会いできて嬉しかった🐻‍❄️🤍",
-      "text": "ベースショップ戦利品！！ All PAGESはこのシーン…☔️❕❕ 朝からありんこさんとランデブー 久しぶりにお会いできて嬉しかった🐻‍❄️🤍",
-      "url": "https://nitter.net/nozomingo_cora/status/2023020436062388294#m",
-      "date": "Sun, 15 Feb 2026 13:03:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBM2WzQbEAARMyK.jpg",
-        "https://nitter.net/pic/media%2FHBM2WzOaAAA0FEA.jpg",
-        "https://nitter.net/pic/media%2FHBM2QvJbAAAza_e.jpg"
-      ]
-    },
-    {
-      "id": "923d818e955a4819b07fce31994db593039c1916f687c9b16049c32033f21de0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Wakana Yamazaki (Ran in Detective Conan) is taking a break due to health issues, and Akemi Okamura will step in as her substitute. The two voiced Nojiko and Nami in ONE PIECE. Years ago, Yamazaki cove",
-      "text": "Wakana Yamazaki (Ran in Detective Conan) is taking a break due to health issues, and Akemi Okamura will step in as her substitute. The two voiced Nojiko and Nami in ONE PIECE. Years ago, Yamazaki covered for Okamura during maternity leave; now the roles are reversed.🎀",
-      "url": "https://nitter.net/sandman_AP/status/2023258572411572701#m",
-      "date": "Mon, 16 Feb 2026 04:50:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBQO8xqbkAAShMS.jpg"
-      ]
-    },
-    {
-      "id": "e6b1046279e011b62ce65ee4497b3b1f55035bc07b096a96531f220934cfa06d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "山崎和佳奈さんが体調不良のため 休養されるとのことです。 代役は、ONE PIECEでナミ役などを演じられている「岡村明美」さん。 ※過去に岡村さんが出産の際、代役をナミの義姉・ノジコ役を担当している山崎さんが務めたことがあります。 ytv.co.jp/conan/pdf/conan_02… 山﨑さんが元気になりますように",
-      "text": "山崎和佳奈さんが体調不良のため 休養されるとのことです。 代役は、ONE PIECEでナミ役などを演じられている「岡村明美」さん。 ※過去に岡村さんが出産の際、代役をナミの義姉・ノジコ役を担当している山崎さんが務めたことがあります。 ytv.co.jp/conan/pdf/conan_02… 山﨑さんが元気になりますように",
-      "url": "https://nitter.net/conan_jouhou/status/2023234877362151797#m",
-      "date": "Mon, 16 Feb 2026 03:15:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBP5ZVqakAA75gl.jpg"
-      ]
-    },
-    {
-      "id": "36362bcb3353fee203e798e3d77393aa7ae19aee5f64dd76d3588264a422722b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "つよくてかたいいしのおとこタケシ🪨 おてんばにんぎょのカスミ💧 カントーのジムリーダー2人がアルコス覚醒！ #ポケマスEX のメインストーリー「アルセウス編」第8章をお楽しみに！ ☞ go.dena.my/NRnRtj3",
-      "text": "つよくてかたいいしのおとこタケシ🪨 おてんばにんぎょのカスミ💧 カントーのジムリーダー2人がアルコス覚醒！ #ポケマスEX のメインストーリー「アルセウス編」第8章をお楽しみに！ ☞ go.dena.my/NRnRtj3",
-      "url": "https://nitter.net/poke_times/status/2023230856140144986#m",
-      "date": "Mon, 16 Feb 2026 03:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBM21GcWkAAXPt6.jpg"
-      ]
-    },
-    {
       "id": "ee4cd4e57b925452a42c11a7f3f3a5c8dae1ad000f09de0d2f8a80489b816ddf",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -217,6 +109,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBPLgi0bEAAvpPb.jpg"
       ]
+    },
+    {
+      "id": "a6d388e5e69c60d8e065c3005b0550362fdcbb26d772bc293c3710248a760c7c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🧡Lost in Translation: For this chapter title, Oda deliberately chose wording that sounds like a line from a fairy tale, fitting for the Elbaf arc, which makes it difficult to translate. If it were up",
+      "text": "🧡Lost in Translation: For this chapter title, Oda deliberately chose wording that sounds like a line from a fairy tale, fitting for the Elbaf arc, which makes it difficult to translate. If it were up to me, I'd render it like this: 🎗️The very strongest thing in all the world. ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) 【訂正】 本日発売の週刊少年ジャンプ12号に掲載されている1174話のタイトルに、編集部のミスにより誤表記がありました。 誤)〝せかいで1番つよいもの〟 正)〝せかいで1ばんつよいもの〟 お詫びして訂正いたします。 #ONEPIECE #今週のワンピ — https://nitter.net/Eiichiro_Staff/status/2023049675188957330#m",
+      "url": "https://nitter.net/sandman_AP/status/2023200425449820352#m",
+      "date": "Mon, 16 Feb 2026 00:59:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "08c78c70f374b95f43c7c570c87a0817793404804dba8ee97f993a6519fa280c",
@@ -278,6 +183,21 @@
       ]
     },
     {
+      "id": "15f850051824f7da5e7d18637e5cf597b5995883bbd1034f811b6adba48d57e2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023340866111168608#m",
+      "date": "Mon, 16 Feb 2026 10:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBRZy8OaUAANiLD.jpg"
+      ]
+    },
+    {
       "id": "d55d3d475d07a8eb4840bbff00eb6fc9ae1f5ebab03444c47aef78866ea4201d",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -321,24 +241,39 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBQHZc-W4AAvEfl.jpg"
       ]
+    },
+    {
+      "id": "8177a0fd8273f48d6fd3fc170579460fc2ccd782135c68414fc2b7db2587361f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023220063155744855#m",
+      "date": "Mon, 16 Feb 2026 02:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBPr7TAbYAA-0KB.jpg"
+      ]
+    },
+    {
+      "id": "1f723ff4c50f72132ddb522d5b3a96703986acb538ef187e33239e4121d5a1be",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023189866104672354#m",
+      "date": "Mon, 16 Feb 2026 00:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBPQdhkbUAELYq-.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "468f95f1eb1b603eda9d002af5e7ab1ef9fe475cfd3995047fa2ab898b7de1e2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Hey @WorstGenHQ , You must know will loki join strawhat bro. Will chopper create some 💊💊💊 so he can be of human size and travel with them in sunny.",
-      "text": "Hey @WorstGenHQ , You must know will loki join strawhat bro. Will chopper create some 💊💊💊 so he can be of human size and travel with them in sunny.",
-      "url": "https://nitter.net/strawhat_davy/status/2022204348466704743#m",
-      "date": "Fri, 13 Feb 2026 07:01:02 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBBQI1lbsAAqi1x.jpg"
-      ]
-    },
     {
       "id": "5656569eccbac151a484cf8fe616597c63728fcc85d6a31e8f6cd5fffb38cde2",
       "anime": "onepiece",
@@ -432,98 +367,6 @@
       ]
     },
     {
-      "id": "046eaa3e4589a0b8269519d125add46f4f54779bd8764f638d494af44780206c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 2月20日(金)発売のVジャンプ4月特大号を先取りチェック! 『DQVII Reimagined』のやり込み要素や 36周年を迎えた『DQIV』特集に注目っ!! vjump.shueisha.co.jp/dqnext/",
-      "text": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 2月20日(金)発売のVジャンプ4月特大号を先取りチェック! 『DQVII Reimagined』のやり込み要素や 36周年を迎えた『DQIV』特集に注目っ!! vjump.shueisha.co.jp/dqnext/",
-      "url": "https://nitter.net/V_Jump/status/2023306362592113082#m",
-      "date": "Mon, 16 Feb 2026 08:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBQyHMtbcAArEZf.jpg"
-      ]
-    },
-    {
-      "id": "3652b1d38634c330243862a913aff85b6d41aa94d1fccbd5ba5f67837f5e0a61",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "gm",
-      "text": "gm",
-      "url": "https://nitter.net/shotguncaio/status/2023018148749037609#m",
-      "date": "Sun, 15 Feb 2026 12:54:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBM0Q--XYAAMHAV.jpg"
-      ]
-    },
-    {
-      "id": "f1f63ff3952a63e0bf5378d50b2e7f9f936e1c549a3312ad3d654afe2b1f89e3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ベースショップ戦利品！！ All PAGESはこのシーン…☔️❕❕ 朝からありんこさんとランデブー 久しぶりにお会いできて嬉しかった🐻‍❄️🤍",
-      "text": "ベースショップ戦利品！！ All PAGESはこのシーン…☔️❕❕ 朝からありんこさんとランデブー 久しぶりにお会いできて嬉しかった🐻‍❄️🤍",
-      "url": "https://nitter.net/nozomingo_cora/status/2023020436062388294#m",
-      "date": "Sun, 15 Feb 2026 13:03:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBM2WzQbEAARMyK.jpg",
-        "https://nitter.net/pic/media%2FHBM2WzOaAAA0FEA.jpg",
-        "https://nitter.net/pic/media%2FHBM2QvJbAAAza_e.jpg"
-      ]
-    },
-    {
-      "id": "923d818e955a4819b07fce31994db593039c1916f687c9b16049c32033f21de0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Wakana Yamazaki (Ran in Detective Conan) is taking a break due to health issues, and Akemi Okamura will step in as her substitute. The two voiced Nojiko and Nami in ONE PIECE. Years ago, Yamazaki cove",
-      "text": "Wakana Yamazaki (Ran in Detective Conan) is taking a break due to health issues, and Akemi Okamura will step in as her substitute. The two voiced Nojiko and Nami in ONE PIECE. Years ago, Yamazaki covered for Okamura during maternity leave; now the roles are reversed.🎀",
-      "url": "https://nitter.net/sandman_AP/status/2023258572411572701#m",
-      "date": "Mon, 16 Feb 2026 04:50:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBQO8xqbkAAShMS.jpg"
-      ]
-    },
-    {
-      "id": "e6b1046279e011b62ce65ee4497b3b1f55035bc07b096a96531f220934cfa06d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "山崎和佳奈さんが体調不良のため 休養されるとのことです。 代役は、ONE PIECEでナミ役などを演じられている「岡村明美」さん。 ※過去に岡村さんが出産の際、代役をナミの義姉・ノジコ役を担当している山崎さんが務めたことがあります。 ytv.co.jp/conan/pdf/conan_02… 山﨑さんが元気になりますように",
-      "text": "山崎和佳奈さんが体調不良のため 休養されるとのことです。 代役は、ONE PIECEでナミ役などを演じられている「岡村明美」さん。 ※過去に岡村さんが出産の際、代役をナミの義姉・ノジコ役を担当している山崎さんが務めたことがあります。 ytv.co.jp/conan/pdf/conan_02… 山﨑さんが元気になりますように",
-      "url": "https://nitter.net/conan_jouhou/status/2023234877362151797#m",
-      "date": "Mon, 16 Feb 2026 03:15:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBP5ZVqakAA75gl.jpg"
-      ]
-    },
-    {
-      "id": "36362bcb3353fee203e798e3d77393aa7ae19aee5f64dd76d3588264a422722b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "つよくてかたいいしのおとこタケシ🪨 おてんばにんぎょのカスミ💧 カントーのジムリーダー2人がアルコス覚醒！ #ポケマスEX のメインストーリー「アルセウス編」第8章をお楽しみに！ ☞ go.dena.my/NRnRtj3",
-      "text": "つよくてかたいいしのおとこタケシ🪨 おてんばにんぎょのカスミ💧 カントーのジムリーダー2人がアルコス覚醒！ #ポケマスEX のメインストーリー「アルセウス編」第8章をお楽しみに！ ☞ go.dena.my/NRnRtj3",
-      "url": "https://nitter.net/poke_times/status/2023230856140144986#m",
-      "date": "Mon, 16 Feb 2026 03:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBM21GcWkAAXPt6.jpg"
-      ]
-    },
-    {
       "id": "ee4cd4e57b925452a42c11a7f3f3a5c8dae1ad000f09de0d2f8a80489b816ddf",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -537,6 +380,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBPLgi0bEAAvpPb.jpg"
       ]
+    },
+    {
+      "id": "a6d388e5e69c60d8e065c3005b0550362fdcbb26d772bc293c3710248a760c7c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🧡Lost in Translation: For this chapter title, Oda deliberately chose wording that sounds like a line from a fairy tale, fitting for the Elbaf arc, which makes it difficult to translate. If it were up",
+      "text": "🧡Lost in Translation: For this chapter title, Oda deliberately chose wording that sounds like a line from a fairy tale, fitting for the Elbaf arc, which makes it difficult to translate. If it were up to me, I'd render it like this: 🎗️The very strongest thing in all the world. ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) 【訂正】 本日発売の週刊少年ジャンプ12号に掲載されている1174話のタイトルに、編集部のミスにより誤表記がありました。 誤)〝せかいで1番つよいもの〟 正)〝せかいで1ばんつよいもの〟 お詫びして訂正いたします。 #ONEPIECE #今週のワンピ — https://nitter.net/Eiichiro_Staff/status/2023049675188957330#m",
+      "url": "https://nitter.net/sandman_AP/status/2023200425449820352#m",
+      "date": "Mon, 16 Feb 2026 00:59:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "08c78c70f374b95f43c7c570c87a0817793404804dba8ee97f993a6519fa280c",
@@ -598,6 +454,21 @@
       ]
     },
     {
+      "id": "15f850051824f7da5e7d18637e5cf597b5995883bbd1034f811b6adba48d57e2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023340866111168608#m",
+      "date": "Mon, 16 Feb 2026 10:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBRZy8OaUAANiLD.jpg"
+      ]
+    },
+    {
       "id": "d55d3d475d07a8eb4840bbff00eb6fc9ae1f5ebab03444c47aef78866ea4201d",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -640,6 +511,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBQHZc-W4AAvEfl.jpg"
+      ]
+    },
+    {
+      "id": "8177a0fd8273f48d6fd3fc170579460fc2ccd782135c68414fc2b7db2587361f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023220063155744855#m",
+      "date": "Mon, 16 Feb 2026 02:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBPr7TAbYAA-0KB.jpg"
+      ]
+    },
+    {
+      "id": "1f723ff4c50f72132ddb522d5b3a96703986acb538ef187e33239e4121d5a1be",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023189866104672354#m",
+      "date": "Mon, 16 Feb 2026 00:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBPQdhkbUAELYq-.jpg"
       ]
     }
   ]
