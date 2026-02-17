@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-17T19:37:24.896Z",
+  "generatedAt": "2026-02-17T20:20:02.110Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,6 +33,36 @@
   ],
   "misc": [
     {
+      "id": "a712c2a42e5111fa9f649ab6de12574bd1593cfed15605c97229bba770eed1de",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The 5.6 billion duo 🐲🌤 #ONEPIECE #ONEPIECE1174",
+      "text": "The 5.6 billion duo 🐲🌤 #ONEPIECE #ONEPIECE1174",
+      "url": "https://nitter.net/MugiS4n/status/2023833873298452772#m",
+      "date": "Tue, 17 Feb 2026 18:56:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBYaLnVaEAArgVK.jpg"
+      ]
+    },
+    {
+      "id": "ece142833223b5b87054dfd4f698ff5e8eab9b8f199464fd509a9bc9f6cd2828",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Tarih yazdık tarih🏆 #Galatasaray Video",
+      "text": "Tarih yazdık tarih🏆 #Galatasaray Video",
+      "url": "https://nitter.net/mumtazreiss/status/2023847581370237162#m",
+      "date": "Tue, 17 Feb 2026 19:50:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2023847181850218496%2Fimg%2FnnKsJS7eTe7U7NKR.jpg"
+      ]
+    },
+    {
       "id": "1695815e49c2caa9301b30d753090ad8afdfbff72e4e72db851878428bd48ab0",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -95,37 +125,6 @@
       ]
     },
     {
-      "id": "95817ffdca5c30daa145d7868949d6ac7caff72d48781c0e778a8d31b44110cf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "💔 Pew (@pewpiece) Masaru Ikeda the voice actor for Nekomamushi in onepiece has sadly passed away at the age of 83 due to a heart attack. — https://nitter.net/pewpiece/status/2023603054763725215#m",
-      "text": "💔 Pew (@pewpiece) Masaru Ikeda the voice actor for Nekomamushi in onepiece has sadly passed away at the age of 83 due to a heart attack. — https://nitter.net/pewpiece/status/2023603054763725215#m",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2023603219813876096#m",
-      "date": "Tue, 17 Feb 2026 03:39:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBVHzgmbcAQmNbp.png",
-        "https://nitter.net/pic/media%2FHBVH05WXMAEzqZH.jpg"
-      ]
-    },
-    {
-      "id": "a24784659df846238bc166f714c8033c75b9bfea25d6beb7ec382da5d11d6dc0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "GV Roger vs Shanks",
-      "text": "GV Roger vs Shanks",
-      "url": "https://nitter.net/WorstGenHQ/status/2023731156298891535#m",
-      "date": "Tue, 17 Feb 2026 12:08:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
-    },
-    {
       "id": "e24d1ab2e6832189bd275817173516236910abb33d4d37c60b17957f5a7ad0fc",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -185,6 +184,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
         "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
+      ]
+    },
+    {
+      "id": "0a9d803fa27d36b649a14cb0dbeff88f0a6f9cbaed0eb4327952cc12df1ecf80",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023854246756516129#m",
+      "date": "Tue, 17 Feb 2026 20:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBYstmJXcAAmH2P.jpg"
       ]
     },
     {
@@ -260,21 +274,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBWjYbXboAAqtLo.jpg"
-      ]
-    },
-    {
-      "id": "21fe06c61eb5e31781a9240bfbb90c9ca29d22e17dba449df5ca929071a9b1fe",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2023673052156793211#m",
-      "date": "Tue, 17 Feb 2026 08:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBWH6rsXAAAtfgJ.jpg"
       ]
     }
   ],
@@ -308,6 +307,36 @@
       "attachments": []
     },
     {
+      "id": "a712c2a42e5111fa9f649ab6de12574bd1593cfed15605c97229bba770eed1de",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The 5.6 billion duo 🐲🌤 #ONEPIECE #ONEPIECE1174",
+      "text": "The 5.6 billion duo 🐲🌤 #ONEPIECE #ONEPIECE1174",
+      "url": "https://nitter.net/MugiS4n/status/2023833873298452772#m",
+      "date": "Tue, 17 Feb 2026 18:56:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBYaLnVaEAArgVK.jpg"
+      ]
+    },
+    {
+      "id": "ece142833223b5b87054dfd4f698ff5e8eab9b8f199464fd509a9bc9f6cd2828",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Tarih yazdık tarih🏆 #Galatasaray Video",
+      "text": "Tarih yazdık tarih🏆 #Galatasaray Video",
+      "url": "https://nitter.net/mumtazreiss/status/2023847581370237162#m",
+      "date": "Tue, 17 Feb 2026 19:50:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2023847181850218496%2Fimg%2FnnKsJS7eTe7U7NKR.jpg"
+      ]
+    },
+    {
       "id": "1695815e49c2caa9301b30d753090ad8afdfbff72e4e72db851878428bd48ab0",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -370,37 +399,6 @@
       ]
     },
     {
-      "id": "95817ffdca5c30daa145d7868949d6ac7caff72d48781c0e778a8d31b44110cf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "💔 Pew (@pewpiece) Masaru Ikeda the voice actor for Nekomamushi in onepiece has sadly passed away at the age of 83 due to a heart attack. — https://nitter.net/pewpiece/status/2023603054763725215#m",
-      "text": "💔 Pew (@pewpiece) Masaru Ikeda the voice actor for Nekomamushi in onepiece has sadly passed away at the age of 83 due to a heart attack. — https://nitter.net/pewpiece/status/2023603054763725215#m",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2023603219813876096#m",
-      "date": "Tue, 17 Feb 2026 03:39:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBVHzgmbcAQmNbp.png",
-        "https://nitter.net/pic/media%2FHBVH05WXMAEzqZH.jpg"
-      ]
-    },
-    {
-      "id": "a24784659df846238bc166f714c8033c75b9bfea25d6beb7ec382da5d11d6dc0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "GV Roger vs Shanks",
-      "text": "GV Roger vs Shanks",
-      "url": "https://nitter.net/WorstGenHQ/status/2023731156298891535#m",
-      "date": "Tue, 17 Feb 2026 12:08:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
-    },
-    {
       "id": "e24d1ab2e6832189bd275817173516236910abb33d4d37c60b17957f5a7ad0fc",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -460,6 +458,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
         "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
+      ]
+    },
+    {
+      "id": "0a9d803fa27d36b649a14cb0dbeff88f0a6f9cbaed0eb4327952cc12df1ecf80",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2023854246756516129#m",
+      "date": "Tue, 17 Feb 2026 20:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBYstmJXcAAmH2P.jpg"
       ]
     },
     {
@@ -535,21 +548,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBWjYbXboAAqtLo.jpg"
-      ]
-    },
-    {
-      "id": "21fe06c61eb5e31781a9240bfbb90c9ca29d22e17dba449df5ca929071a9b1fe",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2023673052156793211#m",
-      "date": "Tue, 17 Feb 2026 08:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBWH6rsXAAAtfgJ.jpg"
       ]
     }
   ]
