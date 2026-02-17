@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-17T06:39:43.523Z",
+  "generatedAt": "2026-02-17T07:40:48.306Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,6 +18,83 @@
   ],
   "misc": [
     {
+      "id": "e24d1ab2e6832189bd275817173516236910abb33d4d37c60b17957f5a7ad0fc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
+      "date": "Tue, 17 Feb 2026 06:42:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBU40HfbcAU-9Ma.jpg"
+      ]
+    },
+    {
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
+      "date": "Sat, 14 Feb 2026 11:33:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
+      ]
+    },
+    {
+      "id": "7c9d05f9f18f44ecb19c87e842798f90688798ea77aabb51b112777ab677293d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel li",
+      "text": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel like this as well (Leans in for a kiss) Sarada: SHANAROOOO #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2022608384734736429#m",
+      "date": "Sat, 14 Feb 2026 09:46:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBG_mreXkAAeIyk.jpg"
+      ]
+    },
+    {
+      "id": "1979c64a37dedfd6bac638bb63848beeb7d0a6fe0678854c88af2e3b7664d080",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "😭😭😭😭😭😭😭😭",
+      "text": "😭😭😭😭😭😭😭😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2022480507565420793#m",
+      "date": "Sat, 14 Feb 2026 01:18:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
+        "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
+      ]
+    },
+    {
+      "id": "b28fb095bdecf9ad46150f61863a926194bde1c5cfd05c13b660a6588a0b0e24",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
+      "text": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2022250033304006971#m",
+      "date": "Fri, 13 Feb 2026 10:02:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBB5r8MXAAA15EG.jpg"
+      ]
+    },
+    {
       "id": "996164ba9b8347909cc5438ef67893efad8738bf6ceff64f57154f90974931d6",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -105,83 +182,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBTjHs-WcAAq24r.jpg"
-      ]
-    },
-    {
-      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
-      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
-      "date": "Sat, 14 Feb 2026 11:33:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
-        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
-      ]
-    },
-    {
-      "id": "7c9d05f9f18f44ecb19c87e842798f90688798ea77aabb51b112777ab677293d",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel li",
-      "text": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel like this as well (Leans in for a kiss) Sarada: SHANAROOOO #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2022608384734736429#m",
-      "date": "Sat, 14 Feb 2026 09:46:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBG_mreXkAAeIyk.jpg"
-      ]
-    },
-    {
-      "id": "1979c64a37dedfd6bac638bb63848beeb7d0a6fe0678854c88af2e3b7664d080",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "😭😭😭😭😭😭😭😭",
-      "text": "😭😭😭😭😭😭😭😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2022480507565420793#m",
-      "date": "Sat, 14 Feb 2026 01:18:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
-        "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
-      ]
-    },
-    {
-      "id": "b28fb095bdecf9ad46150f61863a926194bde1c5cfd05c13b660a6588a0b0e24",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
-      "text": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2022250033304006971#m",
-      "date": "Fri, 13 Feb 2026 10:02:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBB5r8MXAAA15EG.jpg"
-      ]
-    },
-    {
-      "id": "3c6cff08d3927b74fa8cf9f484db05007400ce62bb09922d31d5ccbc8db7a552",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
-      "text": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2021995733445202117#m",
-      "date": "Thu, 12 Feb 2026 17:12:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-SZjzbsAIJ5c1.jpg"
       ]
     }
   ],
@@ -200,6 +200,83 @@
       "attachments": []
     },
     {
+      "id": "e24d1ab2e6832189bd275817173516236910abb33d4d37c60b17957f5a7ad0fc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
+      "date": "Tue, 17 Feb 2026 06:42:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBU40HfbcAU-9Ma.jpg"
+      ]
+    },
+    {
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
+      "date": "Sat, 14 Feb 2026 11:33:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
+      ]
+    },
+    {
+      "id": "7c9d05f9f18f44ecb19c87e842798f90688798ea77aabb51b112777ab677293d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel li",
+      "text": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel like this as well (Leans in for a kiss) Sarada: SHANAROOOO #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2022608384734736429#m",
+      "date": "Sat, 14 Feb 2026 09:46:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBG_mreXkAAeIyk.jpg"
+      ]
+    },
+    {
+      "id": "1979c64a37dedfd6bac638bb63848beeb7d0a6fe0678854c88af2e3b7664d080",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "😭😭😭😭😭😭😭😭",
+      "text": "😭😭😭😭😭😭😭😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2022480507565420793#m",
+      "date": "Sat, 14 Feb 2026 01:18:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
+        "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
+      ]
+    },
+    {
+      "id": "b28fb095bdecf9ad46150f61863a926194bde1c5cfd05c13b660a6588a0b0e24",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
+      "text": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2022250033304006971#m",
+      "date": "Fri, 13 Feb 2026 10:02:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBB5r8MXAAA15EG.jpg"
+      ]
+    },
+    {
       "id": "996164ba9b8347909cc5438ef67893efad8738bf6ceff64f57154f90974931d6",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -287,83 +364,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBTjHs-WcAAq24r.jpg"
-      ]
-    },
-    {
-      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
-      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
-      "date": "Sat, 14 Feb 2026 11:33:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
-        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
-      ]
-    },
-    {
-      "id": "7c9d05f9f18f44ecb19c87e842798f90688798ea77aabb51b112777ab677293d",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel li",
-      "text": "Boruto (dying): Mitsuki, I need to tell you something. Mitsuki (Shedding a tear): Yeah what do you want my sun? Boruto: I- I- I love you (blushes) Mitsuki: Oh Boruto, I never thought you would feel like this as well (Leans in for a kiss) Sarada: SHANAROOOO #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2022608384734736429#m",
-      "date": "Sat, 14 Feb 2026 09:46:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBG_mreXkAAeIyk.jpg"
-      ]
-    },
-    {
-      "id": "1979c64a37dedfd6bac638bb63848beeb7d0a6fe0678854c88af2e3b7664d080",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "😭😭😭😭😭😭😭😭",
-      "text": "😭😭😭😭😭😭😭😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2022480507565420793#m",
-      "date": "Sat, 14 Feb 2026 01:18:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
-        "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
-      ]
-    },
-    {
-      "id": "b28fb095bdecf9ad46150f61863a926194bde1c5cfd05c13b660a6588a0b0e24",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
-      "text": "Bro thinks he’s Boruto😭🙏🏼 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2022250033304006971#m",
-      "date": "Fri, 13 Feb 2026 10:02:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBB5r8MXAAA15EG.jpg"
-      ]
-    },
-    {
-      "id": "3c6cff08d3927b74fa8cf9f484db05007400ce62bb09922d31d5ccbc8db7a552",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
-      "text": "Eida is so popular that the biggest K-Pop Idol copied her entire style. Let that sink in. #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2021995733445202117#m",
-      "date": "Thu, 12 Feb 2026 17:12:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHA-SZjzbsAIJ5c1.jpg"
       ]
     }
   ]
