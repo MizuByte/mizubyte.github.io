@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-17T22:54:45.981Z",
+  "generatedAt": "2026-02-17T23:24:25.472Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -63,21 +63,6 @@
       ]
     },
     {
-      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Escanor & Meliodas vs Luffy & Kaido",
-      "text": "Escanor & Meliodas vs Luffy & Kaido",
-      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
-      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
-    },
-    {
       "id": "22194de36dd415c9f22c727dacc422b5657f7e089beb6ca25c79ac119f26f7ff",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -91,6 +76,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBZFJ-PXEAEHSQ4.jpg",
         "https://nitter.net/pic/media%2FHBZFK7bbsAAsA5o.png"
+      ]
+    },
+    {
+      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Escanor & Meliodas vs Luffy & Kaido",
+      "text": "Escanor & Meliodas vs Luffy & Kaido",
+      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
+      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
       ]
     },
     {
@@ -334,21 +334,6 @@
       ]
     },
     {
-      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Escanor & Meliodas vs Luffy & Kaido",
-      "text": "Escanor & Meliodas vs Luffy & Kaido",
-      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
-      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
-    },
-    {
       "id": "22194de36dd415c9f22c727dacc422b5657f7e089beb6ca25c79ac119f26f7ff",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -362,6 +347,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBZFJ-PXEAEHSQ4.jpg",
         "https://nitter.net/pic/media%2FHBZFK7bbsAAsA5o.png"
+      ]
+    },
+    {
+      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Escanor & Meliodas vs Luffy & Kaido",
+      "text": "Escanor & Meliodas vs Luffy & Kaido",
+      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
+      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
       ]
     },
     {
