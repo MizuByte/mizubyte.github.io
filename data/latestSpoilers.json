@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-17T20:59:25.937Z",
+  "generatedAt": "2026-02-17T21:40:29.399Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -32,6 +32,19 @@
     }
   ],
   "misc": [
+    {
+      "id": "0d8022206a42fb79a111d0b526a80c42a1452df9ad87bfdb177a5f002182b762",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#BVBAtalanta 2:0 JAWOHL!!! So muss das sein, weiter dran bleiben und heute denn sack zumachen...",
+      "text": "#BVBAtalanta 2:0 JAWOHL!!! So muss das sein, weiter dran bleiben und heute denn sack zumachen...",
+      "url": "https://nitter.net/WorstGenHQ/status/2023865822289207373#m",
+      "date": "Tue, 17 Feb 2026 21:03:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "a712c2a42e5111fa9f649ab6de12574bd1593cfed15605c97229bba770eed1de",
       "anime": "onepiece",
@@ -107,21 +120,6 @@
         "https://nitter.net/pic/media%2FHBYHYrFbcAcaWXP.jpg",
         "https://nitter.net/pic/media%2FHBYHYrHbwAADrrx.jpg",
         "https://nitter.net/pic/amplify_video_thumb%2F2023803435129466885%2Fimg%2FhSKuX2UhZlJ6CvvH.jpg"
-      ]
-    },
-    {
-      "id": "99f6419be372fcfd84ceffa76c26aee150475dc025b91186f9857a55c7734d21",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "No.419原稿完成。",
-      "text": "No.419原稿完成。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2023776049042198535#m",
-      "date": "Tue, 17 Feb 2026 15:06:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBXlli9agAAFRGA.jpg"
       ]
     },
     {
@@ -307,6 +305,19 @@
       "attachments": []
     },
     {
+      "id": "0d8022206a42fb79a111d0b526a80c42a1452df9ad87bfdb177a5f002182b762",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#BVBAtalanta 2:0 JAWOHL!!! So muss das sein, weiter dran bleiben und heute denn sack zumachen...",
+      "text": "#BVBAtalanta 2:0 JAWOHL!!! So muss das sein, weiter dran bleiben und heute denn sack zumachen...",
+      "url": "https://nitter.net/WorstGenHQ/status/2023865822289207373#m",
+      "date": "Tue, 17 Feb 2026 21:03:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "a712c2a42e5111fa9f649ab6de12574bd1593cfed15605c97229bba770eed1de",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -381,21 +392,6 @@
         "https://nitter.net/pic/media%2FHBYHYrFbcAcaWXP.jpg",
         "https://nitter.net/pic/media%2FHBYHYrHbwAADrrx.jpg",
         "https://nitter.net/pic/amplify_video_thumb%2F2023803435129466885%2Fimg%2FhSKuX2UhZlJ6CvvH.jpg"
-      ]
-    },
-    {
-      "id": "99f6419be372fcfd84ceffa76c26aee150475dc025b91186f9857a55c7734d21",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "No.419原稿完成。",
-      "text": "No.419原稿完成。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2023776049042198535#m",
-      "date": "Tue, 17 Feb 2026 15:06:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBXlli9agAAFRGA.jpg"
       ]
     },
     {
