@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T08:28:36.510Z",
+  "generatedAt": "2026-02-18T09:32:04.114Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -78,6 +78,21 @@
       ]
     },
     {
+      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Escanor & Meliodas vs Luffy & Kaido",
+      "text": "Escanor & Meliodas vs Luffy & Kaido",
+      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
+      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
+      ]
+    },
+    {
       "id": "22194de36dd415c9f22c727dacc422b5657f7e089beb6ca25c79ac119f26f7ff",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -91,21 +106,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBZFJ-PXEAEHSQ4.jpg",
         "https://nitter.net/pic/media%2FHBZFK7bbsAAsA5o.png"
-      ]
-    },
-    {
-      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Escanor & Meliodas vs Luffy & Kaido",
-      "text": "Escanor & Meliodas vs Luffy & Kaido",
-      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
-      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
       ]
     },
     {
@@ -152,19 +152,17 @@
       ]
     },
     {
-      "id": "35c64dae7ef214d8de1d5dab80eb5b477cca39cbd413a2cfc82d61572897ba4d",
+      "id": "fb4ddcbeeab8ac44031f5e9bfba79c5a3f8e37531f6f8dd922ee09346bbbfec9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにすることで、刀身と瘴気の部分が光ります。",
-      "text": "NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにすることで、刀身と瘴気の部分が光ります。",
-      "url": "https://nitter.net/NDW_info/status/2023969572915651014#m",
-      "date": "Wed, 18 Feb 2026 03:55:24 GMT",
+      "title": "RT @NDW_info: NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにする…",
+      "text": "RT @NDW_info: NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにする…",
+      "url": "https://nitter.net/Mugiwara_23/status/2024019563751375245#m",
+      "date": "Wed, 18 Feb 2026 07:14:03 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBaVX4kbcAE833H.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f4ba8dd16cd780f49b34092d32cda48d72c8ee0bc63027e070e4e16389c62fe6",
@@ -410,6 +408,21 @@
       ]
     },
     {
+      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Escanor & Meliodas vs Luffy & Kaido",
+      "text": "Escanor & Meliodas vs Luffy & Kaido",
+      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
+      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
+      ]
+    },
+    {
       "id": "22194de36dd415c9f22c727dacc422b5657f7e089beb6ca25c79ac119f26f7ff",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -423,21 +436,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBZFJ-PXEAEHSQ4.jpg",
         "https://nitter.net/pic/media%2FHBZFK7bbsAAsA5o.png"
-      ]
-    },
-    {
-      "id": "4f3360ac50f9d673c4610ea64ce3a1d0187b4d3892fd873b32bb851325117baf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Escanor & Meliodas vs Luffy & Kaido",
-      "text": "Escanor & Meliodas vs Luffy & Kaido",
-      "url": "https://nitter.net/WorstGenHQ/status/2023881516334673937#m",
-      "date": "Tue, 17 Feb 2026 22:05:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
       ]
     },
     {
@@ -484,19 +482,17 @@
       ]
     },
     {
-      "id": "35c64dae7ef214d8de1d5dab80eb5b477cca39cbd413a2cfc82d61572897ba4d",
+      "id": "fb4ddcbeeab8ac44031f5e9bfba79c5a3f8e37531f6f8dd922ee09346bbbfec9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにすることで、刀身と瘴気の部分が光ります。",
-      "text": "NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにすることで、刀身と瘴気の部分が光ります。",
-      "url": "https://nitter.net/NDW_info/status/2023969572915651014#m",
-      "date": "Wed, 18 Feb 2026 03:55:24 GMT",
+      "title": "RT @NDW_info: NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにする…",
+      "text": "RT @NDW_info: NDW｜【予約受付中】ゼルダの伝説「朽ちたマスターソード」のスタチューが1/1スケールで登場。2027年3月より入荷予定 ndw.jp/zelda-goods-260218/ 「朽ちたマスターソード」部分は、台座から取り外すことが可能。LEDモードにする…",
+      "url": "https://nitter.net/Mugiwara_23/status/2024019563751375245#m",
+      "date": "Wed, 18 Feb 2026 07:14:03 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBaVX4kbcAE833H.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f4ba8dd16cd780f49b34092d32cda48d72c8ee0bc63027e070e4e16389c62fe6",
