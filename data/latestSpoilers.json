@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T14:37:29.991Z",
+  "generatedAt": "2026-02-19T15:36:50.288Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -32,6 +32,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "1b7e4f19eeba9c2e9735fa818822ca731204fb791fd5d6bd145349665a73a391",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【ワンピカード情報】 神木隆之介さん「我が神木なり…!!」 2.28(土)発売 新ブースターパック『神の島の冒険』の TVCMが公開されました！ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "text": "【ワンピカード情報】 神木隆之介さん「我が神木なり…!!」 2.28(土)発売 新ブースターパック『神の島の冒険』の TVCMが公開されました！ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2024499531468198253#m",
+      "date": "Thu, 19 Feb 2026 15:01:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2024499427046805505%2Fimg%2FCGgpI0j8x-qU1zFn.jpg"
+      ]
+    },
     {
       "id": "2a0382c14362ab2fb8a4de33ea0904336a0909f97596da97dd991128a8426341",
       "anime": "onepiece",
@@ -109,22 +124,6 @@
       ]
     },
     {
-      "id": "78eea8a3a8f40fa22a645371393c035467a2058e74f00fb4106d627931e947e7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Concept art | The Legend of Zelda Artist: Yusuke Nakano",
-      "text": "Concept art | The Legend of Zelda Artist: Yusuke Nakano",
-      "url": "https://nitter.net/VideoArtGame/status/2024378420969284044#m",
-      "date": "Thu, 19 Feb 2026 07:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBWj2vkbcAAFI38.jpg",
-        "https://nitter.net/pic/media%2FHBWj2vCXUAAWm0F.jpg"
-      ]
-    },
-    {
       "id": "46ddb0bcd3c5f05f539fde0221540661389a8025f648d636f9fa28679a8a8b4e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -140,31 +139,34 @@
       ]
     },
     {
-      "id": "4c92b4fa46392882286d4c24a174f384d15e4ba4d54d2779c22d82d1e4240d08",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No ",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/i/status/2023586079522386363#m",
+      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBU40HfbcAU-9Ma.jpg"
+      ]
     },
     {
-      "id": "138d5f54c989f072bd76b34f728c92af7b52c255799ed98cc31100a3cd01762a",
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
-      "text": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
       "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
       "date": "Sat, 14 Feb 2026 11:33:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg"
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
       ]
     },
     {
@@ -303,6 +305,21 @@
       "attachments": []
     },
     {
+      "id": "1b7e4f19eeba9c2e9735fa818822ca731204fb791fd5d6bd145349665a73a391",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【ワンピカード情報】 神木隆之介さん「我が神木なり…!!」 2.28(土)発売 新ブースターパック『神の島の冒険』の TVCMが公開されました！ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "text": "【ワンピカード情報】 神木隆之介さん「我が神木なり…!!」 2.28(土)発売 新ブースターパック『神の島の冒険』の TVCMが公開されました！ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2024499531468198253#m",
+      "date": "Thu, 19 Feb 2026 15:01:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2024499427046805505%2Fimg%2FCGgpI0j8x-qU1zFn.jpg"
+      ]
+    },
+    {
       "id": "2a0382c14362ab2fb8a4de33ea0904336a0909f97596da97dd991128a8426341",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -379,22 +396,6 @@
       ]
     },
     {
-      "id": "78eea8a3a8f40fa22a645371393c035467a2058e74f00fb4106d627931e947e7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Concept art | The Legend of Zelda Artist: Yusuke Nakano",
-      "text": "Concept art | The Legend of Zelda Artist: Yusuke Nakano",
-      "url": "https://nitter.net/VideoArtGame/status/2024378420969284044#m",
-      "date": "Thu, 19 Feb 2026 07:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBWj2vkbcAAFI38.jpg",
-        "https://nitter.net/pic/media%2FHBWj2vCXUAAWm0F.jpg"
-      ]
-    },
-    {
       "id": "46ddb0bcd3c5f05f539fde0221540661389a8025f648d636f9fa28679a8a8b4e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -410,31 +411,34 @@
       ]
     },
     {
-      "id": "4c92b4fa46392882286d4c24a174f384d15e4ba4d54d2779c22d82d1e4240d08",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No ",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/i/status/2023586079522386363#m",
+      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBU40HfbcAU-9Ma.jpg"
+      ]
     },
     {
-      "id": "138d5f54c989f072bd76b34f728c92af7b52c255799ed98cc31100a3cd01762a",
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
-      "text": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
       "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
       "date": "Sat, 14 Feb 2026 11:33:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg"
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
       ]
     },
     {
