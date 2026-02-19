@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T20:54:03.585Z",
+  "generatedAt": "2026-02-19T21:27:49.680Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,96 +33,6 @@
   ],
   "misc": [
     {
-      "id": "ac99d7055f37dcdefba304f358eadf6474acd6b1974062087f92c2bebefcecec",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Playtime has a new look #ToyStory5 is only in theaters June 19",
-      "text": "Playtime has a new look #ToyStory5 is only in theaters June 19",
-      "url": "https://nitter.net/Pixar/status/2024529843237638609#m",
-      "date": "Thu, 19 Feb 2026 17:01:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBiF-2zagAANA-i.jpg"
-      ]
-    },
-    {
-      "id": "8786264305928a879a785f31df521a6e991b10af4dc9756ccc43dba82b4ad7ce",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Times may change but friends are forever #ToyStory5 is only in theaters June 19 Video",
-      "text": "Times may change but friends are forever #ToyStory5 is only in theaters June 19 Video",
-      "url": "https://nitter.net/Pixar/status/2024529477544661359#m",
-      "date": "Thu, 19 Feb 2026 17:00:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBiEhNqbUAQs9_P.jpg"
-      ]
-    },
-    {
-      "id": "fc8bd9423dfe92313d331ded6794a9557efa7624150ed0b0a321b89577385103",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Bluepoint Games is getting closed down, per Bloomberg ➡️ bsky.app/profile/jasonschrei… Sony acquired the studio just 5 years ago",
-      "text": "Bluepoint Games is getting closed down, per Bloomberg ➡️ bsky.app/profile/jasonschrei… Sony acquired the studio just 5 years ago",
-      "url": "https://nitter.net/shinobi602/status/2024556142530044024#m",
-      "date": "Thu, 19 Feb 2026 18:46:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBip71HXYAADcPX.jpg"
-      ]
-    },
-    {
-      "id": "2a6d22a67894c3a4224f6126c37664db271a6089e407a326d12acab3fca126f7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "There are only two ways a patient ever leaves her care, fully recovered or dead! ONE PIECE: INTO THE GRAND LINE March 10. Video",
-      "text": "There are only two ways a patient ever leaves her care, fully recovered or dead! ONE PIECE: INTO THE GRAND LINE March 10. Video",
-      "url": "https://nitter.net/onepiecenetflix/status/2024514314845986830#m",
-      "date": "Thu, 19 Feb 2026 16:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBeja5gWwAAd9Hf.jpg"
-      ]
-    },
-    {
-      "id": "1562b79874ae1fa309f1b0d299629a788da32a7cdff55f1948ba3440ec547d12",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Retail launch sales of Mario Tennis Fever in Japan are the lowest for a Mario Tennis game, less than 1/3 of the launch of Mario Tennis Aces. Pretty poor opening for a Mario sports game overall, among ",
-      "text": "Retail launch sales of Mario Tennis Fever in Japan are the lowest for a Mario Tennis game, less than 1/3 of the launch of Mario Tennis Aces. Pretty poor opening for a Mario sports game overall, among the lowest for the series.",
-      "url": "https://nitter.net/GameDataLibrary/status/2024517568887709849#m",
-      "date": "Thu, 19 Feb 2026 16:12:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBiHciuWgAAE7it.png"
-      ]
-    },
-    {
-      "id": "7efb16ed537912ef56acf151d69bc147aa673f243d694f8dccc23c6ff355e2d2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Absolute power is within grasp. #HOTD Season 3 returns this June on HBO Max. Video",
-      "text": "Absolute power is within grasp. #HOTD Season 3 returns this June on HBO Max. Video",
-      "url": "https://nitter.net/HouseofDragon/status/2024514345536016785#m",
-      "date": "Thu, 19 Feb 2026 16:00:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBepSMibUAALiY-.jpg"
-      ]
-    },
-    {
       "id": "72e4aabe5b6c98fcaee74e4d21d6db0aeb0b38c7964223539ad6ff9978607869",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -139,19 +49,6 @@
       ]
     },
     {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -166,6 +63,19 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
+    },
+    {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -254,18 +164,19 @@
       "attachments": []
     },
     {
-      "id": "138d5f54c989f072bd76b34f728c92af7b52c255799ed98cc31100a3cd01762a",
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
-      "text": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
       "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
       "date": "Sat, 14 Feb 2026 11:33:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg"
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
       ]
     },
     {
@@ -326,6 +237,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBhtfNGWwAAIjQ5.jpg"
+      ]
+    },
+    {
+      "id": "db90edf40327ce069f0b7fdf2f2583fb203b123aaea62f23169123ce8fa58405",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024458224791961858#m",
+      "date": "Thu, 19 Feb 2026 12:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBhSBvRXoAA0P-D.jpg"
+      ]
+    },
+    {
+      "id": "70d3d8b5d8750a17fb3d88d825514cd152f98981638d442f502f732bfad51a50",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024428030525890957#m",
+      "date": "Thu, 19 Feb 2026 10:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBg2kOwXwAARppm.jpg"
       ]
     }
   ],
@@ -359,96 +300,6 @@
       "attachments": []
     },
     {
-      "id": "ac99d7055f37dcdefba304f358eadf6474acd6b1974062087f92c2bebefcecec",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Playtime has a new look #ToyStory5 is only in theaters June 19",
-      "text": "Playtime has a new look #ToyStory5 is only in theaters June 19",
-      "url": "https://nitter.net/Pixar/status/2024529843237638609#m",
-      "date": "Thu, 19 Feb 2026 17:01:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBiF-2zagAANA-i.jpg"
-      ]
-    },
-    {
-      "id": "8786264305928a879a785f31df521a6e991b10af4dc9756ccc43dba82b4ad7ce",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Times may change but friends are forever #ToyStory5 is only in theaters June 19 Video",
-      "text": "Times may change but friends are forever #ToyStory5 is only in theaters June 19 Video",
-      "url": "https://nitter.net/Pixar/status/2024529477544661359#m",
-      "date": "Thu, 19 Feb 2026 17:00:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBiEhNqbUAQs9_P.jpg"
-      ]
-    },
-    {
-      "id": "fc8bd9423dfe92313d331ded6794a9557efa7624150ed0b0a321b89577385103",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Bluepoint Games is getting closed down, per Bloomberg ➡️ bsky.app/profile/jasonschrei… Sony acquired the studio just 5 years ago",
-      "text": "Bluepoint Games is getting closed down, per Bloomberg ➡️ bsky.app/profile/jasonschrei… Sony acquired the studio just 5 years ago",
-      "url": "https://nitter.net/shinobi602/status/2024556142530044024#m",
-      "date": "Thu, 19 Feb 2026 18:46:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBip71HXYAADcPX.jpg"
-      ]
-    },
-    {
-      "id": "2a6d22a67894c3a4224f6126c37664db271a6089e407a326d12acab3fca126f7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "There are only two ways a patient ever leaves her care, fully recovered or dead! ONE PIECE: INTO THE GRAND LINE March 10. Video",
-      "text": "There are only two ways a patient ever leaves her care, fully recovered or dead! ONE PIECE: INTO THE GRAND LINE March 10. Video",
-      "url": "https://nitter.net/onepiecenetflix/status/2024514314845986830#m",
-      "date": "Thu, 19 Feb 2026 16:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBeja5gWwAAd9Hf.jpg"
-      ]
-    },
-    {
-      "id": "1562b79874ae1fa309f1b0d299629a788da32a7cdff55f1948ba3440ec547d12",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Retail launch sales of Mario Tennis Fever in Japan are the lowest for a Mario Tennis game, less than 1/3 of the launch of Mario Tennis Aces. Pretty poor opening for a Mario sports game overall, among ",
-      "text": "Retail launch sales of Mario Tennis Fever in Japan are the lowest for a Mario Tennis game, less than 1/3 of the launch of Mario Tennis Aces. Pretty poor opening for a Mario sports game overall, among the lowest for the series.",
-      "url": "https://nitter.net/GameDataLibrary/status/2024517568887709849#m",
-      "date": "Thu, 19 Feb 2026 16:12:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBiHciuWgAAE7it.png"
-      ]
-    },
-    {
-      "id": "7efb16ed537912ef56acf151d69bc147aa673f243d694f8dccc23c6ff355e2d2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Absolute power is within grasp. #HOTD Season 3 returns this June on HBO Max. Video",
-      "text": "Absolute power is within grasp. #HOTD Season 3 returns this June on HBO Max. Video",
-      "url": "https://nitter.net/HouseofDragon/status/2024514345536016785#m",
-      "date": "Thu, 19 Feb 2026 16:00:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBepSMibUAALiY-.jpg"
-      ]
-    },
-    {
       "id": "72e4aabe5b6c98fcaee74e4d21d6db0aeb0b38c7964223539ad6ff9978607869",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -465,19 +316,6 @@
       ]
     },
     {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -492,6 +330,19 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
+    },
+    {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -580,18 +431,19 @@
       "attachments": []
     },
     {
-      "id": "138d5f54c989f072bd76b34f728c92af7b52c255799ed98cc31100a3cd01762a",
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
-      "text": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
       "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
       "date": "Sat, 14 Feb 2026 11:33:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg"
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
       ]
     },
     {
@@ -652,6 +504,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBhtfNGWwAAIjQ5.jpg"
+      ]
+    },
+    {
+      "id": "db90edf40327ce069f0b7fdf2f2583fb203b123aaea62f23169123ce8fa58405",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024458224791961858#m",
+      "date": "Thu, 19 Feb 2026 12:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBhSBvRXoAA0P-D.jpg"
+      ]
+    },
+    {
+      "id": "70d3d8b5d8750a17fb3d88d825514cd152f98981638d442f502f732bfad51a50",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024428030525890957#m",
+      "date": "Thu, 19 Feb 2026 10:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBg2kOwXwAARppm.jpg"
       ]
     }
   ]
