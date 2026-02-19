@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T23:50:25.021Z",
+  "generatedAt": "2026-02-19T01:47:00.583Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,12 +33,12 @@
   ],
   "misc": [
     {
-      "id": "e24d1ab2e6832189bd275817173516236910abb33d4d37c60b17957f5a7ad0fc",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
@@ -92,6 +92,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
         "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
+      ]
+    },
+    {
+      "id": "2d2dc27e0ca7ca101a8f2c4ba55362578602699e572a5c75bdcb7a736c6e83ab",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024277030993379823#m",
+      "date": "Thu, 19 Feb 2026 00:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBetO58WYAA3j41.jpg"
       ]
     },
     {
@@ -167,21 +182,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBcj5zkXAAA5FGB.png"
-      ]
-    },
-    {
-      "id": "40a2a6070abee97fcea1234ee6ea5ab79d772c555cab90301c1602ae4077bf47",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024095839962964336#m",
-      "date": "Wed, 18 Feb 2026 12:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBcIcNZWMAEyUzu.jpg"
       ]
     }
   ],
@@ -215,12 +215,12 @@
       "attachments": []
     },
     {
-      "id": "e24d1ab2e6832189bd275817173516236910abb33d4d37c60b17957f5a7ad0fc",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
@@ -274,6 +274,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHBFLTPZXQAAfrvw.jpg",
         "https://nitter.net/pic/media%2FHBFLTP1asAAkjXH.jpg"
+      ]
+    },
+    {
+      "id": "2d2dc27e0ca7ca101a8f2c4ba55362578602699e572a5c75bdcb7a736c6e83ab",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024277030993379823#m",
+      "date": "Thu, 19 Feb 2026 00:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBetO58WYAA3j41.jpg"
       ]
     },
     {
@@ -349,21 +364,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBcj5zkXAAA5FGB.png"
-      ]
-    },
-    {
-      "id": "40a2a6070abee97fcea1234ee6ea5ab79d772c555cab90301c1602ae4077bf47",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024095839962964336#m",
-      "date": "Wed, 18 Feb 2026 12:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBcIcNZWMAEyUzu.jpg"
       ]
     }
   ]
