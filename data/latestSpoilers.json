@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T11:27:22.150Z",
+  "generatedAt": "2026-02-19T12:06:03.530Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -227,12 +227,12 @@
       ]
     },
     {
-      "id": "0e22611511ef5f06ade5de70130f6d6dd6ba51e5b7bdec30f2e02a54df8328e1",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: Misleading: Googling \"netanyahu blood diagnosis\" shows that no news sources have reported this. The claim traces back to this twitter account. google.com/search?client=… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
@@ -242,18 +242,19 @@
       ]
     },
     {
-      "id": "138d5f54c989f072bd76b34f728c92af7b52c255799ed98cc31100a3cd01762a",
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
-      "text": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
       "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
       "date": "Sat, 14 Feb 2026 11:33:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg"
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
       ]
     },
     {
@@ -287,21 +288,6 @@
       ]
     },
     {
-      "id": "633f6946081d973f80cf6a918508d479c004577399b7d31abe6bb17ad1d2c156",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024397830912160146#m",
-      "date": "Thu, 19 Feb 2026 08:17:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBgbGZkWcAAOTl_.jpg"
-      ]
-    },
-    {
       "id": "0b9a5ff78b300c35d1d84c2c9c71c8a05d1e558ddbd23de239f64c7ff2518a41",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -329,6 +315,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBfkKXvXUAAvI_Z.jpg"
+      ]
+    },
+    {
+      "id": "4c4781ae6f4d2984a0932a84df026a7574108008fbe2c01cd5980aee49740b41",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024307233907995125#m",
+      "date": "Thu, 19 Feb 2026 02:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBfIs8gW4AATd5-.jpg"
       ]
     }
   ],
@@ -556,12 +557,12 @@
       ]
     },
     {
-      "id": "0e22611511ef5f06ade5de70130f6d6dd6ba51e5b7bdec30f2e02a54df8328e1",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: Misleading: Googling \"netanyahu blood diagnosis\" shows that no news sources have reported this. The claim traces back to this twitter account. google.com/search?client=… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
@@ -571,18 +572,19 @@
       ]
     },
     {
-      "id": "138d5f54c989f072bd76b34f728c92af7b52c255799ed98cc31100a3cd01762a",
+      "id": "5ec4f451c77c86aab8fddff75a5afd02bc5ef692c54f6d21da8ac92c1115afa3",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
-      "text": "(@) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” — https://nitter.net/i/status/2022170115308237205#m",
+      "title": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
+      "text": "The Saviour (@TheSaviour) 🚨🇮🇱 Israeli PM Netanyahu: “We have NEVER killed children in Gaza - this is ANTISEMITIC PROPAGANDA!” Video — https://nitter.net/TheSaviour/status/2022170115308237205#m",
       "url": "https://nitter.net/SchmurfiV1/status/2022635340000034931#m",
       "date": "Sat, 14 Feb 2026 11:33:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg"
+        "https://nitter.net/pic/media%2FHBHYHiXakAISZ-K.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2022070742595047424%2Fimg%2F6Q_PBxr2NHISyZm4.jpg"
       ]
     },
     {
@@ -616,21 +618,6 @@
       ]
     },
     {
-      "id": "633f6946081d973f80cf6a918508d479c004577399b7d31abe6bb17ad1d2c156",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024397830912160146#m",
-      "date": "Thu, 19 Feb 2026 08:17:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBgbGZkWcAAOTl_.jpg"
-      ]
-    },
-    {
       "id": "0b9a5ff78b300c35d1d84c2c9c71c8a05d1e558ddbd23de239f64c7ff2518a41",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -658,6 +645,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBfkKXvXUAAvI_Z.jpg"
+      ]
+    },
+    {
+      "id": "4c4781ae6f4d2984a0932a84df026a7574108008fbe2c01cd5980aee49740b41",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024307233907995125#m",
+      "date": "Thu, 19 Feb 2026 02:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBfIs8gW4AATd5-.jpg"
       ]
     }
   ]
