@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T19:35:03.731Z",
+  "generatedAt": "2026-02-20T20:00:57.069Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -20,6 +20,19 @@
       ]
     },
     {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -34,19 +47,6 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
-    },
-    {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -200,6 +200,19 @@
       ]
     },
     {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -214,19 +227,6 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
-    },
-    {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
