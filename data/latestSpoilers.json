@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T21:58:53.431Z",
+  "generatedAt": "2026-02-20T22:27:50.294Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -33,19 +33,6 @@
       ]
     },
     {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -60,6 +47,19 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
+    },
+    {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -88,6 +88,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "30039b1de8633721e99ba03dd6bbef1f1db5e6e921fa399f55c419d1ca689437",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024971607224013209#m",
+      "date": "Fri, 20 Feb 2026 22:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBok8j8XsAI-_yF.jpg"
+      ]
     },
     {
       "id": "fe35bf912dc84c70f7067c2199f7258d4a846f2b3ad80f2bdbd8f719f7d2a668",
@@ -162,21 +177,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBmbngbWEAE_4-f.jpg"
-      ]
-    },
-    {
-      "id": "1f7d73e8e1dce515bebef99c6821700daa9f22bfee472174d3f76b5f0a499160",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024790406571983253#m",
-      "date": "Fri, 20 Feb 2026 10:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBmAJTVW0AAg2dV.jpg"
       ]
     }
   ],
@@ -211,19 +211,6 @@
       ]
     },
     {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -238,6 +225,19 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
+    },
+    {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -266,6 +266,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "30039b1de8633721e99ba03dd6bbef1f1db5e6e921fa399f55c419d1ca689437",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024971607224013209#m",
+      "date": "Fri, 20 Feb 2026 22:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBok8j8XsAI-_yF.jpg"
+      ]
     },
     {
       "id": "fe35bf912dc84c70f7067c2199f7258d4a846f2b3ad80f2bdbd8f719f7d2a668",
@@ -340,21 +355,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBmbngbWEAE_4-f.jpg"
-      ]
-    },
-    {
-      "id": "1f7d73e8e1dce515bebef99c6821700daa9f22bfee472174d3f76b5f0a499160",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024790406571983253#m",
-      "date": "Fri, 20 Feb 2026 10:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBmAJTVW0AAg2dV.jpg"
       ]
     }
   ]
