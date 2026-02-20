@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T15:25:58.227Z",
+  "generatedAt": "2026-02-20T16:20:18.907Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -20,19 +20,6 @@
       ]
     },
     {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -47,6 +34,19 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
+    },
+    {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -89,6 +89,38 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2024255422794694656%2Fimg%2FXtWzm5n-OXTWGCZo.jpg"
+      ]
+    },
+    {
+      "id": "4c8cc6e575ad0320435fdd23aebbe7860235c7df8c09be3f441964861f42cda9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【今日は何の日？】 『ゼルダの伝説』発売40周年（1986年2月21日発売） famitsu.com/article/202602/6… 全世界で高い評価を受けて愛される任天堂を代表する名作シリーズ。ファミリーコンピュータ ディスクシステムのローンチタイトルの1本。2027年に実写映画が公開予定。 #ゼルダの伝説",
+      "text": "【今日は何の日？】 『ゼルダの伝説』発売40周年（1986年2月21日発売） famitsu.com/article/202602/6… 全世界で高い評価を受けて愛される任天堂を代表する名作シリーズ。ファミリーコンピュータ ディスクシステムのローンチタイトルの1本。2027年に実写映画が公開予定。 #ゼルダの伝説",
+      "url": "https://nitter.net/famitsu/status/2024861734297862457#m",
+      "date": "Fri, 20 Feb 2026 15:00:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBnBAYCbwAEsTrE.jpg",
+        "https://nitter.net/pic/media%2FHBnBApSaAAAGM9y.jpg",
+        "https://nitter.net/pic/media%2FHBnBA7laMAAJUnS.jpg"
+      ]
+    },
+    {
+      "id": "7d61226b5573f620d116dea61aee23d413f771a34c15d4e184e65456c3060f27",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★発売まであと8日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "text": "★発売まであと8日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2024801214941274203#m",
+      "date": "Fri, 20 Feb 2026 11:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBVJtecbcAMyhak.jpg"
       ]
     },
     {
@@ -137,14 +169,14 @@
       ]
     },
     {
-      "id": "79de3c9b5b2f792251d7948f2c95aaa52d4790d439ee08fb36ed330f8205c5cf",
+      "id": "b29245653de66a5234d6d763b1d7ca4f6c7dfecec8d2a4e366631125141aa44e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @chusetto: Muy bien, allévoy",
-      "text": "RT @chusetto: Muy bien, allévoy",
-      "url": "https://nitter.net/Mugiwara_23/status/2024856626318959048#m",
-      "date": "Fri, 20 Feb 2026 14:40:14 GMT",
+      "title": "Muy bien, allévoy",
+      "text": "Muy bien, allévoy",
+      "url": "https://nitter.net/chusetto/status/2024430311065460831#m",
+      "date": "Thu, 19 Feb 2026 10:26:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -152,33 +184,18 @@
       ]
     },
     {
-      "id": "99911c8321fd01ba0c7ea2ebdbd6d7c71a2f828602c72293746695355a905a78",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We can finally share the contents of the Collector's Edition! 🎉 The City Hunter XYZ Edition includes: A copy of the game The Collector's Box with alternate cover art A magnificent steelcase An acryli",
-      "text": "We can finally share the contents of the Collector's Edition! 🎉 The City Hunter XYZ Edition includes: A copy of the game The Collector's Box with alternate cover art A magnificent steelcase An acrylic stand featuring Ryo, Kaori, and her hammer, Saeko, and Umibôzu in chibi form The Original Soundtrack CD 🎵 And for our loyal customers, exclusively on our website, a Kaori's 100t hammer keychain! Preorder your physical copy 👇 bit.ly/CityHunterRAG",
-      "url": "https://nitter.net/RedArtGames/status/2024776508741484604#m",
-      "date": "Fri, 20 Feb 2026 09:21:52 GMT",
+      "id": "7a693dadde7fd833036562e238c443147715f696f6266c125e4b9b632e33f7c9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024881003936792915#m",
+      "date": "Fri, 20 Feb 2026 16:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBlzY0bWEAAWd3R.jpg"
-      ]
-    },
-    {
-      "id": "b420acd5a84189d51f72e3c41dfd9d1e69bd509b28598ff0d01b67bcae28df64",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "尾田先生描き下ろし！ ONE PIECE×Netflix season1・2・3のTシャツ 可愛い😙#今週のワンピ",
-      "text": "尾田先生描き下ろし！ ONE PIECE×Netflix season1・2・3のTシャツ 可愛い😙#今週のワンピ",
-      "url": "https://nitter.net/manganouA/status/2024798641714831562#m",
-      "date": "Fri, 20 Feb 2026 10:49:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBmHof8bAAA0sNd.jpg"
+        "https://nitter.net/pic/media%2FHBnSivZXwAAApfj.jpg"
       ]
     },
     {
@@ -254,21 +271,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBlJOQ-XcAA8iEW.jpg"
-      ]
-    },
-    {
-      "id": "8f77f346f2111ad9312073b37aa040460b9d41dd6158363942569f7b4036f571",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024699810180178389#m",
-      "date": "Fri, 20 Feb 2026 04:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBktv5HXoAEzZDT.jpg"
       ]
     }
   ],
@@ -290,19 +292,6 @@
       ]
     },
     {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -317,6 +306,19 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
+    },
+    {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -359,6 +361,38 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2024255422794694656%2Fimg%2FXtWzm5n-OXTWGCZo.jpg"
+      ]
+    },
+    {
+      "id": "4c8cc6e575ad0320435fdd23aebbe7860235c7df8c09be3f441964861f42cda9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【今日は何の日？】 『ゼルダの伝説』発売40周年（1986年2月21日発売） famitsu.com/article/202602/6… 全世界で高い評価を受けて愛される任天堂を代表する名作シリーズ。ファミリーコンピュータ ディスクシステムのローンチタイトルの1本。2027年に実写映画が公開予定。 #ゼルダの伝説",
+      "text": "【今日は何の日？】 『ゼルダの伝説』発売40周年（1986年2月21日発売） famitsu.com/article/202602/6… 全世界で高い評価を受けて愛される任天堂を代表する名作シリーズ。ファミリーコンピュータ ディスクシステムのローンチタイトルの1本。2027年に実写映画が公開予定。 #ゼルダの伝説",
+      "url": "https://nitter.net/famitsu/status/2024861734297862457#m",
+      "date": "Fri, 20 Feb 2026 15:00:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBnBAYCbwAEsTrE.jpg",
+        "https://nitter.net/pic/media%2FHBnBApSaAAAGM9y.jpg",
+        "https://nitter.net/pic/media%2FHBnBA7laMAAJUnS.jpg"
+      ]
+    },
+    {
+      "id": "7d61226b5573f620d116dea61aee23d413f771a34c15d4e184e65456c3060f27",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★発売まであと8日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "text": "★発売まであと8日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のパラレルイラスト版実物カードを公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2024801214941274203#m",
+      "date": "Fri, 20 Feb 2026 11:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBVJtecbcAMyhak.jpg"
       ]
     },
     {
@@ -407,14 +441,14 @@
       ]
     },
     {
-      "id": "79de3c9b5b2f792251d7948f2c95aaa52d4790d439ee08fb36ed330f8205c5cf",
+      "id": "b29245653de66a5234d6d763b1d7ca4f6c7dfecec8d2a4e366631125141aa44e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @chusetto: Muy bien, allévoy",
-      "text": "RT @chusetto: Muy bien, allévoy",
-      "url": "https://nitter.net/Mugiwara_23/status/2024856626318959048#m",
-      "date": "Fri, 20 Feb 2026 14:40:14 GMT",
+      "title": "Muy bien, allévoy",
+      "text": "Muy bien, allévoy",
+      "url": "https://nitter.net/chusetto/status/2024430311065460831#m",
+      "date": "Thu, 19 Feb 2026 10:26:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -422,33 +456,18 @@
       ]
     },
     {
-      "id": "99911c8321fd01ba0c7ea2ebdbd6d7c71a2f828602c72293746695355a905a78",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We can finally share the contents of the Collector's Edition! 🎉 The City Hunter XYZ Edition includes: A copy of the game The Collector's Box with alternate cover art A magnificent steelcase An acryli",
-      "text": "We can finally share the contents of the Collector's Edition! 🎉 The City Hunter XYZ Edition includes: A copy of the game The Collector's Box with alternate cover art A magnificent steelcase An acrylic stand featuring Ryo, Kaori, and her hammer, Saeko, and Umibôzu in chibi form The Original Soundtrack CD 🎵 And for our loyal customers, exclusively on our website, a Kaori's 100t hammer keychain! Preorder your physical copy 👇 bit.ly/CityHunterRAG",
-      "url": "https://nitter.net/RedArtGames/status/2024776508741484604#m",
-      "date": "Fri, 20 Feb 2026 09:21:52 GMT",
+      "id": "7a693dadde7fd833036562e238c443147715f696f6266c125e4b9b632e33f7c9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2024881003936792915#m",
+      "date": "Fri, 20 Feb 2026 16:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBlzY0bWEAAWd3R.jpg"
-      ]
-    },
-    {
-      "id": "b420acd5a84189d51f72e3c41dfd9d1e69bd509b28598ff0d01b67bcae28df64",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "尾田先生描き下ろし！ ONE PIECE×Netflix season1・2・3のTシャツ 可愛い😙#今週のワンピ",
-      "text": "尾田先生描き下ろし！ ONE PIECE×Netflix season1・2・3のTシャツ 可愛い😙#今週のワンピ",
-      "url": "https://nitter.net/manganouA/status/2024798641714831562#m",
-      "date": "Fri, 20 Feb 2026 10:49:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBmHof8bAAA0sNd.jpg"
+        "https://nitter.net/pic/media%2FHBnSivZXwAAApfj.jpg"
       ]
     },
     {
@@ -524,21 +543,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBlJOQ-XcAA8iEW.jpg"
-      ]
-    },
-    {
-      "id": "8f77f346f2111ad9312073b37aa040460b9d41dd6158363942569f7b4036f571",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024699810180178389#m",
-      "date": "Fri, 20 Feb 2026 04:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBktv5HXoAEzZDT.jpg"
       ]
     }
   ]
