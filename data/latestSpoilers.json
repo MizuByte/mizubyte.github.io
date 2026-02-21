@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-02-21T12:38:45.771Z",
+  "generatedAt": "2026-02-21T13:32:15.313Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
+    {
+      "id": "5bb03ebbdaf1c81eaae15d665e618268b3cb50e9f3ba1b83c4692324fed50a98",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ゼルダの伝説 40周年‼️ おめでとうございます！ たくさんの感動をありがとう！",
+      "text": "ゼルダの伝説 40周年‼️ おめでとうございます！ たくさんの感動をありがとう！",
+      "url": "https://nitter.net/AkiraHimekawa/status/2025198557293412722#m",
+      "date": "Sat, 21 Feb 2026 13:18:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBrzWfkbgAATJ5A.jpg"
+      ]
+    },
     {
       "id": "b81d1aea2f4018f98947a2c4d553f28c149f8a28e3271fa0236cd2939488ef65",
       "anime": "onepiece",
@@ -76,21 +91,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2025134041813712900%2Fimg%2FDs3YlT172mZJpWGV.jpg"
-      ]
-    },
-    {
-      "id": "040f87ccdef85f24be12edc220c0ae5121843c4dfc077f53bcfea0330eb88263",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "◤◢◤◢◤◢◤◢◤◢ 𝐖𝐀𝐍𝐓𝐄𝐃 ◤◢◤◢◤◢◤◢◤◢ 詳細は2.24(火)にお知らせします。 お楽しみに！ #ONEPIECE #Monchhichi #モンチッチ",
-      "text": "◤◢◤◢◤◢◤◢◤◢ 𝐖𝐀𝐍𝐓𝐄𝐃 ◤◢◤◢◤◢◤◢◤◢ 詳細は2.24(火)にお知らせします。 お楽しみに！ #ONEPIECE #Monchhichi #モンチッチ",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2025118863252500949#m",
-      "date": "Sat, 21 Feb 2026 08:02:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBqq3suaYAAnI3Q.jpg"
       ]
     },
     {
@@ -186,6 +186,21 @@
   ],
   "items": [
     {
+      "id": "5bb03ebbdaf1c81eaae15d665e618268b3cb50e9f3ba1b83c4692324fed50a98",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ゼルダの伝説 40周年‼️ おめでとうございます！ たくさんの感動をありがとう！",
+      "text": "ゼルダの伝説 40周年‼️ おめでとうございます！ たくさんの感動をありがとう！",
+      "url": "https://nitter.net/AkiraHimekawa/status/2025198557293412722#m",
+      "date": "Sat, 21 Feb 2026 13:18:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBrzWfkbgAATJ5A.jpg"
+      ]
+    },
+    {
       "id": "b81d1aea2f4018f98947a2c4d553f28c149f8a28e3271fa0236cd2939488ef65",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -258,21 +273,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2025134041813712900%2Fimg%2FDs3YlT172mZJpWGV.jpg"
-      ]
-    },
-    {
-      "id": "040f87ccdef85f24be12edc220c0ae5121843c4dfc077f53bcfea0330eb88263",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "◤◢◤◢◤◢◤◢◤◢ 𝐖𝐀𝐍𝐓𝐄𝐃 ◤◢◤◢◤◢◤◢◤◢ 詳細は2.24(火)にお知らせします。 お楽しみに！ #ONEPIECE #Monchhichi #モンチッチ",
-      "text": "◤◢◤◢◤◢◤◢◤◢ 𝐖𝐀𝐍𝐓𝐄𝐃 ◤◢◤◢◤◢◤◢◤◢ 詳細は2.24(火)にお知らせします。 お楽しみに！ #ONEPIECE #Monchhichi #モンチッチ",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2025118863252500949#m",
-      "date": "Sat, 21 Feb 2026 08:02:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBqq3suaYAAnI3Q.jpg"
       ]
     },
     {
