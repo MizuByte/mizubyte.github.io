@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T05:38:29.498Z",
+  "generatedAt": "2026-02-21T06:24:45.699Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -33,6 +33,19 @@
       ]
     },
     {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -47,19 +60,6 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
-    },
-    {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -90,19 +90,17 @@
       "attachments": []
     },
     {
-      "id": "baf6454234bbaa1db538ba492d623b8f066b80205be090ca39de721f431a58be",
+      "id": "f4d16c0860135a825d30fce3974c56b31e1eba173ba1a2ac7d50b8576047eb92",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お楽しみに💨 #ONEPIECE114 #ONEPIECE #ワンピ新刊 Video",
-      "text": "【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お楽しみに💨 #ONEPIECE114 #ONEPIECE #ワンピ新刊 Video",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2025045472428380310#m",
-      "date": "Sat, 21 Feb 2026 03:10:38 GMT",
+      "title": "RT @Eiichiro_Staff: 【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お…",
+      "text": "RT @Eiichiro_Staff: 【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お…",
+      "url": "https://nitter.net/Mugiwara_23/status/2025059190616580437#m",
+      "date": "Sat, 21 Feb 2026 04:05:09 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2025045158077894656%2Fimg%2F8oaJRnypX_Y3b48X.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "7bc709ac0f15d71a5d3fedcd9da92789465c827eb7259a4c442a1283814637d4",
@@ -185,6 +183,21 @@
       ]
     },
     {
+      "id": "126adcfb54d0b5216a148477ce18e141f830c2c9069e8e54d1dcf3060b51276e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2025092399509156119#m",
+      "date": "Sat, 21 Feb 2026 06:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBqSzjaWoAAUBNK.jpg"
+      ]
+    },
+    {
       "id": "5cd32a9e209eefad456cc7dd5fd0852dc5374e809b0b52aed52202fdcbe5da2e",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -257,21 +270,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBoJe2aWQAAY2pM.jpg"
-      ]
-    },
-    {
-      "id": "1271318c64cfea49a402932e82c66177547a1e71bb3424ab8e122669f3b6f785",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024911202556506317#m",
-      "date": "Fri, 20 Feb 2026 18:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBnuAhhWUAEqKr9.jpg"
       ]
     }
   ],
@@ -306,6 +304,19 @@
       ]
     },
     {
+      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Baryon Naruto vs Yuji",
+      "text": "Baryon Naruto vs Yuji",
+      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
+      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "67784562eb94f12e4fed627aab84a7eb06814debf7444ba8ea2b98fe177bf93e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -320,19 +331,6 @@
         "https://nitter.net/pic/media%2FHBiWj7GXQAA58Cd.jpg",
         "https://nitter.net/pic/media%2FHBiWk5OWcAEyPYG.jpg"
       ]
-    },
-    {
-      "id": "1139d07fce1dce740655de17cfcc203ecdb98e8137165a33c8cd0d742a3c293f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Baryon Naruto vs Yuji",
-      "text": "Baryon Naruto vs Yuji",
-      "url": "https://nitter.net/WorstGenHQ/status/2024533762764050692#m",
-      "date": "Thu, 19 Feb 2026 17:17:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1e3f4d75e3c9c9f982f348c69f44fa7d85bc42ae9faef68dfe57542075ed5ff4",
@@ -363,19 +361,17 @@
       "attachments": []
     },
     {
-      "id": "baf6454234bbaa1db538ba492d623b8f066b80205be090ca39de721f431a58be",
+      "id": "f4d16c0860135a825d30fce3974c56b31e1eba173ba1a2ac7d50b8576047eb92",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お楽しみに💨 #ONEPIECE114 #ONEPIECE #ワンピ新刊 Video",
-      "text": "【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お楽しみに💨 #ONEPIECE114 #ONEPIECE #ワンピ新刊 Video",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2025045472428380310#m",
-      "date": "Sat, 21 Feb 2026 03:10:38 GMT",
+      "title": "RT @Eiichiro_Staff: 【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お…",
+      "text": "RT @Eiichiro_Staff: 【メイキング公開】 コミックス114巻は3.4(水)発売！ 発売に先駆け､ カバー制作過程動画が届きました🏴‍☠️ 尾田っちはデジタルであたりをつけ、 そのあと紙とペンのアナログ作画で 完成させています！ 完成イラストは明日公開！お…",
+      "url": "https://nitter.net/Mugiwara_23/status/2025059190616580437#m",
+      "date": "Sat, 21 Feb 2026 04:05:09 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2025045158077894656%2Fimg%2F8oaJRnypX_Y3b48X.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "7bc709ac0f15d71a5d3fedcd9da92789465c827eb7259a4c442a1283814637d4",
@@ -458,6 +454,21 @@
       ]
     },
     {
+      "id": "126adcfb54d0b5216a148477ce18e141f830c2c9069e8e54d1dcf3060b51276e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2025092399509156119#m",
+      "date": "Sat, 21 Feb 2026 06:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBqSzjaWoAAUBNK.jpg"
+      ]
+    },
+    {
       "id": "5cd32a9e209eefad456cc7dd5fd0852dc5374e809b0b52aed52202fdcbe5da2e",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -530,21 +541,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBoJe2aWQAAY2pM.jpg"
-      ]
-    },
-    {
-      "id": "1271318c64cfea49a402932e82c66177547a1e71bb3424ab8e122669f3b6f785",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2024911202556506317#m",
-      "date": "Fri, 20 Feb 2026 18:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBnuAhhWUAEqKr9.jpg"
       ]
     }
   ]
