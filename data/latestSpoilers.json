@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T23:57:06.077Z",
+  "generatedAt": "2026-02-22T01:56:09.777Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -19,19 +19,6 @@
       ]
     },
     {
-      "id": "b91193f2eedcfd8dfe16a91be80cf48043200f6cd2fd9b4b5b428b9e7f3c494a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ",
-      "text": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ya que ninguna de sus cuentas en redes, ha puesto si quiera una felicitación... Sergio (redon) (@Mugiwara_23) Pese a los rumores que hay sobre que esta semana tendremos un Nintendo Direct, yo creo que no lo habrá. Pero lo que sí espero es que esta semana haya algún anuncio sobre The Legend of Zelda, ya que sería MUY DECEPCIONANTE que Nintendo no anunciase nada por su 40º aniversario... — https://nitter.net/Mugiwara_23/status/2024110990862774527#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2025254409567908155#m",
-      "date": "Sat, 21 Feb 2026 17:00:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "2a777a46e617ccd8bf8b8f7f3e55c76737ac16b0ae158dc1ecee6fb26494b433",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -40,6 +27,19 @@
       "text": "Ni @Nintendo, ni @NintendoAmerica, ni siquiera la cuenta oficial @ZeldaOfficialJP han puesto un mísero mensaje de celebración por una fecha tan especial... Es VERGONZOSO que traten así a una de sus sagas más importantes, especialmente tras el éxito de sus juegos en Switch 😡😡😡",
       "url": "https://nitter.net/Mugiwara_23/status/2025255286265590194#m",
       "date": "Sat, 21 Feb 2026 17:04:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b91193f2eedcfd8dfe16a91be80cf48043200f6cd2fd9b4b5b428b9e7f3c494a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ",
+      "text": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ya que ninguna de sus cuentas en redes, ha puesto si quiera una felicitación... Sergio (redon) (@Mugiwara_23) Pese a los rumores que hay sobre que esta semana tendremos un Nintendo Direct, yo creo que no lo habrá. Pero lo que sí espero es que esta semana haya algún anuncio sobre The Legend of Zelda, ya que sería MUY DECEPCIONANTE que Nintendo no anunciase nada por su 40º aniversario... — https://nitter.net/Mugiwara_23/status/2024110990862774527#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2025254409567908155#m",
+      "date": "Sat, 21 Feb 2026 17:00:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -73,14 +73,14 @@
       ]
     },
     {
-      "id": "76fb774415ccf3d3884b52503a88396b6f942337b9f5459d095d6e37aeddfdcd",
+      "id": "f002c954a04c2a3bc8adfe9a71ed8eadd4f606a79e2f41bf93f799379491786b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: 2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
-      "text": "RT @OPcom_info: 2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/Mugiwara_23/status/2025225673229365612#m",
-      "date": "Sat, 21 Feb 2026 15:06:42 GMT",
+      "title": "2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
+      "text": "2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/OPcom_info/status/2025225288368750894#m",
+      "date": "Sat, 21 Feb 2026 15:05:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -173,6 +173,21 @@
       "attachments": []
     },
     {
+      "id": "3e62d5feeb1c39cfbfd59d21dcf56fdf54b1f2384ecad849ea3a8206aff1030b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2025364197849043227#m",
+      "date": "Sun, 22 Feb 2026 00:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBuKALWXkAAJ1OY.jpg"
+      ]
+    },
+    {
       "id": "f4e1f51c617ad02462b5d005e1fe249f6adb678bc5fd40bbb2d33c5896537b93",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -245,21 +260,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBrlM0VWAAETQyM.jpg"
-      ]
-    },
-    {
-      "id": "481ee7a6b7845cbcde90e66232ea821ff95ac1812c8a701f6263e518507325ca",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2025152801068720490#m",
-      "date": "Sat, 21 Feb 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBrJva_WsAAOgbM.jpg"
       ]
     }
   ],
@@ -280,19 +280,6 @@
       ]
     },
     {
-      "id": "b91193f2eedcfd8dfe16a91be80cf48043200f6cd2fd9b4b5b428b9e7f3c494a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ",
-      "text": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ya que ninguna de sus cuentas en redes, ha puesto si quiera una felicitación... Sergio (redon) (@Mugiwara_23) Pese a los rumores que hay sobre que esta semana tendremos un Nintendo Direct, yo creo que no lo habrá. Pero lo que sí espero es que esta semana haya algún anuncio sobre The Legend of Zelda, ya que sería MUY DECEPCIONANTE que Nintendo no anunciase nada por su 40º aniversario... — https://nitter.net/Mugiwara_23/status/2024110990862774527#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2025254409567908155#m",
-      "date": "Sat, 21 Feb 2026 17:00:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "2a777a46e617ccd8bf8b8f7f3e55c76737ac16b0ae158dc1ecee6fb26494b433",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -301,6 +288,19 @@
       "text": "Ni @Nintendo, ni @NintendoAmerica, ni siquiera la cuenta oficial @ZeldaOfficialJP han puesto un mísero mensaje de celebración por una fecha tan especial... Es VERGONZOSO que traten así a una de sus sagas más importantes, especialmente tras el éxito de sus juegos en Switch 😡😡😡",
       "url": "https://nitter.net/Mugiwara_23/status/2025255286265590194#m",
       "date": "Sat, 21 Feb 2026 17:04:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b91193f2eedcfd8dfe16a91be80cf48043200f6cd2fd9b4b5b428b9e7f3c494a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ",
+      "text": "Ya es 22 de Febrero en Japón, y como me esperaba, no hemos tenido ninguna noticia sobre la saga The Legend of Zelda 😕😕😕 Lo peor de todo es que Nintendo ha pasado completamente del 40º aniversario, ya que ninguna de sus cuentas en redes, ha puesto si quiera una felicitación... Sergio (redon) (@Mugiwara_23) Pese a los rumores que hay sobre que esta semana tendremos un Nintendo Direct, yo creo que no lo habrá. Pero lo que sí espero es que esta semana haya algún anuncio sobre The Legend of Zelda, ya que sería MUY DECEPCIONANTE que Nintendo no anunciase nada por su 40º aniversario... — https://nitter.net/Mugiwara_23/status/2024110990862774527#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2025254409567908155#m",
+      "date": "Sat, 21 Feb 2026 17:00:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -334,14 +334,14 @@
       ]
     },
     {
-      "id": "76fb774415ccf3d3884b52503a88396b6f942337b9f5459d095d6e37aeddfdcd",
+      "id": "f002c954a04c2a3bc8adfe9a71ed8eadd4f606a79e2f41bf93f799379491786b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: 2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
-      "text": "RT @OPcom_info: 2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/Mugiwara_23/status/2025225673229365612#m",
-      "date": "Sat, 21 Feb 2026 15:06:42 GMT",
+      "title": "2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
+      "text": "2月22日は光月おでんの誕生日 HAPPY BIRTHDAY KOUZUKI ODEN #おでん誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/OPcom_info/status/2025225288368750894#m",
+      "date": "Sat, 21 Feb 2026 15:05:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -434,6 +434,21 @@
       "attachments": []
     },
     {
+      "id": "3e62d5feeb1c39cfbfd59d21dcf56fdf54b1f2384ecad849ea3a8206aff1030b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2025364197849043227#m",
+      "date": "Sun, 22 Feb 2026 00:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBuKALWXkAAJ1OY.jpg"
+      ]
+    },
+    {
       "id": "f4e1f51c617ad02462b5d005e1fe249f6adb678bc5fd40bbb2d33c5896537b93",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -506,21 +521,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBrlM0VWAAETQyM.jpg"
-      ]
-    },
-    {
-      "id": "481ee7a6b7845cbcde90e66232ea821ff95ac1812c8a701f6263e518507325ca",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2025152801068720490#m",
-      "date": "Sat, 21 Feb 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBrJva_WsAAOgbM.jpg"
       ]
     }
   ]
