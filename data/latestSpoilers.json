@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-02-23T21:30:42.274Z",
+  "generatedAt": "2026-02-23T22:27:27.999Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "e305aaf9d0fbc1bb984604d7755bc281bf20997ddfc0c81344632e1c6dc5060f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
+      "text": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
+      "url": "https://nitter.net/WorstGenHQ/status/2026048076650008592#m",
+      "date": "Mon, 23 Feb 2026 21:34:38 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
       "anime": "onepiece",
@@ -20,6 +33,21 @@
   ],
   "misc": [
     {
+      "id": "a5ed1136f28880f456769097150f9e38d1c8f7c53ff8cf9b006368bf33d9050f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026047985407439014#m",
+      "date": "Mon, 23 Feb 2026 21:34:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB3hR0xXcAEBkT3.jpg"
+      ]
+    },
+    {
       "id": "eecb42ea435d0893117acc6ce3265901f7b3c595ad68154abd13561049cb7b97",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -61,32 +89,19 @@
       ]
     },
     {
-      "id": "8e771a590f11cebd8064b55a855002256c926cfb8da808f10ff200146e8d6a94",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
-      "text": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
-      "url": "https://nitter.net/d0nut2x/status/2025880405426012245#m",
-      "date": "Mon, 23 Feb 2026 10:28:22 GMT",
+      "id": "2e5764fe55fdb11d3821dd4674118334cccc87ca56a49031c4809c985c3f9cb2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026058804765282801#m",
+      "date": "Mon, 23 Feb 2026 22:17:16 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB1ffR5XQAAgwel.jpg"
+        "https://nitter.net/pic/media%2FHB4BvyuX0AAEnI8.jpg"
       ]
-    },
-    {
-      "id": "9aa55cfb733c3829b636d89bdaca0b8965ab6c00fc3d3de74ed5265f82f19c98",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy",
-      "text": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy... This form has enormous potential, and Oda took a huge risk with it; you have to give him that.",
-      "url": "https://nitter.net/WorstGenHQ/status/2025658351388962907#m",
-      "date": "Sun, 22 Feb 2026 19:46:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "22b767db2b36efa1c560329e6285b88f5afa7c3bddd59635060d80ed3e599442",
@@ -162,24 +177,22 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHB14YuTWgAAa2Yf.jpg"
       ]
-    },
-    {
-      "id": "f57e4e55b3a1d971d140c825e8c15032837a6a40957688d0594670b46a863ad9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2025877576128811186#m",
-      "date": "Mon, 23 Feb 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB1c63wXUAAAm4V.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "e305aaf9d0fbc1bb984604d7755bc281bf20997ddfc0c81344632e1c6dc5060f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
+      "text": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
+      "url": "https://nitter.net/WorstGenHQ/status/2026048076650008592#m",
+      "date": "Mon, 23 Feb 2026 21:34:38 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
       "anime": "onepiece",
@@ -196,6 +209,21 @@
       ]
     },
     {
+      "id": "a5ed1136f28880f456769097150f9e38d1c8f7c53ff8cf9b006368bf33d9050f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026047985407439014#m",
+      "date": "Mon, 23 Feb 2026 21:34:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB3hR0xXcAEBkT3.jpg"
+      ]
+    },
+    {
       "id": "eecb42ea435d0893117acc6ce3265901f7b3c595ad68154abd13561049cb7b97",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -237,32 +265,19 @@
       ]
     },
     {
-      "id": "8e771a590f11cebd8064b55a855002256c926cfb8da808f10ff200146e8d6a94",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
-      "text": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
-      "url": "https://nitter.net/d0nut2x/status/2025880405426012245#m",
-      "date": "Mon, 23 Feb 2026 10:28:22 GMT",
+      "id": "2e5764fe55fdb11d3821dd4674118334cccc87ca56a49031c4809c985c3f9cb2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026058804765282801#m",
+      "date": "Mon, 23 Feb 2026 22:17:16 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB1ffR5XQAAgwel.jpg"
+        "https://nitter.net/pic/media%2FHB4BvyuX0AAEnI8.jpg"
       ]
-    },
-    {
-      "id": "9aa55cfb733c3829b636d89bdaca0b8965ab6c00fc3d3de74ed5265f82f19c98",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy",
-      "text": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy... This form has enormous potential, and Oda took a huge risk with it; you have to give him that.",
-      "url": "https://nitter.net/WorstGenHQ/status/2025658351388962907#m",
-      "date": "Sun, 22 Feb 2026 19:46:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "22b767db2b36efa1c560329e6285b88f5afa7c3bddd59635060d80ed3e599442",
@@ -337,21 +352,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB14YuTWgAAa2Yf.jpg"
-      ]
-    },
-    {
-      "id": "f57e4e55b3a1d971d140c825e8c15032837a6a40957688d0594670b46a863ad9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2025877576128811186#m",
-      "date": "Mon, 23 Feb 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB1c63wXUAAAm4V.jpg"
       ]
     }
   ]
