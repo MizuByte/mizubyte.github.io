@@ -1,25 +1,38 @@
 {
-  "generatedAt": "2026-02-23T19:46:44.662Z",
+  "generatedAt": "2026-02-23T20:28:21.984Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "e19ac6ba8ea4370a3b51a2a5379ad4c491e1acd83f3769c89d2635f0afc1b82a",
+      "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
-      "text": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
-      "url": "https://nitter.net/TheWillOfMarco/status/2025596523392950440#m",
-      "date": "Sun, 22 Feb 2026 15:40:19 GMT",
+      "title": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
+      "text": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
+      "url": "https://nitter.net/WorstGenHQ/status/2026027283119546448#m",
+      "date": "Mon, 23 Feb 2026 20:12:00 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2025596460222615552%2Fimg%2FvNeab6pZfnMNA7MC.jpg"
+        "https://nitter.net/pic/media%2FHB3k-VBXwAAFVBF.jpg"
       ]
     }
   ],
   "misc": [
     {
+      "id": "eecb42ea435d0893117acc6ce3265901f7b3c595ad68154abd13561049cb7b97",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Lore!!",
+      "text": "Lore!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2026023616807109099#m",
+      "date": "Mon, 23 Feb 2026 19:57:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "303114dd41976407cd155871bd48005ec8ad4b7a8db50e0fbd6cb923f664baee",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -76,18 +89,18 @@
       "attachments": []
     },
     {
-      "id": "ff170c163de04295aa027c435baa264c66fbf5b2fb8aa4058037803363bab24c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the m",
-      "text": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the mangaka for their MC? Luffy remains unique with Gear 5, his fightstyle is 🔥;) Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2025657853701140838#m",
-      "date": "Sun, 22 Feb 2026 19:44:01 GMT",
+      "id": "22b767db2b36efa1c560329e6285b88f5afa7c3bddd59635060d80ed3e599442",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026028572175917335#m",
+      "date": "Mon, 23 Feb 2026 20:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2025656777824522240%2Fimg%2FlAPeadNrOPjtlRyu.jpg"
+        "https://nitter.net/pic/media%2FHB3mP-BXwAA3NKn.jpg"
       ]
     },
     {
@@ -163,39 +176,37 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB1c63wXUAAAm4V.jpg"
-      ]
-    },
-    {
-      "id": "89ca6718276ad566617ee4157843d395851320af845e176ad7d85abcc11d0bc3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2025847402855374923#m",
-      "date": "Mon, 23 Feb 2026 08:17:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB1BejNW0AACsnC.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "e19ac6ba8ea4370a3b51a2a5379ad4c491e1acd83f3769c89d2635f0afc1b82a",
+      "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
-      "text": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
-      "url": "https://nitter.net/TheWillOfMarco/status/2025596523392950440#m",
-      "date": "Sun, 22 Feb 2026 15:40:19 GMT",
+      "title": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
+      "text": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
+      "url": "https://nitter.net/WorstGenHQ/status/2026027283119546448#m",
+      "date": "Mon, 23 Feb 2026 20:12:00 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2025596460222615552%2Fimg%2FvNeab6pZfnMNA7MC.jpg"
+        "https://nitter.net/pic/media%2FHB3k-VBXwAAFVBF.jpg"
       ]
+    },
+    {
+      "id": "eecb42ea435d0893117acc6ce3265901f7b3c595ad68154abd13561049cb7b97",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Lore!!",
+      "text": "Lore!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2026023616807109099#m",
+      "date": "Mon, 23 Feb 2026 19:57:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "303114dd41976407cd155871bd48005ec8ad4b7a8db50e0fbd6cb923f664baee",
@@ -254,18 +265,18 @@
       "attachments": []
     },
     {
-      "id": "ff170c163de04295aa027c435baa264c66fbf5b2fb8aa4058037803363bab24c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the m",
-      "text": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the mangaka for their MC? Luffy remains unique with Gear 5, his fightstyle is 🔥;) Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2025657853701140838#m",
-      "date": "Sun, 22 Feb 2026 19:44:01 GMT",
+      "id": "22b767db2b36efa1c560329e6285b88f5afa7c3bddd59635060d80ed3e599442",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026028572175917335#m",
+      "date": "Mon, 23 Feb 2026 20:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2025656777824522240%2Fimg%2FlAPeadNrOPjtlRyu.jpg"
+        "https://nitter.net/pic/media%2FHB3mP-BXwAA3NKn.jpg"
       ]
     },
     {
@@ -341,21 +352,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB1c63wXUAAAm4V.jpg"
-      ]
-    },
-    {
-      "id": "89ca6718276ad566617ee4157843d395851320af845e176ad7d85abcc11d0bc3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2025847402855374923#m",
-      "date": "Mon, 23 Feb 2026 08:17:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB1BejNW0AACsnC.jpg"
       ]
     }
   ]
