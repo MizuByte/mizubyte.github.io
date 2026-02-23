@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-02-23T18:43:20.708Z",
+  "generatedAt": "2026-02-23T19:46:44.662Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "e19ac6ba8ea4370a3b51a2a5379ad4c491e1acd83f3769c89d2635f0afc1b82a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
+      "text": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
+      "url": "https://nitter.net/TheWillOfMarco/status/2025596523392950440#m",
+      "date": "Sun, 22 Feb 2026 15:40:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2025596460222615552%2Fimg%2FvNeab6pZfnMNA7MC.jpg"
+      ]
+    }
+  ],
   "misc": [
+    {
+      "id": "303114dd41976407cd155871bd48005ec8ad4b7a8db50e0fbd6cb923f664baee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 👀👀👀👀",
+      "text": "#ONEPIECE1175 👀👀👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2026018693956661743#m",
+      "date": "Mon, 23 Feb 2026 19:37:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1520bcdcba0f9d24cd4f95f719d4688cb840e4b8eaddafb65d2034bcfc08612d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "i appeared in a german youtubers video! its all in german, but feel free to still watch✨️",
+      "text": "i appeared in a german youtubers video! its all in german, but feel free to still watch✨️",
+      "url": "https://nitter.net/mellifera_x3/status/2025922364157100081#m",
+      "date": "Mon, 23 Feb 2026 13:15:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB2Fp26bAAELjp_.jpg"
+      ]
+    },
+    {
+      "id": "8e771a590f11cebd8064b55a855002256c926cfb8da808f10ff200146e8d6a94",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
+      "text": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
+      "url": "https://nitter.net/d0nut2x/status/2025880405426012245#m",
+      "date": "Mon, 23 Feb 2026 10:28:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB1ffR5XQAAgwel.jpg"
+      ]
+    },
+    {
+      "id": "9aa55cfb733c3829b636d89bdaca0b8965ab6c00fc3d3de74ed5265f82f19c98",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy",
+      "text": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy... This form has enormous potential, and Oda took a huge risk with it; you have to give him that.",
+      "url": "https://nitter.net/WorstGenHQ/status/2025658351388962907#m",
+      "date": "Sun, 22 Feb 2026 19:46:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ff170c163de04295aa027c435baa264c66fbf5b2fb8aa4058037803363bab24c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the m",
+      "text": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the mangaka for their MC? Luffy remains unique with Gear 5, his fightstyle is 🔥;) Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2025657853701140838#m",
+      "date": "Sun, 22 Feb 2026 19:44:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2025656777824522240%2Fimg%2FlAPeadNrOPjtlRyu.jpg"
+      ]
+    },
     {
       "id": "9b4493fcf543a5ead2c52761a77a0e446e3209dcbcc312e4d176c308d5546514",
       "anime": "berserk",
@@ -95,6 +182,92 @@
     }
   ],
   "items": [
+    {
+      "id": "e19ac6ba8ea4370a3b51a2a5379ad4c491e1acd83f3769c89d2635f0afc1b82a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
+      "text": "The manga break is over! #ONEPIECE1175 spoilers will drop this week 😎🔥 Video",
+      "url": "https://nitter.net/TheWillOfMarco/status/2025596523392950440#m",
+      "date": "Sun, 22 Feb 2026 15:40:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2025596460222615552%2Fimg%2FvNeab6pZfnMNA7MC.jpg"
+      ]
+    },
+    {
+      "id": "303114dd41976407cd155871bd48005ec8ad4b7a8db50e0fbd6cb923f664baee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 👀👀👀👀",
+      "text": "#ONEPIECE1175 👀👀👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2026018693956661743#m",
+      "date": "Mon, 23 Feb 2026 19:37:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1520bcdcba0f9d24cd4f95f719d4688cb840e4b8eaddafb65d2034bcfc08612d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "i appeared in a german youtubers video! its all in german, but feel free to still watch✨️",
+      "text": "i appeared in a german youtubers video! its all in german, but feel free to still watch✨️",
+      "url": "https://nitter.net/mellifera_x3/status/2025922364157100081#m",
+      "date": "Mon, 23 Feb 2026 13:15:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB2Fp26bAAELjp_.jpg"
+      ]
+    },
+    {
+      "id": "8e771a590f11cebd8064b55a855002256c926cfb8da808f10ff200146e8d6a94",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
+      "text": "New \"Neon Genesis Evangelion\" ANIME SERIES OFFICIALLY ANNOUNCED Written by Yoko Taro Directors: Kazuya Tsurumaki & Toko Yatabe Music: Keiichi Okabe Animation Production: CloverWorks x Khara",
+      "url": "https://nitter.net/d0nut2x/status/2025880405426012245#m",
+      "date": "Mon, 23 Feb 2026 10:28:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB1ffR5XQAAgwel.jpg"
+      ]
+    },
+    {
+      "id": "9aa55cfb733c3829b636d89bdaca0b8965ab6c00fc3d3de74ed5265f82f19c98",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy",
+      "text": "I can understand that many find it silly, but many of Luffy's fights were silly and funny, yet when it came to seriousness, it remained so, even with G5. The best example is the end of Kaido vs. Luffy... This form has enormous potential, and Oda took a huge risk with it; you have to give him that.",
+      "url": "https://nitter.net/WorstGenHQ/status/2025658351388962907#m",
+      "date": "Sun, 22 Feb 2026 19:46:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ff170c163de04295aa027c435baa264c66fbf5b2fb8aa4058037803363bab24c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the m",
+      "text": "Gear 5 is a successful and special form for me because it's unique and has a lot of potential. Just look at 99% of shonen manga and their main characters. Has there ever been a similar leap from the mangaka for their MC? Luffy remains unique with Gear 5, his fightstyle is 🔥;) Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2025657853701140838#m",
+      "date": "Sun, 22 Feb 2026 19:44:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2025656777824522240%2Fimg%2FlAPeadNrOPjtlRyu.jpg"
+      ]
+    },
     {
       "id": "9b4493fcf543a5ead2c52761a77a0e446e3209dcbcc312e4d176c308d5546514",
       "anime": "berserk",
