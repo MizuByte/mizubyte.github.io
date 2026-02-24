@@ -1,38 +1,173 @@
 {
-  "generatedAt": "2026-02-24T12:30:04.027Z",
+  "generatedAt": "2026-02-24T13:59:39.919Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "e305aaf9d0fbc1bb984604d7755bc281bf20997ddfc0c81344632e1c6dc5060f",
+      "id": "9823b2d71265e603705d4a27d47e77dd1c7d840a0b95892ce5e29500933cfe87",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "text": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "url": "https://nitter.net/WorstGenHQ/status/2026048076650008592#m",
-      "date": "Mon, 23 Feb 2026 21:34:38 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "text": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2026027283119546448#m",
-      "date": "Mon, 23 Feb 2026 20:12:00 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
+      "text": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2026284755646337048#m",
+      "date": "Tue, 24 Feb 2026 13:15:06 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB3k-VBXwAAFVBF.jpg"
+        "https://nitter.net/pic/media%2FHB7N8F9W4AALIcg.jpg"
+      ]
+    },
+    {
+      "id": "378e12733436def52745b91472fa649fdf4dd01396b3b229d2d1f877543948d5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 SPOILERS OUT EVERYONE!! Pew (@pewpiece) #ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME — https://nitter.net/pewpiece/status/2026284755646337048#m",
+      "text": "#ONEPIECE1175 SPOILERS OUT EVERYONE!! Pew (@pewpiece) #ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME — https://nitter.net/pewpiece/status/2026284755646337048#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2026284981820035244#m",
+      "date": "Tue, 24 Feb 2026 13:16:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7N8F9W4AALIcg.jpg"
       ]
     }
   ],
   "misc": [
     {
+      "id": "4ad28605c488bb0e1a84e940f8f009cb6441fc4450970e5c48a308b271314de1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
+      "url": "https://nitter.net/pewpiece/status/2026277944423825756#m",
+      "date": "Tue, 24 Feb 2026 12:48:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7IXtwWMAAN7i0.jpg"
+      ]
+    },
+    {
+      "id": "be57b1d5aac385f69910684d41f043f68e7493f2450ddf138c97edaaa138642e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
+      "text": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
+      "url": "https://nitter.net/pewpiece/status/2026135849755197915#m",
+      "date": "Tue, 24 Feb 2026 03:23:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB5Hy2DX0AAtAnJ.jpg"
+      ]
+    },
+    {
+      "id": "5ecb138fea47fe863f0764ea748cd46259ff1cdff69b54eae5656fb14a639c24",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE VOLUME 114 OFFICIAL COVER",
+      "text": "ONEPIECE VOLUME 114 OFFICIAL COVER",
+      "url": "https://nitter.net/pewpiece/status/2025405620258492809#m",
+      "date": "Sun, 22 Feb 2026 03:01:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBuvq6GWMAAszCi.jpg"
+      ]
+    },
+    {
+      "id": "c144a36d3ade22485bc8a8ecd9897b5f1056d677e2e5957e6a03d42eb3fcc05a",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
+      "text": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
+      "url": "https://nitter.net/pewpiece/status/2025225383545651438#m",
+      "date": "Sat, 21 Feb 2026 15:05:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBsLva2W8AAAxfh.jpg"
+      ]
+    },
+    {
+      "id": "ce4269bd2039b713f8d201a29d46c3149645404135f1426cfd03a223b0205d6c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda's sketch of One Piece Volume 114 cover",
+      "text": "Oda's sketch of One Piece Volume 114 cover",
+      "url": "https://nitter.net/pewpiece/status/2025048263032701361#m",
+      "date": "Sat, 21 Feb 2026 03:21:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBpqprNWwAEKoiW.jpg"
+      ]
+    },
+    {
+      "id": "bc620a3801770733454044352c37b5b084c921b78d3db815ad88edefc26c780e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 GODA!!!!!! Luffy vs Loki soon? 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1175 GODA!!!!!! Luffy vs Loki soon? 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026286698162991291#m",
+      "date": "Tue, 24 Feb 2026 13:22:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7RA62WcAA62UR.jpg"
+      ]
+    },
+    {
+      "id": "6690e263aab24c961ab2f61c4d9eda0f8d6106815d010dbe5ca2966fcad49fee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Jarul also says that in Elbaph, a certain “God of War” possessed the Nidhogg Devil Fruit and wielded a weapon called “Ragnir,” and clashed with the Sun God in the past. Jarul adds that t",
+      "text": "#ONEPIECE1175 Jarul also says that in Elbaph, a certain “God of War” possessed the Nidhogg Devil Fruit and wielded a weapon called “Ragnir,” and clashed with the Sun God in the past. Jarul adds that the “God of War” was said to be accompanied by his loyal confidant, the “Ice Squirrel Ratatoskr.”",
+      "url": "https://nitter.net/WorstGenHQ/status/2026286145600987518#m",
+      "date": "Tue, 24 Feb 2026 13:20:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7QgusWwAAlL0a.jpg"
+      ]
+    },
+    {
+      "id": "77de198368e8c7d8706760584de1aa57d92f6e59907a97ebd4116bda23ec4a12",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Chapter 1175: Nidhogg -Imu, in the Holy Land, reacts to Loki and says, “I see… Nidhogg… You… were in Elbaph all along!!” 🔥🔥🔥",
+      "text": "#ONEPIECE1175 Chapter 1175: Nidhogg -Imu, in the Holy Land, reacts to Loki and says, “I see… Nidhogg… You… were in Elbaph all along!!” 🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026285279779172856#m",
+      "date": "Tue, 24 Feb 2026 13:17:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d9247af2adabb950e472f5ebbb51631d3dee4babacd1771199a3041b99e67522",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "No.420、原稿完成。 #絵は残像です",
+      "text": "No.420、原稿完成。 #絵は残像です",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2026231563562983740#m",
+      "date": "Tue, 24 Feb 2026 09:43:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB6e3Oja8AAEC7X.jpg"
+      ]
+    },
+    {
       "id": "dd14f308f47371d0918bd84c5eba428ee1fa028a24fce9c914d9fa04a13d3091",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -48,47 +183,21 @@
       ]
     },
     {
-      "id": "1b8eabc3eddb5f2acbf61cf490a9bf80e854e1c8ef29128c4997a160dce02894",
+      "id": "77a09022941e29825dd45f58c2f42c5ac585c14b270285d2284c66d24566ad6f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026206668762038608#m",
-      "date": "Tue, 24 Feb 2026 08:04:49 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "アウターゾーンの少年ジャンプ🤪💨 摩訶不思議な話が面白かったです🤭✨ ドラゴンボールは序盤は謎が多くてストーリーに引き込まれていった人造人間編💨✨ #少年ジャンプ #ドラゴンボール",
+      "text": "アウターゾーンの少年ジャンプ🤪💨 摩訶不思議な話が面白かったです🤭✨ ドラゴンボールは序盤は謎が多くてストーリーに引き込まれていった人造人間編💨✨ #少年ジャンプ #ドラゴンボール",
+      "url": "https://nitter.net/takatakakondo/status/2026288375171620971#m",
+      "date": "Tue, 24 Feb 2026 13:29:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB6IOl9X0AAlc7i.jpg"
+        "https://nitter.net/pic/media%2FHB7Sh95bUAA39P8.jpg",
+        "https://nitter.net/pic/media%2FHB7Sh-DaYAAU4zo.jpg",
+        "https://nitter.net/pic/media%2FHB7Sh_HbMAA6qIU.jpg"
       ]
-    },
-    {
-      "id": "a5ed1136f28880f456769097150f9e38d1c8f7c53ff8cf9b006368bf33d9050f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026047985407439014#m",
-      "date": "Mon, 23 Feb 2026 21:34:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB3hR0xXcAEBkT3.jpg"
-      ]
-    },
-    {
-      "id": "eecb42ea435d0893117acc6ce3265901f7b3c595ad68154abd13561049cb7b97",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Lore!!",
-      "text": "Lore!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2026023616807109099#m",
-      "date": "Mon, 23 Feb 2026 19:57:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "44a736967363fe93faf64519908b9e8e5f774ac93d0677447322cbb30590e29c",
@@ -167,21 +276,6 @@
       ]
     },
     {
-      "id": "3aaa26a27cb3d3c55c52bbecc4a7197a2a3c638c4c449bde7b4575cad5e58d30",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Twin Peaks Day ☕️🏔️",
-      "text": "Happy Twin Peaks Day ☕️🏔️",
-      "url": "https://nitter.net/letterboxd/status/1894076368930947490#m",
-      "date": "Mon, 24 Feb 2025 17:26:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FGkkcTV_bkAMdLHt.jpg"
-      ]
-    },
-    {
       "id": "e317da19d9c86af3fae5e792e564181e978bb8f9566c9c6a67dd092f379dcb15",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -239,66 +333,171 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB5vku9WgAAc2jM.jpg"
-      ]
-    },
-    {
-      "id": "a8ff87b9db5cb0e1e7ce38e87260634dcd20ff73c8883e9a5a991796c3d2b6cf",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026149364486332663#m",
-      "date": "Tue, 24 Feb 2026 04:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB5UHEoXgAAwOH6.jpg"
-      ]
-    },
-    {
-      "id": "c8a2b0ee4af4a74dbfa724a45c96b0fdc70a241e7c81e500d68aa0c9df4a6021",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026119167649222934#m",
-      "date": "Tue, 24 Feb 2026 02:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB44pYSW4AA4DZ9.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "e305aaf9d0fbc1bb984604d7755bc281bf20997ddfc0c81344632e1c6dc5060f",
+      "id": "9823b2d71265e603705d4a27d47e77dd1c7d840a0b95892ce5e29500933cfe87",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
+      "text": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2026284755646337048#m",
+      "date": "Tue, 24 Feb 2026 13:15:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7N8F9W4AALIcg.jpg"
+      ]
+    },
+    {
+      "id": "378e12733436def52745b91472fa649fdf4dd01396b3b229d2d1f877543948d5",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "text": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "url": "https://nitter.net/WorstGenHQ/status/2026048076650008592#m",
-      "date": "Mon, 23 Feb 2026 21:34:38 GMT",
+      "title": "#ONEPIECE1175 SPOILERS OUT EVERYONE!! Pew (@pewpiece) #ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME — https://nitter.net/pewpiece/status/2026284755646337048#m",
+      "text": "#ONEPIECE1175 SPOILERS OUT EVERYONE!! Pew (@pewpiece) #ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME — https://nitter.net/pewpiece/status/2026284755646337048#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2026284981820035244#m",
+      "date": "Tue, 24 Feb 2026 13:16:00 GMT",
       "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7N8F9W4AALIcg.jpg"
+      ]
+    },
+    {
+      "id": "4ad28605c488bb0e1a84e940f8f009cb6441fc4450970e5c48a308b271314de1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
+      "url": "https://nitter.net/pewpiece/status/2026277944423825756#m",
+      "date": "Tue, 24 Feb 2026 12:48:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7IXtwWMAAN7i0.jpg"
+      ]
+    },
+    {
+      "id": "be57b1d5aac385f69910684d41f043f68e7493f2450ddf138c97edaaa138642e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
+      "text": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
+      "url": "https://nitter.net/pewpiece/status/2026135849755197915#m",
+      "date": "Tue, 24 Feb 2026 03:23:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB5Hy2DX0AAtAnJ.jpg"
+      ]
+    },
+    {
+      "id": "5ecb138fea47fe863f0764ea748cd46259ff1cdff69b54eae5656fb14a639c24",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE VOLUME 114 OFFICIAL COVER",
+      "text": "ONEPIECE VOLUME 114 OFFICIAL COVER",
+      "url": "https://nitter.net/pewpiece/status/2025405620258492809#m",
+      "date": "Sun, 22 Feb 2026 03:01:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBuvq6GWMAAszCi.jpg"
+      ]
+    },
+    {
+      "id": "c144a36d3ade22485bc8a8ecd9897b5f1056d677e2e5957e6a03d42eb3fcc05a",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
+      "text": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
+      "url": "https://nitter.net/pewpiece/status/2025225383545651438#m",
+      "date": "Sat, 21 Feb 2026 15:05:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBsLva2W8AAAxfh.jpg"
+      ]
+    },
+    {
+      "id": "ce4269bd2039b713f8d201a29d46c3149645404135f1426cfd03a223b0205d6c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda's sketch of One Piece Volume 114 cover",
+      "text": "Oda's sketch of One Piece Volume 114 cover",
+      "url": "https://nitter.net/pewpiece/status/2025048263032701361#m",
+      "date": "Sat, 21 Feb 2026 03:21:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBpqprNWwAEKoiW.jpg"
+      ]
+    },
+    {
+      "id": "bc620a3801770733454044352c37b5b084c921b78d3db815ad88edefc26c780e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 GODA!!!!!! Luffy vs Loki soon? 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1175 GODA!!!!!! Luffy vs Loki soon? 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026286698162991291#m",
+      "date": "Tue, 24 Feb 2026 13:22:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7RA62WcAA62UR.jpg"
+      ]
+    },
+    {
+      "id": "6690e263aab24c961ab2f61c4d9eda0f8d6106815d010dbe5ca2966fcad49fee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Jarul also says that in Elbaph, a certain “God of War” possessed the Nidhogg Devil Fruit and wielded a weapon called “Ragnir,” and clashed with the Sun God in the past. Jarul adds that t",
+      "text": "#ONEPIECE1175 Jarul also says that in Elbaph, a certain “God of War” possessed the Nidhogg Devil Fruit and wielded a weapon called “Ragnir,” and clashed with the Sun God in the past. Jarul adds that the “God of War” was said to be accompanied by his loyal confidant, the “Ice Squirrel Ratatoskr.”",
+      "url": "https://nitter.net/WorstGenHQ/status/2026286145600987518#m",
+      "date": "Tue, 24 Feb 2026 13:20:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB7QgusWwAAlL0a.jpg"
+      ]
+    },
+    {
+      "id": "77de198368e8c7d8706760584de1aa57d92f6e59907a97ebd4116bda23ec4a12",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Chapter 1175: Nidhogg -Imu, in the Holy Land, reacts to Loki and says, “I see… Nidhogg… You… were in Elbaph all along!!” 🔥🔥🔥",
+      "text": "#ONEPIECE1175 Chapter 1175: Nidhogg -Imu, in the Holy Land, reacts to Loki and says, “I see… Nidhogg… You… were in Elbaph all along!!” 🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026285279779172856#m",
+      "date": "Tue, 24 Feb 2026 13:17:11 GMT",
+      "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
+      "id": "d9247af2adabb950e472f5ebbb51631d3dee4babacd1771199a3041b99e67522",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "text": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2026027283119546448#m",
-      "date": "Mon, 23 Feb 2026 20:12:00 GMT",
-      "isSpoiler": true,
+      "title": "No.420、原稿完成。 #絵は残像です",
+      "text": "No.420、原稿完成。 #絵は残像です",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2026231563562983740#m",
+      "date": "Tue, 24 Feb 2026 09:43:44 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB3k-VBXwAAFVBF.jpg"
+        "https://nitter.net/pic/media%2FHB6e3Oja8AAEC7X.jpg"
       ]
     },
     {
@@ -317,47 +516,21 @@
       ]
     },
     {
-      "id": "1b8eabc3eddb5f2acbf61cf490a9bf80e854e1c8ef29128c4997a160dce02894",
+      "id": "77a09022941e29825dd45f58c2f42c5ac585c14b270285d2284c66d24566ad6f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026206668762038608#m",
-      "date": "Tue, 24 Feb 2026 08:04:49 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "アウターゾーンの少年ジャンプ🤪💨 摩訶不思議な話が面白かったです🤭✨ ドラゴンボールは序盤は謎が多くてストーリーに引き込まれていった人造人間編💨✨ #少年ジャンプ #ドラゴンボール",
+      "text": "アウターゾーンの少年ジャンプ🤪💨 摩訶不思議な話が面白かったです🤭✨ ドラゴンボールは序盤は謎が多くてストーリーに引き込まれていった人造人間編💨✨ #少年ジャンプ #ドラゴンボール",
+      "url": "https://nitter.net/takatakakondo/status/2026288375171620971#m",
+      "date": "Tue, 24 Feb 2026 13:29:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB6IOl9X0AAlc7i.jpg"
+        "https://nitter.net/pic/media%2FHB7Sh95bUAA39P8.jpg",
+        "https://nitter.net/pic/media%2FHB7Sh-DaYAAU4zo.jpg",
+        "https://nitter.net/pic/media%2FHB7Sh_HbMAA6qIU.jpg"
       ]
-    },
-    {
-      "id": "a5ed1136f28880f456769097150f9e38d1c8f7c53ff8cf9b006368bf33d9050f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026047985407439014#m",
-      "date": "Mon, 23 Feb 2026 21:34:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB3hR0xXcAEBkT3.jpg"
-      ]
-    },
-    {
-      "id": "eecb42ea435d0893117acc6ce3265901f7b3c595ad68154abd13561049cb7b97",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Lore!!",
-      "text": "Lore!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2026023616807109099#m",
-      "date": "Mon, 23 Feb 2026 19:57:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "44a736967363fe93faf64519908b9e8e5f774ac93d0677447322cbb30590e29c",
@@ -436,21 +609,6 @@
       ]
     },
     {
-      "id": "3aaa26a27cb3d3c55c52bbecc4a7197a2a3c638c4c449bde7b4575cad5e58d30",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Twin Peaks Day ☕️🏔️",
-      "text": "Happy Twin Peaks Day ☕️🏔️",
-      "url": "https://nitter.net/letterboxd/status/1894076368930947490#m",
-      "date": "Mon, 24 Feb 2025 17:26:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FGkkcTV_bkAMdLHt.jpg"
-      ]
-    },
-    {
       "id": "e317da19d9c86af3fae5e792e564181e978bb8f9566c9c6a67dd092f379dcb15",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -508,36 +666,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB5vku9WgAAc2jM.jpg"
-      ]
-    },
-    {
-      "id": "a8ff87b9db5cb0e1e7ce38e87260634dcd20ff73c8883e9a5a991796c3d2b6cf",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026149364486332663#m",
-      "date": "Tue, 24 Feb 2026 04:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB5UHEoXgAAwOH6.jpg"
-      ]
-    },
-    {
-      "id": "c8a2b0ee4af4a74dbfa724a45c96b0fdc70a241e7c81e500d68aa0c9df4a6021",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026119167649222934#m",
-      "date": "Tue, 24 Feb 2026 02:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB44pYSW4AA4DZ9.jpg"
       ]
     }
   ]
