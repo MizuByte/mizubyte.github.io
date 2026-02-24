@@ -1,92 +1,22 @@
 {
-  "generatedAt": "2026-02-24T09:37:13.736Z",
+  "generatedAt": "2026-02-24T10:33:56.409Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "e305aaf9d0fbc1bb984604d7755bc281bf20997ddfc0c81344632e1c6dc5060f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "text": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "url": "https://nitter.net/WorstGenHQ/status/2026048076650008592#m",
-      "date": "Mon, 23 Feb 2026 21:34:38 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "text": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2026027283119546448#m",
-      "date": "Mon, 23 Feb 2026 20:12:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB3k-VBXwAAFVBF.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
-      "id": "89e488248d5e919214e64678f33a382ccdc7cd75e6c3ac2f8be6da3916f41633",
+      "id": "d9247af2adabb950e472f5ebbb51631d3dee4babacd1771199a3041b99e67522",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @TheAbsol: Thinking about Tobias... -has a Darkrai & Latios (w/no backstory) -sweeps 99% of a 6v6 tourney w/only Darkrai -only needs 2…",
-      "text": "RT @TheAbsol: Thinking about Tobias... -has a Darkrai & Latios (w/no backstory) -sweeps 99% of a 6v6 tourney w/only Darkrai -only needs 2…",
-      "url": "https://nitter.net/WorstGenHQ/status/2026225331254792626#m",
-      "date": "Tue, 24 Feb 2026 09:18:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1b8eabc3eddb5f2acbf61cf490a9bf80e854e1c8ef29128c4997a160dce02894",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026206668762038608#m",
-      "date": "Tue, 24 Feb 2026 08:04:49 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No.420、原稿完成。 #絵は残像です",
+      "text": "No.420、原稿完成。 #絵は残像です",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2026231563562983740#m",
+      "date": "Tue, 24 Feb 2026 09:43:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB6IOl9X0AAlc7i.jpg"
+        "https://nitter.net/pic/media%2FHB6e3Oja8AAEC7X.jpg"
       ]
-    },
-    {
-      "id": "a5ed1136f28880f456769097150f9e38d1c8f7c53ff8cf9b006368bf33d9050f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026047985407439014#m",
-      "date": "Mon, 23 Feb 2026 21:34:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB3hR0xXcAEBkT3.jpg"
-      ]
-    },
-    {
-      "id": "303114dd41976407cd155871bd48005ec8ad4b7a8db50e0fbd6cb923f664baee",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 👀👀👀👀",
-      "text": "#ONEPIECE1175 👀👀👀👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2026018693956661743#m",
-      "date": "Mon, 23 Feb 2026 19:37:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "b1fb09dc5accc2cde0a91c3312f1cc9a4b5241010c6bb60b702325283fa52682",
@@ -169,20 +99,18 @@
       ]
     },
     {
-      "id": "39c208b7210091833d175766390f6e767805a2921a24afa26ac7acdf64fdeaa3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "＼モンチッチ × Netflixシリーズ実写版「ONE PIECE」シーズン2／ 2026年3月より配信スタートするNetflixシリーズ実写版「ONE PIECE」シーズン2と、モンチッチのスペシャルコラボレーション！ モンキー・D・ルフィになりきった姿を再現した、「ルフィ モンチッチ」が登場です。 Sekiguchiから実写版トニートニー・チョッパーをそのまま再現したぬいぐるみとキーチェーンマ",
-      "text": "＼モンチッチ × Netflixシリーズ実写版「ONE PIECE」シーズン2／ 2026年3月より配信スタートするNetflixシリーズ実写版「ONE PIECE」シーズン2と、モンチッチのスペシャルコラボレーション！ モンキー・D・ルフィになりきった姿を再現した、「ルフィ モンチッチ」が登場です。 Sekiguchiから実写版トニートニー・チョッパーをそのまま再現したぬいぐるみとキーチェーンマスコットも発売します。 【発売日】 ▶店頭発売日：3月14日（土）～順次 ※予約販売実施の場合は3月6日（金）より。 予約販売の実施については各店舗によります。各店舗へお問い合わせください。 ▶全国のオフィシャルショップやEC・専門店にて発売予定となります。 詳細はモンチッチ公式ホームページをご確認ください。 monchhichi.co.jp/news/detail… #Monchhichi #Sekiguchi #japan #萌趣趣 #モンチッチ #実写のワンピ #ネトフリワンピ #ONEPIECE @onepiecenetflix @NetflixJP",
-      "url": "https://nitter.net/monchhichi126/status/2026129960457376174#m",
-      "date": "Tue, 24 Feb 2026 03:00:00 GMT",
+      "id": "73687ca4abde0f9ad2d580940e2608dc21443f307278ce212b5ce0a266a4da51",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026239959804350848#m",
+      "date": "Tue, 24 Feb 2026 10:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB43RExbsAAg1K8.jpg",
-        "https://nitter.net/pic/media%2FHB43REvaAAAhByF.jpg",
-        "https://nitter.net/pic/media%2FHB43RE9aoAAbQM7.jpg"
+        "https://nitter.net/pic/media%2FHB6mgYvWQAA10Ij.jpg"
       ]
     },
     {
@@ -258,108 +186,24 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB4dLsHW8AAiCir.jpg"
-      ]
-    },
-    {
-      "id": "2e5764fe55fdb11d3821dd4674118334cccc87ca56a49031c4809c985c3f9cb2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026058804765282801#m",
-      "date": "Mon, 23 Feb 2026 22:17:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB4BvyuX0AAEnI8.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "e305aaf9d0fbc1bb984604d7755bc281bf20997ddfc0c81344632e1c6dc5060f",
+      "id": "d9247af2adabb950e472f5ebbb51631d3dee4babacd1771199a3041b99e67522",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "text": "Good night, look for the banger spoilers tomorrow @pewpiece or @Mugiwara_23",
-      "url": "https://nitter.net/WorstGenHQ/status/2026048076650008592#m",
-      "date": "Mon, 23 Feb 2026 21:34:38 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "baf0ad397d835a49be424ecb01b335710db943b4e6223b8940953e8f4c55397c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "text": "#ONEPIECE1175 Really a great Chapter, can´t wait to see people reaction once the spoilers drop tomorrow :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2026027283119546448#m",
-      "date": "Mon, 23 Feb 2026 20:12:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB3k-VBXwAAFVBF.jpg"
-      ]
-    },
-    {
-      "id": "89e488248d5e919214e64678f33a382ccdc7cd75e6c3ac2f8be6da3916f41633",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @TheAbsol: Thinking about Tobias... -has a Darkrai & Latios (w/no backstory) -sweeps 99% of a 6v6 tourney w/only Darkrai -only needs 2…",
-      "text": "RT @TheAbsol: Thinking about Tobias... -has a Darkrai & Latios (w/no backstory) -sweeps 99% of a 6v6 tourney w/only Darkrai -only needs 2…",
-      "url": "https://nitter.net/WorstGenHQ/status/2026225331254792626#m",
-      "date": "Tue, 24 Feb 2026 09:18:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1b8eabc3eddb5f2acbf61cf490a9bf80e854e1c8ef29128c4997a160dce02894",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 GOAT🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026206668762038608#m",
-      "date": "Tue, 24 Feb 2026 08:04:49 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No.420、原稿完成。 #絵は残像です",
+      "text": "No.420、原稿完成。 #絵は残像です",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2026231563562983740#m",
+      "date": "Tue, 24 Feb 2026 09:43:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB6IOl9X0AAlc7i.jpg"
+        "https://nitter.net/pic/media%2FHB6e3Oja8AAEC7X.jpg"
       ]
-    },
-    {
-      "id": "a5ed1136f28880f456769097150f9e38d1c8f7c53ff8cf9b006368bf33d9050f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026047985407439014#m",
-      "date": "Mon, 23 Feb 2026 21:34:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB3hR0xXcAEBkT3.jpg"
-      ]
-    },
-    {
-      "id": "303114dd41976407cd155871bd48005ec8ad4b7a8db50e0fbd6cb923f664baee",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 👀👀👀👀",
-      "text": "#ONEPIECE1175 👀👀👀👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2026018693956661743#m",
-      "date": "Mon, 23 Feb 2026 19:37:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "b1fb09dc5accc2cde0a91c3312f1cc9a4b5241010c6bb60b702325283fa52682",
@@ -442,20 +286,18 @@
       ]
     },
     {
-      "id": "39c208b7210091833d175766390f6e767805a2921a24afa26ac7acdf64fdeaa3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "＼モンチッチ × Netflixシリーズ実写版「ONE PIECE」シーズン2／ 2026年3月より配信スタートするNetflixシリーズ実写版「ONE PIECE」シーズン2と、モンチッチのスペシャルコラボレーション！ モンキー・D・ルフィになりきった姿を再現した、「ルフィ モンチッチ」が登場です。 Sekiguchiから実写版トニートニー・チョッパーをそのまま再現したぬいぐるみとキーチェーンマ",
-      "text": "＼モンチッチ × Netflixシリーズ実写版「ONE PIECE」シーズン2／ 2026年3月より配信スタートするNetflixシリーズ実写版「ONE PIECE」シーズン2と、モンチッチのスペシャルコラボレーション！ モンキー・D・ルフィになりきった姿を再現した、「ルフィ モンチッチ」が登場です。 Sekiguchiから実写版トニートニー・チョッパーをそのまま再現したぬいぐるみとキーチェーンマスコットも発売します。 【発売日】 ▶店頭発売日：3月14日（土）～順次 ※予約販売実施の場合は3月6日（金）より。 予約販売の実施については各店舗によります。各店舗へお問い合わせください。 ▶全国のオフィシャルショップやEC・専門店にて発売予定となります。 詳細はモンチッチ公式ホームページをご確認ください。 monchhichi.co.jp/news/detail… #Monchhichi #Sekiguchi #japan #萌趣趣 #モンチッチ #実写のワンピ #ネトフリワンピ #ONEPIECE @onepiecenetflix @NetflixJP",
-      "url": "https://nitter.net/monchhichi126/status/2026129960457376174#m",
-      "date": "Tue, 24 Feb 2026 03:00:00 GMT",
+      "id": "73687ca4abde0f9ad2d580940e2608dc21443f307278ce212b5ce0a266a4da51",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026239959804350848#m",
+      "date": "Tue, 24 Feb 2026 10:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB43RExbsAAg1K8.jpg",
-        "https://nitter.net/pic/media%2FHB43REvaAAAhByF.jpg",
-        "https://nitter.net/pic/media%2FHB43RE9aoAAbQM7.jpg"
+        "https://nitter.net/pic/media%2FHB6mgYvWQAA10Ij.jpg"
       ]
     },
     {
@@ -531,21 +373,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB4dLsHW8AAiCir.jpg"
-      ]
-    },
-    {
-      "id": "2e5764fe55fdb11d3821dd4674118334cccc87ca56a49031c4809c985c3f9cb2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026058804765282801#m",
-      "date": "Mon, 23 Feb 2026 22:17:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB4BvyuX0AAEnI8.jpg"
       ]
     }
   ]
