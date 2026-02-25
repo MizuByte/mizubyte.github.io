@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-02-25T18:17:31.907Z",
+  "generatedAt": "2026-02-25T19:31:27.577Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "54cf46d3a6ca4775ddd3d9e522953fd0da42503b3a88963ea5d659c6f0ab9e23",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
+      "text": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
+      "url": "https://nitter.net/pewpiece/status/2026728822817624070#m",
+      "date": "Wed, 25 Feb 2026 18:39:40 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBQNNmWQAAkaUN.png"
+      ]
+    },
     {
       "id": "9823b2d71265e603705d4a27d47e77dd1c7d840a0b95892ce5e29500933cfe87",
       "anime": "onepiece",
@@ -20,6 +35,105 @@
   ],
   "misc": [
     {
+      "id": "cfca6d020a78dcb2ef56df62ebde127a95f989e9e4fbacc821f32b10d7a8e88c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
+      "text": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2026734524093116457#m",
+      "date": "Wed, 25 Feb 2026 19:02:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ce082629240c88885e2b4e31d7e9bcad9aecf15ffd486172ccef7ba718f0ff7a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
+      "text": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2026731439383802348#m",
+      "date": "Wed, 25 Feb 2026 18:50:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBlf2-WIAAepoc.jpg"
+      ]
+    },
+    {
+      "id": "560cc120789f4105519313ad9c8d71ace092d6b51a9781a9571c3ad50581c075",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Source: Redon",
+      "text": "Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2026731064211992746#m",
+      "date": "Wed, 25 Feb 2026 18:48:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d8272147a6503109e43f2bab8f162aedc6f5d9e4503726b4db2a643d74df0856",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor",
+      "text": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor Heim”. The attack creates a HUGE explosion with normal and black lightnings, and destroys most of the MMA monsters. 🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026730841829773407#m",
+      "date": "Wed, 25 Feb 2026 18:47:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBk8lmWYAEhuF_.jpg"
+      ]
+    },
+    {
+      "id": "f6805155182ed2c8d544192d7da1dc87b82255f208b0b6f200e377cf82970502",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Source: Redon",
+      "text": "Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2026730095864377789#m",
+      "date": "Wed, 25 Feb 2026 18:44:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ac97433bfd7f1ffbacacad8de5078b345c93825ce6dd4e2d2f664a0421e596f3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 \"Luffy's giant punch hits Sommers' body and electrocutes him at the same time. The attack is so powerful that Sommers' body breaks into pieces (we see how Sommers loses his teeth as his ",
+      "text": "#ONEPIECE1175 \"Luffy's giant punch hits Sommers' body and electrocutes him at the same time. The attack is so powerful that Sommers' body breaks into pieces (we see how Sommers loses his teeth as his face splits into several parts).\" YOOOOOO🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026730062288945341#m",
+      "date": "Wed, 25 Feb 2026 18:44:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bcfaca4d268d1431071296505e7e0b35784da270e6ce941a880f4f2f7dd24f40",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
+      "text": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2026728036385570976#m",
+      "date": "Wed, 25 Feb 2026 18:36:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBiYn5XsAA7ETz.png",
+        "https://nitter.net/pic/media%2FHCBiZLQWgAIP9PR.png",
+        "https://nitter.net/pic/media%2FHCBiZw4WsAIGaI0.png"
+      ]
+    },
+    {
       "id": "fbd465129070edf2d8f6d3db586d642edaaeb6d3f8b2d8117ac93671377c6774",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -65,33 +179,18 @@
       ]
     },
     {
-      "id": "5ecb138fea47fe863f0764ea748cd46259ff1cdff69b54eae5656fb14a639c24",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE VOLUME 114 OFFICIAL COVER",
-      "text": "ONEPIECE VOLUME 114 OFFICIAL COVER",
-      "url": "https://nitter.net/pewpiece/status/2025405620258492809#m",
-      "date": "Sun, 22 Feb 2026 03:01:44 GMT",
+      "id": "0ed9f3c4c0773907fedd4a147bc80a68747ab11f46fe2049ba271765fcf53993",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026723147479679483#m",
+      "date": "Wed, 25 Feb 2026 18:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBuvq6GWMAAszCi.jpg"
-      ]
-    },
-    {
-      "id": "c144a36d3ade22485bc8a8ecd9897b5f1056d677e2e5957e6a03d42eb3fcc05a",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
-      "text": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
-      "url": "https://nitter.net/pewpiece/status/2025225383545651438#m",
-      "date": "Sat, 21 Feb 2026 15:05:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBsLva2W8AAAxfh.jpg"
+        "https://nitter.net/pic/media%2FHCBd9oDXAAEXrkX.jpg"
       ]
     },
     {
@@ -168,24 +267,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHB_UoNSX0AAagWS.jpg"
       ]
-    },
-    {
-      "id": "2e218f2bd238969dfb2b920cbdebbdc51994eecf375add9f1aa34d42dfe2656d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026541954457063446#m",
-      "date": "Wed, 25 Feb 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB-5KvAWcAE44Sh.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "54cf46d3a6ca4775ddd3d9e522953fd0da42503b3a88963ea5d659c6f0ab9e23",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
+      "text": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
+      "url": "https://nitter.net/pewpiece/status/2026728822817624070#m",
+      "date": "Wed, 25 Feb 2026 18:39:40 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBQNNmWQAAkaUN.png"
+      ]
+    },
     {
       "id": "9823b2d71265e603705d4a27d47e77dd1c7d840a0b95892ce5e29500933cfe87",
       "anime": "onepiece",
@@ -202,6 +301,105 @@
       ]
     },
     {
+      "id": "cfca6d020a78dcb2ef56df62ebde127a95f989e9e4fbacc821f32b10d7a8e88c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
+      "text": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2026734524093116457#m",
+      "date": "Wed, 25 Feb 2026 19:02:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ce082629240c88885e2b4e31d7e9bcad9aecf15ffd486172ccef7ba718f0ff7a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
+      "text": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2026731439383802348#m",
+      "date": "Wed, 25 Feb 2026 18:50:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBlf2-WIAAepoc.jpg"
+      ]
+    },
+    {
+      "id": "560cc120789f4105519313ad9c8d71ace092d6b51a9781a9571c3ad50581c075",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Source: Redon",
+      "text": "Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2026731064211992746#m",
+      "date": "Wed, 25 Feb 2026 18:48:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d8272147a6503109e43f2bab8f162aedc6f5d9e4503726b4db2a643d74df0856",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor",
+      "text": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor Heim”. The attack creates a HUGE explosion with normal and black lightnings, and destroys most of the MMA monsters. 🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026730841829773407#m",
+      "date": "Wed, 25 Feb 2026 18:47:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBk8lmWYAEhuF_.jpg"
+      ]
+    },
+    {
+      "id": "f6805155182ed2c8d544192d7da1dc87b82255f208b0b6f200e377cf82970502",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Source: Redon",
+      "text": "Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2026730095864377789#m",
+      "date": "Wed, 25 Feb 2026 18:44:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ac97433bfd7f1ffbacacad8de5078b345c93825ce6dd4e2d2f664a0421e596f3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 \"Luffy's giant punch hits Sommers' body and electrocutes him at the same time. The attack is so powerful that Sommers' body breaks into pieces (we see how Sommers loses his teeth as his ",
+      "text": "#ONEPIECE1175 \"Luffy's giant punch hits Sommers' body and electrocutes him at the same time. The attack is so powerful that Sommers' body breaks into pieces (we see how Sommers loses his teeth as his face splits into several parts).\" YOOOOOO🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026730062288945341#m",
+      "date": "Wed, 25 Feb 2026 18:44:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bcfaca4d268d1431071296505e7e0b35784da270e6ce941a880f4f2f7dd24f40",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
+      "text": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2026728036385570976#m",
+      "date": "Wed, 25 Feb 2026 18:36:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCBiYn5XsAA7ETz.png",
+        "https://nitter.net/pic/media%2FHCBiZLQWgAIP9PR.png",
+        "https://nitter.net/pic/media%2FHCBiZw4WsAIGaI0.png"
+      ]
+    },
+    {
       "id": "fbd465129070edf2d8f6d3db586d642edaaeb6d3f8b2d8117ac93671377c6774",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -247,33 +445,18 @@
       ]
     },
     {
-      "id": "5ecb138fea47fe863f0764ea748cd46259ff1cdff69b54eae5656fb14a639c24",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE VOLUME 114 OFFICIAL COVER",
-      "text": "ONEPIECE VOLUME 114 OFFICIAL COVER",
-      "url": "https://nitter.net/pewpiece/status/2025405620258492809#m",
-      "date": "Sun, 22 Feb 2026 03:01:44 GMT",
+      "id": "0ed9f3c4c0773907fedd4a147bc80a68747ab11f46fe2049ba271765fcf53993",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026723147479679483#m",
+      "date": "Wed, 25 Feb 2026 18:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHBuvq6GWMAAszCi.jpg"
-      ]
-    },
-    {
-      "id": "c144a36d3ade22485bc8a8ecd9897b5f1056d677e2e5957e6a03d42eb3fcc05a",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
-      "text": "NEW OFFICIAL BIRTHDAY ART FOR KOUZUKI ODEN",
-      "url": "https://nitter.net/pewpiece/status/2025225383545651438#m",
-      "date": "Sat, 21 Feb 2026 15:05:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBsLva2W8AAAxfh.jpg"
+        "https://nitter.net/pic/media%2FHCBd9oDXAAEXrkX.jpg"
       ]
     },
     {
@@ -349,21 +532,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB_UoNSX0AAagWS.jpg"
-      ]
-    },
-    {
-      "id": "2e218f2bd238969dfb2b920cbdebbdc51994eecf375add9f1aa34d42dfe2656d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026541954457063446#m",
-      "date": "Wed, 25 Feb 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB-5KvAWcAE44Sh.jpg"
       ]
     }
   ]
