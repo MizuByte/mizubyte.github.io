@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T22:03:21.774Z",
+  "generatedAt": "2026-02-25T22:56:30.075Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -35,6 +35,21 @@
   ],
   "misc": [
     {
+      "id": "5fe26990d6ba29daba95f023a84ec072ea15b6b5fee5ed67ab19d743feea19dc",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1175 (From :@Mugiwara_23 )",
+      "text": "#ONEPIECE1175 (From :@Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2026790107370438789#m",
+      "date": "Wed, 25 Feb 2026 22:43:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCa1fjX0AA9Lqn.jpg"
+      ]
+    },
+    {
       "id": "bcfaca4d268d1431071296505e7e0b35784da270e6ce941a880f4f2f7dd24f40",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -82,18 +97,64 @@
       ]
     },
     {
-      "id": "be57b1d5aac385f69910684d41f043f68e7493f2450ddf138c97edaaa138642e",
+      "id": "71f4b6ebf9597c84f5c0ea02ddae367c803e45447dd8830afad24b8e027d13f9",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
-      "text": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
-      "url": "https://nitter.net/pewpiece/status/2026135849755197915#m",
-      "date": "Tue, 24 Feb 2026 03:23:25 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
+      "text": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
+      "url": "https://nitter.net/WorstGenHQ/status/2026790025791193349#m",
+      "date": "Wed, 25 Feb 2026 22:42:52 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB5Hy2DX0AAtAnJ.jpg"
+        "https://nitter.net/pic/media%2FHCCavU3XUAE3G6r.jpg"
+      ]
+    },
+    {
+      "id": "5e4312dad1ebb054536618be8b63ca54b02f4cd24e0f6f371bba60c629e61f16",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
+      "text": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
+      "url": "https://nitter.net/Leleo2211/status/2026787768077291647#m",
+      "date": "Wed, 25 Feb 2026 22:33:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCYsrIaMAEiZuJ.jpg",
+        "https://nitter.net/pic/media%2FHCCXv6jWsAAwX0o.jpg"
+      ]
+    },
+    {
+      "id": "b6bc0a2217e1e94a48265e915d596f84c6be1e41e8924f7cda4f05bce5d0e9bf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026789284259213396#m",
+      "date": "Wed, 25 Feb 2026 22:39:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCaA0aWsAAqo5O.jpg"
+      ]
+    },
+    {
+      "id": "eb36397379151a26a310ad0b5b4aa4274205fbb2a43a991fb81e006068a517ca",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
+      "text": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
+      "url": "https://nitter.net/WorstGenHQ/status/2026788233107964006#m",
+      "date": "Wed, 25 Feb 2026 22:35:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCZJZkXgAMwlWM.jpg"
       ]
     },
     {
@@ -121,62 +182,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "cfca6d020a78dcb2ef56df62ebde127a95f989e9e4fbacc821f32b10d7a8e88c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
-      "text": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2026734524093116457#m",
-      "date": "Wed, 25 Feb 2026 19:02:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "ce082629240c88885e2b4e31d7e9bcad9aecf15ffd486172ccef7ba718f0ff7a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
-      "text": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2026731439383802348#m",
-      "date": "Wed, 25 Feb 2026 18:50:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBlf2-WIAAepoc.jpg"
-      ]
-    },
-    {
-      "id": "560cc120789f4105519313ad9c8d71ace092d6b51a9781a9571c3ad50581c075",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: Redon",
-      "text": "Source: Redon",
-      "url": "https://nitter.net/WorstGenHQ/status/2026731064211992746#m",
-      "date": "Wed, 25 Feb 2026 18:48:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d8272147a6503109e43f2bab8f162aedc6f5d9e4503726b4db2a643d74df0856",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor",
-      "text": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor Heim”. The attack creates a HUGE explosion with normal and black lightnings, and destroys most of the MMA monsters. 🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026730841829773407#m",
-      "date": "Wed, 25 Feb 2026 18:47:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBk8lmWYAEhuF_.jpg"
-      ]
     },
     {
       "id": "3733ddff5088735b3487198a8ecce19822f58fc25b1bd74430444ef1698aa06a",
@@ -267,6 +272,21 @@
       ]
     },
     {
+      "id": "2e2686296c21194a662b4ff71ce57963f1319e8df84ba84aa5267fe251df011e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026783551497076987#m",
+      "date": "Wed, 25 Feb 2026 22:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCU5ZsXkAAL_o4.jpg"
+      ]
+    },
+    {
       "id": "a911d592988eda5c433e0f01e0720db7abe26463b59744a067d1eb59e8c37c41",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -309,21 +329,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCBCf_EW0AIeO6j.jpg"
-      ]
-    },
-    {
-      "id": "350248920ba732da977c1ebd6055a4a1032332cf35dab10d577a1b8dac818f0d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026662751649591745#m",
-      "date": "Wed, 25 Feb 2026 14:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCAnCHKWcAArtON.jpg"
       ]
     }
   ],
@@ -359,6 +364,21 @@
       ]
     },
     {
+      "id": "5fe26990d6ba29daba95f023a84ec072ea15b6b5fee5ed67ab19d743feea19dc",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1175 (From :@Mugiwara_23 )",
+      "text": "#ONEPIECE1175 (From :@Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2026790107370438789#m",
+      "date": "Wed, 25 Feb 2026 22:43:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCa1fjX0AA9Lqn.jpg"
+      ]
+    },
+    {
       "id": "bcfaca4d268d1431071296505e7e0b35784da270e6ce941a880f4f2f7dd24f40",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -406,18 +426,64 @@
       ]
     },
     {
-      "id": "be57b1d5aac385f69910684d41f043f68e7493f2450ddf138c97edaaa138642e",
+      "id": "71f4b6ebf9597c84f5c0ea02ddae367c803e45447dd8830afad24b8e027d13f9",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
-      "text": "The official OnePiece account has confirmed that OnePiece Heroines will air as a single episode on July 5 focusing on Nami with Robin also appearing.",
-      "url": "https://nitter.net/pewpiece/status/2026135849755197915#m",
-      "date": "Tue, 24 Feb 2026 03:23:25 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
+      "text": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
+      "url": "https://nitter.net/WorstGenHQ/status/2026790025791193349#m",
+      "date": "Wed, 25 Feb 2026 22:42:52 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB5Hy2DX0AAtAnJ.jpg"
+        "https://nitter.net/pic/media%2FHCCavU3XUAE3G6r.jpg"
+      ]
+    },
+    {
+      "id": "5e4312dad1ebb054536618be8b63ca54b02f4cd24e0f6f371bba60c629e61f16",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
+      "text": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
+      "url": "https://nitter.net/Leleo2211/status/2026787768077291647#m",
+      "date": "Wed, 25 Feb 2026 22:33:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCYsrIaMAEiZuJ.jpg",
+        "https://nitter.net/pic/media%2FHCCXv6jWsAAwX0o.jpg"
+      ]
+    },
+    {
+      "id": "b6bc0a2217e1e94a48265e915d596f84c6be1e41e8924f7cda4f05bce5d0e9bf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2026789284259213396#m",
+      "date": "Wed, 25 Feb 2026 22:39:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCaA0aWsAAqo5O.jpg"
+      ]
+    },
+    {
+      "id": "eb36397379151a26a310ad0b5b4aa4274205fbb2a43a991fb81e006068a517ca",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
+      "text": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
+      "url": "https://nitter.net/WorstGenHQ/status/2026788233107964006#m",
+      "date": "Wed, 25 Feb 2026 22:35:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCZJZkXgAMwlWM.jpg"
       ]
     },
     {
@@ -445,62 +511,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "cfca6d020a78dcb2ef56df62ebde127a95f989e9e4fbacc821f32b10d7a8e88c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
-      "text": "Ata 3:0 Dortmund.... 𝐌𝐚𝐫𝐜𝐨 (@MarcoGrandFleet) Nah they won't fumble — https://nitter.net/MarcoGrandFleet/status/2026718870174622019#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2026734524093116457#m",
-      "date": "Wed, 25 Feb 2026 19:02:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "ce082629240c88885e2b4e31d7e9bcad9aecf15ffd486172ccef7ba718f0ff7a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
-      "text": "#ONEPIECE1175 So seems like Gunko/Imu finally saw Luffy,Loki and Ragnir, oh boy shit is about to happen soon since the MMA seems be also gone now... And Imu seems be really pissed... 👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2026731439383802348#m",
-      "date": "Wed, 25 Feb 2026 18:50:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBlf2-WIAAepoc.jpg"
-      ]
-    },
-    {
-      "id": "560cc120789f4105519313ad9c8d71ace092d6b51a9781a9571c3ad50581c075",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: Redon",
-      "text": "Source: Redon",
-      "url": "https://nitter.net/WorstGenHQ/status/2026731064211992746#m",
-      "date": "Wed, 25 Feb 2026 18:48:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d8272147a6503109e43f2bab8f162aedc6f5d9e4503726b4db2a643d74df0856",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor",
-      "text": "#ONEPIECE1175 Back to the present, Loki is focussed now in the MMA monsters. In the ABSOLUTELY EPIC final double page of the chapter, Loki shoots a MASSIVE lightning attack from his mouth called “Thor Heim”. The attack creates a HUGE explosion with normal and black lightnings, and destroys most of the MMA monsters. 🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026730841829773407#m",
-      "date": "Wed, 25 Feb 2026 18:47:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBk8lmWYAEhuF_.jpg"
-      ]
     },
     {
       "id": "3733ddff5088735b3487198a8ecce19822f58fc25b1bd74430444ef1698aa06a",
@@ -591,6 +601,21 @@
       ]
     },
     {
+      "id": "2e2686296c21194a662b4ff71ce57963f1319e8df84ba84aa5267fe251df011e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026783551497076987#m",
+      "date": "Wed, 25 Feb 2026 22:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCU5ZsXkAAL_o4.jpg"
+      ]
+    },
+    {
       "id": "a911d592988eda5c433e0f01e0720db7abe26463b59744a067d1eb59e8c37c41",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -633,21 +658,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCBCf_EW0AIeO6j.jpg"
-      ]
-    },
-    {
-      "id": "350248920ba732da977c1ebd6055a4a1032332cf35dab10d577a1b8dac818f0d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026662751649591745#m",
-      "date": "Wed, 25 Feb 2026 14:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCAnCHKWcAArtON.jpg"
       ]
     }
   ]
