@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T00:02:49.921Z",
+  "generatedAt": "2026-02-25T03:19:12.456Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -141,14 +141,14 @@
       ]
     },
     {
-      "id": "73fc9f9c688e4c158a7497b1b74e8476001b58e3f3183290a1f895e8b74fc6be",
+      "id": "770d58c9c340486c8c554a0befaabc549bcf8c2c8c13ad71eb3081ac55e953bc",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @monmonmondosan: 前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
-      "text": "RT @monmonmondosan: 前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
-      "url": "https://nitter.net/Mugiwara_23/status/2026360870448574652#m",
-      "date": "Tue, 24 Feb 2026 18:17:34 GMT",
+      "title": "前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
+      "text": "前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
+      "url": "https://nitter.net/monmonmondosan/status/2026280996992381336#m",
+      "date": "Tue, 24 Feb 2026 13:00:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -186,6 +186,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBmoXTXaIAATQSx.png"
+      ]
+    },
+    {
+      "id": "0bd1feb52b138e2a38ead1e70d6ac561617e9214b4cadea9c09e07f4f2021502",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026481550016082126#m",
+      "date": "Wed, 25 Feb 2026 02:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB-COzpWoAAuTjR.jpg"
+      ]
+    },
+    {
+      "id": "8dd22b265affd8c58206f3cb42575f47ee988c401fee0b73fd849a2e0655da70",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026451350947524805#m",
+      "date": "Wed, 25 Feb 2026 00:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB9mw9GWwAAwXr4.jpg"
       ]
     },
     {
@@ -234,21 +264,6 @@
       ]
     },
     {
-      "id": "b79ed5239b57c59895ad3f4d4d0866b6fb5577fe5b06fccd792bbe76c4623d68",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026330559249530967#m",
-      "date": "Tue, 24 Feb 2026 16:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB745-uWMAA-frc.jpg"
-      ]
-    },
-    {
       "id": "4d56cdf20704db04abdfb69f116924c63531a48329e6710aaecf68a76345e600",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -261,21 +276,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB7dcUQWYAAw0pd.jpg"
-      ]
-    },
-    {
-      "id": "e317da19d9c86af3fae5e792e564181e978bb8f9566c9c6a67dd092f379dcb15",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026270158856024433#m",
-      "date": "Tue, 24 Feb 2026 12:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB7B-NnXMAA8Z2m.jpg"
       ]
     }
   ],
@@ -417,14 +417,14 @@
       ]
     },
     {
-      "id": "73fc9f9c688e4c158a7497b1b74e8476001b58e3f3183290a1f895e8b74fc6be",
+      "id": "770d58c9c340486c8c554a0befaabc549bcf8c2c8c13ad71eb3081ac55e953bc",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @monmonmondosan: 前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
-      "text": "RT @monmonmondosan: 前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
-      "url": "https://nitter.net/Mugiwara_23/status/2026360870448574652#m",
-      "date": "Tue, 24 Feb 2026 18:17:34 GMT",
+      "title": "前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
+      "text": "前から箱説付きで欲しかった｢悪魔城ドラキュラ漆黒たる前奏曲｣を購入。 批判されることの方が多い作品ですが自分は好きです。#レトロゲーム",
+      "url": "https://nitter.net/monmonmondosan/status/2026280996992381336#m",
+      "date": "Tue, 24 Feb 2026 13:00:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -462,6 +462,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBmoXTXaIAATQSx.png"
+      ]
+    },
+    {
+      "id": "0bd1feb52b138e2a38ead1e70d6ac561617e9214b4cadea9c09e07f4f2021502",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026481550016082126#m",
+      "date": "Wed, 25 Feb 2026 02:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB-COzpWoAAuTjR.jpg"
+      ]
+    },
+    {
+      "id": "8dd22b265affd8c58206f3cb42575f47ee988c401fee0b73fd849a2e0655da70",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026451350947524805#m",
+      "date": "Wed, 25 Feb 2026 00:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHB9mw9GWwAAwXr4.jpg"
       ]
     },
     {
@@ -510,21 +540,6 @@
       ]
     },
     {
-      "id": "b79ed5239b57c59895ad3f4d4d0866b6fb5577fe5b06fccd792bbe76c4623d68",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026330559249530967#m",
-      "date": "Tue, 24 Feb 2026 16:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB745-uWMAA-frc.jpg"
-      ]
-    },
-    {
       "id": "4d56cdf20704db04abdfb69f116924c63531a48329e6710aaecf68a76345e600",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -537,21 +552,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHB7dcUQWYAAw0pd.jpg"
-      ]
-    },
-    {
-      "id": "e317da19d9c86af3fae5e792e564181e978bb8f9566c9c6a67dd092f379dcb15",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026270158856024433#m",
-      "date": "Tue, 24 Feb 2026 12:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB7B-NnXMAA8Z2m.jpg"
       ]
     }
   ]
