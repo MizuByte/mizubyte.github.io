@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T21:35:34.592Z",
+  "generatedAt": "2026-02-25T22:03:21.774Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -97,6 +97,19 @@
       ]
     },
     {
+      "id": "0efbd020bdd68a80f6fcc20f45e608a015f5371554e002f9402b67432f1e5fe6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlasse",
+      "text": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlassen...",
+      "url": "https://nitter.net/WorstGenHQ/status/2026775297752752489#m",
+      "date": "Wed, 25 Feb 2026 21:44:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "cfea84e51c10f14cc1614c381ae09582b6d32fe1ee44dbec77d038246392f951",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -164,19 +177,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCBk8lmWYAEhuF_.jpg"
       ]
-    },
-    {
-      "id": "f6805155182ed2c8d544192d7da1dc87b82255f208b0b6f200e377cf82970502",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: Redon",
-      "text": "Source: Redon",
-      "url": "https://nitter.net/WorstGenHQ/status/2026730095864377789#m",
-      "date": "Wed, 25 Feb 2026 18:44:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "3733ddff5088735b3487198a8ecce19822f58fc25b1bd74430444ef1698aa06a",
@@ -421,6 +421,19 @@
       ]
     },
     {
+      "id": "0efbd020bdd68a80f6fcc20f45e608a015f5371554e002f9402b67432f1e5fe6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlasse",
+      "text": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlassen...",
+      "url": "https://nitter.net/WorstGenHQ/status/2026775297752752489#m",
+      "date": "Wed, 25 Feb 2026 21:44:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "cfea84e51c10f14cc1614c381ae09582b6d32fe1ee44dbec77d038246392f951",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -488,19 +501,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCBk8lmWYAEhuF_.jpg"
       ]
-    },
-    {
-      "id": "f6805155182ed2c8d544192d7da1dc87b82255f208b0b6f200e377cf82970502",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: Redon",
-      "text": "Source: Redon",
-      "url": "https://nitter.net/WorstGenHQ/status/2026730095864377789#m",
-      "date": "Wed, 25 Feb 2026 18:44:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "3733ddff5088735b3487198a8ecce19822f58fc25b1bd74430444ef1698aa06a",
