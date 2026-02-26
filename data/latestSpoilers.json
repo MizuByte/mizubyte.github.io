@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-02-26T10:31:59.983Z",
+  "generatedAt": "2026-02-26T11:28:54.525Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
+    {
+      "id": "0ca702ff22ca95046a70547fc57847d7e48e897456f1dd46b5180ccecb9302e2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★発売まであと2日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のスーパーパラレルカードの実物を公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "text": "★発売まであと2日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のスーパーパラレルカードの実物を公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2026975530768031827#m",
+      "date": "Thu, 26 Feb 2026 11:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBVLCuubcAATfi6.jpg"
+      ]
+    },
     {
       "id": "eb8b2d2149ff8098d9b29cfe2991bbc7ae36bcdd9677274ef70c41c12d342210",
       "anime": "onepiece",
@@ -76,21 +91,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCEGdioa0AAyzGD.jpg",
         "https://nitter.net/pic/media%2FHCEGdijbgAAFt5M.jpg"
-      ]
-    },
-    {
-      "id": "73cdf23c385b2edb582419bdccb690fa6050c17e239a4d00abe7d69bffab9091",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
-      "text": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
-      "url": "https://nitter.net/cueccue/status/2026535745201250447#m",
-      "date": "Wed, 25 Feb 2026 05:52:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB-zNDFaMAA-5tP.jpg"
       ]
     },
     {
@@ -186,6 +186,21 @@
   ],
   "items": [
     {
+      "id": "0ca702ff22ca95046a70547fc57847d7e48e897456f1dd46b5180ccecb9302e2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★発売まであと2日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のスーパーパラレルカードの実物を公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "text": "★発売まであと2日★ 2/28(土)発売のブースターパック『神の島の冒険【OP-15】』に収録のスーパーパラレルカードの実物を公開！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2026975530768031827#m",
+      "date": "Thu, 26 Feb 2026 11:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBVLCuubcAATfi6.jpg"
+      ]
+    },
+    {
       "id": "eb8b2d2149ff8098d9b29cfe2991bbc7ae36bcdd9677274ef70c41c12d342210",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -258,21 +273,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCEGdioa0AAyzGD.jpg",
         "https://nitter.net/pic/media%2FHCEGdijbgAAFt5M.jpg"
-      ]
-    },
-    {
-      "id": "73cdf23c385b2edb582419bdccb690fa6050c17e239a4d00abe7d69bffab9091",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
-      "text": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
-      "url": "https://nitter.net/cueccue/status/2026535745201250447#m",
-      "date": "Wed, 25 Feb 2026 05:52:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB-zNDFaMAA-5tP.jpg"
       ]
     },
     {
