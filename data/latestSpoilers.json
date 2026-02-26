@@ -1,283 +1,111 @@
 {
-  "generatedAt": "2026-02-26T07:31:05.335Z",
+  "generatedAt": "2026-02-26T08:29:11.863Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "54cf46d3a6ca4775ddd3d9e522953fd0da42503b3a88963ea5d659c6f0ab9e23",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
-      "text": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
-      "url": "https://nitter.net/pewpiece/status/2026728822817624070#m",
-      "date": "Wed, 25 Feb 2026 18:39:40 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBQNNmWQAAkaUN.png"
-      ]
-    },
-    {
-      "id": "9823b2d71265e603705d4a27d47e77dd1c7d840a0b95892ce5e29500933cfe87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
-      "text": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2026284755646337048#m",
-      "date": "Tue, 24 Feb 2026 13:15:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB7N8F9W4AALIcg.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
-      "id": "5fe26990d6ba29daba95f023a84ec072ea15b6b5fee5ed67ab19d743feea19dc",
+      "id": "77e3a5579a9eb78271a5fe260fe28d342fae4ca9720e1981f3217e19fcdcf1f9",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1175 (From :@Mugiwara_23 )",
-      "text": "#ONEPIECE1175 (From :@Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2026790107370438789#m",
-      "date": "Wed, 25 Feb 2026 22:43:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCa1fjX0AA9Lqn.jpg"
-      ]
-    },
-    {
-      "id": "bcfaca4d268d1431071296505e7e0b35784da270e6ce941a880f4f2f7dd24f40",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
-      "text": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2026728036385570976#m",
-      "date": "Wed, 25 Feb 2026 18:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBiYn5XsAA7ETz.png",
-        "https://nitter.net/pic/media%2FHCBiZLQWgAIP9PR.png",
-        "https://nitter.net/pic/media%2FHCBiZw4WsAIGaI0.png"
-      ]
-    },
-    {
-      "id": "fbd465129070edf2d8f6d3db586d642edaaeb6d3f8b2d8117ac93671377c6774",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE VOLUME 114 COVER (Better quality)",
-      "text": "ONEPIECE VOLUME 114 COVER (Better quality)",
-      "url": "https://nitter.net/pewpiece/status/2026676696527634750#m",
-      "date": "Wed, 25 Feb 2026 15:12:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCAzXDYWAAA2dMf.jpg"
-      ]
-    },
-    {
-      "id": "4ad28605c488bb0e1a84e940f8f009cb6441fc4450970e5c48a308b271314de1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
-      "url": "https://nitter.net/pewpiece/status/2026277944423825756#m",
-      "date": "Tue, 24 Feb 2026 12:48:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB7IXtwWMAAN7i0.jpg"
-      ]
-    },
-    {
-      "id": "2d6fb0ef36754c338694bb2335eadfb9df97e92f55456d5a4118b5d55f855169",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 If the God of War is indeed from the first world, the question for me is: How could he transform into a dragon? I always believed that Devil Fruits were only created in the second world.",
-      "text": "#ONEPIECE1175 If the God of War is indeed from the first world, the question for me is: How could he transform into a dragon? I always believed that Devil Fruits were only created in the second world. Was the Elbaph God a deity who could transform into a dragon without a fruit?",
-      "url": "https://nitter.net/WorstGenHQ/status/2026914142028771419#m",
-      "date": "Thu, 26 Feb 2026 06:56:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCELq86XwAAxHgw.jpg"
-      ]
-    },
-    {
-      "id": "71f4b6ebf9597c84f5c0ea02ddae367c803e45447dd8830afad24b8e027d13f9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
-      "text": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
-      "url": "https://nitter.net/WorstGenHQ/status/2026790025791193349#m",
-      "date": "Wed, 25 Feb 2026 22:42:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCavU3XUAE3G6r.jpg"
-      ]
-    },
-    {
-      "id": "5e4312dad1ebb054536618be8b63ca54b02f4cd24e0f6f371bba60c629e61f16",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
-      "text": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
-      "url": "https://nitter.net/Leleo2211/status/2026787768077291647#m",
-      "date": "Wed, 25 Feb 2026 22:33:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCYsrIaMAEiZuJ.jpg",
-        "https://nitter.net/pic/media%2FHCCXv6jWsAAwX0o.jpg"
-      ]
-    },
-    {
-      "id": "b6bc0a2217e1e94a48265e915d596f84c6be1e41e8924f7cda4f05bce5d0e9bf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026789284259213396#m",
-      "date": "Wed, 25 Feb 2026 22:39:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCaA0aWsAAqo5O.jpg"
-      ]
-    },
-    {
-      "id": "eb36397379151a26a310ad0b5b4aa4274205fbb2a43a991fb81e006068a517ca",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
-      "text": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
-      "url": "https://nitter.net/WorstGenHQ/status/2026788233107964006#m",
-      "date": "Wed, 25 Feb 2026 22:35:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCZJZkXgAMwlWM.jpg"
-      ]
-    },
-    {
-      "id": "0efbd020bdd68a80f6fcc20f45e608a015f5371554e002f9402b67432f1e5fe6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlasse",
-      "text": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlassen...",
-      "url": "https://nitter.net/WorstGenHQ/status/2026775297752752489#m",
-      "date": "Wed, 25 Feb 2026 21:44:21 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Tejero se ha ido así, de golpe.",
+      "text": "Tejero se ha ido así, de golpe.",
+      "url": "https://nitter.net/Tweeterricola/status/2026744439641694448#m",
+      "date": "Wed, 25 Feb 2026 19:41:44 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "0d28d6517bdf656bd9c8164d2b48ad9442a909b4cc53dfaf153cf31ca3029586",
+      "id": "d49a14d3f05ded9a35722536f3d08d1f3ea59d1b4c0693a551995ee3de153b73",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "ALLPAGESから…今年のアニワンで楽しみなシーンを。本人はいませんが「ビッグ・マム」と「リンリン」という台詞があるのよ。ゲルズの誕生日に合わせて購入しましたよ🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "text": "ALLPAGESから…今年のアニワンで楽しみなシーンを。本人はいませんが「ビッグ・マム」と「リンリン」という台詞があるのよ。ゲルズの誕生日に合わせて購入しましたよ🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "url": "https://nitter.net/dHyi0118/status/2026567861238640738#m",
-      "date": "Wed, 25 Feb 2026 08:00:04 GMT",
+      "title": "2/26はシティーハンター連載開始記念日！ 1985年の連載から41周年 昨年シティーハンターの日にも制定されました！ 本日1990年発売のPCエンジン移植のゲームも発売！ 年々盛り上がるメディアミックス展開がホント嬉しい〜 獠と香の新たな活躍を楽しみにしております🤗🤗 #シティーハンター #cityhunter 【公式】シティーハンター&キャッツアイ (@cityhunter100t) ＼\ud83d",
+      "text": "2/26はシティーハンター連載開始記念日！ 1985年の連載から41周年 昨年シティーハンターの日にも制定されました！ 本日1990年発売のPCエンジン移植のゲームも発売！ 年々盛り上がるメディアミックス展開がホント嬉しい〜 獠と香の新たな活躍を楽しみにしております🤗🤗 #シティーハンター #cityhunter 【公式】シティーハンター&キャッツアイ (@cityhunter100t) ＼🚗記念日制定🚗／ #シティーハンター は、 1985年2月26日に連載開始📖 連載開始40周年を記念し 本日「2月26日」が 「#シティーハンターの日」として 記念日登録されました‼️ — https://nitter.net/cityhunter100t/status/1894401971219829122#m",
+      "url": "https://nitter.net/aikawa_CH1987/status/2026673564225847704#m",
+      "date": "Wed, 25 Feb 2026 15:00:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB_Qup_a8AEZxdh.jpg",
-        "https://nitter.net/pic/media%2FHB_QutgaMAAfmhW.jpg"
+        "https://nitter.net/pic/media%2FHCAw2iQaMAYwrP5.jpg",
+        "https://nitter.net/pic/media%2FGkpDWY1WYAAJ-y3.jpg"
       ]
     },
     {
-      "id": "c7bd53d583f98dc295fa5edfa574c26fc54dad7ba2df77784601d31f67b4ab44",
+      "id": "1bb7646ff92be23722596fa7059139a085ef9e32441549300d62169e0c10e33b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "El problema no es si está o no gordinflas, Jose Miguel. El problema es que descuartiza bebés palestinos. KPININI (@kpininimemes) La mujer maravilla ya no es tan maravilla — https://nitter.net/kpininim",
-      "text": "El problema no es si está o no gordinflas, Jose Miguel. El problema es que descuartiza bebés palestinos. KPININI (@kpininimemes) La mujer maravilla ya no es tan maravilla — https://nitter.net/kpininimemes/status/2026427087423238266#m",
-      "url": "https://nitter.net/Klkautsky1/status/2026729581030334635#m",
-      "date": "Wed, 25 Feb 2026 18:42:41 GMT",
+      "title": "From \"The Legend of Zelda™: Tears of the Kingdom\" comes the rerelease of figma Link! The figma comes with multiple face plates and plenty of optional parts for a wide variety of poses! Preorders open ",
+      "text": "From \"The Legend of Zelda™: Tears of the Kingdom\" comes the rerelease of figma Link! The figma comes with multiple face plates and plenty of optional parts for a wide variety of poses! Preorders open now! Shop: goodsmile.link/XsYrVj #Zelda #goodsmile",
+      "url": "https://nitter.net/GoodSmile_US/status/2026855567151485345#m",
+      "date": "Thu, 26 Feb 2026 03:03:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB9QshqXgAAQFMc.jpg",
-        "https://nitter.net/pic/media%2FHB9QshpW4AAS61t.jpg"
+        "https://nitter.net/pic/media%2FHCDWZVDXEAADLSr.jpg"
       ]
     },
     {
-      "id": "f1c9622a03212700ba24e2d30108b6d16dc485432e5cf95f6edc213313210dce",
+      "id": "156ddecf30813a02134edf4aa88d4ebad3b03c3c8c6f593e314bc6b4e7cd07a3",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "サンデー本日発売です。MAO310話「代替わりの記憶」を掲載。センターカラーです！ 不吉な一族で受け継がれてきた、家宝・呪いの香木の正体とは！？",
-      "text": "サンデー本日発売です。MAO310話「代替わりの記憶」を掲載。センターカラーです！ 不吉な一族で受け継がれてきた、家宝・呪いの香木の正体とは！？",
-      "url": "https://nitter.net/rumicworld1010/status/2026492036229259570#m",
-      "date": "Wed, 25 Feb 2026 02:58:46 GMT",
+      "title": "2026年8月発売最新プライズ ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅲ #ワンピース #ONEPIECE",
+      "text": "2026年8月発売最新プライズ ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅲ #ワンピース #ONEPIECE",
+      "url": "https://nitter.net/k42wKKihKBGTvXv/status/2026908420499189987#m",
+      "date": "Thu, 26 Feb 2026 06:33:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB-Lw7YbsAAwnmV.jpg",
-        "https://nitter.net/pic/media%2FHB-Lw7Za4AAlsBc.jpg",
-        "https://nitter.net/pic/media%2FHB-Lw7YbgAAmyPd.jpg",
-        "https://nitter.net/pic/media%2FHB-Lw7YaMAAll7Q.jpg"
+        "https://nitter.net/pic/media%2FHCEGdioa0AAyzGD.jpg",
+        "https://nitter.net/pic/media%2FHCEGdijbgAAFt5M.jpg"
       ]
     },
     {
-      "id": "55428b16984e5736c193893faa8f9331618f1201437786d042d4379bca6d7ca0",
+      "id": "73cdf23c385b2edb582419bdccb690fa6050c17e239a4d00abe7d69bffab9091",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Hobby Genki for your next collector! City Hunter is a role model for many of us! The PC Engine version of \"City Hunter,\" originally released by Sunsoft in 1990, is back on Nintendo Switch! Video",
-      "text": "Hobby Genki for your next collector! City Hunter is a role model for many of us! The PC Engine version of \"City Hunter,\" originally released by Sunsoft in 1990, is back on Nintendo Switch! Video",
-      "url": "https://nitter.net/HobbyGenki/status/2026598161444385151#m",
-      "date": "Wed, 25 Feb 2026 10:00:28 GMT",
+      "title": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
+      "text": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
+      "url": "https://nitter.net/cueccue/status/2026535745201250447#m",
+      "date": "Wed, 25 Feb 2026 05:52:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2026598089633705985%2Fpu%2Fimg%2FDqeWE-R-82nMTo4Q.jpg"
+        "https://nitter.net/pic/media%2FHB-zNDFaMAA-5tP.jpg"
       ]
     },
     {
-      "id": "129eab638e988b257a8c93a9739093318eae70605913dd2023589d4b16232028",
+      "id": "0b21bfb5308835b2a8ebc49abf5bb2d9a7bb294c27580a70d4167a8a7bed518f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "ALLPAGES…ここから探し出した時の喜び☺️我が推しビッグ・マムの登場シーン…今回も10枚選定しましたよ😆🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "text": "ALLPAGES…ここから探し出した時の喜び☺️我が推しビッグ・マムの登場シーン…今回も10枚選定しましたよ😆🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "url": "https://nitter.net/dHyi0118/status/2026537743103451507#m",
-      "date": "Wed, 25 Feb 2026 06:00:23 GMT",
+      "title": "ALLPAGESから…私が大好きなページ！ゾオン系古代種を叩き伏せる人間族「おリンさん」💪😆…チョパえもん「優しくなったから…凶暴な敵にイジめられたり…」そうはなりませんでしたね😅 #ワンピース #ONEPIECEBASESHOP",
+      "text": "ALLPAGESから…私が大好きなページ！ゾオン系古代種を叩き伏せる人間族「おリンさん」💪😆…チョパえもん「優しくなったから…凶暴な敵にイジめられたり…」そうはなりませんでしたね😅 #ワンピース #ONEPIECEBASESHOP",
+      "url": "https://nitter.net/dHyi0118/status/2026795613644533988#m",
+      "date": "Wed, 25 Feb 2026 23:05:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB-1VHoaMAIonqN.jpg"
+        "https://nitter.net/pic/media%2FHCCf3rPaMAMl5jz.jpg"
       ]
     },
     {
-      "id": "021fef93cbcb730f4f90c244d76ffe05303fd99b22670eec5a974bedbf8bd264",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎2026.03.05 18:00 ︎︎ ︎︎︎︎︎︎ ︎ ︎︎🌕COMING SOON🚀 ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
-      "text": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎2026.03.05 18:00 ︎︎ ︎︎︎︎︎︎ ︎ ︎︎🌕COMING SOON🚀 ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
-      "url": "https://nitter.net/STONE_anime_off/status/2026584201261383978#m",
-      "date": "Wed, 25 Feb 2026 09:05:00 GMT",
+      "id": "297909e5c821cc801d6803a462404802636c17bb8a9cc8bb6fc940f6cb9319bb",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026934541273764019#m",
+      "date": "Thu, 26 Feb 2026 08:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB_PeDEagAAs0Zd.jpg"
+        "https://nitter.net/pic/media%2FHCEeOXHXYAERh4B.jpg"
       ]
     },
     {
@@ -338,284 +166,128 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCCwW4IW8AACop_.jpg"
+      ]
+    },
+    {
+      "id": "2e2686296c21194a662b4ff71ce57963f1319e8df84ba84aa5267fe251df011e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026783551497076987#m",
+      "date": "Wed, 25 Feb 2026 22:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCU5ZsXkAAL_o4.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "54cf46d3a6ca4775ddd3d9e522953fd0da42503b3a88963ea5d659c6f0ab9e23",
+      "id": "77e3a5579a9eb78271a5fe260fe28d342fae4ca9720e1981f3217e19fcdcf1f9",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
-      "text": "BREAKING : ODA WILL DRAW A COLORED COVER NEXT WEEK FOR ONE PIECE CHAPTER 1176!! and onepiece will be on the cover of weekly shonen jump",
-      "url": "https://nitter.net/pewpiece/status/2026728822817624070#m",
-      "date": "Wed, 25 Feb 2026 18:39:40 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBQNNmWQAAkaUN.png"
-      ]
-    },
-    {
-      "id": "9823b2d71265e603705d4a27d47e77dd1c7d840a0b95892ce5e29500933cfe87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
-      "text": "#ONEPIECE1175 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1175 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2026284755646337048#m",
-      "date": "Tue, 24 Feb 2026 13:15:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB7N8F9W4AALIcg.jpg"
-      ]
-    },
-    {
-      "id": "5fe26990d6ba29daba95f023a84ec072ea15b6b5fee5ed67ab19d743feea19dc",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1175 (From :@Mugiwara_23 )",
-      "text": "#ONEPIECE1175 (From :@Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2026790107370438789#m",
-      "date": "Wed, 25 Feb 2026 22:43:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCa1fjX0AA9Lqn.jpg"
-      ]
-    },
-    {
-      "id": "bcfaca4d268d1431071296505e7e0b35784da270e6ce941a880f4f2f7dd24f40",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
-      "text": "#ONEPIECE1175 MORE DETAILS FOR ONEPIECE CHAPTER 1175 (THANKS TO @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2026728036385570976#m",
-      "date": "Wed, 25 Feb 2026 18:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCBiYn5XsAA7ETz.png",
-        "https://nitter.net/pic/media%2FHCBiZLQWgAIP9PR.png",
-        "https://nitter.net/pic/media%2FHCBiZw4WsAIGaI0.png"
-      ]
-    },
-    {
-      "id": "fbd465129070edf2d8f6d3db586d642edaaeb6d3f8b2d8117ac93671377c6774",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE VOLUME 114 COVER (Better quality)",
-      "text": "ONEPIECE VOLUME 114 COVER (Better quality)",
-      "url": "https://nitter.net/pewpiece/status/2026676696527634750#m",
-      "date": "Wed, 25 Feb 2026 15:12:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCAzXDYWAAA2dMf.jpg"
-      ]
-    },
-    {
-      "id": "4ad28605c488bb0e1a84e940f8f009cb6441fc4450970e5c48a308b271314de1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1175",
-      "url": "https://nitter.net/pewpiece/status/2026277944423825756#m",
-      "date": "Tue, 24 Feb 2026 12:48:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB7IXtwWMAAN7i0.jpg"
-      ]
-    },
-    {
-      "id": "2d6fb0ef36754c338694bb2335eadfb9df97e92f55456d5a4118b5d55f855169",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 If the God of War is indeed from the first world, the question for me is: How could he transform into a dragon? I always believed that Devil Fruits were only created in the second world.",
-      "text": "#ONEPIECE1175 If the God of War is indeed from the first world, the question for me is: How could he transform into a dragon? I always believed that Devil Fruits were only created in the second world. Was the Elbaph God a deity who could transform into a dragon without a fruit?",
-      "url": "https://nitter.net/WorstGenHQ/status/2026914142028771419#m",
-      "date": "Thu, 26 Feb 2026 06:56:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCELq86XwAAxHgw.jpg"
-      ]
-    },
-    {
-      "id": "71f4b6ebf9597c84f5c0ea02ddae367c803e45447dd8830afad24b8e027d13f9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
-      "text": "#ONEPIECE1175 From the details it looks to me more like the God of war and Sun God are from the first world(not Joyboy one) which would be far in the past...",
-      "url": "https://nitter.net/WorstGenHQ/status/2026790025791193349#m",
-      "date": "Wed, 25 Feb 2026 22:42:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCavU3XUAE3G6r.jpg"
-      ]
-    },
-    {
-      "id": "5e4312dad1ebb054536618be8b63ca54b02f4cd24e0f6f371bba60c629e61f16",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
-      "text": "#ONEPIECE1175 Reincarnation piece looking more and more likely Pew (@pewpiece) #ONEPIECE1175 (From :@Mugiwara_23 ) — https://nitter.net/pewpiece/status/2026786701301997931#m",
-      "url": "https://nitter.net/Leleo2211/status/2026787768077291647#m",
-      "date": "Wed, 25 Feb 2026 22:33:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCYsrIaMAEiZuJ.jpg",
-        "https://nitter.net/pic/media%2FHCCXv6jWsAAwX0o.jpg"
-      ]
-    },
-    {
-      "id": "b6bc0a2217e1e94a48265e915d596f84c6be1e41e8924f7cda4f05bce5d0e9bf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1175 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2026789284259213396#m",
-      "date": "Wed, 25 Feb 2026 22:39:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCaA0aWsAAqo5O.jpg"
-      ]
-    },
-    {
-      "id": "eb36397379151a26a310ad0b5b4aa4274205fbb2a43a991fb81e006068a517ca",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
-      "text": "#ONEPIECE1175 PEAK!!! by @Mugiwara_23",
-      "url": "https://nitter.net/WorstGenHQ/status/2026788233107964006#m",
-      "date": "Wed, 25 Feb 2026 22:35:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCCZJZkXgAMwlWM.jpg"
-      ]
-    },
-    {
-      "id": "0efbd020bdd68a80f6fcc20f45e608a015f5371554e002f9402b67432f1e5fe6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlasse",
-      "text": "Amk ich dachte Fenerbahce wäre scheiße, aber was Galatasaray und vorallem Okan machen, Rezil, sowas darfst du nicht zeigen, was eine blamage... Ohne spaß sehr enttäuschend, Okan muss das Team verlassen...",
-      "url": "https://nitter.net/WorstGenHQ/status/2026775297752752489#m",
-      "date": "Wed, 25 Feb 2026 21:44:21 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Tejero se ha ido así, de golpe.",
+      "text": "Tejero se ha ido así, de golpe.",
+      "url": "https://nitter.net/Tweeterricola/status/2026744439641694448#m",
+      "date": "Wed, 25 Feb 2026 19:41:44 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "0d28d6517bdf656bd9c8164d2b48ad9442a909b4cc53dfaf153cf31ca3029586",
+      "id": "d49a14d3f05ded9a35722536f3d08d1f3ea59d1b4c0693a551995ee3de153b73",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "ALLPAGESから…今年のアニワンで楽しみなシーンを。本人はいませんが「ビッグ・マム」と「リンリン」という台詞があるのよ。ゲルズの誕生日に合わせて購入しましたよ🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "text": "ALLPAGESから…今年のアニワンで楽しみなシーンを。本人はいませんが「ビッグ・マム」と「リンリン」という台詞があるのよ。ゲルズの誕生日に合わせて購入しましたよ🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "url": "https://nitter.net/dHyi0118/status/2026567861238640738#m",
-      "date": "Wed, 25 Feb 2026 08:00:04 GMT",
+      "title": "2/26はシティーハンター連載開始記念日！ 1985年の連載から41周年 昨年シティーハンターの日にも制定されました！ 本日1990年発売のPCエンジン移植のゲームも発売！ 年々盛り上がるメディアミックス展開がホント嬉しい〜 獠と香の新たな活躍を楽しみにしております🤗🤗 #シティーハンター #cityhunter 【公式】シティーハンター&キャッツアイ (@cityhunter100t) ＼\ud83d",
+      "text": "2/26はシティーハンター連載開始記念日！ 1985年の連載から41周年 昨年シティーハンターの日にも制定されました！ 本日1990年発売のPCエンジン移植のゲームも発売！ 年々盛り上がるメディアミックス展開がホント嬉しい〜 獠と香の新たな活躍を楽しみにしております🤗🤗 #シティーハンター #cityhunter 【公式】シティーハンター&キャッツアイ (@cityhunter100t) ＼🚗記念日制定🚗／ #シティーハンター は、 1985年2月26日に連載開始📖 連載開始40周年を記念し 本日「2月26日」が 「#シティーハンターの日」として 記念日登録されました‼️ — https://nitter.net/cityhunter100t/status/1894401971219829122#m",
+      "url": "https://nitter.net/aikawa_CH1987/status/2026673564225847704#m",
+      "date": "Wed, 25 Feb 2026 15:00:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB_Qup_a8AEZxdh.jpg",
-        "https://nitter.net/pic/media%2FHB_QutgaMAAfmhW.jpg"
+        "https://nitter.net/pic/media%2FHCAw2iQaMAYwrP5.jpg",
+        "https://nitter.net/pic/media%2FGkpDWY1WYAAJ-y3.jpg"
       ]
     },
     {
-      "id": "c7bd53d583f98dc295fa5edfa574c26fc54dad7ba2df77784601d31f67b4ab44",
+      "id": "1bb7646ff92be23722596fa7059139a085ef9e32441549300d62169e0c10e33b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "El problema no es si está o no gordinflas, Jose Miguel. El problema es que descuartiza bebés palestinos. KPININI (@kpininimemes) La mujer maravilla ya no es tan maravilla — https://nitter.net/kpininim",
-      "text": "El problema no es si está o no gordinflas, Jose Miguel. El problema es que descuartiza bebés palestinos. KPININI (@kpininimemes) La mujer maravilla ya no es tan maravilla — https://nitter.net/kpininimemes/status/2026427087423238266#m",
-      "url": "https://nitter.net/Klkautsky1/status/2026729581030334635#m",
-      "date": "Wed, 25 Feb 2026 18:42:41 GMT",
+      "title": "From \"The Legend of Zelda™: Tears of the Kingdom\" comes the rerelease of figma Link! The figma comes with multiple face plates and plenty of optional parts for a wide variety of poses! Preorders open ",
+      "text": "From \"The Legend of Zelda™: Tears of the Kingdom\" comes the rerelease of figma Link! The figma comes with multiple face plates and plenty of optional parts for a wide variety of poses! Preorders open now! Shop: goodsmile.link/XsYrVj #Zelda #goodsmile",
+      "url": "https://nitter.net/GoodSmile_US/status/2026855567151485345#m",
+      "date": "Thu, 26 Feb 2026 03:03:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB9QshqXgAAQFMc.jpg",
-        "https://nitter.net/pic/media%2FHB9QshpW4AAS61t.jpg"
+        "https://nitter.net/pic/media%2FHCDWZVDXEAADLSr.jpg"
       ]
     },
     {
-      "id": "f1c9622a03212700ba24e2d30108b6d16dc485432e5cf95f6edc213313210dce",
+      "id": "156ddecf30813a02134edf4aa88d4ebad3b03c3c8c6f593e314bc6b4e7cd07a3",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "サンデー本日発売です。MAO310話「代替わりの記憶」を掲載。センターカラーです！ 不吉な一族で受け継がれてきた、家宝・呪いの香木の正体とは！？",
-      "text": "サンデー本日発売です。MAO310話「代替わりの記憶」を掲載。センターカラーです！ 不吉な一族で受け継がれてきた、家宝・呪いの香木の正体とは！？",
-      "url": "https://nitter.net/rumicworld1010/status/2026492036229259570#m",
-      "date": "Wed, 25 Feb 2026 02:58:46 GMT",
+      "title": "2026年8月発売最新プライズ ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅲ #ワンピース #ONEPIECE",
+      "text": "2026年8月発売最新プライズ ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅲ #ワンピース #ONEPIECE",
+      "url": "https://nitter.net/k42wKKihKBGTvXv/status/2026908420499189987#m",
+      "date": "Thu, 26 Feb 2026 06:33:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB-Lw7YbsAAwnmV.jpg",
-        "https://nitter.net/pic/media%2FHB-Lw7Za4AAlsBc.jpg",
-        "https://nitter.net/pic/media%2FHB-Lw7YbgAAmyPd.jpg",
-        "https://nitter.net/pic/media%2FHB-Lw7YaMAAll7Q.jpg"
+        "https://nitter.net/pic/media%2FHCEGdioa0AAyzGD.jpg",
+        "https://nitter.net/pic/media%2FHCEGdijbgAAFt5M.jpg"
       ]
     },
     {
-      "id": "55428b16984e5736c193893faa8f9331618f1201437786d042d4379bca6d7ca0",
+      "id": "73cdf23c385b2edb582419bdccb690fa6050c17e239a4d00abe7d69bffab9091",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Hobby Genki for your next collector! City Hunter is a role model for many of us! The PC Engine version of \"City Hunter,\" originally released by Sunsoft in 1990, is back on Nintendo Switch! Video",
-      "text": "Hobby Genki for your next collector! City Hunter is a role model for many of us! The PC Engine version of \"City Hunter,\" originally released by Sunsoft in 1990, is back on Nintendo Switch! Video",
-      "url": "https://nitter.net/HobbyGenki/status/2026598161444385151#m",
-      "date": "Wed, 25 Feb 2026 10:00:28 GMT",
+      "title": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
+      "text": "ちょっと早いんですが2.26はCHの日だと知ったので1日だけ 何か新情報もあるといいね",
+      "url": "https://nitter.net/cueccue/status/2026535745201250447#m",
+      "date": "Wed, 25 Feb 2026 05:52:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2026598089633705985%2Fpu%2Fimg%2FDqeWE-R-82nMTo4Q.jpg"
+        "https://nitter.net/pic/media%2FHB-zNDFaMAA-5tP.jpg"
       ]
     },
     {
-      "id": "129eab638e988b257a8c93a9739093318eae70605913dd2023589d4b16232028",
+      "id": "0b21bfb5308835b2a8ebc49abf5bb2d9a7bb294c27580a70d4167a8a7bed518f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "ALLPAGES…ここから探し出した時の喜び☺️我が推しビッグ・マムの登場シーン…今回も10枚選定しましたよ😆🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "text": "ALLPAGES…ここから探し出した時の喜び☺️我が推しビッグ・マムの登場シーン…今回も10枚選定しましたよ😆🎂🎉 #ワンピース #ONEPIECEBASESHOP",
-      "url": "https://nitter.net/dHyi0118/status/2026537743103451507#m",
-      "date": "Wed, 25 Feb 2026 06:00:23 GMT",
+      "title": "ALLPAGESから…私が大好きなページ！ゾオン系古代種を叩き伏せる人間族「おリンさん」💪😆…チョパえもん「優しくなったから…凶暴な敵にイジめられたり…」そうはなりませんでしたね😅 #ワンピース #ONEPIECEBASESHOP",
+      "text": "ALLPAGESから…私が大好きなページ！ゾオン系古代種を叩き伏せる人間族「おリンさん」💪😆…チョパえもん「優しくなったから…凶暴な敵にイジめられたり…」そうはなりませんでしたね😅 #ワンピース #ONEPIECEBASESHOP",
+      "url": "https://nitter.net/dHyi0118/status/2026795613644533988#m",
+      "date": "Wed, 25 Feb 2026 23:05:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB-1VHoaMAIonqN.jpg"
+        "https://nitter.net/pic/media%2FHCCf3rPaMAMl5jz.jpg"
       ]
     },
     {
-      "id": "021fef93cbcb730f4f90c244d76ffe05303fd99b22670eec5a974bedbf8bd264",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎2026.03.05 18:00 ︎︎ ︎︎︎︎︎︎ ︎ ︎︎🌕COMING SOON🚀 ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
-      "text": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎2026.03.05 18:00 ︎︎ ︎︎︎︎︎︎ ︎ ︎︎🌕COMING SOON🚀 ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
-      "url": "https://nitter.net/STONE_anime_off/status/2026584201261383978#m",
-      "date": "Wed, 25 Feb 2026 09:05:00 GMT",
+      "id": "297909e5c821cc801d6803a462404802636c17bb8a9cc8bb6fc940f6cb9319bb",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026934541273764019#m",
+      "date": "Thu, 26 Feb 2026 08:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHB_PeDEagAAs0Zd.jpg"
+        "https://nitter.net/pic/media%2FHCEeOXHXYAERh4B.jpg"
       ]
     },
     {
@@ -676,6 +348,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCCwW4IW8AACop_.jpg"
+      ]
+    },
+    {
+      "id": "2e2686296c21194a662b4ff71ce57963f1319e8df84ba84aa5267fe251df011e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2026783551497076987#m",
+      "date": "Wed, 25 Feb 2026 22:17:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCCU5ZsXkAAL_o4.jpg"
       ]
     }
   ]
