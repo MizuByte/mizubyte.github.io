@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T17:55:19.652Z",
+  "generatedAt": "2026-02-26T18:45:19.591Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -16,19 +16,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCE877-WEAAEAgq.jpg"
       ]
-    },
-    {
-      "id": "8e9dc86bc437e5d207b918a2cb4d64f1dc1560ee1165715884e1207a3492d09b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Guys I have nothing to do with raws, idk when they gonna be released :)",
-      "text": "Guys I have nothing to do with raws, idk when they gonna be released :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2026927390153122000#m",
-      "date": "Thu, 26 Feb 2026 07:48:42 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
@@ -94,6 +81,36 @@
       ]
     },
     {
+      "id": "d68103dbba0d96c3a4f65792b1e813e48f89aa5a80293913cd0c1143a014d716",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 I really want to know why the Nidhogg Fruit is so important to Xebec for the fight against Imu; what kind of effect is it supposed to have? The other fruit will be the Yami Fruit (since ",
+      "text": "#ONEPIECE1175 I really want to know why the Nidhogg Fruit is so important to Xebec for the fight against Imu; what kind of effect is it supposed to have? The other fruit will be the Yami Fruit (since Xebec didn't know anything about Sun God Nika), which raises the question of why the Nidhogg Fruit and Yami Fruit were so important for Xebec? I get the yami fruit, but Nidhogg, does the Nidhogg fruit has a special power aside the lightning power?",
+      "url": "https://nitter.net/WorstGenHQ/status/2026927274243588425#m",
+      "date": "Thu, 26 Feb 2026 07:48:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCEXG_RW8AE1sLD.jpg"
+      ]
+    },
+    {
+      "id": "34ee4f2fda6ca2bbf1623ffe5957ce4e680ccb5ee9ae6faefeabee4eecfbd07d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2027085532124139651#m",
+      "date": "Thu, 26 Feb 2026 18:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCGnjLfXcAE78SP.jpg"
+      ]
+    },
+    {
       "id": "0d11059f2ec2b7d3a47fa49bd5806dd1d6775bc43ab2feb208ff732eafd84343",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -106,6 +123,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCGMF7VbwAEsnUK.jpg"
+      ]
+    },
+    {
+      "id": "155d7d90713dfb4b9182b1975b440d4078f3fda4f6b9d68031e6ef7cb7f7630c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2027025138886086774#m",
+      "date": "Thu, 26 Feb 2026 14:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCFwn0xWAAEhgUS.jpg"
       ]
     },
     {
@@ -152,36 +184,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCEeOXHXYAERh4B.jpg"
       ]
-    },
-    {
-      "id": "b0dc5ed46eb2c90ec687a78ab47a59d03188a8ded1197935bc633141c1acd776",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026904339135025548#m",
-      "date": "Thu, 26 Feb 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCECwXdX0AAz-8s.jpg"
-      ]
-    },
-    {
-      "id": "802d60f726d0785ef64af39089d2ee4cb3de960948de14f1e3af01f6bb4b768c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026874141509378282#m",
-      "date": "Thu, 26 Feb 2026 04:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCDnSn6WoAAihVy.jpg"
-      ]
     }
   ],
   "items": [
@@ -199,19 +201,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCE877-WEAAEAgq.jpg"
       ]
-    },
-    {
-      "id": "8e9dc86bc437e5d207b918a2cb4d64f1dc1560ee1165715884e1207a3492d09b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Guys I have nothing to do with raws, idk when they gonna be released :)",
-      "text": "Guys I have nothing to do with raws, idk when they gonna be released :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2026927390153122000#m",
-      "date": "Thu, 26 Feb 2026 07:48:42 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "580375915ef91ea8ed91798ed45ae4edda83b41feb50e9ff9352491a5ead2b12",
@@ -275,6 +264,36 @@
       ]
     },
     {
+      "id": "d68103dbba0d96c3a4f65792b1e813e48f89aa5a80293913cd0c1143a014d716",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 I really want to know why the Nidhogg Fruit is so important to Xebec for the fight against Imu; what kind of effect is it supposed to have? The other fruit will be the Yami Fruit (since ",
+      "text": "#ONEPIECE1175 I really want to know why the Nidhogg Fruit is so important to Xebec for the fight against Imu; what kind of effect is it supposed to have? The other fruit will be the Yami Fruit (since Xebec didn't know anything about Sun God Nika), which raises the question of why the Nidhogg Fruit and Yami Fruit were so important for Xebec? I get the yami fruit, but Nidhogg, does the Nidhogg fruit has a special power aside the lightning power?",
+      "url": "https://nitter.net/WorstGenHQ/status/2026927274243588425#m",
+      "date": "Thu, 26 Feb 2026 07:48:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCEXG_RW8AE1sLD.jpg"
+      ]
+    },
+    {
+      "id": "34ee4f2fda6ca2bbf1623ffe5957ce4e680ccb5ee9ae6faefeabee4eecfbd07d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2027085532124139651#m",
+      "date": "Thu, 26 Feb 2026 18:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCGnjLfXcAE78SP.jpg"
+      ]
+    },
+    {
       "id": "0d11059f2ec2b7d3a47fa49bd5806dd1d6775bc43ab2feb208ff732eafd84343",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -287,6 +306,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCGMF7VbwAEsnUK.jpg"
+      ]
+    },
+    {
+      "id": "155d7d90713dfb4b9182b1975b440d4078f3fda4f6b9d68031e6ef7cb7f7630c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2027025138886086774#m",
+      "date": "Thu, 26 Feb 2026 14:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCFwn0xWAAEhgUS.jpg"
       ]
     },
     {
@@ -332,36 +366,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCEeOXHXYAERh4B.jpg"
-      ]
-    },
-    {
-      "id": "b0dc5ed46eb2c90ec687a78ab47a59d03188a8ded1197935bc633141c1acd776",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026904339135025548#m",
-      "date": "Thu, 26 Feb 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCECwXdX0AAz-8s.jpg"
-      ]
-    },
-    {
-      "id": "802d60f726d0785ef64af39089d2ee4cb3de960948de14f1e3af01f6bb4b768c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2026874141509378282#m",
-      "date": "Thu, 26 Feb 2026 04:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCDnSn6WoAAihVy.jpg"
       ]
     }
   ]
