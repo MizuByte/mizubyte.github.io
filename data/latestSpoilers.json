@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T19:06:06.622Z",
+  "generatedAt": "2026-02-27T19:50:44.003Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -32,6 +32,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "2319b41671b880c88f279d573894c0cc0764863a4758330f5d8e12166530e80c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "6.5 years of Pokémon Masters EX and 30 years of Pokémon! 🎉 Come celebrate with us, Trainers! piped.video/Obj6AUUzq4A",
+      "text": "6.5 years of Pokémon Masters EX and 30 years of Pokémon! 🎉 Come celebrate with us, Trainers! piped.video/Obj6AUUzq4A",
+      "url": "https://nitter.net/PokemonMasters/status/2027462664637845710#m",
+      "date": "Fri, 27 Feb 2026 19:15:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2027462656958074883%2FRvCApCox%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
     {
       "id": "67a60b4ca71931e95a7cdfb2b950da02cf5d349e9c53d04a2adefd7c3c3e1178",
       "anime": "onepiece",
@@ -108,21 +123,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCLMHmxaIAEOBrr.jpg"
-      ]
-    },
-    {
-      "id": "099142d55b4e844b3b91e8d39e5b1638fca3871549941d5711a67cc2ce774a94",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ポケモン30周年、おめでとうございます🎉",
-      "text": "ポケモン30周年、おめでとうございます🎉",
-      "url": "https://nitter.net/takahamaro/status/2027302539834839115#m",
-      "date": "Fri, 27 Feb 2026 08:39:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCJs6OAaQAAUU8C.jpg"
       ]
     },
     {
@@ -217,17 +217,19 @@
       ]
     },
     {
-      "id": "2c6854fa034211951d42af0a167432641517517c2fa8955d6431cf67bf961ae7",
+      "id": "459c8d0b34a578fe4d76069430fb33b61a161c36a2e9605063278aa1672bb961",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "I am ashamed of my country. What the fuck are y‘all doing??????? (@) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LT",
-      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? (@) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a — https://nitter.net/i/status/2024762807149854959#m",
+      "title": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Command",
+      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a formal cooperation agreement, expanding collaboration—a major milestone in the strategic partnership between Israel and Germany. Together, we stand ready to confront shared challenges and deepen our military cooperation for the future. — https://nitter.net/IDF/status/2024762807149854959#m",
       "url": "https://nitter.net/SchmurfiV1/status/2024846547565908356#m",
       "date": "Fri, 20 Feb 2026 14:00:11 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBlnCdmWAAAtUIn.jpg"
+      ]
     },
     {
       "id": "53490e378b76da848dbd48a5163b47d11cbf607617eeb8f85d1496284f273183",
@@ -260,17 +262,19 @@
       ]
     },
     {
-      "id": "4c92b4fa46392882286d4c24a174f384d15e4ba4d54d2779c22d82d1e4240d08",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No ",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/i/status/2023586079522386363#m",
+      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBU40HfbcAU-9Ma.jpg"
+      ]
     },
     {
       "id": "cb3fed20ae02b7bf796e5ae4547ed03178d7a8285a1395017e7861db6a832cbe",
@@ -363,6 +367,21 @@
       ]
     },
     {
+      "id": "2319b41671b880c88f279d573894c0cc0764863a4758330f5d8e12166530e80c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "6.5 years of Pokémon Masters EX and 30 years of Pokémon! 🎉 Come celebrate with us, Trainers! piped.video/Obj6AUUzq4A",
+      "text": "6.5 years of Pokémon Masters EX and 30 years of Pokémon! 🎉 Come celebrate with us, Trainers! piped.video/Obj6AUUzq4A",
+      "url": "https://nitter.net/PokemonMasters/status/2027462664637845710#m",
+      "date": "Fri, 27 Feb 2026 19:15:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2027462656958074883%2FRvCApCox%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
       "id": "67a60b4ca71931e95a7cdfb2b950da02cf5d349e9c53d04a2adefd7c3c3e1178",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -438,21 +457,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCLMHmxaIAEOBrr.jpg"
-      ]
-    },
-    {
-      "id": "099142d55b4e844b3b91e8d39e5b1638fca3871549941d5711a67cc2ce774a94",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ポケモン30周年、おめでとうございます🎉",
-      "text": "ポケモン30周年、おめでとうございます🎉",
-      "url": "https://nitter.net/takahamaro/status/2027302539834839115#m",
-      "date": "Fri, 27 Feb 2026 08:39:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCJs6OAaQAAUU8C.jpg"
       ]
     },
     {
@@ -547,17 +551,19 @@
       ]
     },
     {
-      "id": "2c6854fa034211951d42af0a167432641517517c2fa8955d6431cf67bf961ae7",
+      "id": "459c8d0b34a578fe4d76069430fb33b61a161c36a2e9605063278aa1672bb961",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "I am ashamed of my country. What the fuck are y‘all doing??????? (@) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LT",
-      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? (@) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a — https://nitter.net/i/status/2024762807149854959#m",
+      "title": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Command",
+      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a formal cooperation agreement, expanding collaboration—a major milestone in the strategic partnership between Israel and Germany. Together, we stand ready to confront shared challenges and deepen our military cooperation for the future. — https://nitter.net/IDF/status/2024762807149854959#m",
       "url": "https://nitter.net/SchmurfiV1/status/2024846547565908356#m",
       "date": "Fri, 20 Feb 2026 14:00:11 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBlnCdmWAAAtUIn.jpg"
+      ]
     },
     {
       "id": "53490e378b76da848dbd48a5163b47d11cbf607617eeb8f85d1496284f273183",
@@ -590,17 +596,19 @@
       ]
     },
     {
-      "id": "4c92b4fa46392882286d4c24a174f384d15e4ba4d54d2779c22d82d1e4240d08",
+      "id": "00a557c3a5aad4c053f9a319b0d14ca4bd79dcdcad9ce3c6e7c2b832ca0fd419",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No ",
-      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO (@) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/i/status/2023586079522386363#m",
+      "title": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed y",
+      "text": "Can somebody explain this in Naruto/Boruto terms? #BORUTO #NARUTO World Affairs (@World_Affairs11) BREAKING: Israeli PM Netanyahu is facing critical health condition, he has blood cancer , diagnosed yesterday. Community note: No evidence confirms Israeli PM Netanyahu has blood cancer; his February 2025 medical report states he is cancer-free with normal blood tests. jpost.com/health-and-wel… tps.co.il/articles/netan… — https://nitter.net/World_Affairs11/status/2023586079522386363#m",
       "url": "https://nitter.net/SchmurfiV1/status/2023649232545030571#m",
       "date": "Tue, 17 Feb 2026 06:42:29 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBU40HfbcAU-9Ma.jpg"
+      ]
     },
     {
       "id": "cb3fed20ae02b7bf796e5ae4547ed03178d7a8285a1395017e7861db6a832cbe",
