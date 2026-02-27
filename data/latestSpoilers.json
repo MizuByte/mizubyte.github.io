@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T21:15:18.854Z",
+  "generatedAt": "2026-02-27T21:47:37.947Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -32,6 +32,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "5f29384bf5485bca48d92b6c07c14237d48bed149d4e910bb6fa3846118c6b4d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 The difference in levels is immediately obvious here, simply the difference between day and night, damn... Loki is a flying ancient weapon, able to nuke any island off the map... #FEARLO",
+      "text": "#ONEPIECE1175 The difference in levels is immediately obvious here, simply the difference between day and night, damn... Loki is a flying ancient weapon, able to nuke any island off the map... #FEARLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2027498029524168748#m",
+      "date": "Fri, 27 Feb 2026 21:36:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCMepg0agAAtQ6A.png"
+      ]
+    },
     {
       "id": "17a8d0af2cb0883cf711641d578ba3c6da965ff057fd6137830bbf01fd97805b",
       "anime": "onepiece",
@@ -106,21 +121,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCMWSGFXkAAkvzh.jpg",
         "https://nitter.net/pic/media%2FHCMWTJCWgAACJ_J.png"
-      ]
-    },
-    {
-      "id": "057fdd9e4d5418167454d2f02d5f8e3a908a282c4deb54a9308efe36f12163eb",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Insane Design, now in translation, he looks soo beastly... Can´t wait for his hybrid form..",
-      "text": "#ONEPIECE1175 Insane Design, now in translation, he looks soo beastly... Can´t wait for his hybrid form..",
-      "url": "https://nitter.net/WorstGenHQ/status/2027487997638123962#m",
-      "date": "Fri, 27 Feb 2026 20:56:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCMVfUpXAAE4_1C.png"
       ]
     },
     {
@@ -367,6 +367,21 @@
       ]
     },
     {
+      "id": "5f29384bf5485bca48d92b6c07c14237d48bed149d4e910bb6fa3846118c6b4d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 The difference in levels is immediately obvious here, simply the difference between day and night, damn... Loki is a flying ancient weapon, able to nuke any island off the map... #FEARLO",
+      "text": "#ONEPIECE1175 The difference in levels is immediately obvious here, simply the difference between day and night, damn... Loki is a flying ancient weapon, able to nuke any island off the map... #FEARLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2027498029524168748#m",
+      "date": "Fri, 27 Feb 2026 21:36:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCMepg0agAAtQ6A.png"
+      ]
+    },
+    {
       "id": "17a8d0af2cb0883cf711641d578ba3c6da965ff057fd6137830bbf01fd97805b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -440,21 +455,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCMWSGFXkAAkvzh.jpg",
         "https://nitter.net/pic/media%2FHCMWTJCWgAACJ_J.png"
-      ]
-    },
-    {
-      "id": "057fdd9e4d5418167454d2f02d5f8e3a908a282c4deb54a9308efe36f12163eb",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Insane Design, now in translation, he looks soo beastly... Can´t wait for his hybrid form..",
-      "text": "#ONEPIECE1175 Insane Design, now in translation, he looks soo beastly... Can´t wait for his hybrid form..",
-      "url": "https://nitter.net/WorstGenHQ/status/2027487997638123962#m",
-      "date": "Fri, 27 Feb 2026 20:56:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCMVfUpXAAE4_1C.png"
       ]
     },
     {
