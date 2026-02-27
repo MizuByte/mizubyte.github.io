@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T16:20:45.657Z",
+  "generatedAt": "2026-02-27T16:58:45.531Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,6 +33,22 @@
   ],
   "misc": [
     {
+      "id": "e92b4598ab36c2ae9f9f8049afba0809e246402698b0214952744170fcfd7507",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 😭😭😭",
+      "text": "#ONEPIECE1175 😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2027424394109210877#m",
+      "date": "Fri, 27 Feb 2026 16:43:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLbvd0XUAwx4Mh.jpg",
+        "https://nitter.net/pic/media%2FHCLbvUeXUAICmUV.jpg"
+      ]
+    },
+    {
       "id": "0eb507091760feaf7e08db3d6f909de845bd446967b28fc1705dde634ad3f737",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -108,18 +124,93 @@
       ]
     },
     {
-      "id": "81d953ea59c3a87a543b1daccc105503017c19f7577faf512cb39abdea891262",
+      "id": "9c42890434440b8eb56a0bfbc362ca807db90973844a646e8eaaf6cd99ff7ce5",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "text": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2027381038360482093#m",
-      "date": "Fri, 27 Feb 2026 13:51:21 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Pokémon Viento y Pokémon Oleaje llegarán en 2027 a #NintendoSwitch2!",
+      "text": "¡Pokémon Viento y Pokémon Oleaje llegarán en 2027 a #NintendoSwitch2!",
+      "url": "https://nitter.net/NintendoES/status/2027420966842749372#m",
+      "date": "Fri, 27 Feb 2026 16:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK0MClXkAA1Sox.jpg"
+        "https://nitter.net/pic/media%2FHCLNsprX0AAqwn_.jpg"
+      ]
+    },
+    {
+      "id": "cf229c628932fbfb132130b42149aaac392e557338ac4afcb305c7ce8c252b6a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Sound on to be transported back to the 90s! Listen to the same iconic sounds of the Game Boy system with the Game Music Collection. Embark on a nostalgic audio journey with 45 cartridges featuring mus",
+      "text": "Sound on to be transported back to the 90s! Listen to the same iconic sounds of the Game Boy system with the Game Music Collection. Embark on a nostalgic audio journey with 45 cartridges featuring music from the original Pokémon Red and Pokémon Blue video games that 🎶 Video",
+      "url": "https://nitter.net/Pokemon/status/2027420572393812012#m",
+      "date": "Fri, 27 Feb 2026 16:28:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2027420162576846848%2Fimg%2FQXDYpOBIt5DLSnNS.jpg"
+      ]
+    },
+    {
+      "id": "d4df6d435d1b4a117ccc179197a319f6be40ec741704d21a6abe1681479729ce",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Sanji fans stay eating! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "text": "Sanji fans stay eating! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2027413418181873703#m",
+      "date": "Fri, 27 Feb 2026 16:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCI0XBDW8AAGGJc.png"
+      ]
+    },
+    {
+      "id": "f3b49d937c3048d72229857bfc532bf712b0abf888725ce174db9aaff9d23b68",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Vengeance lies at the tip of her fingers. Thank you @yueko__ for this amazing Velvet illustration! Happy Tales of Berseria Remastered Launch from the Tales team💫 #TOBR",
+      "text": "Vengeance lies at the tip of her fingers. Thank you @yueko__ for this amazing Velvet illustration! Happy Tales of Berseria Remastered Launch from the Tales team💫 #TOBR",
+      "url": "https://nitter.net/TalesofSeries/status/2027413608531890184#m",
+      "date": "Fri, 27 Feb 2026 16:00:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLR6qNWEAAGtJL.jpg"
+      ]
+    },
+    {
+      "id": "202d2e09962ad2b0cf3c652b1a37e6e0eb9e9a525f98535a394fbbceeb90fa8a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Father and Son. Behold your first look at Kratos and Atreus in the God of War series now in production for @primevideo. Their journey to the highest peak begins.",
+      "text": "Father and Son. Behold your first look at Kratos and Atreus in the God of War series now in production for @primevideo. Their journey to the highest peak begins.",
+      "url": "https://nitter.net/godofwaronprime/status/2027397749357134177#m",
+      "date": "Fri, 27 Feb 2026 14:57:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLA7m3boAAdqHX.jpg"
+      ]
+    },
+    {
+      "id": "ab3fd825e4e92de945dcad2b7f39f147405000ee323685a3d8aa22542e3c2f9f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "“Impossible” is not in the pirate dictionary! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "text": "“Impossible” is not in the pirate dictionary! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2027406814455693533#m",
+      "date": "Fri, 27 Feb 2026 15:33:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLKknoWkAAsahO.jpg"
       ]
     },
     {
@@ -240,36 +331,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCKDRxXWwAATzMP.jpg"
-      ]
-    },
-    {
-      "id": "9667654c2a4227e6816950f736cb9440619b706d5c9cb9360157caffb34d02c6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2027296924643033481#m",
-      "date": "Fri, 27 Feb 2026 08:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCJnz1oakAA110l.jpg"
-      ]
-    },
-    {
-      "id": "c348ce53f55aa56abc0654747c05a7d2d2d9b9c75bdf118607f4df699a221d4d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2027266734101561756#m",
-      "date": "Fri, 27 Feb 2026 06:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCJMWgTbIAEfEI_.jpg"
       ]
     }
   ],
@@ -303,6 +364,22 @@
       ]
     },
     {
+      "id": "e92b4598ab36c2ae9f9f8049afba0809e246402698b0214952744170fcfd7507",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1175 😭😭😭",
+      "text": "#ONEPIECE1175 😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2027424394109210877#m",
+      "date": "Fri, 27 Feb 2026 16:43:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLbvd0XUAwx4Mh.jpg",
+        "https://nitter.net/pic/media%2FHCLbvUeXUAICmUV.jpg"
+      ]
+    },
+    {
       "id": "0eb507091760feaf7e08db3d6f909de845bd446967b28fc1705dde634ad3f737",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -378,18 +455,93 @@
       ]
     },
     {
-      "id": "81d953ea59c3a87a543b1daccc105503017c19f7577faf512cb39abdea891262",
+      "id": "9c42890434440b8eb56a0bfbc362ca807db90973844a646e8eaaf6cd99ff7ce5",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "text": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2027381038360482093#m",
-      "date": "Fri, 27 Feb 2026 13:51:21 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Pokémon Viento y Pokémon Oleaje llegarán en 2027 a #NintendoSwitch2!",
+      "text": "¡Pokémon Viento y Pokémon Oleaje llegarán en 2027 a #NintendoSwitch2!",
+      "url": "https://nitter.net/NintendoES/status/2027420966842749372#m",
+      "date": "Fri, 27 Feb 2026 16:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK0MClXkAA1Sox.jpg"
+        "https://nitter.net/pic/media%2FHCLNsprX0AAqwn_.jpg"
+      ]
+    },
+    {
+      "id": "cf229c628932fbfb132130b42149aaac392e557338ac4afcb305c7ce8c252b6a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Sound on to be transported back to the 90s! Listen to the same iconic sounds of the Game Boy system with the Game Music Collection. Embark on a nostalgic audio journey with 45 cartridges featuring mus",
+      "text": "Sound on to be transported back to the 90s! Listen to the same iconic sounds of the Game Boy system with the Game Music Collection. Embark on a nostalgic audio journey with 45 cartridges featuring music from the original Pokémon Red and Pokémon Blue video games that 🎶 Video",
+      "url": "https://nitter.net/Pokemon/status/2027420572393812012#m",
+      "date": "Fri, 27 Feb 2026 16:28:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2027420162576846848%2Fimg%2FQXDYpOBIt5DLSnNS.jpg"
+      ]
+    },
+    {
+      "id": "d4df6d435d1b4a117ccc179197a319f6be40ec741704d21a6abe1681479729ce",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Sanji fans stay eating! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "text": "Sanji fans stay eating! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2027413418181873703#m",
+      "date": "Fri, 27 Feb 2026 16:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCI0XBDW8AAGGJc.png"
+      ]
+    },
+    {
+      "id": "f3b49d937c3048d72229857bfc532bf712b0abf888725ce174db9aaff9d23b68",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Vengeance lies at the tip of her fingers. Thank you @yueko__ for this amazing Velvet illustration! Happy Tales of Berseria Remastered Launch from the Tales team💫 #TOBR",
+      "text": "Vengeance lies at the tip of her fingers. Thank you @yueko__ for this amazing Velvet illustration! Happy Tales of Berseria Remastered Launch from the Tales team💫 #TOBR",
+      "url": "https://nitter.net/TalesofSeries/status/2027413608531890184#m",
+      "date": "Fri, 27 Feb 2026 16:00:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLR6qNWEAAGtJL.jpg"
+      ]
+    },
+    {
+      "id": "202d2e09962ad2b0cf3c652b1a37e6e0eb9e9a525f98535a394fbbceeb90fa8a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Father and Son. Behold your first look at Kratos and Atreus in the God of War series now in production for @primevideo. Their journey to the highest peak begins.",
+      "text": "Father and Son. Behold your first look at Kratos and Atreus in the God of War series now in production for @primevideo. Their journey to the highest peak begins.",
+      "url": "https://nitter.net/godofwaronprime/status/2027397749357134177#m",
+      "date": "Fri, 27 Feb 2026 14:57:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLA7m3boAAdqHX.jpg"
+      ]
+    },
+    {
+      "id": "ab3fd825e4e92de945dcad2b7f39f147405000ee323685a3d8aa22542e3c2f9f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "“Impossible” is not in the pirate dictionary! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "text": "“Impossible” is not in the pirate dictionary! ONE PIECE: INTO THE GRAND LINE March 10. Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2027406814455693533#m",
+      "date": "Fri, 27 Feb 2026 15:33:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCLKknoWkAAsahO.jpg"
       ]
     },
     {
@@ -510,36 +662,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCKDRxXWwAATzMP.jpg"
-      ]
-    },
-    {
-      "id": "9667654c2a4227e6816950f736cb9440619b706d5c9cb9360157caffb34d02c6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2027296924643033481#m",
-      "date": "Fri, 27 Feb 2026 08:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCJnz1oakAA110l.jpg"
-      ]
-    },
-    {
-      "id": "c348ce53f55aa56abc0654747c05a7d2d2d9b9c75bdf118607f4df699a221d4d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2027266734101561756#m",
-      "date": "Fri, 27 Feb 2026 06:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCJMWgTbIAEfEI_.jpg"
       ]
     }
   ]
