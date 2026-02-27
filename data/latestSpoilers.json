@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-02-27T14:29:14.050Z",
+  "generatedAt": "2026-02-27T15:25:45.782Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "827db6d4b938fc410de612a80115e85ab5eb71332a30ba3c57a41ada03adfcb7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Raw page of Loki lightning blast: #FEARLOKI",
-      "text": "#ONEPIECE1175 Raw page of Loki lightning blast: #FEARLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2027375725544656960#m",
-      "date": "Fri, 27 Feb 2026 13:30:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCKvbgKWgAAWtOH.png"
-      ]
-    },
     {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
@@ -48,78 +33,48 @@
   ],
   "misc": [
     {
-      "id": "c96ef5a48c8243c409c1b09db81ef795f2702472b5b79a513f436ccf21502b72",
+      "id": "faa75e89dec223d1a9e7154268d657da80c683148729f0c13395d38d273b37a2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gen 10 starters!! I gonna take the fire one and you guys?",
-      "text": "Gen 10 starters!! I gonna take the fire one and you guys?",
-      "url": "https://nitter.net/WorstGenHQ/status/2027390031988404493#m",
-      "date": "Fri, 27 Feb 2026 14:27:05 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Here’s your first look at #PokemonWindsWaves 🍃🌊 Learn more about the main characters and special Pikachu in this announcement trailer! Video",
+      "text": "Here’s your first look at #PokemonWindsWaves 🍃🌊 Learn more about the main characters and special Pikachu in this announcement trailer! Video",
+      "url": "https://nitter.net/Pokemon/status/2027390804700828125#m",
+      "date": "Fri, 27 Feb 2026 14:30:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK8bU9WkAAGXpJ.jpg"
+        "https://nitter.net/pic/media%2FHCK9MQmXwAABJnC.png"
       ]
     },
     {
-      "id": "8f7df77df8ce72043ef63dbbb35172733cb427bc1cc91ddd5410edbf3fd88d34",
+      "id": "ed4fc224bf8aa5636b82c4e65185a215bed34209bbc93fcd98e43c2a903d7634",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Look sooo peak man... This Nika version doesn´t have the white clouds/scarf around him unlike in the previous version we got. And again everything in black. Dark Nika is a true thing?",
-      "text": "#ONEPIECE1175 Look sooo peak man... This Nika version doesn´t have the white clouds/scarf around him unlike in the previous version we got. And again everything in black. Dark Nika is a true thing?",
-      "url": "https://nitter.net/WorstGenHQ/status/2027383348499476723#m",
-      "date": "Fri, 27 Feb 2026 14:00:31 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ポケモンカードゲームの最新映像が公開！ ポケモンカードの30周年を記念した特別な商品が、2026年に世界同時発売されるよ！ pokemon-card.com/ #ポケカ Video",
+      "text": "ポケモンカードゲームの最新映像が公開！ ポケモンカードの30周年を記念した特別な商品が、2026年に世界同時発売されるよ！ pokemon-card.com/ #ポケカ Video",
+      "url": "https://nitter.net/Pokemon_cojp/status/2027393209869926894#m",
+      "date": "Fri, 27 Feb 2026 14:39:43 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK2Zl0XUAAgBtm.jpg"
+        "https://nitter.net/pic/media%2FHCK_YLgWEAAtpqk.jpg"
       ]
     },
     {
-      "id": "f0dd563dbd077aa5384f0bfd80fc63b7fa5f45e79f522a4cee27c5db3930eda6",
+      "id": "6799443c29097c72c8d15e86ce9eaa51f048b22acb8f6a91b0ac4005d8de3359",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Sun God Nika vs The God of War",
-      "text": "#ONEPIECE1175 Sun God Nika vs The God of War",
-      "url": "https://nitter.net/WorstGenHQ/status/2027381290169663515#m",
-      "date": "Fri, 27 Feb 2026 13:52:21 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Introducing the first partner Pokémon from #PokemonWindsWaves! Say hello to Browt 🌱, Pombon 🔥, and Gecqua 💧. Who will you partner with on this adventure, Trainers?",
+      "text": "Introducing the first partner Pokémon from #PokemonWindsWaves! Say hello to Browt 🌱, Pombon 🔥, and Gecqua 💧. Who will you partner with on this adventure, Trainers?",
+      "url": "https://nitter.net/Pokemon/status/2027393288559354226#m",
+      "date": "Fri, 27 Feb 2026 14:40:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK0iTJXgAAdTjd.jpg"
-      ]
-    },
-    {
-      "id": "81d953ea59c3a87a543b1daccc105503017c19f7577faf512cb39abdea891262",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "text": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2027381038360482093#m",
-      "date": "Fri, 27 Feb 2026 13:51:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCK0MClXkAA1Sox.jpg"
-      ]
-    },
-    {
-      "id": "0f6a95fab6662b461288981b4644e0b5239953b00e817a96ce99546116fc7b6e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 YOOOOO LUFFY CHILL But, deserved Sommers, bro got wrecked hard hahahah... 🔥🔥🔥",
-      "text": "#ONEPIECE1175 YOOOOO LUFFY CHILL But, deserved Sommers, bro got wrecked hard hahahah... 🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2027377345640775880#m",
-      "date": "Fri, 27 Feb 2026 13:36:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCKw2qPWQAEF6oI.png"
+        "https://nitter.net/pic/media%2FHCK_c1AWUAAT7_Q.jpg"
       ]
     },
     {
@@ -165,51 +120,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCKqt-2XEAAcVR5.jpg"
-      ]
-    },
-    {
-      "id": "9f54876d695076297a134c42bed416dd41f62ddd069e705be39eb8a8eac6a9f0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "★発売まであと1日★ ブースターパック『神の島の冒険【OP-15】』は明日2/28(土)発売！ 空島編にて登場したキャラを多数収録しています。 お見逃しなく！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
-      "text": "★発売まであと1日★ ブースターパック『神の島の冒険【OP-15】』は明日2/28(土)発売！ 空島編にて登場したキャラを多数収録しています。 お見逃しなく！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
-      "url": "https://nitter.net/ONEPIECE_tcg/status/2027337928301506661#m",
-      "date": "Fri, 27 Feb 2026 11:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBbbumCaIAAZL2t.jpg"
-      ]
-    },
-    {
-      "id": "315a5eef1f4f319fa614dbc38e0c99d1438669104f009aeaa3428a9e2e90e8f9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The next Resplendent Hero, Ike: Vanguard Legend, is scheduled to be available to Feh Pass subscribers beginning Mar. 10, 12 AM PT. Check the link below to see more of this upcoming Resplendent Hero! #",
-      "text": "The next Resplendent Hero, Ike: Vanguard Legend, is scheduled to be available to Feh Pass subscribers beginning Mar. 10, 12 AM PT. Check the link below to see more of this upcoming Resplendent Hero! #FEHeroes fehpass.fire-emblem-heroes.c…",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2026553249592127566#m",
-      "date": "Wed, 25 Feb 2026 07:02:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB6XxNabQAAxVhX.jpg"
-      ]
-    },
-    {
-      "id": "d34ba34764e2fd02af678aa6885c73255af89b9ea13d1492dc0b3eaa7eaad714",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Tiki: Everlasting Voice from the #FireEmblem Awakening game appears in #FEHeroes as a Mythic Hero starting Feb. 26, 11 PM PT! You'll also be able to summon previously released 5★ Legendary, Mythic, Em",
-      "text": "Tiki: Everlasting Voice from the #FireEmblem Awakening game appears in #FEHeroes as a Mythic Hero starting Feb. 26, 11 PM PT! You'll also be able to summon previously released 5★ Legendary, Mythic, Emblem, and Chosen Heroes! #MythicTiki Video",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2026854747685224902#m",
-      "date": "Thu, 26 Feb 2026 03:00:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB_XNN5aQAAJbea.jpg"
       ]
     },
     {
@@ -346,24 +256,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCJMWgTbIAEfEI_.jpg"
       ]
+    },
+    {
+      "id": "2bde37a1f5c56d90132ce7da03b867ed2f345b47920a777c7b66b452cba6487f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2027236526225031332#m",
+      "date": "Fri, 27 Feb 2026 04:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCIw4NnWoAAeqkc.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "827db6d4b938fc410de612a80115e85ab5eb71332a30ba3c57a41ada03adfcb7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Raw page of Loki lightning blast: #FEARLOKI",
-      "text": "#ONEPIECE1175 Raw page of Loki lightning blast: #FEARLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2027375725544656960#m",
-      "date": "Fri, 27 Feb 2026 13:30:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCKvbgKWgAAWtOH.png"
-      ]
-    },
     {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
@@ -393,78 +303,48 @@
       ]
     },
     {
-      "id": "c96ef5a48c8243c409c1b09db81ef795f2702472b5b79a513f436ccf21502b72",
+      "id": "faa75e89dec223d1a9e7154268d657da80c683148729f0c13395d38d273b37a2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gen 10 starters!! I gonna take the fire one and you guys?",
-      "text": "Gen 10 starters!! I gonna take the fire one and you guys?",
-      "url": "https://nitter.net/WorstGenHQ/status/2027390031988404493#m",
-      "date": "Fri, 27 Feb 2026 14:27:05 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Here’s your first look at #PokemonWindsWaves 🍃🌊 Learn more about the main characters and special Pikachu in this announcement trailer! Video",
+      "text": "Here’s your first look at #PokemonWindsWaves 🍃🌊 Learn more about the main characters and special Pikachu in this announcement trailer! Video",
+      "url": "https://nitter.net/Pokemon/status/2027390804700828125#m",
+      "date": "Fri, 27 Feb 2026 14:30:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK8bU9WkAAGXpJ.jpg"
+        "https://nitter.net/pic/media%2FHCK9MQmXwAABJnC.png"
       ]
     },
     {
-      "id": "8f7df77df8ce72043ef63dbbb35172733cb427bc1cc91ddd5410edbf3fd88d34",
+      "id": "ed4fc224bf8aa5636b82c4e65185a215bed34209bbc93fcd98e43c2a903d7634",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Look sooo peak man... This Nika version doesn´t have the white clouds/scarf around him unlike in the previous version we got. And again everything in black. Dark Nika is a true thing?",
-      "text": "#ONEPIECE1175 Look sooo peak man... This Nika version doesn´t have the white clouds/scarf around him unlike in the previous version we got. And again everything in black. Dark Nika is a true thing?",
-      "url": "https://nitter.net/WorstGenHQ/status/2027383348499476723#m",
-      "date": "Fri, 27 Feb 2026 14:00:31 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ポケモンカードゲームの最新映像が公開！ ポケモンカードの30周年を記念した特別な商品が、2026年に世界同時発売されるよ！ pokemon-card.com/ #ポケカ Video",
+      "text": "ポケモンカードゲームの最新映像が公開！ ポケモンカードの30周年を記念した特別な商品が、2026年に世界同時発売されるよ！ pokemon-card.com/ #ポケカ Video",
+      "url": "https://nitter.net/Pokemon_cojp/status/2027393209869926894#m",
+      "date": "Fri, 27 Feb 2026 14:39:43 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK2Zl0XUAAgBtm.jpg"
+        "https://nitter.net/pic/media%2FHCK_YLgWEAAtpqk.jpg"
       ]
     },
     {
-      "id": "f0dd563dbd077aa5384f0bfd80fc63b7fa5f45e79f522a4cee27c5db3930eda6",
+      "id": "6799443c29097c72c8d15e86ce9eaa51f048b22acb8f6a91b0ac4005d8de3359",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Sun God Nika vs The God of War",
-      "text": "#ONEPIECE1175 Sun God Nika vs The God of War",
-      "url": "https://nitter.net/WorstGenHQ/status/2027381290169663515#m",
-      "date": "Fri, 27 Feb 2026 13:52:21 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Introducing the first partner Pokémon from #PokemonWindsWaves! Say hello to Browt 🌱, Pombon 🔥, and Gecqua 💧. Who will you partner with on this adventure, Trainers?",
+      "text": "Introducing the first partner Pokémon from #PokemonWindsWaves! Say hello to Browt 🌱, Pombon 🔥, and Gecqua 💧. Who will you partner with on this adventure, Trainers?",
+      "url": "https://nitter.net/Pokemon/status/2027393288559354226#m",
+      "date": "Fri, 27 Feb 2026 14:40:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCK0iTJXgAAdTjd.jpg"
-      ]
-    },
-    {
-      "id": "81d953ea59c3a87a543b1daccc105503017c19f7577faf512cb39abdea891262",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "text": "#ONEPIECE1175 Can´t understand how people can hate this crazy design... Loki is insane asf and looks great mates...🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2027381038360482093#m",
-      "date": "Fri, 27 Feb 2026 13:51:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCK0MClXkAA1Sox.jpg"
-      ]
-    },
-    {
-      "id": "0f6a95fab6662b461288981b4644e0b5239953b00e817a96ce99546116fc7b6e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1175 YOOOOO LUFFY CHILL But, deserved Sommers, bro got wrecked hard hahahah... 🔥🔥🔥",
-      "text": "#ONEPIECE1175 YOOOOO LUFFY CHILL But, deserved Sommers, bro got wrecked hard hahahah... 🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2027377345640775880#m",
-      "date": "Fri, 27 Feb 2026 13:36:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCKw2qPWQAEF6oI.png"
+        "https://nitter.net/pic/media%2FHCK_c1AWUAAT7_Q.jpg"
       ]
     },
     {
@@ -510,51 +390,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCKqt-2XEAAcVR5.jpg"
-      ]
-    },
-    {
-      "id": "9f54876d695076297a134c42bed416dd41f62ddd069e705be39eb8a8eac6a9f0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "★発売まであと1日★ ブースターパック『神の島の冒険【OP-15】』は明日2/28(土)発売！ 空島編にて登場したキャラを多数収録しています。 お見逃しなく！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
-      "text": "★発売まであと1日★ ブースターパック『神の島の冒険【OP-15】』は明日2/28(土)発売！ 空島編にて登場したキャラを多数収録しています。 お見逃しなく！ ▼商品ページ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECEカードゲーム #ONEPIECE",
-      "url": "https://nitter.net/ONEPIECE_tcg/status/2027337928301506661#m",
-      "date": "Fri, 27 Feb 2026 11:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBbbumCaIAAZL2t.jpg"
-      ]
-    },
-    {
-      "id": "315a5eef1f4f319fa614dbc38e0c99d1438669104f009aeaa3428a9e2e90e8f9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The next Resplendent Hero, Ike: Vanguard Legend, is scheduled to be available to Feh Pass subscribers beginning Mar. 10, 12 AM PT. Check the link below to see more of this upcoming Resplendent Hero! #",
-      "text": "The next Resplendent Hero, Ike: Vanguard Legend, is scheduled to be available to Feh Pass subscribers beginning Mar. 10, 12 AM PT. Check the link below to see more of this upcoming Resplendent Hero! #FEHeroes fehpass.fire-emblem-heroes.c…",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2026553249592127566#m",
-      "date": "Wed, 25 Feb 2026 07:02:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB6XxNabQAAxVhX.jpg"
-      ]
-    },
-    {
-      "id": "d34ba34764e2fd02af678aa6885c73255af89b9ea13d1492dc0b3eaa7eaad714",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Tiki: Everlasting Voice from the #FireEmblem Awakening game appears in #FEHeroes as a Mythic Hero starting Feb. 26, 11 PM PT! You'll also be able to summon previously released 5★ Legendary, Mythic, Em",
-      "text": "Tiki: Everlasting Voice from the #FireEmblem Awakening game appears in #FEHeroes as a Mythic Hero starting Feb. 26, 11 PM PT! You'll also be able to summon previously released 5★ Legendary, Mythic, Emblem, and Chosen Heroes! #MythicTiki Video",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2026854747685224902#m",
-      "date": "Thu, 26 Feb 2026 03:00:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHB_XNN5aQAAJbea.jpg"
       ]
     },
     {
@@ -690,6 +525,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCJMWgTbIAEfEI_.jpg"
+      ]
+    },
+    {
+      "id": "2bde37a1f5c56d90132ce7da03b867ed2f345b47920a777c7b66b452cba6487f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2027236526225031332#m",
+      "date": "Fri, 27 Feb 2026 04:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCIw4NnWoAAeqkc.jpg"
       ]
     }
   ]
