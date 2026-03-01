@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T09:02:36.777Z",
+  "generatedAt": "2026-03-01T09:48:17.652Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -121,17 +121,19 @@
       ]
     },
     {
-      "id": "63af4524ef089375a97744bf6c61420196c22dc5711eeccba72cb5dd86509725",
+      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/202793266797",
-      "text": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/2027932667975516639#m",
+      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
+      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
       "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
       "date": "Sun, 01 Mar 2026 07:52:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCSqA5dbEAIENq_.jpg"
+      ]
     },
     {
       "id": "459c8d0b34a578fe4d76069430fb33b61a161c36a2e9605063278aa1672bb961",
@@ -387,17 +389,19 @@
       ]
     },
     {
-      "id": "63af4524ef089375a97744bf6c61420196c22dc5711eeccba72cb5dd86509725",
+      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/202793266797",
-      "text": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/2027932667975516639#m",
+      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
+      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
       "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
       "date": "Sun, 01 Mar 2026 07:52:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCSqA5dbEAIENq_.jpg"
+      ]
     },
     {
       "id": "459c8d0b34a578fe4d76069430fb33b61a161c36a2e9605063278aa1672bb961",
