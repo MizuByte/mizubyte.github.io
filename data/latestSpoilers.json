@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T22:03:46.645Z",
+  "generatedAt": "2026-03-02T22:51:27.029Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,17 +18,53 @@
   ],
   "misc": [
     {
-      "id": "c73f65d158206df077dae563e4c2db89305ee96c7d8ae7fed9a4f19d022e9a43",
+      "id": "90e69a390a5398ed0c541c635a394b293d1d1ec2d687fcf82f06b7f8e4ef75cc",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
-      "text": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
+      "title": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriy",
+      "text": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriyama, c'est un coffre a trésors!! 😍😍😍",
+      "url": "https://nitter.net/KaiwaiDB/status/2028476077304144339#m",
+      "date": "Mon, 02 Mar 2026 14:22:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCaYPaaaAAAMS87.jpg",
+        "https://nitter.net/pic/media%2FHCaYPVuWkAA0WUJ.jpg",
+        "https://nitter.net/pic/media%2FHCaYPdnaAAEaKB4.jpg",
+        "https://nitter.net/pic/media%2FHCaYPf9bgAEgEdP.jpg"
+      ]
+    },
+    {
+      "id": "b6e4b1f5e3e44678fa3c00968d72e6856435e20f6abd8fb00db16b2639d122a4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hoy he sido agredida físicamente por Vito Quiles y sus matones. Hoy ya se han traspasado todos los límites. Hoy ya no son insultos, son golpes. En cuanto salga del hospital iré a una comisaría a ampli",
+      "text": "Hoy he sido agredida físicamente por Vito Quiles y sus matones. Hoy ya se han traspasado todos los límites. Hoy ya no son insultos, son golpes. En cuanto salga del hospital iré a una comisaría a ampliar mi denuncia contra este acosador. No puedo más.",
+      "url": "https://nitter.net/SarahPerezSanta/status/2028557892920508710#m",
+      "date": "Mon, 02 Mar 2026 19:47:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCbipQXW8AAfzrF.jpg",
+        "https://nitter.net/pic/media%2FHCbipQfXYAAgeas.jpg"
+      ]
+    },
+    {
+      "id": "519e4c308f8def00a3e9631f9f0e9b04fe4214c1aa7563df89e32897790f2cd1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12. Video",
+      "text": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12. Video",
       "url": "https://nitter.net/ScaryMovie/status/2028471075298775098#m",
       "date": "Mon, 02 Mar 2026 14:02:46 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCXWDyWXYAAC5b_.jpg"
+      ]
     },
     {
       "id": "1388e90adf3828b9d548800071ba3fb06a0ece1b5416c5831b2f8a3e86061c80",
@@ -42,7 +78,9 @@
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCb7jRzbAAA-NHZ.jpg"
+        "https://nitter.net/pic/media%2FHCb7jQaawAA8V0y.jpg",
+        "https://nitter.net/pic/media%2FHCb7jRzbAAA-NHZ.jpg",
+        "https://nitter.net/pic/media%2FHCb7jUaboAAsmI5.jpg"
       ]
     },
     {
@@ -71,35 +109,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCb4rXvWoAAt_F1.jpg"
-      ]
-    },
-    {
-      "id": "5182ea448f05b9dc66d640b9541623fa947c012e656b23c57f00c0945aea954d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "There’s another pandaman waving his hands in the glass of wine!!!",
-      "text": "There’s another pandaman waving his hands in the glass of wine!!!",
-      "url": "https://nitter.net/SeaOfWills/status/2028574330989256779#m",
-      "date": "Mon, 02 Mar 2026 20:53:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8f0a34f60aa3490d916e625cea5fc3617662cd3607d32b67bf30739a7405c0df",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece",
-      "text": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece que supera los 3.000.000 de ejemplares en su 1ª edición 🤯🤯🤯 SHOHEI (@shouhei1011) ONE PIECE 114巻 — https://nitter.net/shouhei1011/status/2028560540054979033#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2028575259272917248#m",
-      "date": "Mon, 02 Mar 2026 20:56:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCbyRuiW0AAbz6F.jpg",
-        "https://nitter.net/pic/media%2FHCblDRDakAAeMUo.jpg"
       ]
     },
     {
@@ -179,6 +188,21 @@
       ]
     },
     {
+      "id": "8a6e17c3f65d5967cc604569ddd98c827b82ac250db34ae2661eaa3585da8101",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028595487226364136#m",
+      "date": "Mon, 02 Mar 2026 22:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcE2GEXsAENfxk.jpg"
+      ]
+    },
+    {
       "id": "c366f2aa43cb7d3ca48bc0c0421eab08077e10fb67db7cf5d3eccdd0d1baf658",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -251,21 +275,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCZ7hClXEAAeZsx.jpg"
-      ]
-    },
-    {
-      "id": "3dacfd388efea7a85ce31a58831c6d51a008459ab57b9a8b274ea96efb7b3826",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028414291485884821#m",
-      "date": "Mon, 02 Mar 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCZgDKwX0AA0gSF.jpg"
       ]
     }
   ],
@@ -284,17 +293,53 @@
       "attachments": []
     },
     {
-      "id": "c73f65d158206df077dae563e4c2db89305ee96c7d8ae7fed9a4f19d022e9a43",
+      "id": "90e69a390a5398ed0c541c635a394b293d1d1ec2d687fcf82f06b7f8e4ef75cc",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
-      "text": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
+      "title": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriy",
+      "text": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriyama, c'est un coffre a trésors!! 😍😍😍",
+      "url": "https://nitter.net/KaiwaiDB/status/2028476077304144339#m",
+      "date": "Mon, 02 Mar 2026 14:22:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCaYPaaaAAAMS87.jpg",
+        "https://nitter.net/pic/media%2FHCaYPVuWkAA0WUJ.jpg",
+        "https://nitter.net/pic/media%2FHCaYPdnaAAEaKB4.jpg",
+        "https://nitter.net/pic/media%2FHCaYPf9bgAEgEdP.jpg"
+      ]
+    },
+    {
+      "id": "b6e4b1f5e3e44678fa3c00968d72e6856435e20f6abd8fb00db16b2639d122a4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hoy he sido agredida físicamente por Vito Quiles y sus matones. Hoy ya se han traspasado todos los límites. Hoy ya no son insultos, son golpes. En cuanto salga del hospital iré a una comisaría a ampli",
+      "text": "Hoy he sido agredida físicamente por Vito Quiles y sus matones. Hoy ya se han traspasado todos los límites. Hoy ya no son insultos, son golpes. En cuanto salga del hospital iré a una comisaría a ampliar mi denuncia contra este acosador. No puedo más.",
+      "url": "https://nitter.net/SarahPerezSanta/status/2028557892920508710#m",
+      "date": "Mon, 02 Mar 2026 19:47:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCbipQXW8AAfzrF.jpg",
+        "https://nitter.net/pic/media%2FHCbipQfXYAAgeas.jpg"
+      ]
+    },
+    {
+      "id": "519e4c308f8def00a3e9631f9f0e9b04fe4214c1aa7563df89e32897790f2cd1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12. Video",
+      "text": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12. Video",
       "url": "https://nitter.net/ScaryMovie/status/2028471075298775098#m",
       "date": "Mon, 02 Mar 2026 14:02:46 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCXWDyWXYAAC5b_.jpg"
+      ]
     },
     {
       "id": "1388e90adf3828b9d548800071ba3fb06a0ece1b5416c5831b2f8a3e86061c80",
@@ -308,7 +353,9 @@
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCb7jRzbAAA-NHZ.jpg"
+        "https://nitter.net/pic/media%2FHCb7jQaawAA8V0y.jpg",
+        "https://nitter.net/pic/media%2FHCb7jRzbAAA-NHZ.jpg",
+        "https://nitter.net/pic/media%2FHCb7jUaboAAsmI5.jpg"
       ]
     },
     {
@@ -337,35 +384,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCb4rXvWoAAt_F1.jpg"
-      ]
-    },
-    {
-      "id": "5182ea448f05b9dc66d640b9541623fa947c012e656b23c57f00c0945aea954d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "There’s another pandaman waving his hands in the glass of wine!!!",
-      "text": "There’s another pandaman waving his hands in the glass of wine!!!",
-      "url": "https://nitter.net/SeaOfWills/status/2028574330989256779#m",
-      "date": "Mon, 02 Mar 2026 20:53:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8f0a34f60aa3490d916e625cea5fc3617662cd3607d32b67bf30739a7405c0df",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece",
-      "text": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece que supera los 3.000.000 de ejemplares en su 1ª edición 🤯🤯🤯 SHOHEI (@shouhei1011) ONE PIECE 114巻 — https://nitter.net/shouhei1011/status/2028560540054979033#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2028575259272917248#m",
-      "date": "Mon, 02 Mar 2026 20:56:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCbyRuiW0AAbz6F.jpg",
-        "https://nitter.net/pic/media%2FHCblDRDakAAeMUo.jpg"
       ]
     },
     {
@@ -445,6 +463,21 @@
       ]
     },
     {
+      "id": "8a6e17c3f65d5967cc604569ddd98c827b82ac250db34ae2661eaa3585da8101",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028595487226364136#m",
+      "date": "Mon, 02 Mar 2026 22:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcE2GEXsAENfxk.jpg"
+      ]
+    },
+    {
       "id": "c366f2aa43cb7d3ca48bc0c0421eab08077e10fb67db7cf5d3eccdd0d1baf658",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -517,21 +550,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCZ7hClXEAAeZsx.jpg"
-      ]
-    },
-    {
-      "id": "3dacfd388efea7a85ce31a58831c6d51a008459ab57b9a8b274ea96efb7b3826",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028414291485884821#m",
-      "date": "Mon, 02 Mar 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCZgDKwX0AA0gSF.jpg"
       ]
     }
   ]
