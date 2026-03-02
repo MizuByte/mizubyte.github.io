@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T21:28:46.405Z",
+  "generatedAt": "2026-03-02T22:03:46.645Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -17,6 +17,91 @@
     }
   ],
   "misc": [
+    {
+      "id": "c73f65d158206df077dae563e4c2db89305ee96c7d8ae7fed9a4f19d022e9a43",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
+      "text": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
+      "url": "https://nitter.net/ScaryMovie/status/2028471075298775098#m",
+      "date": "Mon, 02 Mar 2026 14:02:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1388e90adf3828b9d548800071ba3fb06a0ece1b5416c5831b2f8a3e86061c80",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "So far i have found three pandamen",
+      "text": "So far i have found three pandamen",
+      "url": "https://nitter.net/FearM1ndKller/status/2028585268786397628#m",
+      "date": "Mon, 02 Mar 2026 21:36:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCb7jRzbAAA-NHZ.jpg"
+      ]
+    },
+    {
+      "id": "f50bfc14986b3dfec7f13df3bdcd29af2625b563706011238292ca7cc022905f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hay varios pandmans está vez, así que seguramente el que se quema también lo es",
+      "text": "Hay varios pandmans está vez, así que seguramente el que se quema también lo es",
+      "url": "https://nitter.net/Kovuviw/status/2028585704356294723#m",
+      "date": "Mon, 02 Mar 2026 21:38:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b98e7a228f63ccac9127915585014f7b6b820d25b1cda85d304841914d4a0627",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡El Volumen 114 de One Piece también ha anunciado el “2º Ranking Mundial de Popularidad de personajes” de One Piece 😍😍😍😍😍!! En las próximas horas conoceremos las fechas y el método que usarán pa",
+      "text": "¡¡El Volumen 114 de One Piece también ha anunciado el “2º Ranking Mundial de Popularidad de personajes” de One Piece 😍😍😍😍😍!! En las próximas horas conoceremos las fechas y el método que usarán para las votaciones. ¿Quién será el personaje más popular en esta ocasión 😮😮😮?",
+      "url": "https://nitter.net/Mugiwara_23/status/2028582354365640851#m",
+      "date": "Mon, 02 Mar 2026 21:24:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCb4rXvWoAAt_F1.jpg"
+      ]
+    },
+    {
+      "id": "5182ea448f05b9dc66d640b9541623fa947c012e656b23c57f00c0945aea954d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "There’s another pandaman waving his hands in the glass of wine!!!",
+      "text": "There’s another pandaman waving his hands in the glass of wine!!!",
+      "url": "https://nitter.net/SeaOfWills/status/2028574330989256779#m",
+      "date": "Mon, 02 Mar 2026 20:53:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8f0a34f60aa3490d916e625cea5fc3617662cd3607d32b67bf30739a7405c0df",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece",
+      "text": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece que supera los 3.000.000 de ejemplares en su 1ª edición 🤯🤯🤯 SHOHEI (@shouhei1011) ONE PIECE 114巻 — https://nitter.net/shouhei1011/status/2028560540054979033#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2028575259272917248#m",
+      "date": "Mon, 02 Mar 2026 20:56:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCbyRuiW0AAbz6F.jpg",
+        "https://nitter.net/pic/media%2FHCblDRDakAAeMUo.jpg"
+      ]
+    },
     {
       "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
       "anime": "boruto",
@@ -197,6 +282,91 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "c73f65d158206df077dae563e4c2db89305ee96c7d8ae7fed9a4f19d022e9a43",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
+      "text": "We’re baaaaaack. Watch the official trailer for the new #ScaryMovie - only in theatres June 12.",
+      "url": "https://nitter.net/ScaryMovie/status/2028471075298775098#m",
+      "date": "Mon, 02 Mar 2026 14:02:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1388e90adf3828b9d548800071ba3fb06a0ece1b5416c5831b2f8a3e86061c80",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "So far i have found three pandamen",
+      "text": "So far i have found three pandamen",
+      "url": "https://nitter.net/FearM1ndKller/status/2028585268786397628#m",
+      "date": "Mon, 02 Mar 2026 21:36:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCb7jRzbAAA-NHZ.jpg"
+      ]
+    },
+    {
+      "id": "f50bfc14986b3dfec7f13df3bdcd29af2625b563706011238292ca7cc022905f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hay varios pandmans está vez, así que seguramente el que se quema también lo es",
+      "text": "Hay varios pandmans está vez, así que seguramente el que se quema también lo es",
+      "url": "https://nitter.net/Kovuviw/status/2028585704356294723#m",
+      "date": "Mon, 02 Mar 2026 21:38:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b98e7a228f63ccac9127915585014f7b6b820d25b1cda85d304841914d4a0627",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡El Volumen 114 de One Piece también ha anunciado el “2º Ranking Mundial de Popularidad de personajes” de One Piece 😍😍😍😍😍!! En las próximas horas conoceremos las fechas y el método que usarán pa",
+      "text": "¡¡El Volumen 114 de One Piece también ha anunciado el “2º Ranking Mundial de Popularidad de personajes” de One Piece 😍😍😍😍😍!! En las próximas horas conoceremos las fechas y el método que usarán para las votaciones. ¿Quién será el personaje más popular en esta ocasión 😮😮😮?",
+      "url": "https://nitter.net/Mugiwara_23/status/2028582354365640851#m",
+      "date": "Mon, 02 Mar 2026 21:24:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCb4rXvWoAAt_F1.jpg"
+      ]
+    },
+    {
+      "id": "5182ea448f05b9dc66d640b9541623fa947c012e656b23c57f00c0945aea954d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "There’s another pandaman waving his hands in the glass of wine!!!",
+      "text": "There’s another pandaman waving his hands in the glass of wine!!!",
+      "url": "https://nitter.net/SeaOfWills/status/2028574330989256779#m",
+      "date": "Mon, 02 Mar 2026 20:53:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8f0a34f60aa3490d916e625cea5fc3617662cd3607d32b67bf30739a7405c0df",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece",
+      "text": "¡¡El obi del Volumen 114 de One Piece anuncia que la serie ha superado los 600.000.000 de ejemplares impresos a nivel mundial 🥳🎉🍾!! Además, el Volumen 114 es el 58º Volumen consecutivo de One Piece que supera los 3.000.000 de ejemplares en su 1ª edición 🤯🤯🤯 SHOHEI (@shouhei1011) ONE PIECE 114巻 — https://nitter.net/shouhei1011/status/2028560540054979033#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2028575259272917248#m",
+      "date": "Mon, 02 Mar 2026 20:56:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCbyRuiW0AAbz6F.jpg",
+        "https://nitter.net/pic/media%2FHCblDRDakAAeMUo.jpg"
+      ]
     },
     {
       "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
