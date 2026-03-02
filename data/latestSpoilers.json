@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T17:31:32.209Z",
+  "generatedAt": "2026-03-02T18:27:03.748Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -118,10 +118,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
       "date": "Mon, 02 Mar 2026 11:30:08 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5e6577928025af16f4d73b1ea935ff0874e5fa12a0d40ab013a7a29989fcac78",
@@ -140,12 +138,12 @@
       ]
     },
     {
-      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
+      "id": "63af4524ef089375a97744bf6c61420196c22dc5711eeccba72cb5dd86509725",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
-      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
+      "title": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/202793266797",
+      "text": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/2027932667975516639#m",
       "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
       "date": "Sun, 01 Mar 2026 07:52:26 GMT",
       "isSpoiler": false,
@@ -160,7 +158,7 @@
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Command",
-      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a formal cooperation agreement, expanding collaboration—a major milestone in the strategic partnership between Israel and Germany. Together, we stand ready to confront shared challenges and deepen our military cooperation for the future. — https://nitter.net/IDF/status/2024762807149854959#m",
+      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a — https://nitter.net/IDF/status/2024762807149854959#m",
       "url": "https://nitter.net/SchmurfiV1/status/2024846547565908356#m",
       "date": "Fri, 20 Feb 2026 14:00:11 GMT",
       "isSpoiler": false,
@@ -182,6 +180,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBidsERWsAA5XDC.jpg"
+      ]
+    },
+    {
+      "id": "fed3f1dee4655ad1c8986774da8d2b6674b1045d3566dce73b3132230e18ca10",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028535088548299120#m",
+      "date": "Mon, 02 Mar 2026 18:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCbN6dGXUAAQtkC.jpg"
       ]
     },
     {
@@ -257,21 +270,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCZElRma4AApyKE.jpg"
-      ]
-    },
-    {
-      "id": "3820b59ceb8105fa452c07f9502020c74422eeecb0055684b240e1d7c4d70829",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028353892895867119#m",
-      "date": "Mon, 02 Mar 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYpHdzWEAAeA8r.jpg"
       ]
     }
   ],
@@ -390,10 +388,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
       "date": "Mon, 02 Mar 2026 11:30:08 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5e6577928025af16f4d73b1ea935ff0874e5fa12a0d40ab013a7a29989fcac78",
@@ -412,12 +408,12 @@
       ]
     },
     {
-      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
+      "id": "63af4524ef089375a97744bf6c61420196c22dc5711eeccba72cb5dd86509725",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
-      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
+      "title": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/202793266797",
+      "text": "OROCHIMARU DIED!!! #NARUTO (@) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/i/status/2027932667975516639#m",
       "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
       "date": "Sun, 01 Mar 2026 07:52:26 GMT",
       "isSpoiler": false,
@@ -432,7 +428,7 @@
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Command",
-      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a formal cooperation agreement, expanding collaboration—a major milestone in the strategic partnership between Israel and Germany. Together, we stand ready to confront shared challenges and deepen our military cooperation for the future. — https://nitter.net/IDF/status/2024762807149854959#m",
+      "text": "I am ashamed of my country. What the fuck are y‘all doing??????? Israel Defense Forces (@IDF) 🇮🇱🤝🇩🇪 Deepening Military Ties: Commander of the German Army concludes his visit to Israel The Commander of the German Army, LTG Christian Freuding, concluded a visit to Israel, hosted by MG Nadav Lotan, Commander of the IDF Ground Forces. For the first time, the two signed a — https://nitter.net/IDF/status/2024762807149854959#m",
       "url": "https://nitter.net/SchmurfiV1/status/2024846547565908356#m",
       "date": "Fri, 20 Feb 2026 14:00:11 GMT",
       "isSpoiler": false,
@@ -454,6 +450,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHBidsERWsAA5XDC.jpg"
+      ]
+    },
+    {
+      "id": "fed3f1dee4655ad1c8986774da8d2b6674b1045d3566dce73b3132230e18ca10",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028535088548299120#m",
+      "date": "Mon, 02 Mar 2026 18:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCbN6dGXUAAQtkC.jpg"
       ]
     },
     {
@@ -529,21 +540,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCZElRma4AApyKE.jpg"
-      ]
-    },
-    {
-      "id": "3820b59ceb8105fa452c07f9502020c74422eeecb0055684b240e1d7c4d70829",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028353892895867119#m",
-      "date": "Mon, 02 Mar 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYpHdzWEAAeA8r.jpg"
       ]
     }
   ]
