@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T23:46:01.250Z",
+  "generatedAt": "2026-03-03T00:02:11.755Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,17 +18,19 @@
   ],
   "misc": [
     {
-      "id": "3d1c7dba6e64a00aed524f30d39b872605b5aad8c65bc95b22ca64cb43543da4",
+      "id": "626106484c5b48e9ee0362999ef6a594b3e38027b0184c7a3b8ab0266f5abe6e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: #麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind… htt…",
-      "text": "RT @OPcom_info: #麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind… htt…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028607900474642615#m",
-      "date": "Mon, 02 Mar 2026 23:06:27 GMT",
+      "title": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
+      "text": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
+      "url": "https://nitter.net/OPcom_info/status/2028606644423410164#m",
+      "date": "Mon, 02 Mar 2026 23:01:28 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcO_bcacAArTDc.jpg"
+      ]
     },
     {
       "id": "3a3b9151e86bc05d317bf20eb1c0b5007cb4a89dbcc80fdca40cf12820d0bce8",
@@ -294,17 +296,19 @@
       "attachments": []
     },
     {
-      "id": "3d1c7dba6e64a00aed524f30d39b872605b5aad8c65bc95b22ca64cb43543da4",
+      "id": "626106484c5b48e9ee0362999ef6a594b3e38027b0184c7a3b8ab0266f5abe6e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: #麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind… htt…",
-      "text": "RT @OPcom_info: #麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind… htt…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028607900474642615#m",
-      "date": "Mon, 02 Mar 2026 23:06:27 GMT",
+      "title": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
+      "text": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
+      "url": "https://nitter.net/OPcom_info/status/2028606644423410164#m",
+      "date": "Mon, 02 Mar 2026 23:01:28 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcO_bcacAArTDc.jpg"
+      ]
     },
     {
       "id": "3a3b9151e86bc05d317bf20eb1c0b5007cb4a89dbcc80fdca40cf12820d0bce8",
