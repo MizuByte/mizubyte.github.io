@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-03-03T07:31:40.505Z",
+  "generatedAt": "2026-03-03T08:22:56.010Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "438073fa97ab06f9cd9b29a2c55c31a1d6fe6a9151ed62abfbf8ce1e12fc8a52",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/snoopyb047/status/2028632804477514236#m",
-      "date": "Tue, 03 Mar 2026 00:45:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCcmyQnWoAAMuI8.jpg"
-      ]
-    },
     {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
@@ -33,6 +18,22 @@
   ],
   "misc": [
     {
+      "id": "76add221df0b7199be8f4f348f9c5c84f3ebcb77caf9072f5775559349a09c96",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE The Sabre of Xebec is named “Eclipse”… Blackbeard is the man who has become darkness trying to block out the Sun 🔥 Pew (@pewpiece) SBS 114 Oda confirmed that the name of Rocks’ sword is “Ec",
+      "text": "#ONEPIECE The Sabre of Xebec is named “Eclipse”… Blackbeard is the man who has become darkness trying to block out the Sun 🔥 Pew (@pewpiece) SBS 114 Oda confirmed that the name of Rocks’ sword is “Eclipse.” 🔥🔥🔥 — https://nitter.net/pewpiece/status/2028637551871832153#m",
+      "url": "https://nitter.net/Buggy/status/2028639326293107127#m",
+      "date": "Tue, 03 Mar 2026 01:11:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcstxHa8AA-yVN.jpg",
+        "https://nitter.net/pic/media%2FHCcq5R0XwAENvlW.png"
+      ]
+    },
+    {
       "id": "dff89b358ebbb2707f8660c2f96167dd2674c1e59d0e58356d711b91af430fd7",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -103,99 +104,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCb1m0MXUAAceME.jpg"
-      ]
-    },
-    {
-      "id": "6da40d8fa786daefb04fb62875a598bf26c2b6a86863e9d2eb5bfeb5aa0fbb7e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFFICIAL: 🚨🚨🚨 The 2nd Worldwide ONE PIECE Character Popularity Poll “WORLD TOP 100\" has officially been confirmed",
-      "text": "OFFICIAL: 🚨🚨🚨 The 2nd Worldwide ONE PIECE Character Popularity Poll “WORLD TOP 100\" has officially been confirmed",
-      "url": "https://nitter.net/pewpiece/status/2028583777258115201#m",
-      "date": "Mon, 02 Mar 2026 21:30:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCb6I97WoAA9NpT.jpg"
-      ]
-    },
-    {
-      "id": "bad2a5e862e31134cc2d98078c60443f7077921a542f3631ac717f82fd02f26e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
-      "text": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
-      "url": "https://nitter.net/distritomangaED/status/2028515365286797791#m",
-      "date": "Mon, 02 Mar 2026 16:58:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028514049097424897%2Fimg%2FCzb_mPDloBzjmAjB.jpg"
-      ]
-    },
-    {
-      "id": "8ebef95f1a131b8239c334796a5686fee5dcb2a18c73226d6b8ca714dba61700",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
-      "text": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
-      "url": "https://nitter.net/BlancetRenoir/status/2028691594870943755#m",
-      "date": "Tue, 03 Mar 2026 04:39:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdcOxVawAAeMyi.jpg",
-        "https://nitter.net/pic/media%2FHCdcOxha8AEfRlk.jpg",
-        "https://nitter.net/pic/media%2FHCdcOxXbkAANWRP.jpg",
-        "https://nitter.net/pic/media%2FHCdcOxYagAArLQ4.jpg"
-      ]
-    },
-    {
-      "id": "74f07fab4e5b30cf20cda2c6973e279421a91c12552bc5561ad4526b8c49daf2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
-      "text": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
-      "url": "https://nitter.net/norashitagai/status/2028673585871765696#m",
-      "date": "Tue, 03 Mar 2026 03:27:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdLx3xbcAAoN-n.jpg",
-        "https://nitter.net/pic/media%2FHCdLx3qaoAEJs6Q.jpg",
-        "https://nitter.net/pic/media%2FHCdLx3vbYAA1D3o.jpg"
-      ]
-    },
-    {
-      "id": "83438e2c4f573449505b6a97acdc721130a8884d6c2bcad7bea7bb9691d9baac",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
-      "text": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028731808884351037#m",
-      "date": "Tue, 03 Mar 2026 07:18:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "04c28231bb8ff6469f74b6bef9ff2f7302e819974807db3155c9fc82a08e9420",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
-      "text": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2028610284970233912#m",
-      "date": "Mon, 02 Mar 2026 23:15:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCcSS6makAAeeQ5.jpg"
       ]
     },
     {
@@ -275,6 +183,21 @@
       ]
     },
     {
+      "id": "95602dcc994d2c6cec66010b7011a65b63f5bbfae81bf0be51a369c5d7c1a084",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028746479733490175#m",
+      "date": "Tue, 03 Mar 2026 08:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCeOLCvWoAAsd0f.jpg"
+      ]
+    },
+    {
       "id": "07ae8dd7a2f55e12b45d530f9b58561abaacfba133562f132e98538eb232fd6a",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -333,24 +256,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCcgTpQWwAEOQmc.jpg"
       ]
+    },
+    {
+      "id": "8a6e17c3f65d5967cc604569ddd98c827b82ac250db34ae2661eaa3585da8101",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028595487226364136#m",
+      "date": "Mon, 02 Mar 2026 22:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcE2GEXsAENfxk.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "438073fa97ab06f9cd9b29a2c55c31a1d6fe6a9151ed62abfbf8ce1e12fc8a52",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/snoopyb047/status/2028632804477514236#m",
-      "date": "Tue, 03 Mar 2026 00:45:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCcmyQnWoAAMuI8.jpg"
-      ]
-    },
     {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
@@ -365,6 +288,22 @@
       "attachments": []
     },
     {
+      "id": "76add221df0b7199be8f4f348f9c5c84f3ebcb77caf9072f5775559349a09c96",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE The Sabre of Xebec is named “Eclipse”… Blackbeard is the man who has become darkness trying to block out the Sun 🔥 Pew (@pewpiece) SBS 114 Oda confirmed that the name of Rocks’ sword is “Ec",
+      "text": "#ONEPIECE The Sabre of Xebec is named “Eclipse”… Blackbeard is the man who has become darkness trying to block out the Sun 🔥 Pew (@pewpiece) SBS 114 Oda confirmed that the name of Rocks’ sword is “Eclipse.” 🔥🔥🔥 — https://nitter.net/pewpiece/status/2028637551871832153#m",
+      "url": "https://nitter.net/Buggy/status/2028639326293107127#m",
+      "date": "Tue, 03 Mar 2026 01:11:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcstxHa8AA-yVN.jpg",
+        "https://nitter.net/pic/media%2FHCcq5R0XwAENvlW.png"
+      ]
+    },
+    {
       "id": "dff89b358ebbb2707f8660c2f96167dd2674c1e59d0e58356d711b91af430fd7",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -435,99 +374,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCb1m0MXUAAceME.jpg"
-      ]
-    },
-    {
-      "id": "6da40d8fa786daefb04fb62875a598bf26c2b6a86863e9d2eb5bfeb5aa0fbb7e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFFICIAL: 🚨🚨🚨 The 2nd Worldwide ONE PIECE Character Popularity Poll “WORLD TOP 100\" has officially been confirmed",
-      "text": "OFFICIAL: 🚨🚨🚨 The 2nd Worldwide ONE PIECE Character Popularity Poll “WORLD TOP 100\" has officially been confirmed",
-      "url": "https://nitter.net/pewpiece/status/2028583777258115201#m",
-      "date": "Mon, 02 Mar 2026 21:30:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCb6I97WoAA9NpT.jpg"
-      ]
-    },
-    {
-      "id": "bad2a5e862e31134cc2d98078c60443f7077921a542f3631ac717f82fd02f26e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
-      "text": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
-      "url": "https://nitter.net/distritomangaED/status/2028515365286797791#m",
-      "date": "Mon, 02 Mar 2026 16:58:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028514049097424897%2Fimg%2FCzb_mPDloBzjmAjB.jpg"
-      ]
-    },
-    {
-      "id": "8ebef95f1a131b8239c334796a5686fee5dcb2a18c73226d6b8ca714dba61700",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
-      "text": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
-      "url": "https://nitter.net/BlancetRenoir/status/2028691594870943755#m",
-      "date": "Tue, 03 Mar 2026 04:39:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdcOxVawAAeMyi.jpg",
-        "https://nitter.net/pic/media%2FHCdcOxha8AEfRlk.jpg",
-        "https://nitter.net/pic/media%2FHCdcOxXbkAANWRP.jpg",
-        "https://nitter.net/pic/media%2FHCdcOxYagAArLQ4.jpg"
-      ]
-    },
-    {
-      "id": "74f07fab4e5b30cf20cda2c6973e279421a91c12552bc5561ad4526b8c49daf2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
-      "text": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
-      "url": "https://nitter.net/norashitagai/status/2028673585871765696#m",
-      "date": "Tue, 03 Mar 2026 03:27:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdLx3xbcAAoN-n.jpg",
-        "https://nitter.net/pic/media%2FHCdLx3qaoAEJs6Q.jpg",
-        "https://nitter.net/pic/media%2FHCdLx3vbYAA1D3o.jpg"
-      ]
-    },
-    {
-      "id": "83438e2c4f573449505b6a97acdc721130a8884d6c2bcad7bea7bb9691d9baac",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
-      "text": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028731808884351037#m",
-      "date": "Tue, 03 Mar 2026 07:18:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "04c28231bb8ff6469f74b6bef9ff2f7302e819974807db3155c9fc82a08e9420",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
-      "text": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2028610284970233912#m",
-      "date": "Mon, 02 Mar 2026 23:15:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCcSS6makAAeeQ5.jpg"
       ]
     },
     {
@@ -607,6 +453,21 @@
       ]
     },
     {
+      "id": "95602dcc994d2c6cec66010b7011a65b63f5bbfae81bf0be51a369c5d7c1a084",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028746479733490175#m",
+      "date": "Tue, 03 Mar 2026 08:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCeOLCvWoAAsd0f.jpg"
+      ]
+    },
+    {
       "id": "07ae8dd7a2f55e12b45d530f9b58561abaacfba133562f132e98538eb232fd6a",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -664,6 +525,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCcgTpQWwAEOQmc.jpg"
+      ]
+    },
+    {
+      "id": "8a6e17c3f65d5967cc604569ddd98c827b82ac250db34ae2661eaa3585da8101",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028595487226364136#m",
+      "date": "Mon, 02 Mar 2026 22:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcE2GEXsAENfxk.jpg"
       ]
     }
   ]
