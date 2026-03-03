@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T17:30:55.436Z",
+  "generatedAt": "2026-03-03T18:29:40.001Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,37 +31,9 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "b95f90baba0dccf893097b5e037f53c6d0fa5e14a7bfb28add545b241968ba93",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, no",
-      "text": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, nor that the remaining Beast Pirates tore it down out of spite.",
-      "url": "https://nitter.net/DawnStussy/status/2028848148282814476#m",
-      "date": "Tue, 03 Mar 2026 15:01:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfqodPakAA2bXE.jpg"
-      ]
     }
   ],
   "misc": [
-    {
-      "id": "b5f1d809c0c364ccfff424a18291a098214d930264f8a3a10816f068234d416f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
-      "text": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
-      "url": "https://nitter.net/WorstGenHQ/status/2028873625902682624#m",
-      "date": "Tue, 03 Mar 2026 16:42:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
     {
       "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
       "anime": "onepiece",
@@ -76,6 +48,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
       ]
+    },
+    {
+      "id": "b5f1d809c0c364ccfff424a18291a098214d930264f8a3a10816f068234d416f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
+      "text": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
+      "url": "https://nitter.net/WorstGenHQ/status/2028873625902682624#m",
+      "date": "Tue, 03 Mar 2026 16:42:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "3805cc920e2e6db246c0983fae713f27b473e15d2a561b164157384df1a10fc7",
@@ -108,79 +93,18 @@
       ]
     },
     {
-      "id": "c936194f48b3841759e7bb0d28490f5a0cba1f6bb2859779e33c7bf2c288cfb2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "All One Piece fans feel like Luffy in this Volume cover!! We want to go in search of the treasure Eiichiro Oda left at the bottom of the sea 😍😍😍😍😍 ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) “",
-      "text": "All One Piece fans feel like Luffy in this Volume cover!! We want to go in search of the treasure Eiichiro Oda left at the bottom of the sea 😍😍😍😍😍 ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) “ONE PIECE” The 600 Million Milestone: What is the ONE PIECE?​ At last, its secret has been inscribed on paper.​ ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部 — https://nitter.net/Eiichiro_Staff/status/2028847965817987183#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2028879909074895068#m",
-      "date": "Tue, 03 Mar 2026 17:07:19 GMT",
+      "id": "3761c8881f96fc637208639ccfeaa50dccfa7af7eeb1d9fa69ade49ba23d98d2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028897472370672007#m",
+      "date": "Tue, 03 Mar 2026 18:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCgHhQHagAArD03.jpg",
-        "https://nitter.net/pic/media%2FHCfqeEEaUAA8zq8.jpg"
-      ]
-    },
-    {
-      "id": "09fc6a199bd452c3d54e09e283be3509a5284b9a382abdfdbd025ef5793c7f99",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【🚨Correction in the Volume Edition】 Before: “Let’s have Katakuri eat it.” After: “Let’s have Perospero eat it.” Since it was already revealed in the Vivre Card that Katakuri had eaten the Mochi Mochi",
-      "text": "【🚨Correction in the Volume Edition】 Before: “Let’s have Katakuri eat it.” After: “Let’s have Perospero eat it.” Since it was already revealed in the Vivre Card that Katakuri had eaten the Mochi Mochi no Mi 43 years ago, this correction makes perfect sense. By the way, the God Valley Incident took place 38 years ago.",
-      "url": "https://nitter.net/DawnStussy/status/2028847940140437536#m",
-      "date": "Tue, 03 Mar 2026 15:00:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfqcduagAAvPRY.jpg"
-      ]
-    },
-    {
-      "id": "67706246b872832ab632bb84c2c0e3642d4c7625bb1bfbe7dde2924d2291137f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
-      "url": "https://nitter.net/angelluis184/status/2028869887968395701#m",
-      "date": "Tue, 03 Mar 2026 16:27:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849972804825088%2F4eby_NUM%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "e7a2691139aa7819dee2c2baf712eb17789ef077d1f89fb063380555e88d7058",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¿Suficientes juegos? Hay que sumar las ediciones limitadas de Emio y Everlasting Flowers... Creo que todavía puede caer alguno más xD",
-      "text": "¿Suficientes juegos? Hay que sumar las ediciones limitadas de Emio y Everlasting Flowers... Creo que todavía puede caer alguno más xD",
-      "url": "https://nitter.net/chusetto/status/2028868013902979285#m",
-      "date": "Tue, 03 Mar 2026 16:20:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCf8rMzaIAAejgT.jpg"
-      ]
-    },
-    {
-      "id": "40d8311ccdd50d34f2b594803c3c8ee7435a6d6212be88488d6376866969668a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4",
-      "text": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4 – June 11, 2026 (JST) 🎥 Official PV: piped.video/8xa3IHk688M #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2028863632889504184#m",
-      "date": "Tue, 03 Mar 2026 16:02:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCf4uHJWYAASzdv.jpg"
+        "https://nitter.net/pic/media%2FHCgXf9_aUAA1SEf.jpg"
       ]
     },
     {
@@ -256,21 +180,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCeOLCvWoAAsd0f.jpg"
-      ]
-    },
-    {
-      "id": "07ae8dd7a2f55e12b45d530f9b58561abaacfba133562f132e98538eb232fd6a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028716280430100643#m",
-      "date": "Tue, 03 Mar 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdytNIWwAAZIMK.jpg"
       ]
     }
   ],
@@ -306,18 +215,18 @@
       "attachments": []
     },
     {
-      "id": "b95f90baba0dccf893097b5e037f53c6d0fa5e14a7bfb28add545b241968ba93",
+      "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, no",
-      "text": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, nor that the remaining Beast Pirates tore it down out of spite.",
-      "url": "https://nitter.net/DawnStussy/status/2028848148282814476#m",
-      "date": "Tue, 03 Mar 2026 15:01:07 GMT",
-      "isSpoiler": true,
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlin",
+      "text": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlinidc @tea_with_hunny @KHDLuffy @OgHumanTripod Pew (@pewpiece) BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends. — https://nitter.net/pewpiece/status/2028850357707681955#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2028869934776828302#m",
+      "date": "Tue, 03 Mar 2026 16:27:41 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCfqodPakAA2bXE.jpg"
+        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
       ]
     },
     {
@@ -332,21 +241,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlin",
-      "text": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlinidc @tea_with_hunny @KHDLuffy @OgHumanTripod Pew (@pewpiece) BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends. — https://nitter.net/pewpiece/status/2028850357707681955#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2028869934776828302#m",
-      "date": "Tue, 03 Mar 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
-      ]
     },
     {
       "id": "3805cc920e2e6db246c0983fae713f27b473e15d2a561b164157384df1a10fc7",
@@ -379,79 +273,18 @@
       ]
     },
     {
-      "id": "c936194f48b3841759e7bb0d28490f5a0cba1f6bb2859779e33c7bf2c288cfb2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "All One Piece fans feel like Luffy in this Volume cover!! We want to go in search of the treasure Eiichiro Oda left at the bottom of the sea 😍😍😍😍😍 ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) “",
-      "text": "All One Piece fans feel like Luffy in this Volume cover!! We want to go in search of the treasure Eiichiro Oda left at the bottom of the sea 😍😍😍😍😍 ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) “ONE PIECE” The 600 Million Milestone: What is the ONE PIECE?​ At last, its secret has been inscribed on paper.​ ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部 — https://nitter.net/Eiichiro_Staff/status/2028847965817987183#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2028879909074895068#m",
-      "date": "Tue, 03 Mar 2026 17:07:19 GMT",
+      "id": "3761c8881f96fc637208639ccfeaa50dccfa7af7eeb1d9fa69ade49ba23d98d2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028897472370672007#m",
+      "date": "Tue, 03 Mar 2026 18:17:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCgHhQHagAArD03.jpg",
-        "https://nitter.net/pic/media%2FHCfqeEEaUAA8zq8.jpg"
-      ]
-    },
-    {
-      "id": "09fc6a199bd452c3d54e09e283be3509a5284b9a382abdfdbd025ef5793c7f99",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【🚨Correction in the Volume Edition】 Before: “Let’s have Katakuri eat it.” After: “Let’s have Perospero eat it.” Since it was already revealed in the Vivre Card that Katakuri had eaten the Mochi Mochi",
-      "text": "【🚨Correction in the Volume Edition】 Before: “Let’s have Katakuri eat it.” After: “Let’s have Perospero eat it.” Since it was already revealed in the Vivre Card that Katakuri had eaten the Mochi Mochi no Mi 43 years ago, this correction makes perfect sense. By the way, the God Valley Incident took place 38 years ago.",
-      "url": "https://nitter.net/DawnStussy/status/2028847940140437536#m",
-      "date": "Tue, 03 Mar 2026 15:00:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfqcduagAAvPRY.jpg"
-      ]
-    },
-    {
-      "id": "67706246b872832ab632bb84c2c0e3642d4c7625bb1bfbe7dde2924d2291137f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
-      "url": "https://nitter.net/angelluis184/status/2028869887968395701#m",
-      "date": "Tue, 03 Mar 2026 16:27:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849972804825088%2F4eby_NUM%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "e7a2691139aa7819dee2c2baf712eb17789ef077d1f89fb063380555e88d7058",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¿Suficientes juegos? Hay que sumar las ediciones limitadas de Emio y Everlasting Flowers... Creo que todavía puede caer alguno más xD",
-      "text": "¿Suficientes juegos? Hay que sumar las ediciones limitadas de Emio y Everlasting Flowers... Creo que todavía puede caer alguno más xD",
-      "url": "https://nitter.net/chusetto/status/2028868013902979285#m",
-      "date": "Tue, 03 Mar 2026 16:20:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCf8rMzaIAAejgT.jpg"
-      ]
-    },
-    {
-      "id": "40d8311ccdd50d34f2b594803c3c8ee7435a6d6212be88488d6376866969668a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4",
-      "text": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4 – June 11, 2026 (JST) 🎥 Official PV: piped.video/8xa3IHk688M #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2028863632889504184#m",
-      "date": "Tue, 03 Mar 2026 16:02:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCf4uHJWYAASzdv.jpg"
+        "https://nitter.net/pic/media%2FHCgXf9_aUAA1SEf.jpg"
       ]
     },
     {
@@ -527,21 +360,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCeOLCvWoAAsd0f.jpg"
-      ]
-    },
-    {
-      "id": "07ae8dd7a2f55e12b45d530f9b58561abaacfba133562f132e98538eb232fd6a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028716280430100643#m",
-      "date": "Tue, 03 Mar 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdytNIWwAAZIMK.jpg"
       ]
     }
   ]
