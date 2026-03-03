@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-03-03T21:29:34.928Z",
+  "generatedAt": "2026-03-03T22:01:58.241Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "b95f90baba0dccf893097b5e037f53c6d0fa5e14a7bfb28add545b241968ba93",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, no",
-      "text": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, nor that the remaining Beast Pirates tore it down out of spite.",
-      "url": "https://nitter.net/DawnStussy/status/2028848148282814476#m",
-      "date": "Tue, 03 Mar 2026 15:01:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfqodPakAA2bXE.jpg"
-      ]
-    },
     {
       "id": "298610a333a14345af27d60176369633d967ca1ef428dfe80dd198779b6eabf7",
       "anime": "onepiece",
@@ -35,20 +20,93 @@
       ]
     },
     {
-      "id": "77ee1e66c44af2130ed0b609a1f92b891e7370e15580cc6078b8bffd8e891101",
+      "id": "b95f90baba0dccf893097b5e037f53c6d0fa5e14a7bfb28add545b241968ba93",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1176 Loved the strawhats this chapter, some good stuff :)",
-      "text": "#ONEPIECE1176 Loved the strawhats this chapter, some good stuff :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2028854185190445196#m",
-      "date": "Tue, 03 Mar 2026 15:25:06 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, no",
+      "text": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, nor that the remaining Beast Pirates tore it down out of spite.",
+      "url": "https://nitter.net/DawnStussy/status/2028848148282814476#m",
+      "date": "Tue, 03 Mar 2026 15:01:07 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfqodPakAA2bXE.jpg"
+      ]
     }
   ],
   "misc": [
+    {
+      "id": "f635957286b45bd676650b6dfdfe976db47b4872bd866d885fb0ad0a2f42e2f2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I hope people understand now why I said Zoro vs Sommers might happen. There are no more options left. One scenario might be maybe DR Loki(if Oda really wants it) vs Luffy and Zoro, but im not sure, de",
+      "text": "I hope people understand now why I said Zoro vs Sommers might happen. There are no more options left. One scenario might be maybe DR Loki(if Oda really wants it) vs Luffy and Zoro, but im not sure, depends if Sommers shows up again or not.",
+      "url": "https://nitter.net/WorstGenHQ/status/2028949619728638273#m",
+      "date": "Tue, 03 Mar 2026 21:44:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3bc5cc571993c5dd8a1f3696adb2725559dbae09f6c169a48bdffc6c50c2f8fb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 THEY ARE BACK!! 🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1176 THEY ARE BACK!! 🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2028946832525607411#m",
+      "date": "Tue, 03 Mar 2026 21:33:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHChEGvTXsAIspB1.jpg"
+      ]
+    },
+    {
+      "id": "b5f1d809c0c364ccfff424a18291a098214d930264f8a3a10816f068234d416f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
+      "text": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
+      "url": "https://nitter.net/WorstGenHQ/status/2028873625902682624#m",
+      "date": "Tue, 03 Mar 2026 16:42:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlin",
+      "text": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlinidc @tea_with_hunny @KHDLuffy @OgHumanTripod Pew (@pewpiece) BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends. — https://nitter.net/pewpiece/status/2028850357707681955#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2028869934776828302#m",
+      "date": "Tue, 03 Mar 2026 16:27:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
+      ]
+    },
+    {
+      "id": "3805cc920e2e6db246c0983fae713f27b473e15d2a561b164157384df1a10fc7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
+      "text": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
+      "url": "https://nitter.net/GlideGrass/status/2016726262304399737#m",
+      "date": "Thu, 29 Jan 2026 04:13:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FG_zZ19dbYAE9ogD.jpg"
+      ]
+    },
     {
       "id": "c936194f48b3841759e7bb0d28490f5a0cba1f6bb2859779e33c7bf2c288cfb2",
       "anime": "onepiece",
@@ -111,76 +169,18 @@
       ]
     },
     {
-      "id": "40d8311ccdd50d34f2b594803c3c8ee7435a6d6212be88488d6376866969668a",
+      "id": "67706246b872832ab632bb84c2c0e3642d4c7625bb1bfbe7dde2924d2291137f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4",
-      "text": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4 – June 11, 2026 (JST) 🎥 Official PV: piped.video/8xa3IHk688M #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2028863632889504184#m",
-      "date": "Tue, 03 Mar 2026 16:02:39 GMT",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
+      "url": "https://nitter.net/angelluis184/status/2028869887968395701#m",
+      "date": "Tue, 03 Mar 2026 16:27:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCf4uHJWYAASzdv.jpg"
-      ]
-    },
-    {
-      "id": "b5f1d809c0c364ccfff424a18291a098214d930264f8a3a10816f068234d416f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
-      "text": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
-      "url": "https://nitter.net/WorstGenHQ/status/2028873625902682624#m",
-      "date": "Tue, 03 Mar 2026 16:42:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlin",
-      "text": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlinidc @tea_with_hunny @KHDLuffy @OgHumanTripod Pew (@pewpiece) BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends. — https://nitter.net/pewpiece/status/2028850357707681955#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2028869934776828302#m",
-      "date": "Tue, 03 Mar 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
-      ]
-    },
-    {
-      "id": "3805cc920e2e6db246c0983fae713f27b473e15d2a561b164157384df1a10fc7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
-      "text": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
-      "url": "https://nitter.net/GlideGrass/status/2016726262304399737#m",
-      "date": "Thu, 29 Jan 2026 04:13:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG_zZ19dbYAE9ogD.jpg"
-      ]
-    },
-    {
-      "id": "f0b36845b569b77dd73977ca9e051271b4fb61385fdb5025dd05c205c33244f4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "text": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "url": "https://nitter.net/pewpiece/status/2028848920701346205#m",
-      "date": "Tue, 03 Mar 2026 15:04:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848352733925377%2Fimg%2FCqAD9rqzcvqsM4jP.jpg"
+        "https://nitter.net/pic/card_img%2F2028849972804825088%2F4eby_NUM%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -276,21 +276,6 @@
   ],
   "items": [
     {
-      "id": "b95f90baba0dccf893097b5e037f53c6d0fa5e14a7bfb28add545b241968ba93",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, no",
-      "text": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, nor that the remaining Beast Pirates tore it down out of spite.",
-      "url": "https://nitter.net/DawnStussy/status/2028848148282814476#m",
-      "date": "Tue, 03 Mar 2026 15:01:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfqodPakAA2bXE.jpg"
-      ]
-    },
-    {
       "id": "298610a333a14345af27d60176369633d967ca1ef428dfe80dd198779b6eabf7",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -308,17 +293,90 @@
       ]
     },
     {
-      "id": "77ee1e66c44af2130ed0b609a1f92b891e7370e15580cc6078b8bffd8e891101",
+      "id": "b95f90baba0dccf893097b5e037f53c6d0fa5e14a7bfb28add545b241968ba93",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, no",
+      "text": "【🚨Correction in the Volume Edition】 The Straw Hat crew’s Jolly Roger that was raised in the Flower Capital is still there, just as it was. So it wasn’t that Momonosuke went crazy and took it down, nor that the remaining Beast Pirates tore it down out of spite.",
+      "url": "https://nitter.net/DawnStussy/status/2028848148282814476#m",
+      "date": "Tue, 03 Mar 2026 15:01:07 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfqodPakAA2bXE.jpg"
+      ]
+    },
+    {
+      "id": "f635957286b45bd676650b6dfdfe976db47b4872bd866d885fb0ad0a2f42e2f2",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1176 Loved the strawhats this chapter, some good stuff :)",
-      "text": "#ONEPIECE1176 Loved the strawhats this chapter, some good stuff :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2028854185190445196#m",
-      "date": "Tue, 03 Mar 2026 15:25:06 GMT",
-      "isSpoiler": true,
+      "title": "I hope people understand now why I said Zoro vs Sommers might happen. There are no more options left. One scenario might be maybe DR Loki(if Oda really wants it) vs Luffy and Zoro, but im not sure, de",
+      "text": "I hope people understand now why I said Zoro vs Sommers might happen. There are no more options left. One scenario might be maybe DR Loki(if Oda really wants it) vs Luffy and Zoro, but im not sure, depends if Sommers shows up again or not.",
+      "url": "https://nitter.net/WorstGenHQ/status/2028949619728638273#m",
+      "date": "Tue, 03 Mar 2026 21:44:20 GMT",
+      "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "3bc5cc571993c5dd8a1f3696adb2725559dbae09f6c169a48bdffc6c50c2f8fb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 THEY ARE BACK!! 🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1176 THEY ARE BACK!! 🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2028946832525607411#m",
+      "date": "Tue, 03 Mar 2026 21:33:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHChEGvTXsAIspB1.jpg"
+      ]
+    },
+    {
+      "id": "b5f1d809c0c364ccfff424a18291a098214d930264f8a3a10816f068234d416f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
+      "text": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
+      "url": "https://nitter.net/WorstGenHQ/status/2028873625902682624#m",
+      "date": "Tue, 03 Mar 2026 16:42:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlin",
+      "text": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlinidc @tea_with_hunny @KHDLuffy @OgHumanTripod Pew (@pewpiece) BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends. — https://nitter.net/pewpiece/status/2028850357707681955#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2028869934776828302#m",
+      "date": "Tue, 03 Mar 2026 16:27:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
+      ]
+    },
+    {
+      "id": "3805cc920e2e6db246c0983fae713f27b473e15d2a561b164157384df1a10fc7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
+      "text": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
+      "url": "https://nitter.net/GlideGrass/status/2016726262304399737#m",
+      "date": "Thu, 29 Jan 2026 04:13:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FG_zZ19dbYAE9ogD.jpg"
+      ]
     },
     {
       "id": "c936194f48b3841759e7bb0d28490f5a0cba1f6bb2859779e33c7bf2c288cfb2",
@@ -382,76 +440,18 @@
       ]
     },
     {
-      "id": "40d8311ccdd50d34f2b594803c3c8ee7435a6d6212be88488d6376866969668a",
+      "id": "67706246b872832ab632bb84c2c0e3642d4c7625bb1bfbe7dde2924d2291137f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4",
-      "text": "The 2nd global ONE PIECE character popularity poll “WT100” is officially underway! From 1,560 characters, who's your number one? 🗳 Vote once per day on the website: onepiecewt100-2026.com/en/ March 4 – June 11, 2026 (JST) 🎥 Official PV: piped.video/8xa3IHk688M #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2028863632889504184#m",
-      "date": "Tue, 03 Mar 2026 16:02:39 GMT",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100 @Mugiwara_23",
+      "url": "https://nitter.net/angelluis184/status/2028869887968395701#m",
+      "date": "Tue, 03 Mar 2026 16:27:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCf4uHJWYAASzdv.jpg"
-      ]
-    },
-    {
-      "id": "b5f1d809c0c364ccfff424a18291a098214d930264f8a3a10816f068234d416f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
-      "text": "Everyone I forget to tag, you are welcomed, let sail together bois! (Except for you @ClairvoyantEye1 , you mf would throw me out of the ship if you could get any chance).",
-      "url": "https://nitter.net/WorstGenHQ/status/2028873625902682624#m",
-      "date": "Tue, 03 Mar 2026 16:42:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a4701d6088644a5c7934cf20d1ee7c0dc738b26533809ab2780dce7a64c86ad1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlin",
-      "text": "Time to find that treasure... Do you guys join me? We need to buy a big ship first... @pewpiece @sigmarshanks @ohimetenshi @3SkullJoe @Mugiwara_23 @AniKing @moland48666 @writingpanini @MbokaKN @merlinidc @tea_with_hunny @KHDLuffy @OgHumanTripod Pew (@pewpiece) BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends. — https://nitter.net/pewpiece/status/2028850357707681955#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2028869934776828302#m",
-      "date": "Tue, 03 Mar 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
-      ]
-    },
-    {
-      "id": "3805cc920e2e6db246c0983fae713f27b473e15d2a561b164157384df1a10fc7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
-      "text": "#ONEPIECE1172 Top 1 and 2 on the enemy side in Elbaf rn",
-      "url": "https://nitter.net/GlideGrass/status/2016726262304399737#m",
-      "date": "Thu, 29 Jan 2026 04:13:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG_zZ19dbYAE9ogD.jpg"
-      ]
-    },
-    {
-      "id": "f0b36845b569b77dd73977ca9e051271b4fb61385fdb5025dd05c205c33244f4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "text": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "url": "https://nitter.net/pewpiece/status/2028848920701346205#m",
-      "date": "Tue, 03 Mar 2026 15:04:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848352733925377%2Fimg%2FCqAD9rqzcvqsM4jP.jpg"
+        "https://nitter.net/pic/card_img%2F2028849972804825088%2F4eby_NUM%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
