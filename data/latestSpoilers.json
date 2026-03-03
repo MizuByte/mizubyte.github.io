@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-03-03T06:43:05.689Z",
+  "generatedAt": "2026-03-03T07:31:40.505Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "438073fa97ab06f9cd9b29a2c55c31a1d6fe6a9151ed62abfbf8ce1e12fc8a52",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/snoopyb047/status/2028632804477514236#m",
+      "date": "Tue, 03 Mar 2026 00:45:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcmyQnWoAAMuI8.jpg"
+      ]
+    },
     {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
@@ -106,100 +121,81 @@
       ]
     },
     {
-      "id": "626106484c5b48e9ee0362999ef6a594b3e38027b0184c7a3b8ab0266f5abe6e",
+      "id": "bad2a5e862e31134cc2d98078c60443f7077921a542f3631ac717f82fd02f26e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
-      "text": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
-      "url": "https://nitter.net/OPcom_info/status/2028606644423410164#m",
-      "date": "Mon, 02 Mar 2026 23:01:28 GMT",
+      "title": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
+      "text": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
+      "url": "https://nitter.net/distritomangaED/status/2028515365286797791#m",
+      "date": "Mon, 02 Mar 2026 16:58:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCcO_bcacAArTDc.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2028514049097424897%2Fimg%2FCzb_mPDloBzjmAjB.jpg"
       ]
     },
     {
-      "id": "3a3b9151e86bc05d317bf20eb1c0b5007cb4a89dbcc80fdca40cf12820d0bce8",
+      "id": "8ebef95f1a131b8239c334796a5686fee5dcb2a18c73226d6b8ca714dba61700",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "CAPTAIN LUFFY MET CAPTAIN ELMO ❤️ ONE PIECE returns March 10!",
-      "text": "CAPTAIN LUFFY MET CAPTAIN ELMO ❤️ ONE PIECE returns March 10!",
-      "url": "https://nitter.net/netflix/status/2028606276431728920#m",
-      "date": "Mon, 02 Mar 2026 23:00:00 GMT",
+      "title": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
+      "text": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
+      "url": "https://nitter.net/BlancetRenoir/status/2028691594870943755#m",
+      "date": "Tue, 03 Mar 2026 04:39:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCcIMd6XUAA8V_3.jpg"
+        "https://nitter.net/pic/media%2FHCdcOxVawAAeMyi.jpg",
+        "https://nitter.net/pic/media%2FHCdcOxha8AEfRlk.jpg",
+        "https://nitter.net/pic/media%2FHCdcOxXbkAANWRP.jpg",
+        "https://nitter.net/pic/media%2FHCdcOxYagAArLQ4.jpg"
       ]
     },
     {
-      "id": "88793f3bf5d97ec4ce37f2c397ca49d7a33665520dbf7b24540260813bab23d1",
+      "id": "74f07fab4e5b30cf20cda2c6973e279421a91c12552bc5561ad4526b8c49daf2",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "How haughty is too haughty? Read Dandadan, Ch. 227 in Shonen Jump for free! bit.ly/4bhJ5DY",
-      "text": "How haughty is too haughty? Read Dandadan, Ch. 227 in Shonen Jump for free! bit.ly/4bhJ5DY",
-      "url": "https://nitter.net/shonenjump/status/2028538386277908828#m",
-      "date": "Mon, 02 Mar 2026 18:30:14 GMT",
+      "title": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
+      "text": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
+      "url": "https://nitter.net/norashitagai/status/2028673585871765696#m",
+      "date": "Tue, 03 Mar 2026 03:27:28 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCbQ5UzX0AMCYvB.jpg"
+        "https://nitter.net/pic/media%2FHCdLx3xbcAAoN-n.jpg",
+        "https://nitter.net/pic/media%2FHCdLx3qaoAEJs6Q.jpg",
+        "https://nitter.net/pic/media%2FHCdLx3vbYAA1D3o.jpg"
       ]
     },
     {
-      "id": "2a5db7e7fad4857042404f5a4082527412c37964a725710162ce217d1c5dd578",
+      "id": "83438e2c4f573449505b6a97acdc721130a8884d6c2bcad7bea7bb9691d9baac",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "A ver cómo os explico que no es mi primera partida. Rubén Martínez (@ruvenmb) Se me está resistiendo un Weedle porque mi Charmander es un sinvergüenza desobediente. 😡 — https://nitter.net/ruvenmb/sta",
-      "text": "A ver cómo os explico que no es mi primera partida. Rubén Martínez (@ruvenmb) Se me está resistiendo un Weedle porque mi Charmander es un sinvergüenza desobediente. 😡 — https://nitter.net/ruvenmb/status/2028210340970844354#m",
-      "url": "https://nitter.net/ruvenmb/status/2028509076280254967#m",
-      "date": "Mon, 02 Mar 2026 16:33:46 GMT",
+      "title": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
+      "text": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
+      "url": "https://nitter.net/Mugiwara_23/status/2028731808884351037#m",
+      "date": "Tue, 03 Mar 2026 07:18:49 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCa2QKkWoAAgW3_.jpg",
-        "https://nitter.net/pic/media%2FHCa2QQwW8AAqdG6.jpg",
-        "https://nitter.net/pic/media%2FHCa2QNOWgAAD7ci.jpg",
-        "https://nitter.net/pic/media%2FHCa2QMeWQAAFNAk.jpg",
-        "https://nitter.net/pic/media%2FHCWmH7macAADeau.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "2eb66825ab7dc51b73123abc761aff9ec837f2e921738a814105e65744718385",
+      "id": "04c28231bb8ff6469f74b6bef9ff2f7302e819974807db3155c9fc82a08e9420",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Justo cuando se ha negado a ayudar a Estados Unidos e Israel jajajajaja ABC.es (@abc_es) 🔴 #ÚLTIMHORA Nueva brecha de seguridad en el Gobierno: filtran los datos de Sánchez, los ministros y la Fiscal",
-      "text": "Justo cuando se ha negado a ayudar a Estados Unidos e Israel jajajajaja ABC.es (@abc_es) 🔴 #ÚLTIMHORA Nueva brecha de seguridad en el Gobierno: filtran los datos de Sánchez, los ministros y la Fiscalía ✍️Por @Borjamendez abc.es/espana/nueva-brecha-s… — https://nitter.net/abc_es/status/2028440971281625371#m",
-      "url": "https://nitter.net/uuuuunai/status/2028484073635619008#m",
-      "date": "Mon, 02 Mar 2026 14:54:25 GMT",
+      "title": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
+      "text": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2028610284970233912#m",
+      "date": "Mon, 02 Mar 2026 23:15:56 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2028440889899577345%2FnWMtwIZg%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "90e69a390a5398ed0c541c635a394b293d1d1ec2d687fcf82f06b7f8e4ef75cc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriy",
-      "text": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriyama, c'est un coffre a trésors!! 😍😍😍",
-      "url": "https://nitter.net/KaiwaiDB/status/2028476077304144339#m",
-      "date": "Mon, 02 Mar 2026 14:22:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCaYPaaaAAAMS87.jpg",
-        "https://nitter.net/pic/media%2FHCaYPVuWkAA0WUJ.jpg",
-        "https://nitter.net/pic/media%2FHCaYPdnaAAEaKB4.jpg",
-        "https://nitter.net/pic/media%2FHCaYPf9bgAEgEdP.jpg"
+        "https://nitter.net/pic/media%2FHCcSS6makAAeeQ5.jpg"
       ]
     },
     {
@@ -322,9 +318,39 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCc7xxaXoAAlq_Y.jpg"
       ]
+    },
+    {
+      "id": "c3573c620ba0cd89039e7f90124974ddb0cd5e86569270cd4f1169a5a15ae09b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028625681580478505#m",
+      "date": "Tue, 03 Mar 2026 00:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcgTpQWwAEOQmc.jpg"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "438073fa97ab06f9cd9b29a2c55c31a1d6fe6a9151ed62abfbf8ce1e12fc8a52",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/snoopyb047/status/2028632804477514236#m",
+      "date": "Tue, 03 Mar 2026 00:45:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcmyQnWoAAMuI8.jpg"
+      ]
+    },
     {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
@@ -427,100 +453,81 @@
       ]
     },
     {
-      "id": "626106484c5b48e9ee0362999ef6a594b3e38027b0184c7a3b8ab0266f5abe6e",
+      "id": "bad2a5e862e31134cc2d98078c60443f7077921a542f3631ac717f82fd02f26e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
-      "text": "#麦わらストア で 「メモリアルマグカップ／ トニートニー・チョッパー」が 3月10日(火)より新発売！ チョッパーの名シーンを 再現したマグカップ！ #ONEPIECE ▼詳細はこちら one-piece.com/news/78088/ind…",
-      "url": "https://nitter.net/OPcom_info/status/2028606644423410164#m",
-      "date": "Mon, 02 Mar 2026 23:01:28 GMT",
+      "title": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
+      "text": "¡Este jueves 5 de marzo volvemos con un tomo único del maestro #MitsuruAdachi! BOKEN SHONEN 🙌⚾️ Video",
+      "url": "https://nitter.net/distritomangaED/status/2028515365286797791#m",
+      "date": "Mon, 02 Mar 2026 16:58:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCcO_bcacAArTDc.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2028514049097424897%2Fimg%2FCzb_mPDloBzjmAjB.jpg"
       ]
     },
     {
-      "id": "3a3b9151e86bc05d317bf20eb1c0b5007cb4a89dbcc80fdca40cf12820d0bce8",
+      "id": "8ebef95f1a131b8239c334796a5686fee5dcb2a18c73226d6b8ca714dba61700",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "CAPTAIN LUFFY MET CAPTAIN ELMO ❤️ ONE PIECE returns March 10!",
-      "text": "CAPTAIN LUFFY MET CAPTAIN ELMO ❤️ ONE PIECE returns March 10!",
-      "url": "https://nitter.net/netflix/status/2028606276431728920#m",
-      "date": "Mon, 02 Mar 2026 23:00:00 GMT",
+      "title": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
+      "text": "やっと見ましたーー 小畑先生の直筆サイン色紙、新潟の「和の匠みやむら」という懐石料理屋さんにあります✨ こんな神業を観られてもう思い残すことはありませんでした🙂‍↕️🙂‍↕️🙏🏻",
+      "url": "https://nitter.net/BlancetRenoir/status/2028691594870943755#m",
+      "date": "Tue, 03 Mar 2026 04:39:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCcIMd6XUAA8V_3.jpg"
+        "https://nitter.net/pic/media%2FHCdcOxVawAAeMyi.jpg",
+        "https://nitter.net/pic/media%2FHCdcOxha8AEfRlk.jpg",
+        "https://nitter.net/pic/media%2FHCdcOxXbkAANWRP.jpg",
+        "https://nitter.net/pic/media%2FHCdcOxYagAArLQ4.jpg"
       ]
     },
     {
-      "id": "88793f3bf5d97ec4ce37f2c397ca49d7a33665520dbf7b24540260813bab23d1",
+      "id": "74f07fab4e5b30cf20cda2c6973e279421a91c12552bc5561ad4526b8c49daf2",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "How haughty is too haughty? Read Dandadan, Ch. 227 in Shonen Jump for free! bit.ly/4bhJ5DY",
-      "text": "How haughty is too haughty? Read Dandadan, Ch. 227 in Shonen Jump for free! bit.ly/4bhJ5DY",
-      "url": "https://nitter.net/shonenjump/status/2028538386277908828#m",
-      "date": "Mon, 02 Mar 2026 18:30:14 GMT",
+      "title": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
+      "text": "ファイアレッド特別版、届いた‼️‼️‼️ やばい本当にテンション上がる😭😭😭 ゲットだぜｲｪｲｪｲｪｲｪｲｪｲｪｲｪ‼️‼️‼️‼️‼️ #ポケモン30周年 #ポケモンFRLG",
+      "url": "https://nitter.net/norashitagai/status/2028673585871765696#m",
+      "date": "Tue, 03 Mar 2026 03:27:28 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCbQ5UzX0AMCYvB.jpg"
+        "https://nitter.net/pic/media%2FHCdLx3xbcAAoN-n.jpg",
+        "https://nitter.net/pic/media%2FHCdLx3qaoAEJs6Q.jpg",
+        "https://nitter.net/pic/media%2FHCdLx3vbYAA1D3o.jpg"
       ]
     },
     {
-      "id": "2a5db7e7fad4857042404f5a4082527412c37964a725710162ce217d1c5dd578",
+      "id": "83438e2c4f573449505b6a97acdc721130a8884d6c2bcad7bea7bb9691d9baac",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "A ver cómo os explico que no es mi primera partida. Rubén Martínez (@ruvenmb) Se me está resistiendo un Weedle porque mi Charmander es un sinvergüenza desobediente. 😡 — https://nitter.net/ruvenmb/sta",
-      "text": "A ver cómo os explico que no es mi primera partida. Rubén Martínez (@ruvenmb) Se me está resistiendo un Weedle porque mi Charmander es un sinvergüenza desobediente. 😡 — https://nitter.net/ruvenmb/status/2028210340970844354#m",
-      "url": "https://nitter.net/ruvenmb/status/2028509076280254967#m",
-      "date": "Mon, 02 Mar 2026 16:33:46 GMT",
+      "title": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
+      "text": "RT @Eiichiro_Staff: 【コラボ情報】 実写版『#ONEPIECE』シーズン2と マクドナルドがコラボ決定🍟 『Myマクドナルド リワード』に コラボアイテムが登場します！ さらにコラボセットメニューの販売も！？ 詳細は3.10(火)16:00 マクドナル…",
+      "url": "https://nitter.net/Mugiwara_23/status/2028731808884351037#m",
+      "date": "Tue, 03 Mar 2026 07:18:49 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCa2QKkWoAAgW3_.jpg",
-        "https://nitter.net/pic/media%2FHCa2QQwW8AAqdG6.jpg",
-        "https://nitter.net/pic/media%2FHCa2QNOWgAAD7ci.jpg",
-        "https://nitter.net/pic/media%2FHCa2QMeWQAAFNAk.jpg",
-        "https://nitter.net/pic/media%2FHCWmH7macAADeau.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "2eb66825ab7dc51b73123abc761aff9ec837f2e921738a814105e65744718385",
+      "id": "04c28231bb8ff6469f74b6bef9ff2f7302e819974807db3155c9fc82a08e9420",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Justo cuando se ha negado a ayudar a Estados Unidos e Israel jajajajaja ABC.es (@abc_es) 🔴 #ÚLTIMHORA Nueva brecha de seguridad en el Gobierno: filtran los datos de Sánchez, los ministros y la Fiscal",
-      "text": "Justo cuando se ha negado a ayudar a Estados Unidos e Israel jajajajaja ABC.es (@abc_es) 🔴 #ÚLTIMHORA Nueva brecha de seguridad en el Gobierno: filtran los datos de Sánchez, los ministros y la Fiscalía ✍️Por @Borjamendez abc.es/espana/nueva-brecha-s… — https://nitter.net/abc_es/status/2028440971281625371#m",
-      "url": "https://nitter.net/uuuuunai/status/2028484073635619008#m",
-      "date": "Mon, 02 Mar 2026 14:54:25 GMT",
+      "title": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
+      "text": "1998年3月3日発売 1998年14号掲載 第30話〝GREAT!!〟 2008年3月3日発売 2008年14号掲載 第490話〝再び辿りつく〟 2014年3月3日発売 2014年14号掲載 第739話〝隊長〟 2025年3月3日発売 2025年14号掲載 第1141話〝歳上の女〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2028610284970233912#m",
+      "date": "Mon, 02 Mar 2026 23:15:56 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2028440889899577345%2FnWMtwIZg%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "90e69a390a5398ed0c541c635a394b293d1d1ec2d687fcf82f06b7f8e4ef75cc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriy",
-      "text": "Fans de Toriyama, je vous conseille de vous procurer le magazine #ZENBU (catalogue de vente aux enchères de Mandarake) special Dr Slump. Plus de 200 pages (sur 560) de merch autour des œuvres de Toriyama, c'est un coffre a trésors!! 😍😍😍",
-      "url": "https://nitter.net/KaiwaiDB/status/2028476077304144339#m",
-      "date": "Mon, 02 Mar 2026 14:22:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCaYPaaaAAAMS87.jpg",
-        "https://nitter.net/pic/media%2FHCaYPVuWkAA0WUJ.jpg",
-        "https://nitter.net/pic/media%2FHCaYPdnaAAEaKB4.jpg",
-        "https://nitter.net/pic/media%2FHCaYPf9bgAEgEdP.jpg"
+        "https://nitter.net/pic/media%2FHCcSS6makAAeeQ5.jpg"
       ]
     },
     {
@@ -642,6 +649,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCc7xxaXoAAlq_Y.jpg"
+      ]
+    },
+    {
+      "id": "c3573c620ba0cd89039e7f90124974ddb0cd5e86569270cd4f1169a5a15ae09b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028625681580478505#m",
+      "date": "Tue, 03 Mar 2026 00:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCcgTpQWwAEOQmc.jpg"
       ]
     }
   ]
