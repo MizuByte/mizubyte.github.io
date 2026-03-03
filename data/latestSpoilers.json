@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-03-03T13:47:08.643Z",
+  "generatedAt": "2026-03-03T14:32:31.848Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "c8fd1492c5df07ae6a4fa156b9c915e37c16687c566589b958861c411e8038cb",
+      "id": "6b56a7414347f41eb3f9a4d132eeeacc75d3a4a2882067861ce3654ac6563a2c",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
       "title": "",
       "text": "",
-      "url": "https://nitter.net/GroovyBruce/status/2028628509128876473#m",
-      "date": "Tue, 03 Mar 2026 00:28:21 GMT",
+      "url": "https://nitter.net/onepiecenetflix/status/2028832772043809268#m",
+      "date": "Tue, 03 Mar 2026 14:00:01 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCcispmaAAADqv_.jpg"
+        "https://nitter.net/pic/media%2FHCc1bRVXMAAOwKu.jpg",
+        "https://nitter.net/pic/media%2FHCc1bjFWcAAsCtn.jpg"
       ]
     },
     {
@@ -33,6 +34,21 @@
   ],
   "misc": [
     {
+      "id": "69e81c4fc6f131ac5466fc76c381a96bdfe11953af4c23ea250b6fe111ac48a4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "OFFICIAL 🚨: THERE WILL BE A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1176",
+      "text": "OFFICIAL 🚨: THERE WILL BE A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1176",
+      "url": "https://nitter.net/pewpiece/status/2028829357158928750#m",
+      "date": "Tue, 03 Mar 2026 13:46:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfZNTuWwAAEUnO.jpg"
+      ]
+    },
+    {
       "id": "5f44508fd13c5e1e56354f7d412659161ed6265e40c47f759f5d1ec1082f06d4",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -105,32 +121,36 @@
       ]
     },
     {
-      "id": "dff89b358ebbb2707f8660c2f96167dd2674c1e59d0e58356d711b91af430fd7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "...... Pew (@pewpiece) SBS 114 idk anymore — https://nitter.net/pewpiece/status/2028662582182039797#m",
-      "text": "...... Pew (@pewpiece) SBS 114 idk anymore — https://nitter.net/pewpiece/status/2028662582182039797#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2028716117452025980#m",
-      "date": "Tue, 03 Mar 2026 06:16:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdBxH1WwAAOXhm.jpg"
-      ]
-    },
-    {
-      "id": "b60c8cfe606861216c16aaa633a24169fdbabac7bb1cd4f87de4ec95c011c6a7",
+      "id": "0686254b6e0443e1c48ef5a16aff0670747fd0accbe4d2b6f5600340f2d2c1d2",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: ┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃…",
-      "text": "RT @Eiichiro_Staff: ┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028816375016218637#m",
-      "date": "Tue, 03 Mar 2026 12:54:52 GMT",
+      "title": "Brace yourselves, Nakama. This island’s cold in more ways than one. ONE PIECE: INTO THE GRAND LINE March 10.",
+      "text": "Brace yourselves, Nakama. This island’s cold in more ways than one. ONE PIECE: INTO THE GRAND LINE March 10.",
+      "url": "https://nitter.net/onepiecenetflix/status/2028832768017244428#m",
+      "date": "Tue, 03 Mar 2026 14:00:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCc1aeVXsAA7Ft3.jpg",
+        "https://nitter.net/pic/media%2FHCc1avaXsAAqWwP.jpg",
+        "https://nitter.net/pic/media%2FHCc1a_aXkAA6urO.jpg"
+      ]
+    },
+    {
+      "id": "ac22f76323e9469b9576bf5b0c76353653a7c1541935528ab9ebd4222a65a8cf",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈. 3.4 0:00 #ONEPIECE ┗━━━━━━━━━━┛ Video",
+      "text": "┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈. 3.4 0:00 #ONEPIECE ┗━━━━━━━━━━┛ Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2028802630496186587#m",
+      "date": "Tue, 03 Mar 2026 12:00:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2028802573550141441%2Fimg%2FBPXM4UBPMFwwdP8E.jpg"
+      ]
     },
     {
       "id": "06e47b9b300eb62704f1e9e82e263da8d9e5a7666e69529c1764f6b6bf79fe8f",
@@ -146,17 +166,19 @@
       "attachments": []
     },
     {
-      "id": "d557dc366cd3dbcb047870e229ef2dc1f2e80f9b2b72ca4e315483bf1647dd1c",
+      "id": "4f9eaedd6723416dc931ad0e4c25ea335de6641481b0a26ff65cce513b0730bf",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i… t.co/pw4A…",
-      "text": "RT @OPcom_info: ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i… t.co/pw4A…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028762369199948123#m",
-      "date": "Tue, 03 Mar 2026 09:20:16 GMT",
+      "title": "ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i…",
+      "text": "ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i…",
+      "url": "https://nitter.net/OPcom_info/status/2028758884853461347#m",
+      "date": "Tue, 03 Mar 2026 09:06:25 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCeZdA7awAAq43w.jpg"
+      ]
     },
     {
       "id": "042ad9523cb9b987109932395531b2245dc62ac844d49cb79deb3d66e8987f17",
@@ -172,19 +194,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCebJNxbQAAU9HD.jpg"
       ]
-    },
-    {
-      "id": "c8884494f1bdb16472af987221d0a1b1b8efd99e87abb507fe3fd6d4ef089924",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @ivreality: ¡IVREA publicará THE FIRST SLAM DUNK RE:SOURCE! THE FIRST SLAM DUNK RE:SOURCE de Takehiko Inoue ARTBOOK/DATABOOK Formato 18…",
-      "text": "RT @ivreality: ¡IVREA publicará THE FIRST SLAM DUNK RE:SOURCE! THE FIRST SLAM DUNK RE:SOURCE de Takehiko Inoue ARTBOOK/DATABOOK Formato 18…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028736419338879091#m",
-      "date": "Tue, 03 Mar 2026 07:37:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
@@ -263,6 +272,21 @@
       ]
     },
     {
+      "id": "506b8f5e63c1b4d20dcc1e464d8e01f0d123a1af952d9d5f77c394bc5b40a770",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028837075491996030#m",
+      "date": "Tue, 03 Mar 2026 14:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfgkaDXcAAHse2.jpg"
+      ]
+    },
+    {
       "id": "d2457acf5c7414fd05d64bba5ef8b445520b1870e50864599114d151266cadd2",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -306,37 +330,23 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCeOLCvWoAAsd0f.jpg"
       ]
-    },
-    {
-      "id": "07ae8dd7a2f55e12b45d530f9b58561abaacfba133562f132e98538eb232fd6a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028716280430100643#m",
-      "date": "Tue, 03 Mar 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdytNIWwAAZIMK.jpg"
-      ]
     }
   ],
   "items": [
     {
-      "id": "c8fd1492c5df07ae6a4fa156b9c915e37c16687c566589b958861c411e8038cb",
+      "id": "6b56a7414347f41eb3f9a4d132eeeacc75d3a4a2882067861ce3654ac6563a2c",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
       "title": "",
       "text": "",
-      "url": "https://nitter.net/GroovyBruce/status/2028628509128876473#m",
-      "date": "Tue, 03 Mar 2026 00:28:21 GMT",
+      "url": "https://nitter.net/onepiecenetflix/status/2028832772043809268#m",
+      "date": "Tue, 03 Mar 2026 14:00:01 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCcispmaAAADqv_.jpg"
+        "https://nitter.net/pic/media%2FHCc1bRVXMAAOwKu.jpg",
+        "https://nitter.net/pic/media%2FHCc1bjFWcAAsCtn.jpg"
       ]
     },
     {
@@ -353,6 +363,21 @@
       "attachments": []
     },
     {
+      "id": "69e81c4fc6f131ac5466fc76c381a96bdfe11953af4c23ea250b6fe111ac48a4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "OFFICIAL 🚨: THERE WILL BE A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1176",
+      "text": "OFFICIAL 🚨: THERE WILL BE A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1176",
+      "url": "https://nitter.net/pewpiece/status/2028829357158928750#m",
+      "date": "Tue, 03 Mar 2026 13:46:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfZNTuWwAAEUnO.jpg"
+      ]
+    },
+    {
       "id": "5f44508fd13c5e1e56354f7d412659161ed6265e40c47f759f5d1ec1082f06d4",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -425,32 +450,36 @@
       ]
     },
     {
-      "id": "dff89b358ebbb2707f8660c2f96167dd2674c1e59d0e58356d711b91af430fd7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "...... Pew (@pewpiece) SBS 114 idk anymore — https://nitter.net/pewpiece/status/2028662582182039797#m",
-      "text": "...... Pew (@pewpiece) SBS 114 idk anymore — https://nitter.net/pewpiece/status/2028662582182039797#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2028716117452025980#m",
-      "date": "Tue, 03 Mar 2026 06:16:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdBxH1WwAAOXhm.jpg"
-      ]
-    },
-    {
-      "id": "b60c8cfe606861216c16aaa633a24169fdbabac7bb1cd4f87de4ec95c011c6a7",
+      "id": "0686254b6e0443e1c48ef5a16aff0670747fd0accbe4d2b6f5600340f2d2c1d2",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: ┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃…",
-      "text": "RT @Eiichiro_Staff: ┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028816375016218637#m",
-      "date": "Tue, 03 Mar 2026 12:54:52 GMT",
+      "title": "Brace yourselves, Nakama. This island’s cold in more ways than one. ONE PIECE: INTO THE GRAND LINE March 10.",
+      "text": "Brace yourselves, Nakama. This island’s cold in more ways than one. ONE PIECE: INTO THE GRAND LINE March 10.",
+      "url": "https://nitter.net/onepiecenetflix/status/2028832768017244428#m",
+      "date": "Tue, 03 Mar 2026 14:00:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCc1aeVXsAA7Ft3.jpg",
+        "https://nitter.net/pic/media%2FHCc1avaXsAAqWwP.jpg",
+        "https://nitter.net/pic/media%2FHCc1a_aXkAA6urO.jpg"
+      ]
+    },
+    {
+      "id": "ac22f76323e9469b9576bf5b0c76353653a7c1541935528ab9ebd4222a65a8cf",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈. 3.4 0:00 #ONEPIECE ┗━━━━━━━━━━┛ Video",
+      "text": "┏━━━━━━━━━━┓ それは、 物語が動き出した時から 決まっていた答え。 𝑻𝒉𝒆 𝒂𝒏𝒔𝒘𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒆𝒅 𝒔𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝒗𝒆𝒓𝒚 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈. 3.4 0:00 #ONEPIECE ┗━━━━━━━━━━┛ Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2028802630496186587#m",
+      "date": "Tue, 03 Mar 2026 12:00:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2028802573550141441%2Fimg%2FBPXM4UBPMFwwdP8E.jpg"
+      ]
     },
     {
       "id": "06e47b9b300eb62704f1e9e82e263da8d9e5a7666e69529c1764f6b6bf79fe8f",
@@ -466,17 +495,19 @@
       "attachments": []
     },
     {
-      "id": "d557dc366cd3dbcb047870e229ef2dc1f2e80f9b2b72ca4e315483bf1647dd1c",
+      "id": "4f9eaedd6723416dc931ad0e4c25ea335de6641481b0a26ff65cce513b0730bf",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i… t.co/pw4A…",
-      "text": "RT @OPcom_info: ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i… t.co/pw4A…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028762369199948123#m",
-      "date": "Tue, 03 Mar 2026 09:20:16 GMT",
+      "title": "ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i…",
+      "text": "ついに明日、3月4日(水)に 『#ONEPIECE』114巻発売!! 発売前に前回の113巻あらすじを チェックしてみてください！ ▼113巻あらすじはこちら one-piece.com/comics/78290/i…",
+      "url": "https://nitter.net/OPcom_info/status/2028758884853461347#m",
+      "date": "Tue, 03 Mar 2026 09:06:25 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCeZdA7awAAq43w.jpg"
+      ]
     },
     {
       "id": "042ad9523cb9b987109932395531b2245dc62ac844d49cb79deb3d66e8987f17",
@@ -492,19 +523,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCebJNxbQAAU9HD.jpg"
       ]
-    },
-    {
-      "id": "c8884494f1bdb16472af987221d0a1b1b8efd99e87abb507fe3fd6d4ef089924",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @ivreality: ¡IVREA publicará THE FIRST SLAM DUNK RE:SOURCE! THE FIRST SLAM DUNK RE:SOURCE de Takehiko Inoue ARTBOOK/DATABOOK Formato 18…",
-      "text": "RT @ivreality: ¡IVREA publicará THE FIRST SLAM DUNK RE:SOURCE! THE FIRST SLAM DUNK RE:SOURCE de Takehiko Inoue ARTBOOK/DATABOOK Formato 18…",
-      "url": "https://nitter.net/Mugiwara_23/status/2028736419338879091#m",
-      "date": "Tue, 03 Mar 2026 07:37:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
@@ -583,6 +601,21 @@
       ]
     },
     {
+      "id": "506b8f5e63c1b4d20dcc1e464d8e01f0d123a1af952d9d5f77c394bc5b40a770",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2028837075491996030#m",
+      "date": "Tue, 03 Mar 2026 14:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfgkaDXcAAHse2.jpg"
+      ]
+    },
+    {
       "id": "d2457acf5c7414fd05d64bba5ef8b445520b1870e50864599114d151266cadd2",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -625,21 +658,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCeOLCvWoAAsd0f.jpg"
-      ]
-    },
-    {
-      "id": "07ae8dd7a2f55e12b45d530f9b58561abaacfba133562f132e98538eb232fd6a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028716280430100643#m",
-      "date": "Tue, 03 Mar 2026 06:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCdytNIWwAAZIMK.jpg"
       ]
     }
   ]
