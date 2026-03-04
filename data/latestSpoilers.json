@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T20:52:31.400Z",
+  "generatedAt": "2026-03-04T21:29:53.496Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -46,22 +46,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCkxJxLaYAALBe3.jpg"
       ]
-    },
-    {
-      "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Tweet of the year btw #BORUTO Smurfy🐐 (Leaker) (@SchmurfiV1) Hey @grok, remove the fandom who has the most pedophiles from this image — https://nitter.net/SchmurfiV1/status/2007006051040928105#m",
-      "text": "Tweet of the year btw #BORUTO Smurfy🐐 (Leaker) (@SchmurfiV1) Hey @grok, remove the fandom who has the most pedophiles from this image — https://nitter.net/SchmurfiV1/status/2007006051040928105#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2027120852118933541#m",
-      "date": "Thu, 26 Feb 2026 20:37:27 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
+    {
+      "id": "c5998c75e1cfba41108f55f727b4ccd3094b196a3d17c726ac7c1c033a89d0f5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2029302870114484679#m",
+      "date": "Wed, 04 Mar 2026 21:08:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmIMuZXEAAjoSU.jpg"
+      ]
+    },
     {
       "id": "2bfb7dd2fa7143ceae43557286135ccaadb99009ec7a0f856a04d182fa0417d4",
       "anime": "onepiece",
@@ -123,18 +125,18 @@
       ]
     },
     {
-      "id": "217cbcefad8c7296cdbffdd90db0a094df22ed95a4a86c8f654d19ff481bc07c",
+      "id": "a3e9aeea2fc212fab978afbbcf5c2c79f113b322511c4cf78e70ab78a922367d",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the serie",
-      "text": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends.",
-      "url": "https://nitter.net/pewpiece/status/2028850357707681955#m",
-      "date": "Tue, 03 Mar 2026 15:09:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 - Domi Reversed Dorry and Brogy say goodbye to each other and cut each other's head. But their bodies flip back (like when Imu used Domi Reversi but in the other way) to normal self and ",
+      "text": "#ONEPIECE1176 - Domi Reversed Dorry and Brogy say goodbye to each other and cut each other's head. But their bodies flip back (like when Imu used Domi Reversi but in the other way) to normal self and they are now fully recovered. 👀 Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2029302405947686967#m",
+      "date": "Wed, 04 Mar 2026 21:06:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
+        "https://nitter.net/pic/media%2FHCmHxBFWQAAtwt8.png"
       ]
     },
     {
@@ -196,19 +198,6 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2029107974539755521%2Fimg%2FSVK7_S4sVPORu9Tz.jpg"
       ]
-    },
-    {
-      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That would be another option I have in mind for Zoro's battle for now.",
-      "text": "That would be another option I have in mind for Zoro's battle for now.",
-      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
-      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1b33630ea9598ea78c441e3816162f4d1b1ea2f03189568eb2df9b3bab9bf8c6",
@@ -289,74 +278,78 @@
       ]
     },
     {
-      "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian de",
-      "text": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian detainees. This is the level of evil we are dealing with Video — https://nitter.net/Mbakaza4L/status/2028904204434084316#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2029170648262570445#m",
-      "date": "Wed, 04 Mar 2026 12:22:37 GMT",
+      "id": "7861f5bfa6bb726da582d3beee48dc384683793336982af3ce40bd916be94320",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029290063876542960#m",
+      "date": "Wed, 04 Mar 2026 20:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
+        "https://nitter.net/pic/media%2FHCl8jzRbkAAjYh9.jpg"
       ]
     },
     {
-      "id": "b9217915c51f650f910c67b9a50073755b6a8766d46a1761a1d0b81a9c03b1bf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ (@) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a pi",
-      "text": "„The One Piece is the friends we made along the journey.“ (@) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 — https://nitter.net/i/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "02fd122b8509206e27b5bd3e9b161970260c863a0e6dbd9c2caa31a19daa30a8",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO (@) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO (@) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/i/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "131293e6e0e7b8f7323715d3b2240e8cb92cf6fe6d46edc97b3e109ab7c360ed",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO (@) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series",
-      "text": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO (@) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series to the new era. Discover exclusive content, and more that you’ll only find here! Subscribe & turn on 🔔 #NARUTO #BORUTO — https://nitter.net/i/status/2028274569598128319#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028365653044851050#m",
-      "date": "Mon, 02 Mar 2026 07:03:51 GMT",
+      "id": "88336307eb97d2907e34bd4248afd788d093c6603d3f08efc6703c922b9303d7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029229660555391463#m",
+      "date": "Wed, 04 Mar 2026 16:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg"
+        "https://nitter.net/pic/media%2FHClFn4-WQAcfZ-1.jpg"
       ]
     },
     {
-      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
-      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
-      "date": "Sun, 01 Mar 2026 07:52:26 GMT",
+      "id": "6217fc5fdb1a0af0080ad54026d0ed61b84ee9fed3270705bd4e43f566dfdde4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029199460878737884#m",
+      "date": "Wed, 04 Mar 2026 14:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCSqA5dbEAIENq_.jpg"
+        "https://nitter.net/pic/media%2FHCkqKB2awAMz2bx.jpg"
+      ]
+    },
+    {
+      "id": "42ae3c703e17b0e5c97afd5c1163225ac367b3d83523fa63100fbc734c76ad1a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029169265778053534#m",
+      "date": "Wed, 04 Mar 2026 12:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCkOsbOXYAEeSWN.jpg"
+      ]
+    },
+    {
+      "id": "4180736f663d38bcb9bcea56f72f80e271650c81f9c0792232984f5721898b82",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029139066432741624#m",
+      "date": "Wed, 04 Mar 2026 10:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjzOnPacAA4MV0.jpg"
       ]
     }
   ],
@@ -407,17 +400,19 @@
       ]
     },
     {
-      "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Tweet of the year btw #BORUTO Smurfy🐐 (Leaker) (@SchmurfiV1) Hey @grok, remove the fandom who has the most pedophiles from this image — https://nitter.net/SchmurfiV1/status/2007006051040928105#m",
-      "text": "Tweet of the year btw #BORUTO Smurfy🐐 (Leaker) (@SchmurfiV1) Hey @grok, remove the fandom who has the most pedophiles from this image — https://nitter.net/SchmurfiV1/status/2007006051040928105#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2027120852118933541#m",
-      "date": "Thu, 26 Feb 2026 20:37:27 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "id": "c5998c75e1cfba41108f55f727b4ccd3094b196a3d17c726ac7c1c033a89d0f5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
+      "text": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2029302870114484679#m",
+      "date": "Wed, 04 Mar 2026 21:08:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmIMuZXEAAjoSU.jpg"
+      ]
     },
     {
       "id": "2bfb7dd2fa7143ceae43557286135ccaadb99009ec7a0f856a04d182fa0417d4",
@@ -480,18 +475,18 @@
       ]
     },
     {
-      "id": "217cbcefad8c7296cdbffdd90db0a094df22ed95a4a86c8f654d19ff481bc07c",
+      "id": "a3e9aeea2fc212fab978afbbcf5c2c79f113b322511c4cf78e70ab78a922367d",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the serie",
-      "text": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends.",
-      "url": "https://nitter.net/pewpiece/status/2028850357707681955#m",
-      "date": "Tue, 03 Mar 2026 15:09:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 - Domi Reversed Dorry and Brogy say goodbye to each other and cut each other's head. But their bodies flip back (like when Imu used Domi Reversi but in the other way) to normal self and ",
+      "text": "#ONEPIECE1176 - Domi Reversed Dorry and Brogy say goodbye to each other and cut each other's head. But their bodies flip back (like when Imu used Domi Reversi but in the other way) to normal self and they are now fully recovered. 👀 Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2029302405947686967#m",
+      "date": "Wed, 04 Mar 2026 21:06:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
+        "https://nitter.net/pic/media%2FHCmHxBFWQAAtwt8.png"
       ]
     },
     {
@@ -553,19 +548,6 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2029107974539755521%2Fimg%2FSVK7_S4sVPORu9Tz.jpg"
       ]
-    },
-    {
-      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That would be another option I have in mind for Zoro's battle for now.",
-      "text": "That would be another option I have in mind for Zoro's battle for now.",
-      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
-      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1b33630ea9598ea78c441e3816162f4d1b1ea2f03189568eb2df9b3bab9bf8c6",
@@ -646,74 +628,78 @@
       ]
     },
     {
-      "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian de",
-      "text": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian detainees. This is the level of evil we are dealing with Video — https://nitter.net/Mbakaza4L/status/2028904204434084316#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2029170648262570445#m",
-      "date": "Wed, 04 Mar 2026 12:22:37 GMT",
+      "id": "7861f5bfa6bb726da582d3beee48dc384683793336982af3ce40bd916be94320",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029290063876542960#m",
+      "date": "Wed, 04 Mar 2026 20:17:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
+        "https://nitter.net/pic/media%2FHCl8jzRbkAAjYh9.jpg"
       ]
     },
     {
-      "id": "b9217915c51f650f910c67b9a50073755b6a8766d46a1761a1d0b81a9c03b1bf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ (@) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a pi",
-      "text": "„The One Piece is the friends we made along the journey.“ (@) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 — https://nitter.net/i/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "02fd122b8509206e27b5bd3e9b161970260c863a0e6dbd9c2caa31a19daa30a8",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO (@) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO (@) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/i/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "131293e6e0e7b8f7323715d3b2240e8cb92cf6fe6d46edc97b3e109ab7c360ed",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO (@) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series",
-      "text": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO (@) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series to the new era. Discover exclusive content, and more that you’ll only find here! Subscribe & turn on 🔔 #NARUTO #BORUTO — https://nitter.net/i/status/2028274569598128319#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028365653044851050#m",
-      "date": "Mon, 02 Mar 2026 07:03:51 GMT",
+      "id": "88336307eb97d2907e34bd4248afd788d093c6603d3f08efc6703c922b9303d7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029229660555391463#m",
+      "date": "Wed, 04 Mar 2026 16:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg"
+        "https://nitter.net/pic/media%2FHClFn4-WQAcfZ-1.jpg"
       ]
     },
     {
-      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
-      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
-      "date": "Sun, 01 Mar 2026 07:52:26 GMT",
+      "id": "6217fc5fdb1a0af0080ad54026d0ed61b84ee9fed3270705bd4e43f566dfdde4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029199460878737884#m",
+      "date": "Wed, 04 Mar 2026 14:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCSqA5dbEAIENq_.jpg"
+        "https://nitter.net/pic/media%2FHCkqKB2awAMz2bx.jpg"
+      ]
+    },
+    {
+      "id": "42ae3c703e17b0e5c97afd5c1163225ac367b3d83523fa63100fbc734c76ad1a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029169265778053534#m",
+      "date": "Wed, 04 Mar 2026 12:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCkOsbOXYAEeSWN.jpg"
+      ]
+    },
+    {
+      "id": "4180736f663d38bcb9bcea56f72f80e271650c81f9c0792232984f5721898b82",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029139066432741624#m",
+      "date": "Wed, 04 Mar 2026 10:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjzOnPacAA4MV0.jpg"
       ]
     }
   ]
