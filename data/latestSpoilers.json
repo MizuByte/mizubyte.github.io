@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T15:53:33.853Z",
+  "generatedAt": "2026-03-04T16:37:44.929Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -166,19 +166,6 @@
       ]
     },
     {
-      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That would be another option I have in mind for Zoro's battle for now.",
-      "text": "That would be another option I have in mind for Zoro's battle for now.",
-      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
-      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "c686daac0730372f398329bdb3c869e2afa1da8b49b5d517246d13ff29f508ed",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -194,6 +181,19 @@
       ]
     },
     {
+      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "That would be another option I have in mind for Zoro's battle for now.",
+      "text": "That would be another option I have in mind for Zoro's battle for now.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
+      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "3048ebb6a171e64c06cdc4f412f33b2539d7909b8d6a5a298613b38184d99071",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -207,6 +207,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCjgfWgXQAAuSiq.jpg",
         "https://nitter.net/pic/media%2FHCjgvdkbwAEFAQ6.jpg"
+      ]
+    },
+    {
+      "id": "1b33630ea9598ea78c441e3816162f4d1b1ea2f03189568eb2df9b3bab9bf8c6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
+      "text": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
+      "url": "https://nitter.net/hbomax/status/2029225381056651634#m",
+      "date": "Wed, 04 Mar 2026 16:00:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCk-xJ4W0AAxkVP.jpg"
       ]
     },
     {
@@ -270,24 +285,6 @@
         "https://nitter.net/pic/media%2FHCketn9awAMA-o-.jpg",
         "https://nitter.net/pic/media%2FHCketn7bYAAmt1Y.jpg",
         "https://nitter.net/pic/media%2FHCketnNXUAAchuZ.jpg"
-      ]
-    },
-    {
-      "id": "e3e1e4c7d0615c44cda085bb2f03209e614908921f95bea41ed29aeeb3c292b2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
-      "text": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
-      "url": "https://nitter.net/ARIMORIA/status/2029029094151860594#m",
-      "date": "Wed, 04 Mar 2026 03:00:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCiPNKeawAQf61Y.jpg",
-        "https://nitter.net/pic/media%2FHCiPNKdagAAkN7w.jpg",
-        "https://nitter.net/pic/media%2FHCiPNKeawAIqRmd.jpg",
-        "https://nitter.net/pic/media%2FHCiPNKfbAAAhMqi.jpg"
       ]
     },
     {
@@ -367,18 +364,18 @@
       ]
     },
     {
-      "id": "6217fc5fdb1a0af0080ad54026d0ed61b84ee9fed3270705bd4e43f566dfdde4",
+      "id": "88336307eb97d2907e34bd4248afd788d093c6603d3f08efc6703c922b9303d7",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
       "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029199460878737884#m",
-      "date": "Wed, 04 Mar 2026 14:17:06 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2029229660555391463#m",
+      "date": "Wed, 04 Mar 2026 16:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCkqKB2awAMz2bx.jpg"
+        "https://nitter.net/pic/media%2FHClFn4-WQAcfZ-1.jpg"
       ]
     }
   ],
@@ -545,19 +542,6 @@
       ]
     },
     {
-      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That would be another option I have in mind for Zoro's battle for now.",
-      "text": "That would be another option I have in mind for Zoro's battle for now.",
-      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
-      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "c686daac0730372f398329bdb3c869e2afa1da8b49b5d517246d13ff29f508ed",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -573,6 +557,19 @@
       ]
     },
     {
+      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "That would be another option I have in mind for Zoro's battle for now.",
+      "text": "That would be another option I have in mind for Zoro's battle for now.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
+      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "3048ebb6a171e64c06cdc4f412f33b2539d7909b8d6a5a298613b38184d99071",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -586,6 +583,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCjgfWgXQAAuSiq.jpg",
         "https://nitter.net/pic/media%2FHCjgvdkbwAEFAQ6.jpg"
+      ]
+    },
+    {
+      "id": "1b33630ea9598ea78c441e3816162f4d1b1ea2f03189568eb2df9b3bab9bf8c6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
+      "text": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
+      "url": "https://nitter.net/hbomax/status/2029225381056651634#m",
+      "date": "Wed, 04 Mar 2026 16:00:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCk-xJ4W0AAxkVP.jpg"
       ]
     },
     {
@@ -649,24 +661,6 @@
         "https://nitter.net/pic/media%2FHCketn9awAMA-o-.jpg",
         "https://nitter.net/pic/media%2FHCketn7bYAAmt1Y.jpg",
         "https://nitter.net/pic/media%2FHCketnNXUAAchuZ.jpg"
-      ]
-    },
-    {
-      "id": "e3e1e4c7d0615c44cda085bb2f03209e614908921f95bea41ed29aeeb3c292b2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
-      "text": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
-      "url": "https://nitter.net/ARIMORIA/status/2029029094151860594#m",
-      "date": "Wed, 04 Mar 2026 03:00:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCiPNKeawAQf61Y.jpg",
-        "https://nitter.net/pic/media%2FHCiPNKdagAAkN7w.jpg",
-        "https://nitter.net/pic/media%2FHCiPNKeawAIqRmd.jpg",
-        "https://nitter.net/pic/media%2FHCiPNKfbAAAhMqi.jpg"
       ]
     },
     {
@@ -746,18 +740,18 @@
       ]
     },
     {
-      "id": "6217fc5fdb1a0af0080ad54026d0ed61b84ee9fed3270705bd4e43f566dfdde4",
+      "id": "88336307eb97d2907e34bd4248afd788d093c6603d3f08efc6703c922b9303d7",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
       "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029199460878737884#m",
-      "date": "Wed, 04 Mar 2026 14:17:06 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2029229660555391463#m",
+      "date": "Wed, 04 Mar 2026 16:17:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCkqKB2awAMz2bx.jpg"
+        "https://nitter.net/pic/media%2FHClFn4-WQAcfZ-1.jpg"
       ]
     }
   ]
