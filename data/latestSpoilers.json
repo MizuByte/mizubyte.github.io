@@ -1,8 +1,217 @@
 {
-  "generatedAt": "2026-03-04T10:22:36.237Z",
+  "generatedAt": "2026-03-04T11:00:26.967Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "1e2e69196ae0a0380e515bea5b678006753a188191eb0db9a497270c0d3695e2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
+      "text": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2029141024853914036#m",
+      "date": "Wed, 04 Mar 2026 10:24:54 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
+      ]
+    },
+    {
+      "id": "ffe3abc5aed9108b16a35354f39d1075e04d4960faf5ec06474786569b2b5870",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 SPOILERS OUT!! Pew (@pewpiece) #ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME — https://nitter.net/pewpiece/status/2029141024853914036#m",
+      "text": "#ONEPIECE1176 SPOILERS OUT!! Pew (@pewpiece) #ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME — https://nitter.net/pewpiece/status/2029141024853914036#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2029141915996705121#m",
+      "date": "Wed, 04 Mar 2026 10:28:27 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
+      ]
+    },
+    {
+      "id": "50b55c97eeba6bee66a2afb1117c785eb8b636419e1b535a4d472eeefc755e1e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Maybe it'll be like in Thriller Bark, with Zoro and Sanji defeating Sommers and Kilingham and helping (if it really happens) Luffy along with the entire Straw Hat crew against Dr. Loki in an Oars-styl",
+      "text": "Maybe it'll be like in Thriller Bark, with Zoro and Sanji defeating Sommers and Kilingham and helping (if it really happens) Luffy along with the entire Straw Hat crew against Dr. Loki in an Oars-style fight. I'd love that too...",
+      "url": "https://nitter.net/WorstGenHQ/status/2029120030470762893#m",
+      "date": "Wed, 04 Mar 2026 09:01:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    }
+  ],
   "misc": [
+    {
+      "id": "9abbfb7b9fd4f498d99c95a7cac0e07f6a4e687cb64c2cb34514dae60fa00905",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "the secret of the onepiece treasure is now at the bottom of the ocean.",
+      "text": "the secret of the onepiece treasure is now at the bottom of the ocean.",
+      "url": "https://nitter.net/pewpiece/status/2028860732343783922#m",
+      "date": "Tue, 03 Mar 2026 15:51:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCf17u2WgAAHv2M.jpg"
+      ]
+    },
+    {
+      "id": "67a46794897df601c3f091f1632b906ccee2fa9618aba48ee7d9c7a32fefd060",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda has placed the secret of the ONE PIECE treasure and Monkey D. Luffy in the ocean at a sea floor depth of 651 m.",
+      "text": "Oda has placed the secret of the ONE PIECE treasure and Monkey D. Luffy in the ocean at a sea floor depth of 651 m.",
+      "url": "https://nitter.net/pewpiece/status/2028856239606636567#m",
+      "date": "Tue, 03 Mar 2026 15:33:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfx_PuWMAAy44X.jpg"
+      ]
+    },
+    {
+      "id": "217cbcefad8c7296cdbffdd90db0a094df22ed95a4a86c8f654d19ff481bc07c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the serie",
+      "text": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends.",
+      "url": "https://nitter.net/pewpiece/status/2028850357707681955#m",
+      "date": "Tue, 03 Mar 2026 15:09:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
+      ]
+    },
+    {
+      "id": "0bb1ddd46496707fbbda7c36f263716981023d8bb2dae8714c7d560aa83c55f6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONE PIECE WORLD TOP 100 POPULARITY POLL HAS OFFICIALLY KICKED OFF! YOU CAN NOW VOTE FOR YOUR FAVORITE ONEPIECE CHARACTERS HERE: LINK : onepiecewt100-2026.com",
+      "text": "THE ONE PIECE WORLD TOP 100 POPULARITY POLL HAS OFFICIALLY KICKED OFF! YOU CAN NOW VOTE FOR YOUR FAVORITE ONEPIECE CHARACTERS HERE: LINK : onepiecewt100-2026.com",
+      "url": "https://nitter.net/pewpiece/status/2028849662149435801#m",
+      "date": "Tue, 03 Mar 2026 15:07:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfrqf1b0AA7DE9.jpg"
+      ]
+    },
+    {
+      "id": "f0b36845b569b77dd73977ca9e051271b4fb61385fdb5025dd05c205c33244f4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
+      "text": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
+      "url": "https://nitter.net/pewpiece/status/2028848920701346205#m",
+      "date": "Tue, 03 Mar 2026 15:04:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2028848352733925377%2Fimg%2FCqAD9rqzcvqsM4jP.jpg"
+      ]
+    },
+    {
+      "id": "08be4f957f839c57e9e2ff3c5d66ffa34676bb4ba05c908aea6cf87768f48f92",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Spanish PM Pedro Sánchez on Iran: Twenty-three years ago, another US administration dragged us into a war in the Middle East. A war that, in theory, it was said at the time, was being fought to elimin",
+      "text": "Spanish PM Pedro Sánchez on Iran: Twenty-three years ago, another US administration dragged us into a war in the Middle East. A war that, in theory, it was said at the time, was being fought to eliminate Saddam Hussein's weapons of mass destruction, bring democracy and ensure global security. But which in reality, seen in perspective, produced the opposite effect, it unleashed the greatest wave of insecurity that our continent has suffered since the fall of the Berlin Wall. The Iraq War generated a drastic increase in jihadist terrorism, a serious migration crisis in the Eastern Mediterranean and a generalized increase in energy prices. Video",
+      "url": "https://nitter.net/clashreport/status/2029108191343116615#m",
+      "date": "Wed, 04 Mar 2026 08:14:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2029107974539755521%2Fimg%2FSVK7_S4sVPORu9Tz.jpg"
+      ]
+    },
+    {
+      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "That would be another option I have in mind for Zoro's battle for now.",
+      "text": "That would be another option I have in mind for Zoro's battle for now.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
+      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c686daac0730372f398329bdb3c869e2afa1da8b49b5d517246d13ff29f508ed",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 I don't want to give my Zoro bros any false hope. But the fact HOW Domi Reversi can be nullified really gives Zoro the perfect opportunity to get his \"Cut Off a Dragon's Head\" feat, like",
+      "text": "#ONEPIECE1176 I don't want to give my Zoro bros any false hope. But the fact HOW Domi Reversi can be nullified really gives Zoro the perfect opportunity to get his \"Cut Off a Dragon's Head\" feat, like Ryuma had against a Western dragon(maybe linked to Onigashima too).🔥 #ZKL",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121719156281432#m",
+      "date": "Wed, 04 Mar 2026 09:08:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjjVsKW0AAjHWZ.jpg"
+      ]
+    },
+    {
+      "id": "3048ebb6a171e64c06cdc4f412f33b2539d7909b8d6a5a298613b38184d99071",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 There aren't many options. The main reason for my assumption about Zoro vs. Sommers is the pairing of Holy Knight fights. If Gunko is meant for Luffy/Loki and Sanji fights Kilingham, the",
+      "text": "#ONEPIECE1176 There aren't many options. The main reason for my assumption about Zoro vs. Sommers is the pairing of Holy Knight fights. If Gunko is meant for Luffy/Loki and Sanji fights Kilingham, then Sommers is the only remaining Holy Knight option for Zoro. Oda always makes it clear that the monster trio always gets the strongest opponents. If Luffy and Sanji fight Holy Knights, you can be 100% sure that Zoro will do the same. Furthermore, Luffy's statement that Sommers should remember Zoro's name fits perfectly for a fight.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029120007729262975#m",
+      "date": "Wed, 04 Mar 2026 09:01:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjgfWgXQAAuSiq.jpg",
+        "https://nitter.net/pic/media%2FHCjgvdkbwAEFAQ6.jpg"
+      ]
+    },
+    {
+      "id": "e8e0c336043525915769159c994f1c10e5f5c50006dcccfcb272a6321b2dcaee",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言っていたが、コミックスでは長男である「ペロスペロー」に修正された。38年前だからペロスペローは12歳。この頃はまだリンリンの子供達は誰も“悪魔の実”を食べてないっぽいね。",
+      "text": "#ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言っていたが、コミックスでは長男である「ペロスペロー」に修正された。38年前だからペロスペローは12歳。この頃はまだリンリンの子供達は誰も“悪魔の実”を食べてないっぽいね。",
+      "url": "https://nitter.net/manganouA/status/2029131849658974568#m",
+      "date": "Wed, 04 Mar 2026 09:48:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjsqVhawAIZR-F.jpg"
+      ]
+    },
+    {
+      "id": "3d2b30368320177b0a429fb88cc9ad352a2a9db6c278f2909afc46a96311532c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#ONEPIECE114 修正情報② 第1160話の扉絵修正。 ジャンプ掲載時、ワノ国花の都の“麦わらの一味”の海賊旗が掲げてある筈の場所にそれがなかったが、コミックスの方ではしっかりと追記された🏴‍☠️ .Log【ワンピース考察】 (@manganouA) #ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言って",
+      "text": "#ONEPIECE114 修正情報② 第1160話の扉絵修正。 ジャンプ掲載時、ワノ国花の都の“麦わらの一味”の海賊旗が掲げてある筈の場所にそれがなかったが、コミックスの方ではしっかりと追記された🏴‍☠️ .Log【ワンピース考察】 (@manganouA) #ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言っていたが、コミックスでは長男である「ペロスペロー」に修正された。38年前だからペロスペローは12歳。この頃はまだリンリンの子供達は誰も“悪魔の実”を食べてないっぽいね。 — https://nitter.net/manganouA/status/2029131849658974568#m",
+      "url": "https://nitter.net/manganouA/status/2029142488695619994#m",
+      "date": "Wed, 04 Mar 2026 10:30:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCj2RRYbYAEp5eJ.jpg",
+        "https://nitter.net/pic/media%2FHCjsqVhawAIZR-F.jpg"
+      ]
+    },
     {
       "id": "df29f778ef4b776a7492dd0bcff33e05f330fbcb95c48cdde8898ba193310beb",
       "anime": "onepiece",
@@ -21,19 +230,17 @@
       ]
     },
     {
-      "id": "c998d0703f97e31be91f647ea4ac4b4d5c53da5ccb5d529a67bcc7fda53a6621",
+      "id": "49dcad5af8dfe1df20b57a75e9143b8b98af60e7baf14a5b720da713298f6923",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定です！ tamashiiweb.com/ #ONEPIECE",
-      "text": "【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定です！ tamashiiweb.com/ #ONEPIECE",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2029090428210036792#m",
-      "date": "Wed, 04 Mar 2026 07:03:51 GMT",
+      "title": "RT @Eiichiro_Staff: 【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定で…",
+      "text": "RT @Eiichiro_Staff: 【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定で…",
+      "url": "https://nitter.net/Mugiwara_23/status/2029096593148801145#m",
+      "date": "Wed, 04 Mar 2026 07:28:21 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjG_T0awAAG9j3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f7a60b431f3502d81fa3e3e89ab195768818370a4d155d72e70c15421889480b",
@@ -64,37 +271,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCexqLwWYAApl3r.jpg"
-      ]
-    },
-    {
-      "id": "b327b75681c91ec12dcc1cd4d810619166fecdaf7be8ede9d4543dbb237b7227",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "新聞もゲット",
-      "text": "新聞もゲット",
-      "url": "https://nitter.net/taiyounomotohe/status/2029033421394391443#m",
-      "date": "Wed, 04 Mar 2026 03:17:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCiTJLuawAACAdq.jpg"
-      ]
-    },
-    {
-      "id": "6945167248731797fee5cca2185772e6173232c2305351d905167abda4a892d6",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "こんにちは😊コミ担です 本日3/4(水) ジャンプコミック発売日 原作:ONE(@ONE_rakugaki)先生 漫画:]村田雄介(@NEBU_KURO)先生 『#ワンパンマン』36巻発売❣️ ただ今 特製 タツマキのフレークシールシート付き ただし 数に限りあります❣️ #スマ本屋三洋堂大田川店",
-      "text": "こんにちは😊コミ担です 本日3/4(水) ジャンプコミック発売日 原作:ONE(@ONE_rakugaki)先生 漫画:]村田雄介(@NEBU_KURO)先生 『#ワンパンマン』36巻発売❣️ ただ今 特製 タツマキのフレークシールシート付き ただし 数に限りあります❣️ #スマ本屋三洋堂大田川店",
-      "url": "https://nitter.net/sanyodo_otagawa/status/2029045438222102794#m",
-      "date": "Wed, 04 Mar 2026 04:05:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCieDhqbgAAaNgB.jpg",
-        "https://nitter.net/pic/media%2FHCieDh-agAAS973.jpg"
       ]
     },
     {
@@ -170,26 +346,219 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCiFXPfW8AA7Ap1.jpg"
-      ]
-    },
-    {
-      "id": "3d9ecac2179c27e69d945e22b4bb4a6e471f8f3be531988f8d0da5806d21704e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028988071308358087#m",
-      "date": "Wed, 04 Mar 2026 00:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHChp5f0XoAAY3PY.jpg"
       ]
     }
   ],
   "items": [
     {
+      "id": "1e2e69196ae0a0380e515bea5b678006753a188191eb0db9a497270c0d3695e2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
+      "text": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2029141024853914036#m",
+      "date": "Wed, 04 Mar 2026 10:24:54 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
+      ]
+    },
+    {
+      "id": "ffe3abc5aed9108b16a35354f39d1075e04d4960faf5ec06474786569b2b5870",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 SPOILERS OUT!! Pew (@pewpiece) #ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME — https://nitter.net/pewpiece/status/2029141024853914036#m",
+      "text": "#ONEPIECE1176 SPOILERS OUT!! Pew (@pewpiece) #ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME — https://nitter.net/pewpiece/status/2029141024853914036#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2029141915996705121#m",
+      "date": "Wed, 04 Mar 2026 10:28:27 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
+      ]
+    },
+    {
+      "id": "50b55c97eeba6bee66a2afb1117c785eb8b636419e1b535a4d472eeefc755e1e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Maybe it'll be like in Thriller Bark, with Zoro and Sanji defeating Sommers and Kilingham and helping (if it really happens) Luffy along with the entire Straw Hat crew against Dr. Loki in an Oars-styl",
+      "text": "Maybe it'll be like in Thriller Bark, with Zoro and Sanji defeating Sommers and Kilingham and helping (if it really happens) Luffy along with the entire Straw Hat crew against Dr. Loki in an Oars-style fight. I'd love that too...",
+      "url": "https://nitter.net/WorstGenHQ/status/2029120030470762893#m",
+      "date": "Wed, 04 Mar 2026 09:01:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9abbfb7b9fd4f498d99c95a7cac0e07f6a4e687cb64c2cb34514dae60fa00905",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "the secret of the onepiece treasure is now at the bottom of the ocean.",
+      "text": "the secret of the onepiece treasure is now at the bottom of the ocean.",
+      "url": "https://nitter.net/pewpiece/status/2028860732343783922#m",
+      "date": "Tue, 03 Mar 2026 15:51:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCf17u2WgAAHv2M.jpg"
+      ]
+    },
+    {
+      "id": "67a46794897df601c3f091f1632b906ccee2fa9618aba48ee7d9c7a32fefd060",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda has placed the secret of the ONE PIECE treasure and Monkey D. Luffy in the ocean at a sea floor depth of 651 m.",
+      "text": "Oda has placed the secret of the ONE PIECE treasure and Monkey D. Luffy in the ocean at a sea floor depth of 651 m.",
+      "url": "https://nitter.net/pewpiece/status/2028856239606636567#m",
+      "date": "Tue, 03 Mar 2026 15:33:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfx_PuWMAAy44X.jpg"
+      ]
+    },
+    {
+      "id": "217cbcefad8c7296cdbffdd90db0a094df22ed95a4a86c8f654d19ff481bc07c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the serie",
+      "text": "BREAKING 🚨🚨🚨🚨: Eiichiro Oda has written the secret of the ONEPIECE treasure and Monkey D. Luffy on a piece of paper and hid it at the bottom of the ocean. The truth will be revealed once the series ends.",
+      "url": "https://nitter.net/pewpiece/status/2028850357707681955#m",
+      "date": "Tue, 03 Mar 2026 15:09:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfsR1yWsAAPgmF.jpg"
+      ]
+    },
+    {
+      "id": "0bb1ddd46496707fbbda7c36f263716981023d8bb2dae8714c7d560aa83c55f6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONE PIECE WORLD TOP 100 POPULARITY POLL HAS OFFICIALLY KICKED OFF! YOU CAN NOW VOTE FOR YOUR FAVORITE ONEPIECE CHARACTERS HERE: LINK : onepiecewt100-2026.com",
+      "text": "THE ONE PIECE WORLD TOP 100 POPULARITY POLL HAS OFFICIALLY KICKED OFF! YOU CAN NOW VOTE FOR YOUR FAVORITE ONEPIECE CHARACTERS HERE: LINK : onepiecewt100-2026.com",
+      "url": "https://nitter.net/pewpiece/status/2028849662149435801#m",
+      "date": "Tue, 03 Mar 2026 15:07:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCfrqf1b0AA7DE9.jpg"
+      ]
+    },
+    {
+      "id": "f0b36845b569b77dd73977ca9e051271b4fb61385fdb5025dd05c205c33244f4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
+      "text": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
+      "url": "https://nitter.net/pewpiece/status/2028848920701346205#m",
+      "date": "Tue, 03 Mar 2026 15:04:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2028848352733925377%2Fimg%2FCqAD9rqzcvqsM4jP.jpg"
+      ]
+    },
+    {
+      "id": "08be4f957f839c57e9e2ff3c5d66ffa34676bb4ba05c908aea6cf87768f48f92",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Spanish PM Pedro Sánchez on Iran: Twenty-three years ago, another US administration dragged us into a war in the Middle East. A war that, in theory, it was said at the time, was being fought to elimin",
+      "text": "Spanish PM Pedro Sánchez on Iran: Twenty-three years ago, another US administration dragged us into a war in the Middle East. A war that, in theory, it was said at the time, was being fought to eliminate Saddam Hussein's weapons of mass destruction, bring democracy and ensure global security. But which in reality, seen in perspective, produced the opposite effect, it unleashed the greatest wave of insecurity that our continent has suffered since the fall of the Berlin Wall. The Iraq War generated a drastic increase in jihadist terrorism, a serious migration crisis in the Eastern Mediterranean and a generalized increase in energy prices. Video",
+      "url": "https://nitter.net/clashreport/status/2029108191343116615#m",
+      "date": "Wed, 04 Mar 2026 08:14:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2029107974539755521%2Fimg%2FSVK7_S4sVPORu9Tz.jpg"
+      ]
+    },
+    {
+      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "That would be another option I have in mind for Zoro's battle for now.",
+      "text": "That would be another option I have in mind for Zoro's battle for now.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
+      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c686daac0730372f398329bdb3c869e2afa1da8b49b5d517246d13ff29f508ed",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 I don't want to give my Zoro bros any false hope. But the fact HOW Domi Reversi can be nullified really gives Zoro the perfect opportunity to get his \"Cut Off a Dragon's Head\" feat, like",
+      "text": "#ONEPIECE1176 I don't want to give my Zoro bros any false hope. But the fact HOW Domi Reversi can be nullified really gives Zoro the perfect opportunity to get his \"Cut Off a Dragon's Head\" feat, like Ryuma had against a Western dragon(maybe linked to Onigashima too).🔥 #ZKL",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121719156281432#m",
+      "date": "Wed, 04 Mar 2026 09:08:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjjVsKW0AAjHWZ.jpg"
+      ]
+    },
+    {
+      "id": "3048ebb6a171e64c06cdc4f412f33b2539d7909b8d6a5a298613b38184d99071",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1176 There aren't many options. The main reason for my assumption about Zoro vs. Sommers is the pairing of Holy Knight fights. If Gunko is meant for Luffy/Loki and Sanji fights Kilingham, the",
+      "text": "#ONEPIECE1176 There aren't many options. The main reason for my assumption about Zoro vs. Sommers is the pairing of Holy Knight fights. If Gunko is meant for Luffy/Loki and Sanji fights Kilingham, then Sommers is the only remaining Holy Knight option for Zoro. Oda always makes it clear that the monster trio always gets the strongest opponents. If Luffy and Sanji fight Holy Knights, you can be 100% sure that Zoro will do the same. Furthermore, Luffy's statement that Sommers should remember Zoro's name fits perfectly for a fight.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029120007729262975#m",
+      "date": "Wed, 04 Mar 2026 09:01:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjgfWgXQAAuSiq.jpg",
+        "https://nitter.net/pic/media%2FHCjgvdkbwAEFAQ6.jpg"
+      ]
+    },
+    {
+      "id": "e8e0c336043525915769159c994f1c10e5f5c50006dcccfcb272a6321b2dcaee",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言っていたが、コミックスでは長男である「ペロスペロー」に修正された。38年前だからペロスペローは12歳。この頃はまだリンリンの子供達は誰も“悪魔の実”を食べてないっぽいね。",
+      "text": "#ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言っていたが、コミックスでは長男である「ペロスペロー」に修正された。38年前だからペロスペローは12歳。この頃はまだリンリンの子供達は誰も“悪魔の実”を食べてないっぽいね。",
+      "url": "https://nitter.net/manganouA/status/2029131849658974568#m",
+      "date": "Wed, 04 Mar 2026 09:48:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjsqVhawAIZR-F.jpg"
+      ]
+    },
+    {
+      "id": "3d2b30368320177b0a429fb88cc9ad352a2a9db6c278f2909afc46a96311532c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#ONEPIECE114 修正情報② 第1160話の扉絵修正。 ジャンプ掲載時、ワノ国花の都の“麦わらの一味”の海賊旗が掲げてある筈の場所にそれがなかったが、コミックスの方ではしっかりと追記された🏴‍☠️ .Log【ワンピース考察】 (@manganouA) #ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言って",
+      "text": "#ONEPIECE114 修正情報② 第1160話の扉絵修正。 ジャンプ掲載時、ワノ国花の都の“麦わらの一味”の海賊旗が掲げてある筈の場所にそれがなかったが、コミックスの方ではしっかりと追記された🏴‍☠️ .Log【ワンピース考察】 (@manganouA) #ONEPIECE114 修正情報① ゴッドバレーでリンリンがGETし(かけ)た“ウオウオの実”。ジャンプ掲載時には「カタクリに」と言っていたが、コミックスでは長男である「ペロスペロー」に修正された。38年前だからペロスペローは12歳。この頃はまだリンリンの子供達は誰も“悪魔の実”を食べてないっぽいね。 — https://nitter.net/manganouA/status/2029131849658974568#m",
+      "url": "https://nitter.net/manganouA/status/2029142488695619994#m",
+      "date": "Wed, 04 Mar 2026 10:30:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCj2RRYbYAEp5eJ.jpg",
+        "https://nitter.net/pic/media%2FHCjsqVhawAIZR-F.jpg"
+      ]
+    },
+    {
       "id": "df29f778ef4b776a7492dd0bcff33e05f330fbcb95c48cdde8898ba193310beb",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -207,19 +576,17 @@
       ]
     },
     {
-      "id": "c998d0703f97e31be91f647ea4ac4b4d5c53da5ccb5d529a67bcc7fda53a6621",
+      "id": "49dcad5af8dfe1df20b57a75e9143b8b98af60e7baf14a5b720da713298f6923",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定です！ tamashiiweb.com/ #ONEPIECE",
-      "text": "【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定です！ tamashiiweb.com/ #ONEPIECE",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2029090428210036792#m",
-      "date": "Wed, 04 Mar 2026 07:03:51 GMT",
+      "title": "RT @Eiichiro_Staff: 【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定で…",
+      "text": "RT @Eiichiro_Staff: 【コラボ情報】 世界最高峰のプロバスケリーグ NBAとのコラボフィギュア！ S.H.Figuartsからは 全6チームのユニフォームを着たルフィと バスケットゴールがラインナップ🏀 日本＆その他アジア地域で 10月より随時発売予定で…",
+      "url": "https://nitter.net/Mugiwara_23/status/2029096593148801145#m",
+      "date": "Wed, 04 Mar 2026 07:28:21 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjG_T0awAAG9j3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f7a60b431f3502d81fa3e3e89ab195768818370a4d155d72e70c15421889480b",
@@ -250,37 +617,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCexqLwWYAApl3r.jpg"
-      ]
-    },
-    {
-      "id": "b327b75681c91ec12dcc1cd4d810619166fecdaf7be8ede9d4543dbb237b7227",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "新聞もゲット",
-      "text": "新聞もゲット",
-      "url": "https://nitter.net/taiyounomotohe/status/2029033421394391443#m",
-      "date": "Wed, 04 Mar 2026 03:17:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCiTJLuawAACAdq.jpg"
-      ]
-    },
-    {
-      "id": "6945167248731797fee5cca2185772e6173232c2305351d905167abda4a892d6",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "こんにちは😊コミ担です 本日3/4(水) ジャンプコミック発売日 原作:ONE(@ONE_rakugaki)先生 漫画:]村田雄介(@NEBU_KURO)先生 『#ワンパンマン』36巻発売❣️ ただ今 特製 タツマキのフレークシールシート付き ただし 数に限りあります❣️ #スマ本屋三洋堂大田川店",
-      "text": "こんにちは😊コミ担です 本日3/4(水) ジャンプコミック発売日 原作:ONE(@ONE_rakugaki)先生 漫画:]村田雄介(@NEBU_KURO)先生 『#ワンパンマン』36巻発売❣️ ただ今 特製 タツマキのフレークシールシート付き ただし 数に限りあります❣️ #スマ本屋三洋堂大田川店",
-      "url": "https://nitter.net/sanyodo_otagawa/status/2029045438222102794#m",
-      "date": "Wed, 04 Mar 2026 04:05:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCieDhqbgAAaNgB.jpg",
-        "https://nitter.net/pic/media%2FHCieDh-agAAS973.jpg"
       ]
     },
     {
@@ -356,21 +692,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCiFXPfW8AA7Ap1.jpg"
-      ]
-    },
-    {
-      "id": "3d9ecac2179c27e69d945e22b4bb4a6e471f8f3be531988f8d0da5806d21704e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2028988071308358087#m",
-      "date": "Wed, 04 Mar 2026 00:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHChp5f0XoAAY3PY.jpg"
       ]
     }
   ]
