@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T15:01:05.280Z",
+  "generatedAt": "2026-03-04T15:53:33.853Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -46,6 +46,21 @@
       "attachments": []
     },
     {
+      "id": "9d45d508c82ed071e48623c52eb76b10a929c4cdd19d98e34ce8e3a038bf09a4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2029207167656706336#m",
+      "date": "Wed, 04 Mar 2026 14:47:44 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCkxJxLaYAALBe3.jpg"
+      ]
+    },
+    {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -60,6 +75,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "9c0661f248df78ddbde43ee77b847fee1bbe3568ba3f760eb7d69287153f3e6d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029221217387856292#m",
+      "date": "Wed, 04 Mar 2026 15:43:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028969231845367810%2FqbQzxjjA%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
     {
       "id": "9abbfb7b9fd4f498d99c95a7cac0e07f6a4e687cb64c2cb34514dae60fa00905",
       "anime": "onepiece",
@@ -121,21 +151,6 @@
       ]
     },
     {
-      "id": "f0b36845b569b77dd73977ca9e051271b4fb61385fdb5025dd05c205c33244f4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "text": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "url": "https://nitter.net/pewpiece/status/2028848920701346205#m",
-      "date": "Tue, 03 Mar 2026 15:04:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848352733925377%2Fimg%2FCqAD9rqzcvqsM4jP.jpg"
-      ]
-    },
-    {
       "id": "08be4f957f839c57e9e2ff3c5d66ffa34676bb4ba05c908aea6cf87768f48f92",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -149,6 +164,19 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2029107974539755521%2Fimg%2FSVK7_S4sVPORu9Tz.jpg"
       ]
+    },
+    {
+      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "That would be another option I have in mind for Zoro's battle for now.",
+      "text": "That would be another option I have in mind for Zoro's battle for now.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
+      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "c686daac0730372f398329bdb3c869e2afa1da8b49b5d517246d13ff29f508ed",
@@ -166,19 +194,6 @@
       ]
     },
     {
-      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That would be another option I have in mind for Zoro's battle for now.",
-      "text": "That would be another option I have in mind for Zoro's battle for now.",
-      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
-      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "3048ebb6a171e64c06cdc4f412f33b2539d7909b8d6a5a298613b38184d99071",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -192,6 +207,87 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCjgfWgXQAAuSiq.jpg",
         "https://nitter.net/pic/media%2FHCjgvdkbwAEFAQ6.jpg"
+      ]
+    },
+    {
+      "id": "3dcb37a1bb214e3c4d4cdee750b4fd332c7f68508a602028983b8f84488b2f13",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I voted for Brook",
+      "text": "I voted for Brook",
+      "url": "https://nitter.net/tan_compan40425/status/2029217296087195718#m",
+      "date": "Wed, 04 Mar 2026 15:27:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCk6Xa_a4AAJKpS.jpg"
+      ]
+    },
+    {
+      "id": "0ae8a0dc4bbb8ec418be086ab4ce14f999a3c002a2d4b13ca4dc45d5473868cf",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2029216722507423805#m",
+      "date": "Wed, 04 Mar 2026 15:25:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028851909944279040%2FTAJjOv0M%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "570c61c56c119627255d465158c064cce754264a6c22957cc1ea13093f82588f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
+      "text": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2029188137457762487#m",
+      "date": "Wed, 04 Mar 2026 13:32:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCkf2wsawAQ3oKq.jpg"
+      ]
+    },
+    {
+      "id": "cd1fbfa74e10664ac188e2807a78f351811e3a8a265d6c0eecfe3d91aa42cef3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón🇯🇵!! Hoy añado un nuevo Artbook a mi colección: “Dragon Quest I&II/III Art Works - The Art of Alefgard” 😍😍😍 Se trata del libro de arte oficial de las nuevas versiones HD",
+      "text": "¡¡Nuevo pedido desde Japón🇯🇵!! Hoy añado un nuevo Artbook a mi colección: “Dragon Quest I&II/III Art Works - The Art of Alefgard” 😍😍😍 Se trata del libro de arte oficial de las nuevas versiones HD-2D de estos clásicos del JRPG. IMPRESCINDIBLE para los fan de Dragon Quest 😉😉😉",
+      "url": "https://nitter.net/Mugiwara_23/status/2029188280554492034#m",
+      "date": "Wed, 04 Mar 2026 13:32:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCketnyXYAAJ1zu.jpg",
+        "https://nitter.net/pic/media%2FHCketn9awAMA-o-.jpg",
+        "https://nitter.net/pic/media%2FHCketn7bYAAmt1Y.jpg",
+        "https://nitter.net/pic/media%2FHCketnNXUAAchuZ.jpg"
+      ]
+    },
+    {
+      "id": "e3e1e4c7d0615c44cda085bb2f03209e614908921f95bea41ed29aeeb3c292b2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
+      "text": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
+      "url": "https://nitter.net/ARIMORIA/status/2029029094151860594#m",
+      "date": "Wed, 04 Mar 2026 03:00:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCiPNKeawAQf61Y.jpg",
+        "https://nitter.net/pic/media%2FHCiPNKdagAAkN7w.jpg",
+        "https://nitter.net/pic/media%2FHCiPNKeawAIqRmd.jpg",
+        "https://nitter.net/pic/media%2FHCiPNKfbAAAhMqi.jpg"
       ]
     },
     {
@@ -283,81 +379,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCkqKB2awAMz2bx.jpg"
-      ]
-    },
-    {
-      "id": "42ae3c703e17b0e5c97afd5c1163225ac367b3d83523fa63100fbc734c76ad1a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029169265778053534#m",
-      "date": "Wed, 04 Mar 2026 12:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCkOsbOXYAEeSWN.jpg"
-      ]
-    },
-    {
-      "id": "4180736f663d38bcb9bcea56f72f80e271650c81f9c0792232984f5721898b82",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029139066432741624#m",
-      "date": "Wed, 04 Mar 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjzOnPacAA4MV0.jpg"
-      ]
-    },
-    {
-      "id": "c67fef83aad6414f688ee5d7e2c40cd7e5bd40f2fafa08a2df19cb336792677f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029108865095106963#m",
-      "date": "Wed, 04 Mar 2026 08:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjXwpobYAAh0EQ.jpg"
-      ]
-    },
-    {
-      "id": "9643e4fa4512c6af7f737a073c9b7f611a5d8d3d3798875874b275caa37acd19",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029078672020210144#m",
-      "date": "Wed, 04 Mar 2026 06:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCi8TISWAAA7TcA.jpg"
-      ]
-    },
-    {
-      "id": "efe8ef6ce113b6ef2e3173d5feb62d9d5ea39bc9e0fcec74cf8863b5b0684671",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029048469600501812#m",
-      "date": "Wed, 04 Mar 2026 04:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCig1LFXsAEuWdX.jpg"
       ]
     }
   ],
@@ -406,6 +427,21 @@
       "attachments": []
     },
     {
+      "id": "9d45d508c82ed071e48623c52eb76b10a929c4cdd19d98e34ce8e3a038bf09a4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2029207167656706336#m",
+      "date": "Wed, 04 Mar 2026 14:47:44 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCkxJxLaYAALBe3.jpg"
+      ]
+    },
+    {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -417,6 +453,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "9c0661f248df78ddbde43ee77b847fee1bbe3568ba3f760eb7d69287153f3e6d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029221217387856292#m",
+      "date": "Wed, 04 Mar 2026 15:43:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028969231845367810%2FqbQzxjjA%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "9abbfb7b9fd4f498d99c95a7cac0e07f6a4e687cb64c2cb34514dae60fa00905",
@@ -479,21 +530,6 @@
       ]
     },
     {
-      "id": "f0b36845b569b77dd73977ca9e051271b4fb61385fdb5025dd05c205c33244f4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "text": "OFFICIAL VIDEO CELEBRATING ONE PIECE SURPASSING 600 MILLION COPIES IN CIRCULATION WORLDWIDE! Video",
-      "url": "https://nitter.net/pewpiece/status/2028848920701346205#m",
-      "date": "Tue, 03 Mar 2026 15:04:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848352733925377%2Fimg%2FCqAD9rqzcvqsM4jP.jpg"
-      ]
-    },
-    {
       "id": "08be4f957f839c57e9e2ff3c5d66ffa34676bb4ba05c908aea6cf87768f48f92",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -507,6 +543,19 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2029107974539755521%2Fimg%2FSVK7_S4sVPORu9Tz.jpg"
       ]
+    },
+    {
+      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "That would be another option I have in mind for Zoro's battle for now.",
+      "text": "That would be another option I have in mind for Zoro's battle for now.",
+      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
+      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "c686daac0730372f398329bdb3c869e2afa1da8b49b5d517246d13ff29f508ed",
@@ -524,19 +573,6 @@
       ]
     },
     {
-      "id": "586e896ba34c70fbaa196948d08bcb28df588bade30edbf32b16be104526609b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That would be another option I have in mind for Zoro's battle for now.",
-      "text": "That would be another option I have in mind for Zoro's battle for now.",
-      "url": "https://nitter.net/WorstGenHQ/status/2029121810776690974#m",
-      "date": "Wed, 04 Mar 2026 09:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "3048ebb6a171e64c06cdc4f412f33b2539d7909b8d6a5a298613b38184d99071",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -550,6 +586,87 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCjgfWgXQAAuSiq.jpg",
         "https://nitter.net/pic/media%2FHCjgvdkbwAEFAQ6.jpg"
+      ]
+    },
+    {
+      "id": "3dcb37a1bb214e3c4d4cdee750b4fd332c7f68508a602028983b8f84488b2f13",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I voted for Brook",
+      "text": "I voted for Brook",
+      "url": "https://nitter.net/tan_compan40425/status/2029217296087195718#m",
+      "date": "Wed, 04 Mar 2026 15:27:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCk6Xa_a4AAJKpS.jpg"
+      ]
+    },
+    {
+      "id": "0ae8a0dc4bbb8ec418be086ab4ce14f999a3c002a2d4b13ca4dc45d5473868cf",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2029216722507423805#m",
+      "date": "Wed, 04 Mar 2026 15:25:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028851909944279040%2FTAJjOv0M%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "570c61c56c119627255d465158c064cce754264a6c22957cc1ea13093f82588f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
+      "text": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2029188137457762487#m",
+      "date": "Wed, 04 Mar 2026 13:32:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCkf2wsawAQ3oKq.jpg"
+      ]
+    },
+    {
+      "id": "cd1fbfa74e10664ac188e2807a78f351811e3a8a265d6c0eecfe3d91aa42cef3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón🇯🇵!! Hoy añado un nuevo Artbook a mi colección: “Dragon Quest I&II/III Art Works - The Art of Alefgard” 😍😍😍 Se trata del libro de arte oficial de las nuevas versiones HD",
+      "text": "¡¡Nuevo pedido desde Japón🇯🇵!! Hoy añado un nuevo Artbook a mi colección: “Dragon Quest I&II/III Art Works - The Art of Alefgard” 😍😍😍 Se trata del libro de arte oficial de las nuevas versiones HD-2D de estos clásicos del JRPG. IMPRESCINDIBLE para los fan de Dragon Quest 😉😉😉",
+      "url": "https://nitter.net/Mugiwara_23/status/2029188280554492034#m",
+      "date": "Wed, 04 Mar 2026 13:32:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCketnyXYAAJ1zu.jpg",
+        "https://nitter.net/pic/media%2FHCketn9awAMA-o-.jpg",
+        "https://nitter.net/pic/media%2FHCketn7bYAAmt1Y.jpg",
+        "https://nitter.net/pic/media%2FHCketnNXUAAchuZ.jpg"
+      ]
+    },
+    {
+      "id": "e3e1e4c7d0615c44cda085bb2f03209e614908921f95bea41ed29aeeb3c292b2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
+      "text": "ワンピ新刊114巻発売！ #ONEPIECE6億部 突破！第2回 #ONEPIECE_WT100 開催！色々おめでとう!!このデっケェ世界と沢山のキャラ達が大好きです!!ロマンがあるじゃねェか!!",
+      "url": "https://nitter.net/ARIMORIA/status/2029029094151860594#m",
+      "date": "Wed, 04 Mar 2026 03:00:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCiPNKeawAQf61Y.jpg",
+        "https://nitter.net/pic/media%2FHCiPNKdagAAkN7w.jpg",
+        "https://nitter.net/pic/media%2FHCiPNKeawAIqRmd.jpg",
+        "https://nitter.net/pic/media%2FHCiPNKfbAAAhMqi.jpg"
       ]
     },
     {
@@ -641,81 +758,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCkqKB2awAMz2bx.jpg"
-      ]
-    },
-    {
-      "id": "42ae3c703e17b0e5c97afd5c1163225ac367b3d83523fa63100fbc734c76ad1a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029169265778053534#m",
-      "date": "Wed, 04 Mar 2026 12:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCkOsbOXYAEeSWN.jpg"
-      ]
-    },
-    {
-      "id": "4180736f663d38bcb9bcea56f72f80e271650c81f9c0792232984f5721898b82",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029139066432741624#m",
-      "date": "Wed, 04 Mar 2026 10:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjzOnPacAA4MV0.jpg"
-      ]
-    },
-    {
-      "id": "c67fef83aad6414f688ee5d7e2c40cd7e5bd40f2fafa08a2df19cb336792677f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029108865095106963#m",
-      "date": "Wed, 04 Mar 2026 08:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjXwpobYAAh0EQ.jpg"
-      ]
-    },
-    {
-      "id": "9643e4fa4512c6af7f737a073c9b7f611a5d8d3d3798875874b275caa37acd19",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029078672020210144#m",
-      "date": "Wed, 04 Mar 2026 06:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCi8TISWAAA7TcA.jpg"
-      ]
-    },
-    {
-      "id": "efe8ef6ce113b6ef2e3173d5feb62d9d5ea39bc9e0fcec74cf8863b5b0684671",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029048469600501812#m",
-      "date": "Wed, 04 Mar 2026 04:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCig1LFXsAEuWdX.jpg"
       ]
     }
   ]
