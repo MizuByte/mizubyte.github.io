@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-03-05T02:36:33.250Z",
+  "generatedAt": "2026-03-05T04:26:41.492Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "1e2e69196ae0a0380e515bea5b678006753a188191eb0db9a497270c0d3695e2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
-      "text": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2029141024853914036#m",
-      "date": "Wed, 04 Mar 2026 10:24:54 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
-      ]
-    },
     {
       "id": "ffe3abc5aed9108b16a35354f39d1075e04d4960faf5ec06474786569b2b5870",
       "anime": "onepiece",
@@ -30,34 +15,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
-      ]
-    },
-    {
-      "id": "f2ca711235bf590a5fe75f8e554599b6a2078da86de54976863e8ceb66b8873f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🧡Translation: Togashi: I’ve completed the dialogues for characters and the instruction sheets for my assistants on how the backgrounds should be drawn in No. 422.",
-      "text": "🧡Translation: Togashi: I’ve completed the dialogues for characters and the instruction sheets for my assistants on how the backgrounds should be drawn in No. 422.",
-      "url": "https://nitter.net/sandman_AP/status/2029331821700497656#m",
-      "date": "Wed, 04 Mar 2026 23:03:04 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "9d45d508c82ed071e48623c52eb76b10a929c4cdd19d98e34ce8e3a038bf09a4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2029207167656706336#m",
-      "date": "Wed, 04 Mar 2026 14:47:44 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCkxJxLaYAALBe3.jpg"
       ]
     },
     {
@@ -76,82 +33,6 @@
   ],
   "misc": [
     {
-      "id": "0c194514cd201ff171cefd98e61f179335d7b7e8613c35d10dbd1c61609f428b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "text": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "url": "https://nitter.net/pewpiece/status/2029319320807862673#m",
-      "date": "Wed, 04 Mar 2026 22:13:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCmXDO5XEAAi-xc.jpg",
-        "https://nitter.net/pic/media%2FHCmXHE3WYAIY5XV.jpg"
-      ]
-    },
-    {
-      "id": "c5998c75e1cfba41108f55f727b4ccd3094b196a3d17c726ac7c1c033a89d0f5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
-      "text": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2029302870114484679#m",
-      "date": "Wed, 04 Mar 2026 21:08:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCmIMuZXEAAjoSU.jpg"
-      ]
-    },
-    {
-      "id": "2bfb7dd2fa7143ceae43557286135ccaadb99009ec7a0f856a04d182fa0417d4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Crunchyroll statement on onepiece reaching 600 million copies in circulation",
-      "text": "Crunchyroll statement on onepiece reaching 600 million copies in circulation",
-      "url": "https://nitter.net/pewpiece/status/2029277964764840245#m",
-      "date": "Wed, 04 Mar 2026 19:29:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHClxjL0awAE7LEx.png"
-      ]
-    },
-    {
-      "id": "9c0661f248df78ddbde43ee77b847fee1bbe3568ba3f760eb7d69287153f3e6d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029221217387856292#m",
-      "date": "Wed, 04 Mar 2026 15:43:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028969231845367810%2FqbQzxjjA%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "9abbfb7b9fd4f498d99c95a7cac0e07f6a4e687cb64c2cb34514dae60fa00905",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "the secret of the onepiece treasure is now at the bottom of the ocean.",
-      "text": "the secret of the onepiece treasure is now at the bottom of the ocean.",
-      "url": "https://nitter.net/pewpiece/status/2028860732343783922#m",
-      "date": "Tue, 03 Mar 2026 15:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCf17u2WgAAHv2M.jpg"
-      ]
-    },
-    {
       "id": "a3e9aeea2fc212fab978afbbcf5c2c79f113b322511c4cf78e70ab78a922367d",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -227,63 +108,95 @@
       ]
     },
     {
-      "id": "1b33630ea9598ea78c441e3816162f4d1b1ea2f03189568eb2df9b3bab9bf8c6",
+      "id": "cb1f35b2cdcf4f2cfe8f91a8fd7eb93b82fb24a920bf391b4e930bf5f1cd404a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
-      "text": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
-      "url": "https://nitter.net/hbomax/status/2029225381056651634#m",
-      "date": "Wed, 04 Mar 2026 16:00:06 GMT",
+      "title": "これは可愛すぎる！！！ドキドキした！！！",
+      "text": "これは可愛すぎる！！！ドキドキした！！！",
+      "url": "https://nitter.net/yutaonepi/status/2029168741582533097#m",
+      "date": "Wed, 04 Mar 2026 12:15:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCk-xJ4W0AAxkVP.jpg"
+        "https://nitter.net/pic/media%2FHCkONm9awAQPN18.jpg"
       ]
     },
     {
-      "id": "3dcb37a1bb214e3c4d4cdee750b4fd332c7f68508a602028983b8f84488b2f13",
+      "id": "2d12066b06959684b191cc711e7311994214dfe4e23b36c8404e88d32602f310",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "I voted for Brook",
-      "text": "I voted for Brook",
-      "url": "https://nitter.net/tan_compan40425/status/2029217296087195718#m",
-      "date": "Wed, 04 Mar 2026 15:27:59 GMT",
+      "title": "【コラボ情報】 Salute × 『ONE PIECE HEROINES』 コラボポスターが公開されました！ 3月より随時 オリジナルショッパー(紙袋)の配布や 各種プレゼントキャンペーンを実施🛍️ ▼くわしくはこちら wacoal.jp/Salute/onepiece/ #ONEPIECE",
+      "text": "【コラボ情報】 Salute × 『ONE PIECE HEROINES』 コラボポスターが公開されました！ 3月より随時 オリジナルショッパー(紙袋)の配布や 各種プレゼントキャンペーンを実施🛍️ ▼くわしくはこちら wacoal.jp/Salute/onepiece/ #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2029392345867960565#m",
+      "date": "Thu, 05 Mar 2026 03:03:34 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCk6Xa_a4AAJKpS.jpg"
+        "https://nitter.net/pic/media%2FHCnZlMYbQAA2Cju.jpg"
       ]
     },
     {
-      "id": "0ae8a0dc4bbb8ec418be086ab4ce14f999a3c002a2d4b13ca4dc45d5473868cf",
+      "id": "81861f3b96c57b4ff6ea1a1f17c6a523c9f61417d5753847b9843ccc61bc5cdd",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2029216722507423805#m",
-      "date": "Wed, 04 Mar 2026 15:25:42 GMT",
+      "title": "You manifested it early. The official #Lanterns teaser is here. Coming this August. Video",
+      "text": "You manifested it early. The official #Lanterns teaser is here. Coming this August. Video",
+      "url": "https://nitter.net/JamesGunn/status/2029284790982041832#m",
+      "date": "Wed, 04 Mar 2026 19:56:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2028851909944279040%2FTAJjOv0M%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/amplify_video_thumb%2F2029284682043396096%2Fimg%2Ff0clENkbVXpLKmZ_.jpg"
       ]
     },
     {
-      "id": "570c61c56c119627255d465158c064cce754264a6c22957cc1ea13093f82588f",
+      "id": "ca67929bdfea572441fd7ba8d7a3bf3a2c36c88b5d12f93f54e1a1195c132cec",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
-      "text": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2029188137457762487#m",
-      "date": "Wed, 04 Mar 2026 13:32:07 GMT",
+      "title": "ONEPIECE114巻ウソップギャラリー海賊団に掲載していただけました！！ 1巻前に送ったやつだったのでびっくりしたけど自信作だったので乗船できてとっても嬉しいです✨️ 尾田先生やその他選考に関わってくださった皆様、本当にありがとうございました‼️ #ONEPIECE114巻 #ONEPIECE",
+      "text": "ONEPIECE114巻ウソップギャラリー海賊団に掲載していただけました！！ 1巻前に送ったやつだったのでびっくりしたけど自信作だったので乗船できてとっても嬉しいです✨️ 尾田先生やその他選考に関わってくださった皆様、本当にありがとうございました‼️ #ONEPIECE114巻 #ONEPIECE",
+      "url": "https://nitter.net/shinta_gon_00/status/2029231863391543514#m",
+      "date": "Wed, 04 Mar 2026 16:25:52 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCkf2wsawAQ3oKq.jpg"
+        "https://nitter.net/pic/media%2FHClHn0QaMAAI5Os.jpg",
+        "https://nitter.net/pic/media%2FHClHn0TawAAxCiD.jpg"
+      ]
+    },
+    {
+      "id": "c8708f93aa4c382a8969514268b54914510a77f4894c48951389e24665ca9cc6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Special Heroes wearing rabbit ears and participating in an egg-hunt competition are coming soon in the summoning event: Springtime Sisters! Also, 5★ Hero Bernadetta: Late Hibernator will appear as a S",
+      "text": "Special Heroes wearing rabbit ears and participating in an egg-hunt competition are coming soon in the summoning event: Springtime Sisters! Also, 5★ Hero Bernadetta: Late Hibernator will appear as a Score Reward in the next Tempest Trials+ event! #FEHeroes #FireEmblem Video",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2029391457300430931#m",
+      "date": "Thu, 05 Mar 2026 03:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjiK0MagAEVBKG.jpg"
+      ]
+    },
+    {
+      "id": "6cb3539d0b6e4d4bffdbb348572b455b06cb6348450122591e0c8879b0d08ef6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "While everybody is focusing on Iran the DOJ is deleting the Epstein files. The Mission successful Coinvo (@Coinvo) BREAKING: 🇺🇸 DOJ has deleted over 65,000 pages of the Epstein files. — https://nitt",
+      "text": "While everybody is focusing on Iran the DOJ is deleting the Epstein files. The Mission successful Coinvo (@Coinvo) BREAKING: 🇺🇸 DOJ has deleted over 65,000 pages of the Epstein files. — https://nitter.net/Coinvo/status/2029074364927508803#m",
+      "url": "https://nitter.net/hashjenni/status/2029149175527751954#m",
+      "date": "Wed, 04 Mar 2026 10:57:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCi3T8BbgAAENpe.jpg",
+        "https://nitter.net/pic/media%2FHCi3T7uXgAAS64m.jpg"
       ]
     },
     {
@@ -363,6 +276,21 @@
       ]
     },
     {
+      "id": "42c716fad5d1985b546e2a3bf0f3a0c99e9fc700cacaaa896f913567c9882759",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029410852537831830#m",
+      "date": "Thu, 05 Mar 2026 04:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnqanOXoAApXcl.jpg"
+      ]
+    },
+    {
       "id": "b7bc47aaca7cbda0f4350b744ed5c9672b8d07302a02b4a92c47f9b2d428ae09",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -376,24 +304,39 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCnO9SQXYAAF0Hb.jpg"
       ]
+    },
+    {
+      "id": "83bb2391ee7a4d01bf552a5f6face195e246679184a92626c5aab0593dc0f75c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029350453679390764#m",
+      "date": "Thu, 05 Mar 2026 00:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmze8TWEAARr2A.jpg"
+      ]
+    },
+    {
+      "id": "01e16c81468d9316cb0ba5d9b8a09de4e7f6628eaf852de67c3b16f30058f9de",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029320256733245498#m",
+      "date": "Wed, 04 Mar 2026 22:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmYBRJXYAAfVHh.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "1e2e69196ae0a0380e515bea5b678006753a188191eb0db9a497270c0d3695e2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
-      "text": "#ONEPIECE1176 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1176 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2029141024853914036#m",
-      "date": "Wed, 04 Mar 2026 10:24:54 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCjzyF4XcAALiap.jpg"
-      ]
-    },
     {
       "id": "ffe3abc5aed9108b16a35354f39d1075e04d4960faf5ec06474786569b2b5870",
       "anime": "onepiece",
@@ -410,34 +353,6 @@
       ]
     },
     {
-      "id": "f2ca711235bf590a5fe75f8e554599b6a2078da86de54976863e8ceb66b8873f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🧡Translation: Togashi: I’ve completed the dialogues for characters and the instruction sheets for my assistants on how the backgrounds should be drawn in No. 422.",
-      "text": "🧡Translation: Togashi: I’ve completed the dialogues for characters and the instruction sheets for my assistants on how the backgrounds should be drawn in No. 422.",
-      "url": "https://nitter.net/sandman_AP/status/2029331821700497656#m",
-      "date": "Wed, 04 Mar 2026 23:03:04 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "9d45d508c82ed071e48623c52eb76b10a929c4cdd19d98e34ce8e3a038bf09a4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2029207167656706336#m",
-      "date": "Wed, 04 Mar 2026 14:47:44 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCkxJxLaYAALBe3.jpg"
-      ]
-    },
-    {
       "id": "d30bd79e52b4b7bae8101b8641be6c26cb85b5bd6028cbe954931d863b9a21d2",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -449,82 +364,6 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "0c194514cd201ff171cefd98e61f179335d7b7e8613c35d10dbd1c61609f428b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "text": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "url": "https://nitter.net/pewpiece/status/2029319320807862673#m",
-      "date": "Wed, 04 Mar 2026 22:13:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCmXDO5XEAAi-xc.jpg",
-        "https://nitter.net/pic/media%2FHCmXHE3WYAIY5XV.jpg"
-      ]
-    },
-    {
-      "id": "c5998c75e1cfba41108f55f727b4ccd3094b196a3d17c726ac7c1c033a89d0f5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
-      "text": "#ONEPIECE1176 Full summary for onepiece chapter 1176 (Thanks to @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2029302870114484679#m",
-      "date": "Wed, 04 Mar 2026 21:08:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCmIMuZXEAAjoSU.jpg"
-      ]
-    },
-    {
-      "id": "2bfb7dd2fa7143ceae43557286135ccaadb99009ec7a0f856a04d182fa0417d4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Crunchyroll statement on onepiece reaching 600 million copies in circulation",
-      "text": "Crunchyroll statement on onepiece reaching 600 million copies in circulation",
-      "url": "https://nitter.net/pewpiece/status/2029277964764840245#m",
-      "date": "Wed, 04 Mar 2026 19:29:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHClxjL0awAE7LEx.png"
-      ]
-    },
-    {
-      "id": "9c0661f248df78ddbde43ee77b847fee1bbe3568ba3f760eb7d69287153f3e6d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “VEGAPUNK PUNK-06 YORK”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029221217387856292#m",
-      "date": "Wed, 04 Mar 2026 15:43:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028969231845367810%2FqbQzxjjA%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "9abbfb7b9fd4f498d99c95a7cac0e07f6a4e687cb64c2cb34514dae60fa00905",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "the secret of the onepiece treasure is now at the bottom of the ocean.",
-      "text": "the secret of the onepiece treasure is now at the bottom of the ocean.",
-      "url": "https://nitter.net/pewpiece/status/2028860732343783922#m",
-      "date": "Tue, 03 Mar 2026 15:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCf17u2WgAAHv2M.jpg"
-      ]
     },
     {
       "id": "a3e9aeea2fc212fab978afbbcf5c2c79f113b322511c4cf78e70ab78a922367d",
@@ -602,63 +441,95 @@
       ]
     },
     {
-      "id": "1b33630ea9598ea78c441e3816162f4d1b1ea2f03189568eb2df9b3bab9bf8c6",
+      "id": "cb1f35b2cdcf4f2cfe8f91a8fd7eb93b82fb24a920bf391b4e930bf5f1cd404a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
-      "text": "The ring says you’re ready. #Lanterns teaser tomorrow. Video",
-      "url": "https://nitter.net/hbomax/status/2029225381056651634#m",
-      "date": "Wed, 04 Mar 2026 16:00:06 GMT",
+      "title": "これは可愛すぎる！！！ドキドキした！！！",
+      "text": "これは可愛すぎる！！！ドキドキした！！！",
+      "url": "https://nitter.net/yutaonepi/status/2029168741582533097#m",
+      "date": "Wed, 04 Mar 2026 12:15:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCk-xJ4W0AAxkVP.jpg"
+        "https://nitter.net/pic/media%2FHCkONm9awAQPN18.jpg"
       ]
     },
     {
-      "id": "3dcb37a1bb214e3c4d4cdee750b4fd332c7f68508a602028983b8f84488b2f13",
+      "id": "2d12066b06959684b191cc711e7311994214dfe4e23b36c8404e88d32602f310",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "I voted for Brook",
-      "text": "I voted for Brook",
-      "url": "https://nitter.net/tan_compan40425/status/2029217296087195718#m",
-      "date": "Wed, 04 Mar 2026 15:27:59 GMT",
+      "title": "【コラボ情報】 Salute × 『ONE PIECE HEROINES』 コラボポスターが公開されました！ 3月より随時 オリジナルショッパー(紙袋)の配布や 各種プレゼントキャンペーンを実施🛍️ ▼くわしくはこちら wacoal.jp/Salute/onepiece/ #ONEPIECE",
+      "text": "【コラボ情報】 Salute × 『ONE PIECE HEROINES』 コラボポスターが公開されました！ 3月より随時 オリジナルショッパー(紙袋)の配布や 各種プレゼントキャンペーンを実施🛍️ ▼くわしくはこちら wacoal.jp/Salute/onepiece/ #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2029392345867960565#m",
+      "date": "Thu, 05 Mar 2026 03:03:34 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCk6Xa_a4AAJKpS.jpg"
+        "https://nitter.net/pic/media%2FHCnZlMYbQAA2Cju.jpg"
       ]
     },
     {
-      "id": "0ae8a0dc4bbb8ec418be086ab4ce14f999a3c002a2d4b13ca4dc45d5473868cf",
+      "id": "81861f3b96c57b4ff6ea1a1f17c6a523c9f61417d5753847b9843ccc61bc5cdd",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EDWARD NEWGATE (WHITEBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2029216722507423805#m",
-      "date": "Wed, 04 Mar 2026 15:25:42 GMT",
+      "title": "You manifested it early. The official #Lanterns teaser is here. Coming this August. Video",
+      "text": "You manifested it early. The official #Lanterns teaser is here. Coming this August. Video",
+      "url": "https://nitter.net/JamesGunn/status/2029284790982041832#m",
+      "date": "Wed, 04 Mar 2026 19:56:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2028851909944279040%2FTAJjOv0M%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/amplify_video_thumb%2F2029284682043396096%2Fimg%2Ff0clENkbVXpLKmZ_.jpg"
       ]
     },
     {
-      "id": "570c61c56c119627255d465158c064cce754264a6c22957cc1ea13093f82588f",
+      "id": "ca67929bdfea572441fd7ba8d7a3bf3a2c36c88b5d12f93f54e1a1195c132cec",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
-      "text": "┏━━━━━━━━━━┓ 「𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄とは？」 ┗━━━━━━━━━━┛ 6億部突破記念企画ムービーが YouTube100万再生を突破しました。 ≫ piped.video/O9M1UMj-vwE #ONEPIECE #ONEPIECE6億部",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2029188137457762487#m",
-      "date": "Wed, 04 Mar 2026 13:32:07 GMT",
+      "title": "ONEPIECE114巻ウソップギャラリー海賊団に掲載していただけました！！ 1巻前に送ったやつだったのでびっくりしたけど自信作だったので乗船できてとっても嬉しいです✨️ 尾田先生やその他選考に関わってくださった皆様、本当にありがとうございました‼️ #ONEPIECE114巻 #ONEPIECE",
+      "text": "ONEPIECE114巻ウソップギャラリー海賊団に掲載していただけました！！ 1巻前に送ったやつだったのでびっくりしたけど自信作だったので乗船できてとっても嬉しいです✨️ 尾田先生やその他選考に関わってくださった皆様、本当にありがとうございました‼️ #ONEPIECE114巻 #ONEPIECE",
+      "url": "https://nitter.net/shinta_gon_00/status/2029231863391543514#m",
+      "date": "Wed, 04 Mar 2026 16:25:52 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCkf2wsawAQ3oKq.jpg"
+        "https://nitter.net/pic/media%2FHClHn0QaMAAI5Os.jpg",
+        "https://nitter.net/pic/media%2FHClHn0TawAAxCiD.jpg"
+      ]
+    },
+    {
+      "id": "c8708f93aa4c382a8969514268b54914510a77f4894c48951389e24665ca9cc6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Special Heroes wearing rabbit ears and participating in an egg-hunt competition are coming soon in the summoning event: Springtime Sisters! Also, 5★ Hero Bernadetta: Late Hibernator will appear as a S",
+      "text": "Special Heroes wearing rabbit ears and participating in an egg-hunt competition are coming soon in the summoning event: Springtime Sisters! Also, 5★ Hero Bernadetta: Late Hibernator will appear as a Score Reward in the next Tempest Trials+ event! #FEHeroes #FireEmblem Video",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2029391457300430931#m",
+      "date": "Thu, 05 Mar 2026 03:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCjiK0MagAEVBKG.jpg"
+      ]
+    },
+    {
+      "id": "6cb3539d0b6e4d4bffdbb348572b455b06cb6348450122591e0c8879b0d08ef6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "While everybody is focusing on Iran the DOJ is deleting the Epstein files. The Mission successful Coinvo (@Coinvo) BREAKING: 🇺🇸 DOJ has deleted over 65,000 pages of the Epstein files. — https://nitt",
+      "text": "While everybody is focusing on Iran the DOJ is deleting the Epstein files. The Mission successful Coinvo (@Coinvo) BREAKING: 🇺🇸 DOJ has deleted over 65,000 pages of the Epstein files. — https://nitter.net/Coinvo/status/2029074364927508803#m",
+      "url": "https://nitter.net/hashjenni/status/2029149175527751954#m",
+      "date": "Wed, 04 Mar 2026 10:57:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCi3T8BbgAAENpe.jpg",
+        "https://nitter.net/pic/media%2FHCi3T7uXgAAS64m.jpg"
       ]
     },
     {
@@ -738,6 +609,21 @@
       ]
     },
     {
+      "id": "42c716fad5d1985b546e2a3bf0f3a0c99e9fc700cacaaa896f913567c9882759",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029410852537831830#m",
+      "date": "Thu, 05 Mar 2026 04:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnqanOXoAApXcl.jpg"
+      ]
+    },
+    {
       "id": "b7bc47aaca7cbda0f4350b744ed5c9672b8d07302a02b4a92c47f9b2d428ae09",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -750,6 +636,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCnO9SQXYAAF0Hb.jpg"
+      ]
+    },
+    {
+      "id": "83bb2391ee7a4d01bf552a5f6face195e246679184a92626c5aab0593dc0f75c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029350453679390764#m",
+      "date": "Thu, 05 Mar 2026 00:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmze8TWEAARr2A.jpg"
+      ]
+    },
+    {
+      "id": "01e16c81468d9316cb0ba5d9b8a09de4e7f6628eaf852de67c3b16f30058f9de",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029320256733245498#m",
+      "date": "Wed, 04 Mar 2026 22:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmYBRJXYAAfVHh.jpg"
       ]
     }
   ]
