@@ -1,98 +1,8 @@
 {
-  "generatedAt": "2026-03-06T20:26:34.835Z",
+  "generatedAt": "2026-03-06T21:03:01.518Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
-    {
-      "id": "93929d0d00eeae1555eef517164436fb61c1000d5c354ceca831f02759bb1107",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029938633940128029#m",
-      "date": "Fri, 06 Mar 2026 15:14:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849821138702336%2FKnshFpvU%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official: OnePiece Anime will return in less than one month.",
-      "text": "Official: OnePiece Anime will return in less than one month.",
-      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
-      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
-      ]
-    },
-    {
-      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
-      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
-      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
-      ]
-    },
-    {
-      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
-      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
-      ]
-    },
-    {
-      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
-      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
-      ]
-    },
     {
       "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
       "anime": "onepiece",
@@ -182,6 +92,96 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCpypLrWEAE1V37.jpg"
+      ]
+    },
+    {
+      "id": "93929d0d00eeae1555eef517164436fb61c1000d5c354ceca831f02759bb1107",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029938633940128029#m",
+      "date": "Fri, 06 Mar 2026 15:14:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849821138702336%2FKnshFpvU%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official: OnePiece Anime will return in less than one month.",
+      "text": "Official: OnePiece Anime will return in less than one month.",
+      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
+      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
+      ]
+    },
+    {
+      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
+      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
+      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
+      ]
+    },
+    {
+      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
+      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
+      ]
+    },
+    {
+      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
+      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
       ]
     },
     {
@@ -308,96 +308,6 @@
   ],
   "items": [
     {
-      "id": "93929d0d00eeae1555eef517164436fb61c1000d5c354ceca831f02759bb1107",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029938633940128029#m",
-      "date": "Fri, 06 Mar 2026 15:14:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849821138702336%2FKnshFpvU%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official: OnePiece Anime will return in less than one month.",
-      "text": "Official: OnePiece Anime will return in less than one month.",
-      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
-      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
-      ]
-    },
-    {
-      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
-      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
-      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
-      ]
-    },
-    {
-      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
-      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
-      ]
-    },
-    {
-      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
-      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
-      ]
-    },
-    {
       "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -486,6 +396,96 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCpypLrWEAE1V37.jpg"
+      ]
+    },
+    {
+      "id": "93929d0d00eeae1555eef517164436fb61c1000d5c354ceca831f02759bb1107",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “ROCKS D. XEBEC (DAVY D. XEBEC)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029938633940128029#m",
+      "date": "Fri, 06 Mar 2026 15:14:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849821138702336%2FKnshFpvU%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official: OnePiece Anime will return in less than one month.",
+      "text": "Official: OnePiece Anime will return in less than one month.",
+      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
+      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
+      ]
+    },
+    {
+      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
+      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
+      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
+      ]
+    },
+    {
+      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
+      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
+      ]
+    },
+    {
+      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
+      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
       ]
     },
     {
