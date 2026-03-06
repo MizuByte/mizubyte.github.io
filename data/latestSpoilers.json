@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-06T22:51:18.834Z",
+  "generatedAt": "2026-03-06T23:23:14.255Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
       "id": "dd1d354e3c01113da693261fe44a702cc662451b86c2f6652a2d527f476572d2",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "",
       "text": "",
       "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2030043233129226406#m",
@@ -96,21 +96,6 @@
       ]
     },
     {
-      "id": "d562eadaf8f1cc82248ceda916ff6edc2c8ca7d0dc397fd5cc6f0bce7948b35f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "A new Supernatural Battle Action Manga titled \"Rei Bai Dei\" by Oono Kouji will start in Jump SQ on July 3, 2026 It will be the artist's first series! Image © Oono Kouji, Shueisha",
-      "text": "A new Supernatural Battle Action Manga titled \"Rei Bai Dei\" by Oono Kouji will start in Jump SQ on July 3, 2026 It will be the artist's first series! Image © Oono Kouji, Shueisha",
-      "url": "https://nitter.net/MangaMoguraRE/status/2029561476717990228#m",
-      "date": "Thu, 05 Mar 2026 14:15:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCpypLrWEAE1V37.jpg"
-      ]
-    },
-    {
       "id": "37e7e8a312b1171967a698c2379cfd3b84f1465c5a0014c09374f31020a0b866",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -183,6 +168,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCu8eaXXMAAVljI.jpg"
+      ]
+    },
+    {
+      "id": "1670f48b2471835fab67b6765965cca7fb8b9b997e807303c61c81a401958983",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "New adventure loading. See The Super Mario Galaxy Movie, only in theaters April 1.",
+      "text": "New adventure loading. See The Super Mario Galaxy Movie, only in theaters April 1.",
+      "url": "https://nitter.net/supermariomovie/status/2029920348700062148#m",
+      "date": "Fri, 06 Mar 2026 14:01:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCu5OwvaUAE7Hej.jpg"
       ]
     },
     {
@@ -325,8 +325,8 @@
     {
       "id": "dd1d354e3c01113da693261fe44a702cc662451b86c2f6652a2d527f476572d2",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "",
       "text": "",
       "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2030043233129226406#m",
@@ -414,21 +414,6 @@
       ]
     },
     {
-      "id": "d562eadaf8f1cc82248ceda916ff6edc2c8ca7d0dc397fd5cc6f0bce7948b35f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "A new Supernatural Battle Action Manga titled \"Rei Bai Dei\" by Oono Kouji will start in Jump SQ on July 3, 2026 It will be the artist's first series! Image © Oono Kouji, Shueisha",
-      "text": "A new Supernatural Battle Action Manga titled \"Rei Bai Dei\" by Oono Kouji will start in Jump SQ on July 3, 2026 It will be the artist's first series! Image © Oono Kouji, Shueisha",
-      "url": "https://nitter.net/MangaMoguraRE/status/2029561476717990228#m",
-      "date": "Thu, 05 Mar 2026 14:15:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCpypLrWEAE1V37.jpg"
-      ]
-    },
-    {
       "id": "37e7e8a312b1171967a698c2379cfd3b84f1465c5a0014c09374f31020a0b866",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -501,6 +486,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCu8eaXXMAAVljI.jpg"
+      ]
+    },
+    {
+      "id": "1670f48b2471835fab67b6765965cca7fb8b9b997e807303c61c81a401958983",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "New adventure loading. See The Super Mario Galaxy Movie, only in theaters April 1.",
+      "text": "New adventure loading. See The Super Mario Galaxy Movie, only in theaters April 1.",
+      "url": "https://nitter.net/supermariomovie/status/2029920348700062148#m",
+      "date": "Fri, 06 Mar 2026 14:01:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCu5OwvaUAE7Hej.jpg"
       ]
     },
     {
