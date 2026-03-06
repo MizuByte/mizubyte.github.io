@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T23:31:11.249Z",
+  "generatedAt": "2026-03-06T01:00:28.916Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,6 +18,97 @@
   ],
   "misc": [
     {
+      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official: OnePiece Anime will return in less than one month.",
+      "text": "Official: OnePiece Anime will return in less than one month.",
+      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
+      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
+      ]
+    },
+    {
+      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
+      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
+      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
+      ]
+    },
+    {
+      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
+      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
+      ]
+    },
+    {
+      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
+      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
+      ]
+    },
+    {
+      "id": "0c194514cd201ff171cefd98e61f179335d7b7e8613c35d10dbd1c61609f428b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
+      "text": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
+      "url": "https://nitter.net/pewpiece/status/2029319320807862673#m",
+      "date": "Wed, 04 Mar 2026 22:13:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmXDO5XEAAi-xc.jpg",
+        "https://nitter.net/pic/media%2FHCmXHE3WYAIY5XV.jpg"
+      ]
+    },
+    {
       "id": "d562eadaf8f1cc82248ceda916ff6edc2c8ca7d0dc397fd5cc6f0bce7948b35f",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -110,97 +201,6 @@
       ]
     },
     {
-      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official: OnePiece Anime will return in less than one month.",
-      "text": "Official: OnePiece Anime will return in less than one month.",
-      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
-      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
-      ]
-    },
-    {
-      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
-      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
-      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
-      ]
-    },
-    {
-      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
-      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
-      ]
-    },
-    {
-      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
-      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
-      ]
-    },
-    {
-      "id": "0c194514cd201ff171cefd98e61f179335d7b7e8613c35d10dbd1c61609f428b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "text": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "url": "https://nitter.net/pewpiece/status/2029319320807862673#m",
-      "date": "Wed, 04 Mar 2026 22:13:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCmXDO5XEAAi-xc.jpg",
-        "https://nitter.net/pic/media%2FHCmXHE3WYAIY5XV.jpg"
-      ]
-    },
-    {
       "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -262,18 +262,33 @@
       ]
     },
     {
-      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
+      "id": "622ce2a8c25b3d0feb31aa1fc9eec07449c2d321d415c41a2807552828988ba5",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
-      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
+      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. Community not",
+      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. Community note: Unconfirmed reports claiming Netanyahu was killed in an Iranian attack are false. Netanyahu is alive and has given public statements on the U.S.-Israel strikes that killed Iran's Supreme Leader Khamenei. No credible sources report his death. apnews.com/article/iran-s… bbc.com/news/articles/… aljazeera.com/news/2026/3/1/… reuters.com/business/aeros… — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
       "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
       "date": "Sun, 01 Mar 2026 07:52:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCSqA5dbEAIENq_.jpg"
+      ]
+    },
+    {
+      "id": "80f128e0ebce646f84950adf223c7fd967303d167b30348429a3285558a354be",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029712849241506190#m",
+      "date": "Fri, 06 Mar 2026 00:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCr9FBlaYAA3OYq.jpg"
       ]
     },
     {
@@ -304,21 +319,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCrGJgdXsAAMabC.jpg"
-      ]
-    },
-    {
-      "id": "97bda7c5dca23cdb157f863d8f249ada23a9864c835ad5d02f2480000f5b140f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029622246927429863#m",
-      "date": "Thu, 05 Mar 2026 18:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCqqraWaUAMThCG.jpg"
       ]
     }
   ],
@@ -337,6 +337,97 @@
       "attachments": []
     },
     {
+      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official: OnePiece Anime will return in less than one month.",
+      "text": "Official: OnePiece Anime will return in less than one month.",
+      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
+      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
+      ]
+    },
+    {
+      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
+      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
+      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
+      ]
+    },
+    {
+      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
+      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
+      ]
+    },
+    {
+      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
+      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
+      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
+      ]
+    },
+    {
+      "id": "0c194514cd201ff171cefd98e61f179335d7b7e8613c35d10dbd1c61609f428b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
+      "text": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
+      "url": "https://nitter.net/pewpiece/status/2029319320807862673#m",
+      "date": "Wed, 04 Mar 2026 22:13:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCmXDO5XEAAi-xc.jpg",
+        "https://nitter.net/pic/media%2FHCmXHE3WYAIY5XV.jpg"
+      ]
+    },
+    {
       "id": "d562eadaf8f1cc82248ceda916ff6edc2c8ca7d0dc397fd5cc6f0bce7948b35f",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -429,97 +520,6 @@
       ]
     },
     {
-      "id": "660a561d98282377a58b0d73b73186947a56c76a422e37d548175374909305a9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official: OnePiece Anime will return in less than one month.",
-      "text": "Official: OnePiece Anime will return in less than one month.",
-      "url": "https://nitter.net/pewpiece/status/2029687637473140925#m",
-      "date": "Thu, 05 Mar 2026 22:36:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCrmJc-WEAAbgFh.jpg"
-      ]
-    },
-    {
-      "id": "698834cc57d38c9492061b68005f159f0b1ca68c159e9f57991bef28e34c4a5d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2029578292668547111#m",
-      "date": "Thu, 05 Mar 2026 15:22:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "d24a707f370e1b6aa42e7a52022b3ce21fa71ee8a9104d91df700a9b159c58d0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW ROBIN AND TASHIGI IMAGES FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391703904284828#m",
-      "date": "Thu, 05 Mar 2026 03:01:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnY4CKXwAAa-U9.jpg"
-      ]
-    },
-    {
-      "id": "1fd5f1b780bd9b9943e4bfdbd8a0268819bbfcff3a38830f4fcd47c09f2fbac4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "text": "NEW VIVI AND NAMI IMAGE FROM ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391548874412273#m",
-      "date": "Thu, 05 Mar 2026 03:00:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYsjwawAInUk1.jpg"
-      ]
-    },
-    {
-      "id": "1d0c6b2dd3598cfe4b45b194dccf869274a82c7f0958823fed53de21572c7c68",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "text": "OFFICIAL : FIRST LOOK AT BROOK IN ONEPIECE LIVE ACTION SEASON 2",
-      "url": "https://nitter.net/pewpiece/status/2029391349389111588#m",
-      "date": "Thu, 05 Mar 2026 02:59:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCnYn8xWcAA8BpH.jpg"
-      ]
-    },
-    {
-      "id": "0c194514cd201ff171cefd98e61f179335d7b7e8613c35d10dbd1c61609f428b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "text": "IShowSpeed announced he will be doing a treasure-hunting stream to search for the onepiece treasure hidden 600 meters deep in the ocean.",
-      "url": "https://nitter.net/pewpiece/status/2029319320807862673#m",
-      "date": "Wed, 04 Mar 2026 22:13:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCmXDO5XEAAi-xc.jpg",
-        "https://nitter.net/pic/media%2FHCmXHE3WYAIY5XV.jpg"
-      ]
-    },
-    {
       "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -581,18 +581,33 @@
       ]
     },
     {
-      "id": "22ac12a86c34ffb67b39f163033dce609228c4d1ac9691e7422ae3c55ff8fb77",
+      "id": "622ce2a8c25b3d0feb31aa1fc9eec07449c2d321d415c41a2807552828988ba5",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nit",
-      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
+      "title": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. Community not",
+      "text": "OROCHIMARU DIED!!! #NARUTO Globe Observer (@_GlobeObserver) 🚨🚨 BREAKING: Unconfirmed reports are circulating that Israeli Prime Minister Netanyahu has been killed in an Iranian attack. Community note: Unconfirmed reports claiming Netanyahu was killed in an Iranian attack are false. Netanyahu is alive and has given public statements on the U.S.-Israel strikes that killed Iran's Supreme Leader Khamenei. No credible sources report his death. apnews.com/article/iran-s… bbc.com/news/articles/… aljazeera.com/news/2026/3/1/… reuters.com/business/aeros… — https://nitter.net/_GlobeObserver/status/2027932667975516639#m",
       "url": "https://nitter.net/SchmurfiV1/status/2028015493127221697#m",
       "date": "Sun, 01 Mar 2026 07:52:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCSqA5dbEAIENq_.jpg"
+      ]
+    },
+    {
+      "id": "80f128e0ebce646f84950adf223c7fd967303d167b30348429a3285558a354be",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2029712849241506190#m",
+      "date": "Fri, 06 Mar 2026 00:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCr9FBlaYAA3OYq.jpg"
       ]
     },
     {
@@ -623,21 +638,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCrGJgdXsAAMabC.jpg"
-      ]
-    },
-    {
-      "id": "97bda7c5dca23cdb157f863d8f249ada23a9864c835ad5d02f2480000f5b140f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2029622246927429863#m",
-      "date": "Thu, 05 Mar 2026 18:17:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCqqraWaUAMThCG.jpg"
       ]
     }
   ]
