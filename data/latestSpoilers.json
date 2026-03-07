@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T15:43:12.887Z",
+  "generatedAt": "2026-03-07T15:56:52.003Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -110,6 +110,83 @@
       ]
     },
     {
+      "id": "579646bf6aa0a59d287b63b77cba51a3e09eb2c4687b3dd030a8e1adf9988587",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
+      "text": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
+      "url": "https://nitter.net/eldeforma/status/2030001279817199838#m",
+      "date": "Fri, 06 Mar 2026 19:23:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCwDZ4aXYAMQ7Ss.jpg"
+      ]
+    },
+    {
+      "id": "fac242b3026a4a5b1c426e36cb4a2b383eb30632d45c356582723d81c6529133",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FEARLOKI #VOTEFORLOKI",
+      "text": "#FEARLOKI #VOTEFORLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2030265520163786790#m",
+      "date": "Sat, 07 Mar 2026 12:53:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCzzuzgWMAAB0DL.jpg"
+      ]
+    },
+    {
+      "id": "ab8c791fd7165ac8246fd4ace608d863e6cf3c367efb53ab0739f59409ed7367",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Compl",
+      "text": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Completely ruined the Naruto and Bleach female casts portrayal early on By far one of the worst studios mishandling adaptations of great mangas 𝕍𝕁 ☆ (@VjDontMiss) Good lord — https://nitter.net/VjDontMiss/status/2030128604303048718#m",
+      "url": "https://nitter.net/VjDontMiss/status/2030155827189821486#m",
+      "date": "Sat, 07 Mar 2026 05:37:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCyP9seW8AAP8tN.jpg",
+        "https://nitter.net/pic/media%2FHCyP9tAaUAQ0p0U.jpg",
+        "https://nitter.net/pic/media%2FHCx3NTwbgAAcc6y.jpg"
+      ]
+    },
+    {
+      "id": "53c97ced8ad91a8f5753983b080d28519300d602b79b0f015dd22d97970bbd3c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
+      "text": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
+      "url": "https://nitter.net/ZagrashX/status/2030243630430986400#m",
+      "date": "Sat, 07 Mar 2026 11:26:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCzZYrcXQAEl5EF.jpg"
+      ]
+    },
+    {
+      "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/WorstGenHQ/status/2030004507950579809#m",
+      "date": "Fri, 06 Mar 2026 19:36:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -198,83 +275,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg",
         "https://nitter.net/pic/media%2FHCXg7jQaAAA4LSU.jpg"
-      ]
-    },
-    {
-      "id": "579646bf6aa0a59d287b63b77cba51a3e09eb2c4687b3dd030a8e1adf9988587",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
-      "text": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
-      "url": "https://nitter.net/eldeforma/status/2030001279817199838#m",
-      "date": "Fri, 06 Mar 2026 19:23:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCwDZ4aXYAMQ7Ss.jpg"
-      ]
-    },
-    {
-      "id": "fac242b3026a4a5b1c426e36cb4a2b383eb30632d45c356582723d81c6529133",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#FEARLOKI #VOTEFORLOKI",
-      "text": "#FEARLOKI #VOTEFORLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2030265520163786790#m",
-      "date": "Sat, 07 Mar 2026 12:53:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCzzuzgWMAAB0DL.jpg"
-      ]
-    },
-    {
-      "id": "ab8c791fd7165ac8246fd4ace608d863e6cf3c367efb53ab0739f59409ed7367",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Compl",
-      "text": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Completely ruined the Naruto and Bleach female casts portrayal early on By far one of the worst studios mishandling adaptations of great mangas 𝕍𝕁 ☆ (@VjDontMiss) Good lord — https://nitter.net/VjDontMiss/status/2030128604303048718#m",
-      "url": "https://nitter.net/VjDontMiss/status/2030155827189821486#m",
-      "date": "Sat, 07 Mar 2026 05:37:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCyP9seW8AAP8tN.jpg",
-        "https://nitter.net/pic/media%2FHCyP9tAaUAQ0p0U.jpg",
-        "https://nitter.net/pic/media%2FHCx3NTwbgAAcc6y.jpg"
-      ]
-    },
-    {
-      "id": "53c97ced8ad91a8f5753983b080d28519300d602b79b0f015dd22d97970bbd3c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "text": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "url": "https://nitter.net/ZagrashX/status/2030243630430986400#m",
-      "date": "Sat, 07 Mar 2026 11:26:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCzZYrcXQAEl5EF.jpg"
-      ]
-    },
-    {
-      "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2030004507950579809#m",
-      "date": "Fri, 06 Mar 2026 19:36:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -430,6 +430,83 @@
       ]
     },
     {
+      "id": "579646bf6aa0a59d287b63b77cba51a3e09eb2c4687b3dd030a8e1adf9988587",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
+      "text": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
+      "url": "https://nitter.net/eldeforma/status/2030001279817199838#m",
+      "date": "Fri, 06 Mar 2026 19:23:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCwDZ4aXYAMQ7Ss.jpg"
+      ]
+    },
+    {
+      "id": "fac242b3026a4a5b1c426e36cb4a2b383eb30632d45c356582723d81c6529133",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FEARLOKI #VOTEFORLOKI",
+      "text": "#FEARLOKI #VOTEFORLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2030265520163786790#m",
+      "date": "Sat, 07 Mar 2026 12:53:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCzzuzgWMAAB0DL.jpg"
+      ]
+    },
+    {
+      "id": "ab8c791fd7165ac8246fd4ace608d863e6cf3c367efb53ab0739f59409ed7367",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Compl",
+      "text": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Completely ruined the Naruto and Bleach female casts portrayal early on By far one of the worst studios mishandling adaptations of great mangas 𝕍𝕁 ☆ (@VjDontMiss) Good lord — https://nitter.net/VjDontMiss/status/2030128604303048718#m",
+      "url": "https://nitter.net/VjDontMiss/status/2030155827189821486#m",
+      "date": "Sat, 07 Mar 2026 05:37:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCyP9seW8AAP8tN.jpg",
+        "https://nitter.net/pic/media%2FHCyP9tAaUAQ0p0U.jpg",
+        "https://nitter.net/pic/media%2FHCx3NTwbgAAcc6y.jpg"
+      ]
+    },
+    {
+      "id": "53c97ced8ad91a8f5753983b080d28519300d602b79b0f015dd22d97970bbd3c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
+      "text": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
+      "url": "https://nitter.net/ZagrashX/status/2030243630430986400#m",
+      "date": "Sat, 07 Mar 2026 11:26:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCzZYrcXQAEl5EF.jpg"
+      ]
+    },
+    {
+      "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/WorstGenHQ/status/2030004507950579809#m",
+      "date": "Fri, 06 Mar 2026 19:36:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -518,83 +595,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg",
         "https://nitter.net/pic/media%2FHCXg7jQaAAA4LSU.jpg"
-      ]
-    },
-    {
-      "id": "579646bf6aa0a59d287b63b77cba51a3e09eb2c4687b3dd030a8e1adf9988587",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
-      "text": "¿Cuántas suelas tenés? 🥾💋 #Messi #Trump #cartoon",
-      "url": "https://nitter.net/eldeforma/status/2030001279817199838#m",
-      "date": "Fri, 06 Mar 2026 19:23:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCwDZ4aXYAMQ7Ss.jpg"
-      ]
-    },
-    {
-      "id": "fac242b3026a4a5b1c426e36cb4a2b383eb30632d45c356582723d81c6529133",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#FEARLOKI #VOTEFORLOKI",
-      "text": "#FEARLOKI #VOTEFORLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2030265520163786790#m",
-      "date": "Sat, 07 Mar 2026 12:53:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCzzuzgWMAAB0DL.jpg"
-      ]
-    },
-    {
-      "id": "ab8c791fd7165ac8246fd4ace608d863e6cf3c367efb53ab0739f59409ed7367",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Compl",
-      "text": "Studio Pierrot gave Bleach 45% filler, ruined Ichigo/Orihime pushing their own Ichigo Rukia agenda, inconsistent adaptation Tokyo Ghoul 332 chapters in 48 episodes, completely deviated from plot Completely ruined the Naruto and Bleach female casts portrayal early on By far one of the worst studios mishandling adaptations of great mangas 𝕍𝕁 ☆ (@VjDontMiss) Good lord — https://nitter.net/VjDontMiss/status/2030128604303048718#m",
-      "url": "https://nitter.net/VjDontMiss/status/2030155827189821486#m",
-      "date": "Sat, 07 Mar 2026 05:37:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCyP9seW8AAP8tN.jpg",
-        "https://nitter.net/pic/media%2FHCyP9tAaUAQ0p0U.jpg",
-        "https://nitter.net/pic/media%2FHCx3NTwbgAAcc6y.jpg"
-      ]
-    },
-    {
-      "id": "53c97ced8ad91a8f5753983b080d28519300d602b79b0f015dd22d97970bbd3c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "text": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "url": "https://nitter.net/ZagrashX/status/2030243630430986400#m",
-      "date": "Sat, 07 Mar 2026 11:26:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCzZYrcXQAEl5EF.jpg"
-      ]
-    },
-    {
-      "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2030004507950579809#m",
-      "date": "Fri, 06 Mar 2026 19:36:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
