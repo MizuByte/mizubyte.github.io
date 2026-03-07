@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-03-07T11:37:54.567Z",
+  "generatedAt": "2026-03-07T11:55:03.863Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "dd1d354e3c01113da693261fe44a702cc662451b86c2f6652a2d527f476572d2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2030043233129226406#m",
-      "date": "Fri, 06 Mar 2026 22:09:57 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCwpi7XaUAQg1ge.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
       "id": "93929d0d00eeae1555eef517164436fb61c1000d5c354ceca831f02759bb1107",
@@ -110,82 +94,6 @@
       ]
     },
     {
-      "id": "53c97ced8ad91a8f5753983b080d28519300d602b79b0f015dd22d97970bbd3c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "text": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "url": "https://nitter.net/ZagrashX/status/2030243630430986400#m",
-      "date": "Sat, 07 Mar 2026 11:26:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCzZYrcXQAEl5EF.jpg"
-      ]
-    },
-    {
-      "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2030004507950579809#m",
-      "date": "Fri, 06 Mar 2026 19:36:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "fbdeb121aa7a95fe048e90d20dccda8b369a3ba042a39c7e080fe8c438a9fee9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Law and Sugar would be one of the most broken duos in fiction 💀 Video",
-      "text": "Law and Sugar would be one of the most broken duos in fiction 💀 Video",
-      "url": "https://nitter.net/unonumero_56/status/2029907760184221735#m",
-      "date": "Fri, 06 Mar 2026 13:11:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2029907705989562368%2Fimg%2FiEwArZ9ZZcI_4T4i.jpg"
-      ]
-    },
-    {
-      "id": "3bc1569ed02312b9dcb3d8b9a86e8e19e41571dca7d60c4d6c789f11653ae3a7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "onepiece Character Popularity Contest says that they will remove any fraudulent (bots , fake) votes",
-      "text": "onepiece Character Popularity Contest says that they will remove any fraudulent (bots , fake) votes",
-      "url": "https://nitter.net/PookiePiece/status/2029890821269389668#m",
-      "date": "Fri, 06 Mar 2026 12:04:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCueVVobEAAoj21.jpg",
-        "https://nitter.net/pic/media%2FHCue1syXMAAF3kZ.jpg"
-      ]
-    },
-    {
-      "id": "cb5de9ef87369f2fa907dc8c1af64c99688454ae1f8f48902181451edc8a8391",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1176 WANJI VOTE FOR SANJI GUYS 🔥🔥🔥",
-      "text": "#ONEPIECE1176 WANJI VOTE FOR SANJI GUYS 🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2029873707213107594#m",
-      "date": "Fri, 06 Mar 2026 10:56:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCuPYSGXoAIiqAX.jpg"
-      ]
-    },
-    {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -320,24 +228,54 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCyZEAjXEAAEqli.jpg"
       ]
+    },
+    {
+      "id": "911120fdd6c0485f578e792dba86cddd1007848f686b422d6d80fa234ef7fd19",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030135631771226275#m",
+      "date": "Sat, 07 Mar 2026 04:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCx9mW_XIAAiaix.jpg"
+      ]
+    },
+    {
+      "id": "5dba54f262ac12575b8c17990326e578eb45865ab4272304d9dd9d882524d218",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030105433810071893#m",
+      "date": "Sat, 07 Mar 2026 02:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCxiIlvbEAAAhTr.jpg"
+      ]
+    },
+    {
+      "id": "ca1d4a3813782571ad6f0780284fa1f027467e2d4e9b3cce78cf52a6d9a4a72a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030075228181737655#m",
+      "date": "Sat, 07 Mar 2026 00:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCxGqaGWMAAR29k.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "dd1d354e3c01113da693261fe44a702cc662451b86c2f6652a2d527f476572d2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2030043233129226406#m",
-      "date": "Fri, 06 Mar 2026 22:09:57 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCwpi7XaUAQg1ge.jpg"
-      ]
-    },
     {
       "id": "93929d0d00eeae1555eef517164436fb61c1000d5c354ceca831f02759bb1107",
       "anime": "onepiece",
@@ -429,82 +367,6 @@
       ]
     },
     {
-      "id": "53c97ced8ad91a8f5753983b080d28519300d602b79b0f015dd22d97970bbd3c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "text": "Beginner's guide: How to defeat Imu in #ONEPIECE 🧵Mini Thread⬇️ #ONEPIECE1176",
-      "url": "https://nitter.net/ZagrashX/status/2030243630430986400#m",
-      "date": "Sat, 07 Mar 2026 11:26:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCzZYrcXQAEl5EF.jpg"
-      ]
-    },
-    {
-      "id": "3a6c5c3aa0f83b2ca331c21ddee76c12d9016ed5781606099286a55906baf22e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SHANKS”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2030004507950579809#m",
-      "date": "Fri, 06 Mar 2026 19:36:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028849840096980992%2Fm4b1M_An%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "fbdeb121aa7a95fe048e90d20dccda8b369a3ba042a39c7e080fe8c438a9fee9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Law and Sugar would be one of the most broken duos in fiction 💀 Video",
-      "text": "Law and Sugar would be one of the most broken duos in fiction 💀 Video",
-      "url": "https://nitter.net/unonumero_56/status/2029907760184221735#m",
-      "date": "Fri, 06 Mar 2026 13:11:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2029907705989562368%2Fimg%2FiEwArZ9ZZcI_4T4i.jpg"
-      ]
-    },
-    {
-      "id": "3bc1569ed02312b9dcb3d8b9a86e8e19e41571dca7d60c4d6c789f11653ae3a7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "onepiece Character Popularity Contest says that they will remove any fraudulent (bots , fake) votes",
-      "text": "onepiece Character Popularity Contest says that they will remove any fraudulent (bots , fake) votes",
-      "url": "https://nitter.net/PookiePiece/status/2029890821269389668#m",
-      "date": "Fri, 06 Mar 2026 12:04:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCueVVobEAAoj21.jpg",
-        "https://nitter.net/pic/media%2FHCue1syXMAAF3kZ.jpg"
-      ]
-    },
-    {
-      "id": "cb5de9ef87369f2fa907dc8c1af64c99688454ae1f8f48902181451edc8a8391",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1176 WANJI VOTE FOR SANJI GUYS 🔥🔥🔥",
-      "text": "#ONEPIECE1176 WANJI VOTE FOR SANJI GUYS 🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2029873707213107594#m",
-      "date": "Fri, 06 Mar 2026 10:56:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCuPYSGXoAIiqAX.jpg"
-      ]
-    },
-    {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -638,6 +500,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCyZEAjXEAAEqli.jpg"
+      ]
+    },
+    {
+      "id": "911120fdd6c0485f578e792dba86cddd1007848f686b422d6d80fa234ef7fd19",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030135631771226275#m",
+      "date": "Sat, 07 Mar 2026 04:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCx9mW_XIAAiaix.jpg"
+      ]
+    },
+    {
+      "id": "5dba54f262ac12575b8c17990326e578eb45865ab4272304d9dd9d882524d218",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030105433810071893#m",
+      "date": "Sat, 07 Mar 2026 02:17:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCxiIlvbEAAAhTr.jpg"
+      ]
+    },
+    {
+      "id": "ca1d4a3813782571ad6f0780284fa1f027467e2d4e9b3cce78cf52a6d9a4a72a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030075228181737655#m",
+      "date": "Sat, 07 Mar 2026 00:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHCxGqaGWMAAR29k.jpg"
       ]
     }
   ]
