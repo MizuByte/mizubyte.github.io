@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-03-08T12:37:11.798Z",
+  "generatedAt": "2026-03-08T13:29:52.388Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
+  "spoilers": [],
+  "misc": [
     {
-      "id": "dd1d354e3c01113da693261fe44a702cc662451b86c2f6652a2d527f476572d2",
+      "id": "43e1c6e3e4928c56cac4102c2fe208724be6162213a9ae87e2dcc7f984573a23",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2030043233129226406#m",
-      "date": "Fri, 06 Mar 2026 22:09:57 GMT",
-      "isSpoiler": true,
+      "title": "#ONEPIECE1176 The 3 ulitmate Gods....",
+      "text": "#ONEPIECE1176 The 3 ulitmate Gods....",
+      "url": "https://nitter.net/WorstGenHQ/status/2030625121803624737#m",
+      "date": "Sun, 08 Mar 2026 12:42:10 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCwpi7XaUAQg1ge.jpg"
+        "https://nitter.net/pic/media%2FHC46yaxXEAAD1VS.jpg"
       ]
-    }
-  ],
-  "misc": [
+    },
     {
       "id": "4c764cbaa87455e47f1a884659b7413e0b6190b2f74d20c4a81d5f76ead93bd7",
       "anime": "onepiece",
@@ -309,38 +308,23 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHC4ZlVEWUAAqAJs.jpg"
-      ]
-    },
-    {
-      "id": "da910867f2062d3d4a527a91e19cce7bb38eebf89c5bb3b28ab928406c67fa5c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2030558422689517691#m",
-      "date": "Sun, 08 Mar 2026 08:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC3-ICGWoAAZ6S8.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "dd1d354e3c01113da693261fe44a702cc662451b86c2f6652a2d527f476572d2",
+      "id": "43e1c6e3e4928c56cac4102c2fe208724be6162213a9ae87e2dcc7f984573a23",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2030043233129226406#m",
-      "date": "Fri, 06 Mar 2026 22:09:57 GMT",
-      "isSpoiler": true,
+      "title": "#ONEPIECE1176 The 3 ulitmate Gods....",
+      "text": "#ONEPIECE1176 The 3 ulitmate Gods....",
+      "url": "https://nitter.net/WorstGenHQ/status/2030625121803624737#m",
+      "date": "Sun, 08 Mar 2026 12:42:10 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCwpi7XaUAQg1ge.jpg"
+        "https://nitter.net/pic/media%2FHC46yaxXEAAD1VS.jpg"
       ]
     },
     {
@@ -633,21 +617,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHC4ZlVEWUAAqAJs.jpg"
-      ]
-    },
-    {
-      "id": "da910867f2062d3d4a527a91e19cce7bb38eebf89c5bb3b28ab928406c67fa5c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2030558422689517691#m",
-      "date": "Sun, 08 Mar 2026 08:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC3-ICGWoAAZ6S8.jpg"
       ]
     }
   ]
