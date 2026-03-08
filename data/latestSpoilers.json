@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T07:58:25.208Z",
+  "generatedAt": "2026-03-08T08:33:37.019Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -278,6 +278,21 @@
       ]
     },
     {
+      "id": "da910867f2062d3d4a527a91e19cce7bb38eebf89c5bb3b28ab928406c67fa5c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030558422689517691#m",
+      "date": "Sun, 08 Mar 2026 08:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC3-ICGWoAAZ6S8.jpg"
+      ]
+    },
+    {
       "id": "668bbcad1fae708cdbcec563fab442dd52bd3c0b533739b59fa610523e903c4c",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -305,21 +320,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHC2ruhUWIAAjcEE.jpg"
-      ]
-    },
-    {
-      "id": "75ee62755b69fb33f5db273bad34c5a754e1505bf9a68a4717fca2f04e1b122f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2030407421135376743#m",
-      "date": "Sat, 07 Mar 2026 22:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC10yikWYAAP1Fk.jpg"
       ]
     }
   ],
@@ -598,6 +598,21 @@
       ]
     },
     {
+      "id": "da910867f2062d3d4a527a91e19cce7bb38eebf89c5bb3b28ab928406c67fa5c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030558422689517691#m",
+      "date": "Sun, 08 Mar 2026 08:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC3-ICGWoAAZ6S8.jpg"
+      ]
+    },
+    {
       "id": "668bbcad1fae708cdbcec563fab442dd52bd3c0b533739b59fa610523e903c4c",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -625,21 +640,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHC2ruhUWIAAjcEE.jpg"
-      ]
-    },
-    {
-      "id": "75ee62755b69fb33f5db273bad34c5a754e1505bf9a68a4717fca2f04e1b122f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2030407421135376743#m",
-      "date": "Sat, 07 Mar 2026 22:17:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC10yikWYAAP1Fk.jpg"
       ]
     }
   ]
