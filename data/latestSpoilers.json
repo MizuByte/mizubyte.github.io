@@ -1,98 +1,24 @@
 {
-  "generatedAt": "2026-03-09T18:04:25.271Z",
+  "generatedAt": "2026-03-09T19:13:13.989Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "49913784113089416c723bd24bb0a59d11e873042712ac5f3f6f7c58b0461465",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#MakePerosperoGreatAgain The 2nd Global ONE PIECE Character Popularity Contest I voted for “CHARLOTTE PEROSPERAW”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "#MakePerosperoGreatAgain The 2nd Global ONE PIECE Character Popularity Contest I voted for “CHARLOTTE PEROSPERAW”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/WorstGenHQ/status/2031077004661985653#m",
+      "date": "Mon, 09 Mar 2026 18:37:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028865673607233536%2FOrhslLJA%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    }
+  ],
   "misc": [
-    {
-      "id": "e4368a43f8f506c12158a6a3642ef32b9e2de621aa2bcce42f66bff958686680",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2031038706656608497#m",
-      "date": "Mon, 09 Mar 2026 16:05:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028848477934096384%2FMVGMKXPy%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "adbb88432ac7fdc426acd1219944f1fac8cb1cde4a39f921b2eec89931f5b7e4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
-      "text": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
-      "url": "https://nitter.net/pewpiece/status/2030962457372426437#m",
-      "date": "Mon, 09 Mar 2026 11:02:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC9tNAHWcAE3Ke3.jpg"
-      ]
-    },
-    {
-      "id": "cb10ee2977606aa5ff1e54c8780c7e4cca17434e232ed2cb8c7e2418891f2824",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2030734571105288352#m",
-      "date": "Sun, 08 Mar 2026 19:57:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028848905681616897%2FR38etRSy%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "ef8ad31980c92dfd245f1cfffe242d203165b4e9c8a1bb1557756a6e5de023af",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
-      "text": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
-      "url": "https://nitter.net/pewpiece/status/2030727609013711023#m",
-      "date": "Sun, 08 Mar 2026 19:29:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC6X0CFWEAAieuL.jpg"
-      ]
-    },
-    {
-      "id": "4ecbfe230d7c91ed47ed50ccf3789791bcb0beb3d89f302499b24ca597fc59c9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
-      "text": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
-      "url": "https://nitter.net/pewpiece/status/2030727604790042945#m",
-      "date": "Sun, 08 Mar 2026 19:29:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC6Xnr2XoAAEuUU.jpg"
-      ]
-    },
-    {
-      "id": "9cf323ffe4c8999e4ddc0d0bf439ffb5eabf284da95ee90e31f2962f3447d1f0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Europe top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Nami 5 - Rocks D xebec",
-      "text": "Europe top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Nami 5 - Rocks D xebec",
-      "url": "https://nitter.net/pewpiece/status/2030727599895310386#m",
-      "date": "Sun, 08 Mar 2026 19:29:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC6XU43bwAECUKb.jpg"
-      ]
-    },
     {
       "id": "06eeb066c2aaa284269d624d742448b764ea59681dce204310c94620cb0fd562",
       "anime": "onepiece",
@@ -156,19 +82,17 @@
       ]
     },
     {
-      "id": "1489211d342a443cb3962923bd1d275d1b9ed49625771065c083b2d3ebfaeeb5",
+      "id": "4352a700302ce0cfed02a375d82dbac574e33c482b64943c6b259835f4e26662",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ netflix.com/onepiece #ONEPIECE #実写のワンピ #ネトフリワンピ",
-      "text": "◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ netflix.com/onepiece #ONEPIECE #実写のワンピ #ネトフリワンピ",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2031022218856313015#m",
-      "date": "Mon, 09 Mar 2026 15:00:06 GMT",
+      "title": "RT @Eiichiro_Staff: ◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ t.co/NyI…",
+      "text": "RT @Eiichiro_Staff: ◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ t.co/NyI…",
+      "url": "https://nitter.net/Mugiwara_23/status/2031023294179131505#m",
+      "date": "Mon, 09 Mar 2026 15:04:22 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC-j7rraoAAZz5l.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1514ec5debf4e98679193af9bf9b3f9ce855afced8dc443fd972dbfb1849f0a8",
@@ -188,94 +112,169 @@
       ]
     },
     {
-      "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "text": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2030228067310788807#m",
-      "date": "Sat, 07 Mar 2026 10:24:25 GMT",
+      "id": "f184f35c2af9b459d25338f75cb32915d664ee4158058944ed581f011d3f4fac",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "When Nico Robin meets Eminem",
+      "text": "When Nico Robin meets Eminem",
+      "url": "https://nitter.net/aquarobinn/status/2030722918439903597#m",
+      "date": "Sun, 08 Mar 2026 19:10:47 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+        "https://nitter.net/pic/media%2FHC6TutjXwAAPQav.jpg"
       ]
     },
     {
-      "id": "9a626f1b6f74db699af5b60fc0206bfdbce2803a04d39d3b5a40c179f496f51f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "text": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2029949879045476643#m",
-      "date": "Fri, 06 Mar 2026 15:59:00 GMT",
+      "id": "af31e289d6db7fcb12763d46e88832d544320c3a0695970da60e932206276963",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Today is Shanks and Mihawk 's birthday! When do you think Oda will reveal the *truth* about them in manga?🥰",
+      "text": "Today is Shanks and Mihawk 's birthday! When do you think Oda will reveal the *truth* about them in manga?🥰",
+      "url": "https://nitter.net/sandman_AP/status/2030912900555280400#m",
+      "date": "Mon, 09 Mar 2026 07:45:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
+        "https://nitter.net/pic/media%2FHC9AhTVa4AAh4yM.jpg",
+        "https://nitter.net/pic/media%2FHC9AhVVbwAAueh2.jpg"
       ]
     },
     {
-      "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian de",
-      "text": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian detainees. This is the level of evil we are dealing with Video — https://nitter.net/Mbakaza4L/status/2028904204434084316#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2029170648262570445#m",
-      "date": "Wed, 04 Mar 2026 12:22:37 GMT",
+      "id": "6a9003f752bc2b36b553770b2e7b5e6e5ccdf5cbaaa39e2e6d2b17981aa33945",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece Theory: Usopp’s Shining Moment. Maybe in Elbaf. Definitely at the Finale. First, he became God. By the end, he will be the Dawnbringer. #onepiece #onepiecetheory",
+      "text": "One Piece Theory: Usopp’s Shining Moment. Maybe in Elbaf. Definitely at the Finale. First, he became God. By the end, he will be the Dawnbringer. #onepiece #onepiecetheory",
+      "url": "https://nitter.net/StrawhatUFO/status/2030906606419132570#m",
+      "date": "Mon, 09 Mar 2026 07:20:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
+        "https://nitter.net/pic/media%2FHC8zTRNa8AAxq13.png"
       ]
     },
     {
-      "id": "c805f78861fc31c21083461223b3fdf7bc55871837036dba3d179402b7737fa1",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure a",
-      "text": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 Video — https://nitter.net/WSJ_manga/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
+      "id": "79fd3e1efdea2f2a86376f87efcb05999f9b22578e4162b5d95bd24aecdfd05e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Zoro is the most popular in Japan.🔥 Oda doesn't love that.🥺 Oda (1999): I'm glad Luffy won in the popularity poll. I was worried he might get surpassed by Zoro or Shanks. I participated in Film Z si",
+      "text": "Zoro is the most popular in Japan.🔥 Oda doesn't love that.🥺 Oda (1999): I'm glad Luffy won in the popularity poll. I was worried he might get surpassed by Zoro or Shanks. I participated in Film Z since I wanted to protect Luffy. (2018): Luffy is an ideal kid for me.",
+      "url": "https://nitter.net/sandman_AP/status/2030777149716926938#m",
+      "date": "Sun, 08 Mar 2026 22:46:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848706674470913%2Fimg%2F7hS1JJSDiQD8Gq26.jpg"
+        "https://nitter.net/pic/media%2FHC7FDlGasAAoKJo.jpg"
       ]
     },
     {
-      "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incr",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/BorutoRiden/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
+      "id": "1b6ea0f5b9e02a6f3f6c446976cde7086f4f15a7a1b9f23461b1117e1221049a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "GURA GURA GURA HAHA Anime Tweets (@AnimexTwts) Name an anime character that can do this: — https://nitter.net/AnimexTwts/status/2030744111758659666#m",
+      "text": "GURA GURA GURA HAHA Anime Tweets (@AnimexTwts) Name an anime character that can do this: — https://nitter.net/AnimexTwts/status/2030744111758659666#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2030764702276497419#m",
+      "date": "Sun, 08 Mar 2026 21:56:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
+        "https://nitter.net/pic/media%2FHC4YqLta4AA3Dm3.jpg"
       ]
     },
     {
-      "id": "5e6577928025af16f4d73b1ea935ff0874e5fa12a0d40ab013a7a29989fcac78",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join",
-      "text": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series to the new era. Discover exclusive content, and more that you’ll only find here! Subscribe & turn on 🔔 #NARUTO #BORUTO — https://nitter.net/NARUTOBORUTO_EN/status/2028274569598128319#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028365653044851050#m",
-      "date": "Mon, 02 Mar 2026 07:03:51 GMT",
+      "id": "e4368a43f8f506c12158a6a3642ef32b9e2de621aa2bcce42f66bff958686680",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2031038706656608497#m",
+      "date": "Mon, 09 Mar 2026 16:05:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg",
-        "https://nitter.net/pic/media%2FHCXg7jQaAAA4LSU.jpg"
+        "https://nitter.net/pic/card_img%2F2028848477934096384%2FMVGMKXPy%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "adbb88432ac7fdc426acd1219944f1fac8cb1cde4a39f921b2eec89931f5b7e4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
+      "text": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
+      "url": "https://nitter.net/pewpiece/status/2030962457372426437#m",
+      "date": "Mon, 09 Mar 2026 11:02:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC9tNAHWcAE3Ke3.jpg"
+      ]
+    },
+    {
+      "id": "cb10ee2977606aa5ff1e54c8780c7e4cca17434e232ed2cb8c7e2418891f2824",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2030734571105288352#m",
+      "date": "Sun, 08 Mar 2026 19:57:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028848905681616897%2FR38etRSy%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "27140d6dd860a1991f11ea38aa5fee20c17e37bd0f350c2451e51ff575cdf8b6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONEPIECE WORLD TOP 100 POPULARITY POLL FIRST WEEK RESULT ARE OUT Zoro is #1 in Japan while Luffy is #1 in every other region Rocks also made the top 5 in 3 regions.",
+      "text": "THE ONEPIECE WORLD TOP 100 POPULARITY POLL FIRST WEEK RESULT ARE OUT Zoro is #1 in Japan while Luffy is #1 in every other region Rocks also made the top 5 in 3 regions.",
+      "url": "https://nitter.net/pewpiece/status/2030727575262073297#m",
+      "date": "Sun, 08 Mar 2026 19:29:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC6Vp2AWUAAkgbB.jpg"
+      ]
+    },
+    {
+      "id": "4ecbfe230d7c91ed47ed50ccf3789791bcb0beb3d89f302499b24ca597fc59c9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
+      "text": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
+      "url": "https://nitter.net/pewpiece/status/2030727604790042945#m",
+      "date": "Sun, 08 Mar 2026 19:29:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC6Xnr2XoAAEuUU.jpg"
+      ]
+    },
+    {
+      "id": "ef8ad31980c92dfd245f1cfffe242d203165b4e9c8a1bb1557756a6e5de023af",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
+      "text": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
+      "url": "https://nitter.net/pewpiece/status/2030727609013711023#m",
+      "date": "Sun, 08 Mar 2026 19:29:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC6X0CFWEAAieuL.jpg"
       ]
     },
     {
@@ -306,98 +305,38 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHC9-pUCWUAATwLW.jpg"
+      ]
+    },
+    {
+      "id": "0de675919d7def0882817c46a9518bb3add5d9f7bded5f8e9800e4a1aac66500",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030951009107722693#m",
+      "date": "Mon, 09 Mar 2026 10:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC9jLhQXMAATVAs.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "e4368a43f8f506c12158a6a3642ef32b9e2de621aa2bcce42f66bff958686680",
+      "id": "49913784113089416c723bd24bb0a59d11e873042712ac5f3f6f7c58b0461465",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2031038706656608497#m",
-      "date": "Mon, 09 Mar 2026 16:05:37 GMT",
-      "isSpoiler": false,
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#MakePerosperoGreatAgain The 2nd Global ONE PIECE Character Popularity Contest I voted for “CHARLOTTE PEROSPERAW”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "#MakePerosperoGreatAgain The 2nd Global ONE PIECE Character Popularity Contest I voted for “CHARLOTTE PEROSPERAW”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/WorstGenHQ/status/2031077004661985653#m",
+      "date": "Mon, 09 Mar 2026 18:37:48 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2028848477934096384%2FMVGMKXPy%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "adbb88432ac7fdc426acd1219944f1fac8cb1cde4a39f921b2eec89931f5b7e4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
-      "text": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
-      "url": "https://nitter.net/pewpiece/status/2030962457372426437#m",
-      "date": "Mon, 09 Mar 2026 11:02:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC9tNAHWcAE3Ke3.jpg"
-      ]
-    },
-    {
-      "id": "cb10ee2977606aa5ff1e54c8780c7e4cca17434e232ed2cb8c7e2418891f2824",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2030734571105288352#m",
-      "date": "Sun, 08 Mar 2026 19:57:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2028848905681616897%2FR38etRSy%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "ef8ad31980c92dfd245f1cfffe242d203165b4e9c8a1bb1557756a6e5de023af",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
-      "text": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
-      "url": "https://nitter.net/pewpiece/status/2030727609013711023#m",
-      "date": "Sun, 08 Mar 2026 19:29:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC6X0CFWEAAieuL.jpg"
-      ]
-    },
-    {
-      "id": "4ecbfe230d7c91ed47ed50ccf3789791bcb0beb3d89f302499b24ca597fc59c9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
-      "text": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
-      "url": "https://nitter.net/pewpiece/status/2030727604790042945#m",
-      "date": "Sun, 08 Mar 2026 19:29:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC6Xnr2XoAAEuUU.jpg"
-      ]
-    },
-    {
-      "id": "9cf323ffe4c8999e4ddc0d0bf439ffb5eabf284da95ee90e31f2962f3447d1f0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Europe top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Nami 5 - Rocks D xebec",
-      "text": "Europe top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Nami 5 - Rocks D xebec",
-      "url": "https://nitter.net/pewpiece/status/2030727599895310386#m",
-      "date": "Sun, 08 Mar 2026 19:29:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC6XU43bwAECUKb.jpg"
+        "https://nitter.net/pic/card_img%2F2028865673607233536%2FOrhslLJA%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -463,19 +402,17 @@
       ]
     },
     {
-      "id": "1489211d342a443cb3962923bd1d275d1b9ed49625771065c083b2d3ebfaeeb5",
+      "id": "4352a700302ce0cfed02a375d82dbac574e33c482b64943c6b259835f4e26662",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ netflix.com/onepiece #ONEPIECE #実写のワンピ #ネトフリワンピ",
-      "text": "◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ netflix.com/onepiece #ONEPIECE #実写のワンピ #ネトフリワンピ",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2031022218856313015#m",
-      "date": "Mon, 09 Mar 2026 15:00:06 GMT",
+      "title": "RT @Eiichiro_Staff: ◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ t.co/NyI…",
+      "text": "RT @Eiichiro_Staff: ◥◣＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢◤ 実写版『ONE PIECE』シーズン2 本日3.10(火)16:00配信開始 ◢◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣◥◣ t.co/NyI…",
+      "url": "https://nitter.net/Mugiwara_23/status/2031023294179131505#m",
+      "date": "Mon, 09 Mar 2026 15:04:22 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC-j7rraoAAZz5l.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1514ec5debf4e98679193af9bf9b3f9ce855afced8dc443fd972dbfb1849f0a8",
@@ -495,94 +432,169 @@
       ]
     },
     {
-      "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "text": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2030228067310788807#m",
-      "date": "Sat, 07 Mar 2026 10:24:25 GMT",
+      "id": "f184f35c2af9b459d25338f75cb32915d664ee4158058944ed581f011d3f4fac",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "When Nico Robin meets Eminem",
+      "text": "When Nico Robin meets Eminem",
+      "url": "https://nitter.net/aquarobinn/status/2030722918439903597#m",
+      "date": "Sun, 08 Mar 2026 19:10:47 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+        "https://nitter.net/pic/media%2FHC6TutjXwAAPQav.jpg"
       ]
     },
     {
-      "id": "9a626f1b6f74db699af5b60fc0206bfdbce2803a04d39d3b5a40c179f496f51f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "text": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2029949879045476643#m",
-      "date": "Fri, 06 Mar 2026 15:59:00 GMT",
+      "id": "af31e289d6db7fcb12763d46e88832d544320c3a0695970da60e932206276963",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Today is Shanks and Mihawk 's birthday! When do you think Oda will reveal the *truth* about them in manga?🥰",
+      "text": "Today is Shanks and Mihawk 's birthday! When do you think Oda will reveal the *truth* about them in manga?🥰",
+      "url": "https://nitter.net/sandman_AP/status/2030912900555280400#m",
+      "date": "Mon, 09 Mar 2026 07:45:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
+        "https://nitter.net/pic/media%2FHC9AhTVa4AAh4yM.jpg",
+        "https://nitter.net/pic/media%2FHC9AhVVbwAAueh2.jpg"
       ]
     },
     {
-      "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian de",
-      "text": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian detainees. This is the level of evil we are dealing with Video — https://nitter.net/Mbakaza4L/status/2028904204434084316#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2029170648262570445#m",
-      "date": "Wed, 04 Mar 2026 12:22:37 GMT",
+      "id": "6a9003f752bc2b36b553770b2e7b5e6e5ccdf5cbaaa39e2e6d2b17981aa33945",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece Theory: Usopp’s Shining Moment. Maybe in Elbaf. Definitely at the Finale. First, he became God. By the end, he will be the Dawnbringer. #onepiece #onepiecetheory",
+      "text": "One Piece Theory: Usopp’s Shining Moment. Maybe in Elbaf. Definitely at the Finale. First, he became God. By the end, he will be the Dawnbringer. #onepiece #onepiecetheory",
+      "url": "https://nitter.net/StrawhatUFO/status/2030906606419132570#m",
+      "date": "Mon, 09 Mar 2026 07:20:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
+        "https://nitter.net/pic/media%2FHC8zTRNa8AAxq13.png"
       ]
     },
     {
-      "id": "c805f78861fc31c21083461223b3fdf7bc55871837036dba3d179402b7737fa1",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure a",
-      "text": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 Video — https://nitter.net/WSJ_manga/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
+      "id": "79fd3e1efdea2f2a86376f87efcb05999f9b22578e4162b5d95bd24aecdfd05e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Zoro is the most popular in Japan.🔥 Oda doesn't love that.🥺 Oda (1999): I'm glad Luffy won in the popularity poll. I was worried he might get surpassed by Zoro or Shanks. I participated in Film Z si",
+      "text": "Zoro is the most popular in Japan.🔥 Oda doesn't love that.🥺 Oda (1999): I'm glad Luffy won in the popularity poll. I was worried he might get surpassed by Zoro or Shanks. I participated in Film Z since I wanted to protect Luffy. (2018): Luffy is an ideal kid for me.",
+      "url": "https://nitter.net/sandman_AP/status/2030777149716926938#m",
+      "date": "Sun, 08 Mar 2026 22:46:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848706674470913%2Fimg%2F7hS1JJSDiQD8Gq26.jpg"
+        "https://nitter.net/pic/media%2FHC7FDlGasAAoKJo.jpg"
       ]
     },
     {
-      "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incr",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/BorutoRiden/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
+      "id": "1b6ea0f5b9e02a6f3f6c446976cde7086f4f15a7a1b9f23461b1117e1221049a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "GURA GURA GURA HAHA Anime Tweets (@AnimexTwts) Name an anime character that can do this: — https://nitter.net/AnimexTwts/status/2030744111758659666#m",
+      "text": "GURA GURA GURA HAHA Anime Tweets (@AnimexTwts) Name an anime character that can do this: — https://nitter.net/AnimexTwts/status/2030744111758659666#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2030764702276497419#m",
+      "date": "Sun, 08 Mar 2026 21:56:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
+        "https://nitter.net/pic/media%2FHC4YqLta4AA3Dm3.jpg"
       ]
     },
     {
-      "id": "5e6577928025af16f4d73b1ea935ff0874e5fa12a0d40ab013a7a29989fcac78",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join",
-      "text": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series to the new era. Discover exclusive content, and more that you’ll only find here! Subscribe & turn on 🔔 #NARUTO #BORUTO — https://nitter.net/NARUTOBORUTO_EN/status/2028274569598128319#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028365653044851050#m",
-      "date": "Mon, 02 Mar 2026 07:03:51 GMT",
+      "id": "e4368a43f8f506c12158a6a3642ef32b9e2de621aa2bcce42f66bff958686680",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2031038706656608497#m",
+      "date": "Mon, 09 Mar 2026 16:05:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg",
-        "https://nitter.net/pic/media%2FHCXg7jQaAAA4LSU.jpg"
+        "https://nitter.net/pic/card_img%2F2028848477934096384%2FMVGMKXPy%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "adbb88432ac7fdc426acd1219944f1fac8cb1cde4a39f921b2eec89931f5b7e4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
+      "text": "NEW OFFICIAL ONE PIECE LIVE ACTION SEASON 2 POSTER! Less than 24 hours until onepiece live action Season 2 kicks off.",
+      "url": "https://nitter.net/pewpiece/status/2030962457372426437#m",
+      "date": "Mon, 09 Mar 2026 11:02:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC9tNAHWcAE3Ke3.jpg"
+      ]
+    },
+    {
+      "id": "cb10ee2977606aa5ff1e54c8780c7e4cca17434e232ed2cb8c7e2418891f2824",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2030734571105288352#m",
+      "date": "Sun, 08 Mar 2026 19:57:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2028848905681616897%2FR38etRSy%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "27140d6dd860a1991f11ea38aa5fee20c17e37bd0f350c2451e51ff575cdf8b6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONEPIECE WORLD TOP 100 POPULARITY POLL FIRST WEEK RESULT ARE OUT Zoro is #1 in Japan while Luffy is #1 in every other region Rocks also made the top 5 in 3 regions.",
+      "text": "THE ONEPIECE WORLD TOP 100 POPULARITY POLL FIRST WEEK RESULT ARE OUT Zoro is #1 in Japan while Luffy is #1 in every other region Rocks also made the top 5 in 3 regions.",
+      "url": "https://nitter.net/pewpiece/status/2030727575262073297#m",
+      "date": "Sun, 08 Mar 2026 19:29:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC6Vp2AWUAAkgbB.jpg"
+      ]
+    },
+    {
+      "id": "4ecbfe230d7c91ed47ed50ccf3789791bcb0beb3d89f302499b24ca597fc59c9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
+      "text": "Middle east Top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5 - Nami",
+      "url": "https://nitter.net/pewpiece/status/2030727604790042945#m",
+      "date": "Sun, 08 Mar 2026 19:29:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC6Xnr2XoAAEuUU.jpg"
+      ]
+    },
+    {
+      "id": "ef8ad31980c92dfd245f1cfffe242d203165b4e9c8a1bb1557756a6e5de023af",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
+      "text": "Africa top 5 1 - Luffy 2 - Zoro 3 - Sanji 4 - Rocks 5- Shanks",
+      "url": "https://nitter.net/pewpiece/status/2030727609013711023#m",
+      "date": "Sun, 08 Mar 2026 19:29:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC6X0CFWEAAieuL.jpg"
       ]
     },
     {
@@ -613,6 +625,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHC9-pUCWUAATwLW.jpg"
+      ]
+    },
+    {
+      "id": "0de675919d7def0882817c46a9518bb3add5d9f7bded5f8e9800e4a1aac66500",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
+      "url": "https://nitter.net/daily_berserk/status/2030951009107722693#m",
+      "date": "Mon, 09 Mar 2026 10:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHC9jLhQXMAATVAs.jpg"
       ]
     }
   ]
