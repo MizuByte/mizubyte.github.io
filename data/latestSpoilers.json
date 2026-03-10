@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T22:31:31.743Z",
+  "generatedAt": "2026-03-10T23:02:54.477Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -278,6 +278,21 @@
       ]
     },
     {
+      "id": "d0781361c5443c9980790d06fe31b2a8cda993e97e6eb732c46978e41c76926f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Is #BERSERK #ベルセルク The best manga ever made?",
+      "text": "Is #BERSERK #ベルセルク The best manga ever made?",
+      "url": "https://nitter.net/daily_berserk/status/2031500298888319095#m",
+      "date": "Tue, 10 Mar 2026 22:39:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDFWwM9aMAEnHCI.jpg"
+      ]
+    },
+    {
       "id": "ca8925dbdaca3a22d0cd79c97868e29576321570cf6bb5a738766287af33beaf",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -290,21 +305,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDEo0R8XkAAs0m4.jpg"
-      ]
-    },
-    {
-      "id": "e3ed518e79d3a8cdf0f8b88cb1a712111a665afcca36876003f131ffbf4973db",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "What is your favorite moment of #BERSERK?",
-      "text": "What is your favorite moment of #BERSERK?",
-      "url": "https://nitter.net/daily_berserk/status/2031389154542518357#m",
-      "date": "Tue, 10 Mar 2026 15:18:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDDxqzzaMAMxTpj.jpg"
       ]
     }
   ],
@@ -584,6 +584,21 @@
       ]
     },
     {
+      "id": "d0781361c5443c9980790d06fe31b2a8cda993e97e6eb732c46978e41c76926f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Is #BERSERK #ベルセルク The best manga ever made?",
+      "text": "Is #BERSERK #ベルセルク The best manga ever made?",
+      "url": "https://nitter.net/daily_berserk/status/2031500298888319095#m",
+      "date": "Tue, 10 Mar 2026 22:39:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDFWwM9aMAEnHCI.jpg"
+      ]
+    },
+    {
       "id": "ca8925dbdaca3a22d0cd79c97868e29576321570cf6bb5a738766287af33beaf",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -596,21 +611,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDEo0R8XkAAs0m4.jpg"
-      ]
-    },
-    {
-      "id": "e3ed518e79d3a8cdf0f8b88cb1a712111a665afcca36876003f131ffbf4973db",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "What is your favorite moment of #BERSERK?",
-      "text": "What is your favorite moment of #BERSERK?",
-      "url": "https://nitter.net/daily_berserk/status/2031389154542518357#m",
-      "date": "Tue, 10 Mar 2026 15:18:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDDxqzzaMAMxTpj.jpg"
       ]
     }
   ]
