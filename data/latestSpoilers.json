@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T10:03:45.700Z",
+  "generatedAt": "2026-03-11T11:03:43.090Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -19,30 +19,34 @@
       ]
     },
     {
-      "id": "db545ae075c64663cd329fb3d29e6b889aadd459aca32f099ad914d9f5a3e05c",
+      "id": "cbb3108dcda0cc78acbdd624a578839d2406acb49aa4d5613cfb659e63305a22",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE t.co/ZKNF…",
-      "text": "RT @Eiichiro_Staff: 【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE t.co/ZKNF…",
-      "url": "https://nitter.net/Mugiwara_23/status/2031629313229914185#m",
-      "date": "Wed, 11 Mar 2026 07:12:28 GMT",
+      "title": "【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE",
+      "text": "【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2031626537460793718#m",
+      "date": "Wed, 11 Mar 2026 07:01:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDHJkJiaAAAo9NT.jpg"
+      ]
     },
     {
-      "id": "3ad62ba689439e8ea53f44cbbe3903c04f842d2cab2734ff70d1b0c6dc690669",
+      "id": "146b50c696a59ac611316b7a7c2f94384fe6674e52bedbc8074b897c76249492",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE…",
-      "text": "RT @Eiichiro_Staff: The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE…",
-      "url": "https://nitter.net/Mugiwara_23/status/2031629218119868553#m",
-      "date": "Wed, 11 Mar 2026 07:12:06 GMT",
+      "title": "The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE PIECE BASE app! It's also available in French! ◇ Period: Until 9:30 6:59 (PST) ▼D",
+      "text": "The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE PIECE BASE app! It's also available in French! ◇ Period: Until 9:30 6:59 (PST) ▼Download now bnent.jp/opbase_en #OP_globalinfo #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2031566676995747931#m",
+      "date": "Wed, 11 Mar 2026 03:03:35 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDGTHyRbQAAWW9f.jpg"
+      ]
     },
     {
       "id": "3847a21858bcaaed7fac7de1f7023b0c3ef063720e5a0439d4b313c83667ee6f",
@@ -181,6 +185,21 @@
       ]
     },
     {
+      "id": "f12717eb80e2f5aec54b7c9b34a2a0d39ab176a00a47863e388b8a22bb1e9b7d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "The Holy Trinity",
+      "text": "The Holy Trinity",
+      "url": "https://nitter.net/daily_berserk/status/2031682757768695820#m",
+      "date": "Wed, 11 Mar 2026 10:44:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDH8s06WgAAOxE9.jpg"
+      ]
+    },
+    {
       "id": "f292bf3c9489d2d3afbbb8f90bb7cda1c5bd518ea6962776ce9658478d7d8346",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -253,21 +272,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDC2EMdX0AAfOMp.jpg"
-      ]
-    },
-    {
-      "id": "e1b0c47cc1e878a8680573b4398fb1ab68a1a65105dfce68d774a36d576498b6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2030981208180416530#m",
-      "date": "Mon, 09 Mar 2026 12:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC9-pUCWUAATwLW.jpg"
       ]
     }
   ],
@@ -288,30 +292,34 @@
       ]
     },
     {
-      "id": "db545ae075c64663cd329fb3d29e6b889aadd459aca32f099ad914d9f5a3e05c",
+      "id": "cbb3108dcda0cc78acbdd624a578839d2406acb49aa4d5613cfb659e63305a22",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE t.co/ZKNF…",
-      "text": "RT @Eiichiro_Staff: 【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE t.co/ZKNF…",
-      "url": "https://nitter.net/Mugiwara_23/status/2031629313229914185#m",
-      "date": "Wed, 11 Mar 2026 07:12:28 GMT",
+      "title": "【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE",
+      "text": "【プライズ情報】 ジャンプ2022年34号の 巻頭カラーで描かれた四皇が Grandistaでフィギュア化決定🏴‍☠️ 8月から9月にかけて登場予定です。 登場をお楽しみに！！ #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2031626537460793718#m",
+      "date": "Wed, 11 Mar 2026 07:01:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDHJkJiaAAAo9NT.jpg"
+      ]
     },
     {
-      "id": "3ad62ba689439e8ea53f44cbbe3903c04f842d2cab2734ff70d1b0c6dc690669",
+      "id": "146b50c696a59ac611316b7a7c2f94384fe6674e52bedbc8074b897c76249492",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE…",
-      "text": "RT @Eiichiro_Staff: The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE…",
-      "url": "https://nitter.net/Mugiwara_23/status/2031629218119868553#m",
-      "date": "Wed, 11 Mar 2026 07:12:06 GMT",
+      "title": "The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE PIECE BASE app! It's also available in French! ◇ Period: Until 9:30 6:59 (PST) ▼D",
+      "text": "The color edition of the manga, volumes 1-17 (chapters 1-155), is now available for free for a limited time on the ONE PIECE BASE app! It's also available in French! ◇ Period: Until 9:30 6:59 (PST) ▼Download now bnent.jp/opbase_en #OP_globalinfo #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2031566676995747931#m",
+      "date": "Wed, 11 Mar 2026 03:03:35 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDGTHyRbQAAWW9f.jpg"
+      ]
     },
     {
       "id": "3847a21858bcaaed7fac7de1f7023b0c3ef063720e5a0439d4b313c83667ee6f",
@@ -450,6 +458,21 @@
       ]
     },
     {
+      "id": "f12717eb80e2f5aec54b7c9b34a2a0d39ab176a00a47863e388b8a22bb1e9b7d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "The Holy Trinity",
+      "text": "The Holy Trinity",
+      "url": "https://nitter.net/daily_berserk/status/2031682757768695820#m",
+      "date": "Wed, 11 Mar 2026 10:44:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDH8s06WgAAOxE9.jpg"
+      ]
+    },
+    {
       "id": "f292bf3c9489d2d3afbbb8f90bb7cda1c5bd518ea6962776ce9658478d7d8346",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -522,21 +545,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDC2EMdX0AAfOMp.jpg"
-      ]
-    },
-    {
-      "id": "e1b0c47cc1e878a8680573b4398fb1ab68a1a65105dfce68d774a36d576498b6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "text": "Only people who have read Berserk can reply to this tweet, it's true, try it!!",
-      "url": "https://nitter.net/daily_berserk/status/2030981208180416530#m",
-      "date": "Mon, 09 Mar 2026 12:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHC9-pUCWUAATwLW.jpg"
       ]
     }
   ]
