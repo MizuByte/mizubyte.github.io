@@ -1,101 +1,8 @@
 {
-  "generatedAt": "2026-03-12T22:35:52.555Z",
+  "generatedAt": "2026-03-12T23:02:15.255Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
-    {
-      "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
-      "text": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
-      "url": "https://nitter.net/pewpiece/status/2032134876527239279#m",
-      "date": "Thu, 12 Mar 2026 16:41:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDOXs5TaEAAHxyt.jpg"
-      ]
-    },
-    {
-      "id": "5576f1fdac7169d46d8e5e39b18cd57340380cbb2182ad4803a68fe93f1016a0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2032130396914098343#m",
-      "date": "Thu, 12 Mar 2026 16:23:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031392991785459713%2F60hxY8mD%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "963618e6a29341cd12fa3d9ec2f4d136278a2cda0f4498ab2275cff7b586990d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Four years ago today, this iconic manga moment shook the world",
-      "text": "Four years ago today, this iconic manga moment shook the world",
-      "url": "https://nitter.net/pewpiece/status/2031837566509412433#m",
-      "date": "Wed, 11 Mar 2026 21:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBdVNUZXIAAnaAr.png"
-      ]
-    },
-    {
-      "id": "048af4ded26b0b58ed09219a8d96856464162daecde1e69e60ee1bed9619c58b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally o",
-      "text": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally on March 13.",
-      "url": "https://nitter.net/pewpiece/status/2031762190957449681#m",
-      "date": "Wed, 11 Mar 2026 16:00:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDJE7zZaoAEcT_-.jpg"
-      ]
-    },
-    {
-      "id": "0969eb5b940a52d48977fc79fa00839549cb73ee9518a6d0b7f0f67fb80f739b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2031747590849548473#m",
-      "date": "Wed, 11 Mar 2026 15:02:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031224976913625090%2F16_JVynl%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "dae46dbc265645464aeef599c0759d458b90db338f7e18d3b80b4504ae7ecf92",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
-      "text": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
-      "url": "https://nitter.net/pewpiece/status/2031419464525242435#m",
-      "date": "Tue, 10 Mar 2026 17:18:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDEMi_-asAAgNKm.jpg",
-        "https://nitter.net/pic/media%2FHDEMkMaWMAAatOz.jpg",
-        "https://nitter.net/pic/media%2FHDEMnptW0AAhEVq.png",
-        "https://nitter.net/pic/media%2FHDEMqj7WUAA6BJg.jpg"
-      ]
-    },
     {
       "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
       "anime": "onepiece",
@@ -180,6 +87,94 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
+      "text": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
+      "url": "https://nitter.net/pewpiece/status/2032134876527239279#m",
+      "date": "Thu, 12 Mar 2026 16:41:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDOXs5TaEAAHxyt.jpg"
+      ]
+    },
+    {
+      "id": "5576f1fdac7169d46d8e5e39b18cd57340380cbb2182ad4803a68fe93f1016a0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2032130396914098343#m",
+      "date": "Thu, 12 Mar 2026 16:23:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "963618e6a29341cd12fa3d9ec2f4d136278a2cda0f4498ab2275cff7b586990d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Four years ago today, this iconic manga moment shook the world",
+      "text": "Four years ago today, this iconic manga moment shook the world",
+      "url": "https://nitter.net/pewpiece/status/2031837566509412433#m",
+      "date": "Wed, 11 Mar 2026 21:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBdVNUZXIAAnaAr.png"
+      ]
+    },
+    {
+      "id": "048af4ded26b0b58ed09219a8d96856464162daecde1e69e60ee1bed9619c58b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally o",
+      "text": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally on March 13.",
+      "url": "https://nitter.net/pewpiece/status/2031762190957449681#m",
+      "date": "Wed, 11 Mar 2026 16:00:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDJE7zZaoAEcT_-.jpg"
+      ]
+    },
+    {
+      "id": "0969eb5b940a52d48977fc79fa00839549cb73ee9518a6d0b7f0f67fb80f739b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2031747590849548473#m",
+      "date": "Wed, 11 Mar 2026 15:02:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "dae46dbc265645464aeef599c0759d458b90db338f7e18d3b80b4504ae7ecf92",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
+      "text": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
+      "url": "https://nitter.net/pewpiece/status/2031419464525242435#m",
+      "date": "Tue, 10 Mar 2026 17:18:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDEMi_-asAAgNKm.jpg",
+        "https://nitter.net/pic/media%2FHDEMnptW0AAhEVq.png",
+        "https://nitter.net/pic/media%2FHDEMqj7WUAA6BJg.jpg"
+      ]
     },
     {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
@@ -275,99 +270,6 @@
   ],
   "items": [
     {
-      "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
-      "text": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
-      "url": "https://nitter.net/pewpiece/status/2032134876527239279#m",
-      "date": "Thu, 12 Mar 2026 16:41:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDOXs5TaEAAHxyt.jpg"
-      ]
-    },
-    {
-      "id": "5576f1fdac7169d46d8e5e39b18cd57340380cbb2182ad4803a68fe93f1016a0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2032130396914098343#m",
-      "date": "Thu, 12 Mar 2026 16:23:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031392991785459713%2F60hxY8mD%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "963618e6a29341cd12fa3d9ec2f4d136278a2cda0f4498ab2275cff7b586990d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Four years ago today, this iconic manga moment shook the world",
-      "text": "Four years ago today, this iconic manga moment shook the world",
-      "url": "https://nitter.net/pewpiece/status/2031837566509412433#m",
-      "date": "Wed, 11 Mar 2026 21:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBdVNUZXIAAnaAr.png"
-      ]
-    },
-    {
-      "id": "048af4ded26b0b58ed09219a8d96856464162daecde1e69e60ee1bed9619c58b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally o",
-      "text": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally on March 13.",
-      "url": "https://nitter.net/pewpiece/status/2031762190957449681#m",
-      "date": "Wed, 11 Mar 2026 16:00:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDJE7zZaoAEcT_-.jpg"
-      ]
-    },
-    {
-      "id": "0969eb5b940a52d48977fc79fa00839549cb73ee9518a6d0b7f0f67fb80f739b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/pewpiece/status/2031747590849548473#m",
-      "date": "Wed, 11 Mar 2026 15:02:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031224976913625090%2F16_JVynl%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "dae46dbc265645464aeef599c0759d458b90db338f7e18d3b80b4504ae7ecf92",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
-      "text": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
-      "url": "https://nitter.net/pewpiece/status/2031419464525242435#m",
-      "date": "Tue, 10 Mar 2026 17:18:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDEMi_-asAAgNKm.jpg",
-        "https://nitter.net/pic/media%2FHDEMkMaWMAAatOz.jpg",
-        "https://nitter.net/pic/media%2FHDEMnptW0AAhEVq.png",
-        "https://nitter.net/pic/media%2FHDEMqj7WUAA6BJg.jpg"
-      ]
-    },
-    {
       "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -451,6 +353,94 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
+      "text": "3 WEEKS LEFT FOR ONE PIECE ANIME TO COME BACK",
+      "url": "https://nitter.net/pewpiece/status/2032134876527239279#m",
+      "date": "Thu, 12 Mar 2026 16:41:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDOXs5TaEAAHxyt.jpg"
+      ]
+    },
+    {
+      "id": "5576f1fdac7169d46d8e5e39b18cd57340380cbb2182ad4803a68fe93f1016a0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “TRAFALGAR LAW (TRAFALGAR D. WATER LAW)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2032130396914098343#m",
+      "date": "Thu, 12 Mar 2026 16:23:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "963618e6a29341cd12fa3d9ec2f4d136278a2cda0f4498ab2275cff7b586990d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Four years ago today, this iconic manga moment shook the world",
+      "text": "Four years ago today, this iconic manga moment shook the world",
+      "url": "https://nitter.net/pewpiece/status/2031837566509412433#m",
+      "date": "Wed, 11 Mar 2026 21:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBdVNUZXIAAnaAr.png"
+      ]
+    },
+    {
+      "id": "048af4ded26b0b58ed09219a8d96856464162daecde1e69e60ee1bed9619c58b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally o",
+      "text": "Eiichiro Oda will appear on a special Netflix One Piece podcast with Iñaki Godoy. The podcast will have six episodes, and the first episode featuring Oda and Iñaki together will be released globally on March 13.",
+      "url": "https://nitter.net/pewpiece/status/2031762190957449681#m",
+      "date": "Wed, 11 Mar 2026 16:00:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDJE7zZaoAEcT_-.jpg"
+      ]
+    },
+    {
+      "id": "0969eb5b940a52d48977fc79fa00839549cb73ee9518a6d0b7f0f67fb80f739b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NAMI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/pewpiece/status/2031747590849548473#m",
+      "date": "Wed, 11 Mar 2026 15:02:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "dae46dbc265645464aeef599c0759d458b90db338f7e18d3b80b4504ae7ecf92",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
+      "text": "what's your honest rating for OnePiece Live Action Season 2 out of 10?",
+      "url": "https://nitter.net/pewpiece/status/2031419464525242435#m",
+      "date": "Tue, 10 Mar 2026 17:18:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDEMi_-asAAgNKm.jpg",
+        "https://nitter.net/pic/media%2FHDEMnptW0AAhEVq.png",
+        "https://nitter.net/pic/media%2FHDEMqj7WUAA6BJg.jpg"
+      ]
     },
     {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
