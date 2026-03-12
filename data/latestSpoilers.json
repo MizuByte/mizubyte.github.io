@@ -1,182 +1,97 @@
 {
-  "generatedAt": "2026-03-12T07:36:02.643Z",
+  "generatedAt": "2026-03-12T08:27:20.834Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
     {
-      "id": "afb2be3bc2b829e8fcd295c26385c4b98223204f4a9e92d58a1d17fa2a7d71dc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wtf 3 goals by Valverde so far. Dude is on fire, City defense is sooo bad lol.",
-      "text": "Wtf 3 goals by Valverde so far. Dude is on fire, City defense is sooo bad lol.",
-      "url": "https://nitter.net/WorstGenHQ/status/2031834348131860844#m",
-      "date": "Wed, 11 Mar 2026 20:47:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "58c9fc29a785f39446ce4e05e8becee849e33e014559e0b3f4c02213ee09c0f0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Let see how Arsenal is doing against Leverkusen :)",
-      "text": "Let see how Arsenal is doing against Leverkusen :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2031788082903634369#m",
-      "date": "Wed, 11 Mar 2026 17:43:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "90c0579d8a4c9be8c3a75ffea8747020c24f3d7cc51b5861ec2ddce8afb788ef",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wow, Tankstellen dürfen den Preis jetzt nur noch einmal täglich erhöhen. Da habt ihr es denen ja richtig gezeigt danke für nichts.",
-      "text": "Wow, Tankstellen dürfen den Preis jetzt nur noch einmal täglich erhöhen. Da habt ihr es denen ja richtig gezeigt danke für nichts.",
-      "url": "https://nitter.net/0_7_user/status/2031695104683950247#m",
-      "date": "Wed, 11 Mar 2026 11:33:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDIH7ZZXMAAKK4Q.jpg"
-      ]
-    },
-    {
-      "id": "d5d8a88f02b781aead69285e1aff83cf7439ac05ab6a823b72ad841c4766e1ed",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "No.424、背景指定書作成完了。",
-      "text": "No.424、背景指定書作成完了。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2031510303587053986#m",
-      "date": "Tue, 10 Mar 2026 23:19:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDFf2WVaAAAz4DV.jpg"
-      ]
-    },
-    {
-      "id": "27425dbedc5b13725398da8ae891509508daadcf054b74d62503e0e75db1641e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "So basically, companies pay Youtube to show ads and we pay Youtube to not show ads Video",
-      "text": "So basically, companies pay Youtube to show ads and we pay Youtube to not show ads Video",
-      "url": "https://nitter.net/_Gottalovezik/status/2031072163864703044#m",
-      "date": "Mon, 09 Mar 2026 18:18:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2031072038363029504%2Fimg%2FpDfBOvEoiSGs4KFG.jpg"
-      ]
-    },
-    {
-      "id": "f34c4ab73f4c01804555b8a568ca03ee03f0278e89717d0c423e9ad49ce81d00",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Penalty lol!!! How bad is that pls, OMG.... Last seconds, Newcastle wtf...",
-      "text": "Penalty lol!!! How bad is that pls, OMG.... Last seconds, Newcastle wtf...",
-      "url": "https://nitter.net/WorstGenHQ/status/2031488281901257021#m",
-      "date": "Tue, 10 Mar 2026 21:52:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d51383ea5d58f89ccc04c0d2f9a994f7cd3bc4b2799855b9d1d0003d266e2c4f",
+      "id": "6434d6a2d60a2cdbb83fb6065d7305516378d2a2a4cb6f5e350dea28bc774c88",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "||◤ ◥|| 4/10(金)25:00放送・配信開始✊ キャスト&OPアーティスト解禁!! ||◣ ◢|| 2026年4月10日(金)25:00より TOKYO MX、BS11にて放送！ Prime Videoにて世界独占配信！ PV第2弾公開＆OPアーティスト、新キャスト解禁!! 🎶OPは #Alexandros（@alexandroscrew）「Hallelujah」 🌟レイ：#中村悠一",
-      "text": "||◤ ◥|| 4/10(金)25:00放送・配信開始✊ キャスト&OPアーティスト解禁!! ||◣ ◢|| 2026年4月10日(金)25:00より TOKYO MX、BS11にて放送！ Prime Videoにて世界独占配信！ PV第2弾公開＆OPアーティスト、新キャスト解禁!! 🎶OPは #Alexandros（@alexandroscrew）「Hallelujah」 🌟レイ：#中村悠一（@nakamuraFF11） 🌟マミヤ：#青木瑠璃子（@coloruri） 🌟ナレーション：#山寺宏一（@yamachanoha） ▼PV第2弾（YouTube） piped.video/Gux_dYHDMK4 <2nd Main Trailer & Artist・Cast Announcement!> Global Streaming Starts on April 10 at 25:00 JST! (April 11 1:00 AM JST) 🌟OP #Alexandros「Hallelujah」 🌟Rei: #YuichiNakamura 🌟Mamiya: #RurikoAoki 🌟Narration #KoichiYamadera Our very 2nd Main Trailer: piped.video/Gux_dYHDMK4 #北斗の拳アニメ #hokuto_anime Video",
-      "url": "https://nitter.net/hokutonokeninfo/status/2031897971164660025#m",
-      "date": "Thu, 12 Mar 2026 01:00:01 GMT",
+      "title": "Dance in the memories/中原めいこ きまぐれオレンジ☆ロード ED3(1987~1988年) Kimagure Orange Road ED3 #80s_retro_anime Video",
+      "text": "Dance in the memories/中原めいこ きまぐれオレンジ☆ロード ED3(1987~1988年) Kimagure Orange Road ED3 #80s_retro_anime Video",
+      "url": "https://nitter.net/anime8cm/status/2031605537478160432#m",
+      "date": "Wed, 11 Mar 2026 05:38:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2031897743707582465%2Fimg%2FP8SfRJXtfHDZ4AtH.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2031424059721003008%2Fimg%2FnWYg7oEG17fcsQ1y.jpg"
       ]
     },
     {
-      "id": "4c4b5c1ff99d8dc9d8c243eb18b6cb1a0b8df2103b9f2dc807836ab80bf5f1fa",
+      "id": "bb762f80634f9bf367edbc024565c617da22528a3b0a6a6e8d4e286ea6081ac9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "[任天堂HP]ニュースリリース「Nintendo Switch 2 ソフト『ぽこ あ ポケモン』の世界販売本数が発売後4日間で220万本を突破」を公開しました。 nintendo.co.jp/corporate/rel…",
-      "text": "[任天堂HP]ニュースリリース「Nintendo Switch 2 ソフト『ぽこ あ ポケモン』の世界販売本数が発売後4日間で220万本を突破」を公開しました。 nintendo.co.jp/corporate/rel…",
-      "url": "https://nitter.net/NintendoCoLtd/status/2031882970148299057#m",
-      "date": "Thu, 12 Mar 2026 00:00:25 GMT",
+      "title": "野村哲也氏「セフィロスみたいなキャラクターを作ってほしいと頼まれることが本当に多い」——MTG×FF公式インタビューで語る 『マジック：ザ・ギャザリング——FINAL FANTASY』の公式インタビューで、野村氏はセフィロスを「昔のファンにも今のファンにも親しまれるキャラクター」と述べ、新旧ファン双方から支持されているとの認識を示した。 gamestalk.net/tetsuya-nomura… ",
+      "text": "野村哲也氏「セフィロスみたいなキャラクターを作ってほしいと頼まれることが本当に多い」——MTG×FF公式インタビューで語る 『マジック：ザ・ギャザリング——FINAL FANTASY』の公式インタビューで、野村氏はセフィロスを「昔のファンにも今のファンにも親しまれるキャラクター」と述べ、新旧ファン双方から支持されているとの認識を示した。 gamestalk.net/tetsuya-nomura… 今回のコラボで野村氏は3〜4年にわたり数百点のアートを監修。ファンの既存イメージから逸れないことと、アーティストの個性の両立を最も重視したと説明している。 PAX Eastではセフィロスカードへの反応が最も大きかったとWizards側が振り返っている。野村氏はコラボ全体について「ここまで深く踏み込んだプロジェクトは初めて」と語った。 セフィロスに限らず、MTG×FFコラボで印象に残ったカードやアートはある？",
+      "url": "https://nitter.net/gamenohanashi/status/2031828494146326970#m",
+      "date": "Wed, 11 Mar 2026 20:23:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2030186200171171840%2FSK2wSjSV%3Fformat%3Dpng%26name%3D420x420_2"
+        "https://nitter.net/pic/media%2FHDKBMyDakAA0FkC.jpg"
       ]
     },
     {
-      "id": "95c0394a4cda2c3ae638571f70862b296a42b542c48520c2235881ec1b31ebfa",
+      "id": "a2bbe0713fac7d8f714db40570ff6a256168542a46f71f5f62895afbbbe2bca9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "We posted the News Release \"Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 2.2 Million in First Four Days\" nintendo.co.jp/corporate/rel…",
-      "text": "We posted the News Release \"Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 2.2 Million in First Four Days\" nintendo.co.jp/corporate/rel…",
-      "url": "https://nitter.net/NintendoCoLtd/status/2031882972656554495#m",
-      "date": "Thu, 12 Mar 2026 00:00:25 GMT",
+      "title": "◤￣￣￣￣￣￣￣￣￣￣◥ TVアニメ 『#アオアシ Season2』 ティザーPV、ついに解禁⚽️ ◣＿＿＿＿＿＿＿＿＿＿◢ アシトたちが駆け抜ける 新たなフィールドへ🐦‍⬛🔥 📺 【放送情報】 NHK Eテレにて 2026年10月4日(日)より Season2放送(予定)！ 🎥 YouTubeでの視聴はこちら piped.video/watch?v=phKPnPXm… Video",
+      "text": "◤￣￣￣￣￣￣￣￣￣￣◥ TVアニメ 『#アオアシ Season2』 ティザーPV、ついに解禁⚽️ ◣＿＿＿＿＿＿＿＿＿＿◢ アシトたちが駆け抜ける 新たなフィールドへ🐦‍⬛🔥 📺 【放送情報】 NHK Eテレにて 2026年10月4日(日)より Season2放送(予定)！ 🎥 YouTubeでの視聴はこちら piped.video/watch?v=phKPnPXm… Video",
+      "url": "https://nitter.net/aoashi_pr/status/2031928416451379654#m",
+      "date": "Thu, 12 Mar 2026 03:01:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2030186200171171840%2FSK2wSjSV%3Fformat%3Dpng%26name%3D420x420_2"
+        "https://nitter.net/pic/amplify_video_thumb%2F2031914865007423488%2Fimg%2FX5Mn-NBr0f0RR3U2.jpg"
       ]
     },
     {
-      "id": "43fc95b5c6442843307fc3b498089c0e9ce7c73e1bfb67a41245ebd8f549f8c7",
+      "id": "903630b3d9c58b8350c917e81f738ddf56ed6a1bf3db8867d3109586ce3311cc",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Netflixシリーズ実写版 『ONE PIECE』シーズン2 麦わらの一味、そしてバロックワークスの面々が名古屋駅に出現中！ トニートニー・チョッパーの姿も……！👀 🗓 期間：3/15(日)まで 📍名古屋駅 ※駅係員への問い合わせはご遠慮ください",
-      "text": "Netflixシリーズ実写版 『ONE PIECE』シーズン2 麦わらの一味、そしてバロックワークスの面々が名古屋駅に出現中！ トニートニー・チョッパーの姿も……！👀 🗓 期間：3/15(日)まで 📍名古屋駅 ※駅係員への問い合わせはご遠慮ください",
-      "url": "https://nitter.net/NetflixJP/status/2031667700372512839#m",
-      "date": "Wed, 11 Mar 2026 09:45:00 GMT",
+      "title": "オレンジ・ミステリー/長島秀幸 きまぐれオレンジ☆ロード OP2(1987~1988年) Kimagure Orange Road OP2 #80s_retro_anime Video",
+      "text": "オレンジ・ミステリー/長島秀幸 きまぐれオレンジ☆ロード OP2(1987~1988年) Kimagure Orange Road OP2 #80s_retro_anime Video",
+      "url": "https://nitter.net/anime8cm/status/2031514688920736241#m",
+      "date": "Tue, 10 Mar 2026 23:37:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDHrSBAWoAAjFqy.jpg",
-        "https://nitter.net/pic/media%2FHDHrSpZWwAAluyj.jpg",
-        "https://nitter.net/pic/media%2FHDHrTKjXIAAsKCy.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2031423827834814464%2Fimg%2FqQLMPh08dMjCGcxt.jpg"
       ]
     },
     {
-      "id": "560a80f41889fa2859213889a0cd8ce0016fc10881c832c2ac8d4376b8fc8afc",
+      "id": "b82ea51a7018d4f2a45c393c42da87bcbe881f8dc8ffe709a279a122eeee5071",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Happy birthday Akemi Okamura! 🎉 #AkemiOkamura #岡村明美 #岡村明美生誕祭2026",
-      "text": "Happy birthday Akemi Okamura! 🎉 #AkemiOkamura #岡村明美 #岡村明美生誕祭2026",
-      "url": "https://nitter.net/seiyuucorner/status/2031747474126471292#m",
-      "date": "Wed, 11 Mar 2026 15:02:00 GMT",
+      "title": "ゲッサン4月号好評発売中！『MIX』 155話掲載です。居候中の春夏と走一郎をニ人きりにしようと気を利かせる投馬と音美…前話に引き続き、冬の立花家が舞台です。懐かしい、あの店名も出てきます。 #ゲッサン #MIX",
+      "text": "ゲッサン4月号好評発売中！『MIX』 155話掲載です。居候中の春夏と走一郎をニ人きりにしようと気を利かせる投馬と音美…前話に引き続き、冬の立花家が舞台です。懐かしい、あの店名も出てきます。 #ゲッサン #MIX",
+      "url": "https://nitter.net/mitsuru_mix/status/2031976190903500835#m",
+      "date": "Thu, 12 Mar 2026 06:10:50 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDIsNB4bsAAXe5G.jpg"
+        "https://nitter.net/pic/media%2FHDMHkyGbcAAbQ9-.jpg",
+        "https://nitter.net/pic/media%2FHDMHkyIbQAAn3NH.jpg"
       ]
     },
     {
-      "id": "c24bd80a806526ca1e8f2b8ba4aeb34dd25e6c541c7cfd4ae9301536b6dbb389",
+      "id": "2df866055944363c982711997b33d4fe72ee9346a94d8ac4d98d57b0e5e1c85a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "🔴SAINT SEIYA THEN III KETSUI (EN ESPAÑOL)🔴 ¡Llegó la versión canónica del más reciente manga de Masami Kurumada, el Saint Seiya Then III - Ketsui! 😃 ➡️ facebook.com/share/p/1SE9oTv… No se olviden d",
-      "text": "🔴SAINT SEIYA THEN III KETSUI (EN ESPAÑOL)🔴 ¡Llegó la versión canónica del más reciente manga de Masami Kurumada, el Saint Seiya Then III - Ketsui! 😃 ➡️ facebook.com/share/p/1SE9oTv… No se olviden de dejar un me gusta y compartir 😊 Ahora preparo el yo te cuento 🙂 Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #saintseiyathen2 #saintseiyathen3 #saintseiyatenkaihen #sagadelcielo #sagadezeus @murielkawaii",
-      "url": "https://nitter.net/CesarinCool/status/2031870423403573368#m",
-      "date": "Wed, 11 Mar 2026 23:10:33 GMT",
+      "title": "‼️INVESTIGACIÓN | El Poder Judicial abre otra investigación al juez Peinado por una filtración a OkDiario en el caso contra Begoña Gómez eldiario.es/politica/judicia… Por @elenaherrerad",
+      "text": "‼️INVESTIGACIÓN | El Poder Judicial abre otra investigación al juez Peinado por una filtración a OkDiario en el caso contra Begoña Gómez eldiario.es/politica/judicia… Por @elenaherrerad",
+      "url": "https://nitter.net/eldiarioes/status/2031988829108789431#m",
+      "date": "Thu, 12 Mar 2026 07:01:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDKnJvTWcAI2EAd.jpg"
+        "https://nitter.net/pic/card_img%2F2031846533461651457%2F0tgq9VZz%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -273,179 +188,94 @@
   ],
   "items": [
     {
-      "id": "afb2be3bc2b829e8fcd295c26385c4b98223204f4a9e92d58a1d17fa2a7d71dc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wtf 3 goals by Valverde so far. Dude is on fire, City defense is sooo bad lol.",
-      "text": "Wtf 3 goals by Valverde so far. Dude is on fire, City defense is sooo bad lol.",
-      "url": "https://nitter.net/WorstGenHQ/status/2031834348131860844#m",
-      "date": "Wed, 11 Mar 2026 20:47:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "58c9fc29a785f39446ce4e05e8becee849e33e014559e0b3f4c02213ee09c0f0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Let see how Arsenal is doing against Leverkusen :)",
-      "text": "Let see how Arsenal is doing against Leverkusen :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2031788082903634369#m",
-      "date": "Wed, 11 Mar 2026 17:43:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "90c0579d8a4c9be8c3a75ffea8747020c24f3d7cc51b5861ec2ddce8afb788ef",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wow, Tankstellen dürfen den Preis jetzt nur noch einmal täglich erhöhen. Da habt ihr es denen ja richtig gezeigt danke für nichts.",
-      "text": "Wow, Tankstellen dürfen den Preis jetzt nur noch einmal täglich erhöhen. Da habt ihr es denen ja richtig gezeigt danke für nichts.",
-      "url": "https://nitter.net/0_7_user/status/2031695104683950247#m",
-      "date": "Wed, 11 Mar 2026 11:33:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDIH7ZZXMAAKK4Q.jpg"
-      ]
-    },
-    {
-      "id": "d5d8a88f02b781aead69285e1aff83cf7439ac05ab6a823b72ad841c4766e1ed",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "No.424、背景指定書作成完了。",
-      "text": "No.424、背景指定書作成完了。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2031510303587053986#m",
-      "date": "Tue, 10 Mar 2026 23:19:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDFf2WVaAAAz4DV.jpg"
-      ]
-    },
-    {
-      "id": "27425dbedc5b13725398da8ae891509508daadcf054b74d62503e0e75db1641e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "So basically, companies pay Youtube to show ads and we pay Youtube to not show ads Video",
-      "text": "So basically, companies pay Youtube to show ads and we pay Youtube to not show ads Video",
-      "url": "https://nitter.net/_Gottalovezik/status/2031072163864703044#m",
-      "date": "Mon, 09 Mar 2026 18:18:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2031072038363029504%2Fimg%2FpDfBOvEoiSGs4KFG.jpg"
-      ]
-    },
-    {
-      "id": "f34c4ab73f4c01804555b8a568ca03ee03f0278e89717d0c423e9ad49ce81d00",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Penalty lol!!! How bad is that pls, OMG.... Last seconds, Newcastle wtf...",
-      "text": "Penalty lol!!! How bad is that pls, OMG.... Last seconds, Newcastle wtf...",
-      "url": "https://nitter.net/WorstGenHQ/status/2031488281901257021#m",
-      "date": "Tue, 10 Mar 2026 21:52:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d51383ea5d58f89ccc04c0d2f9a994f7cd3bc4b2799855b9d1d0003d266e2c4f",
+      "id": "6434d6a2d60a2cdbb83fb6065d7305516378d2a2a4cb6f5e350dea28bc774c88",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "||◤ ◥|| 4/10(金)25:00放送・配信開始✊ キャスト&OPアーティスト解禁!! ||◣ ◢|| 2026年4月10日(金)25:00より TOKYO MX、BS11にて放送！ Prime Videoにて世界独占配信！ PV第2弾公開＆OPアーティスト、新キャスト解禁!! 🎶OPは #Alexandros（@alexandroscrew）「Hallelujah」 🌟レイ：#中村悠一",
-      "text": "||◤ ◥|| 4/10(金)25:00放送・配信開始✊ キャスト&OPアーティスト解禁!! ||◣ ◢|| 2026年4月10日(金)25:00より TOKYO MX、BS11にて放送！ Prime Videoにて世界独占配信！ PV第2弾公開＆OPアーティスト、新キャスト解禁!! 🎶OPは #Alexandros（@alexandroscrew）「Hallelujah」 🌟レイ：#中村悠一（@nakamuraFF11） 🌟マミヤ：#青木瑠璃子（@coloruri） 🌟ナレーション：#山寺宏一（@yamachanoha） ▼PV第2弾（YouTube） piped.video/Gux_dYHDMK4 <2nd Main Trailer & Artist・Cast Announcement!> Global Streaming Starts on April 10 at 25:00 JST! (April 11 1:00 AM JST) 🌟OP #Alexandros「Hallelujah」 🌟Rei: #YuichiNakamura 🌟Mamiya: #RurikoAoki 🌟Narration #KoichiYamadera Our very 2nd Main Trailer: piped.video/Gux_dYHDMK4 #北斗の拳アニメ #hokuto_anime Video",
-      "url": "https://nitter.net/hokutonokeninfo/status/2031897971164660025#m",
-      "date": "Thu, 12 Mar 2026 01:00:01 GMT",
+      "title": "Dance in the memories/中原めいこ きまぐれオレンジ☆ロード ED3(1987~1988年) Kimagure Orange Road ED3 #80s_retro_anime Video",
+      "text": "Dance in the memories/中原めいこ きまぐれオレンジ☆ロード ED3(1987~1988年) Kimagure Orange Road ED3 #80s_retro_anime Video",
+      "url": "https://nitter.net/anime8cm/status/2031605537478160432#m",
+      "date": "Wed, 11 Mar 2026 05:38:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2031897743707582465%2Fimg%2FP8SfRJXtfHDZ4AtH.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2031424059721003008%2Fimg%2FnWYg7oEG17fcsQ1y.jpg"
       ]
     },
     {
-      "id": "4c4b5c1ff99d8dc9d8c243eb18b6cb1a0b8df2103b9f2dc807836ab80bf5f1fa",
+      "id": "bb762f80634f9bf367edbc024565c617da22528a3b0a6a6e8d4e286ea6081ac9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "[任天堂HP]ニュースリリース「Nintendo Switch 2 ソフト『ぽこ あ ポケモン』の世界販売本数が発売後4日間で220万本を突破」を公開しました。 nintendo.co.jp/corporate/rel…",
-      "text": "[任天堂HP]ニュースリリース「Nintendo Switch 2 ソフト『ぽこ あ ポケモン』の世界販売本数が発売後4日間で220万本を突破」を公開しました。 nintendo.co.jp/corporate/rel…",
-      "url": "https://nitter.net/NintendoCoLtd/status/2031882970148299057#m",
-      "date": "Thu, 12 Mar 2026 00:00:25 GMT",
+      "title": "野村哲也氏「セフィロスみたいなキャラクターを作ってほしいと頼まれることが本当に多い」——MTG×FF公式インタビューで語る 『マジック：ザ・ギャザリング——FINAL FANTASY』の公式インタビューで、野村氏はセフィロスを「昔のファンにも今のファンにも親しまれるキャラクター」と述べ、新旧ファン双方から支持されているとの認識を示した。 gamestalk.net/tetsuya-nomura… ",
+      "text": "野村哲也氏「セフィロスみたいなキャラクターを作ってほしいと頼まれることが本当に多い」——MTG×FF公式インタビューで語る 『マジック：ザ・ギャザリング——FINAL FANTASY』の公式インタビューで、野村氏はセフィロスを「昔のファンにも今のファンにも親しまれるキャラクター」と述べ、新旧ファン双方から支持されているとの認識を示した。 gamestalk.net/tetsuya-nomura… 今回のコラボで野村氏は3〜4年にわたり数百点のアートを監修。ファンの既存イメージから逸れないことと、アーティストの個性の両立を最も重視したと説明している。 PAX Eastではセフィロスカードへの反応が最も大きかったとWizards側が振り返っている。野村氏はコラボ全体について「ここまで深く踏み込んだプロジェクトは初めて」と語った。 セフィロスに限らず、MTG×FFコラボで印象に残ったカードやアートはある？",
+      "url": "https://nitter.net/gamenohanashi/status/2031828494146326970#m",
+      "date": "Wed, 11 Mar 2026 20:23:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2030186200171171840%2FSK2wSjSV%3Fformat%3Dpng%26name%3D420x420_2"
+        "https://nitter.net/pic/media%2FHDKBMyDakAA0FkC.jpg"
       ]
     },
     {
-      "id": "95c0394a4cda2c3ae638571f70862b296a42b542c48520c2235881ec1b31ebfa",
+      "id": "a2bbe0713fac7d8f714db40570ff6a256168542a46f71f5f62895afbbbe2bca9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "We posted the News Release \"Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 2.2 Million in First Four Days\" nintendo.co.jp/corporate/rel…",
-      "text": "We posted the News Release \"Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 2.2 Million in First Four Days\" nintendo.co.jp/corporate/rel…",
-      "url": "https://nitter.net/NintendoCoLtd/status/2031882972656554495#m",
-      "date": "Thu, 12 Mar 2026 00:00:25 GMT",
+      "title": "◤￣￣￣￣￣￣￣￣￣￣◥ TVアニメ 『#アオアシ Season2』 ティザーPV、ついに解禁⚽️ ◣＿＿＿＿＿＿＿＿＿＿◢ アシトたちが駆け抜ける 新たなフィールドへ🐦‍⬛🔥 📺 【放送情報】 NHK Eテレにて 2026年10月4日(日)より Season2放送(予定)！ 🎥 YouTubeでの視聴はこちら piped.video/watch?v=phKPnPXm… Video",
+      "text": "◤￣￣￣￣￣￣￣￣￣￣◥ TVアニメ 『#アオアシ Season2』 ティザーPV、ついに解禁⚽️ ◣＿＿＿＿＿＿＿＿＿＿◢ アシトたちが駆け抜ける 新たなフィールドへ🐦‍⬛🔥 📺 【放送情報】 NHK Eテレにて 2026年10月4日(日)より Season2放送(予定)！ 🎥 YouTubeでの視聴はこちら piped.video/watch?v=phKPnPXm… Video",
+      "url": "https://nitter.net/aoashi_pr/status/2031928416451379654#m",
+      "date": "Thu, 12 Mar 2026 03:01:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2030186200171171840%2FSK2wSjSV%3Fformat%3Dpng%26name%3D420x420_2"
+        "https://nitter.net/pic/amplify_video_thumb%2F2031914865007423488%2Fimg%2FX5Mn-NBr0f0RR3U2.jpg"
       ]
     },
     {
-      "id": "43fc95b5c6442843307fc3b498089c0e9ce7c73e1bfb67a41245ebd8f549f8c7",
+      "id": "903630b3d9c58b8350c917e81f738ddf56ed6a1bf3db8867d3109586ce3311cc",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Netflixシリーズ実写版 『ONE PIECE』シーズン2 麦わらの一味、そしてバロックワークスの面々が名古屋駅に出現中！ トニートニー・チョッパーの姿も……！👀 🗓 期間：3/15(日)まで 📍名古屋駅 ※駅係員への問い合わせはご遠慮ください",
-      "text": "Netflixシリーズ実写版 『ONE PIECE』シーズン2 麦わらの一味、そしてバロックワークスの面々が名古屋駅に出現中！ トニートニー・チョッパーの姿も……！👀 🗓 期間：3/15(日)まで 📍名古屋駅 ※駅係員への問い合わせはご遠慮ください",
-      "url": "https://nitter.net/NetflixJP/status/2031667700372512839#m",
-      "date": "Wed, 11 Mar 2026 09:45:00 GMT",
+      "title": "オレンジ・ミステリー/長島秀幸 きまぐれオレンジ☆ロード OP2(1987~1988年) Kimagure Orange Road OP2 #80s_retro_anime Video",
+      "text": "オレンジ・ミステリー/長島秀幸 きまぐれオレンジ☆ロード OP2(1987~1988年) Kimagure Orange Road OP2 #80s_retro_anime Video",
+      "url": "https://nitter.net/anime8cm/status/2031514688920736241#m",
+      "date": "Tue, 10 Mar 2026 23:37:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDHrSBAWoAAjFqy.jpg",
-        "https://nitter.net/pic/media%2FHDHrSpZWwAAluyj.jpg",
-        "https://nitter.net/pic/media%2FHDHrTKjXIAAsKCy.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2031423827834814464%2Fimg%2FqQLMPh08dMjCGcxt.jpg"
       ]
     },
     {
-      "id": "560a80f41889fa2859213889a0cd8ce0016fc10881c832c2ac8d4376b8fc8afc",
+      "id": "b82ea51a7018d4f2a45c393c42da87bcbe881f8dc8ffe709a279a122eeee5071",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Happy birthday Akemi Okamura! 🎉 #AkemiOkamura #岡村明美 #岡村明美生誕祭2026",
-      "text": "Happy birthday Akemi Okamura! 🎉 #AkemiOkamura #岡村明美 #岡村明美生誕祭2026",
-      "url": "https://nitter.net/seiyuucorner/status/2031747474126471292#m",
-      "date": "Wed, 11 Mar 2026 15:02:00 GMT",
+      "title": "ゲッサン4月号好評発売中！『MIX』 155話掲載です。居候中の春夏と走一郎をニ人きりにしようと気を利かせる投馬と音美…前話に引き続き、冬の立花家が舞台です。懐かしい、あの店名も出てきます。 #ゲッサン #MIX",
+      "text": "ゲッサン4月号好評発売中！『MIX』 155話掲載です。居候中の春夏と走一郎をニ人きりにしようと気を利かせる投馬と音美…前話に引き続き、冬の立花家が舞台です。懐かしい、あの店名も出てきます。 #ゲッサン #MIX",
+      "url": "https://nitter.net/mitsuru_mix/status/2031976190903500835#m",
+      "date": "Thu, 12 Mar 2026 06:10:50 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDIsNB4bsAAXe5G.jpg"
+        "https://nitter.net/pic/media%2FHDMHkyGbcAAbQ9-.jpg",
+        "https://nitter.net/pic/media%2FHDMHkyIbQAAn3NH.jpg"
       ]
     },
     {
-      "id": "c24bd80a806526ca1e8f2b8ba4aeb34dd25e6c541c7cfd4ae9301536b6dbb389",
+      "id": "2df866055944363c982711997b33d4fe72ee9346a94d8ac4d98d57b0e5e1c85a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "🔴SAINT SEIYA THEN III KETSUI (EN ESPAÑOL)🔴 ¡Llegó la versión canónica del más reciente manga de Masami Kurumada, el Saint Seiya Then III - Ketsui! 😃 ➡️ facebook.com/share/p/1SE9oTv… No se olviden d",
-      "text": "🔴SAINT SEIYA THEN III KETSUI (EN ESPAÑOL)🔴 ¡Llegó la versión canónica del más reciente manga de Masami Kurumada, el Saint Seiya Then III - Ketsui! 😃 ➡️ facebook.com/share/p/1SE9oTv… No se olviden de dejar un me gusta y compartir 😊 Ahora preparo el yo te cuento 🙂 Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #saintseiyathen2 #saintseiyathen3 #saintseiyatenkaihen #sagadelcielo #sagadezeus @murielkawaii",
-      "url": "https://nitter.net/CesarinCool/status/2031870423403573368#m",
-      "date": "Wed, 11 Mar 2026 23:10:33 GMT",
+      "title": "‼️INVESTIGACIÓN | El Poder Judicial abre otra investigación al juez Peinado por una filtración a OkDiario en el caso contra Begoña Gómez eldiario.es/politica/judicia… Por @elenaherrerad",
+      "text": "‼️INVESTIGACIÓN | El Poder Judicial abre otra investigación al juez Peinado por una filtración a OkDiario en el caso contra Begoña Gómez eldiario.es/politica/judicia… Por @elenaherrerad",
+      "url": "https://nitter.net/eldiarioes/status/2031988829108789431#m",
+      "date": "Thu, 12 Mar 2026 07:01:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDKnJvTWcAI2EAd.jpg"
+        "https://nitter.net/pic/card_img%2F2031846533461651457%2F0tgq9VZz%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
