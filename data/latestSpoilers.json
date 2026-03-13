@@ -1,184 +1,21 @@
 {
-  "generatedAt": "2026-03-13T17:02:45.186Z",
+  "generatedAt": "2026-03-13T17:54:39.794Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
     {
-      "id": "2464b9bc9ad943bda215a8c9139f703a11775595242140b4d8db64187968a0aa",
+      "id": "4a21786062eae72c5299ec0e7e6aae5461bf512b32a855deff2b539ab75c7200",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "text": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
-      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The Devil Child emerges 😈 ONE PIECE: INTO THE GRAND LINE Now Playing! Video",
+      "text": "The Devil Child emerges 😈 ONE PIECE: INTO THE GRAND LINE Now Playing! Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2032501945718472813#m",
+      "date": "Fri, 13 Mar 2026 17:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg",
-        "https://nitter.net/pic/media%2FHDS7ZBza8AA4bVj.jpg"
-      ]
-    },
-    {
-      "id": "e9a80d693f34d0c097c001c48a363a7571b9d5c35dfeb18051f6468238b3de92",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#",
-      "text": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
-      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDR4TfMWYAEg-Fz.jpg"
-      ]
-    },
-    {
-      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
-      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
-        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
-      ]
-    },
-    {
-      "id": "e0bb00da3a8950d47681b0d951c15e24219d6468be39c1820611fb26f9882b46",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https:",
-      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https://nitter.net/mussi3x/status/2032083881055211755#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
-      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2010093676375023617%2Fimg%2FXnKUtKyfTwrzUP3K.jpg"
-      ]
-    },
-    {
-      "id": "7d6d10aa61c18916ab286f32bfd8d0e374e0eca26e2df513354e471c46054d48",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pok",
-      "text": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pokemon from that journey. By the time you reach Kalos, you’ll have 6 locked Pokemon… And that becomes your final battle team. Your entire adventure decides your champion squad. The final battle? Professor Oak - who became a professor after completing the Pokedex and catching every Pokemon from every region.",
-      "url": "https://nitter.net/Youtubable/status/2031923694818247164#m",
-      "date": "Thu, 12 Mar 2026 02:42:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f43650a33e4323eeabdbd2b4e7c990b376a35c640c5d3270fb2b9ef62c367f63",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "You're a cornball racist moron who is banned in all of my chats AND you're a failure of a creator who will never have a crumb of the success that Brago, Jay or any of my friends have had. Good luck tr",
-      "text": "You're a cornball racist moron who is banned in all of my chats AND you're a failure of a creator who will never have a crumb of the success that Brago, Jay or any of my friends have had. Good luck trying to rage-bait your way to success. You're gonna need it, mosquito. KNIGHTS OF THE REALM (@KNIGHTSOFTHE1) Do you notice with all these black one piece Youtubers they use one piece to build their channel into the hundred thousand and all of a sudden they can’t take the characters. These people are so fake. That’s why I like Rogers based — https://nitter.net/KNIGHTSOFTHE1/status/2029824674071298314#m",
-      "url": "https://nitter.net/RogersBase/status/2031483688073167315#m",
-      "date": "Tue, 10 Mar 2026 21:33:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "7b0594316c99a183c0948d9af479bc5bc5645d8b06c9e2c7e8f8bd5020cf12ed",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto ",
-      "text": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto is a very necessary sequel #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2032389371383488838#m",
-      "date": "Fri, 13 Mar 2026 09:32:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDR_XF-XUAAadt7.jpg"
-      ]
-    },
-    {
-      "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "text": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2030228067310788807#m",
-      "date": "Sat, 07 Mar 2026 10:24:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
-      ]
-    },
-    {
-      "id": "9a626f1b6f74db699af5b60fc0206bfdbce2803a04d39d3b5a40c179f496f51f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "text": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2029949879045476643#m",
-      "date": "Fri, 06 Mar 2026 15:59:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
-      ]
-    },
-    {
-      "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian de",
-      "text": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian detainees. This is the level of evil we are dealing with Video — https://nitter.net/Mbakaza4L/status/2028904204434084316#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2029170648262570445#m",
-      "date": "Wed, 04 Mar 2026 12:22:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
-      ]
-    },
-    {
-      "id": "c805f78861fc31c21083461223b3fdf7bc55871837036dba3d179402b7737fa1",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure a",
-      "text": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 Video — https://nitter.net/WSJ_manga/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848706674470913%2Fimg%2F7hS1JJSDiQD8Gq26.jpg"
-      ]
-    },
-    {
-      "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incr",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/BorutoRiden/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
+        "https://nitter.net/pic/media%2FHDSfDy0WMAAkWLX.jpg"
       ]
     },
     {
@@ -259,19 +96,94 @@
       ]
     },
     {
-      "id": "bfe2446d8e77dac3a5ebeb4f5d5838cf411897cad2a92d0d9a88e0c2c266e665",
+      "id": "176bfdb567a5cfe060b056b700ebf902e15cccddaceacbcfb603ef7062c1a572",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2032472536022233233#m",
-      "date": "Fri, 13 Mar 2026 15:03:08 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭 unonumero56 (@unonumero_56) Tears Oda really telling his readers to stop taking Manga so seriously 😭 Video — https://",
+      "text": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭 unonumero56 (@unonumero_56) Tears Oda really telling his readers to stop taking Manga so seriously 😭 Video — https://nitter.net/unonumero_56/status/2032486914322743403#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032506395803697353#m",
+      "date": "Fri, 13 Mar 2026 17:17:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2031386196518252547%2FwKUn3Bph%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/amplify_video_thumb%2F2032486855636111360%2Fimg%2Fi1yrlP8pVItObrEM.jpg"
       ]
+    },
+    {
+      "id": "2464b9bc9ad943bda215a8c9139f703a11775595242140b4d8db64187968a0aa",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
+      "text": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
+      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg",
+        "https://nitter.net/pic/media%2FHDS7ZBza8AA4bVj.jpg"
+      ]
+    },
+    {
+      "id": "e9a80d693f34d0c097c001c48a363a7571b9d5c35dfeb18051f6468238b3de92",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#",
+      "text": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
+      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDR4TfMWYAEg-Fz.jpg"
+      ]
+    },
+    {
+      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
+      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
+        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
+      ]
+    },
+    {
+      "id": "e0bb00da3a8950d47681b0d951c15e24219d6468be39c1820611fb26f9882b46",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https:",
+      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https://nitter.net/mussi3x/status/2032083881055211755#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
+      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2010093676375023617%2Fimg%2FXnKUtKyfTwrzUP3K.jpg"
+      ]
+    },
+    {
+      "id": "7d6d10aa61c18916ab286f32bfd8d0e374e0eca26e2df513354e471c46054d48",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pok",
+      "text": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pokemon from that journey. By the time you reach Kalos, you’ll have 6 locked Pokemon… And that becomes your final battle team. Your entire adventure decides your champion squad. The final battle? Professor Oak - who became a professor after completing the Pokedex and catching every Pokemon from every region.",
+      "url": "https://nitter.net/Youtubable/status/2031923694818247164#m",
+      "date": "Thu, 12 Mar 2026 02:42:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
@@ -301,186 +213,83 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
+      ]
+    },
+    {
+      "id": "910fb9d1d50fab4e56b7e9deeb55223b6620a8244ed76f0a6d727ea19d6f54ad",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2032375633083281621#m",
+      "date": "Fri, 13 Mar 2026 08:38:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDRy3fOXYAAkDGF.jpg"
+      ]
+    },
+    {
+      "id": "befc67c47d0b07f96cb644ee75aed447780aa8fd0917e27808a6873af8e3f94b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😰😨",
+      "text": "😰😨",
+      "url": "https://nitter.net/daily_berserk/status/2032341013776273669#m",
+      "date": "Fri, 13 Mar 2026 06:20:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDRTYZCW0AA-CSi.jpg"
+      ]
+    },
+    {
+      "id": "97a555319dd6c3517500600f9b9c26060f0052d38ff8c2b71a649be124eb18dc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow",
+      "text": "Wow",
+      "url": "https://nitter.net/daily_berserk/status/2032218330610671698#m",
+      "date": "Thu, 12 Mar 2026 22:13:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDPjzOYXgAAH879.jpg"
+      ]
+    },
+    {
+      "id": "550b95d8a7f6b4a5a146fb92e49f9a3d76ba3f7d7c1b577b72e2109dcab7ed0b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032180382037098533#m",
+      "date": "Thu, 12 Mar 2026 19:42:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDPBSRsX0AAG9ze.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "2464b9bc9ad943bda215a8c9139f703a11775595242140b4d8db64187968a0aa",
+      "id": "4a21786062eae72c5299ec0e7e6aae5461bf512b32a855deff2b539ab75c7200",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "text": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
-      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The Devil Child emerges 😈 ONE PIECE: INTO THE GRAND LINE Now Playing! Video",
+      "text": "The Devil Child emerges 😈 ONE PIECE: INTO THE GRAND LINE Now Playing! Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2032501945718472813#m",
+      "date": "Fri, 13 Mar 2026 17:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg",
-        "https://nitter.net/pic/media%2FHDS7ZBza8AA4bVj.jpg"
-      ]
-    },
-    {
-      "id": "e9a80d693f34d0c097c001c48a363a7571b9d5c35dfeb18051f6468238b3de92",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#",
-      "text": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
-      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDR4TfMWYAEg-Fz.jpg"
-      ]
-    },
-    {
-      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
-      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
-        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
-      ]
-    },
-    {
-      "id": "e0bb00da3a8950d47681b0d951c15e24219d6468be39c1820611fb26f9882b46",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https:",
-      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https://nitter.net/mussi3x/status/2032083881055211755#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
-      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2010093676375023617%2Fimg%2FXnKUtKyfTwrzUP3K.jpg"
-      ]
-    },
-    {
-      "id": "7d6d10aa61c18916ab286f32bfd8d0e374e0eca26e2df513354e471c46054d48",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pok",
-      "text": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pokemon from that journey. By the time you reach Kalos, you’ll have 6 locked Pokemon… And that becomes your final battle team. Your entire adventure decides your champion squad. The final battle? Professor Oak - who became a professor after completing the Pokedex and catching every Pokemon from every region.",
-      "url": "https://nitter.net/Youtubable/status/2031923694818247164#m",
-      "date": "Thu, 12 Mar 2026 02:42:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f43650a33e4323eeabdbd2b4e7c990b376a35c640c5d3270fb2b9ef62c367f63",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "You're a cornball racist moron who is banned in all of my chats AND you're a failure of a creator who will never have a crumb of the success that Brago, Jay or any of my friends have had. Good luck tr",
-      "text": "You're a cornball racist moron who is banned in all of my chats AND you're a failure of a creator who will never have a crumb of the success that Brago, Jay or any of my friends have had. Good luck trying to rage-bait your way to success. You're gonna need it, mosquito. KNIGHTS OF THE REALM (@KNIGHTSOFTHE1) Do you notice with all these black one piece Youtubers they use one piece to build their channel into the hundred thousand and all of a sudden they can’t take the characters. These people are so fake. That’s why I like Rogers based — https://nitter.net/KNIGHTSOFTHE1/status/2029824674071298314#m",
-      "url": "https://nitter.net/RogersBase/status/2031483688073167315#m",
-      "date": "Tue, 10 Mar 2026 21:33:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "7b0594316c99a183c0948d9af479bc5bc5645d8b06c9e2c7e8f8bd5020cf12ed",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto ",
-      "text": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto is a very necessary sequel #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2032389371383488838#m",
-      "date": "Fri, 13 Mar 2026 09:32:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDR_XF-XUAAadt7.jpg"
-      ]
-    },
-    {
-      "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "text": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2030228067310788807#m",
-      "date": "Sat, 07 Mar 2026 10:24:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
-      ]
-    },
-    {
-      "id": "9a626f1b6f74db699af5b60fc0206bfdbce2803a04d39d3b5a40c179f496f51f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "text": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2029949879045476643#m",
-      "date": "Fri, 06 Mar 2026 15:59:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
-      ]
-    },
-    {
-      "id": "9fedb814c84eaf143032503df71a18b949158af69f675dbcc0d45f776764437c",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian de",
-      "text": "Israelis might be worse than Boruto haters #BORUTO ALUTHEDON (@Mbakaza4L) Here’s a video of Israelis protesting for the “right to rape” demanding soldiers be allowed to sexually assault Palestinian detainees. This is the level of evil we are dealing with Video — https://nitter.net/Mbakaza4L/status/2028904204434084316#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2029170648262570445#m",
-      "date": "Wed, 04 Mar 2026 12:22:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
-      ]
-    },
-    {
-      "id": "c805f78861fc31c21083461223b3fdf7bc55871837036dba3d179402b7737fa1",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure a",
-      "text": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 Video — https://nitter.net/WSJ_manga/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848706674470913%2Fimg%2F7hS1JJSDiQD8Gq26.jpg"
-      ]
-    },
-    {
-      "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incr",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/BorutoRiden/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
+        "https://nitter.net/pic/media%2FHDSfDy0WMAAkWLX.jpg"
       ]
     },
     {
@@ -561,19 +370,94 @@
       ]
     },
     {
-      "id": "bfe2446d8e77dac3a5ebeb4f5d5838cf411897cad2a92d0d9a88e0c2c266e665",
+      "id": "176bfdb567a5cfe060b056b700ebf902e15cccddaceacbcfb603ef7062c1a572",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “NICO ROBIN”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2032472536022233233#m",
-      "date": "Fri, 13 Mar 2026 15:03:08 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭 unonumero56 (@unonumero_56) Tears Oda really telling his readers to stop taking Manga so seriously 😭 Video — https://",
+      "text": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭 unonumero56 (@unonumero_56) Tears Oda really telling his readers to stop taking Manga so seriously 😭 Video — https://nitter.net/unonumero_56/status/2032486914322743403#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032506395803697353#m",
+      "date": "Fri, 13 Mar 2026 17:17:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2031386196518252547%2FwKUn3Bph%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/amplify_video_thumb%2F2032486855636111360%2Fimg%2Fi1yrlP8pVItObrEM.jpg"
       ]
+    },
+    {
+      "id": "2464b9bc9ad943bda215a8c9139f703a11775595242140b4d8db64187968a0aa",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
+      "text": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
+      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg",
+        "https://nitter.net/pic/media%2FHDS7ZBza8AA4bVj.jpg"
+      ]
+    },
+    {
+      "id": "e9a80d693f34d0c097c001c48a363a7571b9d5c35dfeb18051f6468238b3de92",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#",
+      "text": ".......... AnimeTV チェーン (@animetv_jp) 【New Key Visual】 Rent-a-Girlfriend Season 5 Scheduled for April 10, 2026! ✨More: kanokari-official.com — https://nitter.net/animetv_jp/status/2032381612243992841#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
+      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDR4TfMWYAEg-Fz.jpg"
+      ]
+    },
+    {
+      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
+      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
+        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
+      ]
+    },
+    {
+      "id": "e0bb00da3a8950d47681b0d951c15e24219d6468be39c1820611fb26f9882b46",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https:",
+      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https://nitter.net/mussi3x/status/2032083881055211755#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
+      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2010093676375023617%2Fimg%2FXnKUtKyfTwrzUP3K.jpg"
+      ]
+    },
+    {
+      "id": "7d6d10aa61c18916ab286f32bfd8d0e374e0eca26e2df513354e471c46054d48",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pok",
+      "text": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pokemon from that journey. By the time you reach Kalos, you’ll have 6 locked Pokemon… And that becomes your final battle team. Your entire adventure decides your champion squad. The final battle? Professor Oak - who became a professor after completing the Pokedex and catching every Pokemon from every region.",
+      "url": "https://nitter.net/Youtubable/status/2031923694818247164#m",
+      "date": "Thu, 12 Mar 2026 02:42:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
@@ -603,6 +487,66 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
+      ]
+    },
+    {
+      "id": "910fb9d1d50fab4e56b7e9deeb55223b6620a8244ed76f0a6d727ea19d6f54ad",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2032375633083281621#m",
+      "date": "Fri, 13 Mar 2026 08:38:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDRy3fOXYAAkDGF.jpg"
+      ]
+    },
+    {
+      "id": "befc67c47d0b07f96cb644ee75aed447780aa8fd0917e27808a6873af8e3f94b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😰😨",
+      "text": "😰😨",
+      "url": "https://nitter.net/daily_berserk/status/2032341013776273669#m",
+      "date": "Fri, 13 Mar 2026 06:20:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDRTYZCW0AA-CSi.jpg"
+      ]
+    },
+    {
+      "id": "97a555319dd6c3517500600f9b9c26060f0052d38ff8c2b71a649be124eb18dc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow",
+      "text": "Wow",
+      "url": "https://nitter.net/daily_berserk/status/2032218330610671698#m",
+      "date": "Thu, 12 Mar 2026 22:13:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDPjzOYXgAAH879.jpg"
+      ]
+    },
+    {
+      "id": "550b95d8a7f6b4a5a146fb92e49f9a3d76ba3f7d7c1b577b72e2109dcab7ed0b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032180382037098533#m",
+      "date": "Thu, 12 Mar 2026 19:42:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDPBSRsX0AAG9ze.jpg"
       ]
     }
   ]
