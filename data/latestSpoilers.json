@@ -1,25 +1,7 @@
 {
-  "generatedAt": "2026-03-13T13:47:34.481Z",
+  "generatedAt": "2026-03-13T14:31:25.348Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "c4e65b4bdd2a094178aa93535dba3504e571ace8987dacc954d8cfe80eed96c2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
-      "text": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
-      "url": "https://nitter.net/ammacrellinn/status/2032295947556819098#m",
-      "date": "Fri, 13 Mar 2026 03:21:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDQqY9KXoAAekOF.jpg",
-        "https://nitter.net/pic/media%2FHDQqZBpWQAApJFn.jpg",
-        "https://nitter.net/pic/media%2FHDQqZKHbsAA6hxv.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
       "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
@@ -292,56 +274,37 @@
       ]
     },
     {
-      "id": "9b532a9c19c58af99fffdb5bc36ec8de1a91180771ff5bbfeb473ea7a0d0cae1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
-      "text": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
-      "url": "https://nitter.net/RachelZhu147348/status/2031975518313300368#m",
-      "date": "Thu, 12 Mar 2026 06:08:10 GMT",
+      "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032459021857214537#m",
+      "date": "Fri, 13 Mar 2026 14:09:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDMG9jYasAA5-ck.jpg",
-        "https://nitter.net/pic/media%2FHDMG9iybQAsujJg.jpg"
+        "https://nitter.net/pic/media%2FHDS-tRGWgAAPc1e.jpg"
       ]
     },
     {
-      "id": "1d816e588ffb275b69fbbac3f0b149c4a89a8afe874c3bd2c267dabc85e81b64",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
-      "text": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
-      "url": "https://nitter.net/stichstichtom08/status/2032095995648266688#m",
-      "date": "Thu, 12 Mar 2026 14:06:54 GMT",
+      "id": "9e0f65e4a8fd584c62567d99f248f8b8a0fc80ff29bc0f34d725eb4107eb0919",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032427117183443196#m",
+      "date": "Fri, 13 Mar 2026 12:02:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDN0iFsbYAA8s5_.jpg",
-        "https://nitter.net/pic/media%2FHDN0iLibQAMp7Gz.jpg"
+        "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
       ]
     }
   ],
   "items": [
-    {
-      "id": "c4e65b4bdd2a094178aa93535dba3504e571ace8987dacc954d8cfe80eed96c2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
-      "text": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
-      "url": "https://nitter.net/ammacrellinn/status/2032295947556819098#m",
-      "date": "Fri, 13 Mar 2026 03:21:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDQqY9KXoAAekOF.jpg",
-        "https://nitter.net/pic/media%2FHDQqZBpWQAApJFn.jpg",
-        "https://nitter.net/pic/media%2FHDQqZKHbsAA6hxv.jpg"
-      ]
-    },
     {
       "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
       "anime": "onepiece",
@@ -613,35 +576,33 @@
       ]
     },
     {
-      "id": "9b532a9c19c58af99fffdb5bc36ec8de1a91180771ff5bbfeb473ea7a0d0cae1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
-      "text": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
-      "url": "https://nitter.net/RachelZhu147348/status/2031975518313300368#m",
-      "date": "Thu, 12 Mar 2026 06:08:10 GMT",
+      "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032459021857214537#m",
+      "date": "Fri, 13 Mar 2026 14:09:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDMG9jYasAA5-ck.jpg",
-        "https://nitter.net/pic/media%2FHDMG9iybQAsujJg.jpg"
+        "https://nitter.net/pic/media%2FHDS-tRGWgAAPc1e.jpg"
       ]
     },
     {
-      "id": "1d816e588ffb275b69fbbac3f0b149c4a89a8afe874c3bd2c267dabc85e81b64",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
-      "text": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
-      "url": "https://nitter.net/stichstichtom08/status/2032095995648266688#m",
-      "date": "Thu, 12 Mar 2026 14:06:54 GMT",
+      "id": "9e0f65e4a8fd584c62567d99f248f8b8a0fc80ff29bc0f34d725eb4107eb0919",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032427117183443196#m",
+      "date": "Fri, 13 Mar 2026 12:02:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDN0iFsbYAA8s5_.jpg",
-        "https://nitter.net/pic/media%2FHDN0iLibQAMp7Gz.jpg"
+        "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
       ]
     }
   ]
