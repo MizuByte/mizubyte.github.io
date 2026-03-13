@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-03-13T06:34:45.863Z",
+  "generatedAt": "2026-03-13T07:34:43.426Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "c4e65b4bdd2a094178aa93535dba3504e571ace8987dacc954d8cfe80eed96c2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
+      "text": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
+      "url": "https://nitter.net/ammacrellinn/status/2032295947556819098#m",
+      "date": "Fri, 13 Mar 2026 03:21:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDQqY9KXoAAekOF.jpg",
+        "https://nitter.net/pic/media%2FHDQqZBpWQAApJFn.jpg",
+        "https://nitter.net/pic/media%2FHDQqZKHbsAA6hxv.jpg"
+      ]
+    }
+  ],
   "misc": [
     {
       "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
@@ -182,6 +200,83 @@
       "attachments": []
     },
     {
+      "id": "9b532a9c19c58af99fffdb5bc36ec8de1a91180771ff5bbfeb473ea7a0d0cae1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
+      "text": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
+      "url": "https://nitter.net/RachelZhu147348/status/2031975518313300368#m",
+      "date": "Thu, 12 Mar 2026 06:08:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDMG9jYasAA5-ck.jpg",
+        "https://nitter.net/pic/media%2FHDMG9iybQAsujJg.jpg"
+      ]
+    },
+    {
+      "id": "1d816e588ffb275b69fbbac3f0b149c4a89a8afe874c3bd2c267dabc85e81b64",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
+      "text": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
+      "url": "https://nitter.net/stichstichtom08/status/2032095995648266688#m",
+      "date": "Thu, 12 Mar 2026 14:06:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDN0iFsbYAA8s5_.jpg",
+        "https://nitter.net/pic/media%2FHDN0iLibQAMp7Gz.jpg"
+      ]
+    },
+    {
+      "id": "d776cc28bdf2b075e309a9bb9141886e9163df7bdd9549efe7e234f9a5481094",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Why is Jacob the most perfect. 🤣",
+      "text": "Why is Jacob the most perfect. 🤣",
+      "url": "https://nitter.net/serasarahhhh/status/2032078541555175438#m",
+      "date": "Thu, 12 Mar 2026 12:57:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNkqkXWYAAT1TZ.jpg"
+      ]
+    },
+    {
+      "id": "19342faae942c9f4fed28c1dabbc8acbd690614da969f5d6b810b3fb223012c4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Mark Harelik on having Chopper as a scene partner #OnePiece Video",
+      "text": "Mark Harelik on having Chopper as a scene partner #OnePiece Video",
+      "url": "https://nitter.net/stevevarleyshow/status/2032138967274123422#m",
+      "date": "Thu, 12 Mar 2026 16:57:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2032138811992653825%2Fimg%2FTCNsqmT4gyJFUtWD.jpg"
+      ]
+    },
+    {
+      "id": "8775b993aec0abe0f8862e16d19ca2d2e70bdac1a4e7ce0648e69e6291662cd6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ワンマガ19号に採用していただいておりまして、もはやステッカーは都市伝説なんじゃないかと思ってたら突然届いた！びっくりしたね！！ ありがとうございます！！ 送付状もめちゃくちゃよすぎたので大事とっておきます ステッカーすごくいい…！さっそくスマホに入れました😌",
+      "text": "ワンマガ19号に採用していただいておりまして、もはやステッカーは都市伝説なんじゃないかと思ってたら突然届いた！びっくりしたね！！ ありがとうございます！！ 送付状もめちゃくちゃよすぎたので大事とっておきます ステッカーすごくいい…！さっそくスマホに入れました😌",
+      "url": "https://nitter.net/sh12uku/status/2032092849257529421#m",
+      "date": "Thu, 12 Mar 2026 13:54:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNxq3_bQAcNhhS.jpg"
+      ]
+    },
+    {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -225,55 +320,26 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
       ]
-    },
-    {
-      "id": "c805f78861fc31c21083461223b3fdf7bc55871837036dba3d179402b7737fa1",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure a",
-      "text": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 Video — https://nitter.net/WSJ_manga/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848706674470913%2Fimg%2F7hS1JJSDiQD8Gq26.jpg"
-      ]
-    },
-    {
-      "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incr",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/BorutoRiden/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
-      ]
-    },
-    {
-      "id": "5e6577928025af16f4d73b1ea935ff0874e5fa12a0d40ab013a7a29989fcac78",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join",
-      "text": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series to the new era. Discover exclusive content, and more that you’ll only find here! Subscribe & turn on 🔔 #NARUTO #BORUTO — https://nitter.net/NARUTOBORUTO_EN/status/2028274569598128319#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028365653044851050#m",
-      "date": "Mon, 02 Mar 2026 07:03:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg",
-        "https://nitter.net/pic/media%2FHCXg7jQaAAA4LSU.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "c4e65b4bdd2a094178aa93535dba3504e571ace8987dacc954d8cfe80eed96c2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
+      "text": "OPLA Luffy, Zoro and Nami drawn in Oda's artstyle (by Oda himself, probably) in season 2 episode 5 #opla",
+      "url": "https://nitter.net/ammacrellinn/status/2032295947556819098#m",
+      "date": "Fri, 13 Mar 2026 03:21:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDQqY9KXoAAekOF.jpg",
+        "https://nitter.net/pic/media%2FHDQqZBpWQAApJFn.jpg",
+        "https://nitter.net/pic/media%2FHDQqZKHbsAA6hxv.jpg"
+      ]
+    },
     {
       "id": "7d742996e19677ccad10d888a47bf6dca6e04c7be5ed126a1b7d494298783ca1",
       "anime": "onepiece",
@@ -453,6 +519,83 @@
       "attachments": []
     },
     {
+      "id": "9b532a9c19c58af99fffdb5bc36ec8de1a91180771ff5bbfeb473ea7a0d0cae1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
+      "text": "高橋留美子先生が描かれた哀ちゃん、すごく好き！😺",
+      "url": "https://nitter.net/RachelZhu147348/status/2031975518313300368#m",
+      "date": "Thu, 12 Mar 2026 06:08:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDMG9jYasAA5-ck.jpg",
+        "https://nitter.net/pic/media%2FHDMG9iybQAsujJg.jpg"
+      ]
+    },
+    {
+      "id": "1d816e588ffb275b69fbbac3f0b149c4a89a8afe874c3bd2c267dabc85e81b64",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
+      "text": "実写ONE PIECEのこれめっちゃ好きなんだよな。シーズン1からそうなんだけど、ドラマの衣装の中で原作の本編に出てこない衣装は大体漫画の扉絵とかカラーイラストで尾田先生が本編以外で描いた衣装を使ってるのがまじ好き #実写のワンピ",
+      "url": "https://nitter.net/stichstichtom08/status/2032095995648266688#m",
+      "date": "Thu, 12 Mar 2026 14:06:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDN0iFsbYAA8s5_.jpg",
+        "https://nitter.net/pic/media%2FHDN0iLibQAMp7Gz.jpg"
+      ]
+    },
+    {
+      "id": "d776cc28bdf2b075e309a9bb9141886e9163df7bdd9549efe7e234f9a5481094",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Why is Jacob the most perfect. 🤣",
+      "text": "Why is Jacob the most perfect. 🤣",
+      "url": "https://nitter.net/serasarahhhh/status/2032078541555175438#m",
+      "date": "Thu, 12 Mar 2026 12:57:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNkqkXWYAAT1TZ.jpg"
+      ]
+    },
+    {
+      "id": "19342faae942c9f4fed28c1dabbc8acbd690614da969f5d6b810b3fb223012c4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Mark Harelik on having Chopper as a scene partner #OnePiece Video",
+      "text": "Mark Harelik on having Chopper as a scene partner #OnePiece Video",
+      "url": "https://nitter.net/stevevarleyshow/status/2032138967274123422#m",
+      "date": "Thu, 12 Mar 2026 16:57:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2032138811992653825%2Fimg%2FTCNsqmT4gyJFUtWD.jpg"
+      ]
+    },
+    {
+      "id": "8775b993aec0abe0f8862e16d19ca2d2e70bdac1a4e7ce0648e69e6291662cd6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ワンマガ19号に採用していただいておりまして、もはやステッカーは都市伝説なんじゃないかと思ってたら突然届いた！びっくりしたね！！ ありがとうございます！！ 送付状もめちゃくちゃよすぎたので大事とっておきます ステッカーすごくいい…！さっそくスマホに入れました😌",
+      "text": "ワンマガ19号に採用していただいておりまして、もはやステッカーは都市伝説なんじゃないかと思ってたら突然届いた！びっくりしたね！！ ありがとうございます！！ 送付状もめちゃくちゃよすぎたので大事とっておきます ステッカーすごくいい…！さっそくスマホに入れました😌",
+      "url": "https://nitter.net/sh12uku/status/2032092849257529421#m",
+      "date": "Thu, 12 Mar 2026 13:54:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNxq3_bQAcNhhS.jpg"
+      ]
+    },
+    {
       "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -495,52 +638,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2028904125392658432%2Fimg%2Fp_G9v8mWN-XSckO5.jpg"
-      ]
-    },
-    {
-      "id": "c805f78861fc31c21083461223b3fdf7bc55871837036dba3d179402b7737fa1",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure a",
-      "text": "„The One Piece is the friends we made along the journey.“ Shonen Jump News (@WSJ_manga) 'What is the ONE PIECE?' Special Project PV. Eiichiro Oda has written the secret behind the ONE PIECE Treasure and Monkey D. Luffy in a piece of paper sunk in the bottom of the ocean. Once the series ends, the truth will be revealed. natalie.mu/comic/news/662477 Video — https://nitter.net/WSJ_manga/status/2028849303368732986#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028857887192138135#m",
-      "date": "Tue, 03 Mar 2026 15:39:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2028848706674470913%2Fimg%2F7hS1JJSDiQD8Gq26.jpg"
-      ]
-    },
-    {
-      "id": "e0d5a1b124979c4081765d5dc83d58476c0d1e7bf5df120fec32e9eaabc872bd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incr",
-      "text": "The “67” meme is a copy of Boruto😭 The best Manga of all time influencing memes now lmao #BORUTO | RAIDEN (@BorutoRiden) BORUTO MANGA ANNIVERSARY - 9 MAY! Thank you Mikio Ikemoto for a decade of incredible work! #boruto #borutotbv — https://nitter.net/BorutoRiden/status/2028360949208375495#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028432664705818796#m",
-      "date": "Mon, 02 Mar 2026 11:30:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYvEx8asAA5cQR.jpg"
-      ]
-    },
-    {
-      "id": "5e6577928025af16f4d73b1ea935ff0874e5fa12a0d40ab013a7a29989fcac78",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join",
-      "text": "We finally got rid of that guy😭🙏🏼 #BORUTO #NARUTO NARUTO / BORUTO Anime English OFFICIAL (@NARUTOBORUTO_EN) Welcome to the Official NARUTO / BORUTO GLOBAL channel! 🍥 SHINOBI around the world, join us to experience the journey from the original series to the new era. Discover exclusive content, and more that you’ll only find here! Subscribe & turn on 🔔 #NARUTO #BORUTO — https://nitter.net/NARUTOBORUTO_EN/status/2028274569598128319#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2028365653044851050#m",
-      "date": "Mon, 02 Mar 2026 07:03:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCYzzwJbgAABii2.jpg",
-        "https://nitter.net/pic/media%2FHCXg7jQaAAA4LSU.jpg"
       ]
     }
   ]
