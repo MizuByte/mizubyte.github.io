@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-03-13T19:51:15.137Z",
+  "generatedAt": "2026-03-13T20:28:41.844Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "34bb7110fbdeae0de608443b6c0780ebac5783263a5917d9caf901db4f34083a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
+      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg"
+      ]
+    }
+  ],
   "misc": [
     {
       "id": "d04822ee7e5658d808a808fa9c04151f517d9265ff53340ec3cf867513b58d27",
@@ -15,22 +31,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "2464b9bc9ad943bda215a8c9139f703a11775595242140b4d8db64187968a0aa",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "text": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
-      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg",
-        "https://nitter.net/pic/media%2FHDS7ZBza8AA4bVj.jpg"
-      ]
     },
     {
       "id": "e9a80d693f34d0c097c001c48a363a7571b9d5c35dfeb18051f6468238b3de92",
@@ -48,45 +48,40 @@
       ]
     },
     {
-      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
+      "id": "5fbe0eb19e5bbf0b4bc8bf0af9214114ef7afd8033448f31dd19b3a0e05be0e9",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "title": "Bruh...",
+      "text": "Bruh...",
       "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
       "date": "Thu, 12 Mar 2026 13:51:19 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
-        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "e0bb00da3a8950d47681b0d951c15e24219d6468be39c1820611fb26f9882b46",
+      "id": "32c7aab57da2b8fd56fe70742ba173cc2808e3ba4beb0d695dcf4ff0d927aa41",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https:",
-      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https://nitter.net/mussi3x/status/2032083881055211755#m",
+      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie...",
+      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie...",
       "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
       "date": "Thu, 12 Mar 2026 13:48:25 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2010093676375023617%2Fimg%2FXnKUtKyfTwrzUP3K.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "7d6d10aa61c18916ab286f32bfd8d0e374e0eca26e2df513354e471c46054d48",
+      "id": "d31fd7784e85c355dd25300c6cffc5a990be23e04c096ee3be03706c852182c1",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pok",
-      "text": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pokemon from that journey. By the time you reach Kalos, you’ll have 6 locked Pokemon… And that becomes your final battle team. Your entire adventure decides your champion squad. The final battle? Professor Oak - who became a professor after completing the Pokedex and catching every Pokemon from every region.",
-      "url": "https://nitter.net/Youtubable/status/2031923694818247164#m",
-      "date": "Thu, 12 Mar 2026 02:42:14 GMT",
+      "title": "RT @Youtubable: Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> S…",
+      "text": "RT @Youtubable: Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> S…",
+      "url": "https://nitter.net/WorstGenHQ/status/2032028506842951752#m",
+      "date": "Thu, 12 Mar 2026 09:38:43 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -154,14 +149,14 @@
       ]
     },
     {
-      "id": "ca9e00fab30e0225ac53574b1993301751d81dd4cf3feec186bfd8db69ea265b",
+      "id": "2520f4c7670cb557df63b6b68801272cbbdd57901efb0188e9c762a0fb6c3196",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: 3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
-      "text": "RT @OPcom_info: 3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/Mugiwara_23/status/2032477026955743631#m",
-      "date": "Fri, 13 Mar 2026 15:20:59 GMT",
+      "title": "3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
+      "text": "3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/OPcom_info/status/2032473034129584340#m",
+      "date": "Fri, 13 Mar 2026 15:05:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -169,14 +164,14 @@
       ]
     },
     {
-      "id": "fd5b51ae13e38e247ab3b096457e9416d77ce71b152a607abb12ba8e36d95339",
+      "id": "745e611a0fbbb5ac98405b57d0d090ebb9abc6fa00fd41c9c7bd5efd19c7932a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
-      "text": "RT @Eiichiro_Staff: 3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
-      "url": "https://nitter.net/Mugiwara_23/status/2032476962841674127#m",
-      "date": "Fri, 13 Mar 2026 15:20:44 GMT",
+      "title": "3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
+      "text": "3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2032475893516661157#m",
+      "date": "Fri, 13 Mar 2026 15:16:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -276,6 +271,21 @@
   ],
   "items": [
     {
+      "id": "34bb7110fbdeae0de608443b6c0780ebac5783263a5917d9caf901db4f34083a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
+      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg"
+      ]
+    },
+    {
       "id": "d04822ee7e5658d808a808fa9c04151f517d9265ff53340ec3cf867513b58d27",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -287,22 +297,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "2464b9bc9ad943bda215a8c9139f703a11775595242140b4d8db64187968a0aa",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "text": "冨樫義博 (@Un4v5s8bgsVk9Xp) No.426、背景指定書作成完了。 — https://nitter.net/Un4v5s8bgsVk9Xp/status/2032455377959424439#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
-      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg",
-        "https://nitter.net/pic/media%2FHDS7ZBza8AA4bVj.jpg"
-      ]
     },
     {
       "id": "e9a80d693f34d0c097c001c48a363a7571b9d5c35dfeb18051f6468238b3de92",
@@ -320,45 +314,40 @@
       ]
     },
     {
-      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
+      "id": "5fbe0eb19e5bbf0b4bc8bf0af9214114ef7afd8033448f31dd19b3a0e05be0e9",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "title": "Bruh...",
+      "text": "Bruh...",
       "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
       "date": "Thu, 12 Mar 2026 13:51:19 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
-        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "e0bb00da3a8950d47681b0d951c15e24219d6468be39c1820611fb26f9882b46",
+      "id": "32c7aab57da2b8fd56fe70742ba173cc2808e3ba4beb0d695dcf4ff0d927aa41",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https:",
-      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... mussie (@mussi3x) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit Video — https://nitter.net/mussi3x/status/2032083881055211755#m",
+      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie...",
+      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie...",
       "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
       "date": "Thu, 12 Mar 2026 13:48:25 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2010093676375023617%2Fimg%2FXnKUtKyfTwrzUP3K.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "7d6d10aa61c18916ab286f32bfd8d0e374e0eca26e2df513354e471c46054d48",
+      "id": "d31fd7784e85c355dd25300c6cffc5a990be23e04c096ee3be03706c852182c1",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pok",
-      "text": "Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> Sinnoh -> Unova -> Kalos After completing each region, you must lock in one Pokemon from that journey. By the time you reach Kalos, you’ll have 6 locked Pokemon… And that becomes your final battle team. Your entire adventure decides your champion squad. The final battle? Professor Oak - who became a professor after completing the Pokedex and catching every Pokemon from every region.",
-      "url": "https://nitter.net/Youtubable/status/2031923694818247164#m",
-      "date": "Thu, 12 Mar 2026 02:42:14 GMT",
+      "title": "RT @Youtubable: Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> S…",
+      "text": "RT @Youtubable: Imagine a Pokemon game where you start in Kanto and travel through 6 regions, ending in Kalos. Kanto ->Johto -> Hoenn -> S…",
+      "url": "https://nitter.net/WorstGenHQ/status/2032028506842951752#m",
+      "date": "Thu, 12 Mar 2026 09:38:43 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -426,14 +415,14 @@
       ]
     },
     {
-      "id": "ca9e00fab30e0225ac53574b1993301751d81dd4cf3feec186bfd8db69ea265b",
+      "id": "2520f4c7670cb557df63b6b68801272cbbdd57901efb0188e9c762a0fb6c3196",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @OPcom_info: 3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
-      "text": "RT @OPcom_info: 3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/Mugiwara_23/status/2032477026955743631#m",
-      "date": "Fri, 13 Mar 2026 15:20:59 GMT",
+      "title": "3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
+      "text": "3月14日はスモーカーの誕生日 HAPPY BIRTHDAY SMOKER #スモーカー誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/OPcom_info/status/2032473034129584340#m",
+      "date": "Fri, 13 Mar 2026 15:05:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -441,14 +430,14 @@
       ]
     },
     {
-      "id": "fd5b51ae13e38e247ab3b096457e9416d77ce71b152a607abb12ba8e36d95339",
+      "id": "745e611a0fbbb5ac98405b57d0d090ebb9abc6fa00fd41c9c7bd5efd19c7932a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
-      "text": "RT @Eiichiro_Staff: 3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
-      "url": "https://nitter.net/Mugiwara_23/status/2032476962841674127#m",
-      "date": "Fri, 13 Mar 2026 15:20:44 GMT",
+      "title": "3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
+      "text": "3.14 HAPPY BIRTHDAY SMOKER #ONEPIECE #スモーカー誕生祭2026",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2032475893516661157#m",
+      "date": "Fri, 13 Mar 2026 15:16:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
