@@ -1,185 +1,8 @@
 {
-  "generatedAt": "2026-03-14T18:59:53.752Z",
+  "generatedAt": "2026-03-14T19:32:33.100Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "34bb7110fbdeae0de608443b6c0780ebac5783263a5917d9caf901db4f34083a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
-      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
-    {
-      "id": "aeee01d7a10fd275fd68f6c5e43dcf680a84b86dc7af2905c063e06a860cd35b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
-      "text": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
-      "url": "https://nitter.net/WorstGenHQ/status/2032804278796988521#m",
-      "date": "Sat, 14 Mar 2026 13:01:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d04822ee7e5658d808a808fa9c04151f517d9265ff53340ec3cf867513b58d27",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
-      "text": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2032506395803697353#m",
-      "date": "Fri, 13 Mar 2026 17:17:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0f45ceb148b6014a1d87c00e3f64adee832b6a539262cf642834c63c0ade9cfb",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "..........",
-      "text": "..........",
-      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
-      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
-      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
-        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
-      ]
-    },
-    {
-      "id": "af56a1774864fc1f2d492f0ba42cc7412c7dac0b5ed13abfe1ae9f5ee3bd8f82",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/statu",
-      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/status/2032083881055211755#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
-      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3f81c8a5bcab18bda11bda8484039a320ea758e8dcc61363f56d5d6439229340",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la re",
-      "text": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la realidad. #TorrentePresidente",
-      "url": "https://nitter.net/bullock25/status/2032714997734797614#m",
-      "date": "Sat, 14 Mar 2026 07:06:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDWnhMkXYAAO-NG.jpg"
-      ]
-    },
-    {
-      "id": "547d4fddc0f09cde1ed55833f260ceadb789e40a468c03f9f40232442b8db7a1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2032835895162736800#m",
-      "date": "Sat, 14 Mar 2026 15:07:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031385369032405000%2FMz09bGY0%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "831de179e93134bd2963559e3486c831839cff11b627b9989d3fa6bcf9254a53",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Aquí tenéis el resumen completo que he publicado en @PiratekingES del primer episodio del podcast oficial del Live-Action de One Piece, con la charla entre Eiichiro Oda e Iñaki Godoy. @onepiecenetflix",
-      "text": "Aquí tenéis el resumen completo que he publicado en @PiratekingES del primer episodio del podcast oficial del Live-Action de One Piece, con la charla entre Eiichiro Oda e Iñaki Godoy. @onepiecenetflix ONE PIECE(ワンピース) Netflix (@onepiecenetflix) We’re diving deeper into OPLA Season 2 with Oda-Sensei! Join us in the official One Piece podcast! ONE PIECE: INTO THE GRAND LINE Now Playing! Video — https://nitter.net/onepiecenetflix/status/2032698326529785918#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2032835722432872735#m",
-      "date": "Sat, 14 Mar 2026 15:06:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDYVG6QWYAAPWpd.png",
-        "https://nitter.net/pic/media%2FHDYVG6TXkAACafy.png",
-        "https://nitter.net/pic/media%2FHDYVG66aMAMfOmT.png",
-        "https://nitter.net/pic/media%2FHDYVG6QXAAAh_r6.png",
-        "https://nitter.net/pic/media%2FHDWYWueWgAAT7Xt.png"
-      ]
-    },
-    {
-      "id": "cb3fd2536e815c5e3d7776821e4d4cb8cfd44c6c0cd1e59e1967289072bd6fab",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "La sangre es roja, el corazón está a la izquierda y con la derecha me limpio el culo. Santiago Guerra (@SaantiagoGuerra) Y que no se les olvide, los relojes avanzan hacia la derecha y se atrasan hacia",
-      "text": "La sangre es roja, el corazón está a la izquierda y con la derecha me limpio el culo. Santiago Guerra (@SaantiagoGuerra) Y que no se les olvide, los relojes avanzan hacia la derecha y se atrasan hacia la izquierda. Punto. — https://nitter.net/SaantiagoGuerra/status/2031905951469482299#m",
-      "url": "https://nitter.net/carlos_/status/2032248989643419807#m",
-      "date": "Fri, 13 Mar 2026 00:14:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8953d749e424aa638479c5295e8465ea7d290effa7119d7f73800c8e26610ae8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "My Hero Academia's author Horikoshi is a big fan of One Piece and sent fan art of Smoker to Oda in 2002 before his debut.🎗️ Today is Smoker bithday!",
-      "text": "My Hero Academia's author Horikoshi is a big fan of One Piece and sent fan art of Smoker to Oda in 2002 before his debut.🎗️ Today is Smoker bithday!",
-      "url": "https://nitter.net/sandman_AP/status/2032770168192155837#m",
-      "date": "Sat, 14 Mar 2026 10:45:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDXZshLaMAUYNEA.jpg"
-      ]
-    },
-    {
-      "id": "ccf5a071c963c41322a5a2bb8bd673c6114d0ab3e543683ce4f983edee750458",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "• Akane banashi 10 • Atom the Beginning 18",
-      "text": "• Akane banashi 10 • Atom the Beginning 18",
-      "url": "https://nitter.net/mwediciones/status/2032420466351108138#m",
-      "date": "Fri, 13 Mar 2026 11:36:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDSasNVbEAABg_w.jpg",
-        "https://nitter.net/pic/media%2FHDSatjOXkAA8LD6.jpg"
-      ]
-    },
     {
       "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
       "anime": "boruto",
@@ -313,187 +136,56 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDW0WFlXoAEITB6.jpg"
+      ]
+    },
+    {
+      "id": "f5bcad380e739b77407a4134180b664d5da4d259d045309f6979d0b92cacbe26",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032524293611958510#m",
+      "date": "Fri, 13 Mar 2026 18:28:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDT6EiBaMAAfIlm.jpg"
+      ]
+    },
+    {
+      "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032459021857214537#m",
+      "date": "Fri, 13 Mar 2026 14:09:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDS-tRGWgAAPc1e.jpg"
+      ]
+    },
+    {
+      "id": "9e0f65e4a8fd584c62567d99f248f8b8a0fc80ff29bc0f34d725eb4107eb0919",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032427117183443196#m",
+      "date": "Fri, 13 Mar 2026 12:02:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "34bb7110fbdeae0de608443b6c0780ebac5783263a5917d9caf901db4f34083a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
-      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg"
-      ]
-    },
-    {
-      "id": "aeee01d7a10fd275fd68f6c5e43dcf680a84b86dc7af2905c063e06a860cd35b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
-      "text": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
-      "url": "https://nitter.net/WorstGenHQ/status/2032804278796988521#m",
-      "date": "Sat, 14 Mar 2026 13:01:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d04822ee7e5658d808a808fa9c04151f517d9265ff53340ec3cf867513b58d27",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
-      "text": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2032506395803697353#m",
-      "date": "Fri, 13 Mar 2026 17:17:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0f45ceb148b6014a1d87c00e3f64adee832b6a539262cf642834c63c0ade9cfb",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "..........",
-      "text": "..........",
-      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
-      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
-      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
-        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
-      ]
-    },
-    {
-      "id": "af56a1774864fc1f2d492f0ba42cc7412c7dac0b5ed13abfe1ae9f5ee3bd8f82",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/statu",
-      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/status/2032083881055211755#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
-      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3f81c8a5bcab18bda11bda8484039a320ea758e8dcc61363f56d5d6439229340",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la re",
-      "text": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la realidad. #TorrentePresidente",
-      "url": "https://nitter.net/bullock25/status/2032714997734797614#m",
-      "date": "Sat, 14 Mar 2026 07:06:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDWnhMkXYAAO-NG.jpg"
-      ]
-    },
-    {
-      "id": "547d4fddc0f09cde1ed55833f260ceadb789e40a468c03f9f40232442b8db7a1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “SANJI”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2032835895162736800#m",
-      "date": "Sat, 14 Mar 2026 15:07:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031385369032405000%2FMz09bGY0%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "831de179e93134bd2963559e3486c831839cff11b627b9989d3fa6bcf9254a53",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Aquí tenéis el resumen completo que he publicado en @PiratekingES del primer episodio del podcast oficial del Live-Action de One Piece, con la charla entre Eiichiro Oda e Iñaki Godoy. @onepiecenetflix",
-      "text": "Aquí tenéis el resumen completo que he publicado en @PiratekingES del primer episodio del podcast oficial del Live-Action de One Piece, con la charla entre Eiichiro Oda e Iñaki Godoy. @onepiecenetflix ONE PIECE(ワンピース) Netflix (@onepiecenetflix) We’re diving deeper into OPLA Season 2 with Oda-Sensei! Join us in the official One Piece podcast! ONE PIECE: INTO THE GRAND LINE Now Playing! Video — https://nitter.net/onepiecenetflix/status/2032698326529785918#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2032835722432872735#m",
-      "date": "Sat, 14 Mar 2026 15:06:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDYVG6QWYAAPWpd.png",
-        "https://nitter.net/pic/media%2FHDYVG6TXkAACafy.png",
-        "https://nitter.net/pic/media%2FHDYVG66aMAMfOmT.png",
-        "https://nitter.net/pic/media%2FHDYVG6QXAAAh_r6.png",
-        "https://nitter.net/pic/media%2FHDWYWueWgAAT7Xt.png"
-      ]
-    },
-    {
-      "id": "cb3fd2536e815c5e3d7776821e4d4cb8cfd44c6c0cd1e59e1967289072bd6fab",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "La sangre es roja, el corazón está a la izquierda y con la derecha me limpio el culo. Santiago Guerra (@SaantiagoGuerra) Y que no se les olvide, los relojes avanzan hacia la derecha y se atrasan hacia",
-      "text": "La sangre es roja, el corazón está a la izquierda y con la derecha me limpio el culo. Santiago Guerra (@SaantiagoGuerra) Y que no se les olvide, los relojes avanzan hacia la derecha y se atrasan hacia la izquierda. Punto. — https://nitter.net/SaantiagoGuerra/status/2031905951469482299#m",
-      "url": "https://nitter.net/carlos_/status/2032248989643419807#m",
-      "date": "Fri, 13 Mar 2026 00:14:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8953d749e424aa638479c5295e8465ea7d290effa7119d7f73800c8e26610ae8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "My Hero Academia's author Horikoshi is a big fan of One Piece and sent fan art of Smoker to Oda in 2002 before his debut.🎗️ Today is Smoker bithday!",
-      "text": "My Hero Academia's author Horikoshi is a big fan of One Piece and sent fan art of Smoker to Oda in 2002 before his debut.🎗️ Today is Smoker bithday!",
-      "url": "https://nitter.net/sandman_AP/status/2032770168192155837#m",
-      "date": "Sat, 14 Mar 2026 10:45:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDXZshLaMAUYNEA.jpg"
-      ]
-    },
-    {
-      "id": "ccf5a071c963c41322a5a2bb8bd673c6114d0ab3e543683ce4f983edee750458",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "• Akane banashi 10 • Atom the Beginning 18",
-      "text": "• Akane banashi 10 • Atom the Beginning 18",
-      "url": "https://nitter.net/mwediciones/status/2032420466351108138#m",
-      "date": "Fri, 13 Mar 2026 11:36:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDSasNVbEAABg_w.jpg",
-        "https://nitter.net/pic/media%2FHDSatjOXkAA8LD6.jpg"
-      ]
-    },
-    {
       "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -626,6 +318,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDW0WFlXoAEITB6.jpg"
+      ]
+    },
+    {
+      "id": "f5bcad380e739b77407a4134180b664d5da4d259d045309f6979d0b92cacbe26",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032524293611958510#m",
+      "date": "Fri, 13 Mar 2026 18:28:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDT6EiBaMAAfIlm.jpg"
+      ]
+    },
+    {
+      "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032459021857214537#m",
+      "date": "Fri, 13 Mar 2026 14:09:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDS-tRGWgAAPc1e.jpg"
+      ]
+    },
+    {
+      "id": "9e0f65e4a8fd584c62567d99f248f8b8a0fc80ff29bc0f34d725eb4107eb0919",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2032427117183443196#m",
+      "date": "Fri, 13 Mar 2026 12:02:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
       ]
     }
   ]
