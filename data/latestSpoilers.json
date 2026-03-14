@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-03-14T18:01:49.168Z",
+  "generatedAt": "2026-03-14T18:59:53.752Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "34bb7110fbdeae0de608443b6c0780ebac5783263a5917d9caf901db4f34083a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
+      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg"
+      ]
+    }
+  ],
   "misc": [
+    {
+      "id": "aeee01d7a10fd275fd68f6c5e43dcf680a84b86dc7af2905c063e06a860cd35b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
+      "text": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
+      "url": "https://nitter.net/WorstGenHQ/status/2032804278796988521#m",
+      "date": "Sat, 14 Mar 2026 13:01:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d04822ee7e5658d808a808fa9c04151f517d9265ff53340ec3cf867513b58d27",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
+      "text": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2032506395803697353#m",
+      "date": "Fri, 13 Mar 2026 17:17:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0f45ceb148b6014a1d87c00e3f64adee832b6a539262cf642834c63c0ade9cfb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "..........",
+      "text": "..........",
+      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
+      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
+      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
+        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
+      ]
+    },
+    {
+      "id": "af56a1774864fc1f2d492f0ba42cc7412c7dac0b5ed13abfe1ae9f5ee3bd8f82",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/statu",
+      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/status/2032083881055211755#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
+      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "3f81c8a5bcab18bda11bda8484039a320ea758e8dcc61363f56d5d6439229340",
       "anime": "onepiece",
@@ -229,56 +313,94 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDW0WFlXoAEITB6.jpg"
-      ]
-    },
-    {
-      "id": "f5bcad380e739b77407a4134180b664d5da4d259d045309f6979d0b92cacbe26",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2032524293611958510#m",
-      "date": "Fri, 13 Mar 2026 18:28:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDT6EiBaMAAfIlm.jpg"
-      ]
-    },
-    {
-      "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2032459021857214537#m",
-      "date": "Fri, 13 Mar 2026 14:09:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDS-tRGWgAAPc1e.jpg"
-      ]
-    },
-    {
-      "id": "9e0f65e4a8fd584c62567d99f248f8b8a0fc80ff29bc0f34d725eb4107eb0919",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2032427117183443196#m",
-      "date": "Fri, 13 Mar 2026 12:02:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
       ]
     }
   ],
   "items": [
     {
+      "id": "34bb7110fbdeae0de608443b6c0780ebac5783263a5917d9caf901db4f34083a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/WorstGenHQ/status/2032492453438124542#m",
+      "date": "Fri, 13 Mar 2026 16:22:17 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDTdHNBXcAAk6TO.jpg"
+      ]
+    },
+    {
+      "id": "aeee01d7a10fd275fd68f6c5e43dcf680a84b86dc7af2905c063e06a860cd35b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
+      "text": "RT @MalakTota20: Movie 27 revealed the secret behind the similarity between Shinichi and Kaito: they are cousins. Shinichi's father and Kai…",
+      "url": "https://nitter.net/WorstGenHQ/status/2032804278796988521#m",
+      "date": "Sat, 14 Mar 2026 13:01:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d04822ee7e5658d808a808fa9c04151f517d9265ff53340ec3cf867513b58d27",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
+      "text": "Telling me that after 28 years(since the first chapter come out) is a crime..😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2032506395803697353#m",
+      "date": "Fri, 13 Mar 2026 17:17:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0f45ceb148b6014a1d87c00e3f64adee832b6a539262cf642834c63c0ade9cfb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "..........",
+      "text": "..........",
+      "url": "https://nitter.net/WorstGenHQ/status/2032409178770219450#m",
+      "date": "Fri, 13 Mar 2026 10:51:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6b688f182f2b870aa14838832c14fadeff5d7798e14fef7bced6709050cc1e20",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "text": "Bruh... Black Star (@luvblackstarr) — https://nitter.net/luvblackstarr/status/2031878098195533833#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032092074040860714#m",
+      "date": "Thu, 12 Mar 2026 13:51:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDNw-PmWoAAW5V-.jpg",
+        "https://nitter.net/pic/media%2FHDKuW6oX0AAjFOp.jpg"
+      ]
+    },
+    {
+      "id": "af56a1774864fc1f2d492f0ba42cc7412c7dac0b5ed13abfe1ae9f5ee3bd8f82",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/statu",
+      "text": "Another victim of Dragonball Evolution... i tried to warn Mussie... (@) I will never be the same person again. Gonna watch some Tournament of Power, maybe I can heal a bit — https://nitter.net/i/status/2032083881055211755#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2032091343455920497#m",
+      "date": "Thu, 12 Mar 2026 13:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "3f81c8a5bcab18bda11bda8484039a320ea758e8dcc61363f56d5d6439229340",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -504,51 +626,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDW0WFlXoAEITB6.jpg"
-      ]
-    },
-    {
-      "id": "f5bcad380e739b77407a4134180b664d5da4d259d045309f6979d0b92cacbe26",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2032524293611958510#m",
-      "date": "Fri, 13 Mar 2026 18:28:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDT6EiBaMAAfIlm.jpg"
-      ]
-    },
-    {
-      "id": "719cafb63022aa33be6076ce99ae9014ec50a63286ac1fc4c1afd4072715e7ed",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2032459021857214537#m",
-      "date": "Fri, 13 Mar 2026 14:09:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDS-tRGWgAAPc1e.jpg"
-      ]
-    },
-    {
-      "id": "9e0f65e4a8fd584c62567d99f248f8b8a0fc80ff29bc0f34d725eb4107eb0919",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2032427117183443196#m",
-      "date": "Fri, 13 Mar 2026 12:02:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDShr0_WQAAVyzc.jpg"
       ]
     }
   ]
