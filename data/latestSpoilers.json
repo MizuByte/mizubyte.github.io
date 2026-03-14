@@ -1,26 +1,23 @@
 {
-  "generatedAt": "2026-03-14T16:01:45.531Z",
+  "generatedAt": "2026-03-14T16:52:19.916Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
+  "spoilers": [],
+  "misc": [
     {
-      "id": "0488cc997e4c1e0a878464fb49f4b85cdf056d78c0138be5dedce67501a61b88",
+      "id": "3f81c8a5bcab18bda11bda8484039a320ea758e8dcc61363f56d5d6439229340",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Ken Kitano has lost everything. This cult classic has: - Explosive artwork - Powerful storytelling - Drama and raw action From BOICHI (@Boichi_Bo1), the renowned artist behind Dr. STONE! 💥 Making its",
-      "text": "Ken Kitano has lost everything. This cult classic has: - Explosive artwork - Powerful storytelling - Drama and raw action From BOICHI (@Boichi_Bo1), the renowned artist behind Dr. STONE! 💥 Making its English debut in a Perfect Edition!! PREORDERS OPEN! buff.ly/n43ojjR",
-      "url": "https://nitter.net/KodamaTales/status/2032532339700519048#m",
-      "date": "Fri, 13 Mar 2026 19:00:47 GMT",
-      "isSpoiler": true,
+      "title": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la re",
+      "text": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la realidad. #TorrentePresidente",
+      "url": "https://nitter.net/bullock25/status/2032714997734797614#m",
+      "date": "Sat, 14 Mar 2026 07:06:36 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDUBZErWQAEKvRh.jpg",
-        "https://nitter.net/pic/media%2FHDUBZDmW8AAtOW3.jpg",
-        "https://nitter.net/pic/media%2FHDUBZFOXIAE8b_L.jpg"
+        "https://nitter.net/pic/media%2FHDWnhMkXYAAO-NG.jpg"
       ]
-    }
-  ],
-  "misc": [
+    },
     {
       "id": "547d4fddc0f09cde1ed55833f260ceadb789e40a468c03f9f40232442b8db7a1",
       "anime": "onepiece",
@@ -282,20 +279,18 @@
   ],
   "items": [
     {
-      "id": "0488cc997e4c1e0a878464fb49f4b85cdf056d78c0138be5dedce67501a61b88",
+      "id": "3f81c8a5bcab18bda11bda8484039a320ea758e8dcc61363f56d5d6439229340",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Ken Kitano has lost everything. This cult classic has: - Explosive artwork - Powerful storytelling - Drama and raw action From BOICHI (@Boichi_Bo1), the renowned artist behind Dr. STONE! 💥 Making its",
-      "text": "Ken Kitano has lost everything. This cult classic has: - Explosive artwork - Powerful storytelling - Drama and raw action From BOICHI (@Boichi_Bo1), the renowned artist behind Dr. STONE! 💥 Making its English debut in a Perfect Edition!! PREORDERS OPEN! buff.ly/n43ojjR",
-      "url": "https://nitter.net/KodamaTales/status/2032532339700519048#m",
-      "date": "Fri, 13 Mar 2026 19:00:47 GMT",
-      "isSpoiler": true,
+      "title": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la re",
+      "text": "“Hago una peli de fachas para reírme de ellos”… y acabas dándoles altavoz. Cameos de Vito Quiles, Mariano Rajoy, Bertín Osborne, Ana Rosa Quintana y Torbe. La sátira cuando se parece demasiado a la realidad. #TorrentePresidente",
+      "url": "https://nitter.net/bullock25/status/2032714997734797614#m",
+      "date": "Sat, 14 Mar 2026 07:06:36 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDUBZErWQAEKvRh.jpg",
-        "https://nitter.net/pic/media%2FHDUBZDmW8AAtOW3.jpg",
-        "https://nitter.net/pic/media%2FHDUBZFOXIAE8b_L.jpg"
+        "https://nitter.net/pic/media%2FHDWnhMkXYAAO-NG.jpg"
       ]
     },
     {
