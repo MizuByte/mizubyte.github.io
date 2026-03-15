@@ -1,188 +1,8 @@
 {
-  "generatedAt": "2026-03-15T19:59:27.295Z",
+  "generatedAt": "2026-03-15T20:35:32.226Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "1a7499642072a0ca3fef0b9bdffb4328f49526295b314cabec6f7f327a01295e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/fenyo_n/status/2033227286477230271#m",
-      "date": "Sun, 15 Mar 2026 17:02:15 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDd5cPOasAA4icY.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
-    {
-      "id": "7ae0f7c4be169c07ce09182ebc0d5ca26831550916b6e1d9385094910d3d971d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "text": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "url": "https://nitter.net/WorstGenHQ/status/2033237887605506510#m",
-      "date": "Sun, 15 Mar 2026 17:44:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2033237888171675648%2FyY9e4vxA%3Fformat%3Djpg%26name%3D1200x627"
-      ]
-    },
-    {
-      "id": "f074364e1a067c5adb5fea14a6d63180a8f049a157506a17c56c6e43ca675102",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "text": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214951943192829#m",
-      "date": "Sun, 15 Mar 2026 16:13:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDduNTwXoAEgh6i.jpg"
-      ]
-    },
-    {
-      "id": "9cb5091739d475df9a60b9ccde594667c4a7ec7bf044d86e9a7b1270671416ec",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "text": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214485452734881#m",
-      "date": "Sun, 15 Mar 2026 16:11:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
-      ]
-    },
-    {
-      "id": "074d0b014f83931418bf000aad37308486a7f92fae124901711bca7a57f2a12d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Africa only*",
-      "text": "Africa only*",
-      "url": "https://nitter.net/WorstGenHQ/status/2033212497176502570#m",
-      "date": "Sun, 15 Mar 2026 16:03:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e8f69d481072bcd5acc2a7fc655b353f5f895269cfcea2353421b6db644b6682",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2033212402053898504#m",
-      "date": "Sun, 15 Mar 2026 16:03:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031386904864722945%2Fphvs4qCR%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "40e612987508fee3ad2ec0b8e50fab17758f9eb28fcf1485c7beed0a937ac0b4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy's VA (71 y/o) joked today, “I’ve now become old. I’m happy to be playing a role that suits me perfectly. I don’t think I’ll live as long as Nozawa (Goku VA: 89y/o), but I’ll do my best for anoth",
-      "text": "Luffy's VA (71 y/o) joked today, “I’ve now become old. I’m happy to be playing a role that suits me perfectly. I don’t think I’ll live as long as Nozawa (Goku VA: 89y/o), but I’ll do my best for another 10 years or so.” She will also continue as Luffy in remake by WIT Studio.🧡",
-      "url": "https://nitter.net/sandman_AP/status/2033196314398515645#m",
-      "date": "Sun, 15 Mar 2026 14:59:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDddRhwawAEmKmW.jpg"
-      ]
-    },
-    {
-      "id": "792f8d4a02c7cbee883956e9d263da4c69e99894e2d528b4ec3c5e67eaa23d73",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "[Latest Information Revealed] We’ve introduced quite a few new products—so here’s a quick look at this year’s release schedule! #ONEPIECE #onepiececardgame",
-      "text": "[Latest Information Revealed] We’ve introduced quite a few new products—so here’s a quick look at this year’s release schedule! #ONEPIECE #onepiececardgame",
-      "url": "https://nitter.net/ONEPIECE_tcg_EN/status/2033135043615522881#m",
-      "date": "Sun, 15 Mar 2026 10:55:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDclYm-b0AAzx3F.jpg"
-      ]
-    },
-    {
-      "id": "dab8624634caf99240d4668ebbe44ffa9cb9b55f48ce19ad08d340c9e48b3d10",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ningún subnormal patrio sin su fotito con el bufón enano de Argentina.",
-      "text": "Ningún subnormal patrio sin su fotito con el bufón enano de Argentina.",
-      "url": "https://nitter.net/Alissonofabitch/status/2033101108134998466#m",
-      "date": "Sun, 15 Mar 2026 08:40:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDcGrxFaoAAn-jB.jpg"
-      ]
-    },
-    {
-      "id": "69434d905de27a3d3ca914a09c720555c519d8239695fa96013fe023a5f249c5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Saltarte a la torreta la Ley de Memoria Democrática haciendo un película que blanquea a fascistas como Vito Quiles disfrazándolo de “humor”, también Santi.",
-      "text": "Saltarte a la torreta la Ley de Memoria Democrática haciendo un película que blanquea a fascistas como Vito Quiles disfrazándolo de “humor”, también Santi.",
-      "url": "https://nitter.net/MalaMalamente/status/2033172849842688212#m",
-      "date": "Sun, 15 Mar 2026 13:25:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdHxL0WUAAT0N0.jpg"
-      ]
-    },
-    {
-      "id": "8fcfc19a9829b81c97216b70f4dcf4a5b5d65fca721104111d8a044832cec62c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "都内の某飲食店の壁に描かれた 青山剛昌先生の手書きキャラたち🖋️ #名探偵コナン",
-      "text": "都内の某飲食店の壁に描かれた 青山剛昌先生の手書きキャラたち🖋️ #名探偵コナン",
-      "url": "https://nitter.net/Mizuki_Kawakami/status/2033137502756958417#m",
-      "date": "Sun, 15 Mar 2026 11:05:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDcnN0mbMAIZxci.jpg",
-        "https://nitter.net/pic/media%2FHDcnN0jbMAANk5-.jpg"
-      ]
-    },
-    {
-      "id": "0cfffb0c1f129d16d696ba8dc461c8bff9b906fb9827333166ee4d2b324c67ae",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "[Latest Information Revealed] The 4th Anniversary Booster Pack, OP-17 “THE WORLD’S STRONGEST WARRIORS,” is scheduled for release in August! Starting with this set, the Global Simultaneous Release will",
-      "text": "[Latest Information Revealed] The 4th Anniversary Booster Pack, OP-17 “THE WORLD’S STRONGEST WARRIORS,” is scheduled for release in August! Starting with this set, the Global Simultaneous Release will begin! #ONEPIECE #onepiececardgame",
-      "url": "https://nitter.net/ONEPIECE_tcg_EN/status/2033137193620000932#m",
-      "date": "Sun, 15 Mar 2026 11:04:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDcmSOKaEAADi59.jpg"
-      ]
-    },
     {
       "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
       "anime": "boruto",
@@ -316,190 +136,56 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDdlD8CXgAA1Esn.jpg"
+      ]
+    },
+    {
+      "id": "3b48f17a096cd89c09c7b2ba78340202b14cd05c0ae3b8347e758d50a577f036",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033160819844759797#m",
+      "date": "Sun, 15 Mar 2026 12:38:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc8_FGWEAECpNy.jpg"
+      ]
+    },
+    {
+      "id": "dac67cfed3df32d391b2045fd566d3025f389e4ff01aa024470b72c13bb80c50",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033152140034613710#m",
+      "date": "Sun, 15 Mar 2026 12:03:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc1GKpWEAA2OCZ.jpg"
+      ]
+    },
+    {
+      "id": "bb4fb6265ceff6e566de57132c2b0fda435a88f19117bebeaec8dfdd4f91898c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2033097722840883235#m",
+      "date": "Sun, 15 Mar 2026 08:27:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDcDmlEaMAAc3AV.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "1a7499642072a0ca3fef0b9bdffb4328f49526295b314cabec6f7f327a01295e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/fenyo_n/status/2033227286477230271#m",
-      "date": "Sun, 15 Mar 2026 17:02:15 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDd5cPOasAA4icY.jpg"
-      ]
-    },
-    {
-      "id": "7ae0f7c4be169c07ce09182ebc0d5ca26831550916b6e1d9385094910d3d971d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "text": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "url": "https://nitter.net/WorstGenHQ/status/2033237887605506510#m",
-      "date": "Sun, 15 Mar 2026 17:44:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2033237888171675648%2FyY9e4vxA%3Fformat%3Djpg%26name%3D1200x627"
-      ]
-    },
-    {
-      "id": "f074364e1a067c5adb5fea14a6d63180a8f049a157506a17c56c6e43ca675102",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "text": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214951943192829#m",
-      "date": "Sun, 15 Mar 2026 16:13:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDduNTwXoAEgh6i.jpg"
-      ]
-    },
-    {
-      "id": "9cb5091739d475df9a60b9ccde594667c4a7ec7bf044d86e9a7b1270671416ec",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "text": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214485452734881#m",
-      "date": "Sun, 15 Mar 2026 16:11:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
-      ]
-    },
-    {
-      "id": "074d0b014f83931418bf000aad37308486a7f92fae124901711bca7a57f2a12d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Africa only*",
-      "text": "Africa only*",
-      "url": "https://nitter.net/WorstGenHQ/status/2033212497176502570#m",
-      "date": "Sun, 15 Mar 2026 16:03:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e8f69d481072bcd5acc2a7fc655b353f5f895269cfcea2353421b6db644b6682",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “RORONOA ZORO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2033212402053898504#m",
-      "date": "Sun, 15 Mar 2026 16:03:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2031386904864722945%2Fphvs4qCR%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "40e612987508fee3ad2ec0b8e50fab17758f9eb28fcf1485c7beed0a937ac0b4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy's VA (71 y/o) joked today, “I’ve now become old. I’m happy to be playing a role that suits me perfectly. I don’t think I’ll live as long as Nozawa (Goku VA: 89y/o), but I’ll do my best for anoth",
-      "text": "Luffy's VA (71 y/o) joked today, “I’ve now become old. I’m happy to be playing a role that suits me perfectly. I don’t think I’ll live as long as Nozawa (Goku VA: 89y/o), but I’ll do my best for another 10 years or so.” She will also continue as Luffy in remake by WIT Studio.🧡",
-      "url": "https://nitter.net/sandman_AP/status/2033196314398515645#m",
-      "date": "Sun, 15 Mar 2026 14:59:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDddRhwawAEmKmW.jpg"
-      ]
-    },
-    {
-      "id": "792f8d4a02c7cbee883956e9d263da4c69e99894e2d528b4ec3c5e67eaa23d73",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "[Latest Information Revealed] We’ve introduced quite a few new products—so here’s a quick look at this year’s release schedule! #ONEPIECE #onepiececardgame",
-      "text": "[Latest Information Revealed] We’ve introduced quite a few new products—so here’s a quick look at this year’s release schedule! #ONEPIECE #onepiececardgame",
-      "url": "https://nitter.net/ONEPIECE_tcg_EN/status/2033135043615522881#m",
-      "date": "Sun, 15 Mar 2026 10:55:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDclYm-b0AAzx3F.jpg"
-      ]
-    },
-    {
-      "id": "dab8624634caf99240d4668ebbe44ffa9cb9b55f48ce19ad08d340c9e48b3d10",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ningún subnormal patrio sin su fotito con el bufón enano de Argentina.",
-      "text": "Ningún subnormal patrio sin su fotito con el bufón enano de Argentina.",
-      "url": "https://nitter.net/Alissonofabitch/status/2033101108134998466#m",
-      "date": "Sun, 15 Mar 2026 08:40:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDcGrxFaoAAn-jB.jpg"
-      ]
-    },
-    {
-      "id": "69434d905de27a3d3ca914a09c720555c519d8239695fa96013fe023a5f249c5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Saltarte a la torreta la Ley de Memoria Democrática haciendo un película que blanquea a fascistas como Vito Quiles disfrazándolo de “humor”, también Santi.",
-      "text": "Saltarte a la torreta la Ley de Memoria Democrática haciendo un película que blanquea a fascistas como Vito Quiles disfrazándolo de “humor”, también Santi.",
-      "url": "https://nitter.net/MalaMalamente/status/2033172849842688212#m",
-      "date": "Sun, 15 Mar 2026 13:25:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdHxL0WUAAT0N0.jpg"
-      ]
-    },
-    {
-      "id": "8fcfc19a9829b81c97216b70f4dcf4a5b5d65fca721104111d8a044832cec62c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "都内の某飲食店の壁に描かれた 青山剛昌先生の手書きキャラたち🖋️ #名探偵コナン",
-      "text": "都内の某飲食店の壁に描かれた 青山剛昌先生の手書きキャラたち🖋️ #名探偵コナン",
-      "url": "https://nitter.net/Mizuki_Kawakami/status/2033137502756958417#m",
-      "date": "Sun, 15 Mar 2026 11:05:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDcnN0mbMAIZxci.jpg",
-        "https://nitter.net/pic/media%2FHDcnN0jbMAANk5-.jpg"
-      ]
-    },
-    {
-      "id": "0cfffb0c1f129d16d696ba8dc461c8bff9b906fb9827333166ee4d2b324c67ae",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "[Latest Information Revealed] The 4th Anniversary Booster Pack, OP-17 “THE WORLD’S STRONGEST WARRIORS,” is scheduled for release in August! Starting with this set, the Global Simultaneous Release will",
-      "text": "[Latest Information Revealed] The 4th Anniversary Booster Pack, OP-17 “THE WORLD’S STRONGEST WARRIORS,” is scheduled for release in August! Starting with this set, the Global Simultaneous Release will begin! #ONEPIECE #onepiececardgame",
-      "url": "https://nitter.net/ONEPIECE_tcg_EN/status/2033137193620000932#m",
-      "date": "Sun, 15 Mar 2026 11:04:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDcmSOKaEAADi59.jpg"
-      ]
-    },
-    {
       "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -632,6 +318,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDdlD8CXgAA1Esn.jpg"
+      ]
+    },
+    {
+      "id": "3b48f17a096cd89c09c7b2ba78340202b14cd05c0ae3b8347e758d50a577f036",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033160819844759797#m",
+      "date": "Sun, 15 Mar 2026 12:38:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc8_FGWEAECpNy.jpg"
+      ]
+    },
+    {
+      "id": "dac67cfed3df32d391b2045fd566d3025f389e4ff01aa024470b72c13bb80c50",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033152140034613710#m",
+      "date": "Sun, 15 Mar 2026 12:03:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc1GKpWEAA2OCZ.jpg"
+      ]
+    },
+    {
+      "id": "bb4fb6265ceff6e566de57132c2b0fda435a88f19117bebeaec8dfdd4f91898c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2033097722840883235#m",
+      "date": "Sun, 15 Mar 2026 08:27:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDcDmlEaMAAc3AV.jpg"
       ]
     }
   ]
