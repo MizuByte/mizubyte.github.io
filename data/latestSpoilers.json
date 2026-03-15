@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-15T11:22:18.130Z",
+  "generatedAt": "2026-03-15T11:45:07.529Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
     {
-      "id": "5bd1f17a643cabd46df281364083c620ad2428d74a29ed990cef011445a267a0",
+      "id": "3f44977a097751820432a4f85447658bfffc517ba5f7e9efd42a5f1b4101e93b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: ┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
-      "text": "RT @Eiichiro_Staff: ┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
-      "url": "https://nitter.net/Mugiwara_23/status/2033120596393967902#m",
-      "date": "Sun, 15 Mar 2026 09:58:18 GMT",
+      "title": "┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
+      "text": "┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2033116668805984546#m",
+      "date": "Sun, 15 Mar 2026 09:42:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -34,17 +34,19 @@
       ]
     },
     {
-      "id": "6f11578a7d45b932a1948b87e8aefdc76372b234edd92017b9598d91330827f9",
+      "id": "60d49113e840f7447806cddc54c5048e7480b820f4c1b6a7770957ecdb2e5126",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #…",
-      "text": "RT @Eiichiro_Staff: 【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #…",
-      "url": "https://nitter.net/Mugiwara_23/status/2033120368840302922#m",
-      "date": "Sun, 15 Mar 2026 09:57:24 GMT",
+      "title": "【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "text": "【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2033114643473084723#m",
+      "date": "Sun, 15 Mar 2026 09:34:39 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033114113694748672%2Fimg%2FsSxOhD9ZichHyXbF.jpg"
+      ]
     },
     {
       "id": "0eeb6285867d7c88638c432bf4348c6498d47a654301e3516397713d887310e4",
@@ -275,14 +277,14 @@
   ],
   "items": [
     {
-      "id": "5bd1f17a643cabd46df281364083c620ad2428d74a29ed990cef011445a267a0",
+      "id": "3f44977a097751820432a4f85447658bfffc517ba5f7e9efd42a5f1b4101e93b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: ┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
-      "text": "RT @Eiichiro_Staff: ┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
-      "url": "https://nitter.net/Mugiwara_23/status/2033120596393967902#m",
-      "date": "Sun, 15 Mar 2026 09:58:18 GMT",
+      "title": "┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
+      "text": "┏━━━┓ 巨 大 な 冒 険 が 始 ま る ┗━━━┛ #ONEPIECE #ONEPIECEカードゲーム #ワンピカード #ワンピカード4周年 Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2033116668805984546#m",
+      "date": "Sun, 15 Mar 2026 09:42:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -305,17 +307,19 @@
       ]
     },
     {
-      "id": "6f11578a7d45b932a1948b87e8aefdc76372b234edd92017b9598d91330827f9",
+      "id": "60d49113e840f7447806cddc54c5048e7480b820f4c1b6a7770957ecdb2e5126",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #…",
-      "text": "RT @Eiichiro_Staff: 【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #…",
-      "url": "https://nitter.net/Mugiwara_23/status/2033120368840302922#m",
-      "date": "Sun, 15 Mar 2026 09:57:24 GMT",
+      "title": "【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "text": "【解禁】 頂上戦争をテーマにした ブースターパック『決戦の刻』 5.30(土)発売決定。そして── 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ─ メラメラの実争奪戦 ─ 2026年秋 開催決定 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 #ONEPIECE #ONEPIECEカードゲーム #ワンピカード Video",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2033114643473084723#m",
+      "date": "Sun, 15 Mar 2026 09:34:39 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033114113694748672%2Fimg%2FsSxOhD9ZichHyXbF.jpg"
+      ]
     },
     {
       "id": "0eeb6285867d7c88638c432bf4348c6498d47a654301e3516397713d887310e4",
