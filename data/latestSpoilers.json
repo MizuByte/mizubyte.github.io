@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T10:33:16.520Z",
+  "generatedAt": "2026-03-16T11:34:42.998Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -15,6 +15,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDemUqGbAAAtrzc.jpg"
+      ]
+    },
+    {
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
       ]
     }
   ],
@@ -262,21 +277,6 @@
       ]
     },
     {
-      "id": "9a626f1b6f74db699af5b60fc0206bfdbce2803a04d39d3b5a40c179f496f51f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "text": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2029949879045476643#m",
-      "date": "Fri, 06 Mar 2026 15:59:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
-      ]
-    },
-    {
       "id": "b66ede164c2182894f053079771cd8e8c192f99f5c7e070563f9b99a27f73dee",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -320,6 +320,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDfkgdeWYAAaS_D.jpg"
       ]
+    },
+    {
+      "id": "d6455b18af977782d30c78b0ffc65b74b82575eae4f9ac6f7c37c0041feb8f76",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033264122805076017#m",
+      "date": "Sun, 15 Mar 2026 19:28:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDea8HNbkAAl45s.jpg"
+      ]
     }
   ],
   "items": [
@@ -336,6 +351,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDemUqGbAAAtrzc.jpg"
+      ]
+    },
+    {
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
       ]
     },
     {
@@ -581,21 +611,6 @@
       ]
     },
     {
-      "id": "9a626f1b6f74db699af5b60fc0206bfdbce2803a04d39d3b5a40c179f496f51f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "text": "Toneri might genuinely be the best written character of all time #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2029949879045476643#m",
-      "date": "Fri, 06 Mar 2026 15:59:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
-      ]
-    },
-    {
       "id": "b66ede164c2182894f053079771cd8e8c192f99f5c7e070563f9b99a27f73dee",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -638,6 +653,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDfkgdeWYAAaS_D.jpg"
+      ]
+    },
+    {
+      "id": "d6455b18af977782d30c78b0ffc65b74b82575eae4f9ac6f7c37c0041feb8f76",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033264122805076017#m",
+      "date": "Sun, 15 Mar 2026 19:28:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDea8HNbkAAl45s.jpg"
       ]
     }
   ]
