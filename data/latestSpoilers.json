@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T07:01:02.035Z",
+  "generatedAt": "2026-03-16T08:12:26.116Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "2fa03b0d99993ddc9494a0b53f74fd5bf41d5aa7cdc30ea2dbf818c058a087a0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "text": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "url": "https://nitter.net/TheWillOfMarco/status/2033438117923795207#m",
+      "date": "Mon, 16 Mar 2026 07:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDgxak7b0AAK4t_.jpg"
+      ]
+    },
     {
       "id": "7fc8b899376819a8978b149e71dd8eaa0e95c51651c86d74bd2e513e87db099b",
       "anime": "onepiece",
@@ -78,19 +93,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
       ]
-    },
-    {
-      "id": "074d0b014f83931418bf000aad37308486a7f92fae124901711bca7a57f2a12d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Africa only*",
-      "text": "Africa only*",
-      "url": "https://nitter.net/WorstGenHQ/status/2033212497176502570#m",
-      "date": "Sun, 15 Mar 2026 16:03:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "e4c2f31f54d37e54dd7ca9d1db01bb0e6b4ae4aaed1de8e55f8bffaced8e9611",
@@ -292,6 +294,21 @@
       ]
     },
     {
+      "id": "2fa03b0d99993ddc9494a0b53f74fd5bf41d5aa7cdc30ea2dbf818c058a087a0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "text": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "url": "https://nitter.net/TheWillOfMarco/status/2033438117923795207#m",
+      "date": "Mon, 16 Mar 2026 07:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDgxak7b0AAK4t_.jpg"
+      ]
+    },
+    {
       "id": "7fc8b899376819a8978b149e71dd8eaa0e95c51651c86d74bd2e513e87db099b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -350,19 +367,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
       ]
-    },
-    {
-      "id": "074d0b014f83931418bf000aad37308486a7f92fae124901711bca7a57f2a12d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Africa only*",
-      "text": "Africa only*",
-      "url": "https://nitter.net/WorstGenHQ/status/2033212497176502570#m",
-      "date": "Sun, 15 Mar 2026 16:03:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "e4c2f31f54d37e54dd7ca9d1db01bb0e6b4ae4aaed1de8e55f8bffaced8e9611",
