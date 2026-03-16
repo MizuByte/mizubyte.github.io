@@ -1,99 +1,8 @@
 {
-  "generatedAt": "2026-03-16T08:12:26.116Z",
+  "generatedAt": "2026-03-16T09:17:44.564Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "4051f75b976ad94f618212b70d935e8155945f4333fa72ab6a75282916fefe9d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2033276639208153570#m",
-      "date": "Sun, 15 Mar 2026 20:18:21 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDemUqGbAAAtrzc.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
-    {
-      "id": "2fa03b0d99993ddc9494a0b53f74fd5bf41d5aa7cdc30ea2dbf818c058a087a0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
-      "text": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
-      "url": "https://nitter.net/TheWillOfMarco/status/2033438117923795207#m",
-      "date": "Mon, 16 Mar 2026 07:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDgxak7b0AAK4t_.jpg"
-      ]
-    },
-    {
-      "id": "7fc8b899376819a8978b149e71dd8eaa0e95c51651c86d74bd2e513e87db099b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
-      "text": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
-      "url": "https://nitter.net/Blackbeard_Goat/status/2033329998707241344#m",
-      "date": "Sun, 15 Mar 2026 23:50:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDfW2ZbXoAETvi6.jpg"
-      ]
-    },
-    {
-      "id": "7ae0f7c4be169c07ce09182ebc0d5ca26831550916b6e1d9385094910d3d971d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "text": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "url": "https://nitter.net/WorstGenHQ/status/2033237887605506510#m",
-      "date": "Sun, 15 Mar 2026 17:44:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2033237888171675648%2FyY9e4vxA%3Fformat%3Djpg%26name%3D1200x627"
-      ]
-    },
-    {
-      "id": "f074364e1a067c5adb5fea14a6d63180a8f049a157506a17c56c6e43ca675102",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "text": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214951943192829#m",
-      "date": "Sun, 15 Mar 2026 16:13:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDduNTwXoAEgh6i.jpg"
-      ]
-    },
-    {
-      "id": "9cb5091739d475df9a60b9ccde594667c4a7ec7bf044d86e9a7b1270671416ec",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "text": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214485452734881#m",
-      "date": "Sun, 15 Mar 2026 16:11:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
-      ]
-    },
     {
       "id": "e4c2f31f54d37e54dd7ca9d1db01bb0e6b4ae4aaed1de8e55f8bffaced8e9611",
       "anime": "onepiece",
@@ -275,100 +184,98 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
       ]
+    },
+    {
+      "id": "2fa03b0d99993ddc9494a0b53f74fd5bf41d5aa7cdc30ea2dbf818c058a087a0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "text": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "url": "https://nitter.net/TheWillOfMarco/status/2033438117923795207#m",
+      "date": "Mon, 16 Mar 2026 07:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDgxak7b0AAK4t_.jpg"
+      ]
+    },
+    {
+      "id": "7fc8b899376819a8978b149e71dd8eaa0e95c51651c86d74bd2e513e87db099b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
+      "text": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
+      "url": "https://nitter.net/Blackbeard_Goat/status/2033329998707241344#m",
+      "date": "Sun, 15 Mar 2026 23:50:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDfW2ZbXoAETvi6.jpg"
+      ]
+    },
+    {
+      "id": "7ae0f7c4be169c07ce09182ebc0d5ca26831550916b6e1d9385094910d3d971d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
+      "text": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
+      "url": "https://nitter.net/WorstGenHQ/status/2033237887605506510#m",
+      "date": "Sun, 15 Mar 2026 17:44:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2033237888171675648%2FyY9e4vxA%3Fformat%3Djpg%26name%3D1200x627"
+      ]
+    },
+    {
+      "id": "f074364e1a067c5adb5fea14a6d63180a8f049a157506a17c56c6e43ca675102",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
+      "text": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
+      "url": "https://nitter.net/WorstGenHQ/status/2033214951943192829#m",
+      "date": "Sun, 15 Mar 2026 16:13:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDduNTwXoAEgh6i.jpg"
+      ]
+    },
+    {
+      "id": "9cb5091739d475df9a60b9ccde594667c4a7ec7bf044d86e9a7b1270671416ec",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
+      "text": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
+      "url": "https://nitter.net/WorstGenHQ/status/2033214485452734881#m",
+      "date": "Sun, 15 Mar 2026 16:11:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
+      ]
+    },
+    {
+      "id": "074d0b014f83931418bf000aad37308486a7f92fae124901711bca7a57f2a12d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Africa only*",
+      "text": "Africa only*",
+      "url": "https://nitter.net/WorstGenHQ/status/2033212497176502570#m",
+      "date": "Sun, 15 Mar 2026 16:03:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
     {
-      "id": "4051f75b976ad94f618212b70d935e8155945f4333fa72ab6a75282916fefe9d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2033276639208153570#m",
-      "date": "Sun, 15 Mar 2026 20:18:21 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDemUqGbAAAtrzc.jpg"
-      ]
-    },
-    {
-      "id": "2fa03b0d99993ddc9494a0b53f74fd5bf41d5aa7cdc30ea2dbf818c058a087a0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
-      "text": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
-      "url": "https://nitter.net/TheWillOfMarco/status/2033438117923795207#m",
-      "date": "Mon, 16 Mar 2026 07:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDgxak7b0AAK4t_.jpg"
-      ]
-    },
-    {
-      "id": "7fc8b899376819a8978b149e71dd8eaa0e95c51651c86d74bd2e513e87db099b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
-      "text": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
-      "url": "https://nitter.net/Blackbeard_Goat/status/2033329998707241344#m",
-      "date": "Sun, 15 Mar 2026 23:50:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDfW2ZbXoAETvi6.jpg"
-      ]
-    },
-    {
-      "id": "7ae0f7c4be169c07ce09182ebc0d5ca26831550916b6e1d9385094910d3d971d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "text": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
-      "url": "https://nitter.net/WorstGenHQ/status/2033237887605506510#m",
-      "date": "Sun, 15 Mar 2026 17:44:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2033237888171675648%2FyY9e4vxA%3Fformat%3Djpg%26name%3D1200x627"
-      ]
-    },
-    {
-      "id": "f074364e1a067c5adb5fea14a6d63180a8f049a157506a17c56c6e43ca675102",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "text": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214951943192829#m",
-      "date": "Sun, 15 Mar 2026 16:13:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDduNTwXoAEgh6i.jpg"
-      ]
-    },
-    {
-      "id": "9cb5091739d475df9a60b9ccde594667c4a7ec7bf044d86e9a7b1270671416ec",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "text": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2033214485452734881#m",
-      "date": "Sun, 15 Mar 2026 16:11:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
-      ]
-    },
-    {
       "id": "e4c2f31f54d37e54dd7ca9d1db01bb0e6b4ae4aaed1de8e55f8bffaced8e9611",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -549,6 +456,94 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCvUp5sbwAMv55a.jpg"
       ]
+    },
+    {
+      "id": "2fa03b0d99993ddc9494a0b53f74fd5bf41d5aa7cdc30ea2dbf818c058a087a0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "text": "Only 20 days left until the Elbaph Arc of the One Piece anime finally airs! ⏳🔥 One Piece Episode 1156 will drop on April 5, 2026! ✍️📅",
+      "url": "https://nitter.net/TheWillOfMarco/status/2033438117923795207#m",
+      "date": "Mon, 16 Mar 2026 07:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDgxak7b0AAK4t_.jpg"
+      ]
+    },
+    {
+      "id": "7fc8b899376819a8978b149e71dd8eaa0e95c51651c86d74bd2e513e87db099b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
+      "text": "#oscars #ONEPIECE ONE PIECE TWITTER OSCARS 2026",
+      "url": "https://nitter.net/Blackbeard_Goat/status/2033329998707241344#m",
+      "date": "Sun, 15 Mar 2026 23:50:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDfW2ZbXoAETvi6.jpg"
+      ]
+    },
+    {
+      "id": "7ae0f7c4be169c07ce09182ebc0d5ca26831550916b6e1d9385094910d3d971d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
+      "text": "YOOOOO 💀💀 😂🤣 piped.video/shorts/MHVCfJLq9… via @YouTube",
+      "url": "https://nitter.net/WorstGenHQ/status/2033237887605506510#m",
+      "date": "Sun, 15 Mar 2026 17:44:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2033237888171675648%2FyY9e4vxA%3Fformat%3Djpg%26name%3D1200x627"
+      ]
+    },
+    {
+      "id": "f074364e1a067c5adb5fea14a6d63180a8f049a157506a17c56c6e43ca675102",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
+      "text": "#ONEPIECE1177 Hyped for chapter 1177. Something tells me it gonna be a very good one..😄",
+      "url": "https://nitter.net/WorstGenHQ/status/2033214951943192829#m",
+      "date": "Sun, 15 Mar 2026 16:13:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDduNTwXoAEgh6i.jpg"
+      ]
+    },
+    {
+      "id": "9cb5091739d475df9a60b9ccde594667c4a7ec7bf044d86e9a7b1270671416ec",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
+      "text": "Current africa 5 top Characters in the poll: Well deserved, Luffy,Zoro,Sanji,Xebec and Shanks deserve it.",
+      "url": "https://nitter.net/WorstGenHQ/status/2033214485452734881#m",
+      "date": "Sun, 15 Mar 2026 16:11:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdty5wa0AEUltN.jpg"
+      ]
+    },
+    {
+      "id": "074d0b014f83931418bf000aad37308486a7f92fae124901711bca7a57f2a12d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Africa only*",
+      "text": "Africa only*",
+      "url": "https://nitter.net/WorstGenHQ/status/2033212497176502570#m",
+      "date": "Sun, 15 Mar 2026 16:03:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
