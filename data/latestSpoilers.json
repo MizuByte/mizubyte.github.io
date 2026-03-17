@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T12:34:47.796Z",
+  "generatedAt": "2026-03-17T14:07:16.095Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -48,21 +48,6 @@
       ]
     },
     {
-      "id": "80ac33ddd83068289c64b802f598aeb099b98658898873db98d657489740fba7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2033764977727967457#m",
-      "date": "Tue, 17 Mar 2026 04:38:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDlidqYaEAAaSxE.jpg"
-      ]
-    },
-    {
       "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -80,6 +65,21 @@
   ],
   "misc": [
     {
+      "id": "017806a16045fa3bd0d24c09e2b23c273005d894cd845ce8775c0c614f012855",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 WMU!!!!!!!!!!!!!! 🔥🔥🔥 Ricky Acong Subroto (@RickyAcongS) Let's gooooooo..... — https://nitter.net/RickyAcongS/status/2033730009920377003#m",
+      "text": "#ONEPIECE1177 WMU!!!!!!!!!!!!!! 🔥🔥🔥 Ricky Acong Subroto (@RickyAcongS) Let's gooooooo..... — https://nitter.net/RickyAcongS/status/2033730009920377003#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2033901354217808359#m",
+      "date": "Tue, 17 Mar 2026 13:40:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDlCp2oasAANSm4.jpg"
+      ]
+    },
+    {
       "id": "71e335caab51e05e75f83405c8661ab64a49dc035d090d5fab6f3b6707decf7b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -95,21 +95,6 @@
       ]
     },
     {
-      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
-      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
-      ]
-    },
-    {
       "id": "19c35e2ebb782b7dedc80297e963b0bad4091306dfe3156ff75b920ebe72d543",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -121,84 +106,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "6844d9d0a0b8bf4d078dec709b653c77bd58f8e5fcbf8d622e05496f6bcf33b9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ya está disponible una nueva actualización para #NintendoSwitch2, con la que se añaden mejoras para GameChat, la opción de dejar notas en la lista de amigos y otras novedades. Aquí encontrarás más inf",
-      "text": "Ya está disponible una nueva actualización para #NintendoSwitch2, con la que se añaden mejoras para GameChat, la opción de dejar notas en la lista de amigos y otras novedades. Aquí encontrarás más información: ntdo.com/6011ALOhD",
-      "url": "https://nitter.net/NintendoES/status/2033830704455270448#m",
-      "date": "Tue, 17 Mar 2026 09:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2032748861974831104%2FYxccMv7H%3Fformat%3Djpg%26name%3D420x420_2"
-      ]
-    },
-    {
-      "id": "86c2a4896361560c208bacb62797ef7b1324b8f80b18756a00e8ea9aa59ccf40",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Modo Portátil Aprimorado em ação no Xenoblade Chronicles 2 Comparativo com a resolução nativa do Switch no modo portátil vs Switch 2 pós firmware 22 — via XBlade (ResetERA)",
-      "text": "Modo Portátil Aprimorado em ação no Xenoblade Chronicles 2 Comparativo com a resolução nativa do Switch no modo portátil vs Switch 2 pós firmware 22 — via XBlade (ResetERA)",
-      "url": "https://nitter.net/necrolipe/status/2033735921892209092#m",
-      "date": "Tue, 17 Mar 2026 02:43:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDlHo6zaQAAMht4.jpg"
-      ]
-    },
-    {
-      "id": "04d6471e663f0a5394e87f013b307f1c20cffaddd7dbcf371433595912968031",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Nintendo Switch 2 のシステムバージョン22.0.0の配信を開始しました。更新内容はこちらのサポートページをご覧ください。 support.nintendo.com/jp/swit…",
-      "text": "Nintendo Switch 2 のシステムバージョン22.0.0の配信を開始しました。更新内容はこちらのサポートページをご覧ください。 support.nintendo.com/jp/swit…",
-      "url": "https://nitter.net/nintendo_cs/status/2033723159032304027#m",
-      "date": "Tue, 17 Mar 2026 01:52:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDk8b0EbAAA6ja8.png"
-      ]
-    },
-    {
-      "id": "e27432ed2cdf2ac0a634b70d2a3b9a83937062ee6957c67763f5c63abb5fdddd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "球春到来！DIME最新号は観戦が10倍楽しくなる野球トレンドを大特集、特別付録は『タッチ』＆『MIX』あだち充作品ク... prtimes.jp/main/html/rd/p/00…",
-      "text": "球春到来！DIME最新号は観戦が10倍楽しくなる野球トレンドを大特集、特別付録は『タッチ』＆『MIX』あだち充作品ク... prtimes.jp/main/html/rd/p/00…",
-      "url": "https://nitter.net/PRTIMES_ETM/status/2033319280079782073#m",
-      "date": "Sun, 15 Mar 2026 23:07:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDfNHAxakAA-J1B.jpg"
-      ]
-    },
-    {
-      "id": "927b0d7eba23d867ef29ead3633c3b6a9b2264ed0fa59f1dc7f675b9cbf7a749",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#一番くじ公式ショップ京都イオンモールKYOTO店 入荷情報 ✨3/20（金）発売予定✨ 【一番くじ ワンピース 思い描く未来】 サンプル展示中です♪ ⬇️商品詳細⬇️ 1kuji.com/products/onep100 ⬇️在庫情報️⬇️ bandainamco-am.co.jp/chara_s… #一番くじ公式ショップ #一番くじ",
-      "text": "#一番くじ公式ショップ京都イオンモールKYOTO店 入荷情報 ✨3/20（金）発売予定✨ 【一番くじ ワンピース 思い描く未来】 サンプル展示中です♪ ⬇️商品詳細⬇️ 1kuji.com/products/onep100 ⬇️在庫情報️⬇️ bandainamco-am.co.jp/chara_s… #一番くじ公式ショップ #一番くじ",
-      "url": "https://nitter.net/ichibanKUJIshop/status/2033784583783911551#m",
-      "date": "Tue, 17 Mar 2026 05:56:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDl0PpgbEAEgGjB.jpg",
-        "https://nitter.net/pic/media%2FHDl0PpebEAAt_iK.jpg",
-        "https://nitter.net/pic/media%2FHDl0Pp3bAAAEibR.jpg",
-        "https://nitter.net/pic/media%2FHDl0Ppsa4AAx2_p.jpg"
-      ]
     },
     {
       "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
@@ -413,21 +320,6 @@
       ]
     },
     {
-      "id": "80ac33ddd83068289c64b802f598aeb099b98658898873db98d657489740fba7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2033764977727967457#m",
-      "date": "Tue, 17 Mar 2026 04:38:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDlidqYaEAAaSxE.jpg"
-      ]
-    },
-    {
       "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -440,6 +332,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
+      ]
+    },
+    {
+      "id": "017806a16045fa3bd0d24c09e2b23c273005d894cd845ce8775c0c614f012855",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 WMU!!!!!!!!!!!!!! 🔥🔥🔥 Ricky Acong Subroto (@RickyAcongS) Let's gooooooo..... — https://nitter.net/RickyAcongS/status/2033730009920377003#m",
+      "text": "#ONEPIECE1177 WMU!!!!!!!!!!!!!! 🔥🔥🔥 Ricky Acong Subroto (@RickyAcongS) Let's gooooooo..... — https://nitter.net/RickyAcongS/status/2033730009920377003#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2033901354217808359#m",
+      "date": "Tue, 17 Mar 2026 13:40:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDlCp2oasAANSm4.jpg"
       ]
     },
     {
@@ -458,21 +365,6 @@
       ]
     },
     {
-      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
-      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
-      ]
-    },
-    {
       "id": "19c35e2ebb782b7dedc80297e963b0bad4091306dfe3156ff75b920ebe72d543",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -484,84 +376,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "6844d9d0a0b8bf4d078dec709b653c77bd58f8e5fcbf8d622e05496f6bcf33b9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ya está disponible una nueva actualización para #NintendoSwitch2, con la que se añaden mejoras para GameChat, la opción de dejar notas en la lista de amigos y otras novedades. Aquí encontrarás más inf",
-      "text": "Ya está disponible una nueva actualización para #NintendoSwitch2, con la que se añaden mejoras para GameChat, la opción de dejar notas en la lista de amigos y otras novedades. Aquí encontrarás más información: ntdo.com/6011ALOhD",
-      "url": "https://nitter.net/NintendoES/status/2033830704455270448#m",
-      "date": "Tue, 17 Mar 2026 09:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2032748861974831104%2FYxccMv7H%3Fformat%3Djpg%26name%3D420x420_2"
-      ]
-    },
-    {
-      "id": "86c2a4896361560c208bacb62797ef7b1324b8f80b18756a00e8ea9aa59ccf40",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Modo Portátil Aprimorado em ação no Xenoblade Chronicles 2 Comparativo com a resolução nativa do Switch no modo portátil vs Switch 2 pós firmware 22 — via XBlade (ResetERA)",
-      "text": "Modo Portátil Aprimorado em ação no Xenoblade Chronicles 2 Comparativo com a resolução nativa do Switch no modo portátil vs Switch 2 pós firmware 22 — via XBlade (ResetERA)",
-      "url": "https://nitter.net/necrolipe/status/2033735921892209092#m",
-      "date": "Tue, 17 Mar 2026 02:43:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDlHo6zaQAAMht4.jpg"
-      ]
-    },
-    {
-      "id": "04d6471e663f0a5394e87f013b307f1c20cffaddd7dbcf371433595912968031",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Nintendo Switch 2 のシステムバージョン22.0.0の配信を開始しました。更新内容はこちらのサポートページをご覧ください。 support.nintendo.com/jp/swit…",
-      "text": "Nintendo Switch 2 のシステムバージョン22.0.0の配信を開始しました。更新内容はこちらのサポートページをご覧ください。 support.nintendo.com/jp/swit…",
-      "url": "https://nitter.net/nintendo_cs/status/2033723159032304027#m",
-      "date": "Tue, 17 Mar 2026 01:52:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDk8b0EbAAA6ja8.png"
-      ]
-    },
-    {
-      "id": "e27432ed2cdf2ac0a634b70d2a3b9a83937062ee6957c67763f5c63abb5fdddd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "球春到来！DIME最新号は観戦が10倍楽しくなる野球トレンドを大特集、特別付録は『タッチ』＆『MIX』あだち充作品ク... prtimes.jp/main/html/rd/p/00…",
-      "text": "球春到来！DIME最新号は観戦が10倍楽しくなる野球トレンドを大特集、特別付録は『タッチ』＆『MIX』あだち充作品ク... prtimes.jp/main/html/rd/p/00…",
-      "url": "https://nitter.net/PRTIMES_ETM/status/2033319280079782073#m",
-      "date": "Sun, 15 Mar 2026 23:07:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDfNHAxakAA-J1B.jpg"
-      ]
-    },
-    {
-      "id": "927b0d7eba23d867ef29ead3633c3b6a9b2264ed0fa59f1dc7f675b9cbf7a749",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#一番くじ公式ショップ京都イオンモールKYOTO店 入荷情報 ✨3/20（金）発売予定✨ 【一番くじ ワンピース 思い描く未来】 サンプル展示中です♪ ⬇️商品詳細⬇️ 1kuji.com/products/onep100 ⬇️在庫情報️⬇️ bandainamco-am.co.jp/chara_s… #一番くじ公式ショップ #一番くじ",
-      "text": "#一番くじ公式ショップ京都イオンモールKYOTO店 入荷情報 ✨3/20（金）発売予定✨ 【一番くじ ワンピース 思い描く未来】 サンプル展示中です♪ ⬇️商品詳細⬇️ 1kuji.com/products/onep100 ⬇️在庫情報️⬇️ bandainamco-am.co.jp/chara_s… #一番くじ公式ショップ #一番くじ",
-      "url": "https://nitter.net/ichibanKUJIshop/status/2033784583783911551#m",
-      "date": "Tue, 17 Mar 2026 05:56:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDl0PpgbEAEgGjB.jpg",
-        "https://nitter.net/pic/media%2FHDl0PpebEAAt_iK.jpg",
-        "https://nitter.net/pic/media%2FHDl0Pp3bAAAEibR.jpg",
-        "https://nitter.net/pic/media%2FHDl0Ppsa4AAx2_p.jpg"
-      ]
     },
     {
       "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
