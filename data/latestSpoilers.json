@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-03-17T15:33:49.386Z",
+  "generatedAt": "2026-03-17T16:45:56.489Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
+      ]
+    },
+    {
+      "id": "e1ee7ed0d9cdf9933fb6ff8dab4d7270e5ce59ddbd22f700ae8f82056fd98366",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the vario",
+      "text": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the various islands. It's those little things that matter most to me. So I hope you read it casually. I always tell people that Manga isn't a big deal. It's a way to kill time. I want to be the king of wasting time, so I hope people just read and watch it casually.",
+      "url": "https://nitter.net/pewpiece/status/2032560532641792465#m",
+      "date": "Fri, 13 Mar 2026 20:52:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDUbByVWQAAK3wa.jpg"
+      ]
+    },
+    {
+      "id": "1e6b57c5dc2b30d2932eb612090b2e5073a1d2ddfa3922f3dc5ba13cebfbc146",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Spoilers by Pew Pew (@pewpiece) #ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me — https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "text": "#ONEPIECE1177 Spoilers by Pew Pew (@pewpiece) #ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me — https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2033946387067371668#m",
+      "date": "Tue, 17 Mar 2026 16:39:42 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
+      ]
+    },
     {
       "id": "342f8237282efbc4ef0c3d7bd242aa1d60b663e4b9f2488b25cc466ff67aff71",
       "anime": "onepiece",
@@ -15,21 +60,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDm9vy3WQAA8onR.jpg"
-      ]
-    },
-    {
-      "id": "3d85c35e90fc469226f1dec3d7a1cc9668385ecea080dd9d40cfc37d35665311",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Strawhats do good stuff this chapter, almost everyone got his scene.^^",
-      "text": "#ONEPIECE1177 Strawhats do good stuff this chapter, almost everyone got his scene.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2033810210029011074#m",
-      "date": "Tue, 17 Mar 2026 07:38:35 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDmLlA2WIAAlG6J.jpg"
       ]
     },
     {
@@ -52,8 +82,8 @@
     {
       "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
       "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
       "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
       "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
@@ -62,6 +92,82 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    },
+    {
+      "id": "d9a77d6dfc66524d6b9d4fe2a741876f1b5a9a4d46dc9e9c8ae2535589c67246",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Sanji wrecks Kilingham ass, give the head to Jinbe, meanwhile Franky and Sanji restrain his body... WANJIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 🔥",
+      "text": "#ONEPIECE1177 Sanji wrecks Kilingham ass, give the head to Jinbe, meanwhile Franky and Sanji restrain his body... WANJIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033947232928465389#m",
+      "date": "Tue, 17 Mar 2026 16:43:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoIG3tXAAU6Cvl.jpg"
+      ]
+    },
+    {
+      "id": "2579580f06d8b52f11c25da06eb22c24c0ee76baee2642542b8cc2440ae966b0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 -Imu declares: \"Nika and Nidhogg. Either choose to give up or die. This battle will divide the world” YOOOOOOOOOOOOOOOOOOOOOOOOO 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1177 -Imu declares: \"Nika and Nidhogg. Either choose to give up or die. This battle will divide the world” YOOOOOOOOOOOOOOOOOOOOOOOOO 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033946564700340510#m",
+      "date": "Tue, 17 Mar 2026 16:40:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoHmjPXAAITJE4.jpg"
       ]
     },
     {
@@ -95,93 +201,94 @@
       ]
     },
     {
-      "id": "71e335caab51e05e75f83405c8661ab64a49dc035d090d5fab6f3b6707decf7b",
+      "id": "5754c2d7d3397f9a9ba07a016dfbea62bb94dcc8b54e85a779a726a013b9298b",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE I really want to know when Oda releases more information about Louis Arnot and that mysterious statement. Also, whether we'll learn more about Heaven World. I have a feeling Elbaph might not",
-      "text": "#ONEPIECE I really want to know when Oda releases more information about Louis Arnot and that mysterious statement. Also, whether we'll learn more about Heaven World. I have a feeling Elbaph might not take that long.",
-      "url": "https://nitter.net/WorstGenHQ/status/2033659606954623153#m",
-      "date": "Mon, 16 Mar 2026 21:40:08 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Experience the epic conclusion. Dune: Part Three only in theaters and IMAX December 18. #DuneMovie #FilmedforIMAX Video",
+      "text": "Experience the epic conclusion. Dune: Part Three only in theaters and IMAX December 18. #DuneMovie #FilmedforIMAX Video",
+      "url": "https://nitter.net/dunemovie/status/2033941127368478781#m",
+      "date": "Tue, 17 Mar 2026 16:18:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDkCP1qbEAI9XIT.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2033927317836468228%2Fimg%2FtF9TjjNAsRoPQ-yg.jpg"
       ]
     },
     {
-      "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
-      "text": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033248576747208918#m",
-      "date": "Sun, 15 Mar 2026 18:26:51 GMT",
+      "id": "ba02a11618554c90376a40a996e175e5cf5dc543732c5f059f5e9dae0c319eae",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "尾田先生の描き下ろした「ミス・サーズデー」きた！尾田先生が制作チームの為に描き下ろしたそう✨✨Mr.11のコンビで、Mr.4の妹らしい笑 #実写のワンピ #ネトフリワンピ .Log【ワンピース考察】 (@manganouA) #実写のワンピ 6話の途中！ ミス・サーズデー出てきた〜!!! あのMr.11の相棒！ 原作で登場してないキャラも出してきてくれるの、#ネトフリワンピ ならではでありがたいー",
+      "text": "尾田先生の描き下ろした「ミス・サーズデー」きた！尾田先生が制作チームの為に描き下ろしたそう✨✨Mr.11のコンビで、Mr.4の妹らしい笑 #実写のワンピ #ネトフリワンピ .Log【ワンピース考察】 (@manganouA) #実写のワンピ 6話の途中！ ミス・サーズデー出てきた〜!!! あのMr.11の相棒！ 原作で登場してないキャラも出してきてくれるの、#ネトフリワンピ ならではでありがたいー😆 — https://nitter.net/manganouA/status/2032041956319379890#m",
+      "url": "https://nitter.net/manganouA/status/2033944702001811563#m",
+      "date": "Tue, 17 Mar 2026 16:33:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDeMzT8bcAA9mN4.jpg"
+        "https://nitter.net/pic/media%2FHDoF7JnbEAIwcZq.jpg",
+        "https://nitter.net/pic/media%2FHDNDY5dbQAAU3sO.jpg"
       ]
     },
     {
-      "id": "1d14e9ec352e6a1b0a6a65c73dc07cfad2b4850a245842f7ae692213caf52dfd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.ne",
-      "text": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.net/levvv_ew/status/2032258009687011814#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2033119364245782886#m",
-      "date": "Sun, 15 Mar 2026 09:53:24 GMT",
+      "id": "fb8f5a165e265bc0987aafc57630eacb1434a079f21450de89d2fb3bdd647a8b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Diseño oficial de “Miss Thursday” dibujado por Eiichiro Oda para el Live-Action de One Piece 😍😍😍😍😍!! La imagen se ha mostrado en el 3er video del contenido extra de la 2ª Temporada de la serie,",
+      "text": "¡¡Diseño oficial de “Miss Thursday” dibujado por Eiichiro Oda para el Live-Action de One Piece 😍😍😍😍😍!! La imagen se ha mostrado en el 3er video del contenido extra de la 2ª Temporada de la serie, donde nos dicen que Oda la dibujo como referencia para el equipo de producción.",
+      "url": "https://nitter.net/Mugiwara_23/status/2033935174124134709#m",
+      "date": "Tue, 17 Mar 2026 15:55:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDQH48ubQAErg4X.jpg"
+        "https://nitter.net/pic/media%2FHDn9JkdXQAAqmae.jpg"
       ]
     },
     {
-      "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "text": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "url": "https://nitter.net/SchmurfiV1/status/2032722066806370688#m",
-      "date": "Sat, 14 Mar 2026 07:34:41 GMT",
+      "id": "a3d95976fb4f86e90faa9c5468882388f8d3fc610a5eabd39252bc736faee108",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "週刊少年サンデー16号は本日発売だよ! 週刊少年サンデー創刊67周年オールスター記念表紙! ボクもいるよ! 詳しくは16号を見てね!",
+      "text": "週刊少年サンデー16号は本日発売だよ! 週刊少年サンデー創刊67周年オールスター記念表紙! ボクもいるよ! 詳しくは16号を見てね!",
+      "url": "https://nitter.net/conan_file/status/2033922200479342811#m",
+      "date": "Tue, 17 Mar 2026 15:03:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
+        "https://nitter.net/pic/media%2FHDnxdcqbIAAWEFb.jpg"
       ]
     },
     {
-      "id": "7b0594316c99a183c0948d9af479bc5bc5645d8b06c9e2c7e8f8bd5020cf12ed",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto ",
-      "text": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto is a very necessary sequel #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2032389371383488838#m",
-      "date": "Fri, 13 Mar 2026 09:32:40 GMT",
+      "id": "4e88a3835f96c882cdf0b5840aeed1f1ddcad91206b77ad93f441fb81e9637a9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Para guardar y escuchar cuando estés un poco triste 🎀 Video",
+      "text": "Para guardar y escuchar cuando estés un poco triste 🎀 Video",
+      "url": "https://nitter.net/NetflixES/status/2033921300482171172#m",
+      "date": "Tue, 17 Mar 2026 15:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDR_XF-XUAAadt7.jpg"
+        "https://nitter.net/pic/media%2FHDm3KKCXIAEAp79.jpg"
       ]
     },
     {
-      "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "text": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2030228067310788807#m",
-      "date": "Sat, 07 Mar 2026 10:24:25 GMT",
+      "id": "6cdb81d0b3c4bd8f423a9e15aaca1621549213d0bb506408e088faa57dd75278",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2033921459530223676#m",
+      "date": "Tue, 17 Mar 2026 15:00:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+        "https://nitter.net/pic/card_img%2F2033534910338662401%2F_As2qnz6%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -277,6 +384,51 @@
   ],
   "items": [
     {
+      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
+      ]
+    },
+    {
+      "id": "e1ee7ed0d9cdf9933fb6ff8dab4d7270e5ce59ddbd22f700ae8f82056fd98366",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the vario",
+      "text": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the various islands. It's those little things that matter most to me. So I hope you read it casually. I always tell people that Manga isn't a big deal. It's a way to kill time. I want to be the king of wasting time, so I hope people just read and watch it casually.",
+      "url": "https://nitter.net/pewpiece/status/2032560532641792465#m",
+      "date": "Fri, 13 Mar 2026 20:52:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDUbByVWQAAK3wa.jpg"
+      ]
+    },
+    {
+      "id": "1e6b57c5dc2b30d2932eb612090b2e5073a1d2ddfa3922f3dc5ba13cebfbc146",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Spoilers by Pew Pew (@pewpiece) #ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me — https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "text": "#ONEPIECE1177 Spoilers by Pew Pew (@pewpiece) #ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me — https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2033946387067371668#m",
+      "date": "Tue, 17 Mar 2026 16:39:42 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
+      ]
+    },
+    {
       "id": "342f8237282efbc4ef0c3d7bd242aa1d60b663e4b9f2488b25cc466ff67aff71",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -289,21 +441,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDm9vy3WQAA8onR.jpg"
-      ]
-    },
-    {
-      "id": "3d85c35e90fc469226f1dec3d7a1cc9668385ecea080dd9d40cfc37d35665311",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Strawhats do good stuff this chapter, almost everyone got his scene.^^",
-      "text": "#ONEPIECE1177 Strawhats do good stuff this chapter, almost everyone got his scene.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2033810210029011074#m",
-      "date": "Tue, 17 Mar 2026 07:38:35 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDmLlA2WIAAlG6J.jpg"
       ]
     },
     {
@@ -324,8 +461,8 @@
     {
       "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
       "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
       "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
       "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
@@ -334,6 +471,82 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    },
+    {
+      "id": "d9a77d6dfc66524d6b9d4fe2a741876f1b5a9a4d46dc9e9c8ae2535589c67246",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Sanji wrecks Kilingham ass, give the head to Jinbe, meanwhile Franky and Sanji restrain his body... WANJIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 🔥",
+      "text": "#ONEPIECE1177 Sanji wrecks Kilingham ass, give the head to Jinbe, meanwhile Franky and Sanji restrain his body... WANJIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033947232928465389#m",
+      "date": "Tue, 17 Mar 2026 16:43:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoIG3tXAAU6Cvl.jpg"
+      ]
+    },
+    {
+      "id": "2579580f06d8b52f11c25da06eb22c24c0ee76baee2642542b8cc2440ae966b0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 -Imu declares: \"Nika and Nidhogg. Either choose to give up or die. This battle will divide the world” YOOOOOOOOOOOOOOOOOOOOOOOOO 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1177 -Imu declares: \"Nika and Nidhogg. Either choose to give up or die. This battle will divide the world” YOOOOOOOOOOOOOOOOOOOOOOOOO 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033946564700340510#m",
+      "date": "Tue, 17 Mar 2026 16:40:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoHmjPXAAITJE4.jpg"
       ]
     },
     {
@@ -367,93 +580,94 @@
       ]
     },
     {
-      "id": "71e335caab51e05e75f83405c8661ab64a49dc035d090d5fab6f3b6707decf7b",
+      "id": "5754c2d7d3397f9a9ba07a016dfbea62bb94dcc8b54e85a779a726a013b9298b",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE I really want to know when Oda releases more information about Louis Arnot and that mysterious statement. Also, whether we'll learn more about Heaven World. I have a feeling Elbaph might not",
-      "text": "#ONEPIECE I really want to know when Oda releases more information about Louis Arnot and that mysterious statement. Also, whether we'll learn more about Heaven World. I have a feeling Elbaph might not take that long.",
-      "url": "https://nitter.net/WorstGenHQ/status/2033659606954623153#m",
-      "date": "Mon, 16 Mar 2026 21:40:08 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Experience the epic conclusion. Dune: Part Three only in theaters and IMAX December 18. #DuneMovie #FilmedforIMAX Video",
+      "text": "Experience the epic conclusion. Dune: Part Three only in theaters and IMAX December 18. #DuneMovie #FilmedforIMAX Video",
+      "url": "https://nitter.net/dunemovie/status/2033941127368478781#m",
+      "date": "Tue, 17 Mar 2026 16:18:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDkCP1qbEAI9XIT.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2033927317836468228%2Fimg%2FtF9TjjNAsRoPQ-yg.jpg"
       ]
     },
     {
-      "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
-      "text": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033248576747208918#m",
-      "date": "Sun, 15 Mar 2026 18:26:51 GMT",
+      "id": "ba02a11618554c90376a40a996e175e5cf5dc543732c5f059f5e9dae0c319eae",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "尾田先生の描き下ろした「ミス・サーズデー」きた！尾田先生が制作チームの為に描き下ろしたそう✨✨Mr.11のコンビで、Mr.4の妹らしい笑 #実写のワンピ #ネトフリワンピ .Log【ワンピース考察】 (@manganouA) #実写のワンピ 6話の途中！ ミス・サーズデー出てきた〜!!! あのMr.11の相棒！ 原作で登場してないキャラも出してきてくれるの、#ネトフリワンピ ならではでありがたいー",
+      "text": "尾田先生の描き下ろした「ミス・サーズデー」きた！尾田先生が制作チームの為に描き下ろしたそう✨✨Mr.11のコンビで、Mr.4の妹らしい笑 #実写のワンピ #ネトフリワンピ .Log【ワンピース考察】 (@manganouA) #実写のワンピ 6話の途中！ ミス・サーズデー出てきた〜!!! あのMr.11の相棒！ 原作で登場してないキャラも出してきてくれるの、#ネトフリワンピ ならではでありがたいー😆 — https://nitter.net/manganouA/status/2032041956319379890#m",
+      "url": "https://nitter.net/manganouA/status/2033944702001811563#m",
+      "date": "Tue, 17 Mar 2026 16:33:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDeMzT8bcAA9mN4.jpg"
+        "https://nitter.net/pic/media%2FHDoF7JnbEAIwcZq.jpg",
+        "https://nitter.net/pic/media%2FHDNDY5dbQAAU3sO.jpg"
       ]
     },
     {
-      "id": "1d14e9ec352e6a1b0a6a65c73dc07cfad2b4850a245842f7ae692213caf52dfd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.ne",
-      "text": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.net/levvv_ew/status/2032258009687011814#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2033119364245782886#m",
-      "date": "Sun, 15 Mar 2026 09:53:24 GMT",
+      "id": "fb8f5a165e265bc0987aafc57630eacb1434a079f21450de89d2fb3bdd647a8b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Diseño oficial de “Miss Thursday” dibujado por Eiichiro Oda para el Live-Action de One Piece 😍😍😍😍😍!! La imagen se ha mostrado en el 3er video del contenido extra de la 2ª Temporada de la serie,",
+      "text": "¡¡Diseño oficial de “Miss Thursday” dibujado por Eiichiro Oda para el Live-Action de One Piece 😍😍😍😍😍!! La imagen se ha mostrado en el 3er video del contenido extra de la 2ª Temporada de la serie, donde nos dicen que Oda la dibujo como referencia para el equipo de producción.",
+      "url": "https://nitter.net/Mugiwara_23/status/2033935174124134709#m",
+      "date": "Tue, 17 Mar 2026 15:55:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDQH48ubQAErg4X.jpg"
+        "https://nitter.net/pic/media%2FHDn9JkdXQAAqmae.jpg"
       ]
     },
     {
-      "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "text": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "url": "https://nitter.net/SchmurfiV1/status/2032722066806370688#m",
-      "date": "Sat, 14 Mar 2026 07:34:41 GMT",
+      "id": "a3d95976fb4f86e90faa9c5468882388f8d3fc610a5eabd39252bc736faee108",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "週刊少年サンデー16号は本日発売だよ! 週刊少年サンデー創刊67周年オールスター記念表紙! ボクもいるよ! 詳しくは16号を見てね!",
+      "text": "週刊少年サンデー16号は本日発売だよ! 週刊少年サンデー創刊67周年オールスター記念表紙! ボクもいるよ! 詳しくは16号を見てね!",
+      "url": "https://nitter.net/conan_file/status/2033922200479342811#m",
+      "date": "Tue, 17 Mar 2026 15:03:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
+        "https://nitter.net/pic/media%2FHDnxdcqbIAAWEFb.jpg"
       ]
     },
     {
-      "id": "7b0594316c99a183c0948d9af479bc5bc5645d8b06c9e2c7e8f8bd5020cf12ed",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto ",
-      "text": "„Boruto is the most unnecessary sequel of all time.“ So we should stopped with Naruto shippuden and ignore all the lore about the beings (Otsutsuki) who are literally the reason Naruto exists? Boruto is a very necessary sequel #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2032389371383488838#m",
-      "date": "Fri, 13 Mar 2026 09:32:40 GMT",
+      "id": "4e88a3835f96c882cdf0b5840aeed1f1ddcad91206b77ad93f441fb81e9637a9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Para guardar y escuchar cuando estés un poco triste 🎀 Video",
+      "text": "Para guardar y escuchar cuando estés un poco triste 🎀 Video",
+      "url": "https://nitter.net/NetflixES/status/2033921300482171172#m",
+      "date": "Tue, 17 Mar 2026 15:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDR_XF-XUAAadt7.jpg"
+        "https://nitter.net/pic/media%2FHDm3KKCXIAEAp79.jpg"
       ]
     },
     {
-      "id": "e5ec235dc18848ec025e056bd7a820ca27756e4185ba8f3de4152d5406defd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "text": "Reasons why I don’t want Studio Pierrot to continue animating Boruto: #BORUTO ogb ᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘ ✵ (@FOOTEUXXXXXX) . — https://nitter.net/FOOTEUXXXXXX/status/2029975524739633451#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2030228067310788807#m",
-      "date": "Sat, 07 Mar 2026 10:24:25 GMT",
+      "id": "6cdb81d0b3c4bd8f423a9e15aaca1621549213d0bb506408e088faa57dd75278",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2033921459530223676#m",
+      "date": "Tue, 17 Mar 2026 15:00:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+        "https://nitter.net/pic/card_img%2F2033534910338662401%2F_As2qnz6%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
