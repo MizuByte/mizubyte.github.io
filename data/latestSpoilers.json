@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T19:43:43.500Z",
+  "generatedAt": "2026-03-17T20:22:22.076Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -50,65 +50,17 @@
   ],
   "misc": [
     {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "id": "233f9ff0c8d9cea030809aa9e44f46cd86cf79f89bff521217ca92d9ad0aa9bb",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Nami scolds Luffy and Loki (who have reached Sanji's team) for setting the forest ablaze with the lightning. Loki is stunned/shocked by this, and Luffy has his head down...haha. @NamiOri",
+      "text": "#ONEPIECE1177 Nami scolds Luffy and Loki (who have reached Sanji's team) for setting the forest ablaze with the lightning. Loki is stunned/shocked by this, and Luffy has his head down...haha. @NamiOrigins",
+      "url": "https://nitter.net/WorstGenHQ/status/2033995394389098620#m",
+      "date": "Tue, 17 Mar 2026 19:54:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "925e67c2aed71ef1b05c67e3f129ac6e3c1497221793b6ef808f7a11394e1084",
@@ -184,18 +136,64 @@
       ]
     },
     {
-      "id": "50dac863ea0909586a4ab40c69189872cb8895aed0cc65fee5d216f25db6eb3a",
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "They did this like how Luffy and Nami dealt with Buggy:",
-      "text": "They did this like how Luffy and Nami dealt with Buggy:",
-      "url": "https://nitter.net/WorstGenHQ/status/2033947791236514066#m",
-      "date": "Tue, 17 Mar 2026 16:45:17 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDoIr0KXsAAPqWj.png"
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    },
+    {
+      "id": "f08394739c32014b8e4d1b73c6e59569f516fbe55d8b877b4061d32c14986da0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda about Live-action Chopper: I was worried, but I was shared materials from the early stages. They did tend to see Chopper as this living creature at first, concerned about being true to the animal ",
+      "text": "Oda about Live-action Chopper: I was worried, but I was shared materials from the early stages. They did tend to see Chopper as this living creature at first, concerned about being true to the animal bone structure, for instance, and bringing some realism to his look. So I suggested they think of him as a stuffed toy. If you make him too realistic, it'll go into uncanny valley. So think of him as a cute plushie. Chopper's voice was something we discussed a lot to get right too. When I think of cute characters in live action Hollywood films, their cuteness feels a bit tongue-in-cheek to make them more palatable to adults. But Chopper needs to look and sound cute. I think it's a cuteness that's unique to Japan. I felt like Chopper needs that more than Hollywood's cuteness.",
+      "url": "https://nitter.net/pewpiece/status/2032560253942833517#m",
+      "date": "Fri, 13 Mar 2026 20:51:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDUaxmbbMAA2yJm.jpg"
       ]
     },
     {
@@ -274,6 +272,21 @@
       ]
     },
     {
+      "id": "c6f867bf93dcaa73b04a58b9198e25f9581073c83897252ef5c0942e83bdf89b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2034000991779983753#m",
+      "date": "Tue, 17 Mar 2026 20:16:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDo5HyubEAE5yHv.jpg"
+      ]
+    },
+    {
       "id": "7b7b381461d0d0f40bca25e9a19464259e19e04b9e24b039ab365b6277de04f9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -331,21 +344,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDmgieeXUAACGuB.jpg"
-      ]
-    },
-    {
-      "id": "50de88ca1fe4f3c720964fb08bc1475621d7a241be44a2919c39eed6f56fb26c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2033794218884202811#m",
-      "date": "Tue, 17 Mar 2026 06:35:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDl9D-nXMAAiyrs.jpg"
       ]
     }
   ],
@@ -396,65 +394,17 @@
       ]
     },
     {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "id": "233f9ff0c8d9cea030809aa9e44f46cd86cf79f89bff521217ca92d9ad0aa9bb",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Nami scolds Luffy and Loki (who have reached Sanji's team) for setting the forest ablaze with the lightning. Loki is stunned/shocked by this, and Luffy has his head down...haha. @NamiOri",
+      "text": "#ONEPIECE1177 Nami scolds Luffy and Loki (who have reached Sanji's team) for setting the forest ablaze with the lightning. Loki is stunned/shocked by this, and Luffy has his head down...haha. @NamiOrigins",
+      "url": "https://nitter.net/WorstGenHQ/status/2033995394389098620#m",
+      "date": "Tue, 17 Mar 2026 19:54:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "925e67c2aed71ef1b05c67e3f129ac6e3c1497221793b6ef808f7a11394e1084",
@@ -530,18 +480,64 @@
       ]
     },
     {
-      "id": "50dac863ea0909586a4ab40c69189872cb8895aed0cc65fee5d216f25db6eb3a",
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "They did this like how Luffy and Nami dealt with Buggy:",
-      "text": "They did this like how Luffy and Nami dealt with Buggy:",
-      "url": "https://nitter.net/WorstGenHQ/status/2033947791236514066#m",
-      "date": "Tue, 17 Mar 2026 16:45:17 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDoIr0KXsAAPqWj.png"
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    },
+    {
+      "id": "f08394739c32014b8e4d1b73c6e59569f516fbe55d8b877b4061d32c14986da0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Oda about Live-action Chopper: I was worried, but I was shared materials from the early stages. They did tend to see Chopper as this living creature at first, concerned about being true to the animal ",
+      "text": "Oda about Live-action Chopper: I was worried, but I was shared materials from the early stages. They did tend to see Chopper as this living creature at first, concerned about being true to the animal bone structure, for instance, and bringing some realism to his look. So I suggested they think of him as a stuffed toy. If you make him too realistic, it'll go into uncanny valley. So think of him as a cute plushie. Chopper's voice was something we discussed a lot to get right too. When I think of cute characters in live action Hollywood films, their cuteness feels a bit tongue-in-cheek to make them more palatable to adults. But Chopper needs to look and sound cute. I think it's a cuteness that's unique to Japan. I felt like Chopper needs that more than Hollywood's cuteness.",
+      "url": "https://nitter.net/pewpiece/status/2032560253942833517#m",
+      "date": "Fri, 13 Mar 2026 20:51:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDUaxmbbMAA2yJm.jpg"
       ]
     },
     {
@@ -620,6 +616,21 @@
       ]
     },
     {
+      "id": "c6f867bf93dcaa73b04a58b9198e25f9581073c83897252ef5c0942e83bdf89b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2034000991779983753#m",
+      "date": "Tue, 17 Mar 2026 20:16:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDo5HyubEAE5yHv.jpg"
+      ]
+    },
+    {
       "id": "7b7b381461d0d0f40bca25e9a19464259e19e04b9e24b039ab365b6277de04f9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -677,21 +688,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDmgieeXUAACGuB.jpg"
-      ]
-    },
-    {
-      "id": "50de88ca1fe4f3c720964fb08bc1475621d7a241be44a2919c39eed6f56fb26c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2033794218884202811#m",
-      "date": "Tue, 17 Mar 2026 06:35:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDl9D-nXMAAiyrs.jpg"
       ]
     }
   ]
