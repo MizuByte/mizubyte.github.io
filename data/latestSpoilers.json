@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T06:17:38.280Z",
+  "generatedAt": "2026-03-17T07:34:05.031Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,6 +65,21 @@
       ]
     },
     {
+      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
+      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
+      ]
+    },
+    {
       "id": "19c35e2ebb782b7dedc80297e963b0bad4091306dfe3156ff75b920ebe72d543",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -90,21 +105,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDjIueubYAAzp9V.jpg",
-        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
-      ]
-    },
-    {
-      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
-      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
         "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
       ]
     },
@@ -181,6 +181,96 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+      ]
+    },
+    {
+      "id": "50de88ca1fe4f3c720964fb08bc1475621d7a241be44a2919c39eed6f56fb26c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2033794218884202811#m",
+      "date": "Tue, 17 Mar 2026 06:35:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDl9D-nXMAAiyrs.jpg"
+      ]
+    },
+    {
+      "id": "a445f14115f33b45ee3304ff141a8c582c0cf7296a4656b9cfceefc1ad7c1c2a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "My bible",
+      "text": "My bible",
+      "url": "https://nitter.net/daily_berserk/status/2033676740305031515#m",
+      "date": "Mon, 16 Mar 2026 22:48:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDkSNynXMAA0715.jpg"
+      ]
+    },
+    {
+      "id": "526da59f1fa3015a527c7f0cbeed13f484546f664b409659f02dd4bf522b0c2a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033630971115778556#m",
+      "date": "Mon, 16 Mar 2026 19:46:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDjolXbXAAA5wc6.jpg"
+      ]
+    },
+    {
+      "id": "7f55dac6658883b2474ae8326ef1fbd635b977fcc32acf3bdb72fa4e0313a479",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033578257388290062#m",
+      "date": "Mon, 16 Mar 2026 16:16:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDi4pZBbMAATu7y.jpg"
+      ]
+    },
+    {
+      "id": "682eb8f74eb12ac187079cd725037df6d29fee3b69a65e3e5bd4fdbaf55a09f8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033541748618662169#m",
+      "date": "Mon, 16 Mar 2026 13:51:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDiXcNdaEAEMhY_.jpg"
+      ]
+    },
+    {
+      "id": "b66ede164c2182894f053079771cd8e8c192f99f5c7e070563f9b99a27f73dee",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2033459651115688211#m",
+      "date": "Mon, 16 Mar 2026 08:25:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDhMxhgboAAxRhp.jpg"
       ]
     }
   ],
@@ -246,6 +336,21 @@
       ]
     },
     {
+      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
+      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
+      ]
+    },
+    {
       "id": "19c35e2ebb782b7dedc80297e963b0bad4091306dfe3156ff75b920ebe72d543",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -271,21 +376,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDjIueubYAAzp9V.jpg",
-        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
-      ]
-    },
-    {
-      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
-      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
         "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
       ]
     },
@@ -362,6 +452,96 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+      ]
+    },
+    {
+      "id": "50de88ca1fe4f3c720964fb08bc1475621d7a241be44a2919c39eed6f56fb26c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2033794218884202811#m",
+      "date": "Tue, 17 Mar 2026 06:35:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDl9D-nXMAAiyrs.jpg"
+      ]
+    },
+    {
+      "id": "a445f14115f33b45ee3304ff141a8c582c0cf7296a4656b9cfceefc1ad7c1c2a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "My bible",
+      "text": "My bible",
+      "url": "https://nitter.net/daily_berserk/status/2033676740305031515#m",
+      "date": "Mon, 16 Mar 2026 22:48:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDkSNynXMAA0715.jpg"
+      ]
+    },
+    {
+      "id": "526da59f1fa3015a527c7f0cbeed13f484546f664b409659f02dd4bf522b0c2a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033630971115778556#m",
+      "date": "Mon, 16 Mar 2026 19:46:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDjolXbXAAA5wc6.jpg"
+      ]
+    },
+    {
+      "id": "7f55dac6658883b2474ae8326ef1fbd635b977fcc32acf3bdb72fa4e0313a479",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033578257388290062#m",
+      "date": "Mon, 16 Mar 2026 16:16:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDi4pZBbMAATu7y.jpg"
+      ]
+    },
+    {
+      "id": "682eb8f74eb12ac187079cd725037df6d29fee3b69a65e3e5bd4fdbaf55a09f8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2033541748618662169#m",
+      "date": "Mon, 16 Mar 2026 13:51:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDiXcNdaEAEMhY_.jpg"
+      ]
+    },
+    {
+      "id": "b66ede164c2182894f053079771cd8e8c192f99f5c7e070563f9b99a27f73dee",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2033459651115688211#m",
+      "date": "Mon, 16 Mar 2026 08:25:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDhMxhgboAAxRhp.jpg"
       ]
     }
   ]
