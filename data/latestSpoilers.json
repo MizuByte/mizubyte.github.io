@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T23:47:32.913Z",
+  "generatedAt": "2026-03-17T00:02:40.310Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,21 +65,6 @@
       ]
     },
     {
-      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
-      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
-      ]
-    },
-    {
       "id": "19c35e2ebb782b7dedc80297e963b0bad4091306dfe3156ff75b920ebe72d543",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -105,6 +90,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDjIueubYAAzp9V.jpg",
+        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
+      ]
+    },
+    {
+      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
+      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
         "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
       ]
     },
@@ -336,21 +336,6 @@
       ]
     },
     {
-      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
-      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
-      ]
-    },
-    {
       "id": "19c35e2ebb782b7dedc80297e963b0bad4091306dfe3156ff75b920ebe72d543",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -376,6 +361,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDjIueubYAAzp9V.jpg",
+        "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
+      ]
+    },
+    {
+      "id": "886213818140efe807c50b4077315ba01775a0e325c26f2e244805a3a708ba8c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1177 FINALLY IT IS HAPPENING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2033595534443688195#m",
+      "date": "Mon, 16 Mar 2026 17:25:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
         "https://nitter.net/pic/media%2FHDjIOlQWAAAuOjO.jpg"
       ]
     },
