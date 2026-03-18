@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-03-18T17:47:35.757Z",
+  "generatedAt": "2026-03-18T18:39:44.940Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
+      ]
+    },
     {
       "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
       "anime": "onepiece",
@@ -30,84 +45,95 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDUbByVWQAAK3wa.jpg"
-      ]
-    },
-    {
-      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
-      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
       ]
     }
   ],
   "misc": [
     {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "id": "0af2fe0f06c6f51565827bbd9dccf3e30cb7830cd31cd2ba987ce3e11ae62f28",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Zoro uses a new attack called “Santōryū: Akaoni Okomega” (Three Swords Style: Red Ogre Raging) that is similar to “Rengoku Oni Giri” attack he used against King. Source: Redon",
+      "text": "#ONEPIECE1177 Zoro uses a new attack called “Santōryū: Akaoni Okomega” (Three Swords Style: Red Ogre Raging) that is similar to “Rengoku Oni Giri” attack he used against King. Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2034338170435772830#m",
+      "date": "Wed, 18 Mar 2026 18:36:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "50cb8d368837d6684a29677876fb6f05aad33b39d3e48ed90116a9b6cd9d1b98",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Sanji mocks Kilingham and the so called knights for being this weak, he is little disappointed how weak Kilingham was, Franky tells they are a Yonkou crew and much more powerful.. Sanji ",
+      "text": "#ONEPIECE1177 Sanji mocks Kilingham and the so called knights for being this weak, he is little disappointed how weak Kilingham was, Franky tells they are a Yonkou crew and much more powerful.. Sanji Ws can't stop!!🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2034337303238201628#m",
+      "date": "Wed, 18 Mar 2026 18:33:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "292b1a8bbef92c8c67321f0ad0b1d9b5794f9309ea6da47e2f8d0c729a062d77",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Kohei Tanaka, who has composed songs for One Piece, talked about “Binks' Sake.” “Lyrics arrived from Oda saying: ‘I want to use this right away, so please compose it as soon as possible.’ I finished t",
+      "text": "Kohei Tanaka, who has composed songs for One Piece, talked about “Binks' Sake.” “Lyrics arrived from Oda saying: ‘I want to use this right away, so please compose it as soon as possible.’ I finished the composition in just 2 days, but it wasn’t used until 2 years later.🥺",
+      "url": "https://nitter.net/sandman_AP/status/2034220623627747358#m",
+      "date": "Wed, 18 Mar 2026 10:49:25 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+        "https://nitter.net/pic/media%2FHDsA4IybMAA2m0v.jpg"
       ]
     },
     {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "id": "af287d136d06f28ae1c0ca9e10f638cb856460896d90126c4c154fa05a5b789e",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "【Key Visual】 Grand Blue Season 3 Scheduled for July 2026! ✨More: grandblue-anime.com/",
+      "text": "【Key Visual】 Grand Blue Season 3 Scheduled for July 2026! ✨More: grandblue-anime.com/",
+      "url": "https://nitter.net/animetv_jp/status/2034238685202325990#m",
+      "date": "Wed, 18 Mar 2026 12:01:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+        "https://nitter.net/pic/media%2FHDsRTaNW8AAq4M8.jpg"
       ]
     },
     {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "id": "40881f1dc077cba04e1f01fef6e61d1be3eb17284d105b69569cfbd69d3a1802",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The final episode of【OSHI NO KO】Season 3 is scheduled for March 25 and will be a special 1-hour episode. ✨More: ichigoproduction.com",
+      "text": "The final episode of【OSHI NO KO】Season 3 is scheduled for March 25 and will be a special 1-hour episode. ✨More: ichigoproduction.com",
+      "url": "https://nitter.net/animetv_jp/status/2034301746755862746#m",
+      "date": "Wed, 18 Mar 2026 16:11:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+        "https://nitter.net/pic/media%2FHDtKp5GXwAAUnZf.jpg"
       ]
     },
     {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "id": "7877f5031b8eaac1a8a9d448045c31216da6eb808176fd5e79c1ac60f0098a86",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
+      "text": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
+      "url": "https://nitter.net/WorstGenHQ/status/2034247065065181338#m",
+      "date": "Wed, 18 Mar 2026 12:34:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+        "https://nitter.net/pic/media%2FHDsY61-bsAEGi_V.jpg",
+        "https://nitter.net/pic/media%2FHDsY61eWoAAufEL.jpg"
       ]
     },
     {
@@ -184,9 +210,87 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
       ]
+    },
+    {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
+      ]
+    },
     {
       "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
       "anime": "onepiece",
@@ -218,79 +322,90 @@
       ]
     },
     {
-      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
-      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
-      ]
+      "id": "0af2fe0f06c6f51565827bbd9dccf3e30cb7830cd31cd2ba987ce3e11ae62f28",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Zoro uses a new attack called “Santōryū: Akaoni Okomega” (Three Swords Style: Red Ogre Raging) that is similar to “Rengoku Oni Giri” attack he used against King. Source: Redon",
+      "text": "#ONEPIECE1177 Zoro uses a new attack called “Santōryū: Akaoni Okomega” (Three Swords Style: Red Ogre Raging) that is similar to “Rengoku Oni Giri” attack he used against King. Source: Redon",
+      "url": "https://nitter.net/WorstGenHQ/status/2034338170435772830#m",
+      "date": "Wed, 18 Mar 2026 18:36:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "id": "50cb8d368837d6684a29677876fb6f05aad33b39d3e48ed90116a9b6cd9d1b98",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Sanji mocks Kilingham and the so called knights for being this weak, he is little disappointed how weak Kilingham was, Franky tells they are a Yonkou crew and much more powerful.. Sanji ",
+      "text": "#ONEPIECE1177 Sanji mocks Kilingham and the so called knights for being this weak, he is little disappointed how weak Kilingham was, Franky tells they are a Yonkou crew and much more powerful.. Sanji Ws can't stop!!🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2034337303238201628#m",
+      "date": "Wed, 18 Mar 2026 18:33:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "292b1a8bbef92c8c67321f0ad0b1d9b5794f9309ea6da47e2f8d0c729a062d77",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Kohei Tanaka, who has composed songs for One Piece, talked about “Binks' Sake.” “Lyrics arrived from Oda saying: ‘I want to use this right away, so please compose it as soon as possible.’ I finished t",
+      "text": "Kohei Tanaka, who has composed songs for One Piece, talked about “Binks' Sake.” “Lyrics arrived from Oda saying: ‘I want to use this right away, so please compose it as soon as possible.’ I finished the composition in just 2 days, but it wasn’t used until 2 years later.🥺",
+      "url": "https://nitter.net/sandman_AP/status/2034220623627747358#m",
+      "date": "Wed, 18 Mar 2026 10:49:25 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+        "https://nitter.net/pic/media%2FHDsA4IybMAA2m0v.jpg"
       ]
     },
     {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "id": "af287d136d06f28ae1c0ca9e10f638cb856460896d90126c4c154fa05a5b789e",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "【Key Visual】 Grand Blue Season 3 Scheduled for July 2026! ✨More: grandblue-anime.com/",
+      "text": "【Key Visual】 Grand Blue Season 3 Scheduled for July 2026! ✨More: grandblue-anime.com/",
+      "url": "https://nitter.net/animetv_jp/status/2034238685202325990#m",
+      "date": "Wed, 18 Mar 2026 12:01:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+        "https://nitter.net/pic/media%2FHDsRTaNW8AAq4M8.jpg"
       ]
     },
     {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "id": "40881f1dc077cba04e1f01fef6e61d1be3eb17284d105b69569cfbd69d3a1802",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The final episode of【OSHI NO KO】Season 3 is scheduled for March 25 and will be a special 1-hour episode. ✨More: ichigoproduction.com",
+      "text": "The final episode of【OSHI NO KO】Season 3 is scheduled for March 25 and will be a special 1-hour episode. ✨More: ichigoproduction.com",
+      "url": "https://nitter.net/animetv_jp/status/2034301746755862746#m",
+      "date": "Wed, 18 Mar 2026 16:11:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+        "https://nitter.net/pic/media%2FHDtKp5GXwAAUnZf.jpg"
       ]
     },
     {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "id": "7877f5031b8eaac1a8a9d448045c31216da6eb808176fd5e79c1ac60f0098a86",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
+      "text": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
+      "url": "https://nitter.net/WorstGenHQ/status/2034247065065181338#m",
+      "date": "Wed, 18 Mar 2026 12:34:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+        "https://nitter.net/pic/media%2FHDsY61-bsAEGi_V.jpg",
+        "https://nitter.net/pic/media%2FHDsY61eWoAAufEL.jpg"
       ]
     },
     {
@@ -366,6 +481,69 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
+      ]
+    },
+    {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
       ]
     }
   ]
