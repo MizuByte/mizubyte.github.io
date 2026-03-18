@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-03-18T18:39:44.940Z",
+  "generatedAt": "2026-03-18T19:38:03.145Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
-      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
-      ]
-    },
     {
       "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
       "anime": "onepiece",
@@ -33,23 +18,116 @@
       ]
     },
     {
-      "id": "e1ee7ed0d9cdf9933fb6ff8dab4d7270e5ce59ddbd22f700ae8f82056fd98366",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the vario",
-      "text": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the various islands. It's those little things that matter most to me. So I hope you read it casually. I always tell people that Manga isn't a big deal. It's a way to kill time. I want to be the king of wasting time, so I hope people just read and watch it casually.",
-      "url": "https://nitter.net/pewpiece/status/2032560532641792465#m",
-      "date": "Fri, 13 Mar 2026 20:52:48 GMT",
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDUbByVWQAAK3wa.jpg"
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
       ]
     }
   ],
   "misc": [
     {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
+      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    },
+    {
+      "id": "17b10a96b109ca592ccf4918d2ab8f98012d1e086b43d44d25b9e987e6c95cc8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for ",
+      "text": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for you all..",
+      "url": "https://nitter.net/WorstGenHQ/status/2034346668775055727#m",
+      "date": "Wed, 18 Mar 2026 19:10:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtzgrHW8AALKmq.jpg"
+      ]
+    },
+    {
       "id": "0af2fe0f06c6f51565827bbd9dccf3e30cb7830cd31cd2ba987ce3e11ae62f28",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -118,22 +196,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDtKp5GXwAAUnZf.jpg"
-      ]
-    },
-    {
-      "id": "7877f5031b8eaac1a8a9d448045c31216da6eb808176fd5e79c1ac60f0098a86",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
-      "text": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
-      "url": "https://nitter.net/WorstGenHQ/status/2034247065065181338#m",
-      "date": "Wed, 18 Mar 2026 12:34:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDsY61-bsAEGi_V.jpg",
-        "https://nitter.net/pic/media%2FHDsY61eWoAAufEL.jpg"
       ]
     },
     {
@@ -210,87 +272,9 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
       ]
-    },
-    {
-      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
-      ]
     }
   ],
   "items": [
-    {
-      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
-      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
-      ]
-    },
     {
       "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
       "anime": "onepiece",
@@ -307,18 +291,111 @@
       ]
     },
     {
-      "id": "e1ee7ed0d9cdf9933fb6ff8dab4d7270e5ce59ddbd22f700ae8f82056fd98366",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the vario",
-      "text": "Oda about One Piece: One Piece may be a humongous story, but I love for people to enjoy the casual banter on the ship between the Straw Hats. Or the relationship with the people they meet on the various islands. It's those little things that matter most to me. So I hope you read it casually. I always tell people that Manga isn't a big deal. It's a way to kill time. I want to be the king of wasting time, so I hope people just read and watch it casually.",
-      "url": "https://nitter.net/pewpiece/status/2032560532641792465#m",
-      "date": "Fri, 13 Mar 2026 20:52:48 GMT",
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDUbByVWQAAK3wa.jpg"
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
+      ]
+    },
+    {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
+      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    },
+    {
+      "id": "17b10a96b109ca592ccf4918d2ab8f98012d1e086b43d44d25b9e987e6c95cc8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for ",
+      "text": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for you all..",
+      "url": "https://nitter.net/WorstGenHQ/status/2034346668775055727#m",
+      "date": "Wed, 18 Mar 2026 19:10:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtzgrHW8AALKmq.jpg"
       ]
     },
     {
@@ -390,22 +467,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDtKp5GXwAAUnZf.jpg"
-      ]
-    },
-    {
-      "id": "7877f5031b8eaac1a8a9d448045c31216da6eb808176fd5e79c1ac60f0098a86",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
-      "text": "#ONEPIECE1177 Luffy scolds Loki because he got in trouble with Nami because of him. Loki gets angry and attacks Luffy with Lightning. But it has no effect on Luffy, leaving Loki shocked.",
-      "url": "https://nitter.net/WorstGenHQ/status/2034247065065181338#m",
-      "date": "Wed, 18 Mar 2026 12:34:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDsY61-bsAEGi_V.jpg",
-        "https://nitter.net/pic/media%2FHDsY61eWoAAufEL.jpg"
       ]
     },
     {
@@ -481,69 +542,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHCvr-sGXYAAxQq-.jpg"
-      ]
-    },
-    {
-      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
       ]
     }
   ]
