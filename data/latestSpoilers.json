@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-03-18T23:27:14.128Z",
+  "generatedAt": "2026-03-19T00:00:54.281Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
-      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
-      ]
-    },
     {
       "id": "8ad44011bfbc589b2a22e7b70a9ed25a1867e54f21fe3e9a8cba506b4ee71ee5",
       "anime": "onepiece",
@@ -48,89 +33,26 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
+      ]
+    },
+    {
+      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
       ]
     }
   ],
   "misc": [
     {
-      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
-      ]
-    },
-    {
       "id": "17b10a96b109ca592ccf4918d2ab8f98012d1e086b43d44d25b9e987e6c95cc8",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -275,24 +197,87 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
       ]
-    }
-  ],
-  "items": [
+    },
     {
-      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
       "anime": "onepiece",
       "handle": "pewpiece",
       "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
-      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
-      "isSpoiler": true,
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
       ]
     },
+    {
+      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
+      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+      ]
+    }
+  ],
+  "items": [
     {
       "id": "8ad44011bfbc589b2a22e7b70a9ed25a1867e54f21fe3e9a8cba506b4ee71ee5",
       "anime": "onepiece",
@@ -327,81 +312,18 @@
       ]
     },
     {
-      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
       "anime": "onepiece",
       "handle": "pewpiece",
       "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
+      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
-      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
-      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
-      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
-        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
       ]
     },
     {
@@ -548,6 +470,84 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
+      ]
+    },
+    {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
+      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
       ]
     }
   ]
