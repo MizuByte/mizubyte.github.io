@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-19T06:52:23.178Z",
+  "generatedAt": "2026-03-19T07:43:46.282Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
       "id": "853afb90b5d010c2a554383ad0b94a7985c2b48427121391d1bc405b7eaaf6db",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "Eiichiro Oda will draw a special illustration for Weekly Shonen Jump Issue #17, celebrating Tony Tony Chopper from ONE PIECE being appointed as an “Official Supporter” of the Doctors Without Borders o",
       "text": "Eiichiro Oda will draw a special illustration for Weekly Shonen Jump Issue #17, celebrating Tony Tony Chopper from ONE PIECE being appointed as an “Official Supporter” of the Doctors Without Borders organization.",
       "url": "https://nitter.net/pewpiece/status/2034520792910725168#m",
@@ -16,21 +16,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDwReuqXYAAy5mV.png",
         "https://nitter.net/pic/media%2FHDwR4E9WIAA5ODg.jpg"
-      ]
-    },
-    {
-      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
-      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
       ]
     },
     {
@@ -47,24 +32,6 @@
       "attachments": []
     },
     {
-      "id": "8ad44011bfbc589b2a22e7b70a9ed25a1867e54f21fe3e9a8cba506b4ee71ee5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Sanji might possibly be talking about what Gaban was speaking to him offscreen about.. Either Oda retconned how to beat HK’s or Sanji used conquerors haki offscreen which the crew is una",
-      "text": "#ONEPIECE1177 Sanji might possibly be talking about what Gaban was speaking to him offscreen about.. Either Oda retconned how to beat HK’s or Sanji used conquerors haki offscreen which the crew is unaware of, leading to them concluding that separating his body parts will hinder regeneration. Just to preface, CONNECTION was NEVER the qualifying factor for regeneration otherwise Sommers would have picked his arm up and reconnected it since it was right there. would make absolutely zero sense for Sanji to say that he “thinks” theres a way to end them if hes referring to just this simple method, nor would he just use the word “ANYWAY” to divert the topic. Why would he divert the topic? unless he was thinking about something that has no relevance to what Jimbei and Co were talking about? those raws are gonna look so crispy ngl.. Pew (@pewpiece) #ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 ) — https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "url": "https://nitter.net/vinsmxkepiece/status/2034338422324642132#m",
-      "date": "Wed, 18 Mar 2026 18:37:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtsAu3XAAADEUo.jpg",
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
       "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -78,131 +45,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
       ]
+    },
+    {
+      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
+      ]
     }
   ],
   "misc": [
-    {
-      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "2b266915db84539e8301fda4aec9be47397fb9d2af673673ee252372f9dda75c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you th",
-      "text": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you the fact that Sanji neg diffed Top 2 Holy Knight Kilingham by a certain fandom.🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2034515593743765829#m",
-      "date": "Thu, 19 Mar 2026 06:21:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDwNJplXAAAyOoT.jpg"
-      ]
-    },
-    {
-      "id": "7b6981ad592e0080645cf57d0685e93fa5cbb5ad2faf230e8eca9a04b4ad0530",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
-      "text": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2034507805042835650#m",
-      "date": "Thu, 19 Mar 2026 05:50:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDwGDNMXYAEJhd2.jpg"
-      ]
-    },
-    {
-      "id": "838b284da0ca5a3831cf34cd6deae3256998ea7bb5707aa5e7592d857aec2b27",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Ragnir and Luffy already are a great team🤣🤣",
-      "text": "#ONEPIECE1177 Ragnir and Luffy already are a great team🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2034505208730984471#m",
-      "date": "Thu, 19 Mar 2026 05:40:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDwDtJ5bUAAJ49K.jpg"
-      ]
-    },
-    {
-      "id": "17b10a96b109ca592ccf4918d2ab8f98012d1e086b43d44d25b9e987e6c95cc8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for ",
-      "text": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for you all..",
-      "url": "https://nitter.net/WorstGenHQ/status/2034346668775055727#m",
-      "date": "Wed, 18 Mar 2026 19:10:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtzgrHW8AALKmq.jpg"
-      ]
-    },
     {
       "id": "d686ec0fa9785713577b708e4a17951ce80d451ad484d23611668050fcf502a0",
       "anime": "onepiece",
@@ -284,18 +144,81 @@
       ]
     },
     {
-      "id": "7e6c1b3d20ba1be3eadb495c4aeb5a04b5ab02f347d6ea32723e8bc58f4fdaa8",
+      "id": "8015aa45f655d53b1c2aab9d63ad8c05f821a888ec4076f361ff1e7da90b95fe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "／ ジョジョの奇妙な冒険 Part9 『The JOJOLands』最新第8巻 本日3/19(金)発売ッ！！ ＼ 🔥その他ジョジョトピック🔥 3/19(金) ・ウルトラジャンプ4月号（最新34話掲載）発売 ・JOJO's Bizarre Quizzes 555 ジョジョの奇妙な問題集2 発売 ・アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』配信開始 3/23(月) JOJO maga",
-      "text": "／ ジョジョの奇妙な冒険 Part9 『The JOJOLands』最新第8巻 本日3/19(金)発売ッ！！ ＼ 🔥その他ジョジョトピック🔥 3/19(金) ・ウルトラジャンプ4月号（最新34話掲載）発売 ・JOJO's Bizarre Quizzes 555 ジョジョの奇妙な問題集2 発売 ・アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』配信開始 3/23(月) JOJO magazine 2026 SPRING 発売 ぜひ全てチェックしてください✅",
-      "url": "https://nitter.net/araki_jojo/status/2034465639738593332#m",
-      "date": "Thu, 19 Mar 2026 03:03:01 GMT",
+      "title": "「ONE PIECE / Collage」ed. 20 2026年3月22日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Collage” ed.20 Now available through online lottery sale until March 22, 2026. #尾田栄一郎 #ONEPIECE #mangaart #ShueishaMang",
+      "text": "「ONE PIECE / Collage」ed. 20 2026年3月22日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Collage” ed.20 Now available through online lottery sale until March 22, 2026. #尾田栄一郎 #ONEPIECE #mangaart #ShueishaMangaArtHeritage #集英社マンガアートヘリテージトーキョーギャラリー Video",
+      "url": "https://nitter.net/MangaartJ/status/2034489682923598160#m",
+      "date": "Thu, 19 Mar 2026 04:38:34 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDvcTMDbUAARxEk.jpg"
+        "https://nitter.net/pic/media%2FHDv1hIuaUAAzJM2.jpg",
+        "https://nitter.net/pic/media%2FHDv1hIva4AAPTMt.jpg",
+        "https://nitter.net/pic/media%2FHDv1hOnbIAAchAm.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2034489606335553536%2Fimg%2FaWkDDqyQPqxP9_ZC.jpg"
+      ]
+    },
+    {
+      "id": "096b1e739defacc87bf69d0c24521069256017071ed8f9edca12bb867988fb2c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "THE ONLY 4 CHARACTERS TO DEFEAT HOLY KNIGHTS IN ELBAF #ONEPIECE1177",
+      "text": "THE ONLY 4 CHARACTERS TO DEFEAT HOLY KNIGHTS IN ELBAF #ONEPIECE1177",
+      "url": "https://nitter.net/muginokaizoku/status/2034522253895823608#m",
+      "date": "Thu, 19 Mar 2026 06:47:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwTMfBbMAA7wAw.jpg"
+      ]
+    },
+    {
+      "id": "86eafa4a35a885b4fdef3feb4676c7b0f230553d5d9aacddf4ee8f22ea024bd9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 who was fighting killingham last chapter? where is he hurt and bleeding from? never listen to \"them\" and their lies 😮‍💨",
+      "text": "#ONEPIECE1177 who was fighting killingham last chapter? where is he hurt and bleeding from? never listen to \"them\" and their lies 😮‍💨",
+      "url": "https://nitter.net/rhmonarch/status/2034522510147072233#m",
+      "date": "Thu, 19 Mar 2026 06:49:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwTcOYbgAAOCRi.jpg"
+      ]
+    },
+    {
+      "id": "2b266915db84539e8301fda4aec9be47397fb9d2af673673ee252372f9dda75c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you th",
+      "text": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you the fact that Sanji neg diffed Top 2 Holy Knight Kilingham by a certain fandom.🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2034515593743765829#m",
+      "date": "Thu, 19 Mar 2026 06:21:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwNJplXAAAyOoT.jpg"
+      ]
+    },
+    {
+      "id": "7b6981ad592e0080645cf57d0685e93fa5cbb5ad2faf230e8eca9a04b4ad0530",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
+      "text": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2034507805042835650#m",
+      "date": "Thu, 19 Mar 2026 05:50:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwGDNMXYAEJhd2.jpg"
       ]
     },
     {
@@ -371,6 +294,84 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
+      ]
+    },
+    {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
+      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
       ]
     }
   ],
@@ -378,8 +379,8 @@
     {
       "id": "853afb90b5d010c2a554383ad0b94a7985c2b48427121391d1bc405b7eaaf6db",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "Eiichiro Oda will draw a special illustration for Weekly Shonen Jump Issue #17, celebrating Tony Tony Chopper from ONE PIECE being appointed as an “Official Supporter” of the Doctors Without Borders o",
       "text": "Eiichiro Oda will draw a special illustration for Weekly Shonen Jump Issue #17, celebrating Tony Tony Chopper from ONE PIECE being appointed as an “Official Supporter” of the Doctors Without Borders organization.",
       "url": "https://nitter.net/pewpiece/status/2034520792910725168#m",
@@ -389,21 +390,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDwReuqXYAAy5mV.png",
         "https://nitter.net/pic/media%2FHDwR4E9WIAA5ODg.jpg"
-      ]
-    },
-    {
-      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
-      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
-      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
       ]
     },
     {
@@ -418,24 +404,6 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "8ad44011bfbc589b2a22e7b70a9ed25a1867e54f21fe3e9a8cba506b4ee71ee5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Sanji might possibly be talking about what Gaban was speaking to him offscreen about.. Either Oda retconned how to beat HK’s or Sanji used conquerors haki offscreen which the crew is una",
-      "text": "#ONEPIECE1177 Sanji might possibly be talking about what Gaban was speaking to him offscreen about.. Either Oda retconned how to beat HK’s or Sanji used conquerors haki offscreen which the crew is unaware of, leading to them concluding that separating his body parts will hinder regeneration. Just to preface, CONNECTION was NEVER the qualifying factor for regeneration otherwise Sommers would have picked his arm up and reconnected it since it was right there. would make absolutely zero sense for Sanji to say that he “thinks” theres a way to end them if hes referring to just this simple method, nor would he just use the word “ANYWAY” to divert the topic. Why would he divert the topic? unless he was thinking about something that has no relevance to what Jimbei and Co were talking about? those raws are gonna look so crispy ngl.. Pew (@pewpiece) #ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 ) — https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "url": "https://nitter.net/vinsmxkepiece/status/2034338422324642132#m",
-      "date": "Wed, 18 Mar 2026 18:37:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtsAu3XAAADEUo.jpg",
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
     },
     {
       "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
@@ -453,125 +421,18 @@
       ]
     },
     {
-      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "id": "9991cc7d2724f0bc0a55035cad854413debf6cb1e2eaf9e835fd2d1567791478",
       "anime": "onepiece",
       "handle": "pewpiece",
       "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
-      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
+      "title": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "text": "#ONEPIECE1177 Brief spoilers for onepiece chapter 1177 by me",
+      "url": "https://nitter.net/pewpiece/status/2033945698081636460#m",
+      "date": "Tue, 17 Mar 2026 16:36:57 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
-        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
-        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
-      ]
-    },
-    {
-      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
-      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
-      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
-      ]
-    },
-    {
-      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
-      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
-      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
-      ]
-    },
-    {
-      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
-      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
-      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
-      ]
-    },
-    {
-      "id": "2b266915db84539e8301fda4aec9be47397fb9d2af673673ee252372f9dda75c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you th",
-      "text": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you the fact that Sanji neg diffed Top 2 Holy Knight Kilingham by a certain fandom.🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2034515593743765829#m",
-      "date": "Thu, 19 Mar 2026 06:21:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDwNJplXAAAyOoT.jpg"
-      ]
-    },
-    {
-      "id": "7b6981ad592e0080645cf57d0685e93fa5cbb5ad2faf230e8eca9a04b4ad0530",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
-      "text": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2034507805042835650#m",
-      "date": "Thu, 19 Mar 2026 05:50:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDwGDNMXYAEJhd2.jpg"
-      ]
-    },
-    {
-      "id": "838b284da0ca5a3831cf34cd6deae3256998ea7bb5707aa5e7592d857aec2b27",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Ragnir and Luffy already are a great team🤣🤣",
-      "text": "#ONEPIECE1177 Ragnir and Luffy already are a great team🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2034505208730984471#m",
-      "date": "Thu, 19 Mar 2026 05:40:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDwDtJ5bUAAJ49K.jpg"
-      ]
-    },
-    {
-      "id": "17b10a96b109ca592ccf4918d2ab8f98012d1e086b43d44d25b9e987e6c95cc8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for ",
-      "text": "#ONEPIECE1177 I can´t stop enjoying Sanji ainsce Wano. Dude receive so much love by Oda since it, just amazing. Just imagine CoC Sanji... But also props to Jinbe and Franky, that is a Yonkou crew for you all..",
-      "url": "https://nitter.net/WorstGenHQ/status/2034346668775055727#m",
-      "date": "Wed, 18 Mar 2026 19:10:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDtzgrHW8AALKmq.jpg"
+        "https://nitter.net/pic/media%2FHDoGxRqbwAAD_hU.jpg"
       ]
     },
     {
@@ -655,18 +516,81 @@
       ]
     },
     {
-      "id": "7e6c1b3d20ba1be3eadb495c4aeb5a04b5ab02f347d6ea32723e8bc58f4fdaa8",
+      "id": "8015aa45f655d53b1c2aab9d63ad8c05f821a888ec4076f361ff1e7da90b95fe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "／ ジョジョの奇妙な冒険 Part9 『The JOJOLands』最新第8巻 本日3/19(金)発売ッ！！ ＼ 🔥その他ジョジョトピック🔥 3/19(金) ・ウルトラジャンプ4月号（最新34話掲載）発売 ・JOJO's Bizarre Quizzes 555 ジョジョの奇妙な問題集2 発売 ・アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』配信開始 3/23(月) JOJO maga",
-      "text": "／ ジョジョの奇妙な冒険 Part9 『The JOJOLands』最新第8巻 本日3/19(金)発売ッ！！ ＼ 🔥その他ジョジョトピック🔥 3/19(金) ・ウルトラジャンプ4月号（最新34話掲載）発売 ・JOJO's Bizarre Quizzes 555 ジョジョの奇妙な問題集2 発売 ・アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』配信開始 3/23(月) JOJO magazine 2026 SPRING 発売 ぜひ全てチェックしてください✅",
-      "url": "https://nitter.net/araki_jojo/status/2034465639738593332#m",
-      "date": "Thu, 19 Mar 2026 03:03:01 GMT",
+      "title": "「ONE PIECE / Collage」ed. 20 2026年3月22日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Collage” ed.20 Now available through online lottery sale until March 22, 2026. #尾田栄一郎 #ONEPIECE #mangaart #ShueishaMang",
+      "text": "「ONE PIECE / Collage」ed. 20 2026年3月22日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Collage” ed.20 Now available through online lottery sale until March 22, 2026. #尾田栄一郎 #ONEPIECE #mangaart #ShueishaMangaArtHeritage #集英社マンガアートヘリテージトーキョーギャラリー Video",
+      "url": "https://nitter.net/MangaartJ/status/2034489682923598160#m",
+      "date": "Thu, 19 Mar 2026 04:38:34 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDvcTMDbUAARxEk.jpg"
+        "https://nitter.net/pic/media%2FHDv1hIuaUAAzJM2.jpg",
+        "https://nitter.net/pic/media%2FHDv1hIva4AAPTMt.jpg",
+        "https://nitter.net/pic/media%2FHDv1hOnbIAAchAm.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2034489606335553536%2Fimg%2FaWkDDqyQPqxP9_ZC.jpg"
+      ]
+    },
+    {
+      "id": "096b1e739defacc87bf69d0c24521069256017071ed8f9edca12bb867988fb2c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "THE ONLY 4 CHARACTERS TO DEFEAT HOLY KNIGHTS IN ELBAF #ONEPIECE1177",
+      "text": "THE ONLY 4 CHARACTERS TO DEFEAT HOLY KNIGHTS IN ELBAF #ONEPIECE1177",
+      "url": "https://nitter.net/muginokaizoku/status/2034522253895823608#m",
+      "date": "Thu, 19 Mar 2026 06:47:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwTMfBbMAA7wAw.jpg"
+      ]
+    },
+    {
+      "id": "86eafa4a35a885b4fdef3feb4676c7b0f230553d5d9aacddf4ee8f22ea024bd9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 who was fighting killingham last chapter? where is he hurt and bleeding from? never listen to \"them\" and their lies 😮‍💨",
+      "text": "#ONEPIECE1177 who was fighting killingham last chapter? where is he hurt and bleeding from? never listen to \"them\" and their lies 😮‍💨",
+      "url": "https://nitter.net/rhmonarch/status/2034522510147072233#m",
+      "date": "Thu, 19 Mar 2026 06:49:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwTcOYbgAAOCRi.jpg"
+      ]
+    },
+    {
+      "id": "2b266915db84539e8301fda4aec9be47397fb9d2af673673ee252372f9dda75c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you th",
+      "text": "#ONEPIECE1177 Wrong info about Sanji and Jinbe but the result is the same, Sanji asskicked(he started the attack last chapter)Kilingham and call him a small fry this chapter. Don't let gaslight you the fact that Sanji neg diffed Top 2 Holy Knight Kilingham by a certain fandom.🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2034515593743765829#m",
+      "date": "Thu, 19 Mar 2026 06:21:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwNJplXAAAyOoT.jpg"
+      ]
+    },
+    {
+      "id": "7b6981ad592e0080645cf57d0685e93fa5cbb5ad2faf230e8eca9a04b4ad0530",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
+      "text": "#ONEPIECE1177 Loki and Luffy vs Imu next chapter will feed generations 😭🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2034507805042835650#m",
+      "date": "Thu, 19 Mar 2026 05:50:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDwGDNMXYAEJhd2.jpg"
       ]
     },
     {
@@ -742,6 +666,84 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
+      ]
+    },
+    {
+      "id": "7a869a99d5d3d062052aad0231557139a3724cf7f44338d304d59e047bad38c6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "text": "#ONEPIECE1177 More details for onepiece chapter 1177 (From : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2034335740906074313#m",
+      "date": "Wed, 18 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDtpkVRWsAE6_Pa.png",
+        "https://nitter.net/pic/media%2FHDtpkVQXUAAf5Vm.png",
+        "https://nitter.net/pic/media%2FHDtpkV0aMAAqyjF.png"
+      ]
+    },
+    {
+      "id": "37a69d6c5cff206e7bb1e1bbb694b57a8a7abc6c02a3c4ec8e542e612211f5cb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "text": "OFFICIAL 🚨 NO BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1177",
+      "url": "https://nitter.net/pewpiece/status/2033925551681913101#m",
+      "date": "Tue, 17 Mar 2026 15:16:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDnzCtPXsAAy8Na.jpg"
+      ]
+    },
+    {
+      "id": "3d42479ebb721c871210f8237d4339719945295a535737e0899b2276bffe84e7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "text": "Charithra Chandran (Vivi in onepiece live action) speaking up for Palestine at the Oscars. Video",
+      "url": "https://nitter.net/pewpiece/status/2033389001965543456#m",
+      "date": "Mon, 16 Mar 2026 03:44:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2033287415448621056%2Fimg%2FiWaiK-OcgZcUSiqO.jpg"
+      ]
+    },
+    {
+      "id": "149018f782bb74730e7d0a3b17aeedf24b6aff0ba0c4cbb475f874b0d4e5bf8d",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "text": "ONEPIECE MANGA BREAK IS OFFICIALLY OVER",
+      "url": "https://nitter.net/pewpiece/status/2033197747784876064#m",
+      "date": "Sun, 15 Mar 2026 15:04:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDdeastXwAAKpz_.png"
+      ]
+    },
+    {
+      "id": "603667380dbc32b42e636b4e65a6d95799f77a40b333679c833be331c148f8aa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as",
+      "text": "Luffy voice actress Mayumi Tanaka after receiving the “Best Supporting VA” award at the 20th Seiyuu Awards for her role as Turbo Granny in Dandadan said: “I don’t think I’ll be able to live as long as Mako-san (Masako Nozawa,Goku Va), but I’ll do my best for another 10 years or so.”",
+      "url": "https://nitter.net/pewpiece/status/2033163877504971078#m",
+      "date": "Sun, 15 Mar 2026 12:50:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDc_h9eWoAAgkNw.jpg",
+        "https://nitter.net/pic/media%2FHDc_wVbXkAAx7wr.jpg"
       ]
     }
   ]
