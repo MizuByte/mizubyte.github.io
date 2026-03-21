@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T00:01:59.849Z",
+  "generatedAt": "2026-03-21T03:05:15.345Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -110,273 +110,87 @@
       "attachments": []
     },
     {
-      "id": "b62dc9e355990578677699d217efc8aafd67946f7a6311581ef080b3cf2d21a4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034361554150302187#m",
-      "date": "Wed, 18 Mar 2026 20:09:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDuBDLZXEAARbYI.jpg"
-      ]
-    },
-    {
-      "id": "ae510b081d13344035991160e377b20e55426c4ceeb4d82ad64fd03bac38bda4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034357775975825415#m",
-      "date": "Wed, 18 Mar 2026 19:54:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
-      "text": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033248576747208918#m",
-      "date": "Sun, 15 Mar 2026 18:26:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDeMzT8bcAA9mN4.jpg"
-      ]
-    },
-    {
-      "id": "1d14e9ec352e6a1b0a6a65c73dc07cfad2b4850a245842f7ae692213caf52dfd",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.ne",
-      "text": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.net/levvv_ew/status/2032258009687011814#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2033119364245782886#m",
-      "date": "Sun, 15 Mar 2026 09:53:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDQH48ubQAErg4X.jpg"
-      ]
-    },
-    {
-      "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "text": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "url": "https://nitter.net/SchmurfiV1/status/2032722066806370688#m",
-      "date": "Sat, 14 Mar 2026 07:34:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
-      ]
-    },
-    {
-      "id": "2c1dc38bd9f23fb274d6639f2fba9f82eafda60daf44ee21e074081871ae19f3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2035083379159265759#m",
-      "date": "Fri, 20 Mar 2026 19:57:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHD4Ri4dWUAAgE4D.jpg"
-      ]
-    },
-    {
-      "id": "824bbf342509724aa92892b79a378f3662f623413e5e52c4b2e3ff407de24713",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2035049932273422800#m",
-      "date": "Fri, 20 Mar 2026 17:44:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHD3zIB4XMAAC02U.jpg"
-      ]
-    },
-    {
-      "id": "3e42017d8cae3cdf7ddd763c7b5ce5adad6b12dd72ca323bc245971301ade5bf",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2034960151757611149#m",
-      "date": "Fri, 20 Mar 2026 11:48:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHD2heIbWkAApkXZ.jpg"
-      ]
-    },
-    {
-      "id": "cbd72d0a7c2b0b051d92c3760ab4abc285f43141d41d11055e449c60d36f1b89",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2034888424419701117#m",
-      "date": "Fri, 20 Mar 2026 07:03:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHD1gPC1WgAAWrJg.jpg"
-      ]
-    },
-    {
-      "id": "a7f81b042e6cc4d983d940f80b0358807b057ec5c370fe8f4ccb1a8678e358de",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2034673860453278169#m",
-      "date": "Thu, 19 Mar 2026 16:50:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDydF6HWcAAB_C-.jpg"
-      ]
-    },
-    {
-      "id": "0e52e566e7c2960eae2b0ef99e089fa4d553b83061cd62e6fcb68d34d7c6daea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2034631626152460624#m",
-      "date": "Thu, 19 Mar 2026 14:02:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDx2rdNW0AEqXNe.jpg"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
-      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
-      ]
-    },
-    {
-      "id": "cd5993c21804bae6e89a9d247a4eda0206594e5f78e2d3caf40ad0e440ccb56e",
+      "id": "7654a274bef29b89ba2ff6e940ff46fd24808a1bd28bbe19f24042e995073484",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1177] “Chopper Healer Of Liberation” Chopper ability is 100% from his devil fruit obviously. By him using the Rumbar Balls, he is able to do forceful awakening & use the true DF ability. See",
-      "text": "[#ONEPIECE1177] “Chopper Healer Of Liberation” Chopper ability is 100% from his devil fruit obviously. By him using the Rumbar Balls, he is able to do forceful awakening & use the true DF ability. See if he was going through a natural awakening, it would involve his mind,haki and devil fruit being one like luffy with sun God. People think by him having this ability, it means he can cure all natural diseases & spiritual curses. But it’s only with his DF, he will just be able to cure spirit curses & liberate them with his Df. Meaning he can still go on & accomplish his dream to cure natural sicknesses in world. Cont on for the parallels I discover!",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2035101894881026470#m",
-      "date": "Fri, 20 Mar 2026 21:11:16 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Un nuevo médico se une a nuestro equipo! 🩺🌸 Estamos muy contentos de que Tony Tony Chopper, el célebre médico de la tripulación del Sombrero de Paja, se convierte en colaborador oficial de Médicos ",
+      "text": "¡Un nuevo médico se une a nuestro equipo! 🩺🌸 Estamos muy contentos de que Tony Tony Chopper, el célebre médico de la tripulación del Sombrero de Paja, se convierte en colaborador oficial de Médicos Sin Fronteras. Créditos: ©Eiichiro Oda / Shueisha ©MSF #MSFxCHOPPER",
+      "url": "https://nitter.net/MSF_Espana/status/2035099624122339798#m",
+      "date": "Fri, 20 Mar 2026 21:02:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD4iYsuWcAEpNjb.jpg"
+        "https://nitter.net/pic/media%2FHD4gNRQWoAAnBnE.jpg"
       ]
     },
     {
-      "id": "103af6154a6f41e7e63fe740cc834a295c89534da3dc5ef5eb9ac1628e2c311b",
+      "id": "ff8e97f47eaa7075ee8babebe53af3573ee7397a4c88b8427fafb0f79d43004d",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "\"Wtf wasn´t the vote count 3Mio+ yesterday, now we have 11mio votes lol, little concerning about that\"... I voted for “MARSHALL D. TEACH (BLACKBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIEC",
-      "text": "\"Wtf wasn´t the vote count 3Mio+ yesterday, now we have 11mio votes lol, little concerning about that\"... I voted for “MARSHALL D. TEACH (BLACKBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/WorstGenHQ/status/2035073883728994701#m",
-      "date": "Fri, 20 Mar 2026 19:19:58 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Empieza un viaje por varios países para un pequeño médico con un gran corazón. 🩺🌸 Hoy, en Tokio, hemos dado oficialmente la bienvenida a Tony Tony Chopper como colaborador de nuestra labor médica hu",
+      "text": "Empieza un viaje por varios países para un pequeño médico con un gran corazón. 🩺🌸 Hoy, en Tokio, hemos dado oficialmente la bienvenida a Tony Tony Chopper como colaborador de nuestra labor médica humanitaria. (1/3) ©Eiichiro Oda/Shueisha ©CHOPPER’s Friends ©MSF #MSFxCHOPPER",
+      "url": "https://nitter.net/MSF_Espana/status/2034940804901281858#m",
+      "date": "Fri, 20 Mar 2026 10:31:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2033924741267132417%2F_M0oAqs5%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/media%2FHD2PwusXgAAUhk0.jpg"
       ]
     },
     {
-      "id": "bcfdec2d4df27fda818579bb0d65c02b9ec689d14db2a0b03e9ed75ff81e7c30",
+      "id": "0325b37a964414c465b995d2f7acaba1efd180965a04f455917b949ecd3ae5ae",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🕊️ Chuck Norris has died at 86. tmz.me/N3EVxQe",
-      "text": "🕊️ Chuck Norris has died at 86. tmz.me/N3EVxQe",
-      "url": "https://nitter.net/TMZ/status/2034992045165879785#m",
-      "date": "Fri, 20 Mar 2026 13:54:46 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Por primera vez la policía nacional ejerce de manera correcta su trabajo. Que ningún fascista se vea con impunidad para hacer lo que le venga en gana. España Antifascista. Video",
+      "text": "Por primera vez la policía nacional ejerce de manera correcta su trabajo. Que ningún fascista se vea con impunidad para hacer lo que le venga en gana. España Antifascista. Video",
+      "url": "https://nitter.net/dirtysanchista/status/2034986538795209107#m",
+      "date": "Fri, 20 Mar 2026 13:32:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD2-PcuWEAAK8Jj.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2034971248594223104%2Fimg%2Fho8XRpxx7luu5tAO.jpg"
       ]
     },
     {
-      "id": "251f479a3cbc01f385a3bb250413a6d7b93bc11d8cad5e5706e84f09a91a4f79",
+      "id": "605cd8999b23babd30e2d31a105caf949da48da370051dc4c5098d3bbd7f88a8",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "For many weeks now, the #OnePiece chapters have shown us this duality: War God vs Sun God, reptile vs thunder, union vs division and it just keeps going.. - two sides of the same coin ᗡD. - cursed pri",
-      "text": "For many weeks now, the #OnePiece chapters have shown us this duality: War God vs Sun God, reptile vs thunder, union vs division and it just keeps going.. - two sides of the same coin ᗡD. - cursed prince vs cursed princess (\"Gorgon Curse\") - Conqueror vs Celestial Dragon #ONEPIECE1177",
-      "url": "https://nitter.net/ZagrashX/status/2034957549481410833#m",
-      "date": "Fri, 20 Mar 2026 11:37:42 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Juan Roig creador de los supermercados Mercadona acaba de llamar preocupado al agitador fascista Daniel para que borre inmediatamente esta foto de sus redes sociales. Hagamos nuestro trabajo. Que no q",
+      "text": "Juan Roig creador de los supermercados Mercadona acaba de llamar preocupado al agitador fascista Daniel para que borre inmediatamente esta foto de sus redes sociales. Hagamos nuestro trabajo. Que no quede nadie sin ver la fotografía.",
+      "url": "https://nitter.net/dirtysanchista/status/2035002906106053017#m",
+      "date": "Fri, 20 Mar 2026 14:37:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD2fCs9WoAA7xtJ.jpg",
-        "https://nitter.net/pic/media%2FHD2fFxRWQAA5UEh.jpg"
+        "https://nitter.net/pic/media%2FHD3IW28a0AA4Nvu.jpg"
       ]
     },
     {
-      "id": "8245c7a0d8ab54d3975c7f7205239f99e3ad3f57b632de5c0c05f2f7581c68d0",
+      "id": "083396186188e508475d450cf12a99f9911f8639c2a546eb13dd8817597e8e4d",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1177 Wait a minute!! The Holy Knights can't regenerate their bodies while they're separated?? Please, Oda, I beg you, go with the Hidan route. All the mf Holy Knights should be buried forever",
-      "text": "#ONEPIECE1177 Wait a minute!! The Holy Knights can't regenerate their bodies while they're separated?? Please, Oda, I beg you, go with the Hidan route. All the mf Holy Knights should be buried forever in dirt, never to see sunlight...",
-      "url": "https://nitter.net/WorstGenHQ/status/2034902003176935508#m",
-      "date": "Fri, 20 Mar 2026 07:56:58 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "My fave Chuck Norris joke: Chuck doesn't flush the toilet, he scares the shit out of it.",
+      "text": "My fave Chuck Norris joke: Chuck doesn't flush the toilet, he scares the shit out of it.",
+      "url": "https://nitter.net/StephenKing/status/2035013224605569152#m",
+      "date": "Fri, 20 Mar 2026 15:18:56 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHD1sgV7boAEPCWO.jpg",
-        "https://nitter.net/pic/media%2FHD1siL1XwAABUkL.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "063c24d60f4df3521c3709f8506a00292e43ac35ea9df0b4d5866cde46f575a4",
+      "id": "f2a42b62e10d20fc548dd6e7dd5e5be20063538e77ee4050a3d4623651e8946f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece fans are eating good next week. A great Chapter 1178 is coming 🫢, along with new details/footage from the One Piece anime’s Elbaf arc. (+ a special) #ONEPIECE",
-      "text": "One Piece fans are eating good next week. A great Chapter 1178 is coming 🫢, along with new details/footage from the One Piece anime’s Elbaf arc. (+ a special) #ONEPIECE",
-      "url": "https://nitter.net/TheAniTalk/status/2034697741285134397#m",
-      "date": "Thu, 19 Mar 2026 18:25:19 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Second fave: When he was born, Chuck Norris drove his mother home from the hospital.",
+      "text": "Second fave: When he was born, Chuck Norris drove his mother home from the hospital.",
+      "url": "https://nitter.net/StephenKing/status/2035013402976715178#m",
+      "date": "Fri, 20 Mar 2026 15:19:38 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -500,50 +314,318 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHD2heIbWkAApkXZ.jpg"
       ]
+    }
+  ],
+  "items": [
+    {
+      "id": "03e74fbf3e2a60f1ccea5668dc7ab6b04a788111abf06469c58219e64be1663a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "text": "I heard that the new Boruto chapter is gas? Probably the best Boruto TBV chapter for now? Haven’t seen any spoilers yet #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033504632715039152#m",
+      "date": "Mon, 16 Mar 2026 11:24:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDh1r5EX0AADBS8.jpg"
+      ]
     },
     {
-      "id": "cbd72d0a7c2b0b051d92c3760ab4abc285f43141d41d11055e449c60d36f1b89",
+      "id": "cd5993c21804bae6e89a9d247a4eda0206594e5f78e2d3caf40ad0e440ccb56e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1177] “Chopper Healer Of Liberation” Chopper ability is 100% from his devil fruit obviously. By him using the Rumbar Balls, he is able to do forceful awakening & use the true DF ability. See",
+      "text": "[#ONEPIECE1177] “Chopper Healer Of Liberation” Chopper ability is 100% from his devil fruit obviously. By him using the Rumbar Balls, he is able to do forceful awakening & use the true DF ability. See if he was going through a natural awakening, it would involve his mind,haki and devil fruit being one like luffy with sun God. People think by him having this ability, it means he can cure all natural diseases & spiritual curses. But it’s only with his DF, he will just be able to cure spirit curses & liberate them with his Df. Meaning he can still go on & accomplish his dream to cure natural sicknesses in world. Cont on for the parallels I discover!",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2035101894881026470#m",
+      "date": "Fri, 20 Mar 2026 21:11:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD4iYsuWcAEpNjb.jpg"
+      ]
+    },
+    {
+      "id": "103af6154a6f41e7e63fe740cc834a295c89534da3dc5ef5eb9ac1628e2c311b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "\"Wtf wasn´t the vote count 3Mio+ yesterday, now we have 11mio votes lol, little concerning about that\"... I voted for “MARSHALL D. TEACH (BLACKBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIEC",
+      "text": "\"Wtf wasn´t the vote count 3Mio+ yesterday, now we have 11mio votes lol, little concerning about that\"... I voted for “MARSHALL D. TEACH (BLACKBEARD)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/WorstGenHQ/status/2035073883728994701#m",
+      "date": "Fri, 20 Mar 2026 19:19:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2033924741267132417%2F_M0oAqs5%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "bcfdec2d4df27fda818579bb0d65c02b9ec689d14db2a0b03e9ed75ff81e7c30",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🕊️ Chuck Norris has died at 86. tmz.me/N3EVxQe",
+      "text": "🕊️ Chuck Norris has died at 86. tmz.me/N3EVxQe",
+      "url": "https://nitter.net/TMZ/status/2034992045165879785#m",
+      "date": "Fri, 20 Mar 2026 13:54:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD2-PcuWEAAK8Jj.jpg"
+      ]
+    },
+    {
+      "id": "251f479a3cbc01f385a3bb250413a6d7b93bc11d8cad5e5706e84f09a91a4f79",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "For many weeks now, the #OnePiece chapters have shown us this duality: War God vs Sun God, reptile vs thunder, union vs division and it just keeps going.. - two sides of the same coin ᗡD. - cursed pri",
+      "text": "For many weeks now, the #OnePiece chapters have shown us this duality: War God vs Sun God, reptile vs thunder, union vs division and it just keeps going.. - two sides of the same coin ᗡD. - cursed prince vs cursed princess (\"Gorgon Curse\") - Conqueror vs Celestial Dragon #ONEPIECE1177",
+      "url": "https://nitter.net/ZagrashX/status/2034957549481410833#m",
+      "date": "Fri, 20 Mar 2026 11:37:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD2fCs9WoAA7xtJ.jpg",
+        "https://nitter.net/pic/media%2FHD2fFxRWQAA5UEh.jpg"
+      ]
+    },
+    {
+      "id": "8245c7a0d8ab54d3975c7f7205239f99e3ad3f57b632de5c0c05f2f7581c68d0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1177 Wait a minute!! The Holy Knights can't regenerate their bodies while they're separated?? Please, Oda, I beg you, go with the Hidan route. All the mf Holy Knights should be buried forever",
+      "text": "#ONEPIECE1177 Wait a minute!! The Holy Knights can't regenerate their bodies while they're separated?? Please, Oda, I beg you, go with the Hidan route. All the mf Holy Knights should be buried forever in dirt, never to see sunlight...",
+      "url": "https://nitter.net/WorstGenHQ/status/2034902003176935508#m",
+      "date": "Fri, 20 Mar 2026 07:56:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD1sgV7boAEPCWO.jpg",
+        "https://nitter.net/pic/media%2FHD1siL1XwAABUkL.jpg"
+      ]
+    },
+    {
+      "id": "063c24d60f4df3521c3709f8506a00292e43ac35ea9df0b4d5866cde46f575a4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece fans are eating good next week. A great Chapter 1178 is coming 🫢, along with new details/footage from the One Piece anime’s Elbaf arc. (+ a special) #ONEPIECE",
+      "text": "One Piece fans are eating good next week. A great Chapter 1178 is coming 🫢, along with new details/footage from the One Piece anime’s Elbaf arc. (+ a special) #ONEPIECE",
+      "url": "https://nitter.net/TheAniTalk/status/2034697741285134397#m",
+      "date": "Thu, 19 Mar 2026 18:25:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7654a274bef29b89ba2ff6e940ff46fd24808a1bd28bbe19f24042e995073484",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Un nuevo médico se une a nuestro equipo! 🩺🌸 Estamos muy contentos de que Tony Tony Chopper, el célebre médico de la tripulación del Sombrero de Paja, se convierte en colaborador oficial de Médicos ",
+      "text": "¡Un nuevo médico se une a nuestro equipo! 🩺🌸 Estamos muy contentos de que Tony Tony Chopper, el célebre médico de la tripulación del Sombrero de Paja, se convierte en colaborador oficial de Médicos Sin Fronteras. Créditos: ©Eiichiro Oda / Shueisha ©MSF #MSFxCHOPPER",
+      "url": "https://nitter.net/MSF_Espana/status/2035099624122339798#m",
+      "date": "Fri, 20 Mar 2026 21:02:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD4gNRQWoAAnBnE.jpg"
+      ]
+    },
+    {
+      "id": "ff8e97f47eaa7075ee8babebe53af3573ee7397a4c88b8427fafb0f79d43004d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Empieza un viaje por varios países para un pequeño médico con un gran corazón. 🩺🌸 Hoy, en Tokio, hemos dado oficialmente la bienvenida a Tony Tony Chopper como colaborador de nuestra labor médica hu",
+      "text": "Empieza un viaje por varios países para un pequeño médico con un gran corazón. 🩺🌸 Hoy, en Tokio, hemos dado oficialmente la bienvenida a Tony Tony Chopper como colaborador de nuestra labor médica humanitaria. (1/3) ©Eiichiro Oda/Shueisha ©CHOPPER’s Friends ©MSF #MSFxCHOPPER",
+      "url": "https://nitter.net/MSF_Espana/status/2034940804901281858#m",
+      "date": "Fri, 20 Mar 2026 10:31:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD2PwusXgAAUhk0.jpg"
+      ]
+    },
+    {
+      "id": "0325b37a964414c465b995d2f7acaba1efd180965a04f455917b949ecd3ae5ae",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Por primera vez la policía nacional ejerce de manera correcta su trabajo. Que ningún fascista se vea con impunidad para hacer lo que le venga en gana. España Antifascista. Video",
+      "text": "Por primera vez la policía nacional ejerce de manera correcta su trabajo. Que ningún fascista se vea con impunidad para hacer lo que le venga en gana. España Antifascista. Video",
+      "url": "https://nitter.net/dirtysanchista/status/2034986538795209107#m",
+      "date": "Fri, 20 Mar 2026 13:32:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2034971248594223104%2Fimg%2Fho8XRpxx7luu5tAO.jpg"
+      ]
+    },
+    {
+      "id": "605cd8999b23babd30e2d31a105caf949da48da370051dc4c5098d3bbd7f88a8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Juan Roig creador de los supermercados Mercadona acaba de llamar preocupado al agitador fascista Daniel para que borre inmediatamente esta foto de sus redes sociales. Hagamos nuestro trabajo. Que no q",
+      "text": "Juan Roig creador de los supermercados Mercadona acaba de llamar preocupado al agitador fascista Daniel para que borre inmediatamente esta foto de sus redes sociales. Hagamos nuestro trabajo. Que no quede nadie sin ver la fotografía.",
+      "url": "https://nitter.net/dirtysanchista/status/2035002906106053017#m",
+      "date": "Fri, 20 Mar 2026 14:37:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD3IW28a0AA4Nvu.jpg"
+      ]
+    },
+    {
+      "id": "083396186188e508475d450cf12a99f9911f8639c2a546eb13dd8817597e8e4d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "My fave Chuck Norris joke: Chuck doesn't flush the toilet, he scares the shit out of it.",
+      "text": "My fave Chuck Norris joke: Chuck doesn't flush the toilet, he scares the shit out of it.",
+      "url": "https://nitter.net/StephenKing/status/2035013224605569152#m",
+      "date": "Fri, 20 Mar 2026 15:18:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f2a42b62e10d20fc548dd6e7dd5e5be20063538e77ee4050a3d4623651e8946f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Second fave: When he was born, Chuck Norris drove his mother home from the hospital.",
+      "text": "Second fave: When he was born, Chuck Norris drove his mother home from the hospital.",
+      "url": "https://nitter.net/StephenKing/status/2035013402976715178#m",
+      "date": "Fri, 20 Mar 2026 15:19:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b62dc9e355990578677699d217efc8aafd67946f7a6311581ef080b3cf2d21a4",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
+      "text": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
+      "url": "https://nitter.net/SchmurfiV1/status/2034361554150302187#m",
+      "date": "Wed, 18 Mar 2026 20:09:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDuBDLZXEAARbYI.jpg"
+      ]
+    },
+    {
+      "id": "ae510b081d13344035991160e377b20e55426c4ceeb4d82ad64fd03bac38bda4",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
+      "text": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
+      "url": "https://nitter.net/SchmurfiV1/status/2034357775975825415#m",
+      "date": "Wed, 18 Mar 2026 19:54:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+      ]
+    },
+    {
+      "id": "2d1f58d189f2a95c24ed6629e51e16b05d71a69a4168bb9062525dba7a3e3345",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
+      "text": "I heard a big Boruto account got exposed again? What the fuck happened this time? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2033248576747208918#m",
+      "date": "Sun, 15 Mar 2026 18:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDeMzT8bcAA9mN4.jpg"
+      ]
+    },
+    {
+      "id": "1d14e9ec352e6a1b0a6a65c73dc07cfad2b4850a245842f7ae692213caf52dfd",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.ne",
+      "text": "*Boruto fans like the art style of their OWN Manga Non Boruto fans: „Boruto is the Israel of AniManga.“ ? #BORUTO leve (@levvv_ew) sometimes I forget how crazy ikemoto's anatomy is — https://nitter.net/levvv_ew/status/2032258009687011814#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2033119364245782886#m",
+      "date": "Sun, 15 Mar 2026 09:53:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDQH48ubQAErg4X.jpg"
+      ]
+    },
+    {
+      "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
+      "text": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
+      "url": "https://nitter.net/SchmurfiV1/status/2032722066806370688#m",
+      "date": "Sat, 14 Mar 2026 07:34:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
+      ]
+    },
+    {
+      "id": "2c1dc38bd9f23fb274d6639f2fba9f82eafda60daf44ee21e074081871ae19f3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2035083379159265759#m",
+      "date": "Fri, 20 Mar 2026 19:57:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD4Ri4dWUAAgE4D.jpg"
+      ]
+    },
+    {
+      "id": "824bbf342509724aa92892b79a378f3662f623413e5e52c4b2e3ff407de24713",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "",
       "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2034888424419701117#m",
-      "date": "Fri, 20 Mar 2026 07:03:01 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2035049932273422800#m",
+      "date": "Fri, 20 Mar 2026 17:44:47 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD1gPC1WgAAWrJg.jpg"
+        "https://nitter.net/pic/media%2FHD3zIB4XMAAC02U.jpg"
       ]
     },
     {
-      "id": "a7f81b042e6cc4d983d940f80b0358807b057ec5c370fe8f4ccb1a8678e358de",
+      "id": "3e42017d8cae3cdf7ddd763c7b5ce5adad6b12dd72ca323bc245971301ade5bf",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2034673860453278169#m",
-      "date": "Thu, 19 Mar 2026 16:50:25 GMT",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2034960151757611149#m",
+      "date": "Fri, 20 Mar 2026 11:48:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDydF6HWcAAB_C-.jpg"
-      ]
-    },
-    {
-      "id": "0e52e566e7c2960eae2b0ef99e089fa4d553b83061cd62e6fcb68d34d7c6daea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2034631626152460624#m",
-      "date": "Thu, 19 Mar 2026 14:02:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDx2rdNW0AEqXNe.jpg"
+        "https://nitter.net/pic/media%2FHD2heIbWkAApkXZ.jpg"
       ]
     }
   ]
