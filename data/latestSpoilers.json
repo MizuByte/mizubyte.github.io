@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T09:50:35.402Z",
+  "generatedAt": "2026-03-21T10:22:04.301Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "c64a48391b6d3a2b26f20c5e2d289dcb4bfc995c50a8cd414e6b421d69cb8ae5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
+      "text": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2035297657900396870#m",
+      "date": "Sat, 21 Mar 2026 10:09:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD7UbAVWEAAeSn5.jpg"
+      ]
+    },
     {
       "id": "b62dc9e355990578677699d217efc8aafd67946f7a6311581ef080b3cf2d21a4",
       "anime": "boruto",
@@ -77,21 +92,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDQH48ubQAErg4X.jpg"
-      ]
-    },
-    {
-      "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "text": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "url": "https://nitter.net/SchmurfiV1/status/2032722066806370688#m",
-      "date": "Sat, 14 Mar 2026 07:34:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
       ]
     },
     {
@@ -202,6 +202,21 @@
       ]
     },
     {
+      "id": "c64a48391b6d3a2b26f20c5e2d289dcb4bfc995c50a8cd414e6b421d69cb8ae5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
+      "text": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2035297657900396870#m",
+      "date": "Sat, 21 Mar 2026 10:09:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHD7UbAVWEAAeSn5.jpg"
+      ]
+    },
+    {
       "id": "b62dc9e355990578677699d217efc8aafd67946f7a6311581ef080b3cf2d21a4",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -259,21 +274,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDQH48ubQAErg4X.jpg"
-      ]
-    },
-    {
-      "id": "5789be5f07fc395a23eca95f7a18e34c52dd08c04f7a976bd7742f38586f5282",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "text": "Do you remember when you joined X? I do! #MyXAnniversary Actually I don’t remember. But happy birthday to 3 years of Smurfy tweets🥹🥳",
-      "url": "https://nitter.net/SchmurfiV1/status/2032722066806370688#m",
-      "date": "Sat, 14 Mar 2026 07:34:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDWt8bfWYAAfzy_.jpg"
       ]
     },
     {
