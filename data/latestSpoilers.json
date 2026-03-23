@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T21:00:16.428Z",
+  "generatedAt": "2026-03-23T21:42:03.505Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,6 +33,101 @@
   ],
   "misc": [
     {
+      "id": "73167957dfdb2a7d87233a60ba62abe38d091a35ed4e52fed9dcb085d00f50c9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "El ejército israelí pega fotos de Ayuso en los misiles dirigidos a la residencias de ancianos iraníes.",
+      "text": "El ejército israelí pega fotos de Ayuso en los misiles dirigidos a la residencias de ancianos iraníes.",
+      "url": "https://nitter.net/TheObjectivo/status/2036116788505673985#m",
+      "date": "Mon, 23 Mar 2026 16:24:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEG9bL4bYAErKEg.jpg"
+      ]
+    },
+    {
+      "id": "5715dfeb8585cdd66aef28b221a907d2ac8e59ade02f818f6c330463bc52b51a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No vamos contigo ni a la vuelta de la esquina, genocida. A ver si lo entiendes. Furkan Gözükara (@FurkanGozukara) Netanyahu is panicking. He admits on camera that he and Trump are desperately trying t",
+      "text": "No vamos contigo ni a la vuelta de la esquina, genocida. A ver si lo entiendes. Furkan Gözükara (@FurkanGozukara) Netanyahu is panicking. He admits on camera that he and Trump are desperately trying to drag Europe and the rest of the world into their disastrous war. He is begging the international community for help because the US and Israel cannot win this alone. Video — https://nitter.net/FurkanGozukara/status/2035710119460102157#m",
+      "url": "https://nitter.net/oscar_puente_/status/2035735984344645908#m",
+      "date": "Sun, 22 Mar 2026 15:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2035710043941679104%2Fimg%2FsYsdD4vvbC0ROu5s.jpg"
+      ]
+    },
+    {
+      "id": "4369503ee4743dbd74b53874882cd6bd688d177b9dc9915a0a0d8e0eaca07342",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ayumi Hamasaki par Akira Toriyama (pour la cover d'un CD Single en 2009)",
+      "text": "Ayumi Hamasaki par Akira Toriyama (pour la cover d'un CD Single en 2009)",
+      "url": "https://nitter.net/KaiwaiDB/status/2035999590420230644#m",
+      "date": "Mon, 23 Mar 2026 08:38:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFSsi-aUAAJ4Dt.jpg",
+        "https://nitter.net/pic/media%2FHEFS06bX0AAa07f.jpg",
+        "https://nitter.net/pic/media%2FHEFS1WvakAAUPtN.jpg"
+      ]
+    },
+    {
+      "id": "147b1867631fef9e9ab4f29e3c0a7c9e73dd9f2083fc136e6fc38b259f639029",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I have all of JoJolands act 1 on my shelf now!!",
+      "text": "I have all of JoJolands act 1 on my shelf now!!",
+      "url": "https://nitter.net/questionzee/status/2036044352087072804#m",
+      "date": "Mon, 23 Mar 2026 11:36:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEF7jEKbsAAoilz.jpg"
+      ]
+    },
+    {
+      "id": "c5de337882392784531e395a6b4abe405a88674523c57f2abe20a9da84c12240",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pop Base (@PopBase) Twitter turns 20. What is your favorite tweet of all time? — https://nitter.net/PopBase/status/2035208528911061320#m",
+      "text": "Pop Base (@PopBase) Twitter turns 20. What is your favorite tweet of all time? — https://nitter.net/PopBase/status/2035208528911061320#m",
+      "url": "https://nitter.net/JordiCruzPerez/status/2035970068408828021#m",
+      "date": "Mon, 23 Mar 2026 06:41:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEE382yboAAxcIi.jpg",
+        "https://nitter.net/pic/media%2FHD5N-lTbEAAc0qX.jpg"
+      ]
+    },
+    {
+      "id": "aa74e2e660dd0ca003748a9c1ee366e27d1da6294ccd65e8b74eb0315722c5d1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "THEジャンプ、背表紙風で各作品が繋がっている壁が圧巻だった！",
+      "text": "THEジャンプ、背表紙風で各作品が繋がっている壁が圧巻だった！",
+      "url": "https://nitter.net/guernicass4/status/2036087433188819408#m",
+      "date": "Mon, 23 Mar 2026 14:27:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEGiuqCawAAGu_M.jpg",
+        "https://nitter.net/pic/media%2FHEGiuqEbwAAT_8q.jpg",
+        "https://nitter.net/pic/media%2FHEGiuuBbIAAqYkO.jpg"
+      ]
+    },
+    {
       "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -138,6 +233,21 @@
       ]
     },
     {
+      "id": "160594d8d9deebd97eb0e54e44c90c9c48a3562070a2b176256f3d3ec0de225e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2035965678822244590#m",
+      "date": "Mon, 23 Mar 2026 06:23:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEEz_lmacAAYv24.jpg"
+      ]
+    },
+    {
       "id": "5e4b5fe0c75791b2eb52c4d5095eaf9ad43a0d0552d20c42ac7672a58a42814f",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -165,21 +275,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHECZrI3W0AAFUyu.jpg"
-      ]
-    },
-    {
-      "id": "e3f8ddeafb680fb9186c8aa028b70293db8c4c342601ed633528f7af1067e190",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2035778692685697044#m",
-      "date": "Sun, 22 Mar 2026 18:00:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHECJ7iFWIAAum71.jpg"
       ]
     }
   ],
@@ -213,6 +308,101 @@
       ]
     },
     {
+      "id": "73167957dfdb2a7d87233a60ba62abe38d091a35ed4e52fed9dcb085d00f50c9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "El ejército israelí pega fotos de Ayuso en los misiles dirigidos a la residencias de ancianos iraníes.",
+      "text": "El ejército israelí pega fotos de Ayuso en los misiles dirigidos a la residencias de ancianos iraníes.",
+      "url": "https://nitter.net/TheObjectivo/status/2036116788505673985#m",
+      "date": "Mon, 23 Mar 2026 16:24:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEG9bL4bYAErKEg.jpg"
+      ]
+    },
+    {
+      "id": "5715dfeb8585cdd66aef28b221a907d2ac8e59ade02f818f6c330463bc52b51a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No vamos contigo ni a la vuelta de la esquina, genocida. A ver si lo entiendes. Furkan Gözükara (@FurkanGozukara) Netanyahu is panicking. He admits on camera that he and Trump are desperately trying t",
+      "text": "No vamos contigo ni a la vuelta de la esquina, genocida. A ver si lo entiendes. Furkan Gözükara (@FurkanGozukara) Netanyahu is panicking. He admits on camera that he and Trump are desperately trying to drag Europe and the rest of the world into their disastrous war. He is begging the international community for help because the US and Israel cannot win this alone. Video — https://nitter.net/FurkanGozukara/status/2035710119460102157#m",
+      "url": "https://nitter.net/oscar_puente_/status/2035735984344645908#m",
+      "date": "Sun, 22 Mar 2026 15:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2035710043941679104%2Fimg%2FsYsdD4vvbC0ROu5s.jpg"
+      ]
+    },
+    {
+      "id": "4369503ee4743dbd74b53874882cd6bd688d177b9dc9915a0a0d8e0eaca07342",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ayumi Hamasaki par Akira Toriyama (pour la cover d'un CD Single en 2009)",
+      "text": "Ayumi Hamasaki par Akira Toriyama (pour la cover d'un CD Single en 2009)",
+      "url": "https://nitter.net/KaiwaiDB/status/2035999590420230644#m",
+      "date": "Mon, 23 Mar 2026 08:38:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFSsi-aUAAJ4Dt.jpg",
+        "https://nitter.net/pic/media%2FHEFS06bX0AAa07f.jpg",
+        "https://nitter.net/pic/media%2FHEFS1WvakAAUPtN.jpg"
+      ]
+    },
+    {
+      "id": "147b1867631fef9e9ab4f29e3c0a7c9e73dd9f2083fc136e6fc38b259f639029",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I have all of JoJolands act 1 on my shelf now!!",
+      "text": "I have all of JoJolands act 1 on my shelf now!!",
+      "url": "https://nitter.net/questionzee/status/2036044352087072804#m",
+      "date": "Mon, 23 Mar 2026 11:36:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEF7jEKbsAAoilz.jpg"
+      ]
+    },
+    {
+      "id": "c5de337882392784531e395a6b4abe405a88674523c57f2abe20a9da84c12240",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pop Base (@PopBase) Twitter turns 20. What is your favorite tweet of all time? — https://nitter.net/PopBase/status/2035208528911061320#m",
+      "text": "Pop Base (@PopBase) Twitter turns 20. What is your favorite tweet of all time? — https://nitter.net/PopBase/status/2035208528911061320#m",
+      "url": "https://nitter.net/JordiCruzPerez/status/2035970068408828021#m",
+      "date": "Mon, 23 Mar 2026 06:41:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEE382yboAAxcIi.jpg",
+        "https://nitter.net/pic/media%2FHD5N-lTbEAAc0qX.jpg"
+      ]
+    },
+    {
+      "id": "aa74e2e660dd0ca003748a9c1ee366e27d1da6294ccd65e8b74eb0315722c5d1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "THEジャンプ、背表紙風で各作品が繋がっている壁が圧巻だった！",
+      "text": "THEジャンプ、背表紙風で各作品が繋がっている壁が圧巻だった！",
+      "url": "https://nitter.net/guernicass4/status/2036087433188819408#m",
+      "date": "Mon, 23 Mar 2026 14:27:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEGiuqCawAAGu_M.jpg",
+        "https://nitter.net/pic/media%2FHEGiuqEbwAAT_8q.jpg",
+        "https://nitter.net/pic/media%2FHEGiuuBbIAAqYkO.jpg"
+      ]
+    },
+    {
       "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -318,6 +508,21 @@
       ]
     },
     {
+      "id": "160594d8d9deebd97eb0e54e44c90c9c48a3562070a2b176256f3d3ec0de225e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2035965678822244590#m",
+      "date": "Mon, 23 Mar 2026 06:23:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEEz_lmacAAYv24.jpg"
+      ]
+    },
+    {
       "id": "5e4b5fe0c75791b2eb52c4d5095eaf9ad43a0d0552d20c42ac7672a58a42814f",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -345,21 +550,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHECZrI3W0AAFUyu.jpg"
-      ]
-    },
-    {
-      "id": "e3f8ddeafb680fb9186c8aa028b70293db8c4c342601ed633528f7af1067e190",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2035778692685697044#m",
-      "date": "Sun, 22 Mar 2026 18:00:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHECJ7iFWIAAum71.jpg"
       ]
     }
   ]
