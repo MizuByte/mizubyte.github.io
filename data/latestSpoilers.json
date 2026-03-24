@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T11:33:46.119Z",
+  "generatedAt": "2026-03-24T12:35:45.790Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -49,6 +49,88 @@
   ],
   "misc": [
     {
+      "id": "2898d392e7828cd8a3f06fd29ce9ce0adaa7cbc75d5b0edf4789d22033630961",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 \"Gorosei, I'm leaving for a short time\" 🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1178 \"Gorosei, I'm leaving for a short time\" 🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2036417813657657404#m",
+      "date": "Tue, 24 Mar 2026 12:20:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "63995cf8f819b24baffc6bfa4c2e5a895115363fd548316be2dc49e50f931fa6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 WORO!",
+      "text": "#ONEPIECE1178 WORO!",
+      "url": "https://nitter.net/WorstGenHQ/status/2036377228812939622#m",
+      "date": "Tue, 24 Mar 2026 09:39:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8436a2d6a9b99ff9a3957bbbde5118381f3857517437eba53fbc5fea71666749",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Luffy and Loki when DR:",
+      "text": "Luffy and Loki when DR:",
+      "url": "https://nitter.net/WorstGenHQ/status/2036367362794872923#m",
+      "date": "Tue, 24 Mar 2026 08:59:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEKhUu4WcAAZj3J.jpg"
+      ]
+    },
+    {
+      "id": "6b0b499a56ccb82e59b1617c8c471855ac7d2d633e8916bb017eab821cb46e92",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Domi Reversi = ❌️",
+      "text": "#ONEPIECE1178 Domi Reversi = ❌️",
+      "url": "https://nitter.net/WorstGenHQ/status/2036365349352866296#m",
+      "date": "Tue, 24 Mar 2026 08:51:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEKffZLWYAA-PTs.jpg"
+      ]
+    },
+    {
+      "id": "dc3c77302e3677c93232de552233b43c28bc7126dde774071248883649353327",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
+      "text": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
+      "url": "https://nitter.net/WorstGenHQ/status/2036332597177876535#m",
+      "date": "Tue, 24 Mar 2026 06:41:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8c71a32371d71d0fe552717af75d52fbd5ca3f30b2eb22bcb55bd3dcd1a5c361",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Luffy and Loki>Old Gen",
+      "text": "Luffy and Loki>Old Gen",
+      "url": "https://nitter.net/WorstGenHQ/status/2036330441863557445#m",
+      "date": "Tue, 24 Mar 2026 06:33:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "efa33f3af4442ccef2aaa5f441c0d46031f4d8e3d1cb792a782a89aa4700c8ec",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -128,90 +210,6 @@
       ]
     },
     {
-      "id": "63995cf8f819b24baffc6bfa4c2e5a895115363fd548316be2dc49e50f931fa6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 WORO!",
-      "text": "#ONEPIECE1178 WORO!",
-      "url": "https://nitter.net/WorstGenHQ/status/2036377228812939622#m",
-      "date": "Tue, 24 Mar 2026 09:39:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8436a2d6a9b99ff9a3957bbbde5118381f3857517437eba53fbc5fea71666749",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy and Loki when DR:",
-      "text": "Luffy and Loki when DR:",
-      "url": "https://nitter.net/WorstGenHQ/status/2036367362794872923#m",
-      "date": "Tue, 24 Mar 2026 08:59:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKhUu4WcAAZj3J.jpg"
-      ]
-    },
-    {
-      "id": "6b0b499a56ccb82e59b1617c8c471855ac7d2d633e8916bb017eab821cb46e92",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 Domi Reversi = ❌️",
-      "text": "#ONEPIECE1178 Domi Reversi = ❌️",
-      "url": "https://nitter.net/WorstGenHQ/status/2036365349352866296#m",
-      "date": "Tue, 24 Mar 2026 08:51:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKffZLWYAA-PTs.jpg"
-      ]
-    },
-    {
-      "id": "dc3c77302e3677c93232de552233b43c28bc7126dde774071248883649353327",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
-      "text": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
-      "url": "https://nitter.net/WorstGenHQ/status/2036332597177876535#m",
-      "date": "Tue, 24 Mar 2026 06:41:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8c71a32371d71d0fe552717af75d52fbd5ca3f30b2eb22bcb55bd3dcd1a5c361",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy and Loki>Old Gen",
-      "text": "Luffy and Loki>Old Gen",
-      "url": "https://nitter.net/WorstGenHQ/status/2036330441863557445#m",
-      "date": "Tue, 24 Mar 2026 06:33:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c22281eee239829ebedee73f5f2b2c45d2f86ec01dd846ca1cf2eb9a64a6ab28",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 LUFFY AND LOKI!!!! Victory for now!!! 🔥🔥🔥🔥",
-      "text": "#ONEPIECE1178 LUFFY AND LOKI!!!! Victory for now!!! 🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2036329749283283223#m",
-      "date": "Tue, 24 Mar 2026 06:30:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_HPbXIAAWMsz.jpg"
-      ]
-    },
-    {
       "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -269,6 +267,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+      ]
+    },
+    {
+      "id": "3321a53e3a8ca052a4a8dee7fd0c500912de41b3535d2616707ebf6905898f4c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036415744519336176#m",
+      "date": "Tue, 24 Mar 2026 12:12:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHELNUzDaIAIL8OW.jpg"
       ]
     },
     {
@@ -330,21 +343,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHEHQcppXYAABBMr.jpg"
-      ]
-    },
-    {
-      "id": "3be4cacbd76c1b1741d2dbd861078e5e4da729311c5ea7fa042aafba3e131263",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2036003014679425383#m",
-      "date": "Mon, 23 Mar 2026 08:52:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEFV81cbUAAtdzO.jpg"
       ]
     }
   ],
@@ -394,6 +392,88 @@
       ]
     },
     {
+      "id": "2898d392e7828cd8a3f06fd29ce9ce0adaa7cbc75d5b0edf4789d22033630961",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 \"Gorosei, I'm leaving for a short time\" 🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1178 \"Gorosei, I'm leaving for a short time\" 🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2036417813657657404#m",
+      "date": "Tue, 24 Mar 2026 12:20:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "63995cf8f819b24baffc6bfa4c2e5a895115363fd548316be2dc49e50f931fa6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 WORO!",
+      "text": "#ONEPIECE1178 WORO!",
+      "url": "https://nitter.net/WorstGenHQ/status/2036377228812939622#m",
+      "date": "Tue, 24 Mar 2026 09:39:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8436a2d6a9b99ff9a3957bbbde5118381f3857517437eba53fbc5fea71666749",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Luffy and Loki when DR:",
+      "text": "Luffy and Loki when DR:",
+      "url": "https://nitter.net/WorstGenHQ/status/2036367362794872923#m",
+      "date": "Tue, 24 Mar 2026 08:59:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEKhUu4WcAAZj3J.jpg"
+      ]
+    },
+    {
+      "id": "6b0b499a56ccb82e59b1617c8c471855ac7d2d633e8916bb017eab821cb46e92",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Domi Reversi = ❌️",
+      "text": "#ONEPIECE1178 Domi Reversi = ❌️",
+      "url": "https://nitter.net/WorstGenHQ/status/2036365349352866296#m",
+      "date": "Tue, 24 Mar 2026 08:51:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEKffZLWYAA-PTs.jpg"
+      ]
+    },
+    {
+      "id": "dc3c77302e3677c93232de552233b43c28bc7126dde774071248883649353327",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
+      "text": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
+      "url": "https://nitter.net/WorstGenHQ/status/2036332597177876535#m",
+      "date": "Tue, 24 Mar 2026 06:41:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8c71a32371d71d0fe552717af75d52fbd5ca3f30b2eb22bcb55bd3dcd1a5c361",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Luffy and Loki>Old Gen",
+      "text": "Luffy and Loki>Old Gen",
+      "url": "https://nitter.net/WorstGenHQ/status/2036330441863557445#m",
+      "date": "Tue, 24 Mar 2026 06:33:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "efa33f3af4442ccef2aaa5f441c0d46031f4d8e3d1cb792a782a89aa4700c8ec",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -473,90 +553,6 @@
       ]
     },
     {
-      "id": "63995cf8f819b24baffc6bfa4c2e5a895115363fd548316be2dc49e50f931fa6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 WORO!",
-      "text": "#ONEPIECE1178 WORO!",
-      "url": "https://nitter.net/WorstGenHQ/status/2036377228812939622#m",
-      "date": "Tue, 24 Mar 2026 09:39:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8436a2d6a9b99ff9a3957bbbde5118381f3857517437eba53fbc5fea71666749",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy and Loki when DR:",
-      "text": "Luffy and Loki when DR:",
-      "url": "https://nitter.net/WorstGenHQ/status/2036367362794872923#m",
-      "date": "Tue, 24 Mar 2026 08:59:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKhUu4WcAAZj3J.jpg"
-      ]
-    },
-    {
-      "id": "6b0b499a56ccb82e59b1617c8c471855ac7d2d633e8916bb017eab821cb46e92",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 Domi Reversi = ❌️",
-      "text": "#ONEPIECE1178 Domi Reversi = ❌️",
-      "url": "https://nitter.net/WorstGenHQ/status/2036365349352866296#m",
-      "date": "Tue, 24 Mar 2026 08:51:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKffZLWYAA-PTs.jpg"
-      ]
-    },
-    {
-      "id": "dc3c77302e3677c93232de552233b43c28bc7126dde774071248883649353327",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
-      "text": "#ONEPIECE1178 Next weeks are april fools? Oh boy...",
-      "url": "https://nitter.net/WorstGenHQ/status/2036332597177876535#m",
-      "date": "Tue, 24 Mar 2026 06:41:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8c71a32371d71d0fe552717af75d52fbd5ca3f30b2eb22bcb55bd3dcd1a5c361",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy and Loki>Old Gen",
-      "text": "Luffy and Loki>Old Gen",
-      "url": "https://nitter.net/WorstGenHQ/status/2036330441863557445#m",
-      "date": "Tue, 24 Mar 2026 06:33:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c22281eee239829ebedee73f5f2b2c45d2f86ec01dd846ca1cf2eb9a64a6ab28",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1178 LUFFY AND LOKI!!!! Victory for now!!! 🔥🔥🔥🔥",
-      "text": "#ONEPIECE1178 LUFFY AND LOKI!!!! Victory for now!!! 🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2036329749283283223#m",
-      "date": "Tue, 24 Mar 2026 06:30:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_HPbXIAAWMsz.jpg"
-      ]
-    },
-    {
       "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -614,6 +610,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+      ]
+    },
+    {
+      "id": "3321a53e3a8ca052a4a8dee7fd0c500912de41b3535d2616707ebf6905898f4c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036415744519336176#m",
+      "date": "Tue, 24 Mar 2026 12:12:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHELNUzDaIAIL8OW.jpg"
       ]
     },
     {
@@ -675,21 +686,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHEHQcppXYAABBMr.jpg"
-      ]
-    },
-    {
-      "id": "3be4cacbd76c1b1741d2dbd861078e5e4da729311c5ea7fa042aafba3e131263",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2036003014679425383#m",
-      "date": "Mon, 23 Mar 2026 08:52:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEFV81cbUAAtdzO.jpg"
       ]
     }
   ]
