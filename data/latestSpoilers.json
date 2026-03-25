@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T15:39:19.452Z",
+  "generatedAt": "2026-03-25T16:47:09.120Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -212,6 +212,21 @@
       ]
     },
     {
+      "id": "c6bd38cb087eae00b88e6b70384bfb58a48e76158f623ca9c5d2bb06e277fe07",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "El millor #manga també està en català! Aquest juny, no us perdeu aquestes sèries: 🏐 Haikyû!! nº 18/45 🏴‍☠️ One Piece nº 14 🐉 Bola de Drac Z Anime Androides nº 01 🌐 planetacomic.com Video",
+      "text": "El millor #manga també està en català! Aquest juny, no us perdeu aquestes sèries: 🏐 Haikyû!! nº 18/45 🏴‍☠️ One Piece nº 14 🐉 Bola de Drac Z Anime Androides nº 01 🌐 planetacomic.com Video",
+      "url": "https://nitter.net/PlanetadComic/status/2036832014129647990#m",
+      "date": "Wed, 25 Mar 2026 15:46:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2036831870642446336%2Fpu%2Fimg%2FVHJ06HIPOrN9QHto.jpg"
+      ]
+    },
+    {
       "id": "e0462ef30fa0e1b9080f51ab4e5ef4d6ec8c5ae2f8efc70fa4c0206be8422e1a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -251,10 +266,8 @@
       "url": "https://nitter.net/tonarinoyj/status/2036821026546532537#m",
       "date": "Wed, 25 Mar 2026 15:02:29 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2036820756177571840%2Fjb3qZd_a%3Fformat%3Djpg%26name%3D800x419"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "724713447a0e3255e55ab500333db0eba257d28e0274cf03c70af6d6447b16f1",
@@ -287,78 +300,66 @@
       ]
     },
     {
-      "id": "8be7f8dc3829066deee43b5aff13fee9fb06ecad39c822b9ed083925d3fa16d9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Novedades Manga de esta semana, como siempre desde @otakucenter 📚📚📚 Empezamos con @Ivrea que hace unos días nos trajo el Tomo 35 de la grandísima “One Punch-Man” de @NEBU_KURO y @ONE_rakugaki 😍😍\ud83d",
-      "text": "Novedades Manga de esta semana, como siempre desde @otakucenter 📚📚📚 Empezamos con @Ivrea que hace unos días nos trajo el Tomo 35 de la grandísima “One Punch-Man” de @NEBU_KURO y @ONE_rakugaki 😍😍😍😍😍 Espero que el Tomo 36 no tarde mucho en salir 😉😉😉",
-      "url": "https://nitter.net/Mugiwara_23/status/2036792516582793317#m",
-      "date": "Wed, 25 Mar 2026 13:09:12 GMT",
+      "id": "a948a130d68a781be1ad9b3fe1aacccca6c91137ab746637369f5f8911852e7a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2036806305956991387#m",
+      "date": "Wed, 25 Mar 2026 14:04:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEQj_CdXwAAF1hE.jpg"
+        "https://nitter.net/pic/media%2FHEQwiZMXEAA6bUV.jpg"
       ]
     },
     {
-      "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/statu",
-      "text": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/status/2035953190663786984#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146119718191184#m",
-      "date": "Mon, 23 Mar 2026 18:20:39 GMT",
+      "id": "53a9cba3ae37285ead2e201817321cf399e1727f7c4ae31078eb13cab7bf8ebd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow ❤️‍🩹",
+      "text": "Wow ❤️‍🩹",
+      "url": "https://nitter.net/daily_berserk/status/2036758721443836234#m",
+      "date": "Wed, 25 Mar 2026 10:54:54 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEEon5KWgAAHN1x.jpg"
+        "https://nitter.net/pic/media%2FHEQFQsmWoAEc2Dl.jpg"
       ]
     },
     {
-      "id": "c64a48391b6d3a2b26f20c5e2d289dcb4bfc995c50a8cd414e6b421d69cb8ae5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "text": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2035297657900396870#m",
-      "date": "Sat, 21 Mar 2026 10:09:10 GMT",
+      "id": "e88cb536d5d260163130fda2723776c91dd1e21acf9e360fea5f7f26785f7712",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036705671849083360#m",
+      "date": "Wed, 25 Mar 2026 07:24:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD7UbAVWEAAeSn5.jpg"
+        "https://nitter.net/pic/media%2FHEPVAl6XQAAa5CO.jpg",
+        "https://nitter.net/pic/media%2FHEPVAmobIAAzoWu.jpg",
+        "https://nitter.net/pic/media%2FHEPVAmFWAAAQIXa.jpg",
+        "https://nitter.net/pic/media%2FHEPVAmJW4AA0wKF.jpg"
       ]
     },
     {
-      "id": "b62dc9e355990578677699d217efc8aafd67946f7a6311581ef080b3cf2d21a4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034361554150302187#m",
-      "date": "Wed, 18 Mar 2026 20:09:25 GMT",
+      "id": "c6ccaecd30682ac791d5b708592db76997490f0b71a94023eea927737ba414ae",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036499982233047395#m",
+      "date": "Tue, 24 Mar 2026 17:46:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDuBDLZXEAARbYI.jpg"
-      ]
-    },
-    {
-      "id": "ae510b081d13344035991160e377b20e55426c4ceeb4d82ad64fd03bac38bda4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034357775975825415#m",
-      "date": "Wed, 18 Mar 2026 19:54:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+        "https://nitter.net/pic/media%2FHEMZ8LSa0AAxNIe.jpg"
       ]
     }
   ],
@@ -571,6 +572,21 @@
       ]
     },
     {
+      "id": "c6bd38cb087eae00b88e6b70384bfb58a48e76158f623ca9c5d2bb06e277fe07",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "El millor #manga també està en català! Aquest juny, no us perdeu aquestes sèries: 🏐 Haikyû!! nº 18/45 🏴‍☠️ One Piece nº 14 🐉 Bola de Drac Z Anime Androides nº 01 🌐 planetacomic.com Video",
+      "text": "El millor #manga també està en català! Aquest juny, no us perdeu aquestes sèries: 🏐 Haikyû!! nº 18/45 🏴‍☠️ One Piece nº 14 🐉 Bola de Drac Z Anime Androides nº 01 🌐 planetacomic.com Video",
+      "url": "https://nitter.net/PlanetadComic/status/2036832014129647990#m",
+      "date": "Wed, 25 Mar 2026 15:46:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2036831870642446336%2Fpu%2Fimg%2FVHJ06HIPOrN9QHto.jpg"
+      ]
+    },
+    {
       "id": "e0462ef30fa0e1b9080f51ab4e5ef4d6ec8c5ae2f8efc70fa4c0206be8422e1a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -610,10 +626,8 @@
       "url": "https://nitter.net/tonarinoyj/status/2036821026546532537#m",
       "date": "Wed, 25 Mar 2026 15:02:29 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2036820756177571840%2Fjb3qZd_a%3Fformat%3Djpg%26name%3D800x419"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "724713447a0e3255e55ab500333db0eba257d28e0274cf03c70af6d6447b16f1",
@@ -646,78 +660,66 @@
       ]
     },
     {
-      "id": "8be7f8dc3829066deee43b5aff13fee9fb06ecad39c822b9ed083925d3fa16d9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Novedades Manga de esta semana, como siempre desde @otakucenter 📚📚📚 Empezamos con @Ivrea que hace unos días nos trajo el Tomo 35 de la grandísima “One Punch-Man” de @NEBU_KURO y @ONE_rakugaki 😍😍\ud83d",
-      "text": "Novedades Manga de esta semana, como siempre desde @otakucenter 📚📚📚 Empezamos con @Ivrea que hace unos días nos trajo el Tomo 35 de la grandísima “One Punch-Man” de @NEBU_KURO y @ONE_rakugaki 😍😍😍😍😍 Espero que el Tomo 36 no tarde mucho en salir 😉😉😉",
-      "url": "https://nitter.net/Mugiwara_23/status/2036792516582793317#m",
-      "date": "Wed, 25 Mar 2026 13:09:12 GMT",
+      "id": "a948a130d68a781be1ad9b3fe1aacccca6c91137ab746637369f5f8911852e7a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2036806305956991387#m",
+      "date": "Wed, 25 Mar 2026 14:04:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEQj_CdXwAAF1hE.jpg"
+        "https://nitter.net/pic/media%2FHEQwiZMXEAA6bUV.jpg"
       ]
     },
     {
-      "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/statu",
-      "text": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/status/2035953190663786984#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146119718191184#m",
-      "date": "Mon, 23 Mar 2026 18:20:39 GMT",
+      "id": "53a9cba3ae37285ead2e201817321cf399e1727f7c4ae31078eb13cab7bf8ebd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow ❤️‍🩹",
+      "text": "Wow ❤️‍🩹",
+      "url": "https://nitter.net/daily_berserk/status/2036758721443836234#m",
+      "date": "Wed, 25 Mar 2026 10:54:54 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEEon5KWgAAHN1x.jpg"
+        "https://nitter.net/pic/media%2FHEQFQsmWoAEc2Dl.jpg"
       ]
     },
     {
-      "id": "c64a48391b6d3a2b26f20c5e2d289dcb4bfc995c50a8cd414e6b421d69cb8ae5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "text": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2035297657900396870#m",
-      "date": "Sat, 21 Mar 2026 10:09:10 GMT",
+      "id": "e88cb536d5d260163130fda2723776c91dd1e21acf9e360fea5f7f26785f7712",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036705671849083360#m",
+      "date": "Wed, 25 Mar 2026 07:24:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD7UbAVWEAAeSn5.jpg"
+        "https://nitter.net/pic/media%2FHEPVAl6XQAAa5CO.jpg",
+        "https://nitter.net/pic/media%2FHEPVAmobIAAzoWu.jpg",
+        "https://nitter.net/pic/media%2FHEPVAmFWAAAQIXa.jpg",
+        "https://nitter.net/pic/media%2FHEPVAmJW4AA0wKF.jpg"
       ]
     },
     {
-      "id": "b62dc9e355990578677699d217efc8aafd67946f7a6311581ef080b3cf2d21a4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Kashin Koji please start cooking next chapter. Someone from the Boruto Cast needs to die😭🙏🏼 #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034361554150302187#m",
-      "date": "Wed, 18 Mar 2026 20:09:25 GMT",
+      "id": "c6ccaecd30682ac791d5b708592db76997490f0b71a94023eea927737ba414ae",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036499982233047395#m",
+      "date": "Tue, 24 Mar 2026 17:46:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHDuBDLZXEAARbYI.jpg"
-      ]
-    },
-    {
-      "id": "ae510b081d13344035991160e377b20e55426c4ceeb4d82ad64fd03bac38bda4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034357775975825415#m",
-      "date": "Wed, 18 Mar 2026 19:54:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+        "https://nitter.net/pic/media%2FHEMZ8LSa0AAxNIe.jpg"
       ]
     }
   ]
