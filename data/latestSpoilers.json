@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-03-24T23:50:22.995Z",
+  "generatedAt": "2026-03-25T01:47:13.729Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "3767fae529a47414c064139755813f85765fbc8f2351d62554dfa8c34f747a6e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
+      "text": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
+      "url": "https://nitter.net/pewpiece/status/2036458049037066265#m",
+      "date": "Tue, 24 Mar 2026 15:00:09 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHELyxUvXwAAAohU.jpg"
+      ]
+    },
     {
       "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
       "anime": "boruto",
@@ -33,6 +48,83 @@
   ],
   "misc": [
     {
+      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
+      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
+      ]
+    },
+    {
+      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
+      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
+      ]
+    },
+    {
+      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official One Piece Anime will return in 12 days.",
+      "text": "Official One Piece Anime will return in 12 days.",
+      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
+      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+      ]
+    },
+    {
+      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Road will be voiced by Ryota Takeuchi",
+      "text": "Road will be voiced by Ryota Takeuchi",
+      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
+      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
+        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
+      ]
+    },
+    {
+      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Gerd will be voiced by Ayane Sakura",
+      "text": "Gerd will be voiced by Ayane Sakura",
+      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
+      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
+        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
+      ]
+    },
+    {
       "id": "85210cde65d6037a0ad79c7b6c8d61c786e1430f362ea187480335b426a273df",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -128,95 +220,98 @@
       ]
     },
     {
-      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
+      "id": "d8c8671d20fd9ebef75a1759ad5e1ea380be21158826403ddec5c4e2d07df82a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
-      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "熊本復興プロジェクト10年展SHI-RU-SHIにも行ってきました！👒 銅像巡り全部した後だったから余計に感動してしまった… 復興の軌跡や撮影NGの展示も本当にすごくてみんなに見てもらいたい。 行ける方はぜひ！！！！！ #ONEPIECE #熊本復興プロジェクト",
+      "text": "熊本復興プロジェクト10年展SHI-RU-SHIにも行ってきました！👒 銅像巡り全部した後だったから余計に感動してしまった… 復興の軌跡や撮影NGの展示も本当にすごくてみんなに見てもらいたい。 行ける方はぜひ！！！！！ #ONEPIECE #熊本復興プロジェクト",
+      "url": "https://nitter.net/onepece_zoro11/status/2036402697738527099#m",
+      "date": "Tue, 24 Mar 2026 11:20:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
+        "https://nitter.net/pic/media%2FHELBdaqaIAICnEm.jpg",
+        "https://nitter.net/pic/media%2FHELBdanaAAA5YJR.jpg",
+        "https://nitter.net/pic/media%2FHELBdapaIAMP_KM.jpg",
+        "https://nitter.net/pic/media%2FHELBdapaIAEYFS0.jpg"
       ]
     },
     {
-      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
+      "id": "05d94fcb8328d162db9f6d5f97fbcef14dc9c6f96a7f74dc3822330b16bf830d",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
-      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今日のドット絵。 （仕事がひと段落するとはじまるコーナー） 今回は現在 個人的にどハマり中の「ロトの紋章」よりアルスくん。（初期） ドラクエのHD2D風味に仕上げみました。 いや〜、ロトの紋章は名作だねぇ。 異魔人様！",
+      "text": "今日のドット絵。 （仕事がひと段落するとはじまるコーナー） 今回は現在 個人的にどハマり中の「ロトの紋章」よりアルスくん。（初期） ドラクエのHD2D風味に仕上げみました。 いや〜、ロトの紋章は名作だねぇ。 異魔人様！",
+      "url": "https://nitter.net/t_hirami/status/2036423994250072508#m",
+      "date": "Tue, 24 Mar 2026 12:44:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
+        "https://nitter.net/pic/media%2FHELU1GfaIAMoN1s.jpg",
+        "https://nitter.net/pic/media%2FHELU1GgaIAYJkxE.jpg"
       ]
     },
     {
-      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "id": "ab351f3b7aaddc221eb53e9f9a04f6516870ea966510765bc88b4521ab85b12a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official One Piece Anime will return in 12 days.",
-      "text": "Official One Piece Anime will return in 12 days.",
-      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
-      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2003年3月25日発売 2003年17号休載 2013年3月25日発売 2013年17号掲載 第702話〝コリーダコロシアム〟 2019年3月25日発売 2019年17号掲載 第937話〝おいはぎ橋の牛鬼丸〟 2024年3月25日発売 2024年17号掲載 第1111話〝太陽の盾〟 #ワンピース今日は何話の日",
+      "text": "2003年3月25日発売 2003年17号休載 2013年3月25日発売 2013年17号掲載 第702話〝コリーダコロシアム〟 2019年3月25日発売 2019年17号掲載 第937話〝おいはぎ橋の牛鬼丸〟 2024年3月25日発売 2024年17号掲載 第1111話〝太陽の盾〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2036588734540554746#m",
+      "date": "Tue, 24 Mar 2026 23:39:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+        "https://nitter.net/pic/media%2FHENqn76aIAETBvo.jpg"
       ]
     },
     {
-      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
+      "id": "26e24563136a4188bb77099dd87923f7138fdf4d2ce32eb9953c92275066bb29",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Road will be voiced by Ryota Takeuchi",
-      "text": "Road will be voiced by Ryota Takeuchi",
-      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
-      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Los de la FIA llegando al circuito de Madrid: Video Motorsportive (@MotorsportiveHQ) 🚨 NEW MADRID F1 CIRCUIT FACES TIGHT DEADLINE Construction is RACING AGAINST TIME for a September debut. 👉 Faces s",
+      "text": "Los de la FIA llegando al circuito de Madrid: Video Motorsportive (@MotorsportiveHQ) 🚨 NEW MADRID F1 CIRCUIT FACES TIGHT DEADLINE Construction is RACING AGAINST TIME for a September debut. 👉 Faces skepticism from locals and significant challenges to pass FIA inspection. The unique street circuit's scale adds to the pressure. — https://nitter.net/MotorsportiveHQ/status/2036119075106013642#m",
+      "url": "https://nitter.net/AntonioPadron17/status/2036400000389853606#m",
+      "date": "Tue, 24 Mar 2026 11:09:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
-        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F1739981635288801281%2Fimg%2FsL8ifPBY2it8eypt.jpg",
+        "https://nitter.net/pic/media%2FHEG_geeaEAAGGwB.jpg"
       ]
     },
     {
-      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
+      "id": "bc4655f8162e7d045fe0606851896f2f93ef996445c0dd8b01e01c48c43dffb7",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Gerd will be voiced by Ayane Sakura",
-      "text": "Gerd will be voiced by Ayane Sakura",
-      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
-      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Lo bueno de OLIVER Y BENJI: CAMPEONES era su realismo. Además de plasmar jugadas de fútbol de manera veraz, también veíamos momentos como este, en el que Oliver puede ver a Benji a kilómetros de dista",
+      "text": "Lo bueno de OLIVER Y BENJI: CAMPEONES era su realismo. Además de plasmar jugadas de fútbol de manera veraz, también veíamos momentos como este, en el que Oliver puede ver a Benji a kilómetros de distancia y logra, de un chute, hacerle llegar un mensaje escrito en un balón: Video",
+      "url": "https://nitter.net/KromicB/status/2036368856361414915#m",
+      "date": "Tue, 24 Mar 2026 09:05:43 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
-        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2036368830495064064%2Fpu%2Fimg%2FYOV-q0bY_YIfBg3x.jpg"
       ]
     },
     {
-      "id": "f62916a17fe875673dbb3672f035e2e0d2a9a12d40a8c22c8448ebe3ddc0af91",
+      "id": "6266e1a1db567496bf576a1598b97fff90f073c9dae3e8915ae67b23d45158b4",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Road official onepiece anime Elbaph design",
-      "text": "Road official onepiece anime Elbaph design",
-      "url": "https://nitter.net/pewpiece/status/2036006788739305678#m",
-      "date": "Mon, 23 Mar 2026 09:07:00 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¿Qué escena de Torrente exactamente le pones a tu hijo, @NunezFeijoo? ¿La de la 3, cuando vi0la analmente a una drogadicta dormida? ¿La 2, cuando su tío vende droga a una menor a cambio de sus braguit",
+      "text": "¿Qué escena de Torrente exactamente le pones a tu hijo, @NunezFeijoo? ¿La de la 3, cuando vi0la analmente a una drogadicta dormida? ¿La 2, cuando su tío vende droga a una menor a cambio de sus braguitas? ¿O la 4 cuando chantajea a una novia con una mamada? ¿O la de la chinita? elDiario.es (@eldiarioes) Feijóo sobre los últimos estrenos de Almodóvar y Santiago Segura: “Mi hijo ve las de 'Torrente'” eldiario.es/politica/ultima-… — https://nitter.net/eldiarioes/status/2036392317091737625#m",
+      "url": "https://nitter.net/irezugasti/status/2036415353580876271#m",
+      "date": "Tue, 24 Mar 2026 12:10:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEFZYX8bQAAXcHy.jpg"
+        "https://nitter.net/pic/card_img%2F2035083508725534721%2FHNlZjxCF%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -263,85 +358,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDuBDLZXEAARbYI.jpg"
       ]
-    },
-    {
-      "id": "ae510b081d13344035991160e377b20e55426c4ceeb4d82ad64fd03bac38bda4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034357775975825415#m",
-      "date": "Wed, 18 Mar 2026 19:54:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "c6ccaecd30682ac791d5b708592db76997490f0b71a94023eea927737ba414ae",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036499982233047395#m",
-      "date": "Tue, 24 Mar 2026 17:46:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEMZ8LSa0AAxNIe.jpg"
-      ]
-    },
-    {
-      "id": "3321a53e3a8ca052a4a8dee7fd0c500912de41b3535d2616707ebf6905898f4c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036415744519336176#m",
-      "date": "Tue, 24 Mar 2026 12:12:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHELNUzDaIAIL8OW.jpg"
-      ]
-    },
-    {
-      "id": "7ecd225372b530ef2bd52f63113b4f71f5d9fabef091641552ee9aad1ef7f522",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036384129508335713#m",
-      "date": "Tue, 24 Mar 2026 10:06:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKwkjJbIAAvK0Z.jpg",
-        "https://nitter.net/pic/media%2FHEKwkjEaIAQHfaH.jpg"
-      ]
-    },
-    {
-      "id": "0d041c22d722717f60711103435a24746d51e1bf3b376866d0fde7bcb5ce0900",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036332697333764534#m",
-      "date": "Tue, 24 Mar 2026 06:42:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKBy8KaIAMe2iV.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "3767fae529a47414c064139755813f85765fbc8f2351d62554dfa8c34f747a6e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
+      "text": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
+      "url": "https://nitter.net/pewpiece/status/2036458049037066265#m",
+      "date": "Tue, 24 Mar 2026 15:00:09 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHELyxUvXwAAAohU.jpg"
+      ]
+    },
     {
       "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
       "anime": "boruto",
@@ -371,6 +405,83 @@
       ]
     },
     {
+      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
+      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
+      ]
+    },
+    {
+      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
+      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
+      ]
+    },
+    {
+      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official One Piece Anime will return in 12 days.",
+      "text": "Official One Piece Anime will return in 12 days.",
+      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
+      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+      ]
+    },
+    {
+      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Road will be voiced by Ryota Takeuchi",
+      "text": "Road will be voiced by Ryota Takeuchi",
+      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
+      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
+        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
+      ]
+    },
+    {
+      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Gerd will be voiced by Ayane Sakura",
+      "text": "Gerd will be voiced by Ayane Sakura",
+      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
+      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
+        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
+      ]
+    },
+    {
       "id": "85210cde65d6037a0ad79c7b6c8d61c786e1430f362ea187480335b426a273df",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -466,95 +577,98 @@
       ]
     },
     {
-      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
+      "id": "d8c8671d20fd9ebef75a1759ad5e1ea380be21158826403ddec5c4e2d07df82a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
-      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "熊本復興プロジェクト10年展SHI-RU-SHIにも行ってきました！👒 銅像巡り全部した後だったから余計に感動してしまった… 復興の軌跡や撮影NGの展示も本当にすごくてみんなに見てもらいたい。 行ける方はぜひ！！！！！ #ONEPIECE #熊本復興プロジェクト",
+      "text": "熊本復興プロジェクト10年展SHI-RU-SHIにも行ってきました！👒 銅像巡り全部した後だったから余計に感動してしまった… 復興の軌跡や撮影NGの展示も本当にすごくてみんなに見てもらいたい。 行ける方はぜひ！！！！！ #ONEPIECE #熊本復興プロジェクト",
+      "url": "https://nitter.net/onepece_zoro11/status/2036402697738527099#m",
+      "date": "Tue, 24 Mar 2026 11:20:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
+        "https://nitter.net/pic/media%2FHELBdaqaIAICnEm.jpg",
+        "https://nitter.net/pic/media%2FHELBdanaAAA5YJR.jpg",
+        "https://nitter.net/pic/media%2FHELBdapaIAMP_KM.jpg",
+        "https://nitter.net/pic/media%2FHELBdapaIAEYFS0.jpg"
       ]
     },
     {
-      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
+      "id": "05d94fcb8328d162db9f6d5f97fbcef14dc9c6f96a7f74dc3822330b16bf830d",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
-      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今日のドット絵。 （仕事がひと段落するとはじまるコーナー） 今回は現在 個人的にどハマり中の「ロトの紋章」よりアルスくん。（初期） ドラクエのHD2D風味に仕上げみました。 いや〜、ロトの紋章は名作だねぇ。 異魔人様！",
+      "text": "今日のドット絵。 （仕事がひと段落するとはじまるコーナー） 今回は現在 個人的にどハマり中の「ロトの紋章」よりアルスくん。（初期） ドラクエのHD2D風味に仕上げみました。 いや〜、ロトの紋章は名作だねぇ。 異魔人様！",
+      "url": "https://nitter.net/t_hirami/status/2036423994250072508#m",
+      "date": "Tue, 24 Mar 2026 12:44:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
+        "https://nitter.net/pic/media%2FHELU1GfaIAMoN1s.jpg",
+        "https://nitter.net/pic/media%2FHELU1GgaIAYJkxE.jpg"
       ]
     },
     {
-      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "id": "ab351f3b7aaddc221eb53e9f9a04f6516870ea966510765bc88b4521ab85b12a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official One Piece Anime will return in 12 days.",
-      "text": "Official One Piece Anime will return in 12 days.",
-      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
-      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2003年3月25日発売 2003年17号休載 2013年3月25日発売 2013年17号掲載 第702話〝コリーダコロシアム〟 2019年3月25日発売 2019年17号掲載 第937話〝おいはぎ橋の牛鬼丸〟 2024年3月25日発売 2024年17号掲載 第1111話〝太陽の盾〟 #ワンピース今日は何話の日",
+      "text": "2003年3月25日発売 2003年17号休載 2013年3月25日発売 2013年17号掲載 第702話〝コリーダコロシアム〟 2019年3月25日発売 2019年17号掲載 第937話〝おいはぎ橋の牛鬼丸〟 2024年3月25日発売 2024年17号掲載 第1111話〝太陽の盾〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2036588734540554746#m",
+      "date": "Tue, 24 Mar 2026 23:39:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+        "https://nitter.net/pic/media%2FHENqn76aIAETBvo.jpg"
       ]
     },
     {
-      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
+      "id": "26e24563136a4188bb77099dd87923f7138fdf4d2ce32eb9953c92275066bb29",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Road will be voiced by Ryota Takeuchi",
-      "text": "Road will be voiced by Ryota Takeuchi",
-      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
-      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Los de la FIA llegando al circuito de Madrid: Video Motorsportive (@MotorsportiveHQ) 🚨 NEW MADRID F1 CIRCUIT FACES TIGHT DEADLINE Construction is RACING AGAINST TIME for a September debut. 👉 Faces s",
+      "text": "Los de la FIA llegando al circuito de Madrid: Video Motorsportive (@MotorsportiveHQ) 🚨 NEW MADRID F1 CIRCUIT FACES TIGHT DEADLINE Construction is RACING AGAINST TIME for a September debut. 👉 Faces skepticism from locals and significant challenges to pass FIA inspection. The unique street circuit's scale adds to the pressure. — https://nitter.net/MotorsportiveHQ/status/2036119075106013642#m",
+      "url": "https://nitter.net/AntonioPadron17/status/2036400000389853606#m",
+      "date": "Tue, 24 Mar 2026 11:09:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
-        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F1739981635288801281%2Fimg%2FsL8ifPBY2it8eypt.jpg",
+        "https://nitter.net/pic/media%2FHEG_geeaEAAGGwB.jpg"
       ]
     },
     {
-      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
+      "id": "bc4655f8162e7d045fe0606851896f2f93ef996445c0dd8b01e01c48c43dffb7",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Gerd will be voiced by Ayane Sakura",
-      "text": "Gerd will be voiced by Ayane Sakura",
-      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
-      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Lo bueno de OLIVER Y BENJI: CAMPEONES era su realismo. Además de plasmar jugadas de fútbol de manera veraz, también veíamos momentos como este, en el que Oliver puede ver a Benji a kilómetros de dista",
+      "text": "Lo bueno de OLIVER Y BENJI: CAMPEONES era su realismo. Además de plasmar jugadas de fútbol de manera veraz, también veíamos momentos como este, en el que Oliver puede ver a Benji a kilómetros de distancia y logra, de un chute, hacerle llegar un mensaje escrito en un balón: Video",
+      "url": "https://nitter.net/KromicB/status/2036368856361414915#m",
+      "date": "Tue, 24 Mar 2026 09:05:43 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
-        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2036368830495064064%2Fpu%2Fimg%2FYOV-q0bY_YIfBg3x.jpg"
       ]
     },
     {
-      "id": "f62916a17fe875673dbb3672f035e2e0d2a9a12d40a8c22c8448ebe3ddc0af91",
+      "id": "6266e1a1db567496bf576a1598b97fff90f073c9dae3e8915ae67b23d45158b4",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Road official onepiece anime Elbaph design",
-      "text": "Road official onepiece anime Elbaph design",
-      "url": "https://nitter.net/pewpiece/status/2036006788739305678#m",
-      "date": "Mon, 23 Mar 2026 09:07:00 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¿Qué escena de Torrente exactamente le pones a tu hijo, @NunezFeijoo? ¿La de la 3, cuando vi0la analmente a una drogadicta dormida? ¿La 2, cuando su tío vende droga a una menor a cambio de sus braguit",
+      "text": "¿Qué escena de Torrente exactamente le pones a tu hijo, @NunezFeijoo? ¿La de la 3, cuando vi0la analmente a una drogadicta dormida? ¿La 2, cuando su tío vende droga a una menor a cambio de sus braguitas? ¿O la 4 cuando chantajea a una novia con una mamada? ¿O la de la chinita? elDiario.es (@eldiarioes) Feijóo sobre los últimos estrenos de Almodóvar y Santiago Segura: “Mi hijo ve las de 'Torrente'” eldiario.es/politica/ultima-… — https://nitter.net/eldiarioes/status/2036392317091737625#m",
+      "url": "https://nitter.net/irezugasti/status/2036415353580876271#m",
+      "date": "Tue, 24 Mar 2026 12:10:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEFZYX8bQAAXcHy.jpg"
+        "https://nitter.net/pic/card_img%2F2035083508725534721%2FHNlZjxCF%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -600,82 +714,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDuBDLZXEAARbYI.jpg"
-      ]
-    },
-    {
-      "id": "ae510b081d13344035991160e377b20e55426c4ceeb4d82ad64fd03bac38bda4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "text": "Only one man can save Konoha now. #BORUTO #BorutoTwoBlueVortexCh32",
-      "url": "https://nitter.net/SchmurfiV1/status/2034357775975825415#m",
-      "date": "Wed, 18 Mar 2026 19:54:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "c6ccaecd30682ac791d5b708592db76997490f0b71a94023eea927737ba414ae",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036499982233047395#m",
-      "date": "Tue, 24 Mar 2026 17:46:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEMZ8LSa0AAxNIe.jpg"
-      ]
-    },
-    {
-      "id": "3321a53e3a8ca052a4a8dee7fd0c500912de41b3535d2616707ebf6905898f4c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036415744519336176#m",
-      "date": "Tue, 24 Mar 2026 12:12:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHELNUzDaIAIL8OW.jpg"
-      ]
-    },
-    {
-      "id": "7ecd225372b530ef2bd52f63113b4f71f5d9fabef091641552ee9aad1ef7f522",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036384129508335713#m",
-      "date": "Tue, 24 Mar 2026 10:06:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKwkjJbIAAvK0Z.jpg",
-        "https://nitter.net/pic/media%2FHEKwkjEaIAQHfaH.jpg"
-      ]
-    },
-    {
-      "id": "0d041c22d722717f60711103435a24746d51e1bf3b376866d0fde7bcb5ce0900",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036332697333764534#m",
-      "date": "Tue, 24 Mar 2026 06:42:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEKBy8KaIAMe2iV.jpg"
       ]
     }
   ]
