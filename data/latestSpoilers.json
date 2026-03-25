@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T09:38:06.285Z",
+  "generatedAt": "2026-03-25T10:34:05.805Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,83 @@
     }
   ],
   "misc": [
+    {
+      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
+      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
+      ]
+    },
+    {
+      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
+      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
+      ]
+    },
+    {
+      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official One Piece Anime will return in 12 days.",
+      "text": "Official One Piece Anime will return in 12 days.",
+      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
+      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+      ]
+    },
+    {
+      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Road will be voiced by Ryota Takeuchi",
+      "text": "Road will be voiced by Ryota Takeuchi",
+      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
+      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
+        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
+      ]
+    },
+    {
+      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Gerd will be voiced by Ayane Sakura",
+      "text": "Gerd will be voiced by Ayane Sakura",
+      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
+      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
+        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
+      ]
+    },
     {
       "id": "b4ff6c7617826b38774339687231e37734239a235fa9ff7d42ea4ef5bf26a805",
       "anime": "onepiece",
@@ -138,83 +215,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHEOf4FhagAA4kD9.jpg"
-      ]
-    },
-    {
-      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
-      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
-      ]
-    },
-    {
-      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
-      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
-      ]
-    },
-    {
-      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official One Piece Anime will return in 12 days.",
-      "text": "Official One Piece Anime will return in 12 days.",
-      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
-      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
-      ]
-    },
-    {
-      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Road will be voiced by Ryota Takeuchi",
-      "text": "Road will be voiced by Ryota Takeuchi",
-      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
-      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
-        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
-      ]
-    },
-    {
-      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Gerd will be voiced by Ayane Sakura",
-      "text": "Gerd will be voiced by Ayane Sakura",
-      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
-      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
-        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
       ]
     },
     {
@@ -402,6 +402,83 @@
       ]
     },
     {
+      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
+      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
+      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
+      ]
+    },
+    {
+      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
+      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
+      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
+      ]
+    },
+    {
+      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official One Piece Anime will return in 12 days.",
+      "text": "Official One Piece Anime will return in 12 days.",
+      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
+      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+      ]
+    },
+    {
+      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Road will be voiced by Ryota Takeuchi",
+      "text": "Road will be voiced by Ryota Takeuchi",
+      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
+      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
+        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
+      ]
+    },
+    {
+      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Gerd will be voiced by Ayane Sakura",
+      "text": "Gerd will be voiced by Ayane Sakura",
+      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
+      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
+        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
+      ]
+    },
+    {
       "id": "b4ff6c7617826b38774339687231e37734239a235fa9ff7d42ea4ef5bf26a805",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -492,83 +569,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHEOf4FhagAA4kD9.jpg"
-      ]
-    },
-    {
-      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
-      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
-      ]
-    },
-    {
-      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
-      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
-      ]
-    },
-    {
-      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official One Piece Anime will return in 12 days.",
-      "text": "Official One Piece Anime will return in 12 days.",
-      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
-      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
-      ]
-    },
-    {
-      "id": "ff605a45832aab05781669c31b86fa7c79b083a01eb94820fc47a4e888ebfb3a",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Road will be voiced by Ryota Takeuchi",
-      "text": "Road will be voiced by Ryota Takeuchi",
-      "url": "https://nitter.net/pewpiece/status/2036007413577289856#m",
-      "date": "Mon, 23 Mar 2026 09:09:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ8QhboAAidZx.jpg",
-        "https://nitter.net/pic/media%2FHEFZ8pVaEAAidGE.jpg"
-      ]
-    },
-    {
-      "id": "555e20a15cb4f6b01252b420b2e98e21b42a62fbd423b9f59350754fa925a943",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Gerd will be voiced by Ayane Sakura",
-      "text": "Gerd will be voiced by Ayane Sakura",
-      "url": "https://nitter.net/pewpiece/status/2036007309541802451#m",
-      "date": "Mon, 23 Mar 2026 09:09:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEFZ2YuWoAAJ-8Z.jpg",
-        "https://nitter.net/pic/media%2FHEFZ2traYAIlD8A.jpg"
       ]
     },
     {
