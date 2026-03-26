@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T10:15:38.919Z",
+  "generatedAt": "2026-03-26T11:15:27.214Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -64,6 +64,21 @@
   ],
   "misc": [
     {
+      "id": "971479bcec708fec2bf6d8498721245cd1ad6d0b524c128e71ffe84c4cd566b9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
+      "text": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
+      "url": "https://nitter.net/pewpiece/status/2037114378810511402#m",
+      "date": "Thu, 26 Mar 2026 10:28:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEVIm6waoAAIzHQ.jpg"
+      ]
+    },
+    {
       "id": "7ab845032908eadbe0e286345211b5e2270d8c317f219a1f3df8a26b4eac5a22",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -109,18 +124,91 @@
       ]
     },
     {
-      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "id": "dc8b7c5cc182573dc524f1aaaa7ad09e0b3103110f17fd6eba706a1d7970818a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official One Piece Anime will return in 12 days.",
-      "text": "Official One Piece Anime will return in 12 days.",
-      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
-      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Translator: PuckTheGreat(Thx mate) ❤️",
+      "text": "Translator: PuckTheGreat(Thx mate) ❤️",
+      "url": "https://nitter.net/WorstGenHQ/status/2037115275166855426#m",
+      "date": "Thu, 26 Mar 2026 10:31:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ad0bef673456e7b90eba98e0b1fa4e7772b5bbe34009da6e768393c4461499cb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 \"Luffy: If I I’m ever in a pinch, I’m counting on you! Luffy: Probably best to stay out of sight for a bit though… Luffy: Loki’s a bit of a lose canon Sanji: That’s rich coming from you\"",
+      "text": "#ONEPIECE1178 \"Luffy: If I I’m ever in a pinch, I’m counting on you! Luffy: Probably best to stay out of sight for a bit though… Luffy: Loki’s a bit of a lose canon Sanji: That’s rich coming from you\" Luffy warns Sanji to stay away from the fight, but also counts on him🔥😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2037115173324956087#m",
+      "date": "Thu, 26 Mar 2026 10:31:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+        "https://nitter.net/pic/media%2FHEVJdJjWwAAkzmK.jpg"
+      ]
+    },
+    {
+      "id": "ddb427637ee965062b7a042f7002078dfbf2a54b905fb2fc9235e6d519628fb9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Holy Gifters😭",
+      "text": "#ONEPIECE1178 Holy Gifters😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2037113747412513145#m",
+      "date": "Thu, 26 Mar 2026 10:25:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEVIKF6b0AAMNmN.jpg"
+      ]
+    },
+    {
+      "id": "7c69d18c8d5544cff2fc882a736b45a891dd5d2eddfb014930f3cd92ddeda465",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 At the end of the chapter, Imu said: \"Gorosei... Mu will, for a while... leave the Holy Land...\" (This follows the original sentence flow in Japanese.) For better flow in English: \"Goros",
+      "text": "#ONEPIECE1178 At the end of the chapter, Imu said: \"Gorosei... Mu will, for a while... leave the Holy Land...\" (This follows the original sentence flow in Japanese.) For better flow in English: \"Gorosei... For a while, Mu will... leave the Holy Land...\" What's interesting about this line is that the Japanese term Imu used for \"leave\" is \"空ける\" (akeru), which is a different writing of the verb \"開ける\", with one of the term's meanings is \"to leave temporarily.\" Now, the kanji \"空\" used in \"空ける\" (akeru), in itself, means empty, sky, void, vacant, or vacuum. Another interesting aspect is its outdated kanji form, \"虚\", which also means void or empty. This outdated (or archaic if you will) form is used in \"The Empty Throne\" (虚の玉座, kara no gyokuza). Personally, I think it’s a beautiful piece of symbolism: with just one kanji, Oda is emphasizing that \"The Empty Throne\" will truly be \"empty\" for a while during Imu's absence in Pangaea Castle. 🤯",
+      "url": "https://nitter.net/TheWillOfMarco/status/2037105366820077698#m",
+      "date": "Thu, 26 Mar 2026 09:52:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEU_hBtbYAEoaey.jpg"
+      ]
+    },
+    {
+      "id": "b607e6e67047d7107f370834e0036f8bda480b0ac81133e038363dc6240f0ead",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "...... Pokemon Nostalgia (@pokemon_nost) Time flies… Video — https://nitter.net/pokemon_nost/status/2036810863542174139#m",
+      "text": "...... Pokemon Nostalgia (@pokemon_nost) Time flies… Video — https://nitter.net/pokemon_nost/status/2036810863542174139#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2037100326981885959#m",
+      "date": "Thu, 26 Mar 2026 09:32:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2036810841387868160%2Fpu%2Fimg%2F_AQzWuOIlAn1uHt1.jpg"
+      ]
+    },
+    {
+      "id": "f04f438639a0216899067d870b10df51297521b1fbd69025895141ef4b92fe0c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Based on everything we got, the WG didn´t know Loki was the giant captain who attacked them(based on Imu in this chapter) and also don´t know he has the Nidhogg power. So for what he got",
+      "text": "#ONEPIECE1178 Based on everything we got, the WG didn´t know Loki was the giant captain who attacked them(based on Imu in this chapter) and also don´t know he has the Nidhogg power. So for what he got his special bounty and why Shanks stopped him??",
+      "url": "https://nitter.net/WorstGenHQ/status/2037095747976396819#m",
+      "date": "Thu, 26 Mar 2026 09:14:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEU3yCoXEAEcGK-.jpg"
       ]
     },
     {
@@ -276,96 +364,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "4ed4111b19ec5876a10ce6007f8487d5dd37227350198887d748ced1aed65a82",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2037087156716343617#m",
-      "date": "Thu, 26 Mar 2026 08:40:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEUv-K9bYAEkuPJ.jpg"
-      ]
-    },
-    {
-      "id": "35f786f55e360740232c2fb1dc52519091ae2bc4a6dd130ddfa8d162cdee6140",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2037049870712783158#m",
-      "date": "Thu, 26 Mar 2026 06:11:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEUODwwXoAAY3c_.jpg"
-      ]
-    },
-    {
-      "id": "27f193c926d741d5c0a2ff68206bd00ebfd45dd6037b8d58cbf91f0bff409d2b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036908132278976575#m",
-      "date": "Wed, 25 Mar 2026 20:48:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHESNJfwXkAE5t5_.jpg"
-      ]
-    },
-    {
-      "id": "f8daeb969ec4286f6a0dc7e1aa0cb469e13026c6b2cda32ee613462bacfb60d1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2036855595676942803#m",
-      "date": "Wed, 25 Mar 2026 17:19:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHERdXlRb0AEuirX.jpg"
-      ]
-    },
-    {
-      "id": "a948a130d68a781be1ad9b3fe1aacccca6c91137ab746637369f5f8911852e7a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2036806305956991387#m",
-      "date": "Wed, 25 Mar 2026 14:04:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEQwiZMXEAA6bUV.jpg"
-      ]
-    },
-    {
-      "id": "53a9cba3ae37285ead2e201817321cf399e1727f7c4ae31078eb13cab7bf8ebd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Wow ❤️‍🩹",
-      "text": "Wow ❤️‍🩹",
-      "url": "https://nitter.net/daily_berserk/status/2036758721443836234#m",
-      "date": "Wed, 25 Mar 2026 10:54:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEQFQsmWoAEc2Dl.jpg"
       ]
     }
   ],
@@ -430,6 +428,21 @@
       ]
     },
     {
+      "id": "971479bcec708fec2bf6d8498721245cd1ad6d0b524c128e71ffe84c4cd566b9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
+      "text": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
+      "url": "https://nitter.net/pewpiece/status/2037114378810511402#m",
+      "date": "Thu, 26 Mar 2026 10:28:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEVIm6waoAAIzHQ.jpg"
+      ]
+    },
+    {
       "id": "7ab845032908eadbe0e286345211b5e2270d8c317f219a1f3df8a26b4eac5a22",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -475,18 +488,91 @@
       ]
     },
     {
-      "id": "8bd2a3900d9c095bb712a16619a86dfd542dc94571c71662e7ceec0bae6214a4",
+      "id": "dc8b7c5cc182573dc524f1aaaa7ad09e0b3103110f17fd6eba706a1d7970818a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official One Piece Anime will return in 12 days.",
-      "text": "Official One Piece Anime will return in 12 days.",
-      "url": "https://nitter.net/pewpiece/status/2036037949981065376#m",
-      "date": "Mon, 23 Mar 2026 11:10:49 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Translator: PuckTheGreat(Thx mate) ❤️",
+      "text": "Translator: PuckTheGreat(Thx mate) ❤️",
+      "url": "https://nitter.net/WorstGenHQ/status/2037115275166855426#m",
+      "date": "Thu, 26 Mar 2026 10:31:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ad0bef673456e7b90eba98e0b1fa4e7772b5bbe34009da6e768393c4461499cb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 \"Luffy: If I I’m ever in a pinch, I’m counting on you! Luffy: Probably best to stay out of sight for a bit though… Luffy: Loki’s a bit of a lose canon Sanji: That’s rich coming from you\"",
+      "text": "#ONEPIECE1178 \"Luffy: If I I’m ever in a pinch, I’m counting on you! Luffy: Probably best to stay out of sight for a bit though… Luffy: Loki’s a bit of a lose canon Sanji: That’s rich coming from you\" Luffy warns Sanji to stay away from the fight, but also counts on him🔥😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2037115173324956087#m",
+      "date": "Thu, 26 Mar 2026 10:31:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEF1uKkX0AABZOz.jpg"
+        "https://nitter.net/pic/media%2FHEVJdJjWwAAkzmK.jpg"
+      ]
+    },
+    {
+      "id": "ddb427637ee965062b7a042f7002078dfbf2a54b905fb2fc9235e6d519628fb9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Holy Gifters😭",
+      "text": "#ONEPIECE1178 Holy Gifters😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2037113747412513145#m",
+      "date": "Thu, 26 Mar 2026 10:25:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEVIKF6b0AAMNmN.jpg"
+      ]
+    },
+    {
+      "id": "7c69d18c8d5544cff2fc882a736b45a891dd5d2eddfb014930f3cd92ddeda465",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 At the end of the chapter, Imu said: \"Gorosei... Mu will, for a while... leave the Holy Land...\" (This follows the original sentence flow in Japanese.) For better flow in English: \"Goros",
+      "text": "#ONEPIECE1178 At the end of the chapter, Imu said: \"Gorosei... Mu will, for a while... leave the Holy Land...\" (This follows the original sentence flow in Japanese.) For better flow in English: \"Gorosei... For a while, Mu will... leave the Holy Land...\" What's interesting about this line is that the Japanese term Imu used for \"leave\" is \"空ける\" (akeru), which is a different writing of the verb \"開ける\", with one of the term's meanings is \"to leave temporarily.\" Now, the kanji \"空\" used in \"空ける\" (akeru), in itself, means empty, sky, void, vacant, or vacuum. Another interesting aspect is its outdated kanji form, \"虚\", which also means void or empty. This outdated (or archaic if you will) form is used in \"The Empty Throne\" (虚の玉座, kara no gyokuza). Personally, I think it’s a beautiful piece of symbolism: with just one kanji, Oda is emphasizing that \"The Empty Throne\" will truly be \"empty\" for a while during Imu's absence in Pangaea Castle. 🤯",
+      "url": "https://nitter.net/TheWillOfMarco/status/2037105366820077698#m",
+      "date": "Thu, 26 Mar 2026 09:52:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEU_hBtbYAEoaey.jpg"
+      ]
+    },
+    {
+      "id": "b607e6e67047d7107f370834e0036f8bda480b0ac81133e038363dc6240f0ead",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "...... Pokemon Nostalgia (@pokemon_nost) Time flies… Video — https://nitter.net/pokemon_nost/status/2036810863542174139#m",
+      "text": "...... Pokemon Nostalgia (@pokemon_nost) Time flies… Video — https://nitter.net/pokemon_nost/status/2036810863542174139#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2037100326981885959#m",
+      "date": "Thu, 26 Mar 2026 09:32:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2036810841387868160%2Fpu%2Fimg%2F_AQzWuOIlAn1uHt1.jpg"
+      ]
+    },
+    {
+      "id": "f04f438639a0216899067d870b10df51297521b1fbd69025895141ef4b92fe0c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1178 Based on everything we got, the WG didn´t know Loki was the giant captain who attacked them(based on Imu in this chapter) and also don´t know he has the Nidhogg power. So for what he got",
+      "text": "#ONEPIECE1178 Based on everything we got, the WG didn´t know Loki was the giant captain who attacked them(based on Imu in this chapter) and also don´t know he has the Nidhogg power. So for what he got his special bounty and why Shanks stopped him??",
+      "url": "https://nitter.net/WorstGenHQ/status/2037095747976396819#m",
+      "date": "Thu, 26 Mar 2026 09:14:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEU3yCoXEAEcGK-.jpg"
       ]
     },
     {
@@ -642,96 +728,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "4ed4111b19ec5876a10ce6007f8487d5dd37227350198887d748ced1aed65a82",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2037087156716343617#m",
-      "date": "Thu, 26 Mar 2026 08:40:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEUv-K9bYAEkuPJ.jpg"
-      ]
-    },
-    {
-      "id": "35f786f55e360740232c2fb1dc52519091ae2bc4a6dd130ddfa8d162cdee6140",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2037049870712783158#m",
-      "date": "Thu, 26 Mar 2026 06:11:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEUODwwXoAAY3c_.jpg"
-      ]
-    },
-    {
-      "id": "27f193c926d741d5c0a2ff68206bd00ebfd45dd6037b8d58cbf91f0bff409d2b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2036908132278976575#m",
-      "date": "Wed, 25 Mar 2026 20:48:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHESNJfwXkAE5t5_.jpg"
-      ]
-    },
-    {
-      "id": "f8daeb969ec4286f6a0dc7e1aa0cb469e13026c6b2cda32ee613462bacfb60d1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2036855595676942803#m",
-      "date": "Wed, 25 Mar 2026 17:19:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHERdXlRb0AEuirX.jpg"
-      ]
-    },
-    {
-      "id": "a948a130d68a781be1ad9b3fe1aacccca6c91137ab746637369f5f8911852e7a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2036806305956991387#m",
-      "date": "Wed, 25 Mar 2026 14:04:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEQwiZMXEAA6bUV.jpg"
-      ]
-    },
-    {
-      "id": "53a9cba3ae37285ead2e201817321cf399e1727f7c4ae31078eb13cab7bf8ebd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Wow ❤️‍🩹",
-      "text": "Wow ❤️‍🩹",
-      "url": "https://nitter.net/daily_berserk/status/2036758721443836234#m",
-      "date": "Wed, 25 Mar 2026 10:54:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEQFQsmWoAEc2Dl.jpg"
       ]
     }
   ]
