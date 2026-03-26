@@ -1,38 +1,7 @@
 {
-  "generatedAt": "2026-03-26T11:15:27.214Z",
+  "generatedAt": "2026-03-26T12:04:23.675Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "71320b5dc5411dafd3ecfa4c6318fbea56b8e773f96b620ba900e5a350e99199",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1178 MORE SPOILERS FOR ONEPIECE CHAPTER 1178 (By : @Mugiwara_23 )",
-      "text": "#ONEPIECE1178 MORE SPOILERS FOR ONEPIECE CHAPTER 1178 (By : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2036898757518770520#m",
-      "date": "Wed, 25 Mar 2026 20:11:22 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHESEmfdWwAATKrW.png",
-        "https://nitter.net/pic/media%2FHESEnInbYAEyW9D.png"
-      ]
-    },
-    {
-      "id": "3767fae529a47414c064139755813f85765fbc8f2351d62554dfa8c34f747a6e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
-      "text": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
-      "url": "https://nitter.net/pewpiece/status/2036458049037066265#m",
-      "date": "Tue, 24 Mar 2026 15:00:09 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHELyxUvXwAAAohU.jpg"
-      ]
-    },
     {
       "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
       "anime": "boruto",
@@ -64,66 +33,6 @@
   ],
   "misc": [
     {
-      "id": "971479bcec708fec2bf6d8498721245cd1ad6d0b524c128e71ffe84c4cd566b9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
-      "text": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
-      "url": "https://nitter.net/pewpiece/status/2037114378810511402#m",
-      "date": "Thu, 26 Mar 2026 10:28:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEVIm6waoAAIzHQ.jpg"
-      ]
-    },
-    {
-      "id": "7ab845032908eadbe0e286345211b5e2270d8c317f219a1f3df8a26b4eac5a22",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "From the official onepiece account about the world top 100 popularity poll bots",
-      "text": "From the official onepiece account about the world top 100 popularity poll bots",
-      "url": "https://nitter.net/pewpiece/status/2036764087963582532#m",
-      "date": "Wed, 25 Mar 2026 11:16:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEQJ_ioWQAA9Zx2.png"
-      ]
-    },
-    {
-      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
-      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
-      ]
-    },
-    {
-      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
-      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
-      ]
-    },
-    {
       "id": "dc8b7c5cc182573dc524f1aaaa7ad09e0b3103110f17fd6eba706a1d7970818a",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -365,40 +274,69 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
       ]
+    },
+    {
+      "id": "db05e6946e942ca008b2a96b3f02db14579f8e6c4e0959bf47fb4191698ac4b0",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk x Evangelion",
+      "text": "Berserk x Evangelion",
+      "url": "https://nitter.net/daily_berserk/status/2037119299513430510#m",
+      "date": "Thu, 26 Mar 2026 10:47:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEVNNJUbYAYfAmE.jpg"
+      ]
+    },
+    {
+      "id": "4ed4111b19ec5876a10ce6007f8487d5dd37227350198887d748ced1aed65a82",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2037087156716343617#m",
+      "date": "Thu, 26 Mar 2026 08:40:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEUv-K9bYAEkuPJ.jpg"
+      ]
+    },
+    {
+      "id": "35f786f55e360740232c2fb1dc52519091ae2bc4a6dd130ddfa8d162cdee6140",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2037049870712783158#m",
+      "date": "Thu, 26 Mar 2026 06:11:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEUODwwXoAAY3c_.jpg"
+      ]
+    },
+    {
+      "id": "27f193c926d741d5c0a2ff68206bd00ebfd45dd6037b8d58cbf91f0bff409d2b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036908132278976575#m",
+      "date": "Wed, 25 Mar 2026 20:48:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHESNJfwXkAE5t5_.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "71320b5dc5411dafd3ecfa4c6318fbea56b8e773f96b620ba900e5a350e99199",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1178 MORE SPOILERS FOR ONEPIECE CHAPTER 1178 (By : @Mugiwara_23 )",
-      "text": "#ONEPIECE1178 MORE SPOILERS FOR ONEPIECE CHAPTER 1178 (By : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2036898757518770520#m",
-      "date": "Wed, 25 Mar 2026 20:11:22 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHESEmfdWwAATKrW.png",
-        "https://nitter.net/pic/media%2FHESEnInbYAEyW9D.png"
-      ]
-    },
-    {
-      "id": "3767fae529a47414c064139755813f85765fbc8f2351d62554dfa8c34f747a6e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
-      "text": "#ONEPIECE1178 Brief spoilers for onepiece chapter 1178 by me",
-      "url": "https://nitter.net/pewpiece/status/2036458049037066265#m",
-      "date": "Tue, 24 Mar 2026 15:00:09 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHELyxUvXwAAAohU.jpg"
-      ]
-    },
     {
       "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
       "anime": "boruto",
@@ -428,66 +366,6 @@
       ]
     },
     {
-      "id": "971479bcec708fec2bf6d8498721245cd1ad6d0b524c128e71ffe84c4cd566b9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
-      "text": "THE FIRST ELBAPH EPISODE TITLE IS: \"The Long-Awaited Elbaph! A Huge Reunion Feast!\"",
-      "url": "https://nitter.net/pewpiece/status/2037114378810511402#m",
-      "date": "Thu, 26 Mar 2026 10:28:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEVIm6waoAAIzHQ.jpg"
-      ]
-    },
-    {
-      "id": "7ab845032908eadbe0e286345211b5e2270d8c317f219a1f3df8a26b4eac5a22",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "From the official onepiece account about the world top 100 popularity poll bots",
-      "text": "From the official onepiece account about the world top 100 popularity poll bots",
-      "url": "https://nitter.net/pewpiece/status/2036764087963582532#m",
-      "date": "Wed, 25 Mar 2026 11:16:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEQJ_ioWQAA9Zx2.png"
-      ]
-    },
-    {
-      "id": "4683a95c42281af2496b7ed3c2bb3a5a91c08f0955df3f9895fc4c7c471d59c0",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "text": "OnePiece anime Elbaf arc new opening will be revealed on March 28, 2026! Video",
-      "url": "https://nitter.net/pewpiece/status/2036402472562909484#m",
-      "date": "Tue, 24 Mar 2026 11:19:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2036397766231072768%2Fimg%2FVMnpgepFWxmWFDyb.jpg"
-      ]
-    },
-    {
-      "id": "4039624a368d82df4a6e71a45da48076fb5f563bb46d8ad09eb6fcda4262c196",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "text": "OFFICIAL THERE WILL BE NO BREAK AFTER ONEPIECE CHAPTER 1178",
-      "url": "https://nitter.net/pewpiece/status/2036331397577609679#m",
-      "date": "Tue, 24 Mar 2026 06:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEJ_TDhXcAA8_12.jpg"
-      ]
-    },
-    {
       "id": "dc8b7c5cc182573dc524f1aaaa7ad09e0b3103110f17fd6eba706a1d7970818a",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -728,6 +606,66 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+      ]
+    },
+    {
+      "id": "db05e6946e942ca008b2a96b3f02db14579f8e6c4e0959bf47fb4191698ac4b0",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk x Evangelion",
+      "text": "Berserk x Evangelion",
+      "url": "https://nitter.net/daily_berserk/status/2037119299513430510#m",
+      "date": "Thu, 26 Mar 2026 10:47:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEVNNJUbYAYfAmE.jpg"
+      ]
+    },
+    {
+      "id": "4ed4111b19ec5876a10ce6007f8487d5dd37227350198887d748ced1aed65a82",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2037087156716343617#m",
+      "date": "Thu, 26 Mar 2026 08:40:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEUv-K9bYAEkuPJ.jpg"
+      ]
+    },
+    {
+      "id": "35f786f55e360740232c2fb1dc52519091ae2bc4a6dd130ddfa8d162cdee6140",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2037049870712783158#m",
+      "date": "Thu, 26 Mar 2026 06:11:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEUODwwXoAAY3c_.jpg"
+      ]
+    },
+    {
+      "id": "27f193c926d741d5c0a2ff68206bd00ebfd45dd6037b8d58cbf91f0bff409d2b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2036908132278976575#m",
+      "date": "Wed, 25 Mar 2026 20:48:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHESNJfwXkAE5t5_.jpg"
       ]
     }
   ]
