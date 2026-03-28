@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T23:04:36.289Z",
+  "generatedAt": "2026-03-28T23:50:51.139Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -95,19 +95,17 @@
       ]
     },
     {
-      "id": "ab8da2c34cc2ecca552cc885b20c894267b827143f3f0107e6fa8efea6dece4b",
+      "id": "af14444be0bcaddb02b074599c98ae912bc4678e50d57353fe4c247421feb41c",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭 Pew (@pewpiece) ELBAPH NEW TRAILER OMGGGGGGGG Video — https://nitter.net/pewpiece/status/2037842924566876208#m",
-      "text": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭 Pew (@pewpiece) ELBAPH NEW TRAILER OMGGGGGGGG Video — https://nitter.net/pewpiece/status/2037842924566876208#m",
+      "title": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭",
+      "text": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭",
       "url": "https://nitter.net/WorstGenHQ/status/2037853652031856888#m",
       "date": "Sat, 28 Mar 2026 11:25:46 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2037842418071183360%2Fimg%2F7dw95HJVGaxugP7C.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
@@ -277,19 +275,17 @@
       ]
     },
     {
-      "id": "ab8da2c34cc2ecca552cc885b20c894267b827143f3f0107e6fa8efea6dece4b",
+      "id": "af14444be0bcaddb02b074599c98ae912bc4678e50d57353fe4c247421feb41c",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭 Pew (@pewpiece) ELBAPH NEW TRAILER OMGGGGGGGG Video — https://nitter.net/pewpiece/status/2037842924566876208#m",
-      "text": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭 Pew (@pewpiece) ELBAPH NEW TRAILER OMGGGGGGGG Video — https://nitter.net/pewpiece/status/2037842924566876208#m",
+      "title": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭",
+      "text": "WOKI😭😭😭😭😭😭😭😭😭 Bro the animation😭",
       "url": "https://nitter.net/WorstGenHQ/status/2037853652031856888#m",
       "date": "Sat, 28 Mar 2026 11:25:46 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2037842418071183360%2Fimg%2F7dw95HJVGaxugP7C.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
