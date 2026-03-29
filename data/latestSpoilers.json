@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T22:26:16.727Z",
+  "generatedAt": "2026-03-29T23:06:11.486Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -40,8 +40,10 @@
       "url": "https://nitter.net/WorstGenHQ/status/2038312348830564690#m",
       "date": "Sun, 29 Mar 2026 17:48:28 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2034168460096200704%2Fv0ZJSFt8%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "b11ed274650f28fc4c5c66259cdd17b247e15ad1b9c1fa1f26c0638663b10fe5",
@@ -102,6 +104,98 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEllvSrWUAA7pjK.jpg",
         "https://nitter.net/pic/media%2FHElmA4Ca8AEXQQV.png"
+      ]
+    },
+    {
+      "id": "ab75a664dff403236c14043b6c61c74f2196a61e0a8e607890b2d9a755225893",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
+      "text": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
+      "url": "https://nitter.net/POP15thMemorial/status/2038390759720878259#m",
+      "date": "Sun, 29 Mar 2026 23:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEnOK4Qa8AAp0x8.jpg"
+      ]
+    },
+    {
+      "id": "2dd288c9d0c0575a6e03005fd28e7c93dd64eeba418a887344591544e3a934f1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
+      "text": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
+      "url": "https://nitter.net/urasawa_naoki/status/2038379923652628682#m",
+      "date": "Sun, 29 Mar 2026 22:16:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEnHu_QaUAAZ7RI.jpg",
+        "https://nitter.net/pic/media%2FHEnHu_RbAAAlr8z.jpg",
+        "https://nitter.net/pic/media%2FHEnHu_SbEAAvV4v.jpg"
+      ]
+    },
+    {
+      "id": "5cfaf4f5e8f706bd1fd388b5820397c80db3a5b9d0237a6bbda25f8b73c75f99",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
+      "text": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
+      "url": "https://nitter.net/CollectorSelect/status/2038301969580785740#m",
+      "date": "Sun, 29 Mar 2026 17:07:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEmA1yraIAAD4up.jpg"
+      ]
+    },
+    {
+      "id": "e816275e2de3efa3385a918e5e0d8e618f3ea3b4988beb9484b5c393d8c4d6a1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pues si que son entretenidos los Telediarios en Argentina. Video",
+      "text": "Pues si que son entretenidos los Telediarios en Argentina. Video",
+      "url": "https://nitter.net/Raspatuit/status/2038232642840048122#m",
+      "date": "Sun, 29 Mar 2026 12:31:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2038232589849493504%2Fpu%2Fimg%2FGXq6LBtLk9hSwj4B.jpg"
+      ]
+    },
+    {
+      "id": "c6b070daaf862451f31befd80b106b92ec40d61433685efe5a62bf007e536f6c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering",
+      "text": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering this Christmas. — https://nitter.net/HollywoodHandle/status/2036883233707549045#m",
+      "url": "https://nitter.net/irenevg3/status/2037975981374181410#m",
+      "date": "Sat, 28 Mar 2026 19:31:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHER2gbfXQAAlAZu.jpg"
+      ]
+    },
+    {
+      "id": "bd2e834a5a5f281409edd5222802ba4b48016fe270862bfa80f08248dac1a649",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Cristianos de derechas viendo que el único que condena lo de Netanyahoo es el puto Pedro Sánchez Video Pedro Sánchez (@sanchezcastejon) Netanyahu ha impedido a los católicos celebrar el Domingo de Ram",
+      "text": "Cristianos de derechas viendo que el único que condena lo de Netanyahoo es el puto Pedro Sánchez Video Pedro Sánchez (@sanchezcastejon) Netanyahu ha impedido a los católicos celebrar el Domingo de Ramos en los Lugares Santos de Jerusalén. Sin explicación alguna. Sin razones ni motivos. Desde el Gobierno de España condenamos este ataque injustificado a la libertad religiosa y exigimos a Israel que respete la diversidad de credos y el derecho internacional. Porque sin tolerancia es imposible convivir. — https://nitter.net/sanchezcastejon/status/2038288196295889259#m",
+      "url": "https://nitter.net/ElMiticoBarbas/status/2038307016242819086#m",
+      "date": "Sun, 29 Mar 2026 17:27:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2032930695161491457%2Fimg%2Fygk9pRsfgSyND3Or.jpg"
       ]
     },
     {
@@ -177,6 +271,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+      ]
+    },
+    {
+      "id": "6a248ecdc4a000a5d711ca14e520bb73481156ed1480335879445de76fbd584a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038362625243828470#m",
+      "date": "Sun, 29 Mar 2026 21:08:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEm4AKJbYAAWaEl.jpg"
+      ]
+    },
+    {
+      "id": "d6b4e82cbd5b541aed2a97969ff2513adc17de986043859b4dd7e59b4fb9bf24",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038283342529868091#m",
+      "date": "Sun, 29 Mar 2026 15:53:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHElv5KeaUAE_P3j.jpg"
+      ]
+    },
+    {
+      "id": "96fdf1d5ea61e9d2c80896907b23ff376db74a623e4a9c09ff8698ff355172a2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2038207976725528845#m",
+      "date": "Sun, 29 Mar 2026 10:53:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEkrWc4XkAAMKh3.jpg"
       ]
     }
   ],
@@ -217,8 +356,10 @@
       "url": "https://nitter.net/WorstGenHQ/status/2038312348830564690#m",
       "date": "Sun, 29 Mar 2026 17:48:28 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2034168460096200704%2Fv0ZJSFt8%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "b11ed274650f28fc4c5c66259cdd17b247e15ad1b9c1fa1f26c0638663b10fe5",
@@ -279,6 +420,98 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEllvSrWUAA7pjK.jpg",
         "https://nitter.net/pic/media%2FHElmA4Ca8AEXQQV.png"
+      ]
+    },
+    {
+      "id": "ab75a664dff403236c14043b6c61c74f2196a61e0a8e607890b2d9a755225893",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
+      "text": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
+      "url": "https://nitter.net/POP15thMemorial/status/2038390759720878259#m",
+      "date": "Sun, 29 Mar 2026 23:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEnOK4Qa8AAp0x8.jpg"
+      ]
+    },
+    {
+      "id": "2dd288c9d0c0575a6e03005fd28e7c93dd64eeba418a887344591544e3a934f1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
+      "text": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
+      "url": "https://nitter.net/urasawa_naoki/status/2038379923652628682#m",
+      "date": "Sun, 29 Mar 2026 22:16:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEnHu_QaUAAZ7RI.jpg",
+        "https://nitter.net/pic/media%2FHEnHu_RbAAAlr8z.jpg",
+        "https://nitter.net/pic/media%2FHEnHu_SbEAAvV4v.jpg"
+      ]
+    },
+    {
+      "id": "5cfaf4f5e8f706bd1fd388b5820397c80db3a5b9d0237a6bbda25f8b73c75f99",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
+      "text": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
+      "url": "https://nitter.net/CollectorSelect/status/2038301969580785740#m",
+      "date": "Sun, 29 Mar 2026 17:07:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEmA1yraIAAD4up.jpg"
+      ]
+    },
+    {
+      "id": "e816275e2de3efa3385a918e5e0d8e618f3ea3b4988beb9484b5c393d8c4d6a1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pues si que son entretenidos los Telediarios en Argentina. Video",
+      "text": "Pues si que son entretenidos los Telediarios en Argentina. Video",
+      "url": "https://nitter.net/Raspatuit/status/2038232642840048122#m",
+      "date": "Sun, 29 Mar 2026 12:31:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2038232589849493504%2Fpu%2Fimg%2FGXq6LBtLk9hSwj4B.jpg"
+      ]
+    },
+    {
+      "id": "c6b070daaf862451f31befd80b106b92ec40d61433685efe5a62bf007e536f6c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering",
+      "text": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering this Christmas. — https://nitter.net/HollywoodHandle/status/2036883233707549045#m",
+      "url": "https://nitter.net/irenevg3/status/2037975981374181410#m",
+      "date": "Sat, 28 Mar 2026 19:31:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHER2gbfXQAAlAZu.jpg"
+      ]
+    },
+    {
+      "id": "bd2e834a5a5f281409edd5222802ba4b48016fe270862bfa80f08248dac1a649",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Cristianos de derechas viendo que el único que condena lo de Netanyahoo es el puto Pedro Sánchez Video Pedro Sánchez (@sanchezcastejon) Netanyahu ha impedido a los católicos celebrar el Domingo de Ram",
+      "text": "Cristianos de derechas viendo que el único que condena lo de Netanyahoo es el puto Pedro Sánchez Video Pedro Sánchez (@sanchezcastejon) Netanyahu ha impedido a los católicos celebrar el Domingo de Ramos en los Lugares Santos de Jerusalén. Sin explicación alguna. Sin razones ni motivos. Desde el Gobierno de España condenamos este ataque injustificado a la libertad religiosa y exigimos a Israel que respete la diversidad de credos y el derecho internacional. Porque sin tolerancia es imposible convivir. — https://nitter.net/sanchezcastejon/status/2038288196295889259#m",
+      "url": "https://nitter.net/ElMiticoBarbas/status/2038307016242819086#m",
+      "date": "Sun, 29 Mar 2026 17:27:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2032930695161491457%2Fimg%2Fygk9pRsfgSyND3Or.jpg"
       ]
     },
     {
@@ -354,6 +587,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
+      ]
+    },
+    {
+      "id": "6a248ecdc4a000a5d711ca14e520bb73481156ed1480335879445de76fbd584a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038362625243828470#m",
+      "date": "Sun, 29 Mar 2026 21:08:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEm4AKJbYAAWaEl.jpg"
+      ]
+    },
+    {
+      "id": "d6b4e82cbd5b541aed2a97969ff2513adc17de986043859b4dd7e59b4fb9bf24",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038283342529868091#m",
+      "date": "Sun, 29 Mar 2026 15:53:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHElv5KeaUAE_P3j.jpg"
+      ]
+    },
+    {
+      "id": "96fdf1d5ea61e9d2c80896907b23ff376db74a623e4a9c09ff8698ff355172a2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2038207976725528845#m",
+      "date": "Sun, 29 Mar 2026 10:53:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEkrWc4XkAAMKh3.jpg"
       ]
     }
   ]
