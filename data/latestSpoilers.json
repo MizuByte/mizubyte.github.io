@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T13:06:32.783Z",
+  "generatedAt": "2026-03-30T14:46:37.937Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,6 +18,64 @@
   ],
   "misc": [
     {
+      "id": "5d1aec999f14d5be9ac342690a89d1dd0e235063b6d7546beb0c7a9669f0410a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 \"12\"!? 👀👀👀👀",
+      "text": "#ONEPIECE1179 \"12\"!? 👀👀👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2038628086112039271#m",
+      "date": "Mon, 30 Mar 2026 14:43:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqpYGFW8AAxT8x.jpg"
+      ]
+    },
+    {
+      "id": "46411d964739fcbb0f141b3230259604aa10b1e2c91bcf3654ebe7da9f0b1ae6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 \"DEVIL\" 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1179 \"DEVIL\" 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2038627376578298202#m",
+      "date": "Mon, 30 Mar 2026 14:40:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqox6uXAAAeFWy.jpg"
+      ]
+    },
+    {
+      "id": "a698cc3749aeb057c99cccab299dc16bc12b27a3a51af3342eec87bd89cea95d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "url": "https://nitter.net/pewpiece/status/2038612941927243905#m",
+      "date": "Mon, 30 Mar 2026 13:42:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqauUobQAAI8DA.png"
+      ]
+    },
+    {
+      "id": "2a3703eb8eb77d8ccdf298f267dd621cb133a894894ee6b1cf9b0bd381ea9a45",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What do you guys think is Imus Gender?",
+      "text": "What do you guys think is Imus Gender?",
+      "url": "https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
+      "date": "Mon, 30 Mar 2026 12:15:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "fd9efca75dfd5d1700936f1f6688e1ac003997b6bc7af45a4a9535deb6e328ae",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -49,58 +107,95 @@
       ]
     },
     {
-      "id": "01372fe58af14ef19a745324f19a579127e864638842645179adb52eda6d7baa",
+      "id": "b129760a767c4d71816f73d125a73131dd2e0d954ebf9b4318d99014822cb8e8",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 YOOOOOOOOOOOOOOOOOOOOOOOOOOOO8OOOOO88OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OMMMMMMGGGGG🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1179 YOOOOOOOOOOOOOOOOOOOOOOOOOOOO8OOOOO88OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OMMMMMMGGGGG🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2038595275728531916#m",
-      "date": "Mon, 30 Mar 2026 12:32:43 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Two shows back-to-back. One epic day of games. Join us on June 7 for Xbox Games Showcase, immediately followed by @GearsofWar: E-Day Direct: xbx.lv/4miORcB | #XboxShowcase Video",
+      "text": "Two shows back-to-back. One epic day of games. Join us on June 7 for Xbox Games Showcase, immediately followed by @GearsofWar: E-Day Direct: xbx.lv/4miORcB | #XboxShowcase Video",
+      "url": "https://nitter.net/Xbox/status/2038603693956989096#m",
+      "date": "Mon, 30 Mar 2026 13:06:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEqLmLnWgAAt-tB.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2038603013422788608%2Fimg%2F52w2RvZVI-HeLtr2.jpg"
       ]
     },
     {
-      "id": "533742200ac23ebdfcff2c0478c93f870db12c49b85b3addf4777452853b0db4",
+      "id": "68e5f6cb46e34ccd305a5bdcd439cfca3ec4b89e8c2a7a11d7179219ac7784ae",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 ARE YOU GUYS READY!??? WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "text": "#ONEPIECE1179 ARE YOU GUYS READY!??? WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2038594865836036300#m",
-      "date": "Mon, 30 Mar 2026 12:31:05 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡NOVEDADES DEL 2 DE ABRIL! • EDIFICIO GETENROU (¡TOMO ÚNICO!) • BASILISK: THE OUKA NINJA SCROLLS VOL. 6 • BASILISK: THE OUKA NINJA SCROLLS VOL. 7 (¡ÚLTIMO TOMO!) • JOJOS BIZARRE ADVENTURE: THE JOJOLAN",
+      "text": "¡NOVEDADES DEL 2 DE ABRIL! • EDIFICIO GETENROU (¡TOMO ÚNICO!) • BASILISK: THE OUKA NINJA SCROLLS VOL. 6 • BASILISK: THE OUKA NINJA SCROLLS VOL. 7 (¡ÚLTIMO TOMO!) • JOJOS BIZARRE ADVENTURE: THE JOJOLAND VOL. 3 • ISEKAI SAMURAI VOL. 3",
+      "url": "https://nitter.net/Ivrea/status/2038602390681604232#m",
+      "date": "Mon, 30 Mar 2026 13:00:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqRxE3XkAARCJA.jpg"
+      ]
+    },
+    {
+      "id": "dfc38f9a826cadd9a8e9889af7d418b48fbe2c65dbfbcf28061f51d181c8fbb5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Empezamos la semana con un nuevo videojuego para la colección 🎮!! Hoy tenemos un clásico entre los clásicos, el 1er videojuego de mi saga favorita y un pilar de la industria. Hoy por fin añado a mi",
+      "text": "¡¡Empezamos la semana con un nuevo videojuego para la colección 🎮!! Hoy tenemos un clásico entre los clásicos, el 1er videojuego de mi saga favorita y un pilar de la industria. Hoy por fin añado a mi colección a “The Legend of Zelda” de Famicom Disk 😍😍😍😍😍 #TheLegendOfZelda",
+      "url": "https://nitter.net/Mugiwara_23/status/2038591129398985004#m",
+      "date": "Mon, 30 Mar 2026 12:16:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqHj_NbMAAb-_v.jpg",
+        "https://nitter.net/pic/media%2FHEqHo8wWEAANdj8.jpg",
+        "https://nitter.net/pic/media%2FHEqHo9YbEAAMoWr.jpg",
+        "https://nitter.net/pic/media%2FHEqHqFdXUAAegL5.jpg"
+      ]
+    },
+    {
+      "id": "41091ba20b51633838fe915be92e4dca66d81ad38f493aa20c218ab654a7e6b0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "100.000 viviendas entre 13 caseros. 7.700 viviendas por casero. 7.700 familias dándole la mitad de su sueldo mensual a un solo señor. Pero tu problema son los moros. elDiario.es (@eldiarioes) ÚLTIMA H",
+      "text": "100.000 viviendas entre 13 caseros. 7.700 viviendas por casero. 7.700 familias dándole la mitad de su sueldo mensual a un solo señor. Pero tu problema son los moros. elDiario.es (@eldiarioes) ÚLTIMA HORA | Consumo advierte a 13 grandes caseros de que deberán prorrogar alquileres en más de 100.000 viviendas eldiario.es/economia/consumo… — https://nitter.net/eldiarioes/status/2038539115646292331#m",
+      "url": "https://nitter.net/AlejandroCence2/status/2038556715994476735#m",
+      "date": "Mon, 30 Mar 2026 09:59:30 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "2a3703eb8eb77d8ccdf298f267dd621cb133a894894ee6b1cf9b0bd381ea9a45",
+      "id": "74294a43cfb581f3cbc2953d3586674a8aaa545f4db15036fdfa27e76038e62c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "What do you guys think is Imus Gender?",
-      "text": "What do you guys think is Imus Gender?",
-      "url": "https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "date": "Mon, 30 Mar 2026 12:15:17 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "As great as Clarice is in The Silence of the Lambs (1991), Hannibal Lecter still walks away with the film. About 16 minutes of screen time and every scene feels completely under his control. Video cin",
+      "text": "As great as Clarice is in The Silence of the Lambs (1991), Hannibal Lecter still walks away with the film. About 16 minutes of screen time and every scene feels completely under his control. Video cinesthetic. (@TheCinesthetic) In what movie did you like the bad guy more than the good guy? — https://nitter.net/TheCinesthetic/status/2038028862869983451#m",
+      "url": "https://nitter.net/TheCinesthetic/status/2038323915043537189#m",
+      "date": "Sun, 29 Mar 2026 18:34:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F1924051850673725440%2Fimg%2FWzyw4tl42aEYpcGv.jpg"
+      ]
     },
     {
-      "id": "ae7e1c38bcd9a22c5b76bb3794b32702d0420f1c0bb718e7bc6d4edb001712bf",
+      "id": "037cf72b0f7b7392e7d203a74d0a0d4583d46d79947b6d5cdbfe47460e53865e",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 And of course this chapter drops right in april fool week. Oda exactly knows what he is doing🤣🤣🤣 Thx you senpai😭🤣",
-      "text": "#ONEPIECE1179 And of course this chapter drops right in april fool week. Oda exactly knows what he is doing🤣🤣🤣 Thx you senpai😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2038556075591352500#m",
-      "date": "Mon, 30 Mar 2026 09:56:57 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "＼＼ \\ / ／／ #いるよラジオ 生配信スタート💥 ／／ / \\ ＼ 👇YouTubeできく👇 piped.video/live/XAaHe7Va0hQ お便りを読んだり チャット欄の皆さんと会話したり！ みんなでワンピトークを楽しもう⚡︎⚡︎ #ONEPIECE #仲間がいるよTube",
+      "text": "＼＼ \\ / ／／ #いるよラジオ 生配信スタート💥 ／／ / \\ ＼ 👇YouTubeできく👇 piped.video/live/XAaHe7Va0hQ お便りを読んだり チャット欄の皆さんと会話したり！ みんなでワンピトークを楽しもう⚡︎⚡︎ #ONEPIECE #仲間がいるよTube",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2038557082568560795#m",
+      "date": "Mon, 30 Mar 2026 10:00:57 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEpo3KPbUAA0PRm.jpg"
+      ]
     },
     {
       "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
@@ -175,97 +270,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "28700a5f455bc4f50cfdd484e0b8ce9431c6708795c7006b9c5b462c21164eee",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038602029552017626#m",
-      "date": "Mon, 30 Mar 2026 12:59:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEqRvU_WUAI7bBv.jpg"
-      ]
-    },
-    {
-      "id": "532d317d326c41a34844e38e7f7a672dcc5427ee21d5915b794a2d228efaf4af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038570223150719473#m",
-      "date": "Mon, 30 Mar 2026 10:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEp0z9zWcAAdZB7.jpg",
-        "https://nitter.net/pic/media%2FHEp0z9oWkAA5B0a.jpg"
-      ]
-    },
-    {
-      "id": "10789265f3333959a504c484b1074beaa648e132048ba4c4a24c0dbcb0db6ecd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038546036906475893#m",
-      "date": "Mon, 30 Mar 2026 09:17:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEpe0LoWwAAFN8i.jpg"
-      ]
-    },
-    {
-      "id": "6a248ecdc4a000a5d711ca14e520bb73481156ed1480335879445de76fbd584a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038362625243828470#m",
-      "date": "Sun, 29 Mar 2026 21:08:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEm4AKJbYAAWaEl.jpg"
-      ]
-    },
-    {
-      "id": "d6b4e82cbd5b541aed2a97969ff2513adc17de986043859b4dd7e59b4fb9bf24",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038283342529868091#m",
-      "date": "Sun, 29 Mar 2026 15:53:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHElv5KeaUAE_P3j.jpg"
-      ]
-    },
-    {
-      "id": "96fdf1d5ea61e9d2c80896907b23ff376db74a623e4a9c09ff8698ff355172a2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038207976725528845#m",
-      "date": "Sun, 29 Mar 2026 10:53:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEkrWc4XkAAMKh3.jpg"
       ]
     }
   ],
@@ -284,6 +288,64 @@
       "attachments": []
     },
     {
+      "id": "5d1aec999f14d5be9ac342690a89d1dd0e235063b6d7546beb0c7a9669f0410a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 \"12\"!? 👀👀👀👀",
+      "text": "#ONEPIECE1179 \"12\"!? 👀👀👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2038628086112039271#m",
+      "date": "Mon, 30 Mar 2026 14:43:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqpYGFW8AAxT8x.jpg"
+      ]
+    },
+    {
+      "id": "46411d964739fcbb0f141b3230259604aa10b1e2c91bcf3654ebe7da9f0b1ae6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 \"DEVIL\" 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1179 \"DEVIL\" 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2038627376578298202#m",
+      "date": "Mon, 30 Mar 2026 14:40:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqox6uXAAAeFWy.jpg"
+      ]
+    },
+    {
+      "id": "a698cc3749aeb057c99cccab299dc16bc12b27a3a51af3342eec87bd89cea95d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "url": "https://nitter.net/pewpiece/status/2038612941927243905#m",
+      "date": "Mon, 30 Mar 2026 13:42:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqauUobQAAI8DA.png"
+      ]
+    },
+    {
+      "id": "2a3703eb8eb77d8ccdf298f267dd621cb133a894894ee6b1cf9b0bd381ea9a45",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What do you guys think is Imus Gender?",
+      "text": "What do you guys think is Imus Gender?",
+      "url": "https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
+      "date": "Mon, 30 Mar 2026 12:15:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "fd9efca75dfd5d1700936f1f6688e1ac003997b6bc7af45a4a9535deb6e328ae",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -315,58 +377,95 @@
       ]
     },
     {
-      "id": "01372fe58af14ef19a745324f19a579127e864638842645179adb52eda6d7baa",
+      "id": "b129760a767c4d71816f73d125a73131dd2e0d954ebf9b4318d99014822cb8e8",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 YOOOOOOOOOOOOOOOOOOOOOOOOOOOO8OOOOO88OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OMMMMMMGGGGG🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1179 YOOOOOOOOOOOOOOOOOOOOOOOOOOOO8OOOOO88OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OMMMMMMGGGGG🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2038595275728531916#m",
-      "date": "Mon, 30 Mar 2026 12:32:43 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Two shows back-to-back. One epic day of games. Join us on June 7 for Xbox Games Showcase, immediately followed by @GearsofWar: E-Day Direct: xbx.lv/4miORcB | #XboxShowcase Video",
+      "text": "Two shows back-to-back. One epic day of games. Join us on June 7 for Xbox Games Showcase, immediately followed by @GearsofWar: E-Day Direct: xbx.lv/4miORcB | #XboxShowcase Video",
+      "url": "https://nitter.net/Xbox/status/2038603693956989096#m",
+      "date": "Mon, 30 Mar 2026 13:06:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEqLmLnWgAAt-tB.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2038603013422788608%2Fimg%2F52w2RvZVI-HeLtr2.jpg"
       ]
     },
     {
-      "id": "533742200ac23ebdfcff2c0478c93f870db12c49b85b3addf4777452853b0db4",
+      "id": "68e5f6cb46e34ccd305a5bdcd439cfca3ec4b89e8c2a7a11d7179219ac7784ae",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 ARE YOU GUYS READY!??? WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "text": "#ONEPIECE1179 ARE YOU GUYS READY!??? WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2038594865836036300#m",
-      "date": "Mon, 30 Mar 2026 12:31:05 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡NOVEDADES DEL 2 DE ABRIL! • EDIFICIO GETENROU (¡TOMO ÚNICO!) • BASILISK: THE OUKA NINJA SCROLLS VOL. 6 • BASILISK: THE OUKA NINJA SCROLLS VOL. 7 (¡ÚLTIMO TOMO!) • JOJOS BIZARRE ADVENTURE: THE JOJOLAN",
+      "text": "¡NOVEDADES DEL 2 DE ABRIL! • EDIFICIO GETENROU (¡TOMO ÚNICO!) • BASILISK: THE OUKA NINJA SCROLLS VOL. 6 • BASILISK: THE OUKA NINJA SCROLLS VOL. 7 (¡ÚLTIMO TOMO!) • JOJOS BIZARRE ADVENTURE: THE JOJOLAND VOL. 3 • ISEKAI SAMURAI VOL. 3",
+      "url": "https://nitter.net/Ivrea/status/2038602390681604232#m",
+      "date": "Mon, 30 Mar 2026 13:00:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqRxE3XkAARCJA.jpg"
+      ]
+    },
+    {
+      "id": "dfc38f9a826cadd9a8e9889af7d418b48fbe2c65dbfbcf28061f51d181c8fbb5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Empezamos la semana con un nuevo videojuego para la colección 🎮!! Hoy tenemos un clásico entre los clásicos, el 1er videojuego de mi saga favorita y un pilar de la industria. Hoy por fin añado a mi",
+      "text": "¡¡Empezamos la semana con un nuevo videojuego para la colección 🎮!! Hoy tenemos un clásico entre los clásicos, el 1er videojuego de mi saga favorita y un pilar de la industria. Hoy por fin añado a mi colección a “The Legend of Zelda” de Famicom Disk 😍😍😍😍😍 #TheLegendOfZelda",
+      "url": "https://nitter.net/Mugiwara_23/status/2038591129398985004#m",
+      "date": "Mon, 30 Mar 2026 12:16:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEqHj_NbMAAb-_v.jpg",
+        "https://nitter.net/pic/media%2FHEqHo8wWEAANdj8.jpg",
+        "https://nitter.net/pic/media%2FHEqHo9YbEAAMoWr.jpg",
+        "https://nitter.net/pic/media%2FHEqHqFdXUAAegL5.jpg"
+      ]
+    },
+    {
+      "id": "41091ba20b51633838fe915be92e4dca66d81ad38f493aa20c218ab654a7e6b0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "100.000 viviendas entre 13 caseros. 7.700 viviendas por casero. 7.700 familias dándole la mitad de su sueldo mensual a un solo señor. Pero tu problema son los moros. elDiario.es (@eldiarioes) ÚLTIMA H",
+      "text": "100.000 viviendas entre 13 caseros. 7.700 viviendas por casero. 7.700 familias dándole la mitad de su sueldo mensual a un solo señor. Pero tu problema son los moros. elDiario.es (@eldiarioes) ÚLTIMA HORA | Consumo advierte a 13 grandes caseros de que deberán prorrogar alquileres en más de 100.000 viviendas eldiario.es/economia/consumo… — https://nitter.net/eldiarioes/status/2038539115646292331#m",
+      "url": "https://nitter.net/AlejandroCence2/status/2038556715994476735#m",
+      "date": "Mon, 30 Mar 2026 09:59:30 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "2a3703eb8eb77d8ccdf298f267dd621cb133a894894ee6b1cf9b0bd381ea9a45",
+      "id": "74294a43cfb581f3cbc2953d3586674a8aaa545f4db15036fdfa27e76038e62c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "What do you guys think is Imus Gender?",
-      "text": "What do you guys think is Imus Gender?",
-      "url": "https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "date": "Mon, 30 Mar 2026 12:15:17 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "As great as Clarice is in The Silence of the Lambs (1991), Hannibal Lecter still walks away with the film. About 16 minutes of screen time and every scene feels completely under his control. Video cin",
+      "text": "As great as Clarice is in The Silence of the Lambs (1991), Hannibal Lecter still walks away with the film. About 16 minutes of screen time and every scene feels completely under his control. Video cinesthetic. (@TheCinesthetic) In what movie did you like the bad guy more than the good guy? — https://nitter.net/TheCinesthetic/status/2038028862869983451#m",
+      "url": "https://nitter.net/TheCinesthetic/status/2038323915043537189#m",
+      "date": "Sun, 29 Mar 2026 18:34:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F1924051850673725440%2Fimg%2FWzyw4tl42aEYpcGv.jpg"
+      ]
     },
     {
-      "id": "ae7e1c38bcd9a22c5b76bb3794b32702d0420f1c0bb718e7bc6d4edb001712bf",
+      "id": "037cf72b0f7b7392e7d203a74d0a0d4583d46d79947b6d5cdbfe47460e53865e",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 And of course this chapter drops right in april fool week. Oda exactly knows what he is doing🤣🤣🤣 Thx you senpai😭🤣",
-      "text": "#ONEPIECE1179 And of course this chapter drops right in april fool week. Oda exactly knows what he is doing🤣🤣🤣 Thx you senpai😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2038556075591352500#m",
-      "date": "Mon, 30 Mar 2026 09:56:57 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "＼＼ \\ / ／／ #いるよラジオ 生配信スタート💥 ／／ / \\ ＼ 👇YouTubeできく👇 piped.video/live/XAaHe7Va0hQ お便りを読んだり チャット欄の皆さんと会話したり！ みんなでワンピトークを楽しもう⚡︎⚡︎ #ONEPIECE #仲間がいるよTube",
+      "text": "＼＼ \\ / ／／ #いるよラジオ 生配信スタート💥 ／／ / \\ ＼ 👇YouTubeできく👇 piped.video/live/XAaHe7Va0hQ お便りを読んだり チャット欄の皆さんと会話したり！ みんなでワンピトークを楽しもう⚡︎⚡︎ #ONEPIECE #仲間がいるよTube",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2038557082568560795#m",
+      "date": "Mon, 30 Mar 2026 10:00:57 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEpo3KPbUAA0PRm.jpg"
+      ]
     },
     {
       "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
@@ -441,97 +540,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "28700a5f455bc4f50cfdd484e0b8ce9431c6708795c7006b9c5b462c21164eee",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038602029552017626#m",
-      "date": "Mon, 30 Mar 2026 12:59:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEqRvU_WUAI7bBv.jpg"
-      ]
-    },
-    {
-      "id": "532d317d326c41a34844e38e7f7a672dcc5427ee21d5915b794a2d228efaf4af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038570223150719473#m",
-      "date": "Mon, 30 Mar 2026 10:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEp0z9zWcAAdZB7.jpg",
-        "https://nitter.net/pic/media%2FHEp0z9oWkAA5B0a.jpg"
-      ]
-    },
-    {
-      "id": "10789265f3333959a504c484b1074beaa648e132048ba4c4a24c0dbcb0db6ecd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038546036906475893#m",
-      "date": "Mon, 30 Mar 2026 09:17:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEpe0LoWwAAFN8i.jpg"
-      ]
-    },
-    {
-      "id": "6a248ecdc4a000a5d711ca14e520bb73481156ed1480335879445de76fbd584a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038362625243828470#m",
-      "date": "Sun, 29 Mar 2026 21:08:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEm4AKJbYAAWaEl.jpg"
-      ]
-    },
-    {
-      "id": "d6b4e82cbd5b541aed2a97969ff2513adc17de986043859b4dd7e59b4fb9bf24",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038283342529868091#m",
-      "date": "Sun, 29 Mar 2026 15:53:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHElv5KeaUAE_P3j.jpg"
-      ]
-    },
-    {
-      "id": "96fdf1d5ea61e9d2c80896907b23ff376db74a623e4a9c09ff8698ff355172a2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038207976725528845#m",
-      "date": "Sun, 29 Mar 2026 10:53:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEkrWc4XkAAMKh3.jpg"
       ]
     }
   ]
