@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T04:46:53.173Z",
+  "generatedAt": "2026-03-30T06:21:51.078Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -17,6 +17,19 @@
     }
   ],
   "misc": [
+    {
+      "id": "d83540488c07a98e8ffa17d34af61cfa0976d9dbe648bcf7953c492436ffbcf6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "BREAKING: Israel has confirmed its soldiers will not be joining the US in the ground invasion of Iran, due to the concern that they would have to fight grown men, rather than unarmed women and childre",
+      "text": "BREAKING: Israel has confirmed its soldiers will not be joining the US in the ground invasion of Iran, due to the concern that they would have to fight grown men, rather than unarmed women and children",
+      "url": "https://nitter.net/NormalIslandNws/status/2038361647199236159#m",
+      "date": "Sun, 29 Mar 2026 21:04:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "6fa3031cfc195a1123a74b289a4eef6e881df613e15908dd7d8e471143da248c",
       "anime": "onepiece",
@@ -91,111 +104,99 @@
       ]
     },
     {
-      "id": "199f5f3d1dbee2df871b81b051a5444999699707ae8ddf175fdc7ba888e4a062",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFFICIAL: Gintama creator Hideaki Sorachi is starting a new manga titled “2-nen B-gumi Yusha Destroyers” (Class 2-B Hero Destroyers) in Weekly Shonen Jump, beginning on April 20. This will be Sorachi’",
-      "text": "OFFICIAL: Gintama creator Hideaki Sorachi is starting a new manga titled “2-nen B-gumi Yusha Destroyers” (Class 2-B Hero Destroyers) in Weekly Shonen Jump, beginning on April 20. This will be Sorachi’s first new serialized manga in about seven years since Gintama concluded in June 2019.",
-      "url": "https://nitter.net/animecorner_ac/status/2038272573306290512#m",
-      "date": "Sun, 29 Mar 2026 15:10:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEllvSrWUAA7pjK.jpg",
-        "https://nitter.net/pic/media%2FHElmA4Ca8AEXQQV.png"
-      ]
-    },
-    {
-      "id": "7c6d848ca2dae4a95df59fdc8a5a31d70adabdfa10424cc18bdd193a0b04fae0",
+      "id": "f6f3896338dac4d9f9eb070b735f8e4cb2511e12da0a6afdb5d8fb9a9501d535",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【情報公開！】 P.O.Pワンピース “LIMITED EDITION” ナミ NewVer.【限定復刻版】 2018年の発売から8年ぶりに再登場！ こちらも4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "text": "【情報公開！】 P.O.Pワンピース “LIMITED EDITION” ナミ NewVer.【限定復刻版】 2018年の発売から8年ぶりに再登場！ こちらも4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "url": "https://nitter.net/POP15thMemorial/status/2038392013301973288#m",
-      "date": "Sun, 29 Mar 2026 23:05:02 GMT",
+      "title": "アプリゲーム『ポケモンマスターズ EX』に、4月1日（水）15時から「アルコスコルニ＆ルカリオ」が、4月3日（金）15時から「アルコスナツメ＆フーディン」が5月7日（木）14時59分までバディーズサーチに登場！ アルセウス編の新展開もお楽しみに！ go.dena.my/NRnRtj3 #ポケマスEX Video",
+      "text": "アプリゲーム『ポケモンマスターズ EX』に、4月1日（水）15時から「アルコスコルニ＆ルカリオ」が、4月3日（金）15時から「アルコスナツメ＆フーディン」が5月7日（木）14時59分までバディーズサーチに登場！ アルセウス編の新展開もお楽しみに！ go.dena.my/NRnRtj3 #ポケマスEX Video",
+      "url": "https://nitter.net/Pokemon_cojp/status/2038466246774034667#m",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEnPUHIa4AA8-EC.jpg"
+        "https://nitter.net/pic/media%2FHEkkpSWXUAANsqk.jpg"
       ]
     },
     {
-      "id": "ab75a664dff403236c14043b6c61c74f2196a61e0a8e607890b2d9a755225893",
+      "id": "a7a8a639b329388682e7e5fda556eb877c531b328e69e9bd18fbb55fdec1284d",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "text": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "url": "https://nitter.net/POP15thMemorial/status/2038390759720878259#m",
-      "date": "Sun, 29 Mar 2026 23:00:03 GMT",
+      "title": "コルニ ＆ メガルカリオ ナツメ ＆ メガフーディン アルコスを身にまとった2人がアルセウス杯で対決💥 2人が活躍するイベントは #ポケマスEX で❗️ ☞go.dena.my/NRnRtj3",
+      "text": "コルニ ＆ メガルカリオ ナツメ ＆ メガフーディン アルコスを身にまとった2人がアルセウス杯で対決💥 2人が活躍するイベントは #ポケマスEX で❗️ ☞go.dena.my/NRnRtj3",
+      "url": "https://nitter.net/poke_times/status/2038473799092314623#m",
+      "date": "Mon, 30 Mar 2026 04:30:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEnOK4Qa8AAp0x8.jpg"
+        "https://nitter.net/pic/media%2FHEodHbOXQAEd5nr.jpg"
       ]
     },
     {
-      "id": "2dd288c9d0c0575a6e03005fd28e7c93dd64eeba418a887344591544e3a934f1",
+      "id": "86a4f5a1c77719fe7f85d696f476b39ccde82edb12ab230b0d0627d3178f1471",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
-      "text": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
-      "url": "https://nitter.net/urasawa_naoki/status/2038379923652628682#m",
-      "date": "Sun, 29 Mar 2026 22:16:59 GMT",
+      "title": "The new Shonen Jump simulpub chapters are out now! Enjoy! bit.ly/45CGDUu",
+      "text": "The new Shonen Jump simulpub chapters are out now! Enjoy! bit.ly/45CGDUu",
+      "url": "https://nitter.net/shonenjump/status/2038271742632657334#m",
+      "date": "Sun, 29 Mar 2026 15:07:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEnHu_QaUAAZ7RI.jpg",
-        "https://nitter.net/pic/media%2FHEnHu_RbAAAlr8z.jpg",
-        "https://nitter.net/pic/media%2FHEnHu_SbEAAvV4v.jpg"
+        "https://nitter.net/pic/media%2FHEllVPqWsAAU9eb.jpg"
       ]
     },
     {
-      "id": "5cfaf4f5e8f706bd1fd388b5820397c80db3a5b9d0237a6bbda25f8b73c75f99",
+      "id": "f50274535a229d8265ae6c521665dfa4271a2da2b9a0222413ff17e78d5ea261",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
-      "text": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
-      "url": "https://nitter.net/CollectorSelect/status/2038301969580785740#m",
-      "date": "Sun, 29 Mar 2026 17:07:14 GMT",
+      "title": "TVアニメ放送開始！『あかね噺』の表紙が目印！ 週刊少年ジャンプ18号は 3月30日(月)発売！ 今号の表紙やカラーページなど盛りだくさんの内容を一部チラ見せ！ #週刊少年ジャンプ #あかね噺 Video",
+      "text": "TVアニメ放送開始！『あかね噺』の表紙が目印！ 週刊少年ジャンプ18号は 3月30日(月)発売！ 今号の表紙やカラーページなど盛りだくさんの内容を一部チラ見せ！ #週刊少年ジャンプ #あかね噺 Video",
+      "url": "https://nitter.net/jump_henshubu/status/2038458694820638987#m",
+      "date": "Mon, 30 Mar 2026 03:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEmA1yraIAAD4up.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2038452894274572288%2Fimg%2FZmU10PqDurDu27Bk.jpg"
       ]
     },
     {
-      "id": "e816275e2de3efa3385a918e5e0d8e618f3ea3b4988beb9484b5c393d8c4d6a1",
+      "id": "d4a028a8cd11645fed270fbf8ac9fb062338cd5fd5e6e700d54a48e590b28272",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Pues si que son entretenidos los Telediarios en Argentina. Video",
-      "text": "Pues si que son entretenidos los Telediarios en Argentina. Video",
-      "url": "https://nitter.net/Raspatuit/status/2038232642840048122#m",
-      "date": "Sun, 29 Mar 2026 12:31:45 GMT",
+      "title": "【フィギュア情報】 Portrait.Of.Pirates ワンピース“LIMITED EDITION” ナミ NewVer.【限定復刻版】 2026年4月3日(金)13時より受注開始❗️ mugiwara-store.com/news/2130… #麦わらストア #ONEPIECE",
+      "text": "【フィギュア情報】 Portrait.Of.Pirates ワンピース“LIMITED EDITION” ナミ NewVer.【限定復刻版】 2026年4月3日(金)13時より受注開始❗️ mugiwara-store.com/news/2130… #麦わらストア #ONEPIECE",
+      "url": "https://nitter.net/mugistore_info/status/2038451150169809324#m",
+      "date": "Mon, 30 Mar 2026 03:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2038232589849493504%2Fpu%2Fimg%2FGXq6LBtLk9hSwj4B.jpg"
+        "https://nitter.net/pic/media%2FHEO54gMaMAAOhDd.jpg",
+        "https://nitter.net/pic/media%2FHEO51hRaMAA39Hb.jpg",
+        "https://nitter.net/pic/media%2FHEO52wFb0AAstMl.jpg",
+        "https://nitter.net/pic/media%2FHEO53lSbwAEWBD4.jpg"
       ]
     },
     {
-      "id": "c6b070daaf862451f31befd80b106b92ec40d61433685efe5a62bf007e536f6c",
+      "id": "ced01d8a6420397573a8e24fc9e3b35f5dffea1058933d37ebbabbf310123d0b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering",
-      "text": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering this Christmas. — https://nitter.net/HollywoodHandle/status/2036883233707549045#m",
-      "url": "https://nitter.net/irenevg3/status/2037975981374181410#m",
-      "date": "Sat, 28 Mar 2026 19:31:52 GMT",
+      "title": "プレミアムバンダイ新着！ Portrait.Of.Pirates ワンピース “Evolutionary History” モンキー・D・ルフィ“ギア5” 2026年10月発送予定 4月3日(金) 13時予約開始！ j-hobby.net/pb/1560359.html",
+      "text": "プレミアムバンダイ新着！ Portrait.Of.Pirates ワンピース “Evolutionary History” モンキー・D・ルフィ“ギア5” 2026年10月発送予定 4月3日(金) 13時予約開始！ j-hobby.net/pb/1560359.html",
+      "url": "https://nitter.net/mugiwara_ya/status/2038424253708800066#m",
+      "date": "Mon, 30 Mar 2026 01:13:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHER2gbfXQAAlAZu.jpg"
+        "https://nitter.net/pic/media%2FHEnwACbasAA-ejI.jpg",
+        "https://nitter.net/pic/media%2FHEnwBEnaoAAUbZC.jpg",
+        "https://nitter.net/pic/media%2FHEnwCjAaYAAXrqt.jpg",
+        "https://nitter.net/pic/media%2FHEnwDKFaIAAg3tz.jpg"
       ]
     },
     {
@@ -289,6 +290,19 @@
       "attachments": []
     },
     {
+      "id": "d83540488c07a98e8ffa17d34af61cfa0976d9dbe648bcf7953c492436ffbcf6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "BREAKING: Israel has confirmed its soldiers will not be joining the US in the ground invasion of Iran, due to the concern that they would have to fight grown men, rather than unarmed women and childre",
+      "text": "BREAKING: Israel has confirmed its soldiers will not be joining the US in the ground invasion of Iran, due to the concern that they would have to fight grown men, rather than unarmed women and children",
+      "url": "https://nitter.net/NormalIslandNws/status/2038361647199236159#m",
+      "date": "Sun, 29 Mar 2026 21:04:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "6fa3031cfc195a1123a74b289a4eef6e881df613e15908dd7d8e471143da248c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -362,111 +376,99 @@
       ]
     },
     {
-      "id": "199f5f3d1dbee2df871b81b051a5444999699707ae8ddf175fdc7ba888e4a062",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFFICIAL: Gintama creator Hideaki Sorachi is starting a new manga titled “2-nen B-gumi Yusha Destroyers” (Class 2-B Hero Destroyers) in Weekly Shonen Jump, beginning on April 20. This will be Sorachi’",
-      "text": "OFFICIAL: Gintama creator Hideaki Sorachi is starting a new manga titled “2-nen B-gumi Yusha Destroyers” (Class 2-B Hero Destroyers) in Weekly Shonen Jump, beginning on April 20. This will be Sorachi’s first new serialized manga in about seven years since Gintama concluded in June 2019.",
-      "url": "https://nitter.net/animecorner_ac/status/2038272573306290512#m",
-      "date": "Sun, 29 Mar 2026 15:10:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEllvSrWUAA7pjK.jpg",
-        "https://nitter.net/pic/media%2FHElmA4Ca8AEXQQV.png"
-      ]
-    },
-    {
-      "id": "7c6d848ca2dae4a95df59fdc8a5a31d70adabdfa10424cc18bdd193a0b04fae0",
+      "id": "f6f3896338dac4d9f9eb070b735f8e4cb2511e12da0a6afdb5d8fb9a9501d535",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【情報公開！】 P.O.Pワンピース “LIMITED EDITION” ナミ NewVer.【限定復刻版】 2018年の発売から8年ぶりに再登場！ こちらも4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "text": "【情報公開！】 P.O.Pワンピース “LIMITED EDITION” ナミ NewVer.【限定復刻版】 2018年の発売から8年ぶりに再登場！ こちらも4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "url": "https://nitter.net/POP15thMemorial/status/2038392013301973288#m",
-      "date": "Sun, 29 Mar 2026 23:05:02 GMT",
+      "title": "アプリゲーム『ポケモンマスターズ EX』に、4月1日（水）15時から「アルコスコルニ＆ルカリオ」が、4月3日（金）15時から「アルコスナツメ＆フーディン」が5月7日（木）14時59分までバディーズサーチに登場！ アルセウス編の新展開もお楽しみに！ go.dena.my/NRnRtj3 #ポケマスEX Video",
+      "text": "アプリゲーム『ポケモンマスターズ EX』に、4月1日（水）15時から「アルコスコルニ＆ルカリオ」が、4月3日（金）15時から「アルコスナツメ＆フーディン」が5月7日（木）14時59分までバディーズサーチに登場！ アルセウス編の新展開もお楽しみに！ go.dena.my/NRnRtj3 #ポケマスEX Video",
+      "url": "https://nitter.net/Pokemon_cojp/status/2038466246774034667#m",
+      "date": "Mon, 30 Mar 2026 04:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEnPUHIa4AA8-EC.jpg"
+        "https://nitter.net/pic/media%2FHEkkpSWXUAANsqk.jpg"
       ]
     },
     {
-      "id": "ab75a664dff403236c14043b6c61c74f2196a61e0a8e607890b2d9a755225893",
+      "id": "a7a8a639b329388682e7e5fda556eb877c531b328e69e9bd18fbb55fdec1284d",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "text": "【情報公開！】 P.O.Pワンピース “Evolutionary History” モンキー・D・ルフィ〝ギア5〟 ダイナミックな造形と緻密な彩色で 〝ギア5〟となったルフィの勇姿を、劇中のイメージ通りに立体再現! 4月3日(金)予約受付開始となります！ p-bandai.jp/item/item-100024… #POP_MH #onepiece",
-      "url": "https://nitter.net/POP15thMemorial/status/2038390759720878259#m",
-      "date": "Sun, 29 Mar 2026 23:00:03 GMT",
+      "title": "コルニ ＆ メガルカリオ ナツメ ＆ メガフーディン アルコスを身にまとった2人がアルセウス杯で対決💥 2人が活躍するイベントは #ポケマスEX で❗️ ☞go.dena.my/NRnRtj3",
+      "text": "コルニ ＆ メガルカリオ ナツメ ＆ メガフーディン アルコスを身にまとった2人がアルセウス杯で対決💥 2人が活躍するイベントは #ポケマスEX で❗️ ☞go.dena.my/NRnRtj3",
+      "url": "https://nitter.net/poke_times/status/2038473799092314623#m",
+      "date": "Mon, 30 Mar 2026 04:30:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEnOK4Qa8AAp0x8.jpg"
+        "https://nitter.net/pic/media%2FHEodHbOXQAEd5nr.jpg"
       ]
     },
     {
-      "id": "2dd288c9d0c0575a6e03005fd28e7c93dd64eeba418a887344591544e3a934f1",
+      "id": "86a4f5a1c77719fe7f85d696f476b39ccde82edb12ab230b0d0627d3178f1471",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
-      "text": "『#あさドラ！』70話が掲載の #スピリッツ 18号は本日発売！中学の頃、ノートの片隅にギターの絵を落描きしていましたが、部位の位置やフォルムが少しでも違うと、まったくそのギターの表情ではなくなってしまうんですよね。今でもギターはとても難しいです。今回はうまく描けたかな？ #浦沢直樹",
-      "url": "https://nitter.net/urasawa_naoki/status/2038379923652628682#m",
-      "date": "Sun, 29 Mar 2026 22:16:59 GMT",
+      "title": "The new Shonen Jump simulpub chapters are out now! Enjoy! bit.ly/45CGDUu",
+      "text": "The new Shonen Jump simulpub chapters are out now! Enjoy! bit.ly/45CGDUu",
+      "url": "https://nitter.net/shonenjump/status/2038271742632657334#m",
+      "date": "Sun, 29 Mar 2026 15:07:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEnHu_QaUAAZ7RI.jpg",
-        "https://nitter.net/pic/media%2FHEnHu_RbAAAlr8z.jpg",
-        "https://nitter.net/pic/media%2FHEnHu_SbEAAvV4v.jpg"
+        "https://nitter.net/pic/media%2FHEllVPqWsAAU9eb.jpg"
       ]
     },
     {
-      "id": "5cfaf4f5e8f706bd1fd388b5820397c80db3a5b9d0237a6bbda25f8b73c75f99",
+      "id": "f50274535a229d8265ae6c521665dfa4271a2da2b9a0222413ff17e78d5ea261",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
-      "text": "Kanto region Gym Leaders (Brock, Misty, Lt. Surge, Erika, Sabrina, Koga, Blaine, and Giovanni)",
-      "url": "https://nitter.net/CollectorSelect/status/2038301969580785740#m",
-      "date": "Sun, 29 Mar 2026 17:07:14 GMT",
+      "title": "TVアニメ放送開始！『あかね噺』の表紙が目印！ 週刊少年ジャンプ18号は 3月30日(月)発売！ 今号の表紙やカラーページなど盛りだくさんの内容を一部チラ見せ！ #週刊少年ジャンプ #あかね噺 Video",
+      "text": "TVアニメ放送開始！『あかね噺』の表紙が目印！ 週刊少年ジャンプ18号は 3月30日(月)発売！ 今号の表紙やカラーページなど盛りだくさんの内容を一部チラ見せ！ #週刊少年ジャンプ #あかね噺 Video",
+      "url": "https://nitter.net/jump_henshubu/status/2038458694820638987#m",
+      "date": "Mon, 30 Mar 2026 03:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEmA1yraIAAD4up.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2038452894274572288%2Fimg%2FZmU10PqDurDu27Bk.jpg"
       ]
     },
     {
-      "id": "e816275e2de3efa3385a918e5e0d8e618f3ea3b4988beb9484b5c393d8c4d6a1",
+      "id": "d4a028a8cd11645fed270fbf8ac9fb062338cd5fd5e6e700d54a48e590b28272",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Pues si que son entretenidos los Telediarios en Argentina. Video",
-      "text": "Pues si que son entretenidos los Telediarios en Argentina. Video",
-      "url": "https://nitter.net/Raspatuit/status/2038232642840048122#m",
-      "date": "Sun, 29 Mar 2026 12:31:45 GMT",
+      "title": "【フィギュア情報】 Portrait.Of.Pirates ワンピース“LIMITED EDITION” ナミ NewVer.【限定復刻版】 2026年4月3日(金)13時より受注開始❗️ mugiwara-store.com/news/2130… #麦わらストア #ONEPIECE",
+      "text": "【フィギュア情報】 Portrait.Of.Pirates ワンピース“LIMITED EDITION” ナミ NewVer.【限定復刻版】 2026年4月3日(金)13時より受注開始❗️ mugiwara-store.com/news/2130… #麦わらストア #ONEPIECE",
+      "url": "https://nitter.net/mugistore_info/status/2038451150169809324#m",
+      "date": "Mon, 30 Mar 2026 03:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2038232589849493504%2Fpu%2Fimg%2FGXq6LBtLk9hSwj4B.jpg"
+        "https://nitter.net/pic/media%2FHEO54gMaMAAOhDd.jpg",
+        "https://nitter.net/pic/media%2FHEO51hRaMAA39Hb.jpg",
+        "https://nitter.net/pic/media%2FHEO52wFb0AAstMl.jpg",
+        "https://nitter.net/pic/media%2FHEO53lSbwAEWBD4.jpg"
       ]
     },
     {
-      "id": "c6b070daaf862451f31befd80b106b92ec40d61433685efe5a62bf007e536f6c",
+      "id": "ced01d8a6420397573a8e24fc9e3b35f5dffea1058933d37ebbabbf310123d0b",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering",
-      "text": "tiene cara (y pelo) de gritar \"pedro sánchez hijo de puta\" en los ceciarmy awards The Hollywood Handle (@HollywoodHandle) First look at Draco Malfoy in HBO’s upcoming ‘HARRY POTTER’ series. Premiering this Christmas. — https://nitter.net/HollywoodHandle/status/2036883233707549045#m",
-      "url": "https://nitter.net/irenevg3/status/2037975981374181410#m",
-      "date": "Sat, 28 Mar 2026 19:31:52 GMT",
+      "title": "プレミアムバンダイ新着！ Portrait.Of.Pirates ワンピース “Evolutionary History” モンキー・D・ルフィ“ギア5” 2026年10月発送予定 4月3日(金) 13時予約開始！ j-hobby.net/pb/1560359.html",
+      "text": "プレミアムバンダイ新着！ Portrait.Of.Pirates ワンピース “Evolutionary History” モンキー・D・ルフィ“ギア5” 2026年10月発送予定 4月3日(金) 13時予約開始！ j-hobby.net/pb/1560359.html",
+      "url": "https://nitter.net/mugiwara_ya/status/2038424253708800066#m",
+      "date": "Mon, 30 Mar 2026 01:13:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHER2gbfXQAAlAZu.jpg"
+        "https://nitter.net/pic/media%2FHEnwACbasAA-ejI.jpg",
+        "https://nitter.net/pic/media%2FHEnwBEnaoAAUbZC.jpg",
+        "https://nitter.net/pic/media%2FHEnwCjAaYAAXrqt.jpg",
+        "https://nitter.net/pic/media%2FHEnwDKFaIAAg3tz.jpg"
       ]
     },
     {
