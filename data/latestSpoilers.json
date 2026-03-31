@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T05:56:47.270Z",
+  "generatedAt": "2026-03-31T07:08:02.488Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -49,6 +49,19 @@
       ]
     },
     {
+      "id": "51a593a8048c666db92d60a73a143c0badbff5e80fa4a9bb2af3c2ef07d78407",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Decide for yourself which one is wrong and which one is right.",
+      "text": "Decide for yourself which one is wrong and which one is right.",
+      "url": "https://nitter.net/WorstGenHQ/status/2038689053248229566#m",
+      "date": "Mon, 30 Mar 2026 18:45:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "0dfec3a1af50c931171f2c917c668a0483527eb5e48798f412f397552d029d5c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -62,19 +75,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHErgr1SbIAEeCjg.png"
       ]
-    },
-    {
-      "id": "51a593a8048c666db92d60a73a143c0badbff5e80fa4a9bb2af3c2ef07d78407",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Decide for yourself which one is wrong and which one is right.",
-      "text": "Decide for yourself which one is wrong and which one is right.",
-      "url": "https://nitter.net/WorstGenHQ/status/2038689053248229566#m",
-      "date": "Mon, 30 Mar 2026 18:45:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5bff5d89a9f1935fbfe0a57aef727ecb26808ca11cebc4ccb39e0980daf62975",
@@ -271,52 +271,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "82674a48940bcae131d97fc94437d9673218f6245cbc58bb7b71e19cfc6d1ae8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038690181113315350#m",
-      "date": "Mon, 30 Mar 2026 18:49:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHErh6ceacAAkmbO.jpg"
-      ]
-    },
-    {
-      "id": "28700a5f455bc4f50cfdd484e0b8ce9431c6708795c7006b9c5b462c21164eee",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038602029552017626#m",
-      "date": "Mon, 30 Mar 2026 12:59:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEqRvU_WUAI7bBv.jpg"
-      ]
-    },
-    {
-      "id": "532d317d326c41a34844e38e7f7a672dcc5427ee21d5915b794a2d228efaf4af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038570223150719473#m",
-      "date": "Mon, 30 Mar 2026 10:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEp0z9zWcAAdZB7.jpg",
-        "https://nitter.net/pic/media%2FHEp0z9oWkAA5B0a.jpg"
       ]
     }
   ],
@@ -366,6 +320,19 @@
       ]
     },
     {
+      "id": "51a593a8048c666db92d60a73a143c0badbff5e80fa4a9bb2af3c2ef07d78407",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Decide for yourself which one is wrong and which one is right.",
+      "text": "Decide for yourself which one is wrong and which one is right.",
+      "url": "https://nitter.net/WorstGenHQ/status/2038689053248229566#m",
+      "date": "Mon, 30 Mar 2026 18:45:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "0dfec3a1af50c931171f2c917c668a0483527eb5e48798f412f397552d029d5c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -379,19 +346,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHErgr1SbIAEeCjg.png"
       ]
-    },
-    {
-      "id": "51a593a8048c666db92d60a73a143c0badbff5e80fa4a9bb2af3c2ef07d78407",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Decide for yourself which one is wrong and which one is right.",
-      "text": "Decide for yourself which one is wrong and which one is right.",
-      "url": "https://nitter.net/WorstGenHQ/status/2038689053248229566#m",
-      "date": "Mon, 30 Mar 2026 18:45:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5bff5d89a9f1935fbfe0a57aef727ecb26808ca11cebc4ccb39e0980daf62975",
@@ -588,52 +542,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "82674a48940bcae131d97fc94437d9673218f6245cbc58bb7b71e19cfc6d1ae8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038690181113315350#m",
-      "date": "Mon, 30 Mar 2026 18:49:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHErh6ceacAAkmbO.jpg"
-      ]
-    },
-    {
-      "id": "28700a5f455bc4f50cfdd484e0b8ce9431c6708795c7006b9c5b462c21164eee",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038602029552017626#m",
-      "date": "Mon, 30 Mar 2026 12:59:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEqRvU_WUAI7bBv.jpg"
-      ]
-    },
-    {
-      "id": "532d317d326c41a34844e38e7f7a672dcc5427ee21d5915b794a2d228efaf4af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038570223150719473#m",
-      "date": "Mon, 30 Mar 2026 10:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEp0z9zWcAAdZB7.jpg",
-        "https://nitter.net/pic/media%2FHEp0z9oWkAA5B0a.jpg"
       ]
     }
   ]
