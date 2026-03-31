@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T14:17:03.995Z",
+  "generatedAt": "2026-03-31T15:40:21.985Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -48,19 +48,6 @@
       ]
     },
     {
-      "id": "e4c8b5109bd9e6fcea11c2b74ae6d763c4ec0adc889eff4cfc89c2861fc5d518",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: Lebrent(Leaker).",
-      "text": "Source: Lebrent(Leaker).",
-      "url": "https://nitter.net/WorstGenHQ/status/2038911227775054142#m",
-      "date": "Tue, 31 Mar 2026 09:28:12 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -75,6 +62,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "5b8c1328c04ff99f084e9858e66cc16e0284520494b4981f4aa4dd1a741b4f73",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
+      "text": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2038996244219985985#m",
+      "date": "Tue, 31 Mar 2026 15:06:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEv4RAqXoAEBxos.jpg"
+      ]
+    },
     {
       "id": "f070d5db04b8e7e5fd04cab1ee32be4dcb006a5d4abf5e4ec2773020799ac0d1",
       "anime": "onepiece",
@@ -121,18 +123,33 @@
       ]
     },
     {
-      "id": "67e3f4102302f4fa4050535110a55959d566ed23dce9ef34a1e7a830f77466d1",
+      "id": "55ec3cd70c7e762ca2c16b98273b08fd0baeccc0c5a11696e0b4f8b984a5960c",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Africa top 5 1 - Nami 2 - Sanji 3 - Zoro 4 - Luffy 5 - Lucci",
-      "text": "Africa top 5 1 - Nami 2 - Sanji 3 - Zoro 4 - Luffy 5 - Lucci",
-      "url": "https://nitter.net/pewpiece/status/2038273545617219589#m",
-      "date": "Sun, 29 Mar 2026 15:14:17 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Like I said, look at everything Joyboy Haki did. You might argue that Joyboy was stronger, but you can be sure the gap between them is very,very small(equals). And if Joyboy Haki can pul",
+      "text": "#ONEPIECE1179 Like I said, look at everything Joyboy Haki did. You might argue that Joyboy was stronger, but you can be sure the gap between them is very,very small(equals). And if Joyboy Haki can pull off something like that, then you can be sure Imu's will be a monster too.",
+      "url": "https://nitter.net/WorstGenHQ/status/2038989842256675275#m",
+      "date": "Tue, 31 Mar 2026 14:40:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHElmtEfa8AATcOA.jpg"
+        "https://nitter.net/pic/media%2FHEvyT7PXIAA-WKS.png"
+      ]
+    },
+    {
+      "id": "365d94f8ecd221cefb4c5848e31a4f74b3f66cbb7e37adbcd04ffc726fbafd9e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ussop: you are a coward for not fighting yourself!! imu in #ONEPIECE1179: Video",
+      "text": "ussop: you are a coward for not fighting yourself!! imu in #ONEPIECE1179: Video",
+      "url": "https://nitter.net/rhmonarch/status/2038727223637897519#m",
+      "date": "Mon, 30 Mar 2026 21:17:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2038727201378762752%2Fpu%2Fimg%2F8OIJI4GwoKovNdRW.jpg"
       ]
     },
     {
@@ -182,17 +199,94 @@
       ]
     },
     {
-      "id": "a712066aca1dfaad085a22a35a67c0116e21622d043906ccd4408dd12a1b3eee",
+      "id": "1a0f51e108344eb637cc643bc0cd5aba859048e3208d05129d19a2b3611f0e05",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Whoever voted for males, congrats big W WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "text": "#ONEPIECE1179 Whoever voted for males, congrats big W WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2038914348509200399#m",
-      "date": "Tue, 31 Mar 2026 09:40:36 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE",
+      "text": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/OPcom_info/status/2038996018075930738#m",
+      "date": "Tue, 31 Mar 2026 15:05:08 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEv4EjJasAA1Oj7.jpg"
+      ]
+    },
+    {
+      "id": "01ea6fdf63eff3cbd566a24c2066c620d90e70a771d86320369b2d1603544fb0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #USOPPbirthday2026",
+      "text": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #USOPPbirthday2026",
+      "url": "https://nitter.net/onepiece_DVD/status/2038994734363070585#m",
+      "date": "Tue, 31 Mar 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEoh6kjbMAAhWFI.jpg"
+      ]
+    },
+    {
+      "id": "9438b0291d790b4f1c65b10419bf3a92bf019cbe4da5a16080f54c8b42d95959",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #ワンピカード #ONEPIECEカードゲーム",
+      "text": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #ワンピカード #ONEPIECEカードゲーム",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2038994737462706474#m",
+      "date": "Tue, 31 Mar 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEtI_R_bgAAtBkS.jpg"
+      ]
+    },
+    {
+      "id": "9e911f36be0323593840d6b60c1373816da34f5ac6a950fb24dd8f99a98cf865",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #トレクル #ONEPIECE",
+      "text": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #トレクル #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_trecru/status/2038994739018551750#m",
+      "date": "Tue, 31 Mar 2026 15:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEtXkD7aIAAuPVB.jpg"
+      ]
+    },
+    {
+      "id": "9aececbf5c8a08fef8f3c502c9a1d20ee10ba2b29db7f87544e9be7ecbe112e4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "4.1 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE #エイプリルフール",
+      "text": "4.1 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE #エイプリルフール",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2038994745406664937#m",
+      "date": "Tue, 31 Mar 2026 15:00:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEv26VXbwAAT6mm.jpg"
+      ]
+    },
+    {
+      "id": "16af0d2874215f7aad2c89f28633e7f2813654e3203f4a36231c6011a210a6b4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "┏━━━━━━━━━━┓ 🎉Happy Birthday🎉 ┗━━━━━━━━━━┛ 4月1日は「ウソップ」の誕生日です！ ぜひ「#ウソップ誕生祭2026」を付けてお祝いしましょう🎵 #ワンピース #ONEPIECE",
+      "text": "┏━━━━━━━━━━┓ 🎉Happy Birthday🎉 ┗━━━━━━━━━━┛ 4月1日は「ウソップ」の誕生日です！ ぜひ「#ウソップ誕生祭2026」を付けてお祝いしましょう🎵 #ワンピース #ONEPIECE",
+      "url": "https://nitter.net/1kuji_onepiece/status/2038994771654631498#m",
+      "date": "Tue, 31 Mar 2026 15:00:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEulJMZbkAAUsmX.jpg"
+      ]
     },
     {
       "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
@@ -267,97 +361,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "4219ba0b308335fe114a4bbb1cd96059a95ae835f3330a0214fedbadfc02967b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk x Monster x Vagabond",
-      "text": "Berserk x Monster x Vagabond",
-      "url": "https://nitter.net/daily_berserk/status/2038976440331284538#m",
-      "date": "Tue, 31 Mar 2026 13:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEvmQ65bAAAr4At.jpg"
-      ]
-    },
-    {
-      "id": "eaf8f8fa9a126193f6df07b998d276eb8cef9764d4d639a315976a27827682cd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038896529780445694#m",
-      "date": "Tue, 31 Mar 2026 08:29:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEudlhdXsAAhEew.jpg"
-      ]
-    },
-    {
-      "id": "815b63749d60903233e209cc687fc4b8d8b98049f73da2e663b3000a9e7ce894",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038879602467086351#m",
-      "date": "Tue, 31 Mar 2026 07:22:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEuOMBgWEAA1KYn.jpg"
-      ]
-    },
-    {
-      "id": "82674a48940bcae131d97fc94437d9673218f6245cbc58bb7b71e19cfc6d1ae8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038690181113315350#m",
-      "date": "Mon, 30 Mar 2026 18:49:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHErh6ceacAAkmbO.jpg"
-      ]
-    },
-    {
-      "id": "532d317d326c41a34844e38e7f7a672dcc5427ee21d5915b794a2d228efaf4af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038570223150719473#m",
-      "date": "Mon, 30 Mar 2026 10:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEp0z9zWcAAdZB7.jpg",
-        "https://nitter.net/pic/media%2FHEp0z9oWkAA5B0a.jpg"
-      ]
-    },
-    {
-      "id": "10789265f3333959a504c484b1074beaa648e132048ba4c4a24c0dbcb0db6ecd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038546036906475893#m",
-      "date": "Mon, 30 Mar 2026 09:17:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEpe0LoWwAAFN8i.jpg"
       ]
     }
   ],
@@ -408,19 +411,6 @@
       ]
     },
     {
-      "id": "e4c8b5109bd9e6fcea11c2b74ae6d763c4ec0adc889eff4cfc89c2861fc5d518",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: Lebrent(Leaker).",
-      "text": "Source: Lebrent(Leaker).",
-      "url": "https://nitter.net/WorstGenHQ/status/2038911227775054142#m",
-      "date": "Tue, 31 Mar 2026 09:28:12 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -432,6 +422,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "5b8c1328c04ff99f084e9858e66cc16e0284520494b4981f4aa4dd1a741b4f73",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
+      "text": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2038996244219985985#m",
+      "date": "Tue, 31 Mar 2026 15:06:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEv4RAqXoAEBxos.jpg"
+      ]
     },
     {
       "id": "f070d5db04b8e7e5fd04cab1ee32be4dcb006a5d4abf5e4ec2773020799ac0d1",
@@ -479,18 +484,33 @@
       ]
     },
     {
-      "id": "67e3f4102302f4fa4050535110a55959d566ed23dce9ef34a1e7a830f77466d1",
+      "id": "55ec3cd70c7e762ca2c16b98273b08fd0baeccc0c5a11696e0b4f8b984a5960c",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Africa top 5 1 - Nami 2 - Sanji 3 - Zoro 4 - Luffy 5 - Lucci",
-      "text": "Africa top 5 1 - Nami 2 - Sanji 3 - Zoro 4 - Luffy 5 - Lucci",
-      "url": "https://nitter.net/pewpiece/status/2038273545617219589#m",
-      "date": "Sun, 29 Mar 2026 15:14:17 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Like I said, look at everything Joyboy Haki did. You might argue that Joyboy was stronger, but you can be sure the gap between them is very,very small(equals). And if Joyboy Haki can pul",
+      "text": "#ONEPIECE1179 Like I said, look at everything Joyboy Haki did. You might argue that Joyboy was stronger, but you can be sure the gap between them is very,very small(equals). And if Joyboy Haki can pull off something like that, then you can be sure Imu's will be a monster too.",
+      "url": "https://nitter.net/WorstGenHQ/status/2038989842256675275#m",
+      "date": "Tue, 31 Mar 2026 14:40:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHElmtEfa8AATcOA.jpg"
+        "https://nitter.net/pic/media%2FHEvyT7PXIAA-WKS.png"
+      ]
+    },
+    {
+      "id": "365d94f8ecd221cefb4c5848e31a4f74b3f66cbb7e37adbcd04ffc726fbafd9e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ussop: you are a coward for not fighting yourself!! imu in #ONEPIECE1179: Video",
+      "text": "ussop: you are a coward for not fighting yourself!! imu in #ONEPIECE1179: Video",
+      "url": "https://nitter.net/rhmonarch/status/2038727223637897519#m",
+      "date": "Mon, 30 Mar 2026 21:17:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2038727201378762752%2Fpu%2Fimg%2F8OIJI4GwoKovNdRW.jpg"
       ]
     },
     {
@@ -540,17 +560,94 @@
       ]
     },
     {
-      "id": "a712066aca1dfaad085a22a35a67c0116e21622d043906ccd4408dd12a1b3eee",
+      "id": "1a0f51e108344eb637cc643bc0cd5aba859048e3208d05129d19a2b3611f0e05",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Whoever voted for males, congrats big W WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "text": "#ONEPIECE1179 Whoever voted for males, congrats big W WorstGenHQ (@WorstGenHQ) What do you guys think is Imus Gender? — https://nitter.net/WorstGenHQ/status/2038590889891688835#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2038914348509200399#m",
-      "date": "Tue, 31 Mar 2026 09:40:36 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE",
+      "text": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/OPcom_info/status/2038996018075930738#m",
+      "date": "Tue, 31 Mar 2026 15:05:08 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEv4EjJasAA1Oj7.jpg"
+      ]
+    },
+    {
+      "id": "01ea6fdf63eff3cbd566a24c2066c620d90e70a771d86320369b2d1603544fb0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #USOPPbirthday2026",
+      "text": "4月1日はウソップの誕生日 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #USOPPbirthday2026",
+      "url": "https://nitter.net/onepiece_DVD/status/2038994734363070585#m",
+      "date": "Tue, 31 Mar 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEoh6kjbMAAhWFI.jpg"
+      ]
+    },
+    {
+      "id": "9438b0291d790b4f1c65b10419bf3a92bf019cbe4da5a16080f54c8b42d95959",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #ワンピカード #ONEPIECEカードゲーム",
+      "text": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #ワンピカード #ONEPIECEカードゲーム",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2038994737462706474#m",
+      "date": "Tue, 31 Mar 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEtI_R_bgAAtBkS.jpg"
+      ]
+    },
+    {
+      "id": "9e911f36be0323593840d6b60c1373816da34f5ac6a950fb24dd8f99a98cf865",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #トレクル #ONEPIECE",
+      "text": "HAPPY BIRTHDAY🎉 今日は「ウソップ」の誕生日！ #ウソップ誕生祭2026 #トレクル #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_trecru/status/2038994739018551750#m",
+      "date": "Tue, 31 Mar 2026 15:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEtXkD7aIAAuPVB.jpg"
+      ]
+    },
+    {
+      "id": "9aececbf5c8a08fef8f3c502c9a1d20ee10ba2b29db7f87544e9be7ecbe112e4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "4.1 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE #エイプリルフール",
+      "text": "4.1 HAPPY BIRTHDAY USOPP #ウソップ誕生祭2026 #ONEPIECE #エイプリルフール",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2038994745406664937#m",
+      "date": "Tue, 31 Mar 2026 15:00:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEv26VXbwAAT6mm.jpg"
+      ]
+    },
+    {
+      "id": "16af0d2874215f7aad2c89f28633e7f2813654e3203f4a36231c6011a210a6b4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "┏━━━━━━━━━━┓ 🎉Happy Birthday🎉 ┗━━━━━━━━━━┛ 4月1日は「ウソップ」の誕生日です！ ぜひ「#ウソップ誕生祭2026」を付けてお祝いしましょう🎵 #ワンピース #ONEPIECE",
+      "text": "┏━━━━━━━━━━┓ 🎉Happy Birthday🎉 ┗━━━━━━━━━━┛ 4月1日は「ウソップ」の誕生日です！ ぜひ「#ウソップ誕生祭2026」を付けてお祝いしましょう🎵 #ワンピース #ONEPIECE",
+      "url": "https://nitter.net/1kuji_onepiece/status/2038994771654631498#m",
+      "date": "Tue, 31 Mar 2026 15:00:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEulJMZbkAAUsmX.jpg"
+      ]
     },
     {
       "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
@@ -625,97 +722,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHDt9nRoXsAAASfG.jpg"
-      ]
-    },
-    {
-      "id": "4219ba0b308335fe114a4bbb1cd96059a95ae835f3330a0214fedbadfc02967b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk x Monster x Vagabond",
-      "text": "Berserk x Monster x Vagabond",
-      "url": "https://nitter.net/daily_berserk/status/2038976440331284538#m",
-      "date": "Tue, 31 Mar 2026 13:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEvmQ65bAAAr4At.jpg"
-      ]
-    },
-    {
-      "id": "eaf8f8fa9a126193f6df07b998d276eb8cef9764d4d639a315976a27827682cd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038896529780445694#m",
-      "date": "Tue, 31 Mar 2026 08:29:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEudlhdXsAAhEew.jpg"
-      ]
-    },
-    {
-      "id": "815b63749d60903233e209cc687fc4b8d8b98049f73da2e663b3000a9e7ce894",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2038879602467086351#m",
-      "date": "Tue, 31 Mar 2026 07:22:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEuOMBgWEAA1KYn.jpg"
-      ]
-    },
-    {
-      "id": "82674a48940bcae131d97fc94437d9673218f6245cbc58bb7b71e19cfc6d1ae8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038690181113315350#m",
-      "date": "Mon, 30 Mar 2026 18:49:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHErh6ceacAAkmbO.jpg"
-      ]
-    },
-    {
-      "id": "532d317d326c41a34844e38e7f7a672dcc5427ee21d5915b794a2d228efaf4af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038570223150719473#m",
-      "date": "Mon, 30 Mar 2026 10:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEp0z9zWcAAdZB7.jpg",
-        "https://nitter.net/pic/media%2FHEp0z9oWkAA5B0a.jpg"
-      ]
-    },
-    {
-      "id": "10789265f3333959a504c484b1074beaa648e132048ba4c4a24c0dbcb0db6ecd",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2038546036906475893#m",
-      "date": "Mon, 30 Mar 2026 09:17:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEpe0LoWwAAFN8i.jpg"
       ]
     }
   ]
