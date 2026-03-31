@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T21:23:40.988Z",
+  "generatedAt": "2026-03-31T21:59:49.513Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -287,6 +287,19 @@
       ]
     },
     {
+      "id": "d5c70c2b4f716dd9d723d5cd16a1a58cf48f92ad312349af1127f16edad8c05f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Damn italy is out!? Men....",
+      "text": "Damn italy is out!? Men....",
+      "url": "https://nitter.net/WorstGenHQ/status/2039094335392604579#m",
+      "date": "Tue, 31 Mar 2026 21:35:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "edc9bc79910ed134e9abf5282b7512e09485e66683e418b0a388eeac0678d15a",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -360,21 +373,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2039028660099821568%2Fimg%2FR7YxGrarF9F--kDW.jpg"
-      ]
-    },
-    {
-      "id": "a73c3a7c9aec17c3b08104e2dd0e3fab2e149016115c766863cd5db6631fdd50",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Netflix Viewership for first and second season!!! Source: netflix.com/tudum/top10/tv",
-      "text": "#ONEPIECE Netflix Viewership for first and second season!!! Source: netflix.com/tudum/top10/tv",
-      "url": "https://nitter.net/WorstGenHQ/status/2039063619246149883#m",
-      "date": "Tue, 31 Mar 2026 19:33:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEw1CjJbMAAF4ES.png"
       ]
     },
     {
@@ -722,6 +720,19 @@
       ]
     },
     {
+      "id": "d5c70c2b4f716dd9d723d5cd16a1a58cf48f92ad312349af1127f16edad8c05f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Damn italy is out!? Men....",
+      "text": "Damn italy is out!? Men....",
+      "url": "https://nitter.net/WorstGenHQ/status/2039094335392604579#m",
+      "date": "Tue, 31 Mar 2026 21:35:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "edc9bc79910ed134e9abf5282b7512e09485e66683e418b0a388eeac0678d15a",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -795,21 +806,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2039028660099821568%2Fimg%2FR7YxGrarF9F--kDW.jpg"
-      ]
-    },
-    {
-      "id": "a73c3a7c9aec17c3b08104e2dd0e3fab2e149016115c766863cd5db6631fdd50",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Netflix Viewership for first and second season!!! Source: netflix.com/tudum/top10/tv",
-      "text": "#ONEPIECE Netflix Viewership for first and second season!!! Source: netflix.com/tudum/top10/tv",
-      "url": "https://nitter.net/WorstGenHQ/status/2039063619246149883#m",
-      "date": "Tue, 31 Mar 2026 19:33:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEw1CjJbMAAF4ES.png"
       ]
     },
     {
