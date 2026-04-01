@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T21:28:53.959Z",
+  "generatedAt": "2026-04-01T22:21:34.999Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -229,21 +229,6 @@
       ]
     },
     {
-      "id": "95a0bf3173042386bc9b020c78f25704f5c36a899183b8f5d8c84f20c09be233",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2039253310335574036#m",
-      "date": "Wed, 01 Apr 2026 08:07:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEziEzdW4AA93C-.jpg"
-      ]
-    },
-    {
       "id": "0efbff4cd93b483505743f1a0cec6579c2fcdc750a27865f5d7d13206b004acd",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -260,18 +245,33 @@
       ]
     },
     {
-      "id": "e8e1127c8bc311dccda960791ef0e56f17fee8d3c01a341f0a1acbd6ec67f41e",
+      "id": "4219ba0b308335fe114a4bbb1cd96059a95ae835f3330a0214fedbadfc02967b",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2039024177168941213#m",
-      "date": "Tue, 31 Mar 2026 16:57:01 GMT",
+      "title": "Berserk x Monster x Vagabond",
+      "text": "Berserk x Monster x Vagabond",
+      "url": "https://nitter.net/daily_berserk/status/2038976440331284538#m",
+      "date": "Tue, 31 Mar 2026 13:47:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEwRrpUWYAAitKm.jpg"
+        "https://nitter.net/pic/media%2FHEvmQ65bAAAr4At.jpg"
+      ]
+    },
+    {
+      "id": "eaf8f8fa9a126193f6df07b998d276eb8cef9764d4d639a315976a27827682cd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038896529780445694#m",
+      "date": "Tue, 31 Mar 2026 08:29:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEudlhdXsAAhEew.jpg"
       ]
     }
   ],
@@ -501,21 +501,6 @@
       ]
     },
     {
-      "id": "95a0bf3173042386bc9b020c78f25704f5c36a899183b8f5d8c84f20c09be233",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2039253310335574036#m",
-      "date": "Wed, 01 Apr 2026 08:07:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEziEzdW4AA93C-.jpg"
-      ]
-    },
-    {
       "id": "0efbff4cd93b483505743f1a0cec6579c2fcdc750a27865f5d7d13206b004acd",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -532,18 +517,33 @@
       ]
     },
     {
-      "id": "e8e1127c8bc311dccda960791ef0e56f17fee8d3c01a341f0a1acbd6ec67f41e",
+      "id": "4219ba0b308335fe114a4bbb1cd96059a95ae835f3330a0214fedbadfc02967b",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2039024177168941213#m",
-      "date": "Tue, 31 Mar 2026 16:57:01 GMT",
+      "title": "Berserk x Monster x Vagabond",
+      "text": "Berserk x Monster x Vagabond",
+      "url": "https://nitter.net/daily_berserk/status/2038976440331284538#m",
+      "date": "Tue, 31 Mar 2026 13:47:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEwRrpUWYAAitKm.jpg"
+        "https://nitter.net/pic/media%2FHEvmQ65bAAAr4At.jpg"
+      ]
+    },
+    {
+      "id": "eaf8f8fa9a126193f6df07b998d276eb8cef9764d4d639a315976a27827682cd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038896529780445694#m",
+      "date": "Tue, 31 Mar 2026 08:29:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEudlhdXsAAhEew.jpg"
       ]
     }
   ]
