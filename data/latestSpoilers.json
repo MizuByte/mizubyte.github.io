@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T05:09:57.809Z",
+  "generatedAt": "2026-04-01T06:57:39.782Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -63,19 +63,6 @@
       ]
     },
     {
-      "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for reliable leaks and sources",
-      "text": "Follow me for reliable leaks and sources",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146164639105058#m",
-      "date": "Mon, 23 Mar 2026 18:20:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "0889db140f172cd8038801d5c44cb7977ad67b1355a7beef838e09a223ee89e2",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -104,65 +91,17 @@
       "attachments": []
     },
     {
-      "id": "f9e045c8ea940b93519ce7e17302cc0179af275a1f65b65dfe7ebcc7d3329a97",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 18-19(Double Spread) From right to left: Tsurugi: GET THE FUCK OUT MY WAY MARU Maru: IT'S IMPOSSIBLE CUZ I AM THE WARRIOR ~Ch ends NO BREAK NEXT WEEK #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 18-19(Double Spread) From right to left: Tsurugi: GET THE FUCK OUT MY WAY MARU Maru: IT'S IMPOSSIBLE CUZ I AM THE WARRIOR ~Ch ends NO BREAK NEXT WEEK #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996442942161186981#m",
-      "date": "Thu, 04 Dec 2025 04:54:24 GMT",
+      "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Follow me for reliable leaks and sources",
+      "text": "Follow me for reliable leaks and sources",
+      "url": "https://nitter.net/SchmurfiV1/status/2036146164639105058#m",
+      "date": "Mon, 23 Mar 2026 18:20:50 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7TKRnwboAAkzMt.jpg",
-        "https://nitter.net/pic/media%2FG7TKRoKbkAAZBE_.jpg"
-      ]
-    },
-    {
-      "id": "3c4301a2b1b33423c8d0d2162be8e0d7258ade4e24309438b728d943d0cd88cc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 17 #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 17 #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996441356206784570#m",
-      "date": "Thu, 04 Dec 2025 04:48:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7TI1UYbgAAEHVq.jpg"
-      ]
-    },
-    {
-      "id": "de13b02660b4b2beb0bd9d8f888b74b00388959fa8f300bfb3e60ef86c1754e4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 16 If things stay like this, with nowhere to cling to, won't they be swallowed up by the dark void of death? #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 16 If things stay like this, with nowhere to cling to, won't they be swallowed up by the dark void of death? #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996440854584840354#m",
-      "date": "Thu, 04 Dec 2025 04:46:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7TIYIBaAAA3KY1.jpg"
-      ]
-    },
-    {
-      "id": "7e73485556cacef74637da0ce2f4abd5fb64d467f932c161c588479a6e53c382",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 15 #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 15 #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996439344597578165#m",
-      "date": "Thu, 04 Dec 2025 04:40:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7THAPnakAEmn4k.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "misc": [
@@ -285,6 +224,60 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHExCOB3XAAEA-sR.png",
         "https://nitter.net/pic/media%2FHExCS71WUAA35FX.png"
+      ]
+    },
+    {
+      "id": "a40bf48ab5b0029383424cf71d65d0a5bb18b9f90777892c5498df91d97bd6b4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Well Well well, Look who's back 👀",
+      "text": "Well Well well, Look who's back 👀",
+      "url": "https://nitter.net/PacemanOP/status/2039233446187508192#m",
+      "date": "Wed, 01 Apr 2026 06:48:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1c55bd306d8fd2a3b491d7187615af3f7f8e03ac0b1d84be7fdd155ae3910115",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TBATE S2 EP 1 FULL STAFF SB: Gouchi Iwahata ED: Keitaro Motonaga CAD: Takayuki Chiba / Koto-san / Kotetsu Sotozaki / Sanae Satou AD: Xu Xuewen / Lin Ruoxuan / Qin Guoqing / Zeng Xueyan / Zheng Yurong ",
+      "text": "TBATE S2 EP 1 FULL STAFF SB: Gouchi Iwahata ED: Keitaro Motonaga CAD: Takayuki Chiba / Koto-san / Kotetsu Sotozaki / Sanae Satou AD: Xu Xuewen / Lin Ruoxuan / Qin Guoqing / Zeng Xueyan / Zheng Yurong / Wang Jiaxin / Xu Xuewu / Liu Xiaoyu #TBATE",
+      "url": "https://nitter.net/CrazyDlet/status/2038940176379240640#m",
+      "date": "Tue, 31 Mar 2026 11:23:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c24e1f5d1d52f071c6294985e26cffa1e8aebeb4fb6e6fb9422d08bb0f67df16",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 1 Full staff SB: Satoshi Shimizu ED: Min-Seon Kim, Yoshinari Saitou CAD: Mari Tominaga, Junko Yamanaka, Takashi Muratani AD: Miyako Morino, Yumi Nakayama, Sachiyo Komito, Chiemi ",
+      "text": "Dr Stone S4 Cour 3 Ep 1 Full staff SB: Satoshi Shimizu ED: Min-Seon Kim, Yoshinari Saitou CAD: Mari Tominaga, Junko Yamanaka, Takashi Muratani AD: Miyako Morino, Yumi Nakayama, Sachiyo Komito, Chiemi Hironaka, Toui Yamamichi, Yoshinari Saitou, Grand Guerrilla #DrSTONE",
+      "url": "https://nitter.net/CrazyDlet/status/2039204102979387873#m",
+      "date": "Wed, 01 Apr 2026 04:51:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b5f058b24f39b8e30fe58c6445ad25105de6fb86cbce10b1cece956b551fc68c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 cour 3 Ep 1 ends at ends in the middle of 201 next episode: \"FIRE\" #DrStone",
+      "text": "Dr Stone S4 cour 3 Ep 1 ends at ends in the middle of 201 next episode: \"FIRE\" #DrStone",
+      "url": "https://nitter.net/CrazyDlet/status/2039204343774343408#m",
+      "date": "Wed, 01 Apr 2026 04:52:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEy1i0VbYAAeYvh.jpg"
       ]
     },
     {
@@ -425,19 +418,6 @@
       ]
     },
     {
-      "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for reliable leaks and sources",
-      "text": "Follow me for reliable leaks and sources",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146164639105058#m",
-      "date": "Mon, 23 Mar 2026 18:20:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "0889db140f172cd8038801d5c44cb7977ad67b1355a7beef838e09a223ee89e2",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -466,65 +446,17 @@
       "attachments": []
     },
     {
-      "id": "f9e045c8ea940b93519ce7e17302cc0179af275a1f65b65dfe7ebcc7d3329a97",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 18-19(Double Spread) From right to left: Tsurugi: GET THE FUCK OUT MY WAY MARU Maru: IT'S IMPOSSIBLE CUZ I AM THE WARRIOR ~Ch ends NO BREAK NEXT WEEK #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 18-19(Double Spread) From right to left: Tsurugi: GET THE FUCK OUT MY WAY MARU Maru: IT'S IMPOSSIBLE CUZ I AM THE WARRIOR ~Ch ends NO BREAK NEXT WEEK #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996442942161186981#m",
-      "date": "Thu, 04 Dec 2025 04:54:24 GMT",
+      "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Follow me for reliable leaks and sources",
+      "text": "Follow me for reliable leaks and sources",
+      "url": "https://nitter.net/SchmurfiV1/status/2036146164639105058#m",
+      "date": "Mon, 23 Mar 2026 18:20:50 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7TKRnwboAAkzMt.jpg",
-        "https://nitter.net/pic/media%2FG7TKRoKbkAAZBE_.jpg"
-      ]
-    },
-    {
-      "id": "3c4301a2b1b33423c8d0d2162be8e0d7258ade4e24309438b728d943d0cd88cc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 17 #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 17 #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996441356206784570#m",
-      "date": "Thu, 04 Dec 2025 04:48:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7TI1UYbgAAEHVq.jpg"
-      ]
-    },
-    {
-      "id": "de13b02660b4b2beb0bd9d8f888b74b00388959fa8f300bfb3e60ef86c1754e4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 16 If things stay like this, with nowhere to cling to, won't they be swallowed up by the dark void of death? #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 16 If things stay like this, with nowhere to cling to, won't they be swallowed up by the dark void of death? #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996440854584840354#m",
-      "date": "Thu, 04 Dec 2025 04:46:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7TIYIBaAAA3KY1.jpg"
-      ]
-    },
-    {
-      "id": "7e73485556cacef74637da0ce2f4abd5fb64d467f932c161c588479a6e53c382",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Page 15 #JujutsuKaisenModulo #ModuloSpoilers",
-      "text": "Page 15 #JujutsuKaisenModulo #ModuloSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/1996439344597578165#m",
-      "date": "Thu, 04 Dec 2025 04:40:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FG7THAPnakAEmn4k.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5b8c1328c04ff99f084e9858e66cc16e0284520494b4981f4aa4dd1a741b4f73",
@@ -645,6 +577,60 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHExCOB3XAAEA-sR.png",
         "https://nitter.net/pic/media%2FHExCS71WUAA35FX.png"
+      ]
+    },
+    {
+      "id": "a40bf48ab5b0029383424cf71d65d0a5bb18b9f90777892c5498df91d97bd6b4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Well Well well, Look who's back 👀",
+      "text": "Well Well well, Look who's back 👀",
+      "url": "https://nitter.net/PacemanOP/status/2039233446187508192#m",
+      "date": "Wed, 01 Apr 2026 06:48:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1c55bd306d8fd2a3b491d7187615af3f7f8e03ac0b1d84be7fdd155ae3910115",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TBATE S2 EP 1 FULL STAFF SB: Gouchi Iwahata ED: Keitaro Motonaga CAD: Takayuki Chiba / Koto-san / Kotetsu Sotozaki / Sanae Satou AD: Xu Xuewen / Lin Ruoxuan / Qin Guoqing / Zeng Xueyan / Zheng Yurong ",
+      "text": "TBATE S2 EP 1 FULL STAFF SB: Gouchi Iwahata ED: Keitaro Motonaga CAD: Takayuki Chiba / Koto-san / Kotetsu Sotozaki / Sanae Satou AD: Xu Xuewen / Lin Ruoxuan / Qin Guoqing / Zeng Xueyan / Zheng Yurong / Wang Jiaxin / Xu Xuewu / Liu Xiaoyu #TBATE",
+      "url": "https://nitter.net/CrazyDlet/status/2038940176379240640#m",
+      "date": "Tue, 31 Mar 2026 11:23:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c24e1f5d1d52f071c6294985e26cffa1e8aebeb4fb6e6fb9422d08bb0f67df16",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 1 Full staff SB: Satoshi Shimizu ED: Min-Seon Kim, Yoshinari Saitou CAD: Mari Tominaga, Junko Yamanaka, Takashi Muratani AD: Miyako Morino, Yumi Nakayama, Sachiyo Komito, Chiemi ",
+      "text": "Dr Stone S4 Cour 3 Ep 1 Full staff SB: Satoshi Shimizu ED: Min-Seon Kim, Yoshinari Saitou CAD: Mari Tominaga, Junko Yamanaka, Takashi Muratani AD: Miyako Morino, Yumi Nakayama, Sachiyo Komito, Chiemi Hironaka, Toui Yamamichi, Yoshinari Saitou, Grand Guerrilla #DrSTONE",
+      "url": "https://nitter.net/CrazyDlet/status/2039204102979387873#m",
+      "date": "Wed, 01 Apr 2026 04:51:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b5f058b24f39b8e30fe58c6445ad25105de6fb86cbce10b1cece956b551fc68c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 cour 3 Ep 1 ends at ends in the middle of 201 next episode: \"FIRE\" #DrStone",
+      "text": "Dr Stone S4 cour 3 Ep 1 ends at ends in the middle of 201 next episode: \"FIRE\" #DrStone",
+      "url": "https://nitter.net/CrazyDlet/status/2039204343774343408#m",
+      "date": "Wed, 01 Apr 2026 04:52:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEy1i0VbYAAeYvh.jpg"
       ]
     },
     {
