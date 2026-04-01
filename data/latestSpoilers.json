@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T11:38:25.414Z",
+  "generatedAt": "2026-04-01T12:43:40.567Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -169,19 +169,6 @@
       ]
     },
     {
-      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Garling since he became a Gorosei.. 😭😭🤣",
-      "text": "Garling since he became a Gorosei.. 😭😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
-      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "4c044d096916611465a697c246b08bc4372bf3ca14d9f093bcc5d0854ad37585",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -195,6 +182,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEzky3_WoAAZwPQ.jpg"
       ]
+    },
+    {
+      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Garling since he became a Gorosei.. 😭😭🤣",
+      "text": "Garling since he became a Gorosei.. 😭😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
+      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "d5c70c2b4f716dd9d723d5cd16a1a58cf48f92ad312349af1127f16edad8c05f",
@@ -436,19 +436,6 @@
       ]
     },
     {
-      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Garling since he became a Gorosei.. 😭😭🤣",
-      "text": "Garling since he became a Gorosei.. 😭😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
-      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "4c044d096916611465a697c246b08bc4372bf3ca14d9f093bcc5d0854ad37585",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -462,6 +449,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEzky3_WoAAZwPQ.jpg"
       ]
+    },
+    {
+      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Garling since he became a Gorosei.. 😭😭🤣",
+      "text": "Garling since he became a Gorosei.. 😭😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
+      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "d5c70c2b4f716dd9d723d5cd16a1a58cf48f92ad312349af1127f16edad8c05f",
