@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-04-01T14:18:36.796Z",
+  "generatedAt": "2026-04-01T15:47:55.037Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "71b911bfae93ea4b50e3983042d27ab60afbc4d74a33ed355eb564602d84a393",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1179 That's how Imu sword look like drawn By labrent",
-      "text": "#ONEPIECE1179 That's how Imu sword look like drawn By labrent",
-      "url": "https://nitter.net/pewpiece/status/2038946718654292350#m",
-      "date": "Tue, 31 Mar 2026 11:49:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEvCGfBbYAACFcz.jpg"
-      ]
-    },
-    {
-      "id": "83a485e8252b025394258fdf700b54e73919042e70b0c921d9ce3b4789ce70b3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1179 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1179 (from : @ScotchInformer )",
-      "text": "#ONEPIECE1179 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1179 (from : @ScotchInformer )",
-      "url": "https://nitter.net/pewpiece/status/2038904283672768914#m",
-      "date": "Tue, 31 Mar 2026 09:00:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEukn6FbgAAFa_B.png"
-      ]
-    },
     {
       "id": "8c702dac8338a29882b2f73a635f7d330f84fb158e79dd89c36711f3e97b4230",
       "anime": "onepiece",
@@ -92,66 +62,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "5b8c1328c04ff99f084e9858e66cc16e0284520494b4981f4aa4dd1a741b4f73",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
-      "text": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
-      "url": "https://nitter.net/pewpiece/status/2038996244219985985#m",
-      "date": "Tue, 31 Mar 2026 15:06:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEv4RAqXoAEBxos.jpg"
-      ]
-    },
-    {
-      "id": "f070d5db04b8e7e5fd04cab1ee32be4dcb006a5d4abf5e4ec2773020799ac0d1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1179 More details about Imu",
-      "text": "#ONEPIECE1179 More details about Imu",
-      "url": "https://nitter.net/pewpiece/status/2038915164481679486#m",
-      "date": "Tue, 31 Mar 2026 09:43:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEutZz4awAApgtl.jpg"
-      ]
-    },
-    {
-      "id": "a698cc3749aeb057c99cccab299dc16bc12b27a3a51af3342eec87bd89cea95d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "url": "https://nitter.net/pewpiece/status/2038612941927243905#m",
-      "date": "Mon, 30 Mar 2026 13:42:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEqauUobQAAI8DA.png"
-      ]
-    },
-    {
-      "id": "4b4db2183d6f55fa47a38838d38aed897f3b6516fa03fb11f94db3097c7809c7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Endgame",
-      "text": "Endgame",
-      "url": "https://nitter.net/pewpiece/status/2038547095162904612#m",
-      "date": "Mon, 30 Mar 2026 09:21:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEpfeiZaEAALwy4.jpg"
-      ]
-    },
     {
       "id": "32c74f7cdbfec3715be7f62fe341171e7b2b35fcff2865183c2e6b40f1215900",
       "anime": "onepiece",
@@ -274,36 +184,6 @@
   ],
   "items": [
     {
-      "id": "71b911bfae93ea4b50e3983042d27ab60afbc4d74a33ed355eb564602d84a393",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1179 That's how Imu sword look like drawn By labrent",
-      "text": "#ONEPIECE1179 That's how Imu sword look like drawn By labrent",
-      "url": "https://nitter.net/pewpiece/status/2038946718654292350#m",
-      "date": "Tue, 31 Mar 2026 11:49:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEvCGfBbYAACFcz.jpg"
-      ]
-    },
-    {
-      "id": "83a485e8252b025394258fdf700b54e73919042e70b0c921d9ce3b4789ce70b3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1179 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1179 (from : @ScotchInformer )",
-      "text": "#ONEPIECE1179 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1179 (from : @ScotchInformer )",
-      "url": "https://nitter.net/pewpiece/status/2038904283672768914#m",
-      "date": "Tue, 31 Mar 2026 09:00:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEukn6FbgAAFa_B.png"
-      ]
-    },
-    {
       "id": "8c702dac8338a29882b2f73a635f7d330f84fb158e79dd89c36711f3e97b4230",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -360,66 +240,6 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "5b8c1328c04ff99f084e9858e66cc16e0284520494b4981f4aa4dd1a741b4f73",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
-      "text": "NEW OFFICIAL ONEPEICE ART FOR USOPP BIRTHDAY",
-      "url": "https://nitter.net/pewpiece/status/2038996244219985985#m",
-      "date": "Tue, 31 Mar 2026 15:06:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEv4RAqXoAEBxos.jpg"
-      ]
-    },
-    {
-      "id": "f070d5db04b8e7e5fd04cab1ee32be4dcb006a5d4abf5e4ec2773020799ac0d1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1179 More details about Imu",
-      "text": "#ONEPIECE1179 More details about Imu",
-      "url": "https://nitter.net/pewpiece/status/2038915164481679486#m",
-      "date": "Tue, 31 Mar 2026 09:43:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEutZz4awAApgtl.jpg"
-      ]
-    },
-    {
-      "id": "a698cc3749aeb057c99cccab299dc16bc12b27a3a51af3342eec87bd89cea95d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "url": "https://nitter.net/pewpiece/status/2038612941927243905#m",
-      "date": "Mon, 30 Mar 2026 13:42:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEqauUobQAAI8DA.png"
-      ]
-    },
-    {
-      "id": "4b4db2183d6f55fa47a38838d38aed897f3b6516fa03fb11f94db3097c7809c7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Endgame",
-      "text": "Endgame",
-      "url": "https://nitter.net/pewpiece/status/2038547095162904612#m",
-      "date": "Mon, 30 Mar 2026 09:21:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEpfeiZaEAALwy4.jpg"
-      ]
     },
     {
       "id": "32c74f7cdbfec3715be7f62fe341171e7b2b35fcff2865183c2e6b40f1215900",
