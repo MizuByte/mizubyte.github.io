@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T22:21:34.999Z",
+  "generatedAt": "2026-04-01T23:01:18.136Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -80,19 +80,6 @@
       ]
     },
     {
-      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Garling since he became a Gorosei.. 😭😭🤣",
-      "text": "Garling since he became a Gorosei.. 😭😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
-      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "4c044d096916611465a697c246b08bc4372bf3ca14d9f093bcc5d0854ad37585",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -106,6 +93,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEzky3_WoAAZwPQ.jpg"
       ]
+    },
+    {
+      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Garling since he became a Gorosei.. 😭😭🤣",
+      "text": "Garling since he became a Gorosei.. 😭😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
+      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "fd16e7bec10c67f093954091bedde743509d9312e57a93dfed19bd3bb84db8cd",
@@ -169,14 +169,14 @@
       ]
     },
     {
-      "id": "b24c00122f93055a0bcf06422386d5efb80f44d3a4873e2df0615dd094ec1348",
+      "id": "aaf5aa71f7e66381b3cac33d91f0c38d660fc044db764f807f2b14bd35127e20",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "text": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/OPcom_info/status/2039359985097003097#m",
-      "date": "Wed, 01 Apr 2026 15:11:24 GMT",
+      "title": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "text": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/Mugiwara_23/status/2039442642765828174#m",
+      "date": "Wed, 01 Apr 2026 20:39:51 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
@@ -352,19 +352,6 @@
       ]
     },
     {
-      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Garling since he became a Gorosei.. 😭😭🤣",
-      "text": "Garling since he became a Gorosei.. 😭😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
-      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "4c044d096916611465a697c246b08bc4372bf3ca14d9f093bcc5d0854ad37585",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -378,6 +365,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEzky3_WoAAZwPQ.jpg"
       ]
+    },
+    {
+      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Garling since he became a Gorosei.. 😭😭🤣",
+      "text": "Garling since he became a Gorosei.. 😭😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
+      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "fd16e7bec10c67f093954091bedde743509d9312e57a93dfed19bd3bb84db8cd",
@@ -441,14 +441,14 @@
       ]
     },
     {
-      "id": "b24c00122f93055a0bcf06422386d5efb80f44d3a4873e2df0615dd094ec1348",
+      "id": "aaf5aa71f7e66381b3cac33d91f0c38d660fc044db764f807f2b14bd35127e20",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "text": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/OPcom_info/status/2039359985097003097#m",
-      "date": "Wed, 01 Apr 2026 15:11:24 GMT",
+      "title": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "text": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/Mugiwara_23/status/2039442642765828174#m",
+      "date": "Wed, 01 Apr 2026 20:39:51 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
