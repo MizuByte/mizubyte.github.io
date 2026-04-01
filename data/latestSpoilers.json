@@ -1,67 +1,39 @@
 {
-  "generatedAt": "2026-04-01T16:41:06.852Z",
+  "generatedAt": "2026-04-01T17:37:45.021Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "8c702dac8338a29882b2f73a635f7d330f84fb158e79dd89c36711f3e97b4230",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE #ONEPIECE1179 My take on how Imu probably looks based on text spoilers",
-      "text": "#ONEPIECE #ONEPIECE1179 My take on how Imu probably looks based on text spoilers",
-      "url": "https://nitter.net/OgHumanTripod/status/2039026987851714711#m",
-      "date": "Tue, 31 Mar 2026 17:08:11 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEwUPIHXoAAv4-5.jpg"
-      ]
-    },
-    {
-      "id": "984aacc92851ba30efa73b7b6db639f584fdce32ba7370330d165ebbfe00ca5b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1179] Oda King Of Foreshadowing! Remember when Oda was taking all the pictures and one of those pics being of imu at his desk. Well on the side, there is the sketch and in the sketch we see ",
-      "text": "[#ONEPIECE1179] Oda King Of Foreshadowing! Remember when Oda was taking all the pictures and one of those pics being of imu at his desk. Well on the side, there is the sketch and in the sketch we see person with cape,polearm & what maybe is horns!! Just like description that is given to us in spoilers about imu!!",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2038944345005387852#m",
-      "date": "Tue, 31 Mar 2026 11:39:48 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEvJEeabIAAMP93.jpg"
-      ]
-    },
-    {
-      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
-      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
-      ]
-    },
-    {
-      "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for reliable leaks and sources",
-      "text": "Follow me for reliable leaks and sources",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146164639105058#m",
-      "date": "Mon, 23 Mar 2026 18:20:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    }
-  ],
+  "spoilers": [],
   "misc": [
+    {
+      "id": "90b8f3b8b5c3268d922207d333ece979085651c4d06a8abb66399caa122cfd7a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Just saying, but I agree with people and the Galley Giant Pirate theory. Maybe it was the real Ragnir from first world who frozen them? And only current Ragnir can lift the ice? The fact",
+      "text": "#ONEPIECE1179 Just saying, but I agree with people and the Galley Giant Pirate theory. Maybe it was the real Ragnir from first world who frozen them? And only current Ragnir can lift the ice? The fact that Oda is mentioned so randomly in the chapter is a big hint for me. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 Loki and Luffy are searching for food together, and Loki mentions that the ice created by Ragnir can only be dissolved by Ragnir himself, otherwise it will exist forever. — https://nitter.net/WorstGenHQ/status/2039389639694295192#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2039392079730602450#m",
+      "date": "Wed, 01 Apr 2026 17:18:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE1f2Aya4AAdux3.jpg",
+        "https://nitter.net/pic/media%2FHE1eAWxXMAAAtaS.jpg"
+      ]
+    },
+    {
+      "id": "87d4ef727fda335811ab2cc4fc587990dcb1bb4220be858d0a0df15764d166d1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Loki and Luffy are searching for food together, and Loki mentions that the ice created by Ragnir can only be dissolved by Ragnir himself, otherwise it will exist forever.",
+      "text": "#ONEPIECE1179 Loki and Luffy are searching for food together, and Loki mentions that the ice created by Ragnir can only be dissolved by Ragnir himself, otherwise it will exist forever.",
+      "url": "https://nitter.net/WorstGenHQ/status/2039389639694295192#m",
+      "date": "Wed, 01 Apr 2026 17:09:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE1eAWxXMAAAtaS.jpg"
+      ]
+    },
     {
       "id": "32c74f7cdbfec3715be7f62fe341171e7b2b35fcff2865183c2e6b40f1215900",
       "anime": "onepiece",
@@ -122,124 +94,128 @@
       ]
     },
     {
-      "id": "9f022c02d9ff3d48543668a62b4abe4fc0d500cc23fb0540c1fad4b74985ebdf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I just know my moots liked this jimmy (@jimmysoldout) SEEING ZARALLAH GODSSON TONIGHT — https://nitter.net/jimmysoldout/status/2038762325398720735#m",
-      "text": "I just know my moots liked this jimmy (@jimmysoldout) SEEING ZARALLAH GODSSON TONIGHT — https://nitter.net/jimmysoldout/status/2038762325398720735#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039041363132498189#m",
-      "date": "Tue, 31 Mar 2026 18:05:19 GMT",
+      "id": "abb82837b1e962b1e41ba9a0195928873a1f92621b8e4ea279c9055822e4a128",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2039388238557724951#m",
+      "date": "Wed, 01 Apr 2026 17:03:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEsjhtYXMAAZ9as.jpg"
+        "https://nitter.net/pic/media%2FHE1cyuVWQAAGVwg.jpg"
       ]
     },
     {
-      "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty w",
-      "text": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty with his Rasengan 🌀 🗣️ Shoutout to VA @BennettAbara Video — https://nitter.net/VIZMedia/status/2037583324441346068#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2037844130278023313#m",
-      "date": "Sat, 28 Mar 2026 10:47:56 GMT",
+      "id": "05a0f8b32aa513e885b6bc843c04f9d32bad862e25f6e039b10e335d5e794c94",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk is finally getting a new anime adaptation by MAPPA 😳🔥 The announcement dropped just 1 hour ago, and fans are already losing their minds. After all these years… Guts is coming back in the way",
+      "text": "Berserk is finally getting a new anime adaptation by MAPPA 😳🔥 The announcement dropped just 1 hour ago, and fans are already losing their minds. After all these years… Guts is coming back in the way he deserves. 🩸⚔️ Are we ready for this?",
+      "url": "https://nitter.net/daily_berserk/status/2039053928663253083#m",
+      "date": "Tue, 31 Mar 2026 18:55:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEbzN_BWcAATNyH.jpg"
+        "https://nitter.net/pic/media%2FHEwsvVwWUAABami.jpg"
       ]
     },
     {
-      "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/statu",
-      "text": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/status/2035953190663786984#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146119718191184#m",
-      "date": "Mon, 23 Mar 2026 18:20:39 GMT",
+      "id": "c9ad67f7e6f87c2df82f61dc21798f545d7d375f96ca8b9eb5b2968b20469511",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk just got a HUGE update… and no one saw this coming 😳🔥 A brand-new anime adaptation by WIT Studio was announced just 1 hour ago. This could finally be the Berserk adaptation fans have been wa",
+      "text": "Berserk just got a HUGE update… and no one saw this coming 😳🔥 A brand-new anime adaptation by WIT Studio was announced just 1 hour ago. This could finally be the Berserk adaptation fans have been waiting for… 🩸⚔️ Do you think they’ll nail it?",
+      "url": "https://nitter.net/daily_berserk/status/2039115219327123565#m",
+      "date": "Tue, 31 Mar 2026 22:58:47 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEEon5KWgAAHN1x.jpg"
+        "https://nitter.net/pic/media%2FHExke_kbQAAjUvY.jpg"
       ]
     },
     {
-      "id": "c64a48391b6d3a2b26f20c5e2d289dcb4bfc995c50a8cd414e6b421d69cb8ae5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "text": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2035297657900396870#m",
-      "date": "Sat, 21 Mar 2026 10:09:10 GMT",
+      "id": "95a0bf3173042386bc9b020c78f25704f5c36a899183b8f5d8c84f20c09be233",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2039253310335574036#m",
+      "date": "Wed, 01 Apr 2026 08:07:31 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD7UbAVWEAAeSn5.jpg"
+        "https://nitter.net/pic/media%2FHEziEzdW4AA93C-.jpg"
+      ]
+    },
+    {
+      "id": "0efbff4cd93b483505743f1a0cec6579c2fcdc750a27865f5d7d13206b004acd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "People are saying it’s fake… but just look at this. This is the leaked provisional poster from MAPPA that’s been going around, and I’m showing it right here. Also, if you look closely at the bottom, i",
+      "text": "People are saying it’s fake… but just look at this. This is the leaked provisional poster from MAPPA that’s been going around, and I’m showing it right here. Also, if you look closely at the bottom, it kinda looks like it says “March 29”… 👀 I don’t know, judge for yourselves, but this feels off in a real way. 🩸⚔️ Daily Berserk 𒉭 (@daily_berserk) Berserk is finally getting a new anime adaptation by MAPPA 😳🔥 The announcement dropped just 1 hour ago, and fans are already losing their minds. After all these years… Guts is coming back in the way he deserves. 🩸⚔️ Are we ready for this? — https://nitter.net/daily_berserk/status/2039053928663253083#m",
+      "url": "https://nitter.net/daily_berserk/status/2039319507378868305#m",
+      "date": "Wed, 01 Apr 2026 12:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE0eAp1WMAAzf7D.jpg",
+        "https://nitter.net/pic/media%2FHEwsvVwWUAABami.jpg"
+      ]
+    },
+    {
+      "id": "e8e1127c8bc311dccda960791ef0e56f17fee8d3c01a341f0a1acbd6ec67f41e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2039024177168941213#m",
+      "date": "Tue, 31 Mar 2026 16:57:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEwRrpUWYAAitKm.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "8c702dac8338a29882b2f73a635f7d330f84fb158e79dd89c36711f3e97b4230",
+      "id": "90b8f3b8b5c3268d922207d333ece979085651c4d06a8abb66399caa122cfd7a",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE #ONEPIECE1179 My take on how Imu probably looks based on text spoilers",
-      "text": "#ONEPIECE #ONEPIECE1179 My take on how Imu probably looks based on text spoilers",
-      "url": "https://nitter.net/OgHumanTripod/status/2039026987851714711#m",
-      "date": "Tue, 31 Mar 2026 17:08:11 GMT",
-      "isSpoiler": true,
+      "title": "#ONEPIECE1179 Just saying, but I agree with people and the Galley Giant Pirate theory. Maybe it was the real Ragnir from first world who frozen them? And only current Ragnir can lift the ice? The fact",
+      "text": "#ONEPIECE1179 Just saying, but I agree with people and the Galley Giant Pirate theory. Maybe it was the real Ragnir from first world who frozen them? And only current Ragnir can lift the ice? The fact that Oda is mentioned so randomly in the chapter is a big hint for me. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 Loki and Luffy are searching for food together, and Loki mentions that the ice created by Ragnir can only be dissolved by Ragnir himself, otherwise it will exist forever. — https://nitter.net/WorstGenHQ/status/2039389639694295192#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2039392079730602450#m",
+      "date": "Wed, 01 Apr 2026 17:18:56 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEwUPIHXoAAv4-5.jpg"
+        "https://nitter.net/pic/media%2FHE1f2Aya4AAdux3.jpg",
+        "https://nitter.net/pic/media%2FHE1eAWxXMAAAtaS.jpg"
       ]
     },
     {
-      "id": "984aacc92851ba30efa73b7b6db639f584fdce32ba7370330d165ebbfe00ca5b",
+      "id": "87d4ef727fda335811ab2cc4fc587990dcb1bb4220be858d0a0df15764d166d1",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1179] Oda King Of Foreshadowing! Remember when Oda was taking all the pictures and one of those pics being of imu at his desk. Well on the side, there is the sketch and in the sketch we see ",
-      "text": "[#ONEPIECE1179] Oda King Of Foreshadowing! Remember when Oda was taking all the pictures and one of those pics being of imu at his desk. Well on the side, there is the sketch and in the sketch we see person with cape,polearm & what maybe is horns!! Just like description that is given to us in spoilers about imu!!",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2038944345005387852#m",
-      "date": "Tue, 31 Mar 2026 11:39:48 GMT",
-      "isSpoiler": true,
+      "title": "#ONEPIECE1179 Loki and Luffy are searching for food together, and Loki mentions that the ice created by Ragnir can only be dissolved by Ragnir himself, otherwise it will exist forever.",
+      "text": "#ONEPIECE1179 Loki and Luffy are searching for food together, and Loki mentions that the ice created by Ragnir can only be dissolved by Ragnir himself, otherwise it will exist forever.",
+      "url": "https://nitter.net/WorstGenHQ/status/2039389639694295192#m",
+      "date": "Wed, 01 Apr 2026 17:09:14 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEvJEeabIAAMP93.jpg"
+        "https://nitter.net/pic/media%2FHE1eAWxXMAAAtaS.jpg"
       ]
-    },
-    {
-      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
-      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
-      ]
-    },
-    {
-      "id": "3304051c5de7eb694c03f28257eb268750405ddde5bfebd49fcb54e7562cf493",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for reliable leaks and sources",
-      "text": "Follow me for reliable leaks and sources",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146164639105058#m",
-      "date": "Mon, 23 Mar 2026 18:20:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "32c74f7cdbfec3715be7f62fe341171e7b2b35fcff2865183c2e6b40f1215900",
@@ -301,63 +277,94 @@
       ]
     },
     {
-      "id": "9f022c02d9ff3d48543668a62b4abe4fc0d500cc23fb0540c1fad4b74985ebdf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I just know my moots liked this jimmy (@jimmysoldout) SEEING ZARALLAH GODSSON TONIGHT — https://nitter.net/jimmysoldout/status/2038762325398720735#m",
-      "text": "I just know my moots liked this jimmy (@jimmysoldout) SEEING ZARALLAH GODSSON TONIGHT — https://nitter.net/jimmysoldout/status/2038762325398720735#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039041363132498189#m",
-      "date": "Tue, 31 Mar 2026 18:05:19 GMT",
+      "id": "abb82837b1e962b1e41ba9a0195928873a1f92621b8e4ea279c9055822e4a128",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2039388238557724951#m",
+      "date": "Wed, 01 Apr 2026 17:03:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEsjhtYXMAAZ9as.jpg"
+        "https://nitter.net/pic/media%2FHE1cyuVWQAAGVwg.jpg"
       ]
     },
     {
-      "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty w",
-      "text": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty with his Rasengan 🌀 🗣️ Shoutout to VA @BennettAbara Video — https://nitter.net/VIZMedia/status/2037583324441346068#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2037844130278023313#m",
-      "date": "Sat, 28 Mar 2026 10:47:56 GMT",
+      "id": "05a0f8b32aa513e885b6bc843c04f9d32bad862e25f6e039b10e335d5e794c94",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk is finally getting a new anime adaptation by MAPPA 😳🔥 The announcement dropped just 1 hour ago, and fans are already losing their minds. After all these years… Guts is coming back in the way",
+      "text": "Berserk is finally getting a new anime adaptation by MAPPA 😳🔥 The announcement dropped just 1 hour ago, and fans are already losing their minds. After all these years… Guts is coming back in the way he deserves. 🩸⚔️ Are we ready for this?",
+      "url": "https://nitter.net/daily_berserk/status/2039053928663253083#m",
+      "date": "Tue, 31 Mar 2026 18:55:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEbzN_BWcAATNyH.jpg"
+        "https://nitter.net/pic/media%2FHEwsvVwWUAABami.jpg"
       ]
     },
     {
-      "id": "c813ee84dda76a361145092e3dd29a4cccfaf7230e7f9225c196d997bf95a9f3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/statu",
-      "text": "Boruto fans and their fake news recently start to piss me off😭😭 #BORUTO shinei🀄 (@borutoskxrma) BORUTO PART 2 ANIME ANNOUNCEMENT CONFIRMED FOR MAY 2026🔥🔥🔥 — https://nitter.net/borutoskxrma/status/2035953190663786984#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2036146119718191184#m",
-      "date": "Mon, 23 Mar 2026 18:20:39 GMT",
+      "id": "c9ad67f7e6f87c2df82f61dc21798f545d7d375f96ca8b9eb5b2968b20469511",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk just got a HUGE update… and no one saw this coming 😳🔥 A brand-new anime adaptation by WIT Studio was announced just 1 hour ago. This could finally be the Berserk adaptation fans have been wa",
+      "text": "Berserk just got a HUGE update… and no one saw this coming 😳🔥 A brand-new anime adaptation by WIT Studio was announced just 1 hour ago. This could finally be the Berserk adaptation fans have been waiting for… 🩸⚔️ Do you think they’ll nail it?",
+      "url": "https://nitter.net/daily_berserk/status/2039115219327123565#m",
+      "date": "Tue, 31 Mar 2026 22:58:47 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEEon5KWgAAHN1x.jpg"
+        "https://nitter.net/pic/media%2FHExke_kbQAAjUvY.jpg"
       ]
     },
     {
-      "id": "c64a48391b6d3a2b26f20c5e2d289dcb4bfc995c50a8cd414e6b421d69cb8ae5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "text": "Day 1 of having enough: Toneri Otsutsuki is the only character who can save the Boruto Timeskip #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2035297657900396870#m",
-      "date": "Sat, 21 Mar 2026 10:09:10 GMT",
+      "id": "95a0bf3173042386bc9b020c78f25704f5c36a899183b8f5d8c84f20c09be233",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2039253310335574036#m",
+      "date": "Wed, 01 Apr 2026 08:07:31 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHD7UbAVWEAAeSn5.jpg"
+        "https://nitter.net/pic/media%2FHEziEzdW4AA93C-.jpg"
+      ]
+    },
+    {
+      "id": "0efbff4cd93b483505743f1a0cec6579c2fcdc750a27865f5d7d13206b004acd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "People are saying it’s fake… but just look at this. This is the leaked provisional poster from MAPPA that’s been going around, and I’m showing it right here. Also, if you look closely at the bottom, i",
+      "text": "People are saying it’s fake… but just look at this. This is the leaked provisional poster from MAPPA that’s been going around, and I’m showing it right here. Also, if you look closely at the bottom, it kinda looks like it says “March 29”… 👀 I don’t know, judge for yourselves, but this feels off in a real way. 🩸⚔️ Daily Berserk 𒉭 (@daily_berserk) Berserk is finally getting a new anime adaptation by MAPPA 😳🔥 The announcement dropped just 1 hour ago, and fans are already losing their minds. After all these years… Guts is coming back in the way he deserves. 🩸⚔️ Are we ready for this? — https://nitter.net/daily_berserk/status/2039053928663253083#m",
+      "url": "https://nitter.net/daily_berserk/status/2039319507378868305#m",
+      "date": "Wed, 01 Apr 2026 12:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE0eAp1WMAAzf7D.jpg",
+        "https://nitter.net/pic/media%2FHEwsvVwWUAABami.jpg"
+      ]
+    },
+    {
+      "id": "e8e1127c8bc311dccda960791ef0e56f17fee8d3c01a341f0a1acbd6ec67f41e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2039024177168941213#m",
+      "date": "Tue, 31 Mar 2026 16:57:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEwRrpUWYAAitKm.jpg"
       ]
     }
   ]
