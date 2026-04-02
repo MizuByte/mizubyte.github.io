@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-04-02T07:45:18.719Z",
+  "generatedAt": "2026-04-02T08:39:58.458Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "3996ba08cb463f9ca6c0ba33278b27d17b457d035d74216295b913b27558401e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#OnePiece #OnePiece1179 #opspoilers The Final Villain - A Thread 🧵",
+      "text": "#OnePiece #OnePiece1179 #opspoilers The Final Villain - A Thread 🧵",
+      "url": "https://nitter.net/writingpanini/status/2039610437294071863#m",
+      "date": "Thu, 02 Apr 2026 07:46:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4iyN6awAAAuW8.png",
+        "https://nitter.net/pic/media%2FHE4i3ncXAAArvHC.png"
+      ]
+    },
     {
       "id": "b5efdacc0777251480b9d167c1f64f82e5025512da3ca2b1b4d1bdf3917d2838",
       "anime": "onepiece",
@@ -35,6 +51,21 @@
   ],
   "misc": [
     {
+      "id": "a437c474b0926a1e658eb4e47143844e99940a3c0fd18f00baf1537c7de72a93",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 My friends told me he had a tanned skin(might be a Lunarian) but I like more the idea of him having a red skin, like the devil",
+      "text": "#ONEPIECE1179 My friends told me he had a tanned skin(might be a Lunarian) but I like more the idea of him having a red skin, like the devil",
+      "url": "https://nitter.net/WorstGenHQ/status/2039610841285132676#m",
+      "date": "Thu, 02 Apr 2026 07:48:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4nP-lXkAAigtv.jpg"
+      ]
+    },
+    {
       "id": "602cfdc62ff0f35eb41679ac7d3771d76670eb465bf5bb0d582c111a3bb32a33",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -62,38 +93,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "445f41758f5464d55b34bf01e345828e1849605b6c7dada60fc7d2f39e7f0c42",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I see enough...",
-      "text": "#ONEPIECE1179 I see enough...",
-      "url": "https://nitter.net/WorstGenHQ/status/2039590974943371359#m",
-      "date": "Thu, 02 Apr 2026 06:29:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE4VLa6WMAAesDs.jpg",
-        "https://nitter.net/pic/media%2FHE4VLaHWwAAuE3L.jpg",
-        "https://nitter.net/pic/media%2FHE4VLd8bwAABIkP.jpg"
-      ]
-    },
-    {
-      "id": "8738bf9d4fe4bf6fa00b2e6f66ee24c3d016d15959d0ad4b345aa6be23984806",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 GREATEST MANGA REVEAL AND HYPE MOMENT IN HISTORY😭🔥🔥🔥🔥🔥🔥🔥🔥🔥 I'm still speechless...",
-      "text": "#ONEPIECE1179 GREATEST MANGA REVEAL AND HYPE MOMENT IN HISTORY😭🔥🔥🔥🔥🔥🔥🔥🔥🔥 I'm still speechless...",
-      "url": "https://nitter.net/WorstGenHQ/status/2039584691225792520#m",
-      "date": "Thu, 02 Apr 2026 06:04:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE4PdSOW8AAcv3Z.jpg"
-      ]
     },
     {
       "id": "38abe04ac5879161bab990f61f468da555c1369fa67ee34b76e1a90d2627e2e7",
@@ -235,21 +234,6 @@
       ]
     },
     {
-      "id": "95a0bf3173042386bc9b020c78f25704f5c36a899183b8f5d8c84f20c09be233",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2039253310335574036#m",
-      "date": "Wed, 01 Apr 2026 08:07:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEziEzdW4AA93C-.jpg"
-      ]
-    },
-    {
       "id": "0efbff4cd93b483505743f1a0cec6579c2fcdc750a27865f5d7d13206b004acd",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -266,22 +250,53 @@
       ]
     },
     {
-      "id": "e8e1127c8bc311dccda960791ef0e56f17fee8d3c01a341f0a1acbd6ec67f41e",
+      "id": "4219ba0b308335fe114a4bbb1cd96059a95ae835f3330a0214fedbadfc02967b",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2039024177168941213#m",
-      "date": "Tue, 31 Mar 2026 16:57:01 GMT",
+      "title": "Berserk x Monster x Vagabond",
+      "text": "Berserk x Monster x Vagabond",
+      "url": "https://nitter.net/daily_berserk/status/2038976440331284538#m",
+      "date": "Tue, 31 Mar 2026 13:47:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEwRrpUWYAAitKm.jpg"
+        "https://nitter.net/pic/media%2FHEvmQ65bAAAr4At.jpg"
+      ]
+    },
+    {
+      "id": "eaf8f8fa9a126193f6df07b998d276eb8cef9764d4d639a315976a27827682cd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038896529780445694#m",
+      "date": "Tue, 31 Mar 2026 08:29:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEudlhdXsAAhEew.jpg"
       ]
     }
   ],
   "items": [
+    {
+      "id": "3996ba08cb463f9ca6c0ba33278b27d17b457d035d74216295b913b27558401e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#OnePiece #OnePiece1179 #opspoilers The Final Villain - A Thread 🧵",
+      "text": "#OnePiece #OnePiece1179 #opspoilers The Final Villain - A Thread 🧵",
+      "url": "https://nitter.net/writingpanini/status/2039610437294071863#m",
+      "date": "Thu, 02 Apr 2026 07:46:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4iyN6awAAAuW8.png",
+        "https://nitter.net/pic/media%2FHE4i3ncXAAArvHC.png"
+      ]
+    },
     {
       "id": "b5efdacc0777251480b9d167c1f64f82e5025512da3ca2b1b4d1bdf3917d2838",
       "anime": "onepiece",
@@ -313,6 +328,21 @@
       ]
     },
     {
+      "id": "a437c474b0926a1e658eb4e47143844e99940a3c0fd18f00baf1537c7de72a93",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 My friends told me he had a tanned skin(might be a Lunarian) but I like more the idea of him having a red skin, like the devil",
+      "text": "#ONEPIECE1179 My friends told me he had a tanned skin(might be a Lunarian) but I like more the idea of him having a red skin, like the devil",
+      "url": "https://nitter.net/WorstGenHQ/status/2039610841285132676#m",
+      "date": "Thu, 02 Apr 2026 07:48:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4nP-lXkAAigtv.jpg"
+      ]
+    },
+    {
       "id": "602cfdc62ff0f35eb41679ac7d3771d76670eb465bf5bb0d582c111a3bb32a33",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -340,38 +370,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "445f41758f5464d55b34bf01e345828e1849605b6c7dada60fc7d2f39e7f0c42",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I see enough...",
-      "text": "#ONEPIECE1179 I see enough...",
-      "url": "https://nitter.net/WorstGenHQ/status/2039590974943371359#m",
-      "date": "Thu, 02 Apr 2026 06:29:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE4VLa6WMAAesDs.jpg",
-        "https://nitter.net/pic/media%2FHE4VLaHWwAAuE3L.jpg",
-        "https://nitter.net/pic/media%2FHE4VLd8bwAABIkP.jpg"
-      ]
-    },
-    {
-      "id": "8738bf9d4fe4bf6fa00b2e6f66ee24c3d016d15959d0ad4b345aa6be23984806",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 GREATEST MANGA REVEAL AND HYPE MOMENT IN HISTORY😭🔥🔥🔥🔥🔥🔥🔥🔥🔥 I'm still speechless...",
-      "text": "#ONEPIECE1179 GREATEST MANGA REVEAL AND HYPE MOMENT IN HISTORY😭🔥🔥🔥🔥🔥🔥🔥🔥🔥 I'm still speechless...",
-      "url": "https://nitter.net/WorstGenHQ/status/2039584691225792520#m",
-      "date": "Thu, 02 Apr 2026 06:04:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE4PdSOW8AAcv3Z.jpg"
-      ]
     },
     {
       "id": "38abe04ac5879161bab990f61f468da555c1369fa67ee34b76e1a90d2627e2e7",
@@ -513,21 +511,6 @@
       ]
     },
     {
-      "id": "95a0bf3173042386bc9b020c78f25704f5c36a899183b8f5d8c84f20c09be233",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2039253310335574036#m",
-      "date": "Wed, 01 Apr 2026 08:07:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEziEzdW4AA93C-.jpg"
-      ]
-    },
-    {
       "id": "0efbff4cd93b483505743f1a0cec6579c2fcdc750a27865f5d7d13206b004acd",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -544,18 +527,33 @@
       ]
     },
     {
-      "id": "e8e1127c8bc311dccda960791ef0e56f17fee8d3c01a341f0a1acbd6ec67f41e",
+      "id": "4219ba0b308335fe114a4bbb1cd96059a95ae835f3330a0214fedbadfc02967b",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2039024177168941213#m",
-      "date": "Tue, 31 Mar 2026 16:57:01 GMT",
+      "title": "Berserk x Monster x Vagabond",
+      "text": "Berserk x Monster x Vagabond",
+      "url": "https://nitter.net/daily_berserk/status/2038976440331284538#m",
+      "date": "Tue, 31 Mar 2026 13:47:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEwRrpUWYAAitKm.jpg"
+        "https://nitter.net/pic/media%2FHEvmQ65bAAAr4At.jpg"
+      ]
+    },
+    {
+      "id": "eaf8f8fa9a126193f6df07b998d276eb8cef9764d4d639a315976a27827682cd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2038896529780445694#m",
+      "date": "Tue, 31 Mar 2026 08:29:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEudlhdXsAAhEew.jpg"
       ]
     }
   ]
