@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T23:52:56.614Z",
+  "generatedAt": "2026-04-02T01:51:09.366Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -17,82 +17,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "fd16e7bec10c67f093954091bedde743509d9312e57a93dfed19bd3bb84db8cd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El ",
-      "text": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El único pero que le pongo es que Estela debería haber tenido más protagonismo 😓 Nintendo España (@NintendoES) ¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película. — https://nitter.net/NintendoES/status/2039251422437314921#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2039451909619118128#m",
-      "date": "Wed, 01 Apr 2026 21:16:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE2WqUoWwAAXleJ.jpg",
-        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
-      ]
-    },
-    {
-      "id": "f81d90e8db6bddf4f51433a20c828e52ff80006bb23fc7296ba70d23a4ebf77f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — ",
-      "text": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — https://nitter.net/OPcom_info/status/2039359985097003097#m",
-      "url": "https://nitter.net/riin428/status/2039365109605089568#m",
-      "date": "Wed, 01 Apr 2026 15:31:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
-      ]
-    },
-    {
-      "id": "b6227da5c004d596783375b1d9839a850b152927467cf75564f33ade4cdd1064",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
-      "text": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
-      "url": "https://nitter.net/NintendoES/status/2039251422437314921#m",
-      "date": "Wed, 01 Apr 2026 08:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
-      ]
-    },
-    {
-      "id": "4c02876c6c84ceb41563b805c2bbceb73229def6d84208628cfd7520cdea729e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "カラー依頼の色紙完了。",
-      "text": "カラー依頼の色紙完了。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2039256995023479227#m",
-      "date": "Wed, 01 Apr 2026 08:22:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEzlbKKa8AAIr5Q.jpg"
-      ]
-    },
-    {
-      "id": "b24c00122f93055a0bcf06422386d5efb80f44d3a4873e2df0615dd094ec1348",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "text": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/OPcom_info/status/2039359985097003097#m",
-      "date": "Wed, 01 Apr 2026 15:11:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
-      ]
-    },
     {
       "id": "90b8f3b8b5c3268d922207d333ece979085651c4d06a8abb66399caa122cfd7a",
       "anime": "onepiece",
@@ -156,6 +80,19 @@
       ]
     },
     {
+      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Garling since he became a Gorosei.. 😭😭🤣",
+      "text": "Garling since he became a Gorosei.. 😭😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
+      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "4c044d096916611465a697c246b08bc4372bf3ca14d9f093bcc5d0854ad37585",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -171,17 +108,80 @@
       ]
     },
     {
-      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "id": "fd16e7bec10c67f093954091bedde743509d9312e57a93dfed19bd3bb84db8cd",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Garling since he became a Gorosei.. 😭😭🤣",
-      "text": "Garling since he became a Gorosei.. 😭😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
-      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El ",
+      "text": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El único pero que le pongo es que Estela debería haber tenido más protagonismo 😓 Nintendo España (@NintendoES) ¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película. — https://nitter.net/NintendoES/status/2039251422437314921#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2039451909619118128#m",
+      "date": "Wed, 01 Apr 2026 21:16:41 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE2WqUoWwAAXleJ.jpg",
+        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
+      ]
+    },
+    {
+      "id": "f81d90e8db6bddf4f51433a20c828e52ff80006bb23fc7296ba70d23a4ebf77f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — ",
+      "text": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — https://nitter.net/OPcom_info/status/2039359985097003097#m",
+      "url": "https://nitter.net/riin428/status/2039365109605089568#m",
+      "date": "Wed, 01 Apr 2026 15:31:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
+      ]
+    },
+    {
+      "id": "b6227da5c004d596783375b1d9839a850b152927467cf75564f33ade4cdd1064",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
+      "text": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
+      "url": "https://nitter.net/NintendoES/status/2039251422437314921#m",
+      "date": "Wed, 01 Apr 2026 08:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
+      ]
+    },
+    {
+      "id": "4c02876c6c84ceb41563b805c2bbceb73229def6d84208628cfd7520cdea729e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "カラー依頼の色紙完了。",
+      "text": "カラー依頼の色紙完了。",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2039256995023479227#m",
+      "date": "Wed, 01 Apr 2026 08:22:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEzlbKKa8AAIr5Q.jpg"
+      ]
+    },
+    {
+      "id": "aaf5aa71f7e66381b3cac33d91f0c38d660fc044db764f807f2b14bd35127e20",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "text": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/Mugiwara_23/status/2039442642765828174#m",
+      "date": "Wed, 01 Apr 2026 20:39:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
+      ]
     },
     {
       "id": "abb82837b1e962b1e41ba9a0195928873a1f92621b8e4ea279c9055822e4a128",
@@ -290,82 +290,6 @@
       "attachments": []
     },
     {
-      "id": "fd16e7bec10c67f093954091bedde743509d9312e57a93dfed19bd3bb84db8cd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El ",
-      "text": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El único pero que le pongo es que Estela debería haber tenido más protagonismo 😓 Nintendo España (@NintendoES) ¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película. — https://nitter.net/NintendoES/status/2039251422437314921#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2039451909619118128#m",
-      "date": "Wed, 01 Apr 2026 21:16:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE2WqUoWwAAXleJ.jpg",
-        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
-      ]
-    },
-    {
-      "id": "f81d90e8db6bddf4f51433a20c828e52ff80006bb23fc7296ba70d23a4ebf77f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — ",
-      "text": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — https://nitter.net/OPcom_info/status/2039359985097003097#m",
-      "url": "https://nitter.net/riin428/status/2039365109605089568#m",
-      "date": "Wed, 01 Apr 2026 15:31:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
-      ]
-    },
-    {
-      "id": "b6227da5c004d596783375b1d9839a850b152927467cf75564f33ade4cdd1064",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
-      "text": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
-      "url": "https://nitter.net/NintendoES/status/2039251422437314921#m",
-      "date": "Wed, 01 Apr 2026 08:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
-      ]
-    },
-    {
-      "id": "4c02876c6c84ceb41563b805c2bbceb73229def6d84208628cfd7520cdea729e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "カラー依頼の色紙完了。",
-      "text": "カラー依頼の色紙完了。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2039256995023479227#m",
-      "date": "Wed, 01 Apr 2026 08:22:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEzlbKKa8AAIr5Q.jpg"
-      ]
-    },
-    {
-      "id": "b24c00122f93055a0bcf06422386d5efb80f44d3a4873e2df0615dd094ec1348",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "text": "4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
-      "url": "https://nitter.net/OPcom_info/status/2039359985097003097#m",
-      "date": "Wed, 01 Apr 2026 15:11:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
-      ]
-    },
-    {
       "id": "90b8f3b8b5c3268d922207d333ece979085651c4d06a8abb66399caa122cfd7a",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -428,6 +352,19 @@
       ]
     },
     {
+      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Garling since he became a Gorosei.. 😭😭🤣",
+      "text": "Garling since he became a Gorosei.. 😭😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
+      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "4c044d096916611465a697c246b08bc4372bf3ca14d9f093bcc5d0854ad37585",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -443,17 +380,80 @@
       ]
     },
     {
-      "id": "9d45c377eca9cebd6b8bc91e3294ad812c79fca79d5d9d9d547a6d3e03083c3e",
+      "id": "fd16e7bec10c67f093954091bedde743509d9312e57a93dfed19bd3bb84db8cd",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Garling since he became a Gorosei.. 😭😭🤣",
-      "text": "Garling since he became a Gorosei.. 😭😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2039256711693799448#m",
-      "date": "Wed, 01 Apr 2026 08:21:02 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El ",
+      "text": "¡¡Ya he visto #TheSuperMarioGalaxyMovie y me ha encantado igual que la primera 😍😍😍!! Otro regalo para los fans de Mario, con grandes incorporaciones como Yoshi, Bowsy y sobretodo Fox McCloud 🦊 El único pero que le pongo es que Estela debería haber tenido más protagonismo 😓 Nintendo España (@NintendoES) ¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película. — https://nitter.net/NintendoES/status/2039251422437314921#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2039451909619118128#m",
+      "date": "Wed, 01 Apr 2026 21:16:41 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE2WqUoWwAAXleJ.jpg",
+        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
+      ]
+    },
+    {
+      "id": "f81d90e8db6bddf4f51433a20c828e52ff80006bb23fc7296ba70d23a4ebf77f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — ",
+      "text": "Happy Birthday, Jinbe! I drew this birthday illustration for Jinbei ! ジンベエ、お誕生日おめでとう！ジンベエの誕生日イラストを描きました！ ONE PIECE.com(ワンピース) (@OPcom_info) 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE — https://nitter.net/OPcom_info/status/2039359985097003097#m",
+      "url": "https://nitter.net/riin428/status/2039365109605089568#m",
+      "date": "Wed, 01 Apr 2026 15:31:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
+      ]
+    },
+    {
+      "id": "b6227da5c004d596783375b1d9839a850b152927467cf75564f33ade4cdd1064",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
+      "text": "¡La galaxia aguarda! Ya está en cines Super Mario Galaxy La Película.",
+      "url": "https://nitter.net/NintendoES/status/2039251422437314921#m",
+      "date": "Wed, 01 Apr 2026 08:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHExe4GkWYAAteau.jpg"
+      ]
+    },
+    {
+      "id": "4c02876c6c84ceb41563b805c2bbceb73229def6d84208628cfd7520cdea729e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "カラー依頼の色紙完了。",
+      "text": "カラー依頼の色紙完了。",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2039256995023479227#m",
+      "date": "Wed, 01 Apr 2026 08:22:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEzlbKKa8AAIr5Q.jpg"
+      ]
+    },
+    {
+      "id": "aaf5aa71f7e66381b3cac33d91f0c38d660fc044db764f807f2b14bd35127e20",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "text": "RT @OPcom_info: 4月2日はジンベエの誕生日 HAPPY BIRTHDAY JINBE #ジンベエ誕生祭2026 #ONEPIECE",
+      "url": "https://nitter.net/Mugiwara_23/status/2039442642765828174#m",
+      "date": "Wed, 01 Apr 2026 20:39:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE1DGM9aoAEuCje.jpg"
+      ]
     },
     {
       "id": "abb82837b1e962b1e41ba9a0195928873a1f92621b8e4ea279c9055822e4a128",
