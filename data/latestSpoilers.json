@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T05:25:48.582Z",
+  "generatedAt": "2026-04-03T06:51:09.337Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -32,6 +32,19 @@
     }
   ],
   "misc": [
+    {
+      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
+      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
       "anime": "onepiece",
@@ -106,22 +119,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHE6_KTxa0AAm41z.jpg",
         "https://nitter.net/pic/media%2FHE6wqElWsAA_kNa.jpg"
-      ]
-    },
-    {
-      "id": "a9663d52e0f56adeea170a7b45b477e7ad97d5727e9f7e4ef3cc9db38fb981f0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Kilingham to Sanji",
-      "text": "#ONEPIECE1179 Kilingham to Sanji",
-      "url": "https://nitter.net/WorstGenHQ/status/2039779205106299310#m",
-      "date": "Thu, 02 Apr 2026 18:57:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE7AYMQa0AAzghj.jpg",
-        "https://nitter.net/pic/media%2FHE7AYJza0AASMF5.jpg"
       ]
     },
     {
@@ -373,6 +370,19 @@
       "attachments": []
     },
     {
+      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
+      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -446,22 +456,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHE6_KTxa0AAm41z.jpg",
         "https://nitter.net/pic/media%2FHE6wqElWsAA_kNa.jpg"
-      ]
-    },
-    {
-      "id": "a9663d52e0f56adeea170a7b45b477e7ad97d5727e9f7e4ef3cc9db38fb981f0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Kilingham to Sanji",
-      "text": "#ONEPIECE1179 Kilingham to Sanji",
-      "url": "https://nitter.net/WorstGenHQ/status/2039779205106299310#m",
-      "date": "Thu, 02 Apr 2026 18:57:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE7AYMQa0AAzghj.jpg",
-        "https://nitter.net/pic/media%2FHE7AYJza0AASMF5.jpg"
       ]
     },
     {
