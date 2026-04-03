@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T17:01:12.445Z",
+  "generatedAt": "2026-04-03T17:55:29.695Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -12,10 +12,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2039980614913343700#m",
       "date": "Fri, 03 Apr 2026 08:17:34 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
@@ -44,6 +42,36 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "70840ba76bf33a32dd41a720ab124ab50511fb6f2cfabaf901efabfff9a9a49b",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Upcoming Chapter Preview and update HQ version #BlackClover #BCSpoilers",
+      "text": "Black Clover Upcoming Chapter Preview and update HQ version #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2040114760650567918#m",
+      "date": "Fri, 03 Apr 2026 17:10:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_xj_1agAA8PYO.jpg"
+      ]
+    },
+    {
+      "id": "6b9e8bc5459f018e2a7bd841f099babcc76142ffc61e9279a1f1800433ea5630",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/ChcqRnQd4j Also don't forget to Join my discord for more Ani Manga spoilers earliest",
+      "text": "discord.gg/ChcqRnQd4j Also don't forget to Join my discord for more Ani Manga spoilers earliest",
+      "url": "https://nitter.net/PacemanOP/status/2039592284275269963#m",
+      "date": "Thu, 02 Apr 2026 06:34:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
+      ]
     }
   ],
   "misc": [
@@ -278,6 +306,60 @@
       ]
     },
     {
+      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
+      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
+      ]
+    },
+    {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
+      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
+      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
+      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "0a538ebb550a70a5611046d05ae060787fcaf8cce85de4d24b6808c7cc1f31cc",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -290,66 +372,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_l4_qb0AAK0dM.jpg"
-      ]
-    },
-    {
-      "id": "230eb5c9929c66ec345e4eb2478e0037af8eea51cd32fe3cc7a873585fffa4f9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "❤️",
-      "text": "❤️",
-      "url": "https://nitter.net/daily_berserk/status/2040012144817648023#m",
-      "date": "Fri, 03 Apr 2026 10:22:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-UO90XAAAiatW.jpg"
-      ]
-    },
-    {
-      "id": "c1b9304a39aa5777ddb705e126c36b638435700c1f1a12a6bbe774e3f224c0ac",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2040043056687149164#m",
-      "date": "Fri, 03 Apr 2026 12:25:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-wVigXwAAoaGT.jpg"
-      ]
-    },
-    {
-      "id": "ba6637dbadd113378024af1f25e9afe5176e415e658fbab88f889c60c6d43326",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2039845021554294808#m",
-      "date": "Thu, 02 Apr 2026 23:18:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE78O9daoAAqTJI.jpg"
-      ]
-    },
-    {
-      "id": "ff2939f5f9174280deb070f1ae9dcb48be6b0d30d5e30a2156f4d405f30fc0df",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2039775552697962786#m",
-      "date": "Thu, 02 Apr 2026 18:42:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE69DY9WAAAQv50.jpg"
       ]
     }
   ],
@@ -364,10 +386,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2039980614913343700#m",
       "date": "Fri, 03 Apr 2026 08:17:34 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
@@ -396,6 +416,36 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "70840ba76bf33a32dd41a720ab124ab50511fb6f2cfabaf901efabfff9a9a49b",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Upcoming Chapter Preview and update HQ version #BlackClover #BCSpoilers",
+      "text": "Black Clover Upcoming Chapter Preview and update HQ version #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2040114760650567918#m",
+      "date": "Fri, 03 Apr 2026 17:10:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_xj_1agAA8PYO.jpg"
+      ]
+    },
+    {
+      "id": "6b9e8bc5459f018e2a7bd841f099babcc76142ffc61e9279a1f1800433ea5630",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/ChcqRnQd4j Also don't forget to Join my discord for more Ani Manga spoilers earliest",
+      "text": "discord.gg/ChcqRnQd4j Also don't forget to Join my discord for more Ani Manga spoilers earliest",
+      "url": "https://nitter.net/PacemanOP/status/2039592284275269963#m",
+      "date": "Thu, 02 Apr 2026 06:34:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
+      ]
     },
     {
       "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
@@ -628,6 +678,60 @@
       ]
     },
     {
+      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
+      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
+      ]
+    },
+    {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
+      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
+      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
+      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "0a538ebb550a70a5611046d05ae060787fcaf8cce85de4d24b6808c7cc1f31cc",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -640,66 +744,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_l4_qb0AAK0dM.jpg"
-      ]
-    },
-    {
-      "id": "230eb5c9929c66ec345e4eb2478e0037af8eea51cd32fe3cc7a873585fffa4f9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "❤️",
-      "text": "❤️",
-      "url": "https://nitter.net/daily_berserk/status/2040012144817648023#m",
-      "date": "Fri, 03 Apr 2026 10:22:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-UO90XAAAiatW.jpg"
-      ]
-    },
-    {
-      "id": "c1b9304a39aa5777ddb705e126c36b638435700c1f1a12a6bbe774e3f224c0ac",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2040043056687149164#m",
-      "date": "Fri, 03 Apr 2026 12:25:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-wVigXwAAoaGT.jpg"
-      ]
-    },
-    {
-      "id": "ba6637dbadd113378024af1f25e9afe5176e415e658fbab88f889c60c6d43326",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2039845021554294808#m",
-      "date": "Thu, 02 Apr 2026 23:18:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE78O9daoAAqTJI.jpg"
-      ]
-    },
-    {
-      "id": "ff2939f5f9174280deb070f1ae9dcb48be6b0d30d5e30a2156f4d405f30fc0df",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2039775552697962786#m",
-      "date": "Thu, 02 Apr 2026 18:42:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE69DY9WAAAQv50.jpg"
       ]
     }
   ]
