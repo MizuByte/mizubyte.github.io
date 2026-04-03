@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:06:16.035Z",
+  "generatedAt": "2026-04-03T11:56:43.219Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,79 +47,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
-      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
-      ]
-    },
-    {
-      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
-      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece fans pfps rn:",
-      "text": "One Piece fans pfps rn:",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
-      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
-      ]
-    },
-    {
-      "id": "a056df8fedf3fc8f578b8456b3d4821bccd6dfbdfee48190a5f32654c638f705",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179",
-      "text": "#ONEPIECE1179",
-      "url": "https://nitter.net/Toadgashi/status/2039831003762401700#m",
-      "date": "Thu, 02 Apr 2026 22:23:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE7vd48XYAAw7aX.jpg"
-      ]
-    },
-    {
-      "id": "a603ceff8526aa6fd4c636c792a5c57dea66069f53cef7c8271eab8a7ede4b6a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
-      "text": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
-      "url": "https://nitter.net/WorstGenHQ/status/2039815727679484075#m",
-      "date": "Thu, 02 Apr 2026 21:22:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2039815730904915968%2FTo-CV8LJ%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
     {
       "id": "11676fad50a2c3ceb4f1b8345232bb0500336bd6aa961dae894160041a8d04ac",
       "anime": "onepiece",
@@ -207,6 +134,79 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHE9tUYSasAAbeGr.jpg",
         "https://nitter.net/pic/media%2FHE9tV8NbIAEVcAB.jpg"
+      ]
+    },
+    {
+      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
+      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
+      ]
+    },
+    {
+      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
+      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece fans pfps rn:",
+      "text": "One Piece fans pfps rn:",
+      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
+      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
+      ]
+    },
+    {
+      "id": "a056df8fedf3fc8f578b8456b3d4821bccd6dfbdfee48190a5f32654c638f705",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179",
+      "text": "#ONEPIECE1179",
+      "url": "https://nitter.net/Toadgashi/status/2039831003762401700#m",
+      "date": "Thu, 02 Apr 2026 22:23:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE7vd48XYAAw7aX.jpg"
+      ]
+    },
+    {
+      "id": "a603ceff8526aa6fd4c636c792a5c57dea66069f53cef7c8271eab8a7ede4b6a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
+      "text": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
+      "url": "https://nitter.net/WorstGenHQ/status/2039815727679484075#m",
+      "date": "Thu, 02 Apr 2026 21:22:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2039815730904915968%2FTo-CV8LJ%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
@@ -388,79 +388,6 @@
       "attachments": []
     },
     {
-      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
-      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
-      ]
-    },
-    {
-      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
-      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece fans pfps rn:",
-      "text": "One Piece fans pfps rn:",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
-      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
-      ]
-    },
-    {
-      "id": "a056df8fedf3fc8f578b8456b3d4821bccd6dfbdfee48190a5f32654c638f705",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179",
-      "text": "#ONEPIECE1179",
-      "url": "https://nitter.net/Toadgashi/status/2039831003762401700#m",
-      "date": "Thu, 02 Apr 2026 22:23:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE7vd48XYAAw7aX.jpg"
-      ]
-    },
-    {
-      "id": "a603ceff8526aa6fd4c636c792a5c57dea66069f53cef7c8271eab8a7ede4b6a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
-      "text": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
-      "url": "https://nitter.net/WorstGenHQ/status/2039815727679484075#m",
-      "date": "Thu, 02 Apr 2026 21:22:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2039815730904915968%2FTo-CV8LJ%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
-    {
       "id": "11676fad50a2c3ceb4f1b8345232bb0500336bd6aa961dae894160041a8d04ac",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -547,6 +474,79 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHE9tUYSasAAbeGr.jpg",
         "https://nitter.net/pic/media%2FHE9tV8NbIAEVcAB.jpg"
+      ]
+    },
+    {
+      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
+      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
+      ]
+    },
+    {
+      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
+      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece fans pfps rn:",
+      "text": "One Piece fans pfps rn:",
+      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
+      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
+      ]
+    },
+    {
+      "id": "a056df8fedf3fc8f578b8456b3d4821bccd6dfbdfee48190a5f32654c638f705",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179",
+      "text": "#ONEPIECE1179",
+      "url": "https://nitter.net/Toadgashi/status/2039831003762401700#m",
+      "date": "Thu, 02 Apr 2026 22:23:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE7vd48XYAAw7aX.jpg"
+      ]
+    },
+    {
+      "id": "a603ceff8526aa6fd4c636c792a5c57dea66069f53cef7c8271eab8a7ede4b6a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
+      "text": "#ONEPIECE1179 Morj gonna take that W this time, I hope for it... 🙏 Oda Gave Away Elbaf’s Ending And No One Noticed piped.video/6yWuf7Q4knw?si=kmD9… via @YouTube",
+      "url": "https://nitter.net/WorstGenHQ/status/2039815727679484075#m",
+      "date": "Thu, 02 Apr 2026 21:22:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2039815730904915968%2FTo-CV8LJ%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
