@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T17:55:29.695Z",
+  "generatedAt": "2026-04-03T18:39:51.862Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -12,8 +12,10 @@
       "url": "https://nitter.net/WorstGenHQ/status/2039980614913343700#m",
       "date": "Fri, 03 Apr 2026 08:17:34 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
+      ]
     },
     {
       "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
@@ -72,82 +74,24 @@
       "attachments": [
         "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
       ]
+    },
+    {
+      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
+      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
+      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
+      ]
     }
   ],
   "misc": [
-    {
-      "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
-      "text": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2040068103552241934#m",
-      "date": "Fri, 03 Apr 2026 14:05:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_HH7xbwAAePvZ.jpg"
-      ]
-    },
-    {
-      "id": "e0ea4e9eae2879d3a4ab5a1f71846efba645a4b72adf2c2f3d8e6660bc8ed2d8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all",
-      "text": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all 3...",
-      "url": "https://nitter.net/WorstGenHQ/status/2040045907081638172#m",
-      "date": "Fri, 03 Apr 2026 12:37:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-y8P2W0AAZTFI.jpg"
-      ]
-    },
-    {
-      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
-      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
-      ]
-    },
-    {
-      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
-      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece fans pfps rn:",
-      "text": "One Piece fans pfps rn:",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
-      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
-      ]
-    },
     {
       "id": "d56faa527cd00c86a7e54964083b92dbd477be814529330486d7c1d288bf4cb4",
       "anime": "onepiece",
@@ -248,6 +192,79 @@
       ]
     },
     {
+      "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "text": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2040068103552241934#m",
+      "date": "Fri, 03 Apr 2026 14:05:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_HH7xbwAAePvZ.jpg"
+      ]
+    },
+    {
+      "id": "e0ea4e9eae2879d3a4ab5a1f71846efba645a4b72adf2c2f3d8e6660bc8ed2d8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all",
+      "text": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all 3...",
+      "url": "https://nitter.net/WorstGenHQ/status/2040045907081638172#m",
+      "date": "Fri, 03 Apr 2026 12:37:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE-y8P2W0AAZTFI.jpg"
+      ]
+    },
+    {
+      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
+      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
+      ]
+    },
+    {
+      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
+      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece fans pfps rn:",
+      "text": "One Piece fans pfps rn:",
+      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
+      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
+      ]
+    },
+    {
       "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -321,19 +338,6 @@
       ]
     },
     {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -347,14 +351,14 @@
       "attachments": []
     },
     {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -372,6 +376,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_l4_qb0AAK0dM.jpg"
+      ]
+    },
+    {
+      "id": "230eb5c9929c66ec345e4eb2478e0037af8eea51cd32fe3cc7a873585fffa4f9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "❤️",
+      "text": "❤️",
+      "url": "https://nitter.net/daily_berserk/status/2040012144817648023#m",
+      "date": "Fri, 03 Apr 2026 10:22:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE-UO90XAAAiatW.jpg"
       ]
     }
   ],
@@ -386,8 +405,10 @@
       "url": "https://nitter.net/WorstGenHQ/status/2039980614913343700#m",
       "date": "Fri, 03 Apr 2026 08:17:34 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
+      ]
     },
     {
       "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
@@ -448,76 +469,18 @@
       ]
     },
     {
-      "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
-      "text": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2040068103552241934#m",
-      "date": "Fri, 03 Apr 2026 14:05:13 GMT",
-      "isSpoiler": false,
+      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
+      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
+      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE_HH7xbwAAePvZ.jpg"
-      ]
-    },
-    {
-      "id": "e0ea4e9eae2879d3a4ab5a1f71846efba645a4b72adf2c2f3d8e6660bc8ed2d8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all",
-      "text": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all 3...",
-      "url": "https://nitter.net/WorstGenHQ/status/2040045907081638172#m",
-      "date": "Fri, 03 Apr 2026 12:37:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-y8P2W0AAZTFI.jpg"
-      ]
-    },
-    {
-      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
-      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
-      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
-      ]
-    },
-    {
-      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
-      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
-      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece fans pfps rn:",
-      "text": "One Piece fans pfps rn:",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
-      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
+        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
       ]
     },
     {
@@ -620,6 +583,79 @@
       ]
     },
     {
+      "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "text": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2040068103552241934#m",
+      "date": "Fri, 03 Apr 2026 14:05:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_HH7xbwAAePvZ.jpg"
+      ]
+    },
+    {
+      "id": "e0ea4e9eae2879d3a4ab5a1f71846efba645a4b72adf2c2f3d8e6660bc8ed2d8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all",
+      "text": "#ONEPIECE1179 No hate or ragebait, I loved all 3 end villians of the big 3. Yhwach was crazy, Imu is about to do crazy stuff and Kaguya(even thought only 20 chapters) was okay. Design are fire for all 3...",
+      "url": "https://nitter.net/WorstGenHQ/status/2040045907081638172#m",
+      "date": "Fri, 03 Apr 2026 12:37:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE-y8P2W0AAZTFI.jpg"
+      ]
+    },
+    {
+      "id": "5c99388369d5888bd834858057946488935ab29812ffd38f1c3544913698f8a8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "text": "#ONEPIECE1179 #ONEPIECE THE TRUTH ABOUT IMU From my YT Channel 4 Years ago .. 💯☑️ Video",
+      "url": "https://nitter.net/GoodTimesBoss/status/2039976732447461800#m",
+      "date": "Fri, 03 Apr 2026 08:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2039976568853049344%2Fimg%2FXvsA6aaOfp0YoUyb.jpg"
+      ]
+    },
+    {
+      "id": "ee7f88b612d17361ad3e290642de700dea30816b419e0c53938926c7522dd493",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "text": "#ONEPIECE1179 If I find WG bro. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 \"MAMAMAAMAMA\" — https://nitter.net/WorstGenHQ/status/2038687291997106365#m",
+      "url": "https://nitter.net/boofywock/status/2038687473941843999#m",
+      "date": "Mon, 30 Mar 2026 18:39:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a8407e233329a0d4908480ad42a9192887544f11f11529eb78d3c502736af3e0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece fans pfps rn:",
+      "text": "One Piece fans pfps rn:",
+      "url": "https://nitter.net/MarcoGrandFleet/status/2039866917276557798#m",
+      "date": "Fri, 03 Apr 2026 00:45:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
+      ]
+    },
+    {
       "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -693,19 +729,6 @@
       ]
     },
     {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -719,14 +742,14 @@
       "attachments": []
     },
     {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -744,6 +767,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_l4_qb0AAK0dM.jpg"
+      ]
+    },
+    {
+      "id": "230eb5c9929c66ec345e4eb2478e0037af8eea51cd32fe3cc7a873585fffa4f9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "❤️",
+      "text": "❤️",
+      "url": "https://nitter.net/daily_berserk/status/2040012144817648023#m",
+      "date": "Fri, 03 Apr 2026 10:22:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE-UO90XAAAiatW.jpg"
       ]
     }
   ]
