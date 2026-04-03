@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T14:00:31.744Z",
+  "generatedAt": "2026-04-03T14:52:38.329Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "text": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2040068103552241934#m",
+      "date": "Fri, 03 Apr 2026 14:05:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_HH7xbwAAePvZ.jpg"
+      ]
+    },
     {
       "id": "e0ea4e9eae2879d3a4ab5a1f71846efba645a4b72adf2c2f3d8e6660bc8ed2d8",
       "anime": "onepiece",
@@ -103,21 +118,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
-      ]
-    },
-    {
-      "id": "a056df8fedf3fc8f578b8456b3d4821bccd6dfbdfee48190a5f32654c638f705",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179",
-      "text": "#ONEPIECE1179",
-      "url": "https://nitter.net/Toadgashi/status/2039831003762401700#m",
-      "date": "Thu, 02 Apr 2026 22:23:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE7vd48XYAAw7aX.jpg"
       ]
     },
     {
@@ -398,6 +398,21 @@
       "attachments": []
     },
     {
+      "id": "f158be21bff936576eda4b8e43bc7b904c2945743c7c632446599b8f8b85b1e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "text": "#ONEPIECE1179 💀💀💀💀💀💀💀 🤣🤣🤣🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2040068103552241934#m",
+      "date": "Fri, 03 Apr 2026 14:05:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_HH7xbwAAePvZ.jpg"
+      ]
+    },
+    {
       "id": "e0ea4e9eae2879d3a4ab5a1f71846efba645a4b72adf2c2f3d8e6660bc8ed2d8",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -453,21 +468,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE8QJfZXgAAPzPi.jpg"
-      ]
-    },
-    {
-      "id": "a056df8fedf3fc8f578b8456b3d4821bccd6dfbdfee48190a5f32654c638f705",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179",
-      "text": "#ONEPIECE1179",
-      "url": "https://nitter.net/Toadgashi/status/2039831003762401700#m",
-      "date": "Thu, 02 Apr 2026 22:23:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE7vd48XYAAw7aX.jpg"
       ]
     },
     {
