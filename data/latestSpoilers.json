@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-04-04T17:29:05.115Z",
+  "generatedAt": "2026-04-04T18:02:59.859Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
-      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
-      ]
-    },
     {
       "id": "70840ba76bf33a32dd41a720ab124ab50511fb6f2cfabaf901efabfff9a9a49b",
       "anime": "blackclover",
@@ -45,6 +30,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
+      ]
+    },
+    {
+      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
+      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
     }
   ],
@@ -233,6 +233,60 @@
       ]
     },
     {
+      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
+      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
+      ]
+    },
+    {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
+      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
+      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
+      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -289,80 +343,9 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEsjhtYXMAAZ9as.jpg"
       ]
-    },
-    {
-      "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty w",
-      "text": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty with his Rasengan 🌀 🗣️ Shoutout to VA @BennettAbara Video — https://nitter.net/VIZMedia/status/2037583324441346068#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2037844130278023313#m",
-      "date": "Sat, 28 Mar 2026 10:47:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEbzN_BWcAATNyH.jpg"
-      ]
-    },
-    {
-      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
-      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
-      ]
-    },
-    {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
-      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
-      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
-    {
-      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
-      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
-      ]
-    },
     {
       "id": "70840ba76bf33a32dd41a720ab124ab50511fb6f2cfabaf901efabfff9a9a49b",
       "anime": "blackclover",
@@ -391,6 +374,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
+      ]
+    },
+    {
+      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
+      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
     },
     {
@@ -577,6 +575,60 @@
       ]
     },
     {
+      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
+      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
+      ]
+    },
+    {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
+      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
+      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
+      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -633,62 +685,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEsjhtYXMAAZ9as.jpg"
       ]
-    },
-    {
-      "id": "67984bb446b02ebc75e107c001af1a4fe9bc31c5b56ad0c7cd9abb176dc70806",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty w",
-      "text": "No offense to her she did an amazing job, but please change the VA for Teen Boruto please. #BORUTO VIZ Media (@VIZMedia) In celebration of Boruto's Birthday today, let's look back when he got crafty with his Rasengan 🌀 🗣️ Shoutout to VA @BennettAbara Video — https://nitter.net/VIZMedia/status/2037583324441346068#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2037844130278023313#m",
-      "date": "Sat, 28 Mar 2026 10:47:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHEbzN_BWcAATNyH.jpg"
-      ]
-    },
-    {
-      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
-      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
-      ]
-    },
-    {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
-      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
-      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ]
 }
