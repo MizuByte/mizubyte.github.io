@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-04-04T11:48:15.967Z",
+  "generatedAt": "2026-04-04T12:03:45.328Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "e8d6be8352e18e812c5455aee14727cd985346a2d37fc761acd3db093fb1955d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Source: teddit.net/r/OnePieceSpoiler…",
+      "text": "Source: teddit.net/r/OnePieceSpoiler…",
+      "url": "https://nitter.net/WorstGenHQ/status/2040156968912867572#m",
+      "date": "Fri, 03 Apr 2026 19:58:20 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2040156970569588736%2Fth0_R9ds%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "c469cad0380cd76490ca245a416ccc2c8fb4be6217bf6f8996120f003bdbdc0f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's desi",
+      "text": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's design is truly peak.😍",
+      "url": "https://nitter.net/WorstGenHQ/status/2040155892092424466#m",
+      "date": "Fri, 03 Apr 2026 19:54:03 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFAW6e5WoAAGDV2.jpg"
+      ]
+    },
     {
       "id": "8fb854cdf7ad417a3d310d358ec89b70f5d2b7cde7e928876217a9836740f2ab",
       "anime": "onepiece",
@@ -36,36 +66,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
         "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
-      ]
-    },
-    {
-      "id": "e8d6be8352e18e812c5455aee14727cd985346a2d37fc761acd3db093fb1955d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: teddit.net/r/OnePieceSpoiler…",
-      "text": "Source: teddit.net/r/OnePieceSpoiler…",
-      "url": "https://nitter.net/WorstGenHQ/status/2040156968912867572#m",
-      "date": "Fri, 03 Apr 2026 19:58:20 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2040156970569588736%2Fth0_R9ds%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "c469cad0380cd76490ca245a416ccc2c8fb4be6217bf6f8996120f003bdbdc0f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's desi",
-      "text": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's design is truly peak.😍",
-      "url": "https://nitter.net/WorstGenHQ/status/2040155892092424466#m",
-      "date": "Fri, 03 Apr 2026 19:54:03 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAW6e5WoAAGDV2.jpg"
       ]
     },
     {
@@ -125,24 +125,69 @@
       "attachments": [
         "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
       ]
-    },
-    {
-      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
-      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
-      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
-      ]
     }
   ],
   "misc": [
+    {
+      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
+      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
+      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
+      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
+      ]
+    },
+    {
+      "id": "d1936412c891982ffbf59b078935f0bf1528403a6f326b922b821a13d1cc5ec3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Saint nerona imu #ONEPIECE",
+      "text": "Saint nerona imu #ONEPIECE",
+      "url": "https://nitter.net/iamosix2/status/2040054784284041324#m",
+      "date": "Fri, 03 Apr 2026 13:12:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE-7AvYaoAAZHtA.jpg"
+      ]
+    },
+    {
+      "id": "8e82c7d39fd551f4db38e847108049edae34a8888c915a955e933df66ae6f15b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Bro pls....😭😭😭😭",
+      "text": "#ONEPIECE1179 Bro pls....😭😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2040169089281179987#m",
+      "date": "Fri, 03 Apr 2026 20:46:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFAiw8KbcAAj0fw.jpg"
+      ]
+    },
+    {
+      "id": "276cd50ac68cb9d130f34d7f8e99378815eb77ba584f6f5e5fa78cc8665aa3e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "NERONA IMU #ONEPIECE1179",
+      "text": "NERONA IMU #ONEPIECE1179",
+      "url": "https://nitter.net/kwhundredk/status/2039915797683065245#m",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE83t2YXwAAUKau.jpg"
+      ]
+    },
     {
       "id": "6d69cf29a6f4c1868ec036db1fd1dcd3d1b3a426ac25356494b3af59ded642f4",
       "anime": "onepiece",
@@ -204,66 +249,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_MTEsbwAEOv_X.jpg"
-      ]
-    },
-    {
-      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
-      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
-      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
-      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
-      ]
-    },
-    {
-      "id": "d1936412c891982ffbf59b078935f0bf1528403a6f326b922b821a13d1cc5ec3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Saint nerona imu #ONEPIECE",
-      "text": "Saint nerona imu #ONEPIECE",
-      "url": "https://nitter.net/iamosix2/status/2040054784284041324#m",
-      "date": "Fri, 03 Apr 2026 13:12:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-7AvYaoAAZHtA.jpg"
-      ]
-    },
-    {
-      "id": "8e82c7d39fd551f4db38e847108049edae34a8888c915a955e933df66ae6f15b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Bro pls....😭😭😭😭",
-      "text": "#ONEPIECE1179 Bro pls....😭😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2040169089281179987#m",
-      "date": "Fri, 03 Apr 2026 20:46:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAiw8KbcAAj0fw.jpg"
-      ]
-    },
-    {
-      "id": "276cd50ac68cb9d130f34d7f8e99378815eb77ba584f6f5e5fa78cc8665aa3e7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "NERONA IMU #ONEPIECE1179",
-      "text": "NERONA IMU #ONEPIECE1179",
-      "url": "https://nitter.net/kwhundredk/status/2039915797683065245#m",
-      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE83t2YXwAAUKau.jpg"
       ]
     },
     {
@@ -340,6 +325,19 @@
       ]
     },
     {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -353,14 +351,14 @@
       "attachments": []
     },
     {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
+      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -393,21 +391,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFCzm6nb0AAlE3r.jpg"
-      ]
-    },
-    {
-      "id": "47e2300c73c497efa20e86e847348bf4d9b0c84517625e517e8816c6f52b59af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "😰",
-      "text": "😰",
-      "url": "https://nitter.net/daily_berserk/status/2040179276322918486#m",
-      "date": "Fri, 03 Apr 2026 21:26:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAsPH4WwAAYs27.jpg"
       ]
     },
     {
@@ -443,6 +426,36 @@
   ],
   "items": [
     {
+      "id": "e8d6be8352e18e812c5455aee14727cd985346a2d37fc761acd3db093fb1955d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Source: teddit.net/r/OnePieceSpoiler…",
+      "text": "Source: teddit.net/r/OnePieceSpoiler…",
+      "url": "https://nitter.net/WorstGenHQ/status/2040156968912867572#m",
+      "date": "Fri, 03 Apr 2026 19:58:20 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2040156970569588736%2Fth0_R9ds%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "c469cad0380cd76490ca245a416ccc2c8fb4be6217bf6f8996120f003bdbdc0f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's desi",
+      "text": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's design is truly peak.😍",
+      "url": "https://nitter.net/WorstGenHQ/status/2040155892092424466#m",
+      "date": "Fri, 03 Apr 2026 19:54:03 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFAW6e5WoAAGDV2.jpg"
+      ]
+    },
+    {
       "id": "8fb854cdf7ad417a3d310d358ec89b70f5d2b7cde7e928876217a9836740f2ab",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -476,36 +489,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
         "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
-      ]
-    },
-    {
-      "id": "e8d6be8352e18e812c5455aee14727cd985346a2d37fc761acd3db093fb1955d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Source: teddit.net/r/OnePieceSpoiler…",
-      "text": "Source: teddit.net/r/OnePieceSpoiler…",
-      "url": "https://nitter.net/WorstGenHQ/status/2040156968912867572#m",
-      "date": "Fri, 03 Apr 2026 19:58:20 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2040156970569588736%2Fth0_R9ds%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "c469cad0380cd76490ca245a416ccc2c8fb4be6217bf6f8996120f003bdbdc0f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's desi",
-      "text": "#ONEPIECE1179 I've seen so many selfmade Imu drawing, but I really love this one. Imu's design is truly top-notch (the artist of this image, please let me know so I can retweet you). Nerona Imu's design is truly peak.😍",
-      "url": "https://nitter.net/WorstGenHQ/status/2040155892092424466#m",
-      "date": "Fri, 03 Apr 2026 19:54:03 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAW6e5WoAAGDV2.jpg"
       ]
     },
     {
@@ -567,18 +550,63 @@
       ]
     },
     {
-      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
-      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
-      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
-      "isSpoiler": true,
+      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
+      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
+      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
+      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
+        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
+      ]
+    },
+    {
+      "id": "d1936412c891982ffbf59b078935f0bf1528403a6f326b922b821a13d1cc5ec3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Saint nerona imu #ONEPIECE",
+      "text": "Saint nerona imu #ONEPIECE",
+      "url": "https://nitter.net/iamosix2/status/2040054784284041324#m",
+      "date": "Fri, 03 Apr 2026 13:12:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE-7AvYaoAAZHtA.jpg"
+      ]
+    },
+    {
+      "id": "8e82c7d39fd551f4db38e847108049edae34a8888c915a955e933df66ae6f15b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Bro pls....😭😭😭😭",
+      "text": "#ONEPIECE1179 Bro pls....😭😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2040169089281179987#m",
+      "date": "Fri, 03 Apr 2026 20:46:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFAiw8KbcAAj0fw.jpg"
+      ]
+    },
+    {
+      "id": "276cd50ac68cb9d130f34d7f8e99378815eb77ba584f6f5e5fa78cc8665aa3e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "NERONA IMU #ONEPIECE1179",
+      "text": "NERONA IMU #ONEPIECE1179",
+      "url": "https://nitter.net/kwhundredk/status/2039915797683065245#m",
+      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE83t2YXwAAUKau.jpg"
       ]
     },
     {
@@ -642,66 +670,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_MTEsbwAEOv_X.jpg"
-      ]
-    },
-    {
-      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
-      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
-      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
-      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
-      ]
-    },
-    {
-      "id": "d1936412c891982ffbf59b078935f0bf1528403a6f326b922b821a13d1cc5ec3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Saint nerona imu #ONEPIECE",
-      "text": "Saint nerona imu #ONEPIECE",
-      "url": "https://nitter.net/iamosix2/status/2040054784284041324#m",
-      "date": "Fri, 03 Apr 2026 13:12:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-7AvYaoAAZHtA.jpg"
-      ]
-    },
-    {
-      "id": "8e82c7d39fd551f4db38e847108049edae34a8888c915a955e933df66ae6f15b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Bro pls....😭😭😭😭",
-      "text": "#ONEPIECE1179 Bro pls....😭😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2040169089281179987#m",
-      "date": "Fri, 03 Apr 2026 20:46:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAiw8KbcAAj0fw.jpg"
-      ]
-    },
-    {
-      "id": "276cd50ac68cb9d130f34d7f8e99378815eb77ba584f6f5e5fa78cc8665aa3e7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "NERONA IMU #ONEPIECE1179",
-      "text": "NERONA IMU #ONEPIECE1179",
-      "url": "https://nitter.net/kwhundredk/status/2039915797683065245#m",
-      "date": "Fri, 03 Apr 2026 04:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE83t2YXwAAUKau.jpg"
       ]
     },
     {
@@ -778,6 +746,19 @@
       ]
     },
     {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -791,14 +772,14 @@
       "attachments": []
     },
     {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
+      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
+      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -831,21 +812,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFCzm6nb0AAlE3r.jpg"
-      ]
-    },
-    {
-      "id": "47e2300c73c497efa20e86e847348bf4d9b0c84517625e517e8816c6f52b59af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "😰",
-      "text": "😰",
-      "url": "https://nitter.net/daily_berserk/status/2040179276322918486#m",
-      "date": "Fri, 03 Apr 2026 21:26:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAsPH4WwAAYs27.jpg"
       ]
     },
     {
