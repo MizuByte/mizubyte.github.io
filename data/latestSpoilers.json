@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T19:49:21.723Z",
+  "generatedAt": "2026-04-04T20:24:06.004Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -49,6 +49,36 @@
     }
   ],
   "misc": [
+    {
+      "id": "9c3c604893b3519da6aa0df2d5e43255da8580d4075100c33cdc32899d92c319",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
+      "text": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
+      "url": "https://nitter.net/WorstGenHQ/status/2040525642257576103#m",
+      "date": "Sat, 04 Apr 2026 20:23:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFFnQenbcAA4mPH.jpg"
+      ]
+    },
+    {
+      "id": "71c01ce69e31e2581ea6417c749b4746fd228f15b693e01146e8a1378cb94570",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Zarex🐉🏴‍☠️⚔️ (@_qpxcv) #ONEPIECE1179 Crazy this dragon appeared only in one panel and it has a better design than dragon loki and 85% of the one piece manga — https://nitter.net/_qpxcv",
+      "text": "#ONEPIECE1179 Zarex🐉🏴‍☠️⚔️ (@_qpxcv) #ONEPIECE1179 Crazy this dragon appeared only in one panel and it has a better design than dragon loki and 85% of the one piece manga — https://nitter.net/_qpxcv/status/2040492524175827310#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2040522328904290335#m",
+      "date": "Sat, 04 Apr 2026 20:10:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFFJIkfWQAAw85i.jpg"
+      ]
+    },
     {
       "id": "54be46439e20885f5e1332c664813e3109ff4f60e607c505cc5dc0d0ab2921b8",
       "anime": "onepiece",
@@ -107,36 +137,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFErUVrXoAEbzJj.jpg"
-      ]
-    },
-    {
-      "id": "2dc86e87f88fab842b8dda58a325f55ca1aca1a760ca38afb04d18472590942b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Those eyes in his clouds wilL possess special abilities, and his weapon will also be a Devil Fruit. Imu will not only be strong but incredibly powerful. Look at Luffy with his Toon Force",
-      "text": "#ONEPIECE1179 Those eyes in his clouds wilL possess special abilities, and his weapon will also be a Devil Fruit. Imu will not only be strong but incredibly powerful. Look at Luffy with his Toon Force; Imu with his magic book will possess an enormous variety of abilities.",
-      "url": "https://nitter.net/WorstGenHQ/status/2040445816519675945#m",
-      "date": "Sat, 04 Apr 2026 15:06:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFEeqDZaoAAt9le.jpg"
-      ]
-    },
-    {
-      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
-      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
-      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
-      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
       ]
     },
     {
@@ -267,6 +267,21 @@
       "attachments": []
     },
     {
+      "id": "9c36e6d2cc80ee80be202d72411bb14446316cda4292fa8d94052ecf5fd1d84c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2040522672791068694#m",
+      "date": "Sat, 04 Apr 2026 20:11:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFFkjfgagAA0iIC.jpg"
+      ]
+    },
+    {
       "id": "e71e2d5baec1d7e50d39e35ee8c19b248c435a8f34add97c6271c05a1a19c458",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -309,21 +324,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFCzm6nb0AAlE3r.jpg"
-      ]
-    },
-    {
-      "id": "47e2300c73c497efa20e86e847348bf4d9b0c84517625e517e8816c6f52b59af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "😰",
-      "text": "😰",
-      "url": "https://nitter.net/daily_berserk/status/2040179276322918486#m",
-      "date": "Fri, 03 Apr 2026 21:26:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAsPH4WwAAYs27.jpg"
       ]
     },
     {
@@ -389,6 +389,36 @@
       ]
     },
     {
+      "id": "9c3c604893b3519da6aa0df2d5e43255da8580d4075100c33cdc32899d92c319",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
+      "text": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
+      "url": "https://nitter.net/WorstGenHQ/status/2040525642257576103#m",
+      "date": "Sat, 04 Apr 2026 20:23:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFFnQenbcAA4mPH.jpg"
+      ]
+    },
+    {
+      "id": "71c01ce69e31e2581ea6417c749b4746fd228f15b693e01146e8a1378cb94570",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Zarex🐉🏴‍☠️⚔️ (@_qpxcv) #ONEPIECE1179 Crazy this dragon appeared only in one panel and it has a better design than dragon loki and 85% of the one piece manga — https://nitter.net/_qpxcv",
+      "text": "#ONEPIECE1179 Zarex🐉🏴‍☠️⚔️ (@_qpxcv) #ONEPIECE1179 Crazy this dragon appeared only in one panel and it has a better design than dragon loki and 85% of the one piece manga — https://nitter.net/_qpxcv/status/2040492524175827310#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2040522328904290335#m",
+      "date": "Sat, 04 Apr 2026 20:10:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFFJIkfWQAAw85i.jpg"
+      ]
+    },
+    {
       "id": "54be46439e20885f5e1332c664813e3109ff4f60e607c505cc5dc0d0ab2921b8",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -446,36 +476,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFErUVrXoAEbzJj.jpg"
-      ]
-    },
-    {
-      "id": "2dc86e87f88fab842b8dda58a325f55ca1aca1a760ca38afb04d18472590942b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Those eyes in his clouds wilL possess special abilities, and his weapon will also be a Devil Fruit. Imu will not only be strong but incredibly powerful. Look at Luffy with his Toon Force",
-      "text": "#ONEPIECE1179 Those eyes in his clouds wilL possess special abilities, and his weapon will also be a Devil Fruit. Imu will not only be strong but incredibly powerful. Look at Luffy with his Toon Force; Imu with his magic book will possess an enormous variety of abilities.",
-      "url": "https://nitter.net/WorstGenHQ/status/2040445816519675945#m",
-      "date": "Sat, 04 Apr 2026 15:06:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFEeqDZaoAAt9le.jpg"
-      ]
-    },
-    {
-      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
-      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
-      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
-      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
       ]
     },
     {
@@ -606,6 +606,21 @@
       "attachments": []
     },
     {
+      "id": "9c36e6d2cc80ee80be202d72411bb14446316cda4292fa8d94052ecf5fd1d84c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2040522672791068694#m",
+      "date": "Sat, 04 Apr 2026 20:11:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFFkjfgagAA0iIC.jpg"
+      ]
+    },
+    {
       "id": "e71e2d5baec1d7e50d39e35ee8c19b248c435a8f34add97c6271c05a1a19c458",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -648,21 +663,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFCzm6nb0AAlE3r.jpg"
-      ]
-    },
-    {
-      "id": "47e2300c73c497efa20e86e847348bf4d9b0c84517625e517e8816c6f52b59af",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "😰",
-      "text": "😰",
-      "url": "https://nitter.net/daily_berserk/status/2040179276322918486#m",
-      "date": "Fri, 03 Apr 2026 21:26:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFAsPH4WwAAYs27.jpg"
       ]
     },
     {
