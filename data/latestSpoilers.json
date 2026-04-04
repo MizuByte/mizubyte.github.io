@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-04-04T11:06:08.067Z",
+  "generatedAt": "2026-04-04T11:48:15.967Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "8fb854cdf7ad417a3d310d358ec89b70f5d2b7cde7e928876217a9836740f2ab",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/204024427043562325",
+      "text": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
+      "url": "https://nitter.net/Nami_Navigator7/status/2040252244566720741#m",
+      "date": "Sat, 04 Apr 2026 02:16:55 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFBumi5WAAAM2Ya.jpg",
+        "https://nitter.net/pic/media%2FHFBumi-XYAAg2Ss.jpg",
+        "https://nitter.net/pic/media%2FHFBumi3XQAECMHm.jpg",
+        "https://nitter.net/pic/media%2FHFBumi3WgAAO-jD.jpg",
+        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
+        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+      ]
+    },
+    {
+      "id": "136d26a5084ddaebb91f51572021c7ec56eb803049d7c0e73571b7d01f96d364",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Some of the Lego One Piece sets have leaked!!",
+      "text": "Some of the Lego One Piece sets have leaked!!",
+      "url": "https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
+      "date": "Sat, 04 Apr 2026 01:45:14 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
+        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+      ]
+    },
     {
       "id": "e8d6be8352e18e812c5455aee14727cd985346a2d37fc761acd3db093fb1955d",
       "anime": "onepiece",
@@ -91,44 +127,101 @@
       ]
     },
     {
-      "id": "8fb854cdf7ad417a3d310d358ec89b70f5d2b7cde7e928876217a9836740f2ab",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/204024427043562325",
-      "text": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
-      "url": "https://nitter.net/Nami_Navigator7/status/2040252244566720741#m",
-      "date": "Sat, 04 Apr 2026 02:16:55 GMT",
+      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
+      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
+      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFBumi5WAAAM2Ya.jpg",
-        "https://nitter.net/pic/media%2FHFBumi-XYAAg2Ss.jpg",
-        "https://nitter.net/pic/media%2FHFBumi3XQAECMHm.jpg",
-        "https://nitter.net/pic/media%2FHFBumi3WgAAO-jD.jpg",
-        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
-        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
-      ]
-    },
-    {
-      "id": "136d26a5084ddaebb91f51572021c7ec56eb803049d7c0e73571b7d01f96d364",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Some of the Lego One Piece sets have leaked!!",
-      "text": "Some of the Lego One Piece sets have leaked!!",
-      "url": "https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
-      "date": "Sat, 04 Apr 2026 01:45:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
-        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
       ]
     }
   ],
   "misc": [
     {
+      "id": "6d69cf29a6f4c1868ec036db1fd1dcd3d1b3a426ac25356494b3af59ded642f4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
+      "text": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040383980714029056#m",
+      "date": "Sat, 04 Apr 2026 11:00:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFDmakObkAA6X0d.jpg"
+      ]
+    },
+    {
+      "id": "d6f6c88a1ded24d33433b9a7dc684f534ea3097341cf1105ad92e3870e9ce644",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
+      "text": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
+      "url": "https://nitter.net/rumicworld1010/status/2040370163569291775#m",
+      "date": "Sat, 04 Apr 2026 10:05:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFDZ2VgaMAAB88t.jpg",
+        "https://nitter.net/pic/media%2FHFCJUXFb0AArRgm.jpg"
+      ]
+    },
+    {
+      "id": "4f0f00cdf5de56a516ee395150fcfee7ed27f847271cbba5e41c052df9fbbef3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "最高やん。。",
+      "text": "最高やん。。",
+      "url": "https://nitter.net/hamaitachi/status/2040250851445682676#m",
+      "date": "Sat, 04 Apr 2026 02:11:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFBtUXuaQAA-an2.jpg",
+        "https://nitter.net/pic/media%2FHFBtUXubsAAA6Ow.jpg",
+        "https://nitter.net/pic/media%2FHFBtUXwasAA7z3k.jpg"
+      ]
+    },
+    {
+      "id": "d8d866b55c06e08208bc1bf44a97bca6bc505ed813a1033871c1c7fa9acb3530",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accom",
+      "text": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accompanied by our two protagonists: Mario and Yoshi 🍄🦖",
+      "url": "https://nitter.net/DreamStudio_RM/status/2040074650797887651#m",
+      "date": "Fri, 03 Apr 2026 14:31:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_MTEsbwAEOv_X.jpg"
+      ]
+    },
+    {
+      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
+      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
+      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
+      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
+      ]
+    },
+    {
       "id": "d1936412c891982ffbf59b078935f0bf1528403a6f326b922b821a13d1cc5ec3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -171,22 +264,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE83t2YXwAAUKau.jpg"
-      ]
-    },
-    {
-      "id": "1b4b5cc645b6d6d90fe7520412a489f8d7dc0f87e2886e121c002f96db5894de",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Soon: Drums of liberation Luffy vs Drums of oppression Imu Both reveals shaked the entire fandom...",
-      "text": "#ONEPIECE1179 Soon: Drums of liberation Luffy vs Drums of oppression Imu Both reveals shaked the entire fandom...",
-      "url": "https://nitter.net/WorstGenHQ/status/2040143412435849473#m",
-      "date": "Fri, 03 Apr 2026 19:04:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFALmFbXoAAkH44.png",
-        "https://nitter.net/pic/media%2FHFALnQNbQAEFJ1G.jpg"
       ]
     },
     {
@@ -263,19 +340,6 @@
       ]
     },
     {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -289,79 +353,31 @@
       "attachments": []
     },
     {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "6d69cf29a6f4c1868ec036db1fd1dcd3d1b3a426ac25356494b3af59ded642f4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
-      "text": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2040383980714029056#m",
-      "date": "Sat, 04 Apr 2026 11:00:24 GMT",
+      "id": "e6983dd43863f8fad64fcb201eaf71f60febe8a061d44a804673f2cbeb2b6fc9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2040389314807283798#m",
+      "date": "Sat, 04 Apr 2026 11:21:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFDmakObkAA6X0d.jpg"
-      ]
-    },
-    {
-      "id": "d6f6c88a1ded24d33433b9a7dc684f534ea3097341cf1105ad92e3870e9ce644",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
-      "text": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
-      "url": "https://nitter.net/rumicworld1010/status/2040370163569291775#m",
-      "date": "Sat, 04 Apr 2026 10:05:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFDZ2VgaMAAB88t.jpg",
-        "https://nitter.net/pic/media%2FHFCJUXFb0AArRgm.jpg"
-      ]
-    },
-    {
-      "id": "4f0f00cdf5de56a516ee395150fcfee7ed27f847271cbba5e41c052df9fbbef3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "最高やん。。",
-      "text": "最高やん。。",
-      "url": "https://nitter.net/hamaitachi/status/2040250851445682676#m",
-      "date": "Sat, 04 Apr 2026 02:11:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFBtUXuaQAA-an2.jpg",
-        "https://nitter.net/pic/media%2FHFBtUXubsAAA6Ow.jpg",
-        "https://nitter.net/pic/media%2FHFBtUXwasAA7z3k.jpg"
-      ]
-    },
-    {
-      "id": "d8d866b55c06e08208bc1bf44a97bca6bc505ed813a1033871c1c7fa9acb3530",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accom",
-      "text": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accompanied by our two protagonists: Mario and Yoshi 🍄🦖",
-      "url": "https://nitter.net/DreamStudio_RM/status/2040074650797887651#m",
-      "date": "Fri, 03 Apr 2026 14:31:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MTEsbwAEOv_X.jpg"
+        "https://nitter.net/pic/media%2FHFDrQ15bsAA21P8.jpg"
       ]
     },
     {
@@ -377,6 +393,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFCzm6nb0AAlE3r.jpg"
+      ]
+    },
+    {
+      "id": "47e2300c73c497efa20e86e847348bf4d9b0c84517625e517e8816c6f52b59af",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😰",
+      "text": "😰",
+      "url": "https://nitter.net/daily_berserk/status/2040179276322918486#m",
+      "date": "Fri, 03 Apr 2026 21:26:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFAsPH4WwAAYs27.jpg"
       ]
     },
     {
@@ -408,24 +439,45 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHE-UO90XAAAiatW.jpg"
       ]
-    },
-    {
-      "id": "c1b9304a39aa5777ddb705e126c36b638435700c1f1a12a6bbe774e3f224c0ac",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2040043056687149164#m",
-      "date": "Fri, 03 Apr 2026 12:25:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-wVigXwAAoaGT.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "8fb854cdf7ad417a3d310d358ec89b70f5d2b7cde7e928876217a9836740f2ab",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/204024427043562325",
+      "text": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
+      "url": "https://nitter.net/Nami_Navigator7/status/2040252244566720741#m",
+      "date": "Sat, 04 Apr 2026 02:16:55 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFBumi5WAAAM2Ya.jpg",
+        "https://nitter.net/pic/media%2FHFBumi-XYAAg2Ss.jpg",
+        "https://nitter.net/pic/media%2FHFBumi3XQAECMHm.jpg",
+        "https://nitter.net/pic/media%2FHFBumi3WgAAO-jD.jpg",
+        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
+        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+      ]
+    },
+    {
+      "id": "136d26a5084ddaebb91f51572021c7ec56eb803049d7c0e73571b7d01f96d364",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Some of the Lego One Piece sets have leaked!!",
+      "text": "Some of the Lego One Piece sets have leaked!!",
+      "url": "https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
+      "date": "Sat, 04 Apr 2026 01:45:14 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
+        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+      ]
+    },
     {
       "id": "e8d6be8352e18e812c5455aee14727cd985346a2d37fc761acd3db093fb1955d",
       "anime": "onepiece",
@@ -515,39 +567,96 @@
       ]
     },
     {
-      "id": "8fb854cdf7ad417a3d310d358ec89b70f5d2b7cde7e928876217a9836740f2ab",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/204024427043562325",
-      "text": "OMG these Lego One Piece sets look insane 🔥🔥 Kevin Elevin 🍊| Alabasta (@Nami_Navigator7) Some of the Lego One Piece sets have leaked!! — https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
-      "url": "https://nitter.net/Nami_Navigator7/status/2040252244566720741#m",
-      "date": "Sat, 04 Apr 2026 02:16:55 GMT",
+      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
+      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
+      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFBumi5WAAAM2Ya.jpg",
-        "https://nitter.net/pic/media%2FHFBumi-XYAAg2Ss.jpg",
-        "https://nitter.net/pic/media%2FHFBumi3XQAECMHm.jpg",
-        "https://nitter.net/pic/media%2FHFBumi3WgAAO-jD.jpg",
-        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
-        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
       ]
     },
     {
-      "id": "136d26a5084ddaebb91f51572021c7ec56eb803049d7c0e73571b7d01f96d364",
+      "id": "6d69cf29a6f4c1868ec036db1fd1dcd3d1b3a426ac25356494b3af59ded642f4",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Some of the Lego One Piece sets have leaked!!",
-      "text": "Some of the Lego One Piece sets have leaked!!",
-      "url": "https://nitter.net/Nami_Navigator7/status/2040244270435623259#m",
-      "date": "Sat, 04 Apr 2026 01:45:14 GMT",
-      "isSpoiler": true,
+      "title": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
+      "text": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040383980714029056#m",
+      "date": "Sat, 04 Apr 2026 11:00:24 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFBnWSCaUAAIIA6.jpg",
-        "https://nitter.net/pic/media%2FHFBnWRjXEAA_D-O.jpg"
+        "https://nitter.net/pic/media%2FHFDmakObkAA6X0d.jpg"
+      ]
+    },
+    {
+      "id": "d6f6c88a1ded24d33433b9a7dc684f534ea3097341cf1105ad92e3870e9ce644",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
+      "text": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
+      "url": "https://nitter.net/rumicworld1010/status/2040370163569291775#m",
+      "date": "Sat, 04 Apr 2026 10:05:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFDZ2VgaMAAB88t.jpg",
+        "https://nitter.net/pic/media%2FHFCJUXFb0AArRgm.jpg"
+      ]
+    },
+    {
+      "id": "4f0f00cdf5de56a516ee395150fcfee7ed27f847271cbba5e41c052df9fbbef3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "最高やん。。",
+      "text": "最高やん。。",
+      "url": "https://nitter.net/hamaitachi/status/2040250851445682676#m",
+      "date": "Sat, 04 Apr 2026 02:11:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFBtUXuaQAA-an2.jpg",
+        "https://nitter.net/pic/media%2FHFBtUXubsAAA6Ow.jpg",
+        "https://nitter.net/pic/media%2FHFBtUXwasAA7z3k.jpg"
+      ]
+    },
+    {
+      "id": "d8d866b55c06e08208bc1bf44a97bca6bc505ed813a1033871c1c7fa9acb3530",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accom",
+      "text": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accompanied by our two protagonists: Mario and Yoshi 🍄🦖",
+      "url": "https://nitter.net/DreamStudio_RM/status/2040074650797887651#m",
+      "date": "Fri, 03 Apr 2026 14:31:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_MTEsbwAEOv_X.jpg"
+      ]
+    },
+    {
+      "id": "3895444042dc56e02e9c0285bc9092fa8e2f9ace9b8f5d7352621de18982120f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows ",
+      "text": "#ONEPIECE1179 I remember people saying that Luffy had reached his final level with Gear 5 against Kaido, and that the gap to his EoS level was minimal. But this chapter, and also Egghead, still shows that Luffy can achieve far more. Be it Joyboy's insane Haki or the fact that the Imu Fruit is so versatile. Luffy has a lot of room for improvement. EoS Luffy could easily low diffing his Wano version. Luffy still has so much potential to improve and become stronger. In both haki and devilfruit power.",
+      "url": "https://nitter.net/WorstGenHQ/status/2040393545777832439#m",
+      "date": "Sat, 04 Apr 2026 11:38:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFDvA1yW0AAfr3o.jpg"
       ]
     },
     {
@@ -593,22 +702,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE83t2YXwAAUKau.jpg"
-      ]
-    },
-    {
-      "id": "1b4b5cc645b6d6d90fe7520412a489f8d7dc0f87e2886e121c002f96db5894de",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Soon: Drums of liberation Luffy vs Drums of oppression Imu Both reveals shaked the entire fandom...",
-      "text": "#ONEPIECE1179 Soon: Drums of liberation Luffy vs Drums of oppression Imu Both reveals shaked the entire fandom...",
-      "url": "https://nitter.net/WorstGenHQ/status/2040143412435849473#m",
-      "date": "Fri, 03 Apr 2026 19:04:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFALmFbXoAAkH44.png",
-        "https://nitter.net/pic/media%2FHFALnQNbQAEFJ1G.jpg"
       ]
     },
     {
@@ -685,19 +778,6 @@
       ]
     },
     {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -711,79 +791,31 @@
       "attachments": []
     },
     {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "6d69cf29a6f4c1868ec036db1fd1dcd3d1b3a426ac25356494b3af59ded642f4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
-      "text": "㊗️㊗️1200万再生突破㊗️㊗️ TVアニメ『ONE PIECE』新章エルバフ編の PVがYouTube1200万再生を超えました🎉 いよいよ明日4.5(日) よる11:15から放送開始です！ ▼PVをみる piped.video/6hRjsvdINgg #ONEPIECE #今週のアニワン #大海賊時間",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2040383980714029056#m",
-      "date": "Sat, 04 Apr 2026 11:00:24 GMT",
+      "id": "e6983dd43863f8fad64fcb201eaf71f60febe8a061d44a804673f2cbeb2b6fc9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2040389314807283798#m",
+      "date": "Sat, 04 Apr 2026 11:21:35 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFDmakObkAA6X0d.jpg"
-      ]
-    },
-    {
-      "id": "d6f6c88a1ded24d33433b9a7dc684f534ea3097341cf1105ad92e3870e9ce644",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
-      "text": "TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO 高橋留美子情報 (@rumicworld1010) TVアニメ『MAO』 いよいよ本日4月4日（土）23時45分～ NHK総合にて放送開始です！ #アニメMAO — https://nitter.net/rumicworld1010/status/2040281619219788129#m",
-      "url": "https://nitter.net/rumicworld1010/status/2040370163569291775#m",
-      "date": "Sat, 04 Apr 2026 10:05:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFDZ2VgaMAAB88t.jpg",
-        "https://nitter.net/pic/media%2FHFCJUXFb0AArRgm.jpg"
-      ]
-    },
-    {
-      "id": "4f0f00cdf5de56a516ee395150fcfee7ed27f847271cbba5e41c052df9fbbef3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "最高やん。。",
-      "text": "最高やん。。",
-      "url": "https://nitter.net/hamaitachi/status/2040250851445682676#m",
-      "date": "Sat, 04 Apr 2026 02:11:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFBtUXuaQAA-an2.jpg",
-        "https://nitter.net/pic/media%2FHFBtUXubsAAA6Ow.jpg",
-        "https://nitter.net/pic/media%2FHFBtUXwasAA7z3k.jpg"
-      ]
-    },
-    {
-      "id": "d8d866b55c06e08208bc1bf44a97bca6bc505ed813a1033871c1c7fa9acb3530",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accom",
-      "text": "Hello everyone 👋 The time has come to present our tribute to Mario Galaxy, we aims to capture the “galactic highway” and that sense of traveling between worlds ✨, going through a Launch Star ⭐, accompanied by our two protagonists: Mario and Yoshi 🍄🦖",
-      "url": "https://nitter.net/DreamStudio_RM/status/2040074650797887651#m",
-      "date": "Fri, 03 Apr 2026 14:31:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MTEsbwAEOv_X.jpg"
+        "https://nitter.net/pic/media%2FHFDrQ15bsAA21P8.jpg"
       ]
     },
     {
@@ -799,6 +831,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFCzm6nb0AAlE3r.jpg"
+      ]
+    },
+    {
+      "id": "47e2300c73c497efa20e86e847348bf4d9b0c84517625e517e8816c6f52b59af",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😰",
+      "text": "😰",
+      "url": "https://nitter.net/daily_berserk/status/2040179276322918486#m",
+      "date": "Fri, 03 Apr 2026 21:26:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFAsPH4WwAAYs27.jpg"
       ]
     },
     {
@@ -829,21 +876,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE-UO90XAAAiatW.jpg"
-      ]
-    },
-    {
-      "id": "c1b9304a39aa5777ddb705e126c36b638435700c1f1a12a6bbe774e3f224c0ac",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2040043056687149164#m",
-      "date": "Fri, 03 Apr 2026 12:25:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE-wVigXwAAoaGT.jpg"
       ]
     }
   ]
