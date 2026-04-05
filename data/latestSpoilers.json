@@ -1,21 +1,36 @@
 {
-  "generatedAt": "2026-04-05T21:50:49.865Z",
+  "generatedAt": "2026-04-05T22:25:34.797Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
-      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
+      "id": "0e0b82d27583ba4676420d0133a9a9d6e4aecce25104f5529051be09bf9a168e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Oda seems to have already decided as of 2022 that Imu has a Devil ability.😍😍 Do you think Luffy and Loki would get low-diffed by Imu? sandman (@sandman_AP) In 2022, during a special voice commentary",
+      "text": "Oda seems to have already decided as of 2022 that Imu has a Devil ability.😍😍 Do you think Luffy and Loki would get low-diffed by Imu? sandman (@sandman_AP) In 2022, during a special voice commentary by Oda that could only be heard in theaters in Japan, he mentioned that a being like Tot Musica (the Demon King of Song) also exists in One Piece manga—but he said he has not yet drawn it yet.💡 — https://nitter.net/sandman_AP/status/1927354027211116990#m",
+      "url": "https://nitter.net/sandman_AP/status/2040902390334075224#m",
+      "date": "Sun, 05 Apr 2026 21:20:22 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
+        "https://nitter.net/pic/media%2FGr9WRcJWEAELqdL.jpg",
+        "https://nitter.net/pic/media%2FGr9WRexXAAAKD4P.jpg",
+        "https://nitter.net/pic/media%2FGr9WRapW0AAG5QM.jpg"
       ]
+    },
+    {
+      "id": "3810fe7f4b84970b64634dfff97e9a573d79703db1bb99b33c3403a13aed5806",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "This makes so much sense now.🔥🔥 #ONEPIECE1179 sandman (@sandman_AP) Oda (2012): One thing that motivates me to keep drawing One Piece is that I want to draw the final saga.🔥 The final saga will be ",
+      "text": "This makes so much sense now.🔥🔥 #ONEPIECE1179 sandman (@sandman_AP) Oda (2012): One thing that motivates me to keep drawing One Piece is that I want to draw the final saga.🔥 The final saga will be so amazing that it makes the Marineford arc look like nothing. Marineford arc was just a side trip to me. I didn't expect it to be so popular. — https://nitter.net/sandman_AP/status/1776550065471181308#m",
+      "url": "https://nitter.net/sandman_AP/status/2040900719440789704#m",
+      "date": "Sun, 05 Apr 2026 21:13:44 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "70840ba76bf33a32dd41a720ab124ab50511fb6f2cfabaf901efabfff9a9a49b",
@@ -45,6 +60,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
+      ]
+    },
+    {
+      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
+      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
+      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
+      ]
+    },
+    {
+      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
+      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
     }
   ],
@@ -144,6 +189,110 @@
       ]
     },
     {
+      "id": "910240f5910caa09939a0f5294272ed6fba514071d431fbfa6dbcc05e0a5575b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Do you think Imu is male as implied below?🥺 sandman (@sandman_AP) In Japanese version, the male Celestial Dragons are called -sei, while female Celestial Dragons like Gunko and Charlia are called -Gū",
+      "text": "Do you think Imu is male as implied below?🥺 sandman (@sandman_AP) In Japanese version, the male Celestial Dragons are called -sei, while female Celestial Dragons like Gunko and Charlia are called -Gū. And Imu is called Imu-sei, so Imu is pretty much confirmed as male.💡 — https://nitter.net/sandman_AP/status/1939238411061399672#m",
+      "url": "https://nitter.net/sandman_AP/status/2040901124077834316#m",
+      "date": "Sun, 05 Apr 2026 21:15:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFK8wb0bEAA1MoE.jpg",
+        "https://nitter.net/pic/media%2FGumPDq2WsAAym4f.jpg"
+      ]
+    },
+    {
+      "id": "bbe18b92e20ba6743c64e01478f3dd97266654d05347a1a7e7096bc40f0081dc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "159撃目 ワンパンマン galaxyheavyblow.web.fc2.com/…",
+      "text": "159撃目 ワンパンマン galaxyheavyblow.web.fc2.com/…",
+      "url": "https://nitter.net/ONE_rakugaki/status/2040907831118028942#m",
+      "date": "Sun, 05 Apr 2026 21:41:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2040906693178163200%2FMqH3dwoR%3Fformat%3Djpg%26name%3D420x420_2"
+      ]
+    },
+    {
+      "id": "9c33abe0470aba64ebba5a00d585f8ddf3ba2c1158609eba9b1db8a9f2dde5c5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "最後の3冊が到着❗ ドラゴンボール表紙号、42冊コンプしました🥳最後は無印時代が多めになりました 駆け込みの収集で分かったことは、書店に山ほど積まれていただけあって、まだまだ球数はあるが、それでも高額になるという不思議な現象でした💡 いつか表紙号の集合写真を撮りたいと思います😊 西遊記 (@great_internet2) 昨今の流れを見てると、先延ばしにしてたツケがついに来た感ある…😇 ",
+      "text": "最後の3冊が到着❗ ドラゴンボール表紙号、42冊コンプしました🥳最後は無印時代が多めになりました 駆け込みの収集で分かったことは、書店に山ほど積まれていただけあって、まだまだ球数はあるが、それでも高額になるという不思議な現象でした💡 いつか表紙号の集合写真を撮りたいと思います😊 西遊記 (@great_internet2) 昨今の流れを見てると、先延ばしにしてたツケがついに来た感ある…😇 残り6冊、年内に頑張って集めたい❗️ — https://nitter.net/great_internet2/status/2035259147495907637#m",
+      "url": "https://nitter.net/great_internet2/status/2040846117928087665#m",
+      "date": "Sun, 05 Apr 2026 17:36:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFKF_vDaEAEPQdf.jpg",
+        "https://nitter.net/pic/media%2FHD6wWhhboAQZi-t.jpg"
+      ]
+    },
+    {
+      "id": "1858cf44dfef6d80ff00d87435400941d17ca97d1b585fb4e693febf1638009f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#今週のワンピ エルバフに降り立ったイム様、蛹が蝶に羽化するみたいに背中をバリバリと破って登場してたんだけど何？ いつも「花の部屋」で蝶と戯れてるのと何か関係あるんかな？🤔 .Log【ワンピース考察】 (@manganouA) #今週のワンピ きたぁぁぁ！ イム様降臨!! 御尊顔公開!!! ビ……ビジュいいじゃーーん！ 投票の顔写真変わる？？ — https://nitter.net/manga",
+      "text": "#今週のワンピ エルバフに降り立ったイム様、蛹が蝶に羽化するみたいに背中をバリバリと破って登場してたんだけど何？ いつも「花の部屋」で蝶と戯れてるのと何か関係あるんかな？🤔 .Log【ワンピース考察】 (@manganouA) #今週のワンピ きたぁぁぁ！ イム様降臨!! 御尊顔公開!!! ビ……ビジュいいじゃーーん！ 投票の顔写真変わる？？ — https://nitter.net/manganouA/status/2040809607023743116#m",
+      "url": "https://nitter.net/manganouA/status/2040811857628549518#m",
+      "date": "Sun, 05 Apr 2026 15:20:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFJrkWgbQAAAC8z.jpg",
+        "https://nitter.net/pic/media%2FHFJphUvaMAAjn-m.jpg"
+      ]
+    },
+    {
+      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
+      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
+      ]
+    },
+    {
+      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
+      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
+      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -215,77 +364,38 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEbzN_BWcAATNyH.jpg"
       ]
-    },
-    {
-      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
-      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
-      ]
-    },
-    {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
-      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
-      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
     {
-      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
-      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
+      "id": "0e0b82d27583ba4676420d0133a9a9d6e4aecce25104f5529051be09bf9a168e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Oda seems to have already decided as of 2022 that Imu has a Devil ability.😍😍 Do you think Luffy and Loki would get low-diffed by Imu? sandman (@sandman_AP) In 2022, during a special voice commentary",
+      "text": "Oda seems to have already decided as of 2022 that Imu has a Devil ability.😍😍 Do you think Luffy and Loki would get low-diffed by Imu? sandman (@sandman_AP) In 2022, during a special voice commentary by Oda that could only be heard in theaters in Japan, he mentioned that a being like Tot Musica (the Demon King of Song) also exists in One Piece manga—but he said he has not yet drawn it yet.💡 — https://nitter.net/sandman_AP/status/1927354027211116990#m",
+      "url": "https://nitter.net/sandman_AP/status/2040902390334075224#m",
+      "date": "Sun, 05 Apr 2026 21:20:22 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
+        "https://nitter.net/pic/media%2FGr9WRcJWEAELqdL.jpg",
+        "https://nitter.net/pic/media%2FGr9WRexXAAAKD4P.jpg",
+        "https://nitter.net/pic/media%2FGr9WRapW0AAG5QM.jpg"
       ]
+    },
+    {
+      "id": "3810fe7f4b84970b64634dfff97e9a573d79703db1bb99b33c3403a13aed5806",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "This makes so much sense now.🔥🔥 #ONEPIECE1179 sandman (@sandman_AP) Oda (2012): One thing that motivates me to keep drawing One Piece is that I want to draw the final saga.🔥 The final saga will be ",
+      "text": "This makes so much sense now.🔥🔥 #ONEPIECE1179 sandman (@sandman_AP) Oda (2012): One thing that motivates me to keep drawing One Piece is that I want to draw the final saga.🔥 The final saga will be so amazing that it makes the Marineford arc look like nothing. Marineford arc was just a side trip to me. I didn't expect it to be so popular. — https://nitter.net/sandman_AP/status/1776550065471181308#m",
+      "url": "https://nitter.net/sandman_AP/status/2040900719440789704#m",
+      "date": "Sun, 05 Apr 2026 21:13:44 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "70840ba76bf33a32dd41a720ab124ab50511fb6f2cfabaf901efabfff9a9a49b",
@@ -315,6 +425,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2038631188840280066%2FyhoPCSfR%3Fformat%3Djpg%26name%3D600x314"
+      ]
+    },
+    {
+      "id": "505c81e4a9563acdcea228201e474ec792aebf526d572271d56bd1da95765bec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… th",
+      "text": "Black Clover Will be receiving a Color Cover and Opening Color Page in Next Giga Realising on May 1st 2026,Packed with 4 bonuses & special features! Chapter Preview-After an intense, fierce battle… the story heads into its super climax!!!” #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2039589850425561326#m",
+      "date": "Thu, 02 Apr 2026 06:24:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE4UKRkakAA_Plp.jpg"
+      ]
+    },
+    {
+      "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "text": "BREAKING NEWS‼️ STUDIO PIERROT JUST LEAKED A SCREENSHOT‼️ IS THIS HOW THE FUTURE OF THE BORUTO ANIME WILL LOOK LIKE⁉️🔥 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2039275602495099338#m",
+      "date": "Wed, 01 Apr 2026 09:36:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
     },
     {
@@ -412,6 +552,110 @@
       ]
     },
     {
+      "id": "910240f5910caa09939a0f5294272ed6fba514071d431fbfa6dbcc05e0a5575b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Do you think Imu is male as implied below?🥺 sandman (@sandman_AP) In Japanese version, the male Celestial Dragons are called -sei, while female Celestial Dragons like Gunko and Charlia are called -Gū",
+      "text": "Do you think Imu is male as implied below?🥺 sandman (@sandman_AP) In Japanese version, the male Celestial Dragons are called -sei, while female Celestial Dragons like Gunko and Charlia are called -Gū. And Imu is called Imu-sei, so Imu is pretty much confirmed as male.💡 — https://nitter.net/sandman_AP/status/1939238411061399672#m",
+      "url": "https://nitter.net/sandman_AP/status/2040901124077834316#m",
+      "date": "Sun, 05 Apr 2026 21:15:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFK8wb0bEAA1MoE.jpg",
+        "https://nitter.net/pic/media%2FGumPDq2WsAAym4f.jpg"
+      ]
+    },
+    {
+      "id": "bbe18b92e20ba6743c64e01478f3dd97266654d05347a1a7e7096bc40f0081dc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "159撃目 ワンパンマン galaxyheavyblow.web.fc2.com/…",
+      "text": "159撃目 ワンパンマン galaxyheavyblow.web.fc2.com/…",
+      "url": "https://nitter.net/ONE_rakugaki/status/2040907831118028942#m",
+      "date": "Sun, 05 Apr 2026 21:41:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2040906693178163200%2FMqH3dwoR%3Fformat%3Djpg%26name%3D420x420_2"
+      ]
+    },
+    {
+      "id": "9c33abe0470aba64ebba5a00d585f8ddf3ba2c1158609eba9b1db8a9f2dde5c5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "最後の3冊が到着❗ ドラゴンボール表紙号、42冊コンプしました🥳最後は無印時代が多めになりました 駆け込みの収集で分かったことは、書店に山ほど積まれていただけあって、まだまだ球数はあるが、それでも高額になるという不思議な現象でした💡 いつか表紙号の集合写真を撮りたいと思います😊 西遊記 (@great_internet2) 昨今の流れを見てると、先延ばしにしてたツケがついに来た感ある…😇 ",
+      "text": "最後の3冊が到着❗ ドラゴンボール表紙号、42冊コンプしました🥳最後は無印時代が多めになりました 駆け込みの収集で分かったことは、書店に山ほど積まれていただけあって、まだまだ球数はあるが、それでも高額になるという不思議な現象でした💡 いつか表紙号の集合写真を撮りたいと思います😊 西遊記 (@great_internet2) 昨今の流れを見てると、先延ばしにしてたツケがついに来た感ある…😇 残り6冊、年内に頑張って集めたい❗️ — https://nitter.net/great_internet2/status/2035259147495907637#m",
+      "url": "https://nitter.net/great_internet2/status/2040846117928087665#m",
+      "date": "Sun, 05 Apr 2026 17:36:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFKF_vDaEAEPQdf.jpg",
+        "https://nitter.net/pic/media%2FHD6wWhhboAQZi-t.jpg"
+      ]
+    },
+    {
+      "id": "1858cf44dfef6d80ff00d87435400941d17ca97d1b585fb4e693febf1638009f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#今週のワンピ エルバフに降り立ったイム様、蛹が蝶に羽化するみたいに背中をバリバリと破って登場してたんだけど何？ いつも「花の部屋」で蝶と戯れてるのと何か関係あるんかな？🤔 .Log【ワンピース考察】 (@manganouA) #今週のワンピ きたぁぁぁ！ イム様降臨!! 御尊顔公開!!! ビ……ビジュいいじゃーーん！ 投票の顔写真変わる？？ — https://nitter.net/manga",
+      "text": "#今週のワンピ エルバフに降り立ったイム様、蛹が蝶に羽化するみたいに背中をバリバリと破って登場してたんだけど何？ いつも「花の部屋」で蝶と戯れてるのと何か関係あるんかな？🤔 .Log【ワンピース考察】 (@manganouA) #今週のワンピ きたぁぁぁ！ イム様降臨!! 御尊顔公開!!! ビ……ビジュいいじゃーーん！ 投票の顔写真変わる？？ — https://nitter.net/manganouA/status/2040809607023743116#m",
+      "url": "https://nitter.net/manganouA/status/2040811857628549518#m",
+      "date": "Sun, 05 Apr 2026 15:20:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFJrkWgbQAAAC8z.jpg",
+        "https://nitter.net/pic/media%2FHFJphUvaMAAjn-m.jpg"
+      ]
+    },
+    {
+      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
+      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
+      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
+      ]
+    },
+    {
+      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
+      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
+      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
+      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
+      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -483,60 +727,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEbzN_BWcAATNyH.jpg"
       ]
-    },
-    {
-      "id": "60636afedec29692ee4a90b40c43fb1f22436a5e07aeb2fcc4fe8da0c34f3237",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 Opening STUDIO PPURI CINEMA Video",
-      "url": "https://nitter.net/d0nut2x/status/2040097619905482971#m",
-      "date": "Fri, 03 Apr 2026 16:02:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2040096764053917696%2Fimg%2FqXhEnx6XoKWzj1yh.jpg"
-      ]
-    },
-    {
-      "id": "1900a6a0c678f245ab8691d44854e18d525f130cdc5486af25c3bfac28b876fc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "text": "Ass. AD: 小澤悠紀,Adtech,Maki Sakai, 森田礼華 CAD: Masayori Komine KA: 8bit Yuka Muneyuki, Kaho Iida Takeo Oohira, Hideaki Shimada, Miki Nishikawa Natsumi Ishizaki, Yun, Haruka Watanabe 56 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2040024239802388570#m",
-      "date": "Fri, 03 Apr 2026 11:10:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "592f5e176eca6ca619f0b40814f2c1df3f00434f6278572b10dff08412c058ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Mi",
-      "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
-      "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
-      "date": "Fri, 03 Apr 2026 11:10:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ]
 }
