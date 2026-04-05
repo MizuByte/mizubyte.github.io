@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-04-05T14:22:49.858Z",
+  "generatedAt": "2026-04-05T14:57:47.593Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "105fe4561570e5833f4650062d0b58f3d82f43646272c0fa9c403ebb07f08b87",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Fuera spoilers en la religión, hoy es domingo, ya se verá que pasa Video",
-      "text": "Fuera spoilers en la religión, hoy es domingo, ya se verá que pasa Video",
-      "url": "https://nitter.net/EduardoHR95/status/2040715749908480332#m",
-      "date": "Sun, 05 Apr 2026 08:58:44 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2040715725757652992%2Fpu%2Fimg%2FP-gcutXAPeM4fTQC.jpg"
-      ]
-    },
     {
       "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
       "anime": "boruto",
@@ -65,6 +50,22 @@
   ],
   "misc": [
     {
+      "id": "5222b69fdecdff33b9555d69cc95458f0d5ed02266a6916a35b2fc780bc8f409",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Still insane that we got 3 Top character reveals in the same arc, where everyone wasn't sure if they would get a goofy design or not. 3/3 with fire Design...🔥",
+      "text": "#ONEPIECE1179 Still insane that we got 3 Top character reveals in the same arc, where everyone wasn't sure if they would get a goofy design or not. 3/3 with fire Design...🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2040800349716410736#m",
+      "date": "Sun, 05 Apr 2026 14:34:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFJhGkLbIAATWlm.jpg",
+        "https://nitter.net/pic/media%2FHFJhGiWboAAvVBP.jpg"
+      ]
+    },
+    {
       "id": "96a0aeff6d1f7911d8624b9268f96e9d23a4abbc9b8f4abbd9e7029121ad87e6",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -141,18 +142,48 @@
       ]
     },
     {
-      "id": "9c3c604893b3519da6aa0df2d5e43255da8580d4075100c33cdc32899d92c319",
+      "id": "e625fb2f9e58a0e8a1f77ce7e1651a750a382069eac439b79be155d3f6579a8a",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
-      "text": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
-      "url": "https://nitter.net/WorstGenHQ/status/2040525642257576103#m",
-      "date": "Sat, 04 Apr 2026 20:23:18 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【予告】 #今週のアニワン ご視聴ありがとうございました！ なんとこの度オープニング主題歌を 書きおろしてくださった アイナさんのインタビューが 4.13(月)発売ジャンプ20号に掲載決定✍️ #ルミナス に込めた想いを たっぷり語っていただきました。 発売をお楽しみに！ #ONEPIECE #アイナジエンド",
+      "text": "【予告】 #今週のアニワン ご視聴ありがとうございました！ なんとこの度オープニング主題歌を 書きおろしてくださった アイナさんのインタビューが 4.13(月)発売ジャンプ20号に掲載決定✍️ #ルミナス に込めた想いを たっぷり語っていただきました。 発売をお楽しみに！ #ONEPIECE #アイナジエンド",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040803659425120450#m",
+      "date": "Sun, 05 Apr 2026 14:48:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFFnQenbcAA4mPH.jpg"
+        "https://nitter.net/pic/media%2FHFJkG_sasAAjlKR.jpg"
+      ]
+    },
+    {
+      "id": "d3c8e87bcea1462b1ba00a289acc346181d31029a03d37b1d6a1b1308a46b4e9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "───────── 📺アニメ次回予告 ───────── 来週4.12(日)よる11:15~放送 第1157話 「ナミ困惑！ブロックの国の冒険」 ▼予告をみる piped.video/Gr0jfnMWaIM #ONEPIECE #今週のアニワン #大海賊時間",
+      "text": "───────── 📺アニメ次回予告 ───────── 来週4.12(日)よる11:15~放送 第1157話 「ナミ困惑！ブロックの国の冒険」 ▼予告をみる piped.video/Gr0jfnMWaIM #ONEPIECE #今週のアニワン #大海賊時間",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040802978068857261#m",
+      "date": "Sun, 05 Apr 2026 14:45:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFJjfWUa0AAGXV6.jpg"
+      ]
+    },
+    {
+      "id": "f48e8e51bc7ef1c611dd9c1a39ed09f49a6a1a24d02b52309ba5ca8c8782bf99",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Cuanto más pagas, más creyente eres. Cómo en la iglesia. Video",
+      "text": "Cuanto más pagas, más creyente eres. Cómo en la iglesia. Video",
+      "url": "https://nitter.net/josevico4/status/2040737926330380718#m",
+      "date": "Sun, 05 Apr 2026 10:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2040737884622225408%2Fpu%2Fimg%2F84ikLwZUjCo6E5Uz.jpg"
       ]
     },
     {
@@ -198,38 +229,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFJZ4tqbEAACM5k.jpg"
-      ]
-    },
-    {
-      "id": "0fdc47291b4c32002eb77a14e1145dec5834bfcc843a0b88ed92f8c893064261",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ジャンプを夜な夜なパラパラとめくってて、鳥山明の世界の告知どれくらいあるかな？と思い高松と小倉だけですがありました🤤 最初に発表された時はカラーだったりしたのかしら🤭そんなんあれば嬉しかったけど手元にはなかった～",
-      "text": "ジャンプを夜な夜なパラパラとめくってて、鳥山明の世界の告知どれくらいあるかな？と思い高松と小倉だけですがありました🤤 最初に発表された時はカラーだったりしたのかしら🤭そんなんあれば嬉しかったけど手元にはなかった～",
-      "url": "https://nitter.net/mimimiumimi/status/2040565423822049424#m",
-      "date": "Sat, 04 Apr 2026 23:01:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFGLcAFbsAADe8v.jpg",
-        "https://nitter.net/pic/media%2FHFGLcGobIAAnr1T.jpg",
-        "https://nitter.net/pic/media%2FHFGLcBUawAAAP9p.jpg"
-      ]
-    },
-    {
-      "id": "43fc560a73e6299500ef1a0b2671040d5842636731b369fc7bd6d5c1a1316bd0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Otoko Darou!-Ayako Yamazaki Captain Tsubasa: J Ending (1994) Video",
-      "text": "Otoko Darou!-Ayako Yamazaki Captain Tsubasa: J Ending (1994) Video",
-      "url": "https://nitter.net/Urim017x/status/2040497394001781122#m",
-      "date": "Sat, 04 Apr 2026 18:31:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2040482284843782144%2Fimg%2FvLr-xf7Cdww3wrVy.jpg"
       ]
     },
     {
@@ -345,37 +344,9 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
-    {
-      "id": "105fe4561570e5833f4650062d0b58f3d82f43646272c0fa9c403ebb07f08b87",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Fuera spoilers en la religión, hoy es domingo, ya se verá que pasa Video",
-      "text": "Fuera spoilers en la religión, hoy es domingo, ya se verá que pasa Video",
-      "url": "https://nitter.net/EduardoHR95/status/2040715749908480332#m",
-      "date": "Sun, 05 Apr 2026 08:58:44 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2040715725757652992%2Fpu%2Fimg%2FP-gcutXAPeM4fTQC.jpg"
-      ]
-    },
     {
       "id": "570076d23c8c070f6f85dab2bbe4c419bdb2fd5eccbdb8f71a580694925175ba",
       "anime": "boruto",
@@ -422,6 +393,22 @@
       ]
     },
     {
+      "id": "5222b69fdecdff33b9555d69cc95458f0d5ed02266a6916a35b2fc780bc8f409",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Still insane that we got 3 Top character reveals in the same arc, where everyone wasn't sure if they would get a goofy design or not. 3/3 with fire Design...🔥",
+      "text": "#ONEPIECE1179 Still insane that we got 3 Top character reveals in the same arc, where everyone wasn't sure if they would get a goofy design or not. 3/3 with fire Design...🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2040800349716410736#m",
+      "date": "Sun, 05 Apr 2026 14:34:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFJhGkLbIAATWlm.jpg",
+        "https://nitter.net/pic/media%2FHFJhGiWboAAvVBP.jpg"
+      ]
+    },
+    {
       "id": "96a0aeff6d1f7911d8624b9268f96e9d23a4abbc9b8f4abbd9e7029121ad87e6",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -498,18 +485,48 @@
       ]
     },
     {
-      "id": "9c3c604893b3519da6aa0df2d5e43255da8580d4075100c33cdc32899d92c319",
+      "id": "e625fb2f9e58a0e8a1f77ce7e1651a750a382069eac439b79be155d3f6579a8a",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
-      "text": "#ONEPIECE1179 First world: Sun God Nika&Devil(Earth God)> Real Gods(pre devilfruit era) Second world: Joyboy(Sun God Nika fruit)&Imu(Devil Fruit)",
-      "url": "https://nitter.net/WorstGenHQ/status/2040525642257576103#m",
-      "date": "Sat, 04 Apr 2026 20:23:18 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【予告】 #今週のアニワン ご視聴ありがとうございました！ なんとこの度オープニング主題歌を 書きおろしてくださった アイナさんのインタビューが 4.13(月)発売ジャンプ20号に掲載決定✍️ #ルミナス に込めた想いを たっぷり語っていただきました。 発売をお楽しみに！ #ONEPIECE #アイナジエンド",
+      "text": "【予告】 #今週のアニワン ご視聴ありがとうございました！ なんとこの度オープニング主題歌を 書きおろしてくださった アイナさんのインタビューが 4.13(月)発売ジャンプ20号に掲載決定✍️ #ルミナス に込めた想いを たっぷり語っていただきました。 発売をお楽しみに！ #ONEPIECE #アイナジエンド",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040803659425120450#m",
+      "date": "Sun, 05 Apr 2026 14:48:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFFnQenbcAA4mPH.jpg"
+        "https://nitter.net/pic/media%2FHFJkG_sasAAjlKR.jpg"
+      ]
+    },
+    {
+      "id": "d3c8e87bcea1462b1ba00a289acc346181d31029a03d37b1d6a1b1308a46b4e9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "───────── 📺アニメ次回予告 ───────── 来週4.12(日)よる11:15~放送 第1157話 「ナミ困惑！ブロックの国の冒険」 ▼予告をみる piped.video/Gr0jfnMWaIM #ONEPIECE #今週のアニワン #大海賊時間",
+      "text": "───────── 📺アニメ次回予告 ───────── 来週4.12(日)よる11:15~放送 第1157話 「ナミ困惑！ブロックの国の冒険」 ▼予告をみる piped.video/Gr0jfnMWaIM #ONEPIECE #今週のアニワン #大海賊時間",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040802978068857261#m",
+      "date": "Sun, 05 Apr 2026 14:45:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFJjfWUa0AAGXV6.jpg"
+      ]
+    },
+    {
+      "id": "f48e8e51bc7ef1c611dd9c1a39ed09f49a6a1a24d02b52309ba5ca8c8782bf99",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Cuanto más pagas, más creyente eres. Cómo en la iglesia. Video",
+      "text": "Cuanto más pagas, más creyente eres. Cómo en la iglesia. Video",
+      "url": "https://nitter.net/josevico4/status/2040737926330380718#m",
+      "date": "Sun, 05 Apr 2026 10:26:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2040737884622225408%2Fpu%2Fimg%2F84ikLwZUjCo6E5Uz.jpg"
       ]
     },
     {
@@ -555,38 +572,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFJZ4tqbEAACM5k.jpg"
-      ]
-    },
-    {
-      "id": "0fdc47291b4c32002eb77a14e1145dec5834bfcc843a0b88ed92f8c893064261",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ジャンプを夜な夜なパラパラとめくってて、鳥山明の世界の告知どれくらいあるかな？と思い高松と小倉だけですがありました🤤 最初に発表された時はカラーだったりしたのかしら🤭そんなんあれば嬉しかったけど手元にはなかった～",
-      "text": "ジャンプを夜な夜なパラパラとめくってて、鳥山明の世界の告知どれくらいあるかな？と思い高松と小倉だけですがありました🤤 最初に発表された時はカラーだったりしたのかしら🤭そんなんあれば嬉しかったけど手元にはなかった～",
-      "url": "https://nitter.net/mimimiumimi/status/2040565423822049424#m",
-      "date": "Sat, 04 Apr 2026 23:01:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFGLcAFbsAADe8v.jpg",
-        "https://nitter.net/pic/media%2FHFGLcGobIAAnr1T.jpg",
-        "https://nitter.net/pic/media%2FHFGLcBUawAAAP9p.jpg"
-      ]
-    },
-    {
-      "id": "43fc560a73e6299500ef1a0b2671040d5842636731b369fc7bd6d5c1a1316bd0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Otoko Darou!-Ayako Yamazaki Captain Tsubasa: J Ending (1994) Video",
-      "text": "Otoko Darou!-Ayako Yamazaki Captain Tsubasa: J Ending (1994) Video",
-      "url": "https://nitter.net/Urim017x/status/2040497394001781122#m",
-      "date": "Sat, 04 Apr 2026 18:31:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2040482284843782144%2Fimg%2FvLr-xf7Cdww3wrVy.jpg"
       ]
     },
     {
@@ -699,19 +684,6 @@
       "text": "That Time I Got Reincarnated as a Slime Season 4 #1 Full Staff: SB: Kenji Yasuda ED: Atsushi Nakayama AD: Shinomin, Kyouko Kobayashi, Hideaki Shimada,exsa, Takayuki Hanyuu Microcabin Serika Yamada, Miyo Yabunaka, Masashi Suenaga",
       "url": "https://nitter.net/PacemanOP/status/2040024237717717491#m",
       "date": "Fri, 03 Apr 2026 11:10:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c60cb173887246524d05dc7e3aa87a7ebe6050010be33607732bfb7b8e006dab",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "text": "It will also Feature a interview with Gakuto Kajiwara and Yuki Tabata",
-      "url": "https://nitter.net/PacemanOP/status/2039589852648456208#m",
-      "date": "Thu, 02 Apr 2026 06:24:49 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
