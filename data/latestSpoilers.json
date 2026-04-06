@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T11:36:16.603Z",
+  "generatedAt": "2026-04-06T12:37:24.762Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -74,10 +74,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2041065977249427940#m",
       "date": "Mon, 06 Apr 2026 08:10:24 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "2c5878f763f3f178fefb347d946e477c23bc772d3bbbd3b7f43fd7cb7705ac01",
@@ -139,6 +137,94 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2040870034793525248%2Fimg%2FUduqK_yT0kv1Qjbu.jpg"
+      ]
+    },
+    {
+      "id": "97288dc35e98dfcac549eaef72e2bc09d864b4a5c95a907db0f56baa94887864",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Join us on YouTube this Friday（April 10, at 21:00 JST）to take part in the LEVEL5 VISION 2026 Craftsmanship online event, featuring the latest news and updates on LEVEL5 titles! level5.co.jp/vision2026",
+      "text": "Join us on YouTube this Friday（April 10, at 21:00 JST）to take part in the LEVEL5 VISION 2026 Craftsmanship online event, featuring the latest news and updates on LEVEL5 titles! level5.co.jp/vision2026/en/ #L5vision",
+      "url": "https://nitter.net/LEVEL5_times/status/2041100219606266036#m",
+      "date": "Mon, 06 Apr 2026 10:26:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2041090795017781248%2F8_kt1f-Z%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "d53294d24480206c6163882c535098a7f6a68a97b8c16a3d4820b57dfe2da7cd",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Gracias por el increíble apoyo a 'STEEL BALL RUN JoJo’s Bizarre Adventure'. La serie se encuentra actualmente en producción y estará disponible para el disfrute de todos. Estamos planificando un estre",
+      "text": "Gracias por el increíble apoyo a 'STEEL BALL RUN JoJo’s Bizarre Adventure'. La serie se encuentra actualmente en producción y estará disponible para el disfrute de todos. Estamos planificando un estreno en formato dividido para la totalidad de los episodios. La siguiente parte comenzará a emitirse en otoño de 2026 en Netflix, con el estreno de un nuevo episodio cada semana. Este calendario de lanzamientos forma parte de nuestro plan original y refleja los deseos del comité de producción. Vuestra pasión y entusiasmo significan mucho para todas las personas involucradas en la preparación. Agradecemos vuestra paciencia y apoyo continuo mientras trabajamos para traeros la siguiente parte.",
+      "url": "https://nitter.net/NetflixES/status/2041078687232057504#m",
+      "date": "Mon, 06 Apr 2026 09:00:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "42810f4461ad7cee11f17cb612777d6b75b49123514f73fa00e19d9bcb9dbcd2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『あさドラ！』次回71話24ページ、72話26ページ、２話合わせて50ページのネームが出来上がりました〜。 これから作画、ペン入れに入ります。 これが完成したら10巻目の原稿がすべて仕上がります。皆さん、もうしばらくお待ちください。お楽しみに！ #あさドラ #浦沢直樹",
+      "text": "『あさドラ！』次回71話24ページ、72話26ページ、２話合わせて50ページのネームが出来上がりました〜。 これから作画、ペン入れに入ります。 これが完成したら10巻目の原稿がすべて仕上がります。皆さん、もうしばらくお待ちください。お楽しみに！ #あさドラ #浦沢直樹",
+      "url": "https://nitter.net/urasawa_naoki/status/2041082723100684570#m",
+      "date": "Mon, 06 Apr 2026 09:16:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFNh6nYaIAA8KRz.jpg"
+      ]
+    },
+    {
+      "id": "81709d6a2cf45e9d1510a6b973b7c42556ef75ced833ab2aa1b38f4e80309d1f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Young Special Heroes searching for bonds that will continue into the future are coming soon in the Special Heroes summoning event: Unforgettable! Also, 5★ Hero Eliwood: Pledged Friend will appear as a",
+      "text": "Young Special Heroes searching for bonds that will continue into the future are coming soon in the Special Heroes summoning event: Unforgettable! Also, 5★ Hero Eliwood: Pledged Friend will appear as a Score Reward in the next Tempest Trials+ event! #FEHeroes #FireEmblem Video",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2040987866239754685#m",
+      "date": "Mon, 06 Apr 2026 03:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE9GN85bwAAjExl.jpg"
+      ]
+    },
+    {
+      "id": "a31a5a538010af072b482656928088faab5b2a6018e1137d0d2e156925bb32ee",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔻クイズ大会の日程はこちら🔻",
+      "text": "🔻クイズ大会の日程はこちら🔻",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040989294370988528#m",
+      "date": "Mon, 06 Apr 2026 03:05:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFMM8abaQAApWxU.jpg"
+      ]
+    },
+    {
+      "id": "5c0d3e9f93ffb6f906e1f8c3baac965b0b4fb9f374ec2f263d6160c79c6c2fe4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🌈 ┈┈┈┈┈┈┈┈┈ ☁️ #ONEPIECE わいわいクイズ100 7.4(土)開催決定 ☁️ ┈┈┈┈┈┈┈┈┈ 🌈 LINEでカンタンに楽しめる クイズ大会が始動！ 成績上位100位までの方は 第8回 #ナレッジキング 決定戦へ 自動エントリー！ ▼くわしくはこちら knowledgeking.onepiece-base.…",
+      "text": "🌈 ┈┈┈┈┈┈┈┈┈ ☁️ #ONEPIECE わいわいクイズ100 7.4(土)開催決定 ☁️ ┈┈┈┈┈┈┈┈┈ 🌈 LINEでカンタンに楽しめる クイズ大会が始動！ 成績上位100位までの方は 第8回 #ナレッジキング 決定戦へ 自動エントリー！ ▼くわしくはこちら knowledgeking.onepiece-base.…",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040989285038563511#m",
+      "date": "Mon, 06 Apr 2026 03:05:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFMM77PakAA5vtf.jpg"
       ]
     },
     {
@@ -340,10 +426,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2041065977249427940#m",
       "date": "Mon, 06 Apr 2026 08:10:24 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "2c5878f763f3f178fefb347d946e477c23bc772d3bbbd3b7f43fd7cb7705ac01",
@@ -405,6 +489,94 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2040870034793525248%2Fimg%2FUduqK_yT0kv1Qjbu.jpg"
+      ]
+    },
+    {
+      "id": "97288dc35e98dfcac549eaef72e2bc09d864b4a5c95a907db0f56baa94887864",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Join us on YouTube this Friday（April 10, at 21:00 JST）to take part in the LEVEL5 VISION 2026 Craftsmanship online event, featuring the latest news and updates on LEVEL5 titles! level5.co.jp/vision2026",
+      "text": "Join us on YouTube this Friday（April 10, at 21:00 JST）to take part in the LEVEL5 VISION 2026 Craftsmanship online event, featuring the latest news and updates on LEVEL5 titles! level5.co.jp/vision2026/en/ #L5vision",
+      "url": "https://nitter.net/LEVEL5_times/status/2041100219606266036#m",
+      "date": "Mon, 06 Apr 2026 10:26:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2041090795017781248%2F8_kt1f-Z%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "d53294d24480206c6163882c535098a7f6a68a97b8c16a3d4820b57dfe2da7cd",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Gracias por el increíble apoyo a 'STEEL BALL RUN JoJo’s Bizarre Adventure'. La serie se encuentra actualmente en producción y estará disponible para el disfrute de todos. Estamos planificando un estre",
+      "text": "Gracias por el increíble apoyo a 'STEEL BALL RUN JoJo’s Bizarre Adventure'. La serie se encuentra actualmente en producción y estará disponible para el disfrute de todos. Estamos planificando un estreno en formato dividido para la totalidad de los episodios. La siguiente parte comenzará a emitirse en otoño de 2026 en Netflix, con el estreno de un nuevo episodio cada semana. Este calendario de lanzamientos forma parte de nuestro plan original y refleja los deseos del comité de producción. Vuestra pasión y entusiasmo significan mucho para todas las personas involucradas en la preparación. Agradecemos vuestra paciencia y apoyo continuo mientras trabajamos para traeros la siguiente parte.",
+      "url": "https://nitter.net/NetflixES/status/2041078687232057504#m",
+      "date": "Mon, 06 Apr 2026 09:00:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "42810f4461ad7cee11f17cb612777d6b75b49123514f73fa00e19d9bcb9dbcd2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『あさドラ！』次回71話24ページ、72話26ページ、２話合わせて50ページのネームが出来上がりました〜。 これから作画、ペン入れに入ります。 これが完成したら10巻目の原稿がすべて仕上がります。皆さん、もうしばらくお待ちください。お楽しみに！ #あさドラ #浦沢直樹",
+      "text": "『あさドラ！』次回71話24ページ、72話26ページ、２話合わせて50ページのネームが出来上がりました〜。 これから作画、ペン入れに入ります。 これが完成したら10巻目の原稿がすべて仕上がります。皆さん、もうしばらくお待ちください。お楽しみに！ #あさドラ #浦沢直樹",
+      "url": "https://nitter.net/urasawa_naoki/status/2041082723100684570#m",
+      "date": "Mon, 06 Apr 2026 09:16:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFNh6nYaIAA8KRz.jpg"
+      ]
+    },
+    {
+      "id": "81709d6a2cf45e9d1510a6b973b7c42556ef75ced833ab2aa1b38f4e80309d1f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Young Special Heroes searching for bonds that will continue into the future are coming soon in the Special Heroes summoning event: Unforgettable! Also, 5★ Hero Eliwood: Pledged Friend will appear as a",
+      "text": "Young Special Heroes searching for bonds that will continue into the future are coming soon in the Special Heroes summoning event: Unforgettable! Also, 5★ Hero Eliwood: Pledged Friend will appear as a Score Reward in the next Tempest Trials+ event! #FEHeroes #FireEmblem Video",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2040987866239754685#m",
+      "date": "Mon, 06 Apr 2026 03:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE9GN85bwAAjExl.jpg"
+      ]
+    },
+    {
+      "id": "a31a5a538010af072b482656928088faab5b2a6018e1137d0d2e156925bb32ee",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔻クイズ大会の日程はこちら🔻",
+      "text": "🔻クイズ大会の日程はこちら🔻",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040989294370988528#m",
+      "date": "Mon, 06 Apr 2026 03:05:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFMM8abaQAApWxU.jpg"
+      ]
+    },
+    {
+      "id": "5c0d3e9f93ffb6f906e1f8c3baac965b0b4fb9f374ec2f263d6160c79c6c2fe4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🌈 ┈┈┈┈┈┈┈┈┈ ☁️ #ONEPIECE わいわいクイズ100 7.4(土)開催決定 ☁️ ┈┈┈┈┈┈┈┈┈ 🌈 LINEでカンタンに楽しめる クイズ大会が始動！ 成績上位100位までの方は 第8回 #ナレッジキング 決定戦へ 自動エントリー！ ▼くわしくはこちら knowledgeking.onepiece-base.…",
+      "text": "🌈 ┈┈┈┈┈┈┈┈┈ ☁️ #ONEPIECE わいわいクイズ100 7.4(土)開催決定 ☁️ ┈┈┈┈┈┈┈┈┈ 🌈 LINEでカンタンに楽しめる クイズ大会が始動！ 成績上位100位までの方は 第8回 #ナレッジキング 決定戦へ 自動エントリー！ ▼くわしくはこちら knowledgeking.onepiece-base.…",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2040989285038563511#m",
+      "date": "Mon, 06 Apr 2026 03:05:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFMM77PakAA5vtf.jpg"
       ]
     },
     {
