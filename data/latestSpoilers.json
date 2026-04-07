@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T10:51:25.031Z",
+  "generatedAt": "2026-04-07T11:50:24.884Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,6 +34,22 @@
     }
   ],
   "misc": [
+    {
+      "id": "93655e23ad6afd780d1deea2064b288189f35ccc5bc7c86988cf32921a61c0a6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Techno ancien royaume ? (ou inspi ++ vol techno toussa toussa)",
+      "text": "#ONEPIECE1179 Techno ancien royaume ? (ou inspi ++ vol techno toussa toussa)",
+      "url": "https://nitter.net/DebunkHazard/status/2039797285278609577#m",
+      "date": "Thu, 02 Apr 2026 20:09:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE7Qmv0aMAAwN_F.png",
+        "https://nitter.net/pic/media%2FHE7QpuiawAE_B-P.png"
+      ]
+    },
     {
       "id": "400aafe813abcd3fed8f46f240565459601d3a2d5f509d15cf9beb7e749cffed",
       "anime": "onepiece",
@@ -74,48 +90,40 @@
       "url": "https://nitter.net/WorstGenHQ/status/2041446073810448612#m",
       "date": "Tue, 07 Apr 2026 09:20:46 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFSsYYfWkAA8uGu.jpg"
+      ]
     },
     {
-      "id": "a4f6d530c27ec7ea8fdfa7c69620d763308d57b75a427156e5e3883cb68d75a1",
+      "id": "21ea1b7f181a2158a8ff35584e497f96effaa04adc29ef3ab658a1fe814cfa0e",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance",
-      "text": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance",
+      "title": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance Video",
+      "text": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance Video",
       "url": "https://nitter.net/tea_with_hunny/status/2041097853792088253#m",
       "date": "Mon, 06 Apr 2026 10:17:04 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2041097632555372544%2Fimg%2F3twtEu4LS0h560fZ.jpg"
+      ]
     },
     {
-      "id": "1b5cf29fd7cece7d529bb3188f4ccd6fa423f8077fa5b92474d91228dea138fa",
+      "id": "9f6eeff5a7dbde8092f1b24f39536ff833ff04aaac8f4a094323ed36fb5de33a",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
       "title": "❤️🍄",
       "text": "❤️🍄",
-      "url": "https://nitter.net/i/status/2041252221791387905#m",
+      "url": "https://nitter.net/prattprattpratt/status/2041252221791387905#m",
       "date": "Mon, 06 Apr 2026 20:30:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "57cc527a5d2f76416d6fd18763cbcfdaab976fe72fc863883b5eb28932e4c1da",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Thoughts on Sommers and Kilingham. People saying that Imu might kill them to get more life span to fight in Elbaph, but I think given all the build up, both gonna get a Power up soon. Ki",
-      "text": "#ONEPIECE1179 Thoughts on Sommers and Kilingham. People saying that Imu might kill them to get more life span to fight in Elbaph, but I think given all the build up, both gonna get a Power up soon. Kilingham vs Sanji Sommers vs Zoro Most likely the match up?",
-      "url": "https://nitter.net/WorstGenHQ/status/2041179405947486376#m",
-      "date": "Mon, 06 Apr 2026 15:41:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFO52mAWwAAa4tF.jpg"
+        "https://nitter.net/pic/media%2FHFP8DuOaUAEjnkP.jpg",
+        "https://nitter.net/pic/media%2FHFP8Dt0a4AAnXIc.jpg"
       ]
     },
     {
@@ -294,6 +302,22 @@
       ]
     },
     {
+      "id": "93655e23ad6afd780d1deea2064b288189f35ccc5bc7c86988cf32921a61c0a6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1179 Techno ancien royaume ? (ou inspi ++ vol techno toussa toussa)",
+      "text": "#ONEPIECE1179 Techno ancien royaume ? (ou inspi ++ vol techno toussa toussa)",
+      "url": "https://nitter.net/DebunkHazard/status/2039797285278609577#m",
+      "date": "Thu, 02 Apr 2026 20:09:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE7Qmv0aMAAwN_F.png",
+        "https://nitter.net/pic/media%2FHE7QpuiawAE_B-P.png"
+      ]
+    },
+    {
       "id": "400aafe813abcd3fed8f46f240565459601d3a2d5f509d15cf9beb7e749cffed",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -333,48 +357,40 @@
       "url": "https://nitter.net/WorstGenHQ/status/2041446073810448612#m",
       "date": "Tue, 07 Apr 2026 09:20:46 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFSsYYfWkAA8uGu.jpg"
+      ]
     },
     {
-      "id": "a4f6d530c27ec7ea8fdfa7c69620d763308d57b75a427156e5e3883cb68d75a1",
+      "id": "21ea1b7f181a2158a8ff35584e497f96effaa04adc29ef3ab658a1fe814cfa0e",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance",
-      "text": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance",
+      "title": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance Video",
+      "text": "I feel so seen. Men shouldn’t know this type of sacred knowledge… Anyway, Saint Imu, pls just one chance Video",
       "url": "https://nitter.net/tea_with_hunny/status/2041097853792088253#m",
       "date": "Mon, 06 Apr 2026 10:17:04 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2041097632555372544%2Fimg%2F3twtEu4LS0h560fZ.jpg"
+      ]
     },
     {
-      "id": "1b5cf29fd7cece7d529bb3188f4ccd6fa423f8077fa5b92474d91228dea138fa",
+      "id": "9f6eeff5a7dbde8092f1b24f39536ff833ff04aaac8f4a094323ed36fb5de33a",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
       "title": "❤️🍄",
       "text": "❤️🍄",
-      "url": "https://nitter.net/i/status/2041252221791387905#m",
+      "url": "https://nitter.net/prattprattpratt/status/2041252221791387905#m",
       "date": "Mon, 06 Apr 2026 20:30:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "57cc527a5d2f76416d6fd18763cbcfdaab976fe72fc863883b5eb28932e4c1da",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 Thoughts on Sommers and Kilingham. People saying that Imu might kill them to get more life span to fight in Elbaph, but I think given all the build up, both gonna get a Power up soon. Ki",
-      "text": "#ONEPIECE1179 Thoughts on Sommers and Kilingham. People saying that Imu might kill them to get more life span to fight in Elbaph, but I think given all the build up, both gonna get a Power up soon. Kilingham vs Sanji Sommers vs Zoro Most likely the match up?",
-      "url": "https://nitter.net/WorstGenHQ/status/2041179405947486376#m",
-      "date": "Mon, 06 Apr 2026 15:41:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFO52mAWwAAa4tF.jpg"
+        "https://nitter.net/pic/media%2FHFP8DuOaUAEjnkP.jpg",
+        "https://nitter.net/pic/media%2FHFP8Dt0a4AAnXIc.jpg"
       ]
     },
     {
