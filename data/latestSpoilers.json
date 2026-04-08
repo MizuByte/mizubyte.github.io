@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T16:56:17.797Z",
+  "generatedAt": "2026-04-08T18:04:09.950Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -20,6 +20,21 @@
   ],
   "misc": [
     {
+      "id": "a6faef30733f2044073b8d99cc7be14cfe1075fae9ab6bd656f41ba50ba16efd",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “JOYBOY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “JOYBOY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2041936946142830762#m",
+      "date": "Wed, 08 Apr 2026 17:51:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2039063690050478080%2FPSBkeYfe%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
       "id": "d5b21e4253856190ef91eb41f7db73743c0a1ca82e98555bcaeaa4341deefffe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -44,8 +59,10 @@
       "url": "https://nitter.net/NEBU_KURO/status/2041902353654464718#m",
       "date": "Wed, 08 Apr 2026 15:33:52 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2041894144155754496%2FYCHEgup8%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "c7bdbc6089b4dc64c35e1d6a029696787dfa1a96fce3e000842677cc61f344f7",
@@ -92,21 +109,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFUD2KXbkAAHmkf.jpg"
-      ]
-    },
-    {
-      "id": "87497c7f0ba92deeb042a94e1bffe6ba9fe23a776b18173947a8977eb1e4a9b3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "charithra highlighting the ducks mention in the s3 article😭😭 karoo confirmed",
-      "text": "charithra highlighting the ducks mention in the s3 article😭😭 karoo confirmed",
-      "url": "https://nitter.net/princessdebiri/status/2041559288494117293#m",
-      "date": "Tue, 07 Apr 2026 16:50:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFUTWiJa8AMX-Nm.jpg"
       ]
     },
     {
@@ -175,6 +177,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "eaedb7cb89923940bbf6ddcbacf87ed22a89d01d7c7ee4cbdeb982fa67545ec3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041938249900257503#m",
+      "date": "Wed, 08 Apr 2026 17:56:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFZsA6aXYAAE2kI.jpg"
+      ]
     },
     {
       "id": "3850e0daf16d187920255f3d029598b9b2e6a2f78928917ce3dff8c117a42c58",
@@ -250,21 +267,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFTjZz-WcAIr3W8.jpg"
-      ]
-    },
-    {
-      "id": "601fee250fc1d3f44d12886f0d68ab8c793e38e39b4732cfa4fc14062eae368c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2041449127939088461#m",
-      "date": "Tue, 07 Apr 2026 09:32:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFSvKP4agAA-zvv.jpg"
       ]
     }
   ],
@@ -285,6 +287,21 @@
       ]
     },
     {
+      "id": "a6faef30733f2044073b8d99cc7be14cfe1075fae9ab6bd656f41ba50ba16efd",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “JOYBOY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “JOYBOY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2041936946142830762#m",
+      "date": "Wed, 08 Apr 2026 17:51:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2039063690050478080%2FPSBkeYfe%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
       "id": "d5b21e4253856190ef91eb41f7db73743c0a1ca82e98555bcaeaa4341deefffe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -309,8 +326,10 @@
       "url": "https://nitter.net/NEBU_KURO/status/2041902353654464718#m",
       "date": "Wed, 08 Apr 2026 15:33:52 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2041894144155754496%2FYCHEgup8%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "c7bdbc6089b4dc64c35e1d6a029696787dfa1a96fce3e000842677cc61f344f7",
@@ -357,21 +376,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFUD2KXbkAAHmkf.jpg"
-      ]
-    },
-    {
-      "id": "87497c7f0ba92deeb042a94e1bffe6ba9fe23a776b18173947a8977eb1e4a9b3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "charithra highlighting the ducks mention in the s3 article😭😭 karoo confirmed",
-      "text": "charithra highlighting the ducks mention in the s3 article😭😭 karoo confirmed",
-      "url": "https://nitter.net/princessdebiri/status/2041559288494117293#m",
-      "date": "Tue, 07 Apr 2026 16:50:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFUTWiJa8AMX-Nm.jpg"
       ]
     },
     {
@@ -440,6 +444,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "eaedb7cb89923940bbf6ddcbacf87ed22a89d01d7c7ee4cbdeb982fa67545ec3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041938249900257503#m",
+      "date": "Wed, 08 Apr 2026 17:56:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFZsA6aXYAAE2kI.jpg"
+      ]
     },
     {
       "id": "3850e0daf16d187920255f3d029598b9b2e6a2f78928917ce3dff8c117a42c58",
@@ -515,21 +534,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFTjZz-WcAIr3W8.jpg"
-      ]
-    },
-    {
-      "id": "601fee250fc1d3f44d12886f0d68ab8c793e38e39b4732cfa4fc14062eae368c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2041449127939088461#m",
-      "date": "Tue, 07 Apr 2026 09:32:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFSvKP4agAA-zvv.jpg"
       ]
     }
   ]
