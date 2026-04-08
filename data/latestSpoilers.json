@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T06:12:10.266Z",
+  "generatedAt": "2026-04-08T07:56:40.137Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,97 @@
     }
   ],
   "misc": [
+    {
+      "id": "58da7997402c9d6bef6d933e0dbc7145218277fd31fe40ce45a7fb6e922778fe",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2041762206631514196#m",
+      "date": "Wed, 08 Apr 2026 06:16:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFXL59VWsAA0dh3.jpg"
+      ]
+    },
+    {
+      "id": "4e93e4095b8009920ef9aad5b4e97f977ac4b543d8ce86ad8005a6bef828123d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "¡SORTEO!🎉 Celebrando el lanzamiento de 'Yubikiri Leo', sorteamos TRES tomitos del mismo entre las personas que: -Nos sigan en esta cuenta. -Den RT y mencionen a dos amigos. Válido sólo para España y ",
+      "text": "¡SORTEO!🎉 Celebrando el lanzamiento de 'Yubikiri Leo', sorteamos TRES tomitos del mismo entre las personas que: -Nos sigan en esta cuenta. -Den RT y mencionen a dos amigos. Válido sólo para España y termina el próximo 14 de abril. ¡Mucha suerte a todos y todas! 🙏",
+      "url": "https://nitter.net/KibookEdiciones/status/2041551322869338260#m",
+      "date": "Tue, 07 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFTiX37XAAAjDUC.jpg",
+        "https://nitter.net/pic/media%2FHFTiaNfXQAEmTG1.jpg"
+      ]
+    },
+    {
+      "id": "c85ad35833e129f5cc839b59ce7b440bc0ebbcc98174758a0400867c42a93794",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041595124476510424#m",
+      "date": "Tue, 07 Apr 2026 19:13:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFUz8c1bYAAMSEn.jpg"
+      ]
+    },
+    {
+      "id": "950a1884ed22875801941cf52dd4d9a41356111a61d32eb7621562feeb580e3f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041506571222491238#m",
+      "date": "Tue, 07 Apr 2026 13:21:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFTjZz-WcAIr3W8.jpg"
+      ]
+    },
+    {
+      "id": "601fee250fc1d3f44d12886f0d68ab8c793e38e39b4732cfa4fc14062eae368c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041449127939088461#m",
+      "date": "Tue, 07 Apr 2026 09:32:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFSvKP4agAA-zvv.jpg"
+      ]
+    },
+    {
+      "id": "9b9103eb664555d8f555f2af5e968a86756876bb25ccee5fb04200442f9f364b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041390836747796507#m",
+      "date": "Tue, 07 Apr 2026 05:41:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFR6JQwaMAAqnoT.jpg"
+      ]
+    },
     {
       "id": "5636f5fe7ed35ade46bfac7005810e99bbd9242ea78d9b7828629583b4baac71",
       "anime": "blackclover",
@@ -101,6 +192,97 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE_xj_1agAA8PYO.jpg"
+      ]
+    },
+    {
+      "id": "58da7997402c9d6bef6d933e0dbc7145218277fd31fe40ce45a7fb6e922778fe",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2041762206631514196#m",
+      "date": "Wed, 08 Apr 2026 06:16:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFXL59VWsAA0dh3.jpg"
+      ]
+    },
+    {
+      "id": "4e93e4095b8009920ef9aad5b4e97f977ac4b543d8ce86ad8005a6bef828123d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "¡SORTEO!🎉 Celebrando el lanzamiento de 'Yubikiri Leo', sorteamos TRES tomitos del mismo entre las personas que: -Nos sigan en esta cuenta. -Den RT y mencionen a dos amigos. Válido sólo para España y ",
+      "text": "¡SORTEO!🎉 Celebrando el lanzamiento de 'Yubikiri Leo', sorteamos TRES tomitos del mismo entre las personas que: -Nos sigan en esta cuenta. -Den RT y mencionen a dos amigos. Válido sólo para España y termina el próximo 14 de abril. ¡Mucha suerte a todos y todas! 🙏",
+      "url": "https://nitter.net/KibookEdiciones/status/2041551322869338260#m",
+      "date": "Tue, 07 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFTiX37XAAAjDUC.jpg",
+        "https://nitter.net/pic/media%2FHFTiaNfXQAEmTG1.jpg"
+      ]
+    },
+    {
+      "id": "c85ad35833e129f5cc839b59ce7b440bc0ebbcc98174758a0400867c42a93794",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041595124476510424#m",
+      "date": "Tue, 07 Apr 2026 19:13:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFUz8c1bYAAMSEn.jpg"
+      ]
+    },
+    {
+      "id": "950a1884ed22875801941cf52dd4d9a41356111a61d32eb7621562feeb580e3f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041506571222491238#m",
+      "date": "Tue, 07 Apr 2026 13:21:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFTjZz-WcAIr3W8.jpg"
+      ]
+    },
+    {
+      "id": "601fee250fc1d3f44d12886f0d68ab8c793e38e39b4732cfa4fc14062eae368c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041449127939088461#m",
+      "date": "Tue, 07 Apr 2026 09:32:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFSvKP4agAA-zvv.jpg"
+      ]
+    },
+    {
+      "id": "9b9103eb664555d8f555f2af5e968a86756876bb25ccee5fb04200442f9f364b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2041390836747796507#m",
+      "date": "Tue, 07 Apr 2026 05:41:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFR6JQwaMAAqnoT.jpg"
       ]
     },
     {
