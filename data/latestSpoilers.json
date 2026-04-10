@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T11:35:08.468Z",
+  "generatedAt": "2026-04-10T12:36:53.352Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -35,6 +35,22 @@
   ],
   "misc": [
     {
+      "id": "8884b0f59b13107ee2cf683ff646d14caed12f588676ffd59ce373befd1bd8ec",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "• Atelier of Witch Hat 15 • Acero de sol y luna 9",
+      "text": "• Atelier of Witch Hat 15 • Acero de sol y luna 9",
+      "url": "https://nitter.net/mwediciones/status/2042558744047784095#m",
+      "date": "Fri, 10 Apr 2026 11:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFifELiXAAARkCy.jpg",
+        "https://nitter.net/pic/media%2FHFifLTnakAMXWID.jpg"
+      ]
+    },
+    {
       "id": "0f6ccae55a6469c7e0e91e663d09c809fe2db99f7b1f5d0385e8df4598f60344",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -112,21 +128,6 @@
       ]
     },
     {
-      "id": "118457d29f62d5ca91043736f8a71c866feed7e6fbd448f188250ce2a1859a42",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "✍️ Voici enfin les 2 couvertures connecté du magazine Shonen Sunday réalisées par Gosho Aoyama ! 😍",
-      "text": "✍️ Voici enfin les 2 couvertures connecté du magazine Shonen Sunday réalisées par Gosho Aoyama ! 😍",
-      "url": "https://nitter.net/ConanStory/status/2042472431177122078#m",
-      "date": "Fri, 10 Apr 2026 05:19:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFhR2hpWEAA0Jlt.jpg"
-      ]
-    },
-    {
       "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -183,6 +184,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "cef4edd43f21e06358c603cdd534e60d2714c880a513abb4d9d3d7e3c74f9c31",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2042578748428390554#m",
+      "date": "Fri, 10 Apr 2026 12:21:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFiyi-gakAoe_7J.jpg"
+      ]
     },
     {
       "id": "68db76dd4a23b78fa97a2066247d97cc6bd71f48c592cd17d0dc6dd3e9e413ed",
@@ -257,21 +273,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFcZSywXIAAxVUq.jpg"
-      ]
-    },
-    {
-      "id": "f9c083ff3196dfbee3afb11a8f71d4c8f32337cae37ae9f653d27ebf312b6a84",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042008372388483235#m",
-      "date": "Wed, 08 Apr 2026 22:35:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFaryoFWQAAGs_b.jpg"
       ]
     }
   ],
@@ -307,6 +308,22 @@
       ]
     },
     {
+      "id": "8884b0f59b13107ee2cf683ff646d14caed12f588676ffd59ce373befd1bd8ec",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "• Atelier of Witch Hat 15 • Acero de sol y luna 9",
+      "text": "• Atelier of Witch Hat 15 • Acero de sol y luna 9",
+      "url": "https://nitter.net/mwediciones/status/2042558744047784095#m",
+      "date": "Fri, 10 Apr 2026 11:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFifELiXAAARkCy.jpg",
+        "https://nitter.net/pic/media%2FHFifLTnakAMXWID.jpg"
+      ]
+    },
+    {
       "id": "0f6ccae55a6469c7e0e91e663d09c809fe2db99f7b1f5d0385e8df4598f60344",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -384,21 +401,6 @@
       ]
     },
     {
-      "id": "118457d29f62d5ca91043736f8a71c866feed7e6fbd448f188250ce2a1859a42",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "✍️ Voici enfin les 2 couvertures connecté du magazine Shonen Sunday réalisées par Gosho Aoyama ! 😍",
-      "text": "✍️ Voici enfin les 2 couvertures connecté du magazine Shonen Sunday réalisées par Gosho Aoyama ! 😍",
-      "url": "https://nitter.net/ConanStory/status/2042472431177122078#m",
-      "date": "Fri, 10 Apr 2026 05:19:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFhR2hpWEAA0Jlt.jpg"
-      ]
-    },
-    {
       "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -455,6 +457,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "cef4edd43f21e06358c603cdd534e60d2714c880a513abb4d9d3d7e3c74f9c31",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2042578748428390554#m",
+      "date": "Fri, 10 Apr 2026 12:21:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFiyi-gakAoe_7J.jpg"
+      ]
     },
     {
       "id": "68db76dd4a23b78fa97a2066247d97cc6bd71f48c592cd17d0dc6dd3e9e413ed",
@@ -529,21 +546,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFcZSywXIAAxVUq.jpg"
-      ]
-    },
-    {
-      "id": "f9c083ff3196dfbee3afb11a8f71d4c8f32337cae37ae9f653d27ebf312b6a84",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042008372388483235#m",
-      "date": "Wed, 08 Apr 2026 22:35:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFaryoFWQAAGs_b.jpg"
       ]
     }
   ]
