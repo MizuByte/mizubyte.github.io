@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T04:20:54.689Z",
+  "generatedAt": "2026-04-10T06:12:30.781Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -273,63 +273,57 @@
       "attachments": []
     },
     {
-      "id": "8470ebdf794f7a8e7e2e127ed1d552016c2a1560b5ebe14322e0abdf925e31ea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2042364449823060081#m",
-      "date": "Thu, 09 Apr 2026 22:10:04 GMT",
+      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
+      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
+      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
+      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFfvpIeWoAAiHDV.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "ad562f6e6a9f281fa804042f1757f612ec5703bafc5c3ba4c121fc16cae5850a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042258327896195292#m",
-      "date": "Thu, 09 Apr 2026 15:08:23 GMT",
+      "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
+      "date": "Fri, 10 Apr 2026 03:15:04 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFePH-lW4AAae1X.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "87213aa698ac1d0bcca1bd4e740a456d15ae307b1f8143599e07fcf4c7ba7e34",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2042128770518175899#m",
-      "date": "Thu, 09 Apr 2026 06:33:34 GMT",
+      "id": "40607def6fe2b718c04542f4700586f7b5aefee33bbc648827df650c5b09220f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2",
+      "text": "Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2",
+      "url": "https://nitter.net/d0nut2x/status/2042431741273547196#m",
+      "date": "Fri, 10 Apr 2026 02:37:28 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFcZSywXIAAxVUq.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "f9c083ff3196dfbee3afb11a8f71d4c8f32337cae37ae9f653d27ebf312b6a84",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042008372388483235#m",
-      "date": "Wed, 08 Apr 2026 22:35:09 GMT",
+      "id": "5636f5fe7ed35ade46bfac7005810e99bbd9242ea78d9b7828629583b4baac71",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Final Cour Ep 2 ends at Middle of chapter 204 Next Ep title- The universe is composed in the language of mathematics. #drstoneゲン誕生祭",
+      "text": "Dr Stone S4 Final Cour Ep 2 ends at Middle of chapter 204 Next Ep title- The universe is composed in the language of mathematics. #drstoneゲン誕生祭",
+      "url": "https://nitter.net/PacemanOP/status/2041566999667732909#m",
+      "date": "Tue, 07 Apr 2026 17:21:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFaryoFWQAAGs_b.jpg"
+        "https://nitter.net/pic/media%2FHFUaXeLaQAAYb5I.jpg"
       ]
     }
   ],
@@ -603,63 +597,57 @@
       "attachments": []
     },
     {
-      "id": "8470ebdf794f7a8e7e2e127ed1d552016c2a1560b5ebe14322e0abdf925e31ea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2042364449823060081#m",
-      "date": "Thu, 09 Apr 2026 22:10:04 GMT",
+      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
+      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
+      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
+      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFfvpIeWoAAiHDV.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "ad562f6e6a9f281fa804042f1757f612ec5703bafc5c3ba4c121fc16cae5850a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042258327896195292#m",
-      "date": "Thu, 09 Apr 2026 15:08:23 GMT",
+      "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
+      "date": "Fri, 10 Apr 2026 03:15:04 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFePH-lW4AAae1X.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "87213aa698ac1d0bcca1bd4e740a456d15ae307b1f8143599e07fcf4c7ba7e34",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2042128770518175899#m",
-      "date": "Thu, 09 Apr 2026 06:33:34 GMT",
+      "id": "40607def6fe2b718c04542f4700586f7b5aefee33bbc648827df650c5b09220f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2",
+      "text": "Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2",
+      "url": "https://nitter.net/d0nut2x/status/2042431741273547196#m",
+      "date": "Fri, 10 Apr 2026 02:37:28 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFcZSywXIAAxVUq.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "f9c083ff3196dfbee3afb11a8f71d4c8f32337cae37ae9f653d27ebf312b6a84",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042008372388483235#m",
-      "date": "Wed, 08 Apr 2026 22:35:09 GMT",
+      "id": "5636f5fe7ed35ade46bfac7005810e99bbd9242ea78d9b7828629583b4baac71",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Final Cour Ep 2 ends at Middle of chapter 204 Next Ep title- The universe is composed in the language of mathematics. #drstoneゲン誕生祭",
+      "text": "Dr Stone S4 Final Cour Ep 2 ends at Middle of chapter 204 Next Ep title- The universe is composed in the language of mathematics. #drstoneゲン誕生祭",
+      "url": "https://nitter.net/PacemanOP/status/2041566999667732909#m",
+      "date": "Tue, 07 Apr 2026 17:21:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFaryoFWQAAGs_b.jpg"
+        "https://nitter.net/pic/media%2FHFUaXeLaQAAYb5I.jpg"
       ]
     }
   ]
