@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T10:39:14.155Z",
+  "generatedAt": "2026-04-10T11:35:08.468Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -127,94 +127,6 @@
       ]
     },
     {
-      "id": "e06bd0b83e96ae17d9638a15cc7b43422e0b45e2b517d073aa55709ea81f376a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy would wreck Homelander and the entire verse(Serie version) dia 🂱 (@kiyodia) there's a kid in this universe praying for luffy to come rescue them from homelander... — https://nitter.net/kiyodia/",
-      "text": "Luffy would wreck Homelander and the entire verse(Serie version) dia 🂱 (@kiyodia) there's a kid in this universe praying for luffy to come rescue them from homelander... — https://nitter.net/kiyodia/status/2042251186938486860#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2042317989588902033#m",
-      "date": "Thu, 09 Apr 2026 19:05:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a314214158b40666a3e593bee8408ed527618807fb1f0f0c8ef910fc2385920b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Will there be a final battle between Luffy and Akainu in the future? Do you think Akainu will be a major antagonist for Luffy in the future? Will there be a all out battle between Luffy vs Akainu?",
-      "text": "Will there be a final battle between Luffy and Akainu in the future? Do you think Akainu will be a major antagonist for Luffy in the future? Will there be a all out battle between Luffy vs Akainu?",
-      "url": "https://nitter.net/WorstGenHQ/status/2042313819037352131#m",
-      "date": "Thu, 09 Apr 2026 18:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
-    },
-    {
-      "id": "b38647f991efe9f857c40b7857119ae9177e4b924955ad0bf54979a0bb3024d6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Oda foreshadowing Luffy will lose an eye to IMU after Usopp rage baited him",
-      "text": "Oda foreshadowing Luffy will lose an eye to IMU after Usopp rage baited him",
-      "url": "https://nitter.net/KHDLuffy/status/2042225907247559030#m",
-      "date": "Thu, 09 Apr 2026 12:59:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFdxo9-W0AAAxtX.jpg"
-      ]
-    },
-    {
-      "id": "5ddc86ada599b68dd899f95d2ad60c352618dd48c85a6d6430e50066e017708f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 👀",
-      "text": "#ONEPIECE1179 👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2042142215468679283#m",
-      "date": "Thu, 09 Apr 2026 07:26:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFclhgNXIAAuGbH.jpg"
-      ]
-    },
-    {
-      "id": "884ae679ac1943ea7c4015ef1a107191299a5c5bfa893eb7a12c3816567686ef",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Arteta vs Simeone in the Champions League semi-finals…",
-      "text": "Arteta vs Simeone in the Champions League semi-finals…",
-      "url": "https://nitter.net/FootyHumour/status/2041981967659401557#m",
-      "date": "Wed, 08 Apr 2026 20:50:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFaTtx_W8AEj4eV.jpg"
-      ]
-    },
-    {
-      "id": "8712e70445710c1549167d7a1e5bac305c04594d8a9ed8bdd689cbba3d4cc104",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "😭🤣🤣",
-      "text": "😭🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2042010533780427064#m",
-      "date": "Wed, 08 Apr 2026 22:43:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFatwlGXMAAjkF0.jpg"
-      ]
-    },
-    {
       "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -330,6 +242,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFePH-lW4AAae1X.jpg"
+      ]
+    },
+    {
+      "id": "87213aa698ac1d0bcca1bd4e740a456d15ae307b1f8143599e07fcf4c7ba7e34",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2042128770518175899#m",
+      "date": "Thu, 09 Apr 2026 06:33:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFcZSywXIAAxVUq.jpg"
+      ]
+    },
+    {
+      "id": "f9c083ff3196dfbee3afb11a8f71d4c8f32337cae37ae9f653d27ebf312b6a84",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2042008372388483235#m",
+      "date": "Wed, 08 Apr 2026 22:35:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFaryoFWQAAGs_b.jpg"
       ]
     }
   ],
@@ -457,94 +399,6 @@
       ]
     },
     {
-      "id": "e06bd0b83e96ae17d9638a15cc7b43422e0b45e2b517d073aa55709ea81f376a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Luffy would wreck Homelander and the entire verse(Serie version) dia 🂱 (@kiyodia) there's a kid in this universe praying for luffy to come rescue them from homelander... — https://nitter.net/kiyodia/",
-      "text": "Luffy would wreck Homelander and the entire verse(Serie version) dia 🂱 (@kiyodia) there's a kid in this universe praying for luffy to come rescue them from homelander... — https://nitter.net/kiyodia/status/2042251186938486860#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2042317989588902033#m",
-      "date": "Thu, 09 Apr 2026 19:05:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a314214158b40666a3e593bee8408ed527618807fb1f0f0c8ef910fc2385920b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Will there be a final battle between Luffy and Akainu in the future? Do you think Akainu will be a major antagonist for Luffy in the future? Will there be a all out battle between Luffy vs Akainu?",
-      "text": "Will there be a final battle between Luffy and Akainu in the future? Do you think Akainu will be a major antagonist for Luffy in the future? Will there be a all out battle between Luffy vs Akainu?",
-      "url": "https://nitter.net/WorstGenHQ/status/2042313819037352131#m",
-      "date": "Thu, 09 Apr 2026 18:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/"
-      ]
-    },
-    {
-      "id": "b38647f991efe9f857c40b7857119ae9177e4b924955ad0bf54979a0bb3024d6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Oda foreshadowing Luffy will lose an eye to IMU after Usopp rage baited him",
-      "text": "Oda foreshadowing Luffy will lose an eye to IMU after Usopp rage baited him",
-      "url": "https://nitter.net/KHDLuffy/status/2042225907247559030#m",
-      "date": "Thu, 09 Apr 2026 12:59:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFdxo9-W0AAAxtX.jpg"
-      ]
-    },
-    {
-      "id": "5ddc86ada599b68dd899f95d2ad60c352618dd48c85a6d6430e50066e017708f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1179 👀",
-      "text": "#ONEPIECE1179 👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2042142215468679283#m",
-      "date": "Thu, 09 Apr 2026 07:26:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFclhgNXIAAuGbH.jpg"
-      ]
-    },
-    {
-      "id": "884ae679ac1943ea7c4015ef1a107191299a5c5bfa893eb7a12c3816567686ef",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Arteta vs Simeone in the Champions League semi-finals…",
-      "text": "Arteta vs Simeone in the Champions League semi-finals…",
-      "url": "https://nitter.net/FootyHumour/status/2041981967659401557#m",
-      "date": "Wed, 08 Apr 2026 20:50:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFaTtx_W8AEj4eV.jpg"
-      ]
-    },
-    {
-      "id": "8712e70445710c1549167d7a1e5bac305c04594d8a9ed8bdd689cbba3d4cc104",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "😭🤣🤣",
-      "text": "😭🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2042010533780427064#m",
-      "date": "Wed, 08 Apr 2026 22:43:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFatwlGXMAAjkF0.jpg"
-      ]
-    },
-    {
       "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -660,6 +514,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFePH-lW4AAae1X.jpg"
+      ]
+    },
+    {
+      "id": "87213aa698ac1d0bcca1bd4e740a456d15ae307b1f8143599e07fcf4c7ba7e34",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2042128770518175899#m",
+      "date": "Thu, 09 Apr 2026 06:33:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFcZSywXIAAxVUq.jpg"
+      ]
+    },
+    {
+      "id": "f9c083ff3196dfbee3afb11a8f71d4c8f32337cae37ae9f653d27ebf312b6a84",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2042008372388483235#m",
+      "date": "Wed, 08 Apr 2026 22:35:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFaryoFWQAAGs_b.jpg"
       ]
     }
   ]
