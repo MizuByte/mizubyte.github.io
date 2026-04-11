@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T04:17:37.089Z",
+  "generatedAt": "2026-04-11T05:42:22.270Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -112,21 +112,6 @@
       ]
     },
     {
-      "id": "adce9eab1fe9cfde0dcf31dbcb1781c69e83b12affebb5d4ea032fe93f6407dc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "\"REAL\" by Takehiko Inoue (Slam Dunk, Vagabond) is on cover of the upcoming Weekly Young Jump issue 20/2026.",
-      "text": "\"REAL\" by Takehiko Inoue (Slam Dunk, Vagabond) is on cover of the upcoming Weekly Young Jump issue 20/2026.",
-      "url": "https://nitter.net/MangaReporter/status/2042723606116077878#m",
-      "date": "Fri, 10 Apr 2026 21:57:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFk2NSnacAAipjr.jpg"
-      ]
-    },
-    {
       "id": "dd971dfdd9fe0893046fd6a485558e023ffab771bddaa99deac6e82f79809424",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -139,6 +124,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFktD3fakAAF1Cv.jpg"
+      ]
+    },
+    {
+      "id": "05b061ea3609dabf8e25e6dd0672ded0320ccf10cf89a2e9b04a5df47af94d24",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The Nintendo Switch 2 physical edition of Inazuma Eleven: Victory Road is on the way! ⚡️ This edition includes all DLC from Free Major Update Vol. 1 through Vol. 4, and is set to release on Thursday, ",
+      "text": "The Nintendo Switch 2 physical edition of Inazuma Eleven: Victory Road is on the way! ⚡️ This edition includes all DLC from Free Major Update Vol. 1 through Vol. 4, and is set to release on Thursday, June 11 (JST)! 🎉 A great pick for first-time players, and a must-have for collectors with a Victory Road-shaped gap on their shelf! ✨️ #InazumaEleven イナズマイレブン公式 (@inazuma_project) 『#イナズマイレブン 英雄たちのヴィクトリーロード』 Nintendo Switch 2 Edition パッケージ版発売決定⚡️ ダウンロード版発売後に配信された無料大型アップデート第1弾～第4弾のDLCを含んだパッケージ版が6月11日（木）に発売決定🎉 まだプレイしたことがない方はもちろん、お部屋に飾っておきたい方にもオススメです✨️ — https://nitter.net/inazuma_project/status/2042585129437270394#m",
+      "url": "https://nitter.net/InazumaSeries/status/2042585467816939871#m",
+      "date": "Fri, 10 Apr 2026 12:48:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFi38WTaAAEhNUt.jpg"
       ]
     },
     {
@@ -243,19 +243,6 @@
       ]
     },
     {
-      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
-      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
-      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
-      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -264,6 +251,19 @@
       "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
       "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
       "date": "Fri, 10 Apr 2026 03:15:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
+      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
+      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
+      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -468,21 +468,6 @@
       ]
     },
     {
-      "id": "adce9eab1fe9cfde0dcf31dbcb1781c69e83b12affebb5d4ea032fe93f6407dc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "\"REAL\" by Takehiko Inoue (Slam Dunk, Vagabond) is on cover of the upcoming Weekly Young Jump issue 20/2026.",
-      "text": "\"REAL\" by Takehiko Inoue (Slam Dunk, Vagabond) is on cover of the upcoming Weekly Young Jump issue 20/2026.",
-      "url": "https://nitter.net/MangaReporter/status/2042723606116077878#m",
-      "date": "Fri, 10 Apr 2026 21:57:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFk2NSnacAAipjr.jpg"
-      ]
-    },
-    {
       "id": "dd971dfdd9fe0893046fd6a485558e023ffab771bddaa99deac6e82f79809424",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -495,6 +480,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFktD3fakAAF1Cv.jpg"
+      ]
+    },
+    {
+      "id": "05b061ea3609dabf8e25e6dd0672ded0320ccf10cf89a2e9b04a5df47af94d24",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The Nintendo Switch 2 physical edition of Inazuma Eleven: Victory Road is on the way! ⚡️ This edition includes all DLC from Free Major Update Vol. 1 through Vol. 4, and is set to release on Thursday, ",
+      "text": "The Nintendo Switch 2 physical edition of Inazuma Eleven: Victory Road is on the way! ⚡️ This edition includes all DLC from Free Major Update Vol. 1 through Vol. 4, and is set to release on Thursday, June 11 (JST)! 🎉 A great pick for first-time players, and a must-have for collectors with a Victory Road-shaped gap on their shelf! ✨️ #InazumaEleven イナズマイレブン公式 (@inazuma_project) 『#イナズマイレブン 英雄たちのヴィクトリーロード』 Nintendo Switch 2 Edition パッケージ版発売決定⚡️ ダウンロード版発売後に配信された無料大型アップデート第1弾～第4弾のDLCを含んだパッケージ版が6月11日（木）に発売決定🎉 まだプレイしたことがない方はもちろん、お部屋に飾っておきたい方にもオススメです✨️ — https://nitter.net/inazuma_project/status/2042585129437270394#m",
+      "url": "https://nitter.net/InazumaSeries/status/2042585467816939871#m",
+      "date": "Fri, 10 Apr 2026 12:48:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFi38WTaAAEhNUt.jpg"
       ]
     },
     {
@@ -599,19 +599,6 @@
       ]
     },
     {
-      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
-      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
-      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
-      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -620,6 +607,19 @@
       "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
       "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
       "date": "Fri, 10 Apr 2026 03:15:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
+      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
+      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
+      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
