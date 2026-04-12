@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T20:05:15.928Z",
+  "generatedAt": "2026-04-12T20:57:26.836Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,6 +65,21 @@
   ],
   "misc": [
     {
+      "id": "5fc0c92edfb0d2383c7344c57f3ef158f81adbc8c87f8a008d7d01ebef7cc63e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "text": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2043421518810566713#m",
+      "date": "Sun, 12 Apr 2026 20:10:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuwuQ0W0AAss2B.png"
+      ]
+    },
+    {
       "id": "e23bfb466313fcd7c84ccd4fb60bc690a16c759cf5648d2e6ca85c3704a06961",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -122,21 +137,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2043372862396854273%2Fimg%2FY4ReGivCUtOE2Buc.jpg"
-      ]
-    },
-    {
-      "id": "d7d472834e431d58d8f4ffaee7ae14830946dbaf7c955048e59fd89f3dd47707",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imu & @BlacktyonteXavi parallels: - Ended up being villains - They lasted multiple years - Possessed a body that is not theirs - 5 Alts / 5 Gorosei - The world/optwt allies against them - Exposed in t",
-      "text": "Imu & @BlacktyonteXavi parallels: - Ended up being villains - They lasted multiple years - Possessed a body that is not theirs - 5 Alts / 5 Gorosei - The world/optwt allies against them - Exposed in the same week",
-      "url": "https://nitter.net/writingpanini/status/2043327323814969656#m",
-      "date": "Sun, 12 Apr 2026 13:56:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFtbPLeXMAEml67.jpg"
       ]
     },
     {
@@ -421,6 +421,21 @@
       "attachments": []
     },
     {
+      "id": "5fc0c92edfb0d2383c7344c57f3ef158f81adbc8c87f8a008d7d01ebef7cc63e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "text": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2043421518810566713#m",
+      "date": "Sun, 12 Apr 2026 20:10:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuwuQ0W0AAss2B.png"
+      ]
+    },
+    {
       "id": "e23bfb466313fcd7c84ccd4fb60bc690a16c759cf5648d2e6ca85c3704a06961",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -478,21 +493,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2043372862396854273%2Fimg%2FY4ReGivCUtOE2Buc.jpg"
-      ]
-    },
-    {
-      "id": "d7d472834e431d58d8f4ffaee7ae14830946dbaf7c955048e59fd89f3dd47707",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imu & @BlacktyonteXavi parallels: - Ended up being villains - They lasted multiple years - Possessed a body that is not theirs - 5 Alts / 5 Gorosei - The world/optwt allies against them - Exposed in t",
-      "text": "Imu & @BlacktyonteXavi parallels: - Ended up being villains - They lasted multiple years - Possessed a body that is not theirs - 5 Alts / 5 Gorosei - The world/optwt allies against them - Exposed in the same week",
-      "url": "https://nitter.net/writingpanini/status/2043327323814969656#m",
-      "date": "Sun, 12 Apr 2026 13:56:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFtbPLeXMAEml67.jpg"
       ]
     },
     {
