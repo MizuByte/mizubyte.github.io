@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T17:55:49.587Z",
+  "generatedAt": "2026-04-12T18:39:21.578Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,19 +18,6 @@
         "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
         "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
       ]
-    },
-    {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
@@ -61,9 +48,52 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
+    },
+    {
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "misc": [
+    {
+      "id": "4315a7b666b51ee4e2c1c1b6e9be1c9d73a5b6f689bb7b5f3df2a7dc05172846",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "text": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "url": "https://nitter.net/Troll_Sports1/status/2043385889233965413#m",
+      "date": "Sun, 12 Apr 2026 17:48:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuQoIubIAAkTQm.jpg"
+      ]
+    },
+    {
+      "id": "0d2250c163159b7465a57fd3261feb8280e7ceb27d77945a1aa60dd79ba7d354",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Championship players in Tottenham Stadium next season",
+      "text": "Championship players in Tottenham Stadium next season",
+      "url": "https://nitter.net/TrollFootball/status/2043344425179615667#m",
+      "date": "Sun, 12 Apr 2026 15:04:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFtjv2fbMAAs6fM.jpg"
+      ]
+    },
     {
       "id": "3e6c392381221a8e778dcf2f2fa2937a5216ae0e55aa168ee8731acd8d0ddc62",
       "anime": "onepiece",
@@ -108,35 +138,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHFpURbla8AAfISi.jpg"
       ]
-    },
-    {
-      "id": "11d7e03ddd2f324a297718e4b88ad771e2370c8d6a6b5093356382ac0afbf430",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451",
-      "text": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2043244571983810594#m",
-      "date": "Sun, 12 Apr 2026 08:27:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFsQG6UWIAAPfoP.jpg",
-        "https://nitter.net/pic/media%2FHFqW6ymWsAAXHbs.jpg"
-      ]
-    },
-    {
-      "id": "a4931039111f59917342b84ad128d05cdfd972c3da4fe44af1ea316f89c50e8f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "KANTE GOOOOOOOOOOOOOOOLL AMK!!",
-      "text": "KANTE GOOOOOOOOOOOOOOOLL AMK!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2043023877400302028#m",
-      "date": "Sat, 11 Apr 2026 17:50:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "ba82f0a621ab698b9504b3856578ca4e604728ae5f2db022a3e7cf8ec21e20af",
@@ -230,6 +231,64 @@
       ]
     },
     {
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+      ]
+    },
+    {
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+      ]
+    },
+    {
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
+      ]
+    },
+    {
+      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
+      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
+      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -296,64 +355,6 @@
       "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
       "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
       "date": "Fri, 10 Apr 2026 03:15:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
-      ]
-    },
-    {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
-      ]
-    },
-    {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
-    },
-    {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -378,19 +379,6 @@
       ]
     },
     {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -418,6 +406,49 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
+      ]
+    },
+    {
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4315a7b666b51ee4e2c1c1b6e9be1c9d73a5b6f689bb7b5f3df2a7dc05172846",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "text": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "url": "https://nitter.net/Troll_Sports1/status/2043385889233965413#m",
+      "date": "Sun, 12 Apr 2026 17:48:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuQoIubIAAkTQm.jpg"
+      ]
+    },
+    {
+      "id": "0d2250c163159b7465a57fd3261feb8280e7ceb27d77945a1aa60dd79ba7d354",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Championship players in Tottenham Stadium next season",
+      "text": "Championship players in Tottenham Stadium next season",
+      "url": "https://nitter.net/TrollFootball/status/2043344425179615667#m",
+      "date": "Sun, 12 Apr 2026 15:04:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFtjv2fbMAAs6fM.jpg"
       ]
     },
     {
@@ -464,35 +495,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHFpURbla8AAfISi.jpg"
       ]
-    },
-    {
-      "id": "11d7e03ddd2f324a297718e4b88ad771e2370c8d6a6b5093356382ac0afbf430",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451",
-      "text": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2043244571983810594#m",
-      "date": "Sun, 12 Apr 2026 08:27:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFsQG6UWIAAPfoP.jpg",
-        "https://nitter.net/pic/media%2FHFqW6ymWsAAXHbs.jpg"
-      ]
-    },
-    {
-      "id": "a4931039111f59917342b84ad128d05cdfd972c3da4fe44af1ea316f89c50e8f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "KANTE GOOOOOOOOOOOOOOOLL AMK!!",
-      "text": "KANTE GOOOOOOOOOOOOOOOLL AMK!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2043023877400302028#m",
-      "date": "Sat, 11 Apr 2026 17:50:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "ba82f0a621ab698b9504b3856578ca4e604728ae5f2db022a3e7cf8ec21e20af",
@@ -586,6 +588,64 @@
       ]
     },
     {
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+      ]
+    },
+    {
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+      ]
+    },
+    {
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
+      ]
+    },
+    {
+      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
+      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
+      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -652,64 +712,6 @@
       "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
       "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
       "date": "Fri, 10 Apr 2026 03:15:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
-      ]
-    },
-    {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
-      ]
-    },
-    {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
-    },
-    {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
