@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T08:00:51.585Z",
+  "generatedAt": "2026-04-12T08:59:55.199Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,22 @@
     }
   ],
   "misc": [
+    {
+      "id": "11d7e03ddd2f324a297718e4b88ad771e2370c8d6a6b5093356382ac0afbf430",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451",
+      "text": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2043244571983810594#m",
+      "date": "Sun, 12 Apr 2026 08:27:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFsQG6UWIAAPfoP.jpg",
+        "https://nitter.net/pic/media%2FHFqW6ymWsAAXHbs.jpg"
+      ]
+    },
     {
       "id": "a4931039111f59917342b84ad128d05cdfd972c3da4fe44af1ea316f89c50e8f",
       "anime": "onepiece",
@@ -121,22 +137,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFopucNW0AADsxq.jpg"
-      ]
-    },
-    {
-      "id": "7e92f42fe4b79c0018b385b421c4b364098e71356266fe36af06291c3f580f91",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece & JoJo's is the only anime beside Doraemon to have a GUCCI collaboration",
-      "text": "One Piece & JoJo's is the only anime beside Doraemon to have a GUCCI collaboration",
-      "url": "https://nitter.net/NakeemHere/status/2042976683511169353#m",
-      "date": "Sat, 11 Apr 2026 14:42:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFobZx2XcAA31UH.jpg",
-        "https://nitter.net/pic/media%2FHFobebFWAAA3-3x.jpg"
       ]
     },
     {
@@ -387,6 +387,22 @@
       "attachments": []
     },
     {
+      "id": "11d7e03ddd2f324a297718e4b88ad771e2370c8d6a6b5093356382ac0afbf430",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451",
+      "text": "The Plan: 😭🤣 Fabrizio Romano (@FabrizioRomano) 🚨 Diego Simeone on Atléti-Barça: “I have a plan and I won’t change my mind on that”. 💡 — https://nitter.net/FabrizioRomano/status/2043111327741235451#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2043244571983810594#m",
+      "date": "Sun, 12 Apr 2026 08:27:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFsQG6UWIAAPfoP.jpg",
+        "https://nitter.net/pic/media%2FHFqW6ymWsAAXHbs.jpg"
+      ]
+    },
+    {
       "id": "a4931039111f59917342b84ad128d05cdfd972c3da4fe44af1ea316f89c50e8f",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -460,22 +476,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFopucNW0AADsxq.jpg"
-      ]
-    },
-    {
-      "id": "7e92f42fe4b79c0018b385b421c4b364098e71356266fe36af06291c3f580f91",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece & JoJo's is the only anime beside Doraemon to have a GUCCI collaboration",
-      "text": "One Piece & JoJo's is the only anime beside Doraemon to have a GUCCI collaboration",
-      "url": "https://nitter.net/NakeemHere/status/2042976683511169353#m",
-      "date": "Sat, 11 Apr 2026 14:42:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFobZx2XcAA31UH.jpg",
-        "https://nitter.net/pic/media%2FHFobebFWAAA3-3x.jpg"
       ]
     },
     {
