@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-04-13T14:12:18.523Z",
+  "generatedAt": "2026-04-13T15:50:26.306Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "f46daa27c54758c2af2851add79da1fa6f52b9c83a618dff24e3aca6c207f10f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn",
-      "text": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn’t happened since Sabaody. #onepiece #onepiecetheory",
-      "url": "https://nitter.net/StrawhatUFO/status/2043386447353483758#m",
-      "date": "Sun, 12 Apr 2026 17:51:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuBjXLaIAAg6Zu.png",
-        "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
-        "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
-      ]
-    },
-    {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
     {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
       "anime": "boruto",
@@ -61,82 +31,52 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
+    },
+    {
+      "id": "f46daa27c54758c2af2851add79da1fa6f52b9c83a618dff24e3aca6c207f10f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn",
+      "text": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn’t happened since Sabaody. #onepiece #onepiecetheory",
+      "url": "https://nitter.net/StrawhatUFO/status/2043386447353483758#m",
+      "date": "Sun, 12 Apr 2026 17:51:07 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuBjXLaIAAg6Zu.png",
+        "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
+        "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
+      ]
+    },
+    {
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "misc": [
     {
-      "id": "e2ddeb1fc907f63b0dba0d06ed313a13115ce2f90591d742d55d606eb6181252",
+      "id": "cf0139bdaf38d304f26f2118a813abe368e7def1398b92281d23b1a0e48e96fa",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "How Garling became the God Valley Champion... 😭🤣",
-      "text": "How Garling became the God Valley Champion... 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2043437619921489920#m",
-      "date": "Sun, 12 Apr 2026 21:14:28 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “KUZAN (AOKIJI)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “KUZAN (AOKIJI)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2043707484511113452#m",
+      "date": "Mon, 13 Apr 2026 15:06:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFu_mFIW8AAa7pA.jpg"
-      ]
-    },
-    {
-      "id": "5fc0c92edfb0d2383c7344c57f3ef158f81adbc8c87f8a008d7d01ebef7cc63e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
-      "text": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2043421518810566713#m",
-      "date": "Sun, 12 Apr 2026 20:10:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuwuQ0W0AAss2B.png"
-      ]
-    },
-    {
-      "id": "e23bfb466313fcd7c84ccd4fb60bc690a16c759cf5648d2e6ca85c3704a06961",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
-      "text": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
-      "url": "https://nitter.net/Fenerbahce/status/2043405408149102627#m",
-      "date": "Sun, 12 Apr 2026 19:06:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuifLOXYAANRlv.jpg"
-      ]
-    },
-    {
-      "id": "4315a7b666b51ee4e2c1c1b6e9be1c9d73a5b6f689bb7b5f3df2a7dc05172846",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
-      "text": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
-      "url": "https://nitter.net/Troll_Sports1/status/2043385889233965413#m",
-      "date": "Sun, 12 Apr 2026 17:48:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuQoIubIAAkTQm.jpg"
-      ]
-    },
-    {
-      "id": "0d2250c163159b7465a57fd3261feb8280e7ceb27d77945a1aa60dd79ba7d354",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Championship players in Tottenham Stadium next season",
-      "text": "Championship players in Tottenham Stadium next season",
-      "url": "https://nitter.net/TrollFootball/status/2043344425179615667#m",
-      "date": "Sun, 12 Apr 2026 15:04:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFtjv2fbMAAs6fM.jpg"
+        "https://nitter.net/pic/card_img%2F2039684014609399808%2FpQmIB2Eo%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -220,18 +160,136 @@
       ]
     },
     {
-      "id": "01a67f670705a7de7e1a8d99db689971d26279ba82f97fb8dd8d085919b5b633",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, ",
-      "text": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, Una enfermedad llamada amor… ¡y más! Video",
-      "url": "https://nitter.net/NormaEdManga/status/2043658685797270009#m",
-      "date": "Mon, 13 Apr 2026 11:52:54 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043657306135564288%2Fimg%2FQdGEYPhlW6oFmAq5.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+      ]
+    },
+    {
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+      ]
+    },
+    {
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
+      ]
+    },
+    {
+      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
+      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
+      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2ddeb1fc907f63b0dba0d06ed313a13115ce2f90591d742d55d606eb6181252",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "How Garling became the God Valley Champion... 😭🤣",
+      "text": "How Garling became the God Valley Champion... 😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2043437619921489920#m",
+      "date": "Sun, 12 Apr 2026 21:14:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFu_mFIW8AAa7pA.jpg"
+      ]
+    },
+    {
+      "id": "5fc0c92edfb0d2383c7344c57f3ef158f81adbc8c87f8a008d7d01ebef7cc63e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "text": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2043421518810566713#m",
+      "date": "Sun, 12 Apr 2026 20:10:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuwuQ0W0AAss2B.png"
+      ]
+    },
+    {
+      "id": "e23bfb466313fcd7c84ccd4fb60bc690a16c759cf5648d2e6ca85c3704a06961",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
+      "text": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
+      "url": "https://nitter.net/Fenerbahce/status/2043405408149102627#m",
+      "date": "Sun, 12 Apr 2026 19:06:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuifLOXYAANRlv.jpg"
+      ]
+    },
+    {
+      "id": "4315a7b666b51ee4e2c1c1b6e9be1c9d73a5b6f689bb7b5f3df2a7dc05172846",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "text": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "url": "https://nitter.net/Troll_Sports1/status/2043385889233965413#m",
+      "date": "Sun, 12 Apr 2026 17:48:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuQoIubIAAkTQm.jpg"
+      ]
+    },
+    {
+      "id": "0d2250c163159b7465a57fd3261feb8280e7ceb27d77945a1aa60dd79ba7d354",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Championship players in Tottenham Stadium next season",
+      "text": "Championship players in Tottenham Stadium next season",
+      "url": "https://nitter.net/TrollFootball/status/2043344425179615667#m",
+      "date": "Sun, 12 Apr 2026 15:04:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFtjv2fbMAAs6fM.jpg"
       ]
     },
     {
@@ -301,64 +359,6 @@
       "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
       "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
       "date": "Fri, 10 Apr 2026 03:15:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
-      ]
-    },
-    {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
-      ]
-    },
-    {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
-    },
-    {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -366,36 +366,6 @@
   ],
   "items": [
     {
-      "id": "f46daa27c54758c2af2851add79da1fa6f52b9c83a618dff24e3aca6c207f10f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn",
-      "text": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn’t happened since Sabaody. #onepiece #onepiecetheory",
-      "url": "https://nitter.net/StrawhatUFO/status/2043386447353483758#m",
-      "date": "Sun, 12 Apr 2026 17:51:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuBjXLaIAAg6Zu.png",
-        "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
-        "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
-      ]
-    },
-    {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -426,78 +396,48 @@
       ]
     },
     {
-      "id": "e2ddeb1fc907f63b0dba0d06ed313a13115ce2f90591d742d55d606eb6181252",
+      "id": "f46daa27c54758c2af2851add79da1fa6f52b9c83a618dff24e3aca6c207f10f",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "How Garling became the God Valley Champion... 😭🤣",
-      "text": "How Garling became the God Valley Champion... 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2043437619921489920#m",
-      "date": "Sun, 12 Apr 2026 21:14:28 GMT",
-      "isSpoiler": false,
+      "title": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn",
+      "text": "One Piece Theory: The Devastation brought upon by Saint Nerona Imu. In this thread, let’s theorize how Imu will wreak havoc on Elbaph and, more importantly, devastate the Straw Hats in a way that hasn’t happened since Sabaody. #onepiece #onepiecetheory",
+      "url": "https://nitter.net/StrawhatUFO/status/2043386447353483758#m",
+      "date": "Sun, 12 Apr 2026 17:51:07 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFu_mFIW8AAa7pA.jpg"
+        "https://nitter.net/pic/media%2FHFuBjXLaIAAg6Zu.png",
+        "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
+        "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
       ]
     },
     {
-      "id": "5fc0c92edfb0d2383c7344c57f3ef158f81adbc8c87f8a008d7d01ebef7cc63e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
-      "text": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
-      "url": "https://nitter.net/WorstGenHQ/status/2043421518810566713#m",
-      "date": "Sun, 12 Apr 2026 20:10:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuwuQ0W0AAss2B.png"
-      ]
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "e23bfb466313fcd7c84ccd4fb60bc690a16c759cf5648d2e6ca85c3704a06961",
+      "id": "cf0139bdaf38d304f26f2118a813abe368e7def1398b92281d23b1a0e48e96fa",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
-      "text": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
-      "url": "https://nitter.net/Fenerbahce/status/2043405408149102627#m",
-      "date": "Sun, 12 Apr 2026 19:06:28 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “KUZAN (AOKIJI)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “KUZAN (AOKIJI)”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2043707484511113452#m",
+      "date": "Mon, 13 Apr 2026 15:06:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFuifLOXYAANRlv.jpg"
-      ]
-    },
-    {
-      "id": "4315a7b666b51ee4e2c1c1b6e9be1c9d73a5b6f689bb7b5f3df2a7dc05172846",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
-      "text": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
-      "url": "https://nitter.net/Troll_Sports1/status/2043385889233965413#m",
-      "date": "Sun, 12 Apr 2026 17:48:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFuQoIubIAAkTQm.jpg"
-      ]
-    },
-    {
-      "id": "0d2250c163159b7465a57fd3261feb8280e7ceb27d77945a1aa60dd79ba7d354",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Championship players in Tottenham Stadium next season",
-      "text": "Championship players in Tottenham Stadium next season",
-      "url": "https://nitter.net/TrollFootball/status/2043344425179615667#m",
-      "date": "Sun, 12 Apr 2026 15:04:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFtjv2fbMAAs6fM.jpg"
+        "https://nitter.net/pic/card_img%2F2039684014609399808%2FpQmIB2Eo%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -581,18 +521,136 @@
       ]
     },
     {
-      "id": "01a67f670705a7de7e1a8d99db689971d26279ba82f97fb8dd8d085919b5b633",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, ",
-      "text": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, Una enfermedad llamada amor… ¡y más! Video",
-      "url": "https://nitter.net/NormaEdManga/status/2043658685797270009#m",
-      "date": "Mon, 13 Apr 2026 11:52:54 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043657306135564288%2Fimg%2FQdGEYPhlW6oFmAq5.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+      ]
+    },
+    {
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+      ]
+    },
+    {
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
+      ]
+    },
+    {
+      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
+      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
+      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2ddeb1fc907f63b0dba0d06ed313a13115ce2f90591d742d55d606eb6181252",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "How Garling became the God Valley Champion... 😭🤣",
+      "text": "How Garling became the God Valley Champion... 😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2043437619921489920#m",
+      "date": "Sun, 12 Apr 2026 21:14:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFu_mFIW8AAa7pA.jpg"
+      ]
+    },
+    {
+      "id": "5fc0c92edfb0d2383c7344c57f3ef158f81adbc8c87f8a008d7d01ebef7cc63e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "text": "#ONEPIECE1180 Are you guys also hyped for the next chapter? With luck tomorrow hints, maybe Imu greatness this week? 👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2043421518810566713#m",
+      "date": "Sun, 12 Apr 2026 20:10:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuwuQ0W0AAss2B.png"
+      ]
+    },
+    {
+      "id": "e23bfb466313fcd7c84ccd4fb60bc690a16c759cf5648d2e6ca85c3704a06961",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
+      "text": "Kadıköy’de, deplasmanda, sokakta hep beraber son ana kadar #İnanFenerbahçe! Video",
+      "url": "https://nitter.net/Fenerbahce/status/2043405408149102627#m",
+      "date": "Sun, 12 Apr 2026 19:06:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuifLOXYAANRlv.jpg"
+      ]
+    },
+    {
+      "id": "4315a7b666b51ee4e2c1c1b6e9be1c9d73a5b6f689bb7b5f3df2a7dc05172846",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "text": "This position was not deemed offside in the Turkish league; Galatasaray is progressing towards the championship with the help of the referee. #GSvKOC",
+      "url": "https://nitter.net/Troll_Sports1/status/2043385889233965413#m",
+      "date": "Sun, 12 Apr 2026 17:48:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFuQoIubIAAkTQm.jpg"
+      ]
+    },
+    {
+      "id": "0d2250c163159b7465a57fd3261feb8280e7ceb27d77945a1aa60dd79ba7d354",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Championship players in Tottenham Stadium next season",
+      "text": "Championship players in Tottenham Stadium next season",
+      "url": "https://nitter.net/TrollFootball/status/2043344425179615667#m",
+      "date": "Sun, 12 Apr 2026 15:04:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFtjv2fbMAAs6fM.jpg"
       ]
     },
     {
@@ -662,64 +720,6 @@
       "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
       "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
       "date": "Fri, 10 Apr 2026 03:15:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
-      ]
-    },
-    {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
-      ]
-    },
-    {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
-    },
-    {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
