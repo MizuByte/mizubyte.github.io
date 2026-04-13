@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T12:04:14.294Z",
+  "generatedAt": "2026-04-13T14:12:18.523Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,6 +18,19 @@
         "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
         "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
       ]
+    },
+    {
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
@@ -48,19 +61,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
-    },
-    {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
@@ -140,62 +140,99 @@
       ]
     },
     {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "id": "1f310d7327176e8dd386686a6f51da6c8c0a0e233548982baa28008787770269",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Capa da Champion Red deste mês que trará o fim de Saint Seiya Rerise of Poseidon.",
+      "text": "Capa da Champion Red deste mês que trará o fim de Saint Seiya Rerise of Poseidon.",
+      "url": "https://nitter.net/taizen_ss_br/status/2043677562593739201#m",
+      "date": "Mon, 13 Apr 2026 13:07:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+        "https://nitter.net/pic/media%2FHFyZ6ciWAAAMzTb.jpg"
       ]
     },
     {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "id": "acd0ced8ee2de87e35cdbb931c47fe4734b471554cd309613e43f1c3c4271c7b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Masahiro Sakurai, el director de #KirbyAirRiders, nos revela toda suerte de información sobre el desarrollo del juego, así como detalles sobre los distintos modos y funciones. ► ntdo.com/6011ANjGZ",
+      "text": "Masahiro Sakurai, el director de #KirbyAirRiders, nos revela toda suerte de información sobre el desarrollo del juego, así como detalles sobre los distintos modos y funciones. ► ntdo.com/6011ANjGZ",
+      "url": "https://nitter.net/NintendoES/status/2043675575378649299#m",
+      "date": "Mon, 13 Apr 2026 13:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+        "https://nitter.net/pic/media%2FHFx1XiQWEAElGtL.jpg"
       ]
     },
     {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
+      "id": "78b6a751d1e23f2b376eacb2abaa100dc77c4928b267da60f9c8900aea3674e7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pese a ser una figura de los UFO Catcher (las típicas máquinas de garra japonesas) la calidad es MUY BUENA y la figura es bastante grande 😲 Ojalá que saquen más figuras basadas en portadas del Manga ",
+      "text": "Pese a ser una figura de los UFO Catcher (las típicas máquinas de garra japonesas) la calidad es MUY BUENA y la figura es bastante grande 😲 Ojalá que saquen más figuras basadas en portadas del Manga 🙏 Por cierto, la he comprado en @otakucenter y creo que aún les queda alguna 😉",
+      "url": "https://nitter.net/Mugiwara_23/status/2043671722524615060#m",
+      "date": "Mon, 13 Apr 2026 12:44:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
+        "https://nitter.net/pic/media%2FHFyUhcRasAAL0p2.jpg"
       ]
     },
     {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
+      "id": "d7ee75b9311f09d5e9220b46aaea1a74d66a3f2c8f75027541f48c7becef79ac",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Empezamos la semana con una nueva figura de One Piece para la colección 🏴‍☠️!! Hoy tenemos esta BRUTAL figura de Monkey D. Luffy de la línea “Maximatic Plus” de Banpresto 😍😍😍😍😍 Está basada en ",
+      "text": "¡¡Empezamos la semana con una nueva figura de One Piece para la colección 🏴‍☠️!! Hoy tenemos esta BRUTAL figura de Monkey D. Luffy de la línea “Maximatic Plus” de Banpresto 😍😍😍😍😍 Está basada en el Luffy dibujado por Oda que aparece en la portada del Volumen 40 de One Piece 📚",
+      "url": "https://nitter.net/Mugiwara_23/status/2043669852087287887#m",
+      "date": "Mon, 13 Apr 2026 12:37:16 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFySJFDXgAA9kVE.jpg",
+        "https://nitter.net/pic/media%2FHFySJD1WIAAEe0S.jpg",
+        "https://nitter.net/pic/media%2FHFySJD3XcAA_bNu.jpg",
+        "https://nitter.net/pic/media%2FHFySK_gbEAA2mqx.jpg"
+      ]
+    },
+    {
+      "id": "70ae53f36baa142504417a8e743bf5e11eaaf50d599ee6565b87ade43d893c20",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ワンピース メガワールドコレクタブルフィギュア-ゴッドバレー事件 エドワード・ニューゲート- 4月14日登場予定プライズ シルクハット川崎モアーズ店にて製品サンプル展示中！ ロックス海賊団時代の白ひげワーコレが明日登場！！",
+      "text": "ワンピース メガワールドコレクタブルフィギュア-ゴッドバレー事件 エドワード・ニューゲート- 4月14日登場予定プライズ シルクハット川崎モアーズ店にて製品サンプル展示中！ ロックス海賊団時代の白ひげワーコレが明日登場！！",
+      "url": "https://nitter.net/guernicass4/status/2043647132931137769#m",
+      "date": "Mon, 13 Apr 2026 11:07:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFx-OVVb0AAZt3k.jpg",
+        "https://nitter.net/pic/media%2FHFx-OwqaUAA7JRh.jpg",
+        "https://nitter.net/pic/media%2FHFx-O1BaUAAdrNl.jpg"
+      ]
+    },
+    {
+      "id": "01a67f670705a7de7e1a8d99db689971d26279ba82f97fb8dd8d085919b5b633",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, ",
+      "text": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, Una enfermedad llamada amor… ¡y más! Video",
+      "url": "https://nitter.net/NormaEdManga/status/2043658685797270009#m",
+      "date": "Mon, 13 Apr 2026 11:52:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043657306135564288%2Fimg%2FQdGEYPhlW6oFmAq5.jpg"
+      ]
     },
     {
       "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
@@ -269,94 +306,62 @@
       "attachments": []
     },
     {
-      "id": "668c893e85d3e3a3c73365e76482ed92ceb2891e7d83e1f65a8487d098a955c9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043601755087262043#m",
-      "date": "Mon, 13 Apr 2026 08:06:41 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFxU9tRXoAAx-ER.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
-      "id": "5792a5944f018effcb01613c690959497232efdb7d3dc0bc5010bab3480ceffb",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043564161834086707#m",
-      "date": "Mon, 13 Apr 2026 05:37:18 GMT",
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFwyxl8agAARDxQ.jpg"
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
       ]
     },
     {
-      "id": "0b624624d4c31cc220fdd162b2f39f77457f17d0b55cdf8f6f463192bad26a36",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043448679873290421#m",
-      "date": "Sun, 12 Apr 2026 21:58:25 GMT",
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFvJvmlbYAAR8j9.jpg"
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     },
     {
-      "id": "5807821e916d15f083104dc84810dc7b3a75e7b3df52d613fb8cdfa198a8d77f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2043260323088523710#m",
-      "date": "Sun, 12 Apr 2026 09:29:57 GMT",
+      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
+      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
+      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFseb30WoAAl5Ys.jpg"
-      ]
-    },
-    {
-      "id": "1c204a2a11a05df6299d8292b794d9efdaa53edf003c4798636d8908e76e8dfe",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043048145551000062#m",
-      "date": "Sat, 11 Apr 2026 19:26:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFpddQ3akAExnG-.jpg"
-      ]
-    },
-    {
-      "id": "7f9b443e9c999992058c0eb941b211e6d4d3ae948135da82074f3127e55fca63",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042985796618092911#m",
-      "date": "Sat, 11 Apr 2026 15:19:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFokwOlakAQerEz.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
@@ -376,6 +381,19 @@
         "https://nitter.net/pic/media%2FHFuBn5RawAA3D-b.jpg",
         "https://nitter.net/pic/media%2FHFuBvS-bcAASiz7.png"
       ]
+    },
+    {
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
@@ -406,19 +424,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHEz2WeQaoAA7mll.jpg"
       ]
-    },
-    {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "e2ddeb1fc907f63b0dba0d06ed313a13115ce2f90591d742d55d606eb6181252",
@@ -496,62 +501,99 @@
       ]
     },
     {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "id": "1f310d7327176e8dd386686a6f51da6c8c0a0e233548982baa28008787770269",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Capa da Champion Red deste mês que trará o fim de Saint Seiya Rerise of Poseidon.",
+      "text": "Capa da Champion Red deste mês que trará o fim de Saint Seiya Rerise of Poseidon.",
+      "url": "https://nitter.net/taizen_ss_br/status/2043677562593739201#m",
+      "date": "Mon, 13 Apr 2026 13:07:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+        "https://nitter.net/pic/media%2FHFyZ6ciWAAAMzTb.jpg"
       ]
     },
     {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "id": "acd0ced8ee2de87e35cdbb931c47fe4734b471554cd309613e43f1c3c4271c7b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Masahiro Sakurai, el director de #KirbyAirRiders, nos revela toda suerte de información sobre el desarrollo del juego, así como detalles sobre los distintos modos y funciones. ► ntdo.com/6011ANjGZ",
+      "text": "Masahiro Sakurai, el director de #KirbyAirRiders, nos revela toda suerte de información sobre el desarrollo del juego, así como detalles sobre los distintos modos y funciones. ► ntdo.com/6011ANjGZ",
+      "url": "https://nitter.net/NintendoES/status/2043675575378649299#m",
+      "date": "Mon, 13 Apr 2026 13:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+        "https://nitter.net/pic/media%2FHFx1XiQWEAElGtL.jpg"
       ]
     },
     {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
+      "id": "78b6a751d1e23f2b376eacb2abaa100dc77c4928b267da60f9c8900aea3674e7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pese a ser una figura de los UFO Catcher (las típicas máquinas de garra japonesas) la calidad es MUY BUENA y la figura es bastante grande 😲 Ojalá que saquen más figuras basadas en portadas del Manga ",
+      "text": "Pese a ser una figura de los UFO Catcher (las típicas máquinas de garra japonesas) la calidad es MUY BUENA y la figura es bastante grande 😲 Ojalá que saquen más figuras basadas en portadas del Manga 🙏 Por cierto, la he comprado en @otakucenter y creo que aún les queda alguna 😉",
+      "url": "https://nitter.net/Mugiwara_23/status/2043671722524615060#m",
+      "date": "Mon, 13 Apr 2026 12:44:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
+        "https://nitter.net/pic/media%2FHFyUhcRasAAL0p2.jpg"
       ]
     },
     {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
+      "id": "d7ee75b9311f09d5e9220b46aaea1a74d66a3f2c8f75027541f48c7becef79ac",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Empezamos la semana con una nueva figura de One Piece para la colección 🏴‍☠️!! Hoy tenemos esta BRUTAL figura de Monkey D. Luffy de la línea “Maximatic Plus” de Banpresto 😍😍😍😍😍 Está basada en ",
+      "text": "¡¡Empezamos la semana con una nueva figura de One Piece para la colección 🏴‍☠️!! Hoy tenemos esta BRUTAL figura de Monkey D. Luffy de la línea “Maximatic Plus” de Banpresto 😍😍😍😍😍 Está basada en el Luffy dibujado por Oda que aparece en la portada del Volumen 40 de One Piece 📚",
+      "url": "https://nitter.net/Mugiwara_23/status/2043669852087287887#m",
+      "date": "Mon, 13 Apr 2026 12:37:16 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFySJFDXgAA9kVE.jpg",
+        "https://nitter.net/pic/media%2FHFySJD1WIAAEe0S.jpg",
+        "https://nitter.net/pic/media%2FHFySJD3XcAA_bNu.jpg",
+        "https://nitter.net/pic/media%2FHFySK_gbEAA2mqx.jpg"
+      ]
+    },
+    {
+      "id": "70ae53f36baa142504417a8e743bf5e11eaaf50d599ee6565b87ade43d893c20",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ワンピース メガワールドコレクタブルフィギュア-ゴッドバレー事件 エドワード・ニューゲート- 4月14日登場予定プライズ シルクハット川崎モアーズ店にて製品サンプル展示中！ ロックス海賊団時代の白ひげワーコレが明日登場！！",
+      "text": "ワンピース メガワールドコレクタブルフィギュア-ゴッドバレー事件 エドワード・ニューゲート- 4月14日登場予定プライズ シルクハット川崎モアーズ店にて製品サンプル展示中！ ロックス海賊団時代の白ひげワーコレが明日登場！！",
+      "url": "https://nitter.net/guernicass4/status/2043647132931137769#m",
+      "date": "Mon, 13 Apr 2026 11:07:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFx-OVVb0AAZt3k.jpg",
+        "https://nitter.net/pic/media%2FHFx-OwqaUAA7JRh.jpg",
+        "https://nitter.net/pic/media%2FHFx-O1BaUAAdrNl.jpg"
+      ]
+    },
+    {
+      "id": "01a67f670705a7de7e1a8d99db689971d26279ba82f97fb8dd8d085919b5b633",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, ",
+      "text": "¿Qué más publicaremos en mayo? Solo Leveling, Dan Da Dan, Gachiakuta, Digimon Adventure V-Tamer 01, El juego de la Muerte, Rosas y champán, Wet Sand, Love is an illusion!, Bluer than love, Dead Rock, Una enfermedad llamada amor… ¡y más! Video",
+      "url": "https://nitter.net/NormaEdManga/status/2043658685797270009#m",
+      "date": "Mon, 13 Apr 2026 11:52:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043657306135564288%2Fimg%2FQdGEYPhlW6oFmAq5.jpg"
+      ]
     },
     {
       "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
@@ -625,94 +667,62 @@
       "attachments": []
     },
     {
-      "id": "668c893e85d3e3a3c73365e76482ed92ceb2891e7d83e1f65a8487d098a955c9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043601755087262043#m",
-      "date": "Mon, 13 Apr 2026 08:06:41 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFxU9tRXoAAx-ER.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
-      "id": "5792a5944f018effcb01613c690959497232efdb7d3dc0bc5010bab3480ceffb",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043564161834086707#m",
-      "date": "Mon, 13 Apr 2026 05:37:18 GMT",
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFwyxl8agAARDxQ.jpg"
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
       ]
     },
     {
-      "id": "0b624624d4c31cc220fdd162b2f39f77457f17d0b55cdf8f6f463192bad26a36",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043448679873290421#m",
-      "date": "Sun, 12 Apr 2026 21:58:25 GMT",
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFvJvmlbYAAR8j9.jpg"
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     },
     {
-      "id": "5807821e916d15f083104dc84810dc7b3a75e7b3df52d613fb8cdfa198a8d77f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2043260323088523710#m",
-      "date": "Sun, 12 Apr 2026 09:29:57 GMT",
+      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
+      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
+      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFseb30WoAAl5Ys.jpg"
-      ]
-    },
-    {
-      "id": "1c204a2a11a05df6299d8292b794d9efdaa53edf003c4798636d8908e76e8dfe",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2043048145551000062#m",
-      "date": "Sat, 11 Apr 2026 19:26:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFpddQ3akAExnG-.jpg"
-      ]
-    },
-    {
-      "id": "7f9b443e9c999992058c0eb941b211e6d4d3ae948135da82074f3127e55fca63",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2042985796618092911#m",
-      "date": "Sat, 11 Apr 2026 15:19:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFokwOlakAQerEz.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
