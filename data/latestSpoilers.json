@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T23:29:47.534Z",
+  "generatedAt": "2026-04-14T01:10:33.904Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -89,19 +89,6 @@
       ]
     },
     {
-      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 \"King of Hell\"😭",
-      "text": "#ONEPIECE1180 \"King of Hell\"😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
-      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -110,6 +97,19 @@
       "text": "*\"Tail\" not \"finger\".😭",
       "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
       "date": "Mon, 13 Apr 2026 20:49:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 \"King of Hell\"😭",
+      "text": "#ONEPIECE1180 \"King of Hell\"😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
+      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -434,19 +434,6 @@
       ]
     },
     {
-      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 \"King of Hell\"😭",
-      "text": "#ONEPIECE1180 \"King of Hell\"😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
-      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -455,6 +442,19 @@
       "text": "*\"Tail\" not \"finger\".😭",
       "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
       "date": "Mon, 13 Apr 2026 20:49:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 \"King of Hell\"😭",
+      "text": "#ONEPIECE1180 \"King of Hell\"😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
+      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
