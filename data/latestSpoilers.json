@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T06:14:03.899Z",
+  "generatedAt": "2026-04-14T08:08:23.548Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -61,6 +61,19 @@
   ],
   "misc": [
     {
+      "id": "3199e1cace9902efad3b96dcb8b56fc0da70e6b997dab7ea4440d36cddeae922",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 IMU THIS CHAPTER 🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1180 IMU THIS CHAPTER 🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2043955810506559532#m",
+      "date": "Tue, 14 Apr 2026 07:33:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "ca72e98a7399dfa44d8e534719b634fdd98b08d81ba2a48dace4baead53812e7",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -104,19 +117,6 @@
       ]
     },
     {
-      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 \"King of Hell\"😭",
-      "text": "#ONEPIECE1180 \"King of Hell\"😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
-      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -128,6 +128,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "303d0ba96f556154a22557194e449ff581e1b07663af8b156fd54e5023591a27",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "株式会社キャラメル・ママの代表取締役会長で、鳥山明先生の公式ファンクラブ「鳥山明保存会」の初代会長、会報誌「BIRDLAND PRESS」の発行、ライターとしても活動された松本常男さんがご逝去されました。メンバーは、葬儀にて故人とのお別れをさせて頂いております。 謹んでお悔やみ申し上げます。",
+      "text": "株式会社キャラメル・ママの代表取締役会長で、鳥山明先生の公式ファンクラブ「鳥山明保存会」の初代会長、会報誌「BIRDLAND PRESS」の発行、ライターとしても活動された松本常男さんがご逝去されました。メンバーは、葬儀にて故人とのお別れをさせて頂いております。 謹んでお悔やみ申し上げます。",
+      "url": "https://nitter.net/KosoKoso_hoso/status/2043903786712965264#m",
+      "date": "Tue, 14 Apr 2026 04:06:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF1nqSVbkAAH8eH.jpg"
+      ]
     },
     {
       "id": "51be2910b67158534c687f5cc78b588317c907ca16447ea4e69f7b56deb744db",
@@ -202,21 +217,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "89362f70863917922b3497c1c122e73fdf0f121bf924bcbbf5638bb0f779d909",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Esperando la denuncia de Abogados Cristianos. Si se atrevieron con Ane Lindane, con Tokischa, con Quequé, con Lalachus o con Silvia Abril, seguro que no dudarán en denunciar a Trump. A no ser que se t",
-      "text": "Esperando la denuncia de Abogados Cristianos. Si se atrevieron con Ane Lindane, con Tokischa, con Quequé, con Lalachus o con Silvia Abril, seguro que no dudarán en denunciar a Trump. A no ser que se trate de unos oportunistas cobardes de mierda. Que no creo, ¿no?...",
-      "url": "https://nitter.net/caminantes21/status/2043595489443004460#m",
-      "date": "Mon, 13 Apr 2026 07:41:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFxPRLIasAArfjf.jpg"
-      ]
     },
     {
       "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
@@ -335,14 +335,14 @@
       ]
     },
     {
-      "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
+      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
-      "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
-      "date": "Fri, 10 Apr 2026 03:15:04 GMT",
+      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
+      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
+      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
+      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -406,6 +406,19 @@
       "attachments": []
     },
     {
+      "id": "3199e1cace9902efad3b96dcb8b56fc0da70e6b997dab7ea4440d36cddeae922",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 IMU THIS CHAPTER 🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1180 IMU THIS CHAPTER 🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2043955810506559532#m",
+      "date": "Tue, 14 Apr 2026 07:33:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "ca72e98a7399dfa44d8e534719b634fdd98b08d81ba2a48dace4baead53812e7",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -449,19 +462,6 @@
       ]
     },
     {
-      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 \"King of Hell\"😭",
-      "text": "#ONEPIECE1180 \"King of Hell\"😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
-      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -473,6 +473,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "303d0ba96f556154a22557194e449ff581e1b07663af8b156fd54e5023591a27",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "株式会社キャラメル・ママの代表取締役会長で、鳥山明先生の公式ファンクラブ「鳥山明保存会」の初代会長、会報誌「BIRDLAND PRESS」の発行、ライターとしても活動された松本常男さんがご逝去されました。メンバーは、葬儀にて故人とのお別れをさせて頂いております。 謹んでお悔やみ申し上げます。",
+      "text": "株式会社キャラメル・ママの代表取締役会長で、鳥山明先生の公式ファンクラブ「鳥山明保存会」の初代会長、会報誌「BIRDLAND PRESS」の発行、ライターとしても活動された松本常男さんがご逝去されました。メンバーは、葬儀にて故人とのお別れをさせて頂いております。 謹んでお悔やみ申し上げます。",
+      "url": "https://nitter.net/KosoKoso_hoso/status/2043903786712965264#m",
+      "date": "Tue, 14 Apr 2026 04:06:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF1nqSVbkAAH8eH.jpg"
+      ]
     },
     {
       "id": "51be2910b67158534c687f5cc78b588317c907ca16447ea4e69f7b56deb744db",
@@ -547,21 +562,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "89362f70863917922b3497c1c122e73fdf0f121bf924bcbbf5638bb0f779d909",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Esperando la denuncia de Abogados Cristianos. Si se atrevieron con Ane Lindane, con Tokischa, con Quequé, con Lalachus o con Silvia Abril, seguro que no dudarán en denunciar a Trump. A no ser que se t",
-      "text": "Esperando la denuncia de Abogados Cristianos. Si se atrevieron con Ane Lindane, con Tokischa, con Quequé, con Lalachus o con Silvia Abril, seguro que no dudarán en denunciar a Trump. A no ser que se trate de unos oportunistas cobardes de mierda. Que no creo, ¿no?...",
-      "url": "https://nitter.net/caminantes21/status/2043595489443004460#m",
-      "date": "Mon, 13 Apr 2026 07:41:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFxPRLIasAArfjf.jpg"
-      ]
     },
     {
       "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
@@ -680,14 +680,14 @@
       ]
     },
     {
-      "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
+      "id": "07a2c06d89825be44a7b7674ab110ed4a433dec1cc0ba7e0f65cfe447eb01856",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
-      "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
-      "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
-      "date": "Fri, 10 Apr 2026 03:15:04 GMT",
+      "title": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yu",
+      "text": "Tensura Season 4 #2 Full Staff: Production Cooperation: MK-Za SB: Masao Kojima, Kenji Yasuda ED: Mai Suzuki AD: Tomoyuki Matsumoto (MK-Za), Yuuji Kondou (MK-Za) Ass. AD: Shinomin, Michiko Ishiguro, Yuuki Ozawa Adtech Maki Sakai, Karen Nishibata #Tensura",
+      "url": "https://nitter.net/PacemanOP/status/2042441200502989176#m",
+      "date": "Fri, 10 Apr 2026 03:15:03 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
