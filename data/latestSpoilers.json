@@ -1,21 +1,19 @@
 {
-  "generatedAt": "2026-04-14T22:30:48.881Z",
+  "generatedAt": "2026-04-14T23:29:15.858Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "22cfb5bfd399c173d52dccb90c63f7d012311ea9daf5691714dca612205b2e58",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
-      "text": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
-      "url": "https://nitter.net/pewpiece/status/2044096423767986300#m",
-      "date": "Tue, 14 Apr 2026 16:52:19 GMT",
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
@@ -31,98 +29,10 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
       ]
-    },
-    {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
     {
-      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
-      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
-      ]
-    },
-    {
-      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New onepiece ending Video",
-      "text": "New onepiece ending Video",
-      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
-      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
-      ]
-    },
-    {
-      "id": "2f49a67ceb8995a846fd274f8e27dba8fd17d0ba6505ac15b1f31db1d227ad46",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Next onepiece anime preview 1158 Video",
-      "text": "Next onepiece anime preview 1158 Video",
-      "url": "https://nitter.net/pewpiece/status/2043340383741005904#m",
-      "date": "Sun, 12 Apr 2026 14:48:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043340118354726912%2Fimg%2FNHXzYznoxdle1MHX.jpg"
-      ]
-    },
-    {
-      "id": "dbb1cbcf8e51ed534ffc4eebea04d3e6bc25b61638cf055fe3974589ce72f8eb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Another new onepiece eyecatcher Video",
-      "text": "Another new onepiece eyecatcher Video",
-      "url": "https://nitter.net/pewpiece/status/2043337066692395212#m",
-      "date": "Sun, 12 Apr 2026 14:34:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043337021431619584%2Fimg%2F37cGXTX89Uflg4lU.jpg"
-      ]
-    },
-    {
-      "id": "075d163367f43be5f2916d65dcf090a75648b3c69831c1c8f5578f18b157dd8c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "new onepiece eyecatcher Video",
-      "text": "new onepiece eyecatcher Video",
-      "url": "https://nitter.net/pewpiece/status/2043336301366153440#m",
-      "date": "Sun, 12 Apr 2026 14:31:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043336239877693440%2Fimg%2FI7L7I6xdpFHfwR4a.jpg"
-      ]
-    },
-    {
       "id": "c5b8cb97ce83ab1772ffdf52075f938888720b59c48f873aaaa2d4c48e948c85",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -299,66 +209,137 @@
       ]
     },
     {
-      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
+      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
       ]
     },
     {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece ending Video",
+      "text": "New onepiece ending Video",
+      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
+      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
       ]
     },
     {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "id": "2f49a67ceb8995a846fd274f8e27dba8fd17d0ba6505ac15b1f31db1d227ad46",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Next onepiece anime preview 1158 Video",
+      "text": "Next onepiece anime preview 1158 Video",
+      "url": "https://nitter.net/pewpiece/status/2043340383741005904#m",
+      "date": "Sun, 12 Apr 2026 14:48:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2043340118354726912%2Fimg%2FNHXzYznoxdle1MHX.jpg"
       ]
+    },
+    {
+      "id": "dbb1cbcf8e51ed534ffc4eebea04d3e6bc25b61638cf055fe3974589ce72f8eb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Another new onepiece eyecatcher Video",
+      "text": "Another new onepiece eyecatcher Video",
+      "url": "https://nitter.net/pewpiece/status/2043337066692395212#m",
+      "date": "Sun, 12 Apr 2026 14:34:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043337021431619584%2Fimg%2F37cGXTX89Uflg4lU.jpg"
+      ]
+    },
+    {
+      "id": "075d163367f43be5f2916d65dcf090a75648b3c69831c1c8f5578f18b157dd8c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "new onepiece eyecatcher Video",
+      "text": "new onepiece eyecatcher Video",
+      "url": "https://nitter.net/pewpiece/status/2043336301366153440#m",
+      "date": "Sun, 12 Apr 2026 14:31:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043336239877693440%2Fimg%2FI7L7I6xdpFHfwR4a.jpg"
+      ]
+    },
+    {
+      "id": "9425ba772a8dbaadd1d8c553f470f1ca79e48673edf22d88c19dc27105cec9fa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece opening Video",
+      "text": "New onepiece opening Video",
+      "url": "https://nitter.net/pewpiece/status/2043333441656176853#m",
+      "date": "Sun, 12 Apr 2026 14:20:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
+      ]
+    },
+    {
+      "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "text": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "url": "https://nitter.net/PacemanOP/status/2043337889141162494#m",
+      "date": "Sun, 12 Apr 2026 14:38:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
+      ]
+    },
+    {
+      "id": "5729976fa9e90c2c599d9261ffb23d0f2ff3739fcee9d0542baf8499892f1b6d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Taku",
+      "text": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Takuya Hirata, Masahiko Inuzuka, Akio Takami, Shouta Oonishi, Osamu Satou, Tsuyoshi Kakihara, Noboru Jitsuhara, Kiyotaka Takezawa, Masumi Houjou, Katsunori Tanaka NINAKAMI Luciana Liencres, Joaquín Padilla, Yuxin Zhao, Jo Jaehyeon, Fernanda de la Rosa L, Enzo D'Avino, Paris Ruiz, Daniel Gómez, Javiera Mondaca 9 2nd KAs",
+      "url": "https://nitter.net/d0nut2x/status/2042567821679382991#m",
+      "date": "Fri, 10 Apr 2026 11:38:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
     {
-      "id": "22cfb5bfd399c173d52dccb90c63f7d012311ea9daf5691714dca612205b2e58",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
-      "text": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
-      "url": "https://nitter.net/pewpiece/status/2044096423767986300#m",
-      "date": "Tue, 14 Apr 2026 16:52:19 GMT",
+      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
+      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
@@ -376,94 +357,6 @@
       ]
     },
     {
-      "id": "661de8246c0c61d19e71d2bd1d3457a3094e21dcd72a6456d3fbdca3d8c3bba6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "text": "No Chapter Or Page Count BC fans On this week's WSJ 💔 Hopefully next week #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2042592958172795082#m",
-      "date": "Fri, 10 Apr 2026 13:18:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
-      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
-      ]
-    },
-    {
-      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New onepiece ending Video",
-      "text": "New onepiece ending Video",
-      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
-      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
-      ]
-    },
-    {
-      "id": "2f49a67ceb8995a846fd274f8e27dba8fd17d0ba6505ac15b1f31db1d227ad46",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Next onepiece anime preview 1158 Video",
-      "text": "Next onepiece anime preview 1158 Video",
-      "url": "https://nitter.net/pewpiece/status/2043340383741005904#m",
-      "date": "Sun, 12 Apr 2026 14:48:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043340118354726912%2Fimg%2FNHXzYznoxdle1MHX.jpg"
-      ]
-    },
-    {
-      "id": "dbb1cbcf8e51ed534ffc4eebea04d3e6bc25b61638cf055fe3974589ce72f8eb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Another new onepiece eyecatcher Video",
-      "text": "Another new onepiece eyecatcher Video",
-      "url": "https://nitter.net/pewpiece/status/2043337066692395212#m",
-      "date": "Sun, 12 Apr 2026 14:34:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043337021431619584%2Fimg%2F37cGXTX89Uflg4lU.jpg"
-      ]
-    },
-    {
-      "id": "075d163367f43be5f2916d65dcf090a75648b3c69831c1c8f5578f18b157dd8c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "new onepiece eyecatcher Video",
-      "text": "new onepiece eyecatcher Video",
-      "url": "https://nitter.net/pewpiece/status/2043336301366153440#m",
-      "date": "Sun, 12 Apr 2026 14:31:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043336239877693440%2Fimg%2FI7L7I6xdpFHfwR4a.jpg"
-      ]
-    },
-    {
       "id": "c5b8cb97ce83ab1772ffdf52075f938888720b59c48f873aaaa2d4c48e948c85",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -640,49 +533,122 @@
       ]
     },
     {
-      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
+      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
       ]
     },
     {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece ending Video",
+      "text": "New onepiece ending Video",
+      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
+      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
       ]
     },
     {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
+      "id": "2f49a67ceb8995a846fd274f8e27dba8fd17d0ba6505ac15b1f31db1d227ad46",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Next onepiece anime preview 1158 Video",
+      "text": "Next onepiece anime preview 1158 Video",
+      "url": "https://nitter.net/pewpiece/status/2043340383741005904#m",
+      "date": "Sun, 12 Apr 2026 14:48:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2043340118354726912%2Fimg%2FNHXzYznoxdle1MHX.jpg"
       ]
+    },
+    {
+      "id": "dbb1cbcf8e51ed534ffc4eebea04d3e6bc25b61638cf055fe3974589ce72f8eb",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Another new onepiece eyecatcher Video",
+      "text": "Another new onepiece eyecatcher Video",
+      "url": "https://nitter.net/pewpiece/status/2043337066692395212#m",
+      "date": "Sun, 12 Apr 2026 14:34:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043337021431619584%2Fimg%2F37cGXTX89Uflg4lU.jpg"
+      ]
+    },
+    {
+      "id": "075d163367f43be5f2916d65dcf090a75648b3c69831c1c8f5578f18b157dd8c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "new onepiece eyecatcher Video",
+      "text": "new onepiece eyecatcher Video",
+      "url": "https://nitter.net/pewpiece/status/2043336301366153440#m",
+      "date": "Sun, 12 Apr 2026 14:31:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043336239877693440%2Fimg%2FI7L7I6xdpFHfwR4a.jpg"
+      ]
+    },
+    {
+      "id": "9425ba772a8dbaadd1d8c553f470f1ca79e48673edf22d88c19dc27105cec9fa",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece opening Video",
+      "text": "New onepiece opening Video",
+      "url": "https://nitter.net/pewpiece/status/2043333441656176853#m",
+      "date": "Sun, 12 Apr 2026 14:20:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
+      ]
+    },
+    {
+      "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "text": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "url": "https://nitter.net/PacemanOP/status/2043337889141162494#m",
+      "date": "Sun, 12 Apr 2026 14:38:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
+      ]
+    },
+    {
+      "id": "5729976fa9e90c2c599d9261ffb23d0f2ff3739fcee9d0542baf8499892f1b6d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Taku",
+      "text": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Takuya Hirata, Masahiko Inuzuka, Akio Takami, Shouta Oonishi, Osamu Satou, Tsuyoshi Kakihara, Noboru Jitsuhara, Kiyotaka Takezawa, Masumi Houjou, Katsunori Tanaka NINAKAMI Luciana Liencres, Joaquín Padilla, Yuxin Zhao, Jo Jaehyeon, Fernanda de la Rosa L, Enzo D'Avino, Paris Ruiz, Daniel Gómez, Javiera Mondaca 9 2nd KAs",
+      "url": "https://nitter.net/d0nut2x/status/2042567821679382991#m",
+      "date": "Fri, 10 Apr 2026 11:38:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
