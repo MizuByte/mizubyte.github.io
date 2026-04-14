@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T04:20:55.974Z",
+  "generatedAt": "2026-04-14T06:14:03.899Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -60,6 +60,75 @@
     }
   ],
   "misc": [
+    {
+      "id": "ca72e98a7399dfa44d8e534719b634fdd98b08d81ba2a48dace4baead53812e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
+      "text": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043925446635421903#m",
+      "date": "Tue, 14 Apr 2026 05:32:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF17XPCX0AABe76.jpg"
+      ]
+    },
+    {
+      "id": "890df023d2979b18efe91e8ad5cf05587cac0e6db1275ce84e9c88a92af16b94",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
+      "text": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
+      "url": "https://nitter.net/TheWillOfMarco/status/2043798813455114681#m",
+      "date": "Mon, 13 Apr 2026 21:09:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "84ee9b3819e91395fb28b08f0c07f3858d6c71f8e1a9b17744d915f96c9d9b53",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Sanji found his master...😭😭😭",
+      "text": "#ONEPIECE1180 Sanji found his master...😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043801760519581964#m",
+      "date": "Mon, 13 Apr 2026 21:21:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF0KFlJW8AAbPne.jpg"
+      ]
+    },
+    {
+      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 \"King of Hell\"😭",
+      "text": "#ONEPIECE1180 \"King of Hell\"😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
+      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "*\"Tail\" not \"finger\".😭",
+      "text": "*\"Tail\" not \"finger\".😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
+      "date": "Mon, 13 Apr 2026 20:49:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "51be2910b67158534c687f5cc78b588317c907ca16447ea4e69f7b56deb744db",
       "anime": "onepiece",
@@ -147,75 +216,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFxPRLIasAArfjf.jpg"
-      ]
-    },
-    {
-      "id": "890df023d2979b18efe91e8ad5cf05587cac0e6db1275ce84e9c88a92af16b94",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
-      "text": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
-      "url": "https://nitter.net/TheWillOfMarco/status/2043798813455114681#m",
-      "date": "Mon, 13 Apr 2026 21:09:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "84ee9b3819e91395fb28b08f0c07f3858d6c71f8e1a9b17744d915f96c9d9b53",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Sanji found his master...😭😭😭",
-      "text": "#ONEPIECE1180 Sanji found his master...😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043801760519581964#m",
-      "date": "Mon, 13 Apr 2026 21:21:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF0KFlJW8AAbPne.jpg"
-      ]
-    },
-    {
-      "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "*\"Tail\" not \"finger\".😭",
-      "text": "*\"Tail\" not \"finger\".😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
-      "date": "Mon, 13 Apr 2026 20:49:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 \"King of Hell\"😭",
-      "text": "#ONEPIECE1180 \"King of Hell\"😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
-      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3db74a232acefca2782116ba895cebf8fe5ac4634befd06232beb06983655b7f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Usopp after personally bringing Imu to Elbaph and seeing how everyone is being cooked, and that he is not the only one this time.",
-      "text": "#ONEPIECE1180 Usopp after personally bringing Imu to Elbaph and seeing how everyone is being cooked, and that he is not the only one this time.",
-      "url": "https://nitter.net/WorstGenHQ/status/2043786769548575071#m",
-      "date": "Mon, 13 Apr 2026 20:21:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFz9PHqXsAAIWZa.jpg"
       ]
     },
     {
@@ -406,6 +406,75 @@
       "attachments": []
     },
     {
+      "id": "ca72e98a7399dfa44d8e534719b634fdd98b08d81ba2a48dace4baead53812e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
+      "text": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043925446635421903#m",
+      "date": "Tue, 14 Apr 2026 05:32:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF17XPCX0AABe76.jpg"
+      ]
+    },
+    {
+      "id": "890df023d2979b18efe91e8ad5cf05587cac0e6db1275ce84e9c88a92af16b94",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
+      "text": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
+      "url": "https://nitter.net/TheWillOfMarco/status/2043798813455114681#m",
+      "date": "Mon, 13 Apr 2026 21:09:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "84ee9b3819e91395fb28b08f0c07f3858d6c71f8e1a9b17744d915f96c9d9b53",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Sanji found his master...😭😭😭",
+      "text": "#ONEPIECE1180 Sanji found his master...😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043801760519581964#m",
+      "date": "Mon, 13 Apr 2026 21:21:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF0KFlJW8AAbPne.jpg"
+      ]
+    },
+    {
+      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 \"King of Hell\"😭",
+      "text": "#ONEPIECE1180 \"King of Hell\"😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
+      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "*\"Tail\" not \"finger\".😭",
+      "text": "*\"Tail\" not \"finger\".😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
+      "date": "Mon, 13 Apr 2026 20:49:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "51be2910b67158534c687f5cc78b588317c907ca16447ea4e69f7b56deb744db",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -492,75 +561,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFxPRLIasAArfjf.jpg"
-      ]
-    },
-    {
-      "id": "890df023d2979b18efe91e8ad5cf05587cac0e6db1275ce84e9c88a92af16b94",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
-      "text": "NGL I kinda had a shitty day yesterday but all these One Piece chapter hints already regenerated me physically and mentally. Only One Piece can do that to me. 🔥💙",
-      "url": "https://nitter.net/TheWillOfMarco/status/2043798813455114681#m",
-      "date": "Mon, 13 Apr 2026 21:09:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "84ee9b3819e91395fb28b08f0c07f3858d6c71f8e1a9b17744d915f96c9d9b53",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Sanji found his master...😭😭😭",
-      "text": "#ONEPIECE1180 Sanji found his master...😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043801760519581964#m",
-      "date": "Mon, 13 Apr 2026 21:21:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF0KFlJW8AAbPne.jpg"
-      ]
-    },
-    {
-      "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "*\"Tail\" not \"finger\".😭",
-      "text": "*\"Tail\" not \"finger\".😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
-      "date": "Mon, 13 Apr 2026 20:49:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d93fabd18e0c625c401d94f2827673ad812b847d12a941891d0c2b707655bc49",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 \"King of Hell\"😭",
-      "text": "#ONEPIECE1180 \"King of Hell\"😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043792299788845213#m",
-      "date": "Mon, 13 Apr 2026 20:43:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3db74a232acefca2782116ba895cebf8fe5ac4634befd06232beb06983655b7f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Usopp after personally bringing Imu to Elbaph and seeing how everyone is being cooked, and that he is not the only one this time.",
-      "text": "#ONEPIECE1180 Usopp after personally bringing Imu to Elbaph and seeing how everyone is being cooked, and that he is not the only one this time.",
-      "url": "https://nitter.net/WorstGenHQ/status/2043786769548575071#m",
-      "date": "Mon, 13 Apr 2026 20:21:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFz9PHqXsAAIWZa.jpg"
       ]
     },
     {
