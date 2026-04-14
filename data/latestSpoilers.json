@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T09:52:33.266Z",
+  "generatedAt": "2026-04-14T10:58:27.563Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -45,6 +45,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "cf2c0cf711d2077c51ac9baee71862d3c71df8f4b3bb0f5ebfd4c264f8c6da2d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 End, last hope.....",
+      "text": "#ONEPIECE1180 End, last hope.....",
+      "url": "https://nitter.net/WorstGenHQ/status/2043998107529039925#m",
+      "date": "Tue, 14 Apr 2026 10:21:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF29cgwWMAAysNX.jpg"
+      ]
+    },
     {
       "id": "3199e1cace9902efad3b96dcb8b56fc0da70e6b997dab7ea4440d36cddeae922",
       "anime": "onepiece",
@@ -100,19 +115,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHF0KFlJW8AAbPne.jpg"
       ]
-    },
-    {
-      "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "*\"Tail\" not \"finger\".😭",
-      "text": "*\"Tail\" not \"finger\".😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
-      "date": "Mon, 13 Apr 2026 20:49:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "303d0ba96f556154a22557194e449ff581e1b07663af8b156fd54e5023591a27",
@@ -378,6 +380,21 @@
       "attachments": []
     },
     {
+      "id": "cf2c0cf711d2077c51ac9baee71862d3c71df8f4b3bb0f5ebfd4c264f8c6da2d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 End, last hope.....",
+      "text": "#ONEPIECE1180 End, last hope.....",
+      "url": "https://nitter.net/WorstGenHQ/status/2043998107529039925#m",
+      "date": "Tue, 14 Apr 2026 10:21:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF29cgwWMAAysNX.jpg"
+      ]
+    },
+    {
       "id": "3199e1cace9902efad3b96dcb8b56fc0da70e6b997dab7ea4440d36cddeae922",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -432,19 +449,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHF0KFlJW8AAbPne.jpg"
       ]
-    },
-    {
-      "id": "9d07707e7056867fcbb30b67dbccf10be9e65ebc48233907fe39594bbc95b358",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "*\"Tail\" not \"finger\".😭",
-      "text": "*\"Tail\" not \"finger\".😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043793726653300960#m",
-      "date": "Mon, 13 Apr 2026 20:49:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "303d0ba96f556154a22557194e449ff581e1b07663af8b156fd54e5023591a27",
