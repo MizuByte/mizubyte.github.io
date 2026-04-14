@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T14:58:48.611Z",
+  "generatedAt": "2026-04-14T16:09:02.486Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -32,6 +32,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
+      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+      ]
+    },
     {
       "id": "e74616040ed40177602bee64ce90c01d141d4eb5a8a88a3f7f8739ddaa86f62b",
       "anime": "onepiece",
@@ -106,18 +121,18 @@
       "attachments": []
     },
     {
-      "id": "ca72e98a7399dfa44d8e534719b634fdd98b08d81ba2a48dace4baead53812e7",
+      "id": "ea2a028da96de8606d7016503d5cebe30396d9b5b771e9b0ad23bbec29098788",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
-      "text": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043925446635421903#m",
-      "date": "Tue, 14 Apr 2026 05:32:55 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EMPORIO.IVANKOV”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EMPORIO.IVANKOV”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2044078222174773476#m",
+      "date": "Tue, 14 Apr 2026 15:39:59 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF17XPCX0AABe76.jpg"
+        "https://nitter.net/pic/card_img%2F2041581991993442304%2FcBW910Fq%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -192,21 +207,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFyY068WYAEu5FB.jpg"
-      ]
-    },
-    {
-      "id": "927d05171c951afb03ff50cdeeaf7f86591a91998c2785557ae8f008fa62de7f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#ONEPIECE",
-      "text": "#ONEPIECE",
-      "url": "https://nitter.net/mangaplus_o/status/2043711358429286590#m",
-      "date": "Mon, 13 Apr 2026 15:22:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFy4o6ia8AE_KGO.jpg"
       ]
     },
     {
@@ -356,6 +356,21 @@
       "attachments": []
     },
     {
+      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
+      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+      ]
+    },
+    {
       "id": "e74616040ed40177602bee64ce90c01d141d4eb5a8a88a3f7f8739ddaa86f62b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -429,18 +444,18 @@
       "attachments": []
     },
     {
-      "id": "ca72e98a7399dfa44d8e534719b634fdd98b08d81ba2a48dace4baead53812e7",
+      "id": "ea2a028da96de8606d7016503d5cebe30396d9b5b771e9b0ad23bbec29098788",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
-      "text": "#ONEPIECE1180 Sabo deserves a big apology, bro got hated for getting negged in a room with Imu and 5 Gorosei...😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2043925446635421903#m",
-      "date": "Tue, 14 Apr 2026 05:32:55 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EMPORIO.IVANKOV”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “EMPORIO.IVANKOV”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2044078222174773476#m",
+      "date": "Tue, 14 Apr 2026 15:39:59 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF17XPCX0AABe76.jpg"
+        "https://nitter.net/pic/card_img%2F2041581991993442304%2FcBW910Fq%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
@@ -515,21 +530,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFyY068WYAEu5FB.jpg"
-      ]
-    },
-    {
-      "id": "927d05171c951afb03ff50cdeeaf7f86591a91998c2785557ae8f008fa62de7f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#ONEPIECE",
-      "text": "#ONEPIECE",
-      "url": "https://nitter.net/mangaplus_o/status/2043711358429286590#m",
-      "date": "Mon, 13 Apr 2026 15:22:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFy4o6ia8AE_KGO.jpg"
       ]
     },
     {
