@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T19:56:02.757Z",
+  "generatedAt": "2026-04-15T20:42:22.453Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -135,6 +135,21 @@
       ]
     },
     {
+      "id": "76e9901ed90423cce047cfd1e8183076e439b5f509e1422031432c5d3e0d43d1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1180 FROM (@Mugiwara_23)",
+      "text": "#ONEPIECE1180 FROM (@Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2044508536470716863#m",
+      "date": "Wed, 15 Apr 2026 20:09:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF-NmywaUAALT_b.jpg"
+      ]
+    },
+    {
       "id": "4d9e0b3a99dbc23c1c2ef9670a9648e3ed0f3d0824b34905ff280cc2c0cf7bf8",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -193,21 +208,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
-      ]
-    },
-    {
-      "id": "2f49a67ceb8995a846fd274f8e27dba8fd17d0ba6505ac15b1f31db1d227ad46",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Next onepiece anime preview 1158 Video",
-      "text": "Next onepiece anime preview 1158 Video",
-      "url": "https://nitter.net/pewpiece/status/2043340383741005904#m",
-      "date": "Sun, 12 Apr 2026 14:48:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043340118354726912%2Fimg%2FNHXzYznoxdle1MHX.jpg"
       ]
     },
     {
@@ -474,6 +474,21 @@
       ]
     },
     {
+      "id": "76e9901ed90423cce047cfd1e8183076e439b5f509e1422031432c5d3e0d43d1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1180 FROM (@Mugiwara_23)",
+      "text": "#ONEPIECE1180 FROM (@Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2044508536470716863#m",
+      "date": "Wed, 15 Apr 2026 20:09:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF-NmywaUAALT_b.jpg"
+      ]
+    },
+    {
       "id": "4d9e0b3a99dbc23c1c2ef9670a9648e3ed0f3d0824b34905ff280cc2c0cf7bf8",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -532,21 +547,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
-      ]
-    },
-    {
-      "id": "2f49a67ceb8995a846fd274f8e27dba8fd17d0ba6505ac15b1f31db1d227ad46",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Next onepiece anime preview 1158 Video",
-      "text": "Next onepiece anime preview 1158 Video",
-      "url": "https://nitter.net/pewpiece/status/2043340383741005904#m",
-      "date": "Sun, 12 Apr 2026 14:48:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043340118354726912%2Fimg%2FNHXzYznoxdle1MHX.jpg"
       ]
     },
     {
