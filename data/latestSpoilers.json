@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-04-15T01:09:22.710Z",
+  "generatedAt": "2026-04-15T04:19:39.436Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
-      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
+      "id": "22cfb5bfd399c173d52dccb90c63f7d012311ea9daf5691714dca612205b2e58",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
+      "text": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2044096423767986300#m",
+      "date": "Tue, 14 Apr 2026 16:52:19 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+        "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
       ]
     },
     {
@@ -29,93 +29,24 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
+      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
     }
   ],
   "misc": [
-    {
-      "id": "c5b8cb97ce83ab1772ffdf52075f938888720b59c48f873aaaa2d4c48e948c85",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
-      "text": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
-      "url": "https://nitter.net/WorstGenHQ/status/2044163859070570502#m",
-      "date": "Tue, 14 Apr 2026 21:20:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5UMozXoAAKJM5.jpg"
-      ]
-    },
-    {
-      "id": "a52bf9696daf0cf06266dbb925300cc814adcae343d28c2e125ebe76df2e8c99",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
-      "text": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
-      "url": "https://nitter.net/WorstGenHQ/status/2044155895878218061#m",
-      "date": "Tue, 14 Apr 2026 20:48:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "aa5a30ce2e28f4204366f43109250d2998973741ef0ba6217d9dc871acb6f03b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I ",
-      "text": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I find more puzzling is why Imu is blocking the hits.",
-      "url": "https://nitter.net/WorstGenHQ/status/2044155797723136288#m",
-      "date": "Tue, 14 Apr 2026 20:48:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5MR6OXIAAwCmv.jpg"
-      ]
-    },
-    {
-      "id": "04ffe361db303be6ea9db0c0e64a624598ff4804c9f859ce02942a9521e6db48",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
-      "text": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2044154432636506249#m",
-      "date": "Tue, 14 Apr 2026 20:42:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "52436dc093e2523fe7bf9e8f21ebcaae3d14082a73517d35851c095918df5785",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
-      "text": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2044149971541225912#m",
-      "date": "Tue, 14 Apr 2026 20:25:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5HVxJXUAAYBf2.jpg"
-      ]
-    },
-    {
-      "id": "3f695ea9e1507cd3a180a4ec3dcee5731fd983b15f696703f715cb752d415b4a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
-      "text": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2044136470626119925#m",
-      "date": "Tue, 14 Apr 2026 19:31:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
     {
       "id": "ae5677cd781fb115bec05fe55320d26eaa1a6fbac398cd615b2f601da4a5b6c1",
       "anime": "onepiece",
@@ -192,19 +123,159 @@
       ]
     },
     {
-      "id": "075d163367f43be5f2916d65dcf090a75648b3c69831c1c8f5578f18b157dd8c",
+      "id": "c5b8cb97ce83ab1772ffdf52075f938888720b59c48f873aaaa2d4c48e948c85",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "new onepiece eyecatcher Video",
-      "text": "new onepiece eyecatcher Video",
-      "url": "https://nitter.net/pewpiece/status/2043336301366153440#m",
-      "date": "Sun, 12 Apr 2026 14:31:52 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
+      "text": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
+      "url": "https://nitter.net/WorstGenHQ/status/2044163859070570502#m",
+      "date": "Tue, 14 Apr 2026 21:20:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043336239877693440%2Fimg%2FI7L7I6xdpFHfwR4a.jpg"
+        "https://nitter.net/pic/media%2FHF5UMozXoAAKJM5.jpg"
       ]
+    },
+    {
+      "id": "aa5a30ce2e28f4204366f43109250d2998973741ef0ba6217d9dc871acb6f03b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I ",
+      "text": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I find more puzzling is why Imu is blocking the hits.",
+      "url": "https://nitter.net/WorstGenHQ/status/2044155797723136288#m",
+      "date": "Tue, 14 Apr 2026 20:48:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF5MR6OXIAAwCmv.jpg"
+      ]
+    },
+    {
+      "id": "a52bf9696daf0cf06266dbb925300cc814adcae343d28c2e125ebe76df2e8c99",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
+      "text": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
+      "url": "https://nitter.net/WorstGenHQ/status/2044155895878218061#m",
+      "date": "Tue, 14 Apr 2026 20:48:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "04ffe361db303be6ea9db0c0e64a624598ff4804c9f859ce02942a9521e6db48",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
+      "text": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2044154432636506249#m",
+      "date": "Tue, 14 Apr 2026 20:42:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "52436dc093e2523fe7bf9e8f21ebcaae3d14082a73517d35851c095918df5785",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
+      "text": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2044149971541225912#m",
+      "date": "Tue, 14 Apr 2026 20:25:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF5HVxJXUAAYBf2.jpg"
+      ]
+    },
+    {
+      "id": "3f695ea9e1507cd3a180a4ec3dcee5731fd983b15f696703f715cb752d415b4a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
+      "text": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
+      "url": "https://nitter.net/WorstGenHQ/status/2044136470626119925#m",
+      "date": "Tue, 14 Apr 2026 19:31:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "text": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "url": "https://nitter.net/PacemanOP/status/2043337889141162494#m",
+      "date": "Sun, 12 Apr 2026 14:38:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
+      ]
+    },
+    {
+      "id": "5729976fa9e90c2c599d9261ffb23d0f2ff3739fcee9d0542baf8499892f1b6d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Taku",
+      "text": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Takuya Hirata, Masahiko Inuzuka, Akio Takami, Shouta Oonishi, Osamu Satou, Tsuyoshi Kakihara, Noboru Jitsuhara, Kiyotaka Takezawa, Masumi Houjou, Katsunori Tanaka NINAKAMI Luciana Liencres, Joaquín Padilla, Yuxin Zhao, Jo Jaehyeon, Fernanda de la Rosa L, Enzo D'Avino, Paris Ruiz, Daniel Gómez, Javiera Mondaca 9 2nd KAs",
+      "url": "https://nitter.net/d0nut2x/status/2042567821679382991#m",
+      "date": "Fri, 10 Apr 2026 11:38:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "116738791fd0eb8680ef939495937bd66d594e2e9d2d33563af0e209e115dc32",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Re: Zero Season 4 - Opening Staff Storyboard & Unit Direction: Keisuke Kojima Animation Director: Haruka Sagawa Key Animators: Vincent Chansard Yuutarou Kubo Shoutarou Kinoshita Jikab! Haruka Sagawa H",
+      "text": "Re: Zero Season 4 - Opening Staff Storyboard & Unit Direction: Keisuke Kojima Animation Director: Haruka Sagawa Key Animators: Vincent Chansard Yuutarou Kubo Shoutarou Kinoshita Jikab! Haruka Sagawa Hamil Keita Nagahara Keitarou Chiba Zayd Ghassan Nobuyuki Hiramatsu Keisuke Kojima Daisuke Murata Takashi Ogawa Kimikazu Saitou Hitomi Miura Kouko Torinoumi",
+      "url": "https://nitter.net/LoremIpsumVerb/status/2042523234130629022#m",
+      "date": "Fri, 10 Apr 2026 08:41:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFh_ELqX0AAKfbL.jpg"
+      ]
+    },
+    {
+      "id": "1b7ea2701298d243da2588df76077d8346f8dca19503403a87fe4d6d7aee887c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Wistoria S2 Opening full Staff #Wistoria d0nut2x (@d0nut2x) Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2 — https://nitter.net/d0nut2x/status/2042431741273547196#m",
+      "text": "Wistoria S2 Opening full Staff #Wistoria d0nut2x (@d0nut2x) Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2 — https://nitter.net/d0nut2x/status/2042431741273547196#m",
+      "url": "https://nitter.net/PacemanOP/status/2042504122843480525#m",
+      "date": "Fri, 10 Apr 2026 07:25:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFhurJqbQAIPVKY.jpg"
+      ]
+    },
+    {
+      "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
+      "date": "Fri, 10 Apr 2026 03:15:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
@@ -264,81 +335,23 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
-    },
-    {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e30f363509653f769b683f300e5281629004f8b5983c9eb5af5a1d006aafd83f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2044196940376612988#m",
-      "date": "Tue, 14 Apr 2026 23:31:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5ySG1X0AEHij9.jpg"
-      ]
-    },
-    {
-      "id": "24bd1e8eabc5a139493e6566024c77d66eba2949a09a9db9eeda121e1a45d5d6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2044144608909668785#m",
-      "date": "Tue, 14 Apr 2026 20:03:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5CrSIWsAADLGI.jpg"
-      ]
-    },
-    {
-      "id": "8a6bde9937b34df6ba39b15456c6afd424a8aa3fbe69c77f8f5c59842f315803",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2044075635920736257#m",
-      "date": "Tue, 14 Apr 2026 15:29:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF4D9Q8WoAAyTQi.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
-      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
+      "id": "22cfb5bfd399c173d52dccb90c63f7d012311ea9daf5691714dca612205b2e58",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
+      "text": "#onepeice1180 Brief spoilers for onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2044096423767986300#m",
+      "date": "Tue, 14 Apr 2026 16:52:19 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+        "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
       ]
     },
     {
@@ -355,88 +368,19 @@
       "attachments": []
     },
     {
-      "id": "c5b8cb97ce83ab1772ffdf52075f938888720b59c48f873aaaa2d4c48e948c85",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
-      "text": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
-      "url": "https://nitter.net/WorstGenHQ/status/2044163859070570502#m",
-      "date": "Tue, 14 Apr 2026 21:20:17 GMT",
-      "isSpoiler": false,
+      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
+      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF5UMozXoAAKJM5.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
       ]
-    },
-    {
-      "id": "a52bf9696daf0cf06266dbb925300cc814adcae343d28c2e125ebe76df2e8c99",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
-      "text": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
-      "url": "https://nitter.net/WorstGenHQ/status/2044155895878218061#m",
-      "date": "Tue, 14 Apr 2026 20:48:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "aa5a30ce2e28f4204366f43109250d2998973741ef0ba6217d9dc871acb6f03b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I ",
-      "text": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I find more puzzling is why Imu is blocking the hits.",
-      "url": "https://nitter.net/WorstGenHQ/status/2044155797723136288#m",
-      "date": "Tue, 14 Apr 2026 20:48:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5MR6OXIAAwCmv.jpg"
-      ]
-    },
-    {
-      "id": "04ffe361db303be6ea9db0c0e64a624598ff4804c9f859ce02942a9521e6db48",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
-      "text": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2044154432636506249#m",
-      "date": "Tue, 14 Apr 2026 20:42:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "52436dc093e2523fe7bf9e8f21ebcaae3d14082a73517d35851c095918df5785",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
-      "text": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2044149971541225912#m",
-      "date": "Tue, 14 Apr 2026 20:25:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5HVxJXUAAYBf2.jpg"
-      ]
-    },
-    {
-      "id": "3f695ea9e1507cd3a180a4ec3dcee5731fd983b15f696703f715cb752d415b4a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
-      "text": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2044136470626119925#m",
-      "date": "Tue, 14 Apr 2026 19:31:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "ae5677cd781fb115bec05fe55320d26eaa1a6fbac398cd615b2f601da4a5b6c1",
@@ -514,19 +458,159 @@
       ]
     },
     {
-      "id": "075d163367f43be5f2916d65dcf090a75648b3c69831c1c8f5578f18b157dd8c",
+      "id": "c5b8cb97ce83ab1772ffdf52075f938888720b59c48f873aaaa2d4c48e948c85",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "new onepiece eyecatcher Video",
-      "text": "new onepiece eyecatcher Video",
-      "url": "https://nitter.net/pewpiece/status/2043336301366153440#m",
-      "date": "Sun, 12 Apr 2026 14:31:52 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
+      "text": "#ONEPIECE1180 Damn, I realize Imu accomplished all this without his Magic Book or even his Crazy Haki. Now imagine the other absurd abilities he has up his sleeve, not to mention his Full Zoan...💀",
+      "url": "https://nitter.net/WorstGenHQ/status/2044163859070570502#m",
+      "date": "Tue, 14 Apr 2026 21:20:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043336239877693440%2Fimg%2FI7L7I6xdpFHfwR4a.jpg"
+        "https://nitter.net/pic/media%2FHF5UMozXoAAKJM5.jpg"
       ]
+    },
+    {
+      "id": "aa5a30ce2e28f4204366f43109250d2998973741ef0ba6217d9dc871acb6f03b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I ",
+      "text": "#ONEPIECE1180 To defend Sanji, Zoro, and everyone else, it was clear they didn't stand a chance; the combo team of Xebec, Roger, Garp, Whitebeard, Big Mom, and Kaido couldn't even do anything. What I find more puzzling is why Imu is blocking the hits.",
+      "url": "https://nitter.net/WorstGenHQ/status/2044155797723136288#m",
+      "date": "Tue, 14 Apr 2026 20:48:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF5MR6OXIAAwCmv.jpg"
+      ]
+    },
+    {
+      "id": "a52bf9696daf0cf06266dbb925300cc814adcae343d28c2e125ebe76df2e8c99",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
+      "text": "I mean dude didn´t care if Rocks and the others attacked him, why he suddely start to block attacks?",
+      "url": "https://nitter.net/WorstGenHQ/status/2044155895878218061#m",
+      "date": "Tue, 14 Apr 2026 20:48:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "04ffe361db303be6ea9db0c0e64a624598ff4804c9f859ce02942a9521e6db48",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
+      "text": "Again red card, again almost the same situation, Barca is cursed, bro... 😭🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2044154432636506249#m",
+      "date": "Tue, 14 Apr 2026 20:42:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "52436dc093e2523fe7bf9e8f21ebcaae3d14082a73517d35851c095918df5785",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
+      "text": "#ONEPIECE1180 How everyone will look to Usopp at the end of the Elbaf arc... 😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2044149971541225912#m",
+      "date": "Tue, 14 Apr 2026 20:25:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF5HVxJXUAAYBf2.jpg"
+      ]
+    },
+    {
+      "id": "3f695ea9e1507cd3a180a4ec3dcee5731fd983b15f696703f715cb752d415b4a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
+      "text": "Atletico GOAL!!! 1:2 So far a great game bois, watch it.",
+      "url": "https://nitter.net/WorstGenHQ/status/2044136470626119925#m",
+      "date": "Tue, 14 Apr 2026 19:31:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "text": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "url": "https://nitter.net/PacemanOP/status/2043337889141162494#m",
+      "date": "Sun, 12 Apr 2026 14:38:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
+      ]
+    },
+    {
+      "id": "5729976fa9e90c2c599d9261ffb23d0f2ff3739fcee9d0542baf8499892f1b6d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Taku",
+      "text": "Wistoria Season 2 #1 Full Staff: SB: Hideaki Nakano ED: Hiroaki Kudou CAD: Sayaka Ono AD: Masumi Houjou, Katsunori Tanaka KA: Shuuta Fukui, Shouta Sugihara, Isuta, Kimitake Nishio, Chinatsu Ueno, Takuya Hirata, Masahiko Inuzuka, Akio Takami, Shouta Oonishi, Osamu Satou, Tsuyoshi Kakihara, Noboru Jitsuhara, Kiyotaka Takezawa, Masumi Houjou, Katsunori Tanaka NINAKAMI Luciana Liencres, Joaquín Padilla, Yuxin Zhao, Jo Jaehyeon, Fernanda de la Rosa L, Enzo D'Avino, Paris Ruiz, Daniel Gómez, Javiera Mondaca 9 2nd KAs",
+      "url": "https://nitter.net/d0nut2x/status/2042567821679382991#m",
+      "date": "Fri, 10 Apr 2026 11:38:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "116738791fd0eb8680ef939495937bd66d594e2e9d2d33563af0e209e115dc32",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Re: Zero Season 4 - Opening Staff Storyboard & Unit Direction: Keisuke Kojima Animation Director: Haruka Sagawa Key Animators: Vincent Chansard Yuutarou Kubo Shoutarou Kinoshita Jikab! Haruka Sagawa H",
+      "text": "Re: Zero Season 4 - Opening Staff Storyboard & Unit Direction: Keisuke Kojima Animation Director: Haruka Sagawa Key Animators: Vincent Chansard Yuutarou Kubo Shoutarou Kinoshita Jikab! Haruka Sagawa Hamil Keita Nagahara Keitarou Chiba Zayd Ghassan Nobuyuki Hiramatsu Keisuke Kojima Daisuke Murata Takashi Ogawa Kimikazu Saitou Hitomi Miura Kouko Torinoumi",
+      "url": "https://nitter.net/LoremIpsumVerb/status/2042523234130629022#m",
+      "date": "Fri, 10 Apr 2026 08:41:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFh_ELqX0AAKfbL.jpg"
+      ]
+    },
+    {
+      "id": "1b7ea2701298d243da2588df76077d8346f8dca19503403a87fe4d6d7aee887c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Wistoria S2 Opening full Staff #Wistoria d0nut2x (@d0nut2x) Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2 — https://nitter.net/d0nut2x/status/2042431741273547196#m",
+      "text": "Wistoria S2 Opening full Staff #Wistoria d0nut2x (@d0nut2x) Tatsuya Yoshihara is storyboarding and directing the Opening of Wistoria Season 2 — https://nitter.net/d0nut2x/status/2042431741273547196#m",
+      "url": "https://nitter.net/PacemanOP/status/2042504122843480525#m",
+      "date": "Fri, 10 Apr 2026 07:25:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFhurJqbQAIPVKY.jpg"
+      ]
+    },
+    {
+      "id": "c91c2f002816290d7faad6d5a2c8c450edca868077011d1b4cecde82093804d6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "text": "KA: MK-Za Tomohito Abe, 秦裕太 (?), Aya Katou, Kazu Ikeda, Chiho Mifune, Yuuta Nakajou, Tsutomu Yamamoto, Shuuto Nakae, Chika Kanou Takeo Oohira 2 2nd KAs",
+      "url": "https://nitter.net/PacemanOP/status/2042441204269531611#m",
+      "date": "Fri, 10 Apr 2026 03:15:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
@@ -586,64 +670,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
-    },
-    {
-      "id": "d35dfdacd95dbb500abc42893727d5548270f73df42db02178242595b3503da6",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/",
-      "text": "Mfs insulting him means they defend pedophilia. Schlep my guy, you did everything right. I support you😭🙏🏼 Schlep (@RealSchlep) No wonder your fiancee cheated on you — https://nitter.net/RealSchlep/status/2039093125465977170#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2039394300056715460#m",
-      "date": "Wed, 01 Apr 2026 17:27:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e30f363509653f769b683f300e5281629004f8b5983c9eb5af5a1d006aafd83f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2044196940376612988#m",
-      "date": "Tue, 14 Apr 2026 23:31:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5ySG1X0AEHij9.jpg"
-      ]
-    },
-    {
-      "id": "24bd1e8eabc5a139493e6566024c77d66eba2949a09a9db9eeda121e1a45d5d6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2044144608909668785#m",
-      "date": "Tue, 14 Apr 2026 20:03:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF5CrSIWsAADLGI.jpg"
-      ]
-    },
-    {
-      "id": "8a6bde9937b34df6ba39b15456c6afd424a8aa3fbe69c77f8f5c59842f315803",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2044075635920736257#m",
-      "date": "Tue, 14 Apr 2026 15:29:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF4D9Q8WoAAyTQi.jpg"
       ]
     }
   ]
