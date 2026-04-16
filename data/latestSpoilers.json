@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T16:52:01.252Z",
+  "generatedAt": "2026-04-16T18:05:04.910Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,36 +31,6 @@
       "attachments": []
     },
     {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
       "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -89,6 +59,36 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
       ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
     }
   ],
   "misc": [
@@ -105,21 +105,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGB__DYaYAAklo0.jpg"
-      ]
-    },
-    {
-      "id": "76e9901ed90423cce047cfd1e8183076e439b5f509e1422031432c5d3e0d43d1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1180 FROM (@Mugiwara_23)",
-      "text": "#ONEPIECE1180 FROM (@Mugiwara_23)",
-      "url": "https://nitter.net/pewpiece/status/2044508536470716863#m",
-      "date": "Wed, 15 Apr 2026 20:09:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF-NmywaUAALT_b.jpg"
       ]
     },
     {
@@ -166,6 +151,37 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+      ]
+    },
+    {
+      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece ending Video",
+      "text": "New onepiece ending Video",
+      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
+      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
+      ]
+    },
+    {
+      "id": "3aa032c17bb4346f317fdcd8e2e4b0d927210a75e07321542060b26f80cb8bbc",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#OnePiece1180 Jimbei for 2 straight arcs now Video RJupiter (@RJupiter7) #ONEPIECE1180 Zoro attacks Imu to protect his friends, Sanji attacks Imu to protect his friends 1B bounty knight of the sea for",
+      "text": "#OnePiece1180 Jimbei for 2 straight arcs now Video RJupiter (@RJupiter7) #ONEPIECE1180 Zoro attacks Imu to protect his friends, Sanji attacks Imu to protect his friends 1B bounty knight of the sea former Warlord Jinbe: Video — https://nitter.net/RJupiter7/status/2044785258818658398#m",
+      "url": "https://nitter.net/ClairvoyantEye1/status/2044809807065194605#m",
+      "date": "Thu, 16 Apr 2026 16:07:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2044809713012166656%2Fimg%2FKyEITNPnTY8Ob9h7.jpg",
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1196896372164833281%2Fpu%2Fimg%2FqDeH7MmkUrI39vJd.jpg"
       ]
     },
     {
@@ -228,111 +244,123 @@
       ]
     },
     {
-      "id": "e2ce5556d378b48ff5b9304d1f2a87cbf1060ed1da55f317bebda0a6710e1185",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 At this point if you still think Kaido is stronger to Loki i feel sorry for you, Loki can easly go down as a top5 strongest ever",
-      "text": "#ONEPIECE1180 At this point if you still think Kaido is stronger to Loki i feel sorry for you, Loki can easly go down as a top5 strongest ever",
-      "url": "https://nitter.net/RJupiter7/status/2044729815891136645#m",
-      "date": "Thu, 16 Apr 2026 10:49:12 GMT",
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGBW66cWEAAIpvP.jpg",
-        "https://nitter.net/pic/media%2FHGBW66wX0AAHDpE.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "7c64c220990fc1e202e5d8dbe56abb9abaa18ebf18a8a80bdcb9a18cd531bed5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "If you are a #ONEPIECE JUMP collector I strongly advise you to track down these two while they're still pretty easy to find & cheap. The Akamaru Luffy is rare artistically bc it's Luffy on a non-weekl",
-      "text": "If you are a #ONEPIECE JUMP collector I strongly advise you to track down these two while they're still pretty easy to find & cheap. The Akamaru Luffy is rare artistically bc it's Luffy on a non-weekly JUMP-family cover. Oda doesn't do that these days almost as a rule unless...",
-      "url": "https://nitter.net/ochimusha108/status/2044709793630491115#m",
-      "date": "Thu, 16 Apr 2026 09:29:38 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGBDZU_a4AADijt.jpg",
-        "https://nitter.net/pic/media%2FHGBDZUzbcAA4qZc.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
-      "id": "ae3768130f7ab2131a327515871c60cf73c94f9f2abda6fab8278d7ff095607f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Nintendo Switch 2 で体験する「ゼノブレイドクロス」。 『ゼノブレイドクロス ディフィニティブエディション Nintendo Switch 2 Edition』のパッケージ版は本日発売です。 #ゼノブレイドクロス nintendo.com/jp/games/switch…",
-      "text": "Nintendo Switch 2 で体験する「ゼノブレイドクロス」。 『ゼノブレイドクロス ディフィニティブエディション Nintendo Switch 2 Edition』のパッケージ版は本日発売です。 #ゼノブレイドクロス nintendo.com/jp/games/switch…",
-      "url": "https://nitter.net/Nintendo/status/2044581840531362244#m",
-      "date": "Thu, 16 Apr 2026 01:01:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "629796e62abed4462acb0f4d260c61f4ba19abfdb538ff24c9cde347b40a1b57",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Contrary to pop. belief the first print of #ONEPIECE 's one-shot(s) in JUMP and spin-off mags are not very rare. THIS is the holy grail. 1993 Oda's first publication in JUMP as an author 'Future Prese",
-      "text": "Contrary to pop. belief the first print of #ONEPIECE 's one-shot(s) in JUMP and spin-off mags are not very rare. THIS is the holy grail. 1993 Oda's first publication in JUMP as an author 'Future Present From God'. Rare AF! I have my pristine copy. If you find yours, NEVER let go.",
-      "url": "https://nitter.net/ochimusha108/status/2044673572820615258#m",
-      "date": "Thu, 16 Apr 2026 07:05:42 GMT",
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGAh5r5bAAELGIT.jpg"
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
       ]
     },
     {
-      "id": "7411d2f45517918801da9fdb9cdcd9bff82cd4fa5c68b06eae7e7423fc28dd51",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "私も持ってます！ なかなかこの月刊少年ジャンプオリジナル1993年10月号って見かけないですよね？",
-      "text": "私も持ってます！ なかなかこの月刊少年ジャンプオリジナル1993年10月号って見かけないですよね？",
-      "url": "https://nitter.net/take_a_rock/status/2044719418203308125#m",
-      "date": "Thu, 16 Apr 2026 10:07:53 GMT",
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGBNd-kaAAAfBoz.jpg"
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     },
     {
-      "id": "d784911e21f981f3231ba69416b9421ca587cfe787df6849e2838a48ed75b3e0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「ONE PIECE / 魚人島の宴」ed. 20 2026年4月19日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Banquet at Fish-Man” ed.20 Now available through online lottery sale until April 19, 2026. mangaart.jp/ja/lotteries/o… #尾",
-      "text": "「ONE PIECE / 魚人島の宴」ed. 20 2026年4月19日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Banquet at Fish-Man” ed.20 Now available through online lottery sale until April 19, 2026. mangaart.jp/ja/lotteries/o… #尾田栄一郎 #ONEPIECE #mangaart #ShueishaMangaArtHeritage #集英社マンガアートヘリテージトーキョーギャラリー",
-      "url": "https://nitter.net/MangaartJ/status/2044683446736634215#m",
-      "date": "Thu, 16 Apr 2026 07:44:56 GMT",
+      "id": "6d2255f058daa7f19e18d76e60841bd2a4fd3d9204bf311a50d39af2633b1bda",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705085880697089#m",
+      "date": "Thu, 16 Apr 2026 09:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGAswZFbMAARCjY.jpg",
-        "https://nitter.net/pic/media%2FHGAswY4aUAARyJG.jpg",
-        "https://nitter.net/pic/media%2FHGAswY-agAAENhZ.jpg",
-        "https://nitter.net/pic/media%2FHGAswY6aYAAMDwI.jpg"
+        "https://nitter.net/pic/media%2FHGBAcKHa4AAbwRp.jpg"
       ]
     },
     {
-      "id": "6ec64eb82ce48cfe4cca0031c7797666b2a7b180f4e56658de7cd3eb1db566c7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The return of a legend The NEOGEO AES+ launches November 12, 2026 🎮✨ Now featuring HDMI output, high score saving, and more— all while preserving the essence of the original. Launching alongside 10 c",
-      "text": "The return of a legend The NEOGEO AES+ launches November 12, 2026 🎮✨ Now featuring HDMI output, high score saving, and more— all while preserving the essence of the original. Launching alongside 10 classic NEOGEO AES cartridges 📦 🔽 Pre-order here 🔽 plaionreplai.com/neogeo #NEOGEO #SNK Video",
-      "url": "https://nitter.net/NEOGEO_EN/status/2044793460000223601#m",
-      "date": "Thu, 16 Apr 2026 15:02:05 GMT",
+      "id": "1460278a5e686c2fe31e864482da91baeaef4fd9c3be172581b6d89d99e3312d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705054993916260#m",
+      "date": "Thu, 16 Apr 2026 09:10:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2044793314206224384%2Fimg%2FqoYwVXdGrGu_Qu-h.jpg"
+        "https://nitter.net/pic/media%2FHGBAaUbaUAAVDiy.png"
+      ]
+    },
+    {
+      "id": "f3c366a787e33933f7ac06b2cdce3a36f71424fe9d44f7411c79f6ff4dc243b6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "text": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "url": "https://nitter.net/OkizemeSD/status/2044667453515428351#m",
+      "date": "Thu, 16 Apr 2026 06:41:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
+      ]
+    },
+    {
+      "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "text": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "url": "https://nitter.net/PacemanOP/status/2043337889141162494#m",
+      "date": "Sun, 12 Apr 2026 14:38:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
       ]
     },
     {
@@ -363,36 +391,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGBVguwXgAAQQj3.jpg"
-      ]
-    },
-    {
-      "id": "e807b0ff38940033401d6265cb0f2dec84c079b90f10fedbe4ee25f48691a21b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2044651703639687468#m",
-      "date": "Thu, 16 Apr 2026 05:38:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAP4mWWsAARnJw.jpg"
-      ]
-    },
-    {
-      "id": "652314894c3e0c6633d63781e17acb10af000fc391e31693bdd141181c23360f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2044522486516130164#m",
-      "date": "Wed, 15 Apr 2026 21:05:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF-aXQxbEAA0N2N.jpg"
       ]
     }
   ],
@@ -426,36 +424,6 @@
       "attachments": []
     },
     {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
       "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -486,6 +454,36 @@
       ]
     },
     {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
       "id": "3d7298ceb90fef6df21c0988718a0f16c9de5f57ac95ac66d6f0f4a308efa14c",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -498,21 +496,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGB__DYaYAAklo0.jpg"
-      ]
-    },
-    {
-      "id": "76e9901ed90423cce047cfd1e8183076e439b5f509e1422031432c5d3e0d43d1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1180 FROM (@Mugiwara_23)",
-      "text": "#ONEPIECE1180 FROM (@Mugiwara_23)",
-      "url": "https://nitter.net/pewpiece/status/2044508536470716863#m",
-      "date": "Wed, 15 Apr 2026 20:09:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF-NmywaUAALT_b.jpg"
       ]
     },
     {
@@ -559,6 +542,37 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+      ]
+    },
+    {
+      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece ending Video",
+      "text": "New onepiece ending Video",
+      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
+      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
+      ]
+    },
+    {
+      "id": "3aa032c17bb4346f317fdcd8e2e4b0d927210a75e07321542060b26f80cb8bbc",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#OnePiece1180 Jimbei for 2 straight arcs now Video RJupiter (@RJupiter7) #ONEPIECE1180 Zoro attacks Imu to protect his friends, Sanji attacks Imu to protect his friends 1B bounty knight of the sea for",
+      "text": "#OnePiece1180 Jimbei for 2 straight arcs now Video RJupiter (@RJupiter7) #ONEPIECE1180 Zoro attacks Imu to protect his friends, Sanji attacks Imu to protect his friends 1B bounty knight of the sea former Warlord Jinbe: Video — https://nitter.net/RJupiter7/status/2044785258818658398#m",
+      "url": "https://nitter.net/ClairvoyantEye1/status/2044809807065194605#m",
+      "date": "Thu, 16 Apr 2026 16:07:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2044809713012166656%2Fimg%2FKyEITNPnTY8Ob9h7.jpg",
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1196896372164833281%2Fpu%2Fimg%2FqDeH7MmkUrI39vJd.jpg"
       ]
     },
     {
@@ -621,111 +635,123 @@
       ]
     },
     {
-      "id": "e2ce5556d378b48ff5b9304d1f2a87cbf1060ed1da55f317bebda0a6710e1185",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 At this point if you still think Kaido is stronger to Loki i feel sorry for you, Loki can easly go down as a top5 strongest ever",
-      "text": "#ONEPIECE1180 At this point if you still think Kaido is stronger to Loki i feel sorry for you, Loki can easly go down as a top5 strongest ever",
-      "url": "https://nitter.net/RJupiter7/status/2044729815891136645#m",
-      "date": "Thu, 16 Apr 2026 10:49:12 GMT",
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGBW66cWEAAIpvP.jpg",
-        "https://nitter.net/pic/media%2FHGBW66wX0AAHDpE.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "7c64c220990fc1e202e5d8dbe56abb9abaa18ebf18a8a80bdcb9a18cd531bed5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "If you are a #ONEPIECE JUMP collector I strongly advise you to track down these two while they're still pretty easy to find & cheap. The Akamaru Luffy is rare artistically bc it's Luffy on a non-weekl",
-      "text": "If you are a #ONEPIECE JUMP collector I strongly advise you to track down these two while they're still pretty easy to find & cheap. The Akamaru Luffy is rare artistically bc it's Luffy on a non-weekly JUMP-family cover. Oda doesn't do that these days almost as a rule unless...",
-      "url": "https://nitter.net/ochimusha108/status/2044709793630491115#m",
-      "date": "Thu, 16 Apr 2026 09:29:38 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGBDZU_a4AADijt.jpg",
-        "https://nitter.net/pic/media%2FHGBDZUzbcAA4qZc.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
-      "id": "ae3768130f7ab2131a327515871c60cf73c94f9f2abda6fab8278d7ff095607f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Nintendo Switch 2 で体験する「ゼノブレイドクロス」。 『ゼノブレイドクロス ディフィニティブエディション Nintendo Switch 2 Edition』のパッケージ版は本日発売です。 #ゼノブレイドクロス nintendo.com/jp/games/switch…",
-      "text": "Nintendo Switch 2 で体験する「ゼノブレイドクロス」。 『ゼノブレイドクロス ディフィニティブエディション Nintendo Switch 2 Edition』のパッケージ版は本日発売です。 #ゼノブレイドクロス nintendo.com/jp/games/switch…",
-      "url": "https://nitter.net/Nintendo/status/2044581840531362244#m",
-      "date": "Thu, 16 Apr 2026 01:01:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "629796e62abed4462acb0f4d260c61f4ba19abfdb538ff24c9cde347b40a1b57",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Contrary to pop. belief the first print of #ONEPIECE 's one-shot(s) in JUMP and spin-off mags are not very rare. THIS is the holy grail. 1993 Oda's first publication in JUMP as an author 'Future Prese",
-      "text": "Contrary to pop. belief the first print of #ONEPIECE 's one-shot(s) in JUMP and spin-off mags are not very rare. THIS is the holy grail. 1993 Oda's first publication in JUMP as an author 'Future Present From God'. Rare AF! I have my pristine copy. If you find yours, NEVER let go.",
-      "url": "https://nitter.net/ochimusha108/status/2044673572820615258#m",
-      "date": "Thu, 16 Apr 2026 07:05:42 GMT",
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGAh5r5bAAELGIT.jpg"
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
       ]
     },
     {
-      "id": "7411d2f45517918801da9fdb9cdcd9bff82cd4fa5c68b06eae7e7423fc28dd51",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "私も持ってます！ なかなかこの月刊少年ジャンプオリジナル1993年10月号って見かけないですよね？",
-      "text": "私も持ってます！ なかなかこの月刊少年ジャンプオリジナル1993年10月号って見かけないですよね？",
-      "url": "https://nitter.net/take_a_rock/status/2044719418203308125#m",
-      "date": "Thu, 16 Apr 2026 10:07:53 GMT",
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGBNd-kaAAAfBoz.jpg"
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     },
     {
-      "id": "d784911e21f981f3231ba69416b9421ca587cfe787df6849e2838a48ed75b3e0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「ONE PIECE / 魚人島の宴」ed. 20 2026年4月19日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Banquet at Fish-Man” ed.20 Now available through online lottery sale until April 19, 2026. mangaart.jp/ja/lotteries/o… #尾",
-      "text": "「ONE PIECE / 魚人島の宴」ed. 20 2026年4月19日(日)まで、オンライン抽選販売。 Eiichiro Oda “ONE PIECE / Banquet at Fish-Man” ed.20 Now available through online lottery sale until April 19, 2026. mangaart.jp/ja/lotteries/o… #尾田栄一郎 #ONEPIECE #mangaart #ShueishaMangaArtHeritage #集英社マンガアートヘリテージトーキョーギャラリー",
-      "url": "https://nitter.net/MangaartJ/status/2044683446736634215#m",
-      "date": "Thu, 16 Apr 2026 07:44:56 GMT",
+      "id": "6d2255f058daa7f19e18d76e60841bd2a4fd3d9204bf311a50d39af2633b1bda",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705085880697089#m",
+      "date": "Thu, 16 Apr 2026 09:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGAswZFbMAARCjY.jpg",
-        "https://nitter.net/pic/media%2FHGAswY4aUAARyJG.jpg",
-        "https://nitter.net/pic/media%2FHGAswY-agAAENhZ.jpg",
-        "https://nitter.net/pic/media%2FHGAswY6aYAAMDwI.jpg"
+        "https://nitter.net/pic/media%2FHGBAcKHa4AAbwRp.jpg"
       ]
     },
     {
-      "id": "6ec64eb82ce48cfe4cca0031c7797666b2a7b180f4e56658de7cd3eb1db566c7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The return of a legend The NEOGEO AES+ launches November 12, 2026 🎮✨ Now featuring HDMI output, high score saving, and more— all while preserving the essence of the original. Launching alongside 10 c",
-      "text": "The return of a legend The NEOGEO AES+ launches November 12, 2026 🎮✨ Now featuring HDMI output, high score saving, and more— all while preserving the essence of the original. Launching alongside 10 classic NEOGEO AES cartridges 📦 🔽 Pre-order here 🔽 plaionreplai.com/neogeo #NEOGEO #SNK Video",
-      "url": "https://nitter.net/NEOGEO_EN/status/2044793460000223601#m",
-      "date": "Thu, 16 Apr 2026 15:02:05 GMT",
+      "id": "1460278a5e686c2fe31e864482da91baeaef4fd9c3be172581b6d89d99e3312d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705054993916260#m",
+      "date": "Thu, 16 Apr 2026 09:10:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2044793314206224384%2Fimg%2FqoYwVXdGrGu_Qu-h.jpg"
+        "https://nitter.net/pic/media%2FHGBAaUbaUAAVDiy.png"
+      ]
+    },
+    {
+      "id": "f3c366a787e33933f7ac06b2cdce3a36f71424fe9d44f7411c79f6ff4dc243b6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "text": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "url": "https://nitter.net/OkizemeSD/status/2044667453515428351#m",
+      "date": "Thu, 16 Apr 2026 06:41:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
+      ]
+    },
+    {
+      "id": "aa297eea8a59aef1e392405aba23f3987ebeb9e5cc8a9751e15821f5c8b93afa",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "text": "THE ANIMATOR #ONEPIECE〜 d0nut2x (@d0nut2x) ONE PIECE ELBAPH ARC NEW OPENING Video — https://nitter.net/d0nut2x/status/2043333538544488946#m",
+      "url": "https://nitter.net/PacemanOP/status/2043337889141162494#m",
+      "date": "Sun, 12 Apr 2026 14:38:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043333323661930496%2Fimg%2FXjD856Y14yYzVsPm.jpg"
       ]
     },
     {
@@ -756,36 +782,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGBVguwXgAAQQj3.jpg"
-      ]
-    },
-    {
-      "id": "e807b0ff38940033401d6265cb0f2dec84c079b90f10fedbe4ee25f48691a21b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2044651703639687468#m",
-      "date": "Thu, 16 Apr 2026 05:38:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAP4mWWsAARnJw.jpg"
-      ]
-    },
-    {
-      "id": "652314894c3e0c6633d63781e17acb10af000fc391e31693bdd141181c23360f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2044522486516130164#m",
-      "date": "Wed, 15 Apr 2026 21:05:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF-aXQxbEAA0N2N.jpg"
       ]
     }
   ]
