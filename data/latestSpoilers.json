@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T09:50:32.776Z",
+  "generatedAt": "2026-04-17T10:50:47.096Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,36 +33,6 @@
       ]
     },
     {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
       "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -90,6 +60,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     }
   ],
@@ -252,98 +252,63 @@
       ]
     },
     {
-      "id": "fd1108e79bf88e714347184d1edb4e46fc5e749c299222740999453009f6c2b2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ポケモンカードゲームの新商品、拡張パック「アビスアイ」が5月22日（金）に発売！ メガダークライexが登場するよ。 ぜひチェックしてね。 pokemon-card.com/ex/m5/ #ポケカ #ポケモンカードゲームMEGA Video",
-      "text": "ポケモンカードゲームの新商品、拡張パック「アビスアイ」が5月22日（金）に発売！ メガダークライexが登場するよ。 ぜひチェックしてね。 pokemon-card.com/ex/m5/ #ポケカ #ポケモンカードゲームMEGA Video",
-      "url": "https://nitter.net/Pokemon_cojp/status/2045064723519897695#m",
-      "date": "Fri, 17 Apr 2026 09:00:00 GMT",
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2044779316941111297%2Fimg%2FrXatIlz4rcIWA8ud.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "7c2b79606c7cdc8cf176f4511fc16d6dae92dc13f728dd09fba1e6249a3adfbd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "青山剛昌先生が池袋会場にご来店！ 壁にイラストを描いていただきました！ 【東京／グランドスケープ池袋】会場にて貴重なイラストを本日からご覧いただけます。 ※設置場所の都合上、飲食利用のお客様に限りご覧いただけます。 conan-cafe.jp #名探偵コナンカフェ",
-      "text": "青山剛昌先生が池袋会場にご来店！ 壁にイラストを描いていただきました！ 【東京／グランドスケープ池袋】会場にて貴重なイラストを本日からご覧いただけます。 ※設置場所の都合上、飲食利用のお客様に限りご覧いただけます。 conan-cafe.jp #名探偵コナンカフェ",
-      "url": "https://nitter.net/CONAN_CAFE_2026/status/2044974138243051730#m",
-      "date": "Fri, 17 Apr 2026 03:00:02 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGEYY2JasAE-XfA.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
-      "id": "a0a7af5777204fc5550663552ace00a3191a50ddb1ffe31b7392d37a02b7ad43",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "⚠️ネタバレを含みます⚠️ 来週4.20(月)発売 週刊少年ジャンプ21号に掲載！ 『ONE PIECE』第1180話を #ONEPIECEBASE アプリでもチョイ見せ！ ▼今すぐ見る bnent.jp/opbase #ONEPIECE #今週のワンピ #大海賊時間",
-      "text": "⚠️ネタバレを含みます⚠️ 来週4.20(月)発売 週刊少年ジャンプ21号に掲載！ 『ONE PIECE』第1180話を #ONEPIECEBASE アプリでもチョイ見せ！ ▼今すぐ見る bnent.jp/opbase #ONEPIECE #今週のワンピ #大海賊時間",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2044975452486537530#m",
-      "date": "Fri, 17 Apr 2026 03:05:16 GMT",
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGE2VdgbkAAWeGx.jpg"
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
       ]
     },
     {
-      "id": "7d7ad6d0a159de45fcb171e46ced27e92f54bf5040a2ad032992b5cf2772b645",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【今週の新商品】 TVアニメ『ONE PIECE』より 「S.H.Figuarts モンキー・D・ルフィ -マリンフォード頂上決戦-」が 一般店頭にて4月18日(土)新発売！ 📋商品詳細→ tamashiiweb.com/item/15492/ オプションパーツとして「泣き顔」が付属し、劇中の印象的なシーンを再現！ #t_shf #ONEPIECE #ワンピアーツ",
-      "text": "【今週の新商品】 TVアニメ『ONE PIECE』より 「S.H.Figuarts モンキー・D・ルフィ -マリンフォード頂上決戦-」が 一般店頭にて4月18日(土)新発売！ 📋商品詳細→ tamashiiweb.com/item/15492/ オプションパーツとして「泣き顔」が付属し、劇中の印象的なシーンを再現！ #t_shf #ONEPIECE #ワンピアーツ",
-      "url": "https://nitter.net/t_features/status/2044991764252233767#m",
-      "date": "Fri, 17 Apr 2026 04:10:05 GMT",
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGDzqAEbIAAByoH.jpg",
-        "https://nitter.net/pic/media%2FHGDzqmAbkAAX2i4.jpg",
-        "https://nitter.net/pic/media%2FHGDzrMwakAAPFsl.jpg"
-      ]
-    },
-    {
-      "id": "dfa6456720a406249c91df3021ecbc642d231582a2d319b838dfa5d0cc8c8520",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "先日、友人がイタリアであの車と遭遇したそうです。そう、1991年のアイルトン・セナのマクラーレンです。当時副編集長だった鳥嶋さんの企画ですが、車やメカを描く時の鳥山先生は本当にいきいきとして見えます。今頃、先生はセナとも再会しているのでしょうか😭",
-      "text": "先日、友人がイタリアであの車と遭遇したそうです。そう、1991年のアイルトン・セナのマクラーレンです。当時副編集長だった鳥嶋さんの企画ですが、車やメカを描く時の鳥山先生は本当にいきいきとして見えます。今頃、先生はセナとも再会しているのでしょうか😭",
-      "url": "https://nitter.net/NazChris_dj/status/2044946136793059416#m",
-      "date": "Fri, 17 Apr 2026 01:08:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGEbrAmaoAAhbUd.jpg",
-        "https://nitter.net/pic/media%2FHGEbrAYbAAA954l.jpg",
-        "https://nitter.net/pic/media%2FHGEbrAbaMAA9dNC.jpg",
-        "https://nitter.net/pic/media%2FHGEbrAYacAAukfo.jpg"
-      ]
-    },
-    {
-      "id": "10e80cc767f1d10f526a18815707c27c283b379be0a9214812acc307776343f9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "This is a great find and for a remarkable price. This is the interview where everyone grabbed that goofy pic of him that plagued thumbnails for a few years. jp.mercari.com/item/m9429820…",
-      "text": "This is a great find and for a remarkable price. This is the interview where everyone grabbed that goofy pic of him that plagued thumbnails for a few years. jp.mercari.com/item/m9429820…",
-      "url": "https://nitter.net/ochimusha108/status/2044921532879962473#m",
-      "date": "Thu, 16 Apr 2026 23:31:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2044921308585381889%2FSe9Hm38G%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     },
     {
@@ -439,36 +404,6 @@
       ]
     },
     {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
       "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -496,6 +431,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     },
     {
@@ -656,98 +621,63 @@
       ]
     },
     {
-      "id": "fd1108e79bf88e714347184d1edb4e46fc5e749c299222740999453009f6c2b2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ポケモンカードゲームの新商品、拡張パック「アビスアイ」が5月22日（金）に発売！ メガダークライexが登場するよ。 ぜひチェックしてね。 pokemon-card.com/ex/m5/ #ポケカ #ポケモンカードゲームMEGA Video",
-      "text": "ポケモンカードゲームの新商品、拡張パック「アビスアイ」が5月22日（金）に発売！ メガダークライexが登場するよ。 ぜひチェックしてね。 pokemon-card.com/ex/m5/ #ポケカ #ポケモンカードゲームMEGA Video",
-      "url": "https://nitter.net/Pokemon_cojp/status/2045064723519897695#m",
-      "date": "Fri, 17 Apr 2026 09:00:00 GMT",
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2044779316941111297%2Fimg%2FrXatIlz4rcIWA8ud.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "7c2b79606c7cdc8cf176f4511fc16d6dae92dc13f728dd09fba1e6249a3adfbd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "青山剛昌先生が池袋会場にご来店！ 壁にイラストを描いていただきました！ 【東京／グランドスケープ池袋】会場にて貴重なイラストを本日からご覧いただけます。 ※設置場所の都合上、飲食利用のお客様に限りご覧いただけます。 conan-cafe.jp #名探偵コナンカフェ",
-      "text": "青山剛昌先生が池袋会場にご来店！ 壁にイラストを描いていただきました！ 【東京／グランドスケープ池袋】会場にて貴重なイラストを本日からご覧いただけます。 ※設置場所の都合上、飲食利用のお客様に限りご覧いただけます。 conan-cafe.jp #名探偵コナンカフェ",
-      "url": "https://nitter.net/CONAN_CAFE_2026/status/2044974138243051730#m",
-      "date": "Fri, 17 Apr 2026 03:00:02 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGEYY2JasAE-XfA.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
-      "id": "a0a7af5777204fc5550663552ace00a3191a50ddb1ffe31b7392d37a02b7ad43",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "⚠️ネタバレを含みます⚠️ 来週4.20(月)発売 週刊少年ジャンプ21号に掲載！ 『ONE PIECE』第1180話を #ONEPIECEBASE アプリでもチョイ見せ！ ▼今すぐ見る bnent.jp/opbase #ONEPIECE #今週のワンピ #大海賊時間",
-      "text": "⚠️ネタバレを含みます⚠️ 来週4.20(月)発売 週刊少年ジャンプ21号に掲載！ 『ONE PIECE』第1180話を #ONEPIECEBASE アプリでもチョイ見せ！ ▼今すぐ見る bnent.jp/opbase #ONEPIECE #今週のワンピ #大海賊時間",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2044975452486537530#m",
-      "date": "Fri, 17 Apr 2026 03:05:16 GMT",
+      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
+      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGE2VdgbkAAWeGx.jpg"
+        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
       ]
     },
     {
-      "id": "7d7ad6d0a159de45fcb171e46ced27e92f54bf5040a2ad032992b5cf2772b645",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【今週の新商品】 TVアニメ『ONE PIECE』より 「S.H.Figuarts モンキー・D・ルフィ -マリンフォード頂上決戦-」が 一般店頭にて4月18日(土)新発売！ 📋商品詳細→ tamashiiweb.com/item/15492/ オプションパーツとして「泣き顔」が付属し、劇中の印象的なシーンを再現！ #t_shf #ONEPIECE #ワンピアーツ",
-      "text": "【今週の新商品】 TVアニメ『ONE PIECE』より 「S.H.Figuarts モンキー・D・ルフィ -マリンフォード頂上決戦-」が 一般店頭にて4月18日(土)新発売！ 📋商品詳細→ tamashiiweb.com/item/15492/ オプションパーツとして「泣き顔」が付属し、劇中の印象的なシーンを再現！ #t_shf #ONEPIECE #ワンピアーツ",
-      "url": "https://nitter.net/t_features/status/2044991764252233767#m",
-      "date": "Fri, 17 Apr 2026 04:10:05 GMT",
+      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
+      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGDzqAEbIAAByoH.jpg",
-        "https://nitter.net/pic/media%2FHGDzqmAbkAAX2i4.jpg",
-        "https://nitter.net/pic/media%2FHGDzrMwakAAPFsl.jpg"
-      ]
-    },
-    {
-      "id": "dfa6456720a406249c91df3021ecbc642d231582a2d319b838dfa5d0cc8c8520",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "先日、友人がイタリアであの車と遭遇したそうです。そう、1991年のアイルトン・セナのマクラーレンです。当時副編集長だった鳥嶋さんの企画ですが、車やメカを描く時の鳥山先生は本当にいきいきとして見えます。今頃、先生はセナとも再会しているのでしょうか😭",
-      "text": "先日、友人がイタリアであの車と遭遇したそうです。そう、1991年のアイルトン・セナのマクラーレンです。当時副編集長だった鳥嶋さんの企画ですが、車やメカを描く時の鳥山先生は本当にいきいきとして見えます。今頃、先生はセナとも再会しているのでしょうか😭",
-      "url": "https://nitter.net/NazChris_dj/status/2044946136793059416#m",
-      "date": "Fri, 17 Apr 2026 01:08:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGEbrAmaoAAhbUd.jpg",
-        "https://nitter.net/pic/media%2FHGEbrAYbAAA954l.jpg",
-        "https://nitter.net/pic/media%2FHGEbrAbaMAA9dNC.jpg",
-        "https://nitter.net/pic/media%2FHGEbrAYacAAukfo.jpg"
-      ]
-    },
-    {
-      "id": "10e80cc767f1d10f526a18815707c27c283b379be0a9214812acc307776343f9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "This is a great find and for a remarkable price. This is the interview where everyone grabbed that goofy pic of him that plagued thumbnails for a few years. jp.mercari.com/item/m9429820…",
-      "text": "This is a great find and for a remarkable price. This is the interview where everyone grabbed that goofy pic of him that plagued thumbnails for a few years. jp.mercari.com/item/m9429820…",
-      "url": "https://nitter.net/ochimusha108/status/2044921532879962473#m",
-      "date": "Thu, 16 Apr 2026 23:31:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2044921308585381889%2FSe9Hm38G%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     },
     {
