@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T14:09:21.207Z",
+  "generatedAt": "2026-04-17T15:32:40.478Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -15,51 +15,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
-      ]
-    },
-    {
-      "id": "6527fdd94b273a54efdfbbe45aec1a18b6f06ada832c2a6310ab1ea3446bfe68",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 This panel is so well drawn and insane!! I can't wait to see Chapter 1181. What do you all expect to happen in the next chapter?",
-      "text": "#ONEPIECE1180 This panel is so well drawn and insane!! I can't wait to see Chapter 1181. What do you all expect to happen in the next chapter?",
-      "url": "https://nitter.net/WorstGenHQ/status/2045032007671890353#m",
-      "date": "Fri, 17 Apr 2026 06:50:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGFpcuoWcAAxcUs.jpg"
-      ]
-    },
-    {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     },
     {
@@ -90,6 +45,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     }
   ],
@@ -171,84 +156,155 @@
       ]
     },
     {
-      "id": "8d6b3af135a937244848bf1f01e550d83821df268dcb0490ca31057f79b7fe65",
+      "id": "26216b227598a2db843ef3421fd91e22369b503f12c850e8e81f9d4f0cfa92ad",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 How Imu was moving this chapter...",
-      "text": "#ONEPIECE1180 How Imu was moving this chapter...",
-      "url": "https://nitter.net/WorstGenHQ/status/2045141911535554576#m",
-      "date": "Fri, 17 Apr 2026 14:06:43 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “BARTOLOMEO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “BARTOLOMEO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2045162051274699263#m",
+      "date": "Fri, 17 Apr 2026 15:26:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGHNuydXoAAlTyT.jpg"
+        "https://nitter.net/pic/card_img%2F2044072678735392769%2FMNSqvEJa%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
-      "id": "39bd12798d7b48481f752bc0973887836bf9d4aa4f2d352de30db699d4796b2e",
+      "id": "44e853047640b89a96cb77accde110ee60ce85bfdf411caf393ee56c2a16344e",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180",
-      "text": "#ONEPIECE1180",
-      "url": "https://nitter.net/Toadgashi/status/2045129070027890787#m",
-      "date": "Fri, 17 Apr 2026 13:15:41 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと39日】 本日の作品はこちら！ ／ 思わずツッコんでしまった方も多かったのではないでしょうか👀 ＼",
+      "text": "【#DQ40th まであと39日】 本日の作品はこちら！ ／ 思わずツッコんでしまった方も多かったのではないでしょうか👀 ＼",
+      "url": "https://nitter.net/DQ_PR/status/2045155431434322352#m",
+      "date": "Fri, 17 Apr 2026 15:00:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGHCDSgWwAAT42H.jpg"
+        "https://nitter.net/pic/media%2FHGHaA5TbIAAwEX4.jpg"
       ]
     },
     {
-      "id": "955bb1fb4a93cda4eb881fb95e69077c687b531dd6d9d838ae46bd0632c35fcc",
+      "id": "695d106c153f9904552ab04cedd7c97a172ec0b72a31cfae457063299de91ff1",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Real one, I hope people understand it was a sarcasm lol. Using Ai to scale this is the reason why we get panels like what we got above.😂",
-      "text": "Real one, I hope people understand it was a sarcasm lol. Using Ai to scale this is the reason why we get panels like what we got above.😂",
-      "url": "https://nitter.net/WorstGenHQ/status/2045093255109329050#m",
-      "date": "Fri, 17 Apr 2026 10:53:22 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Con “Tales of Berseria Remastered” completo la colección de “Tales of” que han salido en Nintendo Swicth. Y ahora tocaría empezar con los “Tales of” de Swicth 2, pero viendo que “Tales of Arise” saldr",
+      "text": "Con “Tales of Berseria Remastered” completo la colección de “Tales of” que han salido en Nintendo Swicth. Y ahora tocaría empezar con los “Tales of” de Swicth 2, pero viendo que “Tales of Arise” saldrá en una Game-Key Card de mierda, me temo que la colección va a ser corta 😡😡😡 Sergio (redon) (@Mugiwara_23) ¡¡Terminamos la semana con un nuevo videojuego para la colección 🎮!! 9 años después del lanzamiento del juego original, hoy tenemos la versión Remastered de “Tales of Berseria” para Nintendo Switch 😍😍😍 Me ha salido por unos 34€ en el día sin IVA de Mediamarkt, gran precio 😁 — https://nitter.net/Mugiwara_23/status/2045120590554489244#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2045123563397538199#m",
+      "date": "Fri, 17 Apr 2026 12:53:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGGhUyzW4AA9Ua2.png"
+        "https://nitter.net/pic/media%2FHGG8pihXgAASb5S.jpg",
+        "https://nitter.net/pic/media%2FHGG4fAOXUAEnt3n.jpg",
+        "https://nitter.net/pic/media%2FHGG4fAybYAAYy2J.jpg"
       ]
     },
     {
-      "id": "aaa3bc18e24c7a908198bae6ea1fffb9842a624a5efa152636fe37c2309b1c51",
+      "id": "9ad62f031501ccdee19551eb6b1f9812ae5be5f1b17c4e6904cbb065fa4b7b75",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 How the Heaven Realm will teach us the tie between Alabasta and Water 7 Three Skulls Theories Archive (@TypicalJAnt) It's also worth noting that Alabasta and Water 7, both with their sim",
-      "text": "#ONEPIECE1180 How the Heaven Realm will teach us the tie between Alabasta and Water 7 Three Skulls Theories Archive (@TypicalJAnt) It's also worth noting that Alabasta and Water 7, both with their similar lay outs. Sit either side of Skypiea. Which is where Robin first learned about Poseidon. This may be relevant to the prophecy. — https://nitter.net/TypicalJAnt/status/1405892216376156164#m",
-      "url": "https://nitter.net/yahweh_theories/status/2044921323416129679#m",
-      "date": "Thu, 16 Apr 2026 23:30:10 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Aunque han tardado en enviarla y casi no llega, terminamos la semana con \"Tales of Berseria - Collector's Edition\". ¡¡Brutal!! 😍😍😍 @TalesofU",
+      "text": "Aunque han tardado en enviarla y casi no llega, terminamos la semana con \"Tales of Berseria - Collector's Edition\". ¡¡Brutal!! 😍😍😍 @TalesofU",
+      "url": "https://nitter.net/Mugiwara_23/status/825005330316791809#m",
+      "date": "Fri, 27 Jan 2017 15:39:33 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGEFF9xWsAA-LTn.png",
-        "https://nitter.net/pic/media%2FE4K7QSzWYAo1MNt.png",
-        "https://nitter.net/pic/media%2FE4K7YdYWYAIE7bm.jpg",
-        "https://nitter.net/pic/media%2FE4K7d3bXIAA4moE.png"
+        "https://nitter.net/pic/media%2FC3MBul6XAAApNEV.jpg"
       ]
     },
     {
-      "id": "f31682c8179898490cea065ceca759aec5d04d37974bc79115f181cbd1f8cbea",
+      "id": "8d0d2e75d4923d3cd319769ed3a5ef5e97cbbad82e897731e7a000c074b0d06f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Well well well... Literally predicted this shit right away weeks ago. I knew Imu was going to get a huge hype chapter, so he'll stop at nothing to use it as a hypetool. WorstGenHQ (@Wors",
-      "text": "#ONEPIECE1180 Well well well... Literally predicted this shit right away weeks ago. I knew Imu was going to get a huge hype chapter, so he'll stop at nothing to use it as a hypetool. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 No disrespect, but pray to God that neither Sanji nor Zoro are the first to encounter Imu, believe me, you don't want that... This could really turn into a scenario like the one we saw against Enel... — https://nitter.net/WorstGenHQ/status/2039020387862712753#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2045064039873606039#m",
-      "date": "Fri, 17 Apr 2026 08:57:17 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Terminamos la semana con un nuevo videojuego para la colección 🎮!! 9 años después del lanzamiento del juego original, hoy tenemos la versión Remastered de “Tales of Berseria” para Nintendo Switch \ud83d",
+      "text": "¡¡Terminamos la semana con un nuevo videojuego para la colección 🎮!! 9 años después del lanzamiento del juego original, hoy tenemos la versión Remastered de “Tales of Berseria” para Nintendo Switch 😍😍😍 Me ha salido por unos 34€ en el día sin IVA de Mediamarkt, gran precio 😁 Sergio (redon) (@Mugiwara_23) Aunque han tardado en enviarla y casi no llega, terminamos la semana con \"Tales of Berseria - Collector's Edition\". ¡¡Brutal!! 😍😍😍 @TalesofU — https://nitter.net/Mugiwara_23/status/825005330316791809#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2045120590554489244#m",
+      "date": "Fri, 17 Apr 2026 12:41:59 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGGGxRpXEAAum8r.jpg",
-        "https://nitter.net/pic/media%2FHGGG0joWsAAWWVr.jpg",
-        "https://nitter.net/pic/media%2FHEwOK_jbMAUcops.jpg",
-        "https://nitter.net/pic/media%2FHEwOMM-bMAE4fUF.png"
+        "https://nitter.net/pic/media%2FHGG4fAOXUAEnt3n.jpg",
+        "https://nitter.net/pic/media%2FHGG4fAybYAAYy2J.jpg",
+        "https://nitter.net/pic/media%2FC3MBul6XAAApNEV.jpg"
+      ]
+    },
+    {
+      "id": "4b031a7efe19f3e3ce6c0fe684b636ae90fb5dce71100647e54bb532e7d24756",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Explora más allá de los límites y lucha por la humanidad. Ya está disponible la versión en formato físico de #XenobladeChronicles X: Definitive Edition – #NintendoSwitch2 Edition.",
+      "text": "Explora más allá de los límites y lucha por la humanidad. Ya está disponible la versión en formato físico de #XenobladeChronicles X: Definitive Edition – #NintendoSwitch2 Edition.",
+      "url": "https://nitter.net/NintendoES/status/2045079825111519629#m",
+      "date": "Fri, 17 Apr 2026 10:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGGCjknW0AAZmTe.jpg"
+      ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
+    },
+    {
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+      ]
+    },
+    {
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
@@ -310,66 +366,6 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
       ]
-    },
-    {
-      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
-      ]
-    },
-    {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
-      ]
-    },
-    {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
-      ]
-    },
-    {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
-      ]
     }
   ],
   "items": [
@@ -386,51 +382,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
-      ]
-    },
-    {
-      "id": "6527fdd94b273a54efdfbbe45aec1a18b6f06ada832c2a6310ab1ea3446bfe68",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 This panel is so well drawn and insane!! I can't wait to see Chapter 1181. What do you all expect to happen in the next chapter?",
-      "text": "#ONEPIECE1180 This panel is so well drawn and insane!! I can't wait to see Chapter 1181. What do you all expect to happen in the next chapter?",
-      "url": "https://nitter.net/WorstGenHQ/status/2045032007671890353#m",
-      "date": "Fri, 17 Apr 2026 06:50:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGFpcuoWcAAxcUs.jpg"
-      ]
-    },
-    {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     },
     {
@@ -461,6 +412,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     },
     {
@@ -540,84 +521,155 @@
       ]
     },
     {
-      "id": "8d6b3af135a937244848bf1f01e550d83821df268dcb0490ca31057f79b7fe65",
+      "id": "26216b227598a2db843ef3421fd91e22369b503f12c850e8e81f9d4f0cfa92ad",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 How Imu was moving this chapter...",
-      "text": "#ONEPIECE1180 How Imu was moving this chapter...",
-      "url": "https://nitter.net/WorstGenHQ/status/2045141911535554576#m",
-      "date": "Fri, 17 Apr 2026 14:06:43 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “BARTOLOMEO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “BARTOLOMEO”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2045162051274699263#m",
+      "date": "Fri, 17 Apr 2026 15:26:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGHNuydXoAAlTyT.jpg"
+        "https://nitter.net/pic/card_img%2F2044072678735392769%2FMNSqvEJa%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
-      "id": "39bd12798d7b48481f752bc0973887836bf9d4aa4f2d352de30db699d4796b2e",
+      "id": "44e853047640b89a96cb77accde110ee60ce85bfdf411caf393ee56c2a16344e",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180",
-      "text": "#ONEPIECE1180",
-      "url": "https://nitter.net/Toadgashi/status/2045129070027890787#m",
-      "date": "Fri, 17 Apr 2026 13:15:41 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと39日】 本日の作品はこちら！ ／ 思わずツッコんでしまった方も多かったのではないでしょうか👀 ＼",
+      "text": "【#DQ40th まであと39日】 本日の作品はこちら！ ／ 思わずツッコんでしまった方も多かったのではないでしょうか👀 ＼",
+      "url": "https://nitter.net/DQ_PR/status/2045155431434322352#m",
+      "date": "Fri, 17 Apr 2026 15:00:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGHCDSgWwAAT42H.jpg"
+        "https://nitter.net/pic/media%2FHGHaA5TbIAAwEX4.jpg"
       ]
     },
     {
-      "id": "955bb1fb4a93cda4eb881fb95e69077c687b531dd6d9d838ae46bd0632c35fcc",
+      "id": "695d106c153f9904552ab04cedd7c97a172ec0b72a31cfae457063299de91ff1",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Real one, I hope people understand it was a sarcasm lol. Using Ai to scale this is the reason why we get panels like what we got above.😂",
-      "text": "Real one, I hope people understand it was a sarcasm lol. Using Ai to scale this is the reason why we get panels like what we got above.😂",
-      "url": "https://nitter.net/WorstGenHQ/status/2045093255109329050#m",
-      "date": "Fri, 17 Apr 2026 10:53:22 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Con “Tales of Berseria Remastered” completo la colección de “Tales of” que han salido en Nintendo Swicth. Y ahora tocaría empezar con los “Tales of” de Swicth 2, pero viendo que “Tales of Arise” saldr",
+      "text": "Con “Tales of Berseria Remastered” completo la colección de “Tales of” que han salido en Nintendo Swicth. Y ahora tocaría empezar con los “Tales of” de Swicth 2, pero viendo que “Tales of Arise” saldrá en una Game-Key Card de mierda, me temo que la colección va a ser corta 😡😡😡 Sergio (redon) (@Mugiwara_23) ¡¡Terminamos la semana con un nuevo videojuego para la colección 🎮!! 9 años después del lanzamiento del juego original, hoy tenemos la versión Remastered de “Tales of Berseria” para Nintendo Switch 😍😍😍 Me ha salido por unos 34€ en el día sin IVA de Mediamarkt, gran precio 😁 — https://nitter.net/Mugiwara_23/status/2045120590554489244#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2045123563397538199#m",
+      "date": "Fri, 17 Apr 2026 12:53:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGGhUyzW4AA9Ua2.png"
+        "https://nitter.net/pic/media%2FHGG8pihXgAASb5S.jpg",
+        "https://nitter.net/pic/media%2FHGG4fAOXUAEnt3n.jpg",
+        "https://nitter.net/pic/media%2FHGG4fAybYAAYy2J.jpg"
       ]
     },
     {
-      "id": "aaa3bc18e24c7a908198bae6ea1fffb9842a624a5efa152636fe37c2309b1c51",
+      "id": "9ad62f031501ccdee19551eb6b1f9812ae5be5f1b17c4e6904cbb065fa4b7b75",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 How the Heaven Realm will teach us the tie between Alabasta and Water 7 Three Skulls Theories Archive (@TypicalJAnt) It's also worth noting that Alabasta and Water 7, both with their sim",
-      "text": "#ONEPIECE1180 How the Heaven Realm will teach us the tie between Alabasta and Water 7 Three Skulls Theories Archive (@TypicalJAnt) It's also worth noting that Alabasta and Water 7, both with their similar lay outs. Sit either side of Skypiea. Which is where Robin first learned about Poseidon. This may be relevant to the prophecy. — https://nitter.net/TypicalJAnt/status/1405892216376156164#m",
-      "url": "https://nitter.net/yahweh_theories/status/2044921323416129679#m",
-      "date": "Thu, 16 Apr 2026 23:30:10 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Aunque han tardado en enviarla y casi no llega, terminamos la semana con \"Tales of Berseria - Collector's Edition\". ¡¡Brutal!! 😍😍😍 @TalesofU",
+      "text": "Aunque han tardado en enviarla y casi no llega, terminamos la semana con \"Tales of Berseria - Collector's Edition\". ¡¡Brutal!! 😍😍😍 @TalesofU",
+      "url": "https://nitter.net/Mugiwara_23/status/825005330316791809#m",
+      "date": "Fri, 27 Jan 2017 15:39:33 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGEFF9xWsAA-LTn.png",
-        "https://nitter.net/pic/media%2FE4K7QSzWYAo1MNt.png",
-        "https://nitter.net/pic/media%2FE4K7YdYWYAIE7bm.jpg",
-        "https://nitter.net/pic/media%2FE4K7d3bXIAA4moE.png"
+        "https://nitter.net/pic/media%2FC3MBul6XAAApNEV.jpg"
       ]
     },
     {
-      "id": "f31682c8179898490cea065ceca759aec5d04d37974bc79115f181cbd1f8cbea",
+      "id": "8d0d2e75d4923d3cd319769ed3a5ef5e97cbbad82e897731e7a000c074b0d06f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1180 Well well well... Literally predicted this shit right away weeks ago. I knew Imu was going to get a huge hype chapter, so he'll stop at nothing to use it as a hypetool. WorstGenHQ (@Wors",
-      "text": "#ONEPIECE1180 Well well well... Literally predicted this shit right away weeks ago. I knew Imu was going to get a huge hype chapter, so he'll stop at nothing to use it as a hypetool. WorstGenHQ (@WorstGenHQ) #ONEPIECE1179 No disrespect, but pray to God that neither Sanji nor Zoro are the first to encounter Imu, believe me, you don't want that... This could really turn into a scenario like the one we saw against Enel... — https://nitter.net/WorstGenHQ/status/2039020387862712753#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2045064039873606039#m",
-      "date": "Fri, 17 Apr 2026 08:57:17 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Terminamos la semana con un nuevo videojuego para la colección 🎮!! 9 años después del lanzamiento del juego original, hoy tenemos la versión Remastered de “Tales of Berseria” para Nintendo Switch \ud83d",
+      "text": "¡¡Terminamos la semana con un nuevo videojuego para la colección 🎮!! 9 años después del lanzamiento del juego original, hoy tenemos la versión Remastered de “Tales of Berseria” para Nintendo Switch 😍😍😍 Me ha salido por unos 34€ en el día sin IVA de Mediamarkt, gran precio 😁 Sergio (redon) (@Mugiwara_23) Aunque han tardado en enviarla y casi no llega, terminamos la semana con \"Tales of Berseria - Collector's Edition\". ¡¡Brutal!! 😍😍😍 @TalesofU — https://nitter.net/Mugiwara_23/status/825005330316791809#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2045120590554489244#m",
+      "date": "Fri, 17 Apr 2026 12:41:59 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGGGxRpXEAAum8r.jpg",
-        "https://nitter.net/pic/media%2FHGGG0joWsAAWWVr.jpg",
-        "https://nitter.net/pic/media%2FHEwOK_jbMAUcops.jpg",
-        "https://nitter.net/pic/media%2FHEwOMM-bMAE4fUF.png"
+        "https://nitter.net/pic/media%2FHGG4fAOXUAEnt3n.jpg",
+        "https://nitter.net/pic/media%2FHGG4fAybYAAYy2J.jpg",
+        "https://nitter.net/pic/media%2FC3MBul6XAAApNEV.jpg"
+      ]
+    },
+    {
+      "id": "4b031a7efe19f3e3ce6c0fe684b636ae90fb5dce71100647e54bb532e7d24756",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Explora más allá de los límites y lucha por la humanidad. Ya está disponible la versión en formato físico de #XenobladeChronicles X: Definitive Edition – #NintendoSwitch2 Edition.",
+      "text": "Explora más allá de los límites y lucha por la humanidad. Ya está disponible la versión en formato físico de #XenobladeChronicles X: Definitive Edition – #NintendoSwitch2 Edition.",
+      "url": "https://nitter.net/NintendoES/status/2045079825111519629#m",
+      "date": "Fri, 17 Apr 2026 10:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGGCjknW0AAZmTe.jpg"
+      ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
+    },
+    {
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+      ]
+    },
+    {
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
@@ -678,66 +730,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
-      ]
-    },
-    {
-      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
-      ]
-    },
-    {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
-      ]
-    },
-    {
-      "id": "349372dff76a0c9e7bb058df3816f43774fd7c7b4ccd7bfa7ebdcc1caae44eaa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "text": "The earth is only relevant because Boruto exists #BORUTO DiscussingFilm (@DiscussingFilm) New look at Earth. (Source: Artemis II Crew) — https://nitter.net/DiscussingFilm/status/2040074025100079574#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2040410677316043104#m",
-      "date": "Sat, 04 Apr 2026 12:46:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE_MgsLaYAAU0L2.jpg"
-      ]
-    },
-    {
-      "id": "7a8819aac83eb91ebc00abefaf05e096b119050e988bb5088d7e41069d19e15a",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2039743145324224691#m",
-      "date": "Thu, 02 Apr 2026 16:33:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHE6fk8vX0AAuv6B.jpg"
       ]
     }
   ]
