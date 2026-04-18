@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T16:21:41.845Z",
+  "generatedAt": "2026-04-18T17:01:37.407Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -64,6 +64,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "a0013b4cfe11c25924c65e3e113c921b6ca95de33a7237de058eceb494da28fc",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE Rocks Pirates Colored version:",
+      "text": "#ONEPIECE Rocks Pirates Colored version:",
+      "url": "https://nitter.net/WorstGenHQ/status/2045541329321488706#m",
+      "date": "Sat, 18 Apr 2026 16:33:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGM4_jvWwAEL1AF.jpg"
+      ]
+    },
     {
       "id": "816c9fd7fc642eb7efdffbb3d2c40e40b6e53905abc3e2dc9be3dd1147b6e0dd",
       "anime": "onepiece",
@@ -138,21 +153,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGLHjnnWQAAKp9n.jpg",
         "https://nitter.net/pic/media%2FHGLHkyhasAA0pGR.png"
-      ]
-    },
-    {
-      "id": "439c5ae8fcc7edba7c157c805d7a81cb95b7652c3ad2fa21cec110e93f024a2d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Her takım kaderini kendisi belirler. Son anda maç kazanarak, kontrollü oyunla bir yere kadar gelirsin. Şampiyon olacaksan ilk yarı 3 tane atıp, maçı erkenden alacaksın. Ancak atamıyorsun, çünkü santra",
-      "text": "Her takım kaderini kendisi belirler. Son anda maç kazanarak, kontrollü oyunla bir yere kadar gelirsin. Şampiyon olacaksan ilk yarı 3 tane atıp, maçı erkenden alacaksın. Ancak atamıyorsun, çünkü santraforun yok.. Maçı erkenden çözemiyorsan galipken oyunu bitirmeyi bileceksin. O da yok. Devre arasında takımı santraforsuz bırakıp, stoper ihtiyacı aleni iken stoper almayan yönetim ve teknik direktörle nasıl şampiyon olacaksın? Bir kongre üyesi olarak bir an önce Kongre tarihinin açıklanmasını bekliyorum. Gelecek seneyi de şimdiden kaybetmeyelim.",
-      "url": "https://nitter.net/eafyoncu/status/2045224636288540971#m",
-      "date": "Fri, 17 Apr 2026 19:35:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGIY9p7WgAAODO3.jpg"
       ]
     },
     {
@@ -422,6 +422,21 @@
       ]
     },
     {
+      "id": "a0013b4cfe11c25924c65e3e113c921b6ca95de33a7237de058eceb494da28fc",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE Rocks Pirates Colored version:",
+      "text": "#ONEPIECE Rocks Pirates Colored version:",
+      "url": "https://nitter.net/WorstGenHQ/status/2045541329321488706#m",
+      "date": "Sat, 18 Apr 2026 16:33:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGM4_jvWwAEL1AF.jpg"
+      ]
+    },
+    {
       "id": "816c9fd7fc642eb7efdffbb3d2c40e40b6e53905abc3e2dc9be3dd1147b6e0dd",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -495,21 +510,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGLHjnnWQAAKp9n.jpg",
         "https://nitter.net/pic/media%2FHGLHkyhasAA0pGR.png"
-      ]
-    },
-    {
-      "id": "439c5ae8fcc7edba7c157c805d7a81cb95b7652c3ad2fa21cec110e93f024a2d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Her takım kaderini kendisi belirler. Son anda maç kazanarak, kontrollü oyunla bir yere kadar gelirsin. Şampiyon olacaksan ilk yarı 3 tane atıp, maçı erkenden alacaksın. Ancak atamıyorsun, çünkü santra",
-      "text": "Her takım kaderini kendisi belirler. Son anda maç kazanarak, kontrollü oyunla bir yere kadar gelirsin. Şampiyon olacaksan ilk yarı 3 tane atıp, maçı erkenden alacaksın. Ancak atamıyorsun, çünkü santraforun yok.. Maçı erkenden çözemiyorsan galipken oyunu bitirmeyi bileceksin. O da yok. Devre arasında takımı santraforsuz bırakıp, stoper ihtiyacı aleni iken stoper almayan yönetim ve teknik direktörle nasıl şampiyon olacaksın? Bir kongre üyesi olarak bir an önce Kongre tarihinin açıklanmasını bekliyorum. Gelecek seneyi de şimdiden kaybetmeyelim.",
-      "url": "https://nitter.net/eafyoncu/status/2045224636288540971#m",
-      "date": "Fri, 17 Apr 2026 19:35:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGIY9p7WgAAODO3.jpg"
       ]
     },
     {
