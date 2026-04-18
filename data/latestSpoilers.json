@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-04-18T10:26:38.522Z",
+  "generatedAt": "2026-04-18T11:22:59.290Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "6dae04e0d9881215added20af47da25f6565f914b30c6dd5453a1cb77bb845f7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "First look at THE LEGEND OF ZELDA film official logo was leaked on IG by one of the stunt department members. 1st to post it on X: @YouPaidLando",
-      "text": "First look at THE LEGEND OF ZELDA film official logo was leaked on IG by one of the stunt department members. 1st to post it on X: @YouPaidLando",
-      "url": "https://nitter.net/GlobalBoxOffice/status/2045292894882308135#m",
-      "date": "Sat, 18 Apr 2026 00:06:40 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGJXDDZWEAE0bDH.jpg"
-      ]
-    },
     {
       "id": "22cfb5bfd399c173d52dccb90c63f7d012311ea9daf5691714dca612205b2e58",
       "anime": "onepiece",
@@ -30,36 +15,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
-      ]
-    },
-    {
-      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
-      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
-      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
-      ]
-    },
-    {
-      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
-      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
       ]
     },
     {
@@ -91,88 +46,113 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
+    },
+    {
+      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
+      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
+      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+      ]
+    },
+    {
+      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
+      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
     }
   ],
   "misc": [
     {
-      "id": "857c5ceb6bdd8be7b591ba1f12c059a9f55d794e6a1f4fffcd0315b8e1716b63",
+      "id": "3d7298ceb90fef6df21c0988718a0f16c9de5f57ac95ac66d6f0f4a308efa14c",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【TVアニメ #ONEPIECE 放送情報】 1158話「謎の国の探索(クエスト)！太陽神の秘密」は4/19(日)よる11:15放送！ ルフィ達が迷い込んだ ブロックの国の正体が明らかになる 原作1128話がアニメに!! ▼予告はこちら piped.video/uxK_-YKz9Vw #今週のアニワン #大海賊時間",
-      "text": "【TVアニメ #ONEPIECE 放送情報】 1158話「謎の国の探索(クエスト)！太陽神の秘密」は4/19(日)よる11:15放送！ ルフィ達が迷い込んだ ブロックの国の正体が明らかになる 原作1128話がアニメに!! ▼予告はこちら piped.video/uxK_-YKz9Vw #今週のアニワン #大海賊時間",
-      "url": "https://nitter.net/OPcom_info/status/2045336575463309418#m",
-      "date": "Sat, 18 Apr 2026 03:00:14 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
+      "text": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
+      "url": "https://nitter.net/pewpiece/status/2044776085716418782#m",
+      "date": "Thu, 16 Apr 2026 13:53:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGJ-xjobMAAoF1v.jpg"
+        "https://nitter.net/pic/media%2FHGB__DYaYAAklo0.jpg"
       ]
     },
     {
-      "id": "99948804ad0127d368d091c44a0f872ed8ce95dffa2da5cecc69e1188c32a12e",
+      "id": "4d9e0b3a99dbc23c1c2ef9670a9648e3ed0f3d0824b34905ff280cc2c0cf7bf8",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🔥コミックス34巻 書影公開🔥 『青の祓魔師』最新コミックス34巻は 来月5月1日(金)発売！ カバーは決意の表情を浮かべ魔法円に立つイゴール・ネイガウスが目印です！ 34巻もどうぞ、よろしくお願いします！ ⇒ s-manga.net/items/contents.h… #青エク",
-      "text": "🔥コミックス34巻 書影公開🔥 『青の祓魔師』最新コミックス34巻は 来月5月1日(金)発売！ カバーは決意の表情を浮かべ魔法円に立つイゴール・ネイガウスが目印です！ 34巻もどうぞ、よろしくお願いします！ ⇒ s-manga.net/items/contents.h… #青エク",
-      "url": "https://nitter.net/aoex_official/status/2045336529594196120#m",
-      "date": "Sat, 18 Apr 2026 03:00:03 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
+      "text": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2044461415465955513#m",
+      "date": "Wed, 15 Apr 2026 17:02:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFieFyVa4AA38qv.jpg"
+        "https://nitter.net/pic/media%2FHF9izhTXcAAOgad.png",
+        "https://nitter.net/pic/media%2FHF9i0GaaIAAzF8I.png"
       ]
     },
     {
-      "id": "2710102fd1aa66c1e9a820077812d22475a11b8593112db8617f306b9fde64f8",
+      "id": "ae5677cd781fb115bec05fe55320d26eaa1a6fbac398cd615b2f601da4a5b6c1",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The Dragon Ball Super: Super Hero Blu-ray booklet has been scanned in 4K quality and is now available on my Patreon — completely free to view. Here’s the link: patreon.com/posts/dragon-bal… I’d really",
-      "text": "The Dragon Ball Super: Super Hero Blu-ray booklet has been scanned in 4K quality and is now available on my Patreon — completely free to view. Here’s the link: patreon.com/posts/dragon-bal… I’d really appreciate it if you could share this post. And thank you so much to everyone who supports me on Patreon — I’ll be posting plenty of Dragon Ball and other anime content there",
-      "url": "https://nitter.net/Turo_db/status/2045250796896612418#m",
-      "date": "Fri, 17 Apr 2026 21:19:23 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
+      "text": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2044216544721547566#m",
+      "date": "Wed, 15 Apr 2026 00:49:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGIwwYHaAAAd_lS.jpg",
-        "https://nitter.net/pic/media%2FHGIwwX6akAAqvZH.jpg",
-        "https://nitter.net/pic/media%2FHGIwwXqXQAADVGf.jpg",
-        "https://nitter.net/pic/media%2FHGIwwX2bEAAbwHN.jpg"
+        "https://nitter.net/pic/media%2FHF6EG_mXQAAbI3i.jpg"
       ]
     },
     {
-      "id": "f5b2a77109851135fb215f22239d2965746057445db987d81f28e8672f8e0de5",
+      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "First look at Yowamushi Pedal Volume 100 cover! This marks the first time a Weekly Shonen Champion series reaches 100 volume mark, a major achievement for the weekly magazine that has been running sin",
-      "text": "First look at Yowamushi Pedal Volume 100 cover! This marks the first time a Weekly Shonen Champion series reaches 100 volume mark, a major achievement for the weekly magazine that has been running since 1969! Volume is releasing on May 8th!",
-      "url": "https://nitter.net/WSC_Comic/status/2045312768824185102#m",
-      "date": "Sat, 18 Apr 2026 01:25:38 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
+      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGJpH-XXAAAoz6a.jpg"
+        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
       ]
     },
     {
-      "id": "767af7d38d94c65e1636b2018da27a5fc6d582ea7ca3e27cb1bc35d0c9b14155",
+      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ワンピース ワーコレ MEGAワーコレ 【ゴッドバレー事件】 エドワード・ニューゲート クオリティ、ボリューム共に文句なし ロックス海賊団カッコイイ🏴‍☠️ ロックス海賊団で並べるとMEGAワーコレでもそんなに違和感がない (個人的感想) ※公式にステューシーはニューゲートに〝ちょこん〟しません。",
-      "text": "ワンピース ワーコレ MEGAワーコレ 【ゴッドバレー事件】 エドワード・ニューゲート クオリティ、ボリューム共に文句なし ロックス海賊団カッコイイ🏴‍☠️ ロックス海賊団で並べるとMEGAワーコレでもそんなに違和感がない (個人的感想) ※公式にステューシーはニューゲートに〝ちょこん〟しません。",
-      "url": "https://nitter.net/taiyounomotohe/status/2045397333307985953#m",
-      "date": "Sat, 18 Apr 2026 07:01:40 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece ending Video",
+      "text": "New onepiece ending Video",
+      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
+      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGK2COna8AApR8r.jpg",
-        "https://nitter.net/pic/media%2FHGK2COyaMAA2HJ4.jpg",
-        "https://nitter.net/pic/media%2FHGK2CQ1aAAA8aC_.jpg",
-        "https://nitter.net/pic/media%2FHGK2CQGbgAASbgw.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
       ]
     },
     {
@@ -267,93 +247,64 @@
       "attachments": []
     },
     {
-      "id": "3d7298ceb90fef6df21c0988718a0f16c9de5f57ac95ac66d6f0f4a308efa14c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
-      "text": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
-      "url": "https://nitter.net/pewpiece/status/2044776085716418782#m",
-      "date": "Thu, 16 Apr 2026 13:53:03 GMT",
+      "id": "854f4bad53a1df847d9e35ff5ad5c4184abe0f92d632fb27c7a6f26048c6b238",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "New \"Jump Press\" Hints 👀👀👀",
+      "text": "New \"Jump Press\" Hints 👀👀👀",
+      "url": "https://nitter.net/PacemanOP/status/2044847301538258962#m",
+      "date": "Thu, 16 Apr 2026 18:36:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGB__DYaYAAklo0.jpg"
+        "https://nitter.net/pic/media%2FHGDByMPbsAATU9l.jpg"
       ]
     },
     {
-      "id": "4d9e0b3a99dbc23c1c2ef9670a9648e3ed0f3d0824b34905ff280cc2c0cf7bf8",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
-      "text": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2044461415465955513#m",
-      "date": "Wed, 15 Apr 2026 17:02:40 GMT",
+      "id": "6d2255f058daa7f19e18d76e60841bd2a4fd3d9204bf311a50d39af2633b1bda",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705085880697089#m",
+      "date": "Thu, 16 Apr 2026 09:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF9izhTXcAAOgad.png",
-        "https://nitter.net/pic/media%2FHF9i0GaaIAAzF8I.png"
+        "https://nitter.net/pic/media%2FHGBAcKHa4AAbwRp.jpg"
       ]
     },
     {
-      "id": "ae5677cd781fb115bec05fe55320d26eaa1a6fbac398cd615b2f601da4a5b6c1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
-      "text": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
-      "url": "https://nitter.net/pewpiece/status/2044216544721547566#m",
-      "date": "Wed, 15 Apr 2026 00:49:38 GMT",
+      "id": "1460278a5e686c2fe31e864482da91baeaef4fd9c3be172581b6d89d99e3312d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705054993916260#m",
+      "date": "Thu, 16 Apr 2026 09:10:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF6EG_mXQAAbI3i.jpg"
+        "https://nitter.net/pic/media%2FHGBAaUbaUAAVDiy.png"
       ]
     },
     {
-      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
-      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
+      "id": "f3c366a787e33933f7ac06b2cdce3a36f71424fe9d44f7411c79f6ff4dc243b6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "text": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "url": "https://nitter.net/OkizemeSD/status/2044667453515428351#m",
+      "date": "Thu, 16 Apr 2026 06:41:23 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
       ]
-    },
-    {
-      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New onepiece ending Video",
-      "text": "New onepiece ending Video",
-      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
-      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
-      ]
-    },
-    {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
@@ -369,6 +320,19 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
@@ -403,21 +367,6 @@
   ],
   "items": [
     {
-      "id": "6dae04e0d9881215added20af47da25f6565f914b30c6dd5453a1cb77bb845f7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "First look at THE LEGEND OF ZELDA film official logo was leaked on IG by one of the stunt department members. 1st to post it on X: @YouPaidLando",
-      "text": "First look at THE LEGEND OF ZELDA film official logo was leaked on IG by one of the stunt department members. 1st to post it on X: @YouPaidLando",
-      "url": "https://nitter.net/GlobalBoxOffice/status/2045292894882308135#m",
-      "date": "Sat, 18 Apr 2026 00:06:40 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGJXDDZWEAE0bDH.jpg"
-      ]
-    },
-    {
       "id": "22cfb5bfd399c173d52dccb90c63f7d012311ea9daf5691714dca612205b2e58",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -430,36 +379,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHF4W3KtXoAAJmST.jpg"
-      ]
-    },
-    {
-      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
-      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
-      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
-      ]
-    },
-    {
-      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
-      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
       ]
     },
     {
@@ -493,84 +412,109 @@
       ]
     },
     {
-      "id": "857c5ceb6bdd8be7b591ba1f12c059a9f55d794e6a1f4fffcd0315b8e1716b63",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【TVアニメ #ONEPIECE 放送情報】 1158話「謎の国の探索(クエスト)！太陽神の秘密」は4/19(日)よる11:15放送！ ルフィ達が迷い込んだ ブロックの国の正体が明らかになる 原作1128話がアニメに!! ▼予告はこちら piped.video/uxK_-YKz9Vw #今週のアニワン #大海賊時間",
-      "text": "【TVアニメ #ONEPIECE 放送情報】 1158話「謎の国の探索(クエスト)！太陽神の秘密」は4/19(日)よる11:15放送！ ルフィ達が迷い込んだ ブロックの国の正体が明らかになる 原作1128話がアニメに!! ▼予告はこちら piped.video/uxK_-YKz9Vw #今週のアニワン #大海賊時間",
-      "url": "https://nitter.net/OPcom_info/status/2045336575463309418#m",
-      "date": "Sat, 18 Apr 2026 03:00:14 GMT",
-      "isSpoiler": false,
+      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
+      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
+      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGJ-xjobMAAoF1v.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "99948804ad0127d368d091c44a0f872ed8ce95dffa2da5cecc69e1188c32a12e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🔥コミックス34巻 書影公開🔥 『青の祓魔師』最新コミックス34巻は 来月5月1日(金)発売！ カバーは決意の表情を浮かべ魔法円に立つイゴール・ネイガウスが目印です！ 34巻もどうぞ、よろしくお願いします！ ⇒ s-manga.net/items/contents.h… #青エク",
-      "text": "🔥コミックス34巻 書影公開🔥 『青の祓魔師』最新コミックス34巻は 来月5月1日(金)発売！ カバーは決意の表情を浮かべ魔法円に立つイゴール・ネイガウスが目印です！ 34巻もどうぞ、よろしくお願いします！ ⇒ s-manga.net/items/contents.h… #青エク",
-      "url": "https://nitter.net/aoex_official/status/2045336529594196120#m",
-      "date": "Sat, 18 Apr 2026 03:00:03 GMT",
-      "isSpoiler": false,
+      "id": "5688acb5493bf04a11d506182d49baa254cad8a5f39136596b262d7f1ad1bb44",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "text": "Anime Community finally waking up and realizing that One Piece is ass and unfunny asf😭🙏🏼 One Piece Daily (@strawhats) Gear 5 Video — https://nitter.net/strawhats/status/2039011365457686680#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2041137815686197607#m",
+      "date": "Mon, 06 Apr 2026 12:55:52 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFieFyVa4AA38qv.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
       ]
     },
     {
-      "id": "2710102fd1aa66c1e9a820077812d22475a11b8593112db8617f306b9fde64f8",
+      "id": "3d7298ceb90fef6df21c0988718a0f16c9de5f57ac95ac66d6f0f4a308efa14c",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The Dragon Ball Super: Super Hero Blu-ray booklet has been scanned in 4K quality and is now available on my Patreon — completely free to view. Here’s the link: patreon.com/posts/dragon-bal… I’d really",
-      "text": "The Dragon Ball Super: Super Hero Blu-ray booklet has been scanned in 4K quality and is now available on my Patreon — completely free to view. Here’s the link: patreon.com/posts/dragon-bal… I’d really appreciate it if you could share this post. And thank you so much to everyone who supports me on Patreon — I’ll be posting plenty of Dragon Ball and other anime content there",
-      "url": "https://nitter.net/Turo_db/status/2045250796896612418#m",
-      "date": "Fri, 17 Apr 2026 21:19:23 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
+      "text": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
+      "url": "https://nitter.net/pewpiece/status/2044776085716418782#m",
+      "date": "Thu, 16 Apr 2026 13:53:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGIwwYHaAAAd_lS.jpg",
-        "https://nitter.net/pic/media%2FHGIwwX6akAAqvZH.jpg",
-        "https://nitter.net/pic/media%2FHGIwwXqXQAADVGf.jpg",
-        "https://nitter.net/pic/media%2FHGIwwX2bEAAbwHN.jpg"
+        "https://nitter.net/pic/media%2FHGB__DYaYAAklo0.jpg"
       ]
     },
     {
-      "id": "f5b2a77109851135fb215f22239d2965746057445db987d81f28e8672f8e0de5",
+      "id": "4d9e0b3a99dbc23c1c2ef9670a9648e3ed0f3d0824b34905ff280cc2c0cf7bf8",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "First look at Yowamushi Pedal Volume 100 cover! This marks the first time a Weekly Shonen Champion series reaches 100 volume mark, a major achievement for the weekly magazine that has been running sin",
-      "text": "First look at Yowamushi Pedal Volume 100 cover! This marks the first time a Weekly Shonen Champion series reaches 100 volume mark, a major achievement for the weekly magazine that has been running since 1969! Volume is releasing on May 8th!",
-      "url": "https://nitter.net/WSC_Comic/status/2045312768824185102#m",
-      "date": "Sat, 18 Apr 2026 01:25:38 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
+      "text": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2044461415465955513#m",
+      "date": "Wed, 15 Apr 2026 17:02:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGJpH-XXAAAoz6a.jpg"
+        "https://nitter.net/pic/media%2FHF9izhTXcAAOgad.png",
+        "https://nitter.net/pic/media%2FHF9i0GaaIAAzF8I.png"
       ]
     },
     {
-      "id": "767af7d38d94c65e1636b2018da27a5fc6d582ea7ca3e27cb1bc35d0c9b14155",
+      "id": "ae5677cd781fb115bec05fe55320d26eaa1a6fbac398cd615b2f601da4a5b6c1",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ワンピース ワーコレ MEGAワーコレ 【ゴッドバレー事件】 エドワード・ニューゲート クオリティ、ボリューム共に文句なし ロックス海賊団カッコイイ🏴‍☠️ ロックス海賊団で並べるとMEGAワーコレでもそんなに違和感がない (個人的感想) ※公式にステューシーはニューゲートに〝ちょこん〟しません。",
-      "text": "ワンピース ワーコレ MEGAワーコレ 【ゴッドバレー事件】 エドワード・ニューゲート クオリティ、ボリューム共に文句なし ロックス海賊団カッコイイ🏴‍☠️ ロックス海賊団で並べるとMEGAワーコレでもそんなに違和感がない (個人的感想) ※公式にステューシーはニューゲートに〝ちょこん〟しません。",
-      "url": "https://nitter.net/taiyounomotohe/status/2045397333307985953#m",
-      "date": "Sat, 18 Apr 2026 07:01:40 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
+      "text": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2044216544721547566#m",
+      "date": "Wed, 15 Apr 2026 00:49:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGK2COna8AApR8r.jpg",
-        "https://nitter.net/pic/media%2FHGK2COyaMAA2HJ4.jpg",
-        "https://nitter.net/pic/media%2FHGK2CQ1aAAA8aC_.jpg",
-        "https://nitter.net/pic/media%2FHGK2CQGbgAASbgw.jpg"
+        "https://nitter.net/pic/media%2FHF6EG_mXQAAbI3i.jpg"
+      ]
+    },
+    {
+      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
+      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
+      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+      ]
+    },
+    {
+      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New onepiece ending Video",
+      "text": "New onepiece ending Video",
+      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
+      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
       ]
     },
     {
@@ -665,93 +609,64 @@
       "attachments": []
     },
     {
-      "id": "3d7298ceb90fef6df21c0988718a0f16c9de5f57ac95ac66d6f0f4a308efa14c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
-      "text": "One Piece 2nd World Popularity Poll “Interim Results” will be announced on May 3rd!",
-      "url": "https://nitter.net/pewpiece/status/2044776085716418782#m",
-      "date": "Thu, 16 Apr 2026 13:53:03 GMT",
+      "id": "854f4bad53a1df847d9e35ff5ad5c4184abe0f92d632fb27c7a6f26048c6b238",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "New \"Jump Press\" Hints 👀👀👀",
+      "text": "New \"Jump Press\" Hints 👀👀👀",
+      "url": "https://nitter.net/PacemanOP/status/2044847301538258962#m",
+      "date": "Thu, 16 Apr 2026 18:36:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGB__DYaYAAklo0.jpg"
+        "https://nitter.net/pic/media%2FHGDByMPbsAATU9l.jpg"
       ]
     },
     {
-      "id": "4d9e0b3a99dbc23c1c2ef9670a9648e3ed0f3d0824b34905ff280cc2c0cf7bf8",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
-      "text": "#ONEPIECE1180 FULL SUMMARY FOR ONEPIECE CHAPTER 1180 (By : @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2044461415465955513#m",
-      "date": "Wed, 15 Apr 2026 17:02:40 GMT",
+      "id": "6d2255f058daa7f19e18d76e60841bd2a4fd3d9204bf311a50d39af2633b1bda",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 ends at chapter 205 Next Ep title - The Dawn of Computers #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705085880697089#m",
+      "date": "Thu, 16 Apr 2026 09:10:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF9izhTXcAAOgad.png",
-        "https://nitter.net/pic/media%2FHF9i0GaaIAAzF8I.png"
+        "https://nitter.net/pic/media%2FHGBAcKHa4AAbwRp.jpg"
       ]
     },
     {
-      "id": "ae5677cd781fb115bec05fe55320d26eaa1a6fbac398cd615b2f601da4a5b6c1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
-      "text": "#ONEPIECE1180 Question about Imu's size (From : @Mugiwara_23)",
-      "url": "https://nitter.net/pewpiece/status/2044216544721547566#m",
-      "date": "Wed, 15 Apr 2026 00:49:38 GMT",
+      "id": "1460278a5e686c2fe31e864482da91baeaef4fd9c3be172581b6d89d99e3312d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "text": "Dr Stone Final Season Cour 3 #3 full Staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2044705054993916260#m",
+      "date": "Thu, 16 Apr 2026 09:10:48 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF6EG_mXQAAbI3i.jpg"
+        "https://nitter.net/pic/media%2FHGBAaUbaUAAVDiy.png"
       ]
     },
     {
-      "id": "2a844dbf94338f0c710696e1df152f7a6ea2521fb9a5f1614cdb9ceffd838934",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "text": "Official 🚨🚨🚨 There will be no break next week after onepiece chapter 1180",
-      "url": "https://nitter.net/pewpiece/status/2043662424490844511#m",
-      "date": "Mon, 13 Apr 2026 12:07:46 GMT",
+      "id": "f3c366a787e33933f7ac06b2cdce3a36f71424fe9d44f7411c79f6ff4dc243b6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "text": "#SAKAMOTODAYS HOLY SMOKES!!! Video",
+      "url": "https://nitter.net/OkizemeSD/status/2044667453515428351#m",
+      "date": "Thu, 16 Apr 2026 06:41:23 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFyMI8RaAAA0lxL.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
       ]
-    },
-    {
-      "id": "88592b0286e8276e70d12106e633dc91659a75d09db8ca1b5896d5edd69cf7f9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New onepiece ending Video",
-      "text": "New onepiece ending Video",
-      "url": "https://nitter.net/pewpiece/status/2043341657584664681#m",
-      "date": "Sun, 12 Apr 2026 14:53:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2043341564315889664%2Fimg%2F25Plwl6rKndsaN_Y.jpg"
-      ]
-    },
-    {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
@@ -767,6 +682,19 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
