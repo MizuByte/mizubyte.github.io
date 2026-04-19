@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T22:06:14.074Z",
+  "generatedAt": "2026-04-19T22:59:07.585Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -119,8 +119,10 @@
       "url": "https://nitter.net/Mugiwara_23/status/2045901208699695422#m",
       "date": "Sun, 19 Apr 2026 16:23:53 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2042033319940874241%2FJF3Acotj%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "6323e71a4db4ec17d018bd79b3bb730d9e3e0ec12560ee3d5f36106dcf6d475c",
@@ -474,8 +476,10 @@
       "url": "https://nitter.net/Mugiwara_23/status/2045901208699695422#m",
       "date": "Sun, 19 Apr 2026 16:23:53 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2042033319940874241%2FJF3Acotj%3Fformat%3Djpg%26name%3D800x419"
+      ]
     },
     {
       "id": "6323e71a4db4ec17d018bd79b3bb730d9e3e0ec12560ee3d5f36106dcf6d475c",
