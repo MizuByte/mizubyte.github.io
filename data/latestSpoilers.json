@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T17:22:19.507Z",
+  "generatedAt": "2026-04-19T17:57:31.688Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,6 +65,32 @@
   ],
   "misc": [
     {
+      "id": "bd39fafd08a7933bb4049e01b0c7324ddf6464460aee016d908fbcaeeccf24c2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1181 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2045918790722920626#m",
+      "date": "Sun, 19 Apr 2026 17:33:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "cc89c46295e52144230beb090d226249ea69d78f0b2ca9a1cf787d2b441ee354",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bro Arsenal really lost, they fumbled it... 😭😭 2:1 losing against City...",
+      "text": "Bro Arsenal really lost, they fumbled it... 😭😭 2:1 losing against City...",
+      "url": "https://nitter.net/WorstGenHQ/status/2045917220300112325#m",
+      "date": "Sun, 19 Apr 2026 17:27:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "b69e9f4bcff938735678d7d28bf86c5442b9fbe76b9200d2bb885f0cc385ddfc",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -114,34 +140,6 @@
       "text": "City 1:0!!!!!! What a goal... Oh boy Arsenal...",
       "url": "https://nitter.net/WorstGenHQ/status/2045892089712349332#m",
       "date": "Sun, 19 Apr 2026 15:47:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bf9f04d56eed1a2b96910e820243b0eb653dfed332cc1eb590a6e665c0159cde",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gear 5 Luffy Video",
-      "text": "Gear 5 Luffy Video",
-      "url": "https://nitter.net/pewpiece/status/2045876283054096895#m",
-      "date": "Sun, 19 Apr 2026 14:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045873997473296384%2Fimg%2FcsyXpvSdEws1NC2P.jpg"
-      ]
-    },
-    {
-      "id": "febcf9eb60fbe9969d4c3ff125b37fe54f01cc406db05c9930b6ec6846610696",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "My opinion: I think Luffy also defeats them at the sametime. As example I have Kaido low diffing Sanji/Zoro in a 1on1 and I have current Luffy over Kaido. Since Luffy posses a god tier df, the stronge",
-      "text": "My opinion: I think Luffy also defeats them at the sametime. As example I have Kaido low diffing Sanji/Zoro in a 1on1 and I have current Luffy over Kaido. Since Luffy posses a god tier df, the strongest CoC, CoA and CoO in the crew, he stays beyond them from now. Luffy defeats both around mid-high diff and defeats them low diff. That is at least my view how I see it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2045863446441296077#m",
-      "date": "Sun, 19 Apr 2026 13:53:50 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -417,6 +415,32 @@
       ]
     },
     {
+      "id": "bd39fafd08a7933bb4049e01b0c7324ddf6464460aee016d908fbcaeeccf24c2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1181 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2045918790722920626#m",
+      "date": "Sun, 19 Apr 2026 17:33:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "cc89c46295e52144230beb090d226249ea69d78f0b2ca9a1cf787d2b441ee354",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bro Arsenal really lost, they fumbled it... 😭😭 2:1 losing against City...",
+      "text": "Bro Arsenal really lost, they fumbled it... 😭😭 2:1 losing against City...",
+      "url": "https://nitter.net/WorstGenHQ/status/2045917220300112325#m",
+      "date": "Sun, 19 Apr 2026 17:27:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "b69e9f4bcff938735678d7d28bf86c5442b9fbe76b9200d2bb885f0cc385ddfc",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -466,34 +490,6 @@
       "text": "City 1:0!!!!!! What a goal... Oh boy Arsenal...",
       "url": "https://nitter.net/WorstGenHQ/status/2045892089712349332#m",
       "date": "Sun, 19 Apr 2026 15:47:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bf9f04d56eed1a2b96910e820243b0eb653dfed332cc1eb590a6e665c0159cde",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gear 5 Luffy Video",
-      "text": "Gear 5 Luffy Video",
-      "url": "https://nitter.net/pewpiece/status/2045876283054096895#m",
-      "date": "Sun, 19 Apr 2026 14:44:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045873997473296384%2Fimg%2FcsyXpvSdEws1NC2P.jpg"
-      ]
-    },
-    {
-      "id": "febcf9eb60fbe9969d4c3ff125b37fe54f01cc406db05c9930b6ec6846610696",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "My opinion: I think Luffy also defeats them at the sametime. As example I have Kaido low diffing Sanji/Zoro in a 1on1 and I have current Luffy over Kaido. Since Luffy posses a god tier df, the stronge",
-      "text": "My opinion: I think Luffy also defeats them at the sametime. As example I have Kaido low diffing Sanji/Zoro in a 1on1 and I have current Luffy over Kaido. Since Luffy posses a god tier df, the strongest CoC, CoA and CoO in the crew, he stays beyond them from now. Luffy defeats both around mid-high diff and defeats them low diff. That is at least my view how I see it.",
-      "url": "https://nitter.net/WorstGenHQ/status/2045863446441296077#m",
-      "date": "Sun, 19 Apr 2026 13:53:50 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
