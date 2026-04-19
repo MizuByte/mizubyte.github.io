@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-04-19T21:38:00.598Z",
+  "generatedAt": "2026-04-19T22:06:14.074Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
     {
       "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
       "anime": "boruto",
@@ -60,6 +30,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     }
   ],
@@ -119,10 +119,8 @@
       "url": "https://nitter.net/Mugiwara_23/status/2045901208699695422#m",
       "date": "Sun, 19 Apr 2026 16:23:53 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2042033319940874241%2FJF3Acotj%3Fformat%3Djpg%26name%3D800x419"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "6323e71a4db4ec17d018bd79b3bb730d9e3e0ec12560ee3d5f36106dcf6d475c",
@@ -151,98 +149,61 @@
       "attachments": []
     },
     {
-      "id": "dd7d4887136484d38558b3e31b244737a8f42bc38df019e2c7fac52572432f87",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ 「ドラゴンボール ゼノバース３ 」 2027年 発売決定 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ PlayStation®5 / Xbox Series X|S / STEAM®にて 「#ドラゴンボールゼノバース３ 」2027年発売決定！ #DBXV3 #ドラゴンボール Video",
-      "text": "◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ 「ドラゴンボール ゼノバース３ 」 2027年 発売決定 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ PlayStation®5 / Xbox Series X|S / STEAM®にて 「#ドラゴンボールゼノバース３ 」2027年発売決定！ #DBXV3 #ドラゴンボール Video",
-      "url": "https://nitter.net/dbgame_official/status/2045967165409697954#m",
-      "date": "Sun, 19 Apr 2026 20:45:59 GMT",
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045966828518948864%2Fimg%2FMf7Zikb76s-86UAz.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
     },
     {
-      "id": "35a5db7e5ca52dba3740dfe8761122c15189846a8b2a376dff3ac1128c5b9e7e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ファミコンだけは本当に自分の中で特別なので、もう少し続けたいです。 今回、新品未開封や非売品、販売終了品も多く、世界で1台の特注カスタムデザインGBASP本体（ONE PIECE ワンピース）も本当に惜しいですが今回のセットにお付けしますので、何卒ご入札可能な方はぜひよろしくお願い申し上げます！",
-      "text": "ファミコンだけは本当に自分の中で特別なので、もう少し続けたいです。 今回、新品未開封や非売品、販売終了品も多く、世界で1台の特注カスタムデザインGBASP本体（ONE PIECE ワンピース）も本当に惜しいですが今回のセットにお付けしますので、何卒ご入札可能な方はぜひよろしくお願い申し上げます！",
-      "url": "https://nitter.net/yutoharu/status/2045482598559088703#m",
-      "date": "Sat, 18 Apr 2026 12:40:29 GMT",
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGMDJDCboAAq6M5.jpg",
-        "https://nitter.net/pic/media%2FHGMDK3bacAAG3iO.jpg",
-        "https://nitter.net/pic/media%2FHGMDL9DbAAE9UUR.jpg",
-        "https://nitter.net/pic/media%2FHGMDM_KaAAAHAsZ.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "aa0f915747a9133945acc6ea1cd2b00d27c3d95c6cbfcaf60b5268c5db951972",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "▶️Actualización Global ➖'THE SUPER MARIO GALAXY MOVIE' Taquilla Doméstica🇺🇸🇨🇦➖$355,2M Taquilla Internacional🌍➖$392,2M Taquilla Global🌐➖$747,5M Presupuesto🫰➖$110M",
-      "text": "▶️Actualización Global ➖'THE SUPER MARIO GALAXY MOVIE' Taquilla Doméstica🇺🇸🇨🇦➖$355,2M Taquilla Internacional🌍➖$392,2M Taquilla Global🌐➖$747,5M Presupuesto🫰➖$110M",
-      "url": "https://nitter.net/TaquiBox/status/2045874191744848224#m",
-      "date": "Sun, 19 Apr 2026 14:36:32 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGRnt1HWMAAo2le.jpg"
-      ]
-    },
-    {
-      "id": "b6ffe7eabd2d586c254927d0669f60c2e36121bd59e20a086ef0dc5ce922569f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Oyarzabal no solo pasó de Ayuso, también de Moreno Bonilla. Me declaro fan total... Video",
-      "text": "Oyarzabal no solo pasó de Ayuso, también de Moreno Bonilla. Me declaro fan total... Video",
-      "url": "https://nitter.net/caminantes21/status/2045872184132809118#m",
-      "date": "Sun, 19 Apr 2026 14:28:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045830960227500032%2Fimg%2FS8nb-O-7vM0k7RTW.jpg"
-      ]
-    },
-    {
-      "id": "b27397727bdd258afb9c4225e6eb24b0399e7d018b60cd9348e62e7adb9fd0da",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "El Gobierno de la Comunidad de Madrid en tres imágenes.",
-      "text": "El Gobierno de la Comunidad de Madrid en tres imágenes.",
-      "url": "https://nitter.net/Apu_elrojo/status/2045807975961362725#m",
-      "date": "Sun, 19 Apr 2026 10:13:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGQrPtkXEAAhFcQ.jpg",
-        "https://nitter.net/pic/media%2FHGQrUSbacAAKVYN.jpg",
-        "https://nitter.net/pic/media%2FHGQrWMPWAAAF495.jpg"
-      ]
-    },
-    {
-      "id": "b39fa262bc850b5e243304c392b49a4f17ac8513f7307085b99f21a1362b3184",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2005年、シリーズ累計1億5000万部突破記念の広告 お台場のイベント楽しそう✨",
-      "text": "2005年、シリーズ累計1億5000万部突破記念の広告 お台場のイベント楽しそう✨",
-      "url": "https://nitter.net/Kaibutsu_Frieza/status/2045832513512460756#m",
-      "date": "Sun, 19 Apr 2026 11:50:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGRB1ChasAAb2of.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
@@ -306,95 +267,98 @@
       ]
     },
     {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "id": "ce5f1566fa07e356837aff46e368f0e260757754b6eb6e50e032def08ab983e2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045938977719361592#m",
+      "date": "Sun, 19 Apr 2026 18:53:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+        "https://nitter.net/pic/media%2FHGSh1AGXIAAHX63.jpg",
+        "https://nitter.net/pic/media%2FHGSh1AFWsAARZci.jpg"
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "id": "1a0bd9705b19e6f9bc00079fb673daec78f50a9264f46714c22d72ff0987b20e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045789264772776442#m",
+      "date": "Sun, 19 Apr 2026 08:59:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+        "https://nitter.net/pic/media%2FHGQafWFWcAApGKk.jpg"
       ]
     },
     {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "id": "311fa898dea92ae66d52e2cb0580cb5dd200d65435faecdf691bcb1383c3f6b6",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045607483306029512#m",
+      "date": "Sat, 18 Apr 2026 20:56:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+        "https://nitter.net/pic/media%2FHGN1Ka9XgAApAO_.jpg"
+      ]
+    },
+    {
+      "id": "6d34250de6f510e125698d2512794e1f5a0dda2daee550c091c41a6855caab1b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045464036775469368#m",
+      "date": "Sat, 18 Apr 2026 11:26:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGLysrka4AA3CzF.jpg"
+      ]
+    },
+    {
+      "id": "7e315bb6f2d57453a3d1272e76c0b16622949706998326345adc115b9903d374",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow",
+      "text": "Wow",
+      "url": "https://nitter.net/daily_berserk/status/2045429546795626882#m",
+      "date": "Sat, 18 Apr 2026 09:09:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGLTVShakAAIAYL.jpg"
+      ]
+    },
+    {
+      "id": "94a1d23878d3cf4fc8e218b301e56bcf5bfc89f060bc5b14532f058d4276586b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2045310309838049759#m",
+      "date": "Sat, 18 Apr 2026 01:15:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGJm4uOXQAAeELk.jpg"
       ]
     }
   ],
   "items": [
-    {
-      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
-      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
-      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
-      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
     {
       "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
       "anime": "boruto",
@@ -423,6 +387,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2039011346600091648%2Fpu%2Fimg%2FDvxPd_Vg40jm4j_n.jpg"
+      ]
+    },
+    {
+      "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "text": "Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "date": "Thu, 16 Apr 2026 06:35:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
+      ]
+    },
+    {
+      "id": "bb3e00d8cfaa1aa3adfa97b010804026f30227ebbfee57d575dbf995f48598d1",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga ",
+      "text": "The headline said \"The story is gonna be on the climax\" #BlackClover #BCSpoilers Pace (@PacemanOP) Black Clover Will be receiving 3 New Chapters along with lead color Page In the upcoming spring Giga #BlackClover #BCSpoilers — https://nitter.net/PacemanOP/status/2044665952609226812#m",
+      "url": "https://nitter.net/PacemanOP/status/2044668724268199993#m",
+      "date": "Thu, 16 Apr 2026 06:46:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
       ]
     },
     {
@@ -480,10 +474,8 @@
       "url": "https://nitter.net/Mugiwara_23/status/2045901208699695422#m",
       "date": "Sun, 19 Apr 2026 16:23:53 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2042033319940874241%2FJF3Acotj%3Fformat%3Djpg%26name%3D800x419"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "6323e71a4db4ec17d018bd79b3bb730d9e3e0ec12560ee3d5f36106dcf6d475c",
@@ -512,98 +504,61 @@
       "attachments": []
     },
     {
-      "id": "dd7d4887136484d38558b3e31b244737a8f42bc38df019e2c7fac52572432f87",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ 「ドラゴンボール ゼノバース３ 」 2027年 発売決定 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ PlayStation®5 / Xbox Series X|S / STEAM®にて 「#ドラゴンボールゼノバース３ 」2027年発売決定！ #DBXV3 #ドラゴンボール Video",
-      "text": "◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ 「ドラゴンボール ゼノバース３ 」 2027年 発売決定 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤ PlayStation®5 / Xbox Series X|S / STEAM®にて 「#ドラゴンボールゼノバース３ 」2027年発売決定！ #DBXV3 #ドラゴンボール Video",
-      "url": "https://nitter.net/dbgame_official/status/2045967165409697954#m",
-      "date": "Sun, 19 Apr 2026 20:45:59 GMT",
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045966828518948864%2Fimg%2FMf7Zikb76s-86UAz.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
     },
     {
-      "id": "35a5db7e5ca52dba3740dfe8761122c15189846a8b2a376dff3ac1128c5b9e7e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ファミコンだけは本当に自分の中で特別なので、もう少し続けたいです。 今回、新品未開封や非売品、販売終了品も多く、世界で1台の特注カスタムデザインGBASP本体（ONE PIECE ワンピース）も本当に惜しいですが今回のセットにお付けしますので、何卒ご入札可能な方はぜひよろしくお願い申し上げます！",
-      "text": "ファミコンだけは本当に自分の中で特別なので、もう少し続けたいです。 今回、新品未開封や非売品、販売終了品も多く、世界で1台の特注カスタムデザインGBASP本体（ONE PIECE ワンピース）も本当に惜しいですが今回のセットにお付けしますので、何卒ご入札可能な方はぜひよろしくお願い申し上げます！",
-      "url": "https://nitter.net/yutoharu/status/2045482598559088703#m",
-      "date": "Sat, 18 Apr 2026 12:40:29 GMT",
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGMDJDCboAAq6M5.jpg",
-        "https://nitter.net/pic/media%2FHGMDK3bacAAG3iO.jpg",
-        "https://nitter.net/pic/media%2FHGMDL9DbAAE9UUR.jpg",
-        "https://nitter.net/pic/media%2FHGMDM_KaAAAHAsZ.jpg"
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
-      "id": "aa0f915747a9133945acc6ea1cd2b00d27c3d95c6cbfcaf60b5268c5db951972",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "▶️Actualización Global ➖'THE SUPER MARIO GALAXY MOVIE' Taquilla Doméstica🇺🇸🇨🇦➖$355,2M Taquilla Internacional🌍➖$392,2M Taquilla Global🌐➖$747,5M Presupuesto🫰➖$110M",
-      "text": "▶️Actualización Global ➖'THE SUPER MARIO GALAXY MOVIE' Taquilla Doméstica🇺🇸🇨🇦➖$355,2M Taquilla Internacional🌍➖$392,2M Taquilla Global🌐➖$747,5M Presupuesto🫰➖$110M",
-      "url": "https://nitter.net/TaquiBox/status/2045874191744848224#m",
-      "date": "Sun, 19 Apr 2026 14:36:32 GMT",
+      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
+      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
+      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGRnt1HWMAAo2le.jpg"
-      ]
-    },
-    {
-      "id": "b6ffe7eabd2d586c254927d0669f60c2e36121bd59e20a086ef0dc5ce922569f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Oyarzabal no solo pasó de Ayuso, también de Moreno Bonilla. Me declaro fan total... Video",
-      "text": "Oyarzabal no solo pasó de Ayuso, también de Moreno Bonilla. Me declaro fan total... Video",
-      "url": "https://nitter.net/caminantes21/status/2045872184132809118#m",
-      "date": "Sun, 19 Apr 2026 14:28:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045830960227500032%2Fimg%2FS8nb-O-7vM0k7RTW.jpg"
-      ]
-    },
-    {
-      "id": "b27397727bdd258afb9c4225e6eb24b0399e7d018b60cd9348e62e7adb9fd0da",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "El Gobierno de la Comunidad de Madrid en tres imágenes.",
-      "text": "El Gobierno de la Comunidad de Madrid en tres imágenes.",
-      "url": "https://nitter.net/Apu_elrojo/status/2045807975961362725#m",
-      "date": "Sun, 19 Apr 2026 10:13:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGQrPtkXEAAhFcQ.jpg",
-        "https://nitter.net/pic/media%2FHGQrUSbacAAKVYN.jpg",
-        "https://nitter.net/pic/media%2FHGQrWMPWAAAF495.jpg"
-      ]
-    },
-    {
-      "id": "b39fa262bc850b5e243304c392b49a4f17ac8513f7307085b99f21a1362b3184",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2005年、シリーズ累計1億5000万部突破記念の広告 お台場のイベント楽しそう✨",
-      "text": "2005年、シリーズ累計1億5000万部突破記念の広告 お台場のイベント楽しそう✨",
-      "url": "https://nitter.net/Kaibutsu_Frieza/status/2045832513512460756#m",
-      "date": "Sun, 19 Apr 2026 11:50:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGRB1ChasAAb2of.jpg"
+        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
       ]
     },
     {
@@ -667,61 +622,94 @@
       ]
     },
     {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "id": "ce5f1566fa07e356837aff46e368f0e260757754b6eb6e50e032def08ab983e2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045938977719361592#m",
+      "date": "Sun, 19 Apr 2026 18:53:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+        "https://nitter.net/pic/media%2FHGSh1AGXIAAHX63.jpg",
+        "https://nitter.net/pic/media%2FHGSh1AFWsAARZci.jpg"
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "id": "1a0bd9705b19e6f9bc00079fb673daec78f50a9264f46714c22d72ff0987b20e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045789264772776442#m",
+      "date": "Sun, 19 Apr 2026 08:59:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+        "https://nitter.net/pic/media%2FHGQafWFWcAApGKk.jpg"
       ]
     },
     {
-      "id": "f0e82b33a876b3566e1abbaca46e820d3d9fbe2599844c9d5bb134a4f98af2bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a",
-      "text": "I honestly think that Boruto fans overrate Delta a lot. She’s strong, but I don’t think she would win a fight against prime Madara. Eida on the other hand would win against Prime Madara in less than a minute lol #BORUTO #NARUTO 𝙅𝙀𝙎𝙎𝙀 💫 (@Unariel_) How Madara would move if Kishimoto decided to revive him — https://nitter.net/Unariel_/status/2042079990041206929#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2042226298446115054#m",
-      "date": "Thu, 09 Apr 2026 13:01:06 GMT",
+      "id": "311fa898dea92ae66d52e2cb0580cb5dd200d65435faecdf691bcb1383c3f6b6",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045607483306029512#m",
+      "date": "Sat, 18 Apr 2026 20:56:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHFbs7OtXQAAv9_g.jpg"
+        "https://nitter.net/pic/media%2FHGN1Ka9XgAApAO_.jpg"
+      ]
+    },
+    {
+      "id": "6d34250de6f510e125698d2512794e1f5a0dda2daee550c091c41a6855caab1b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2045464036775469368#m",
+      "date": "Sat, 18 Apr 2026 11:26:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGLysrka4AA3CzF.jpg"
+      ]
+    },
+    {
+      "id": "7e315bb6f2d57453a3d1272e76c0b16622949706998326345adc115b9903d374",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow",
+      "text": "Wow",
+      "url": "https://nitter.net/daily_berserk/status/2045429546795626882#m",
+      "date": "Sat, 18 Apr 2026 09:09:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGLTVShakAAIAYL.jpg"
+      ]
+    },
+    {
+      "id": "94a1d23878d3cf4fc8e218b301e56bcf5bfc89f060bc5b14532f058d4276586b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2045310309838049759#m",
+      "date": "Sat, 18 Apr 2026 01:15:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGJm4uOXQAAeELk.jpg"
       ]
     }
   ]
