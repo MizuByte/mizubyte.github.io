@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:01:48.369Z",
+  "generatedAt": "2026-04-21T12:11:24.913Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -106,17 +106,19 @@
       ]
     },
     {
-      "id": "ea72971123a0f3ae4c987535e7ce07cdf5570a47054aaedb1e499de321e0ff80",
+      "id": "b60b0ea3d7bf55786fd81d12b7e80d486d83569960a4acb6588ae5312726d3e2",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Good morning😁",
-      "text": "Good morning😁",
-      "url": "https://nitter.net/WorstGenHQ/status/2046448417207935456#m",
-      "date": "Tue, 21 Apr 2026 04:38:18 GMT",
+      "title": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2046345496910798879#m",
+      "date": "Mon, 20 Apr 2026 21:49:20 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGYUU7PacAApM-j.jpg"
+      ]
     },
     {
       "id": "fb59154d5003f2bf5f2c3d0099450f44b82a41edc1eaffc9d93624112c4266ec",
@@ -132,19 +134,17 @@
       "attachments": []
     },
     {
-      "id": "b60b0ea3d7bf55786fd81d12b7e80d486d83569960a4acb6588ae5312726d3e2",
+      "id": "ea72971123a0f3ae4c987535e7ce07cdf5570a47054aaedb1e499de321e0ff80",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
-      "text": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2046345496910798879#m",
-      "date": "Mon, 20 Apr 2026 21:49:20 GMT",
+      "title": "Good morning😁",
+      "text": "Good morning😁",
+      "url": "https://nitter.net/WorstGenHQ/status/2046448417207935456#m",
+      "date": "Tue, 21 Apr 2026 04:38:18 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGYUU7PacAApM-j.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
@@ -456,17 +456,19 @@
       ]
     },
     {
-      "id": "ea72971123a0f3ae4c987535e7ce07cdf5570a47054aaedb1e499de321e0ff80",
+      "id": "b60b0ea3d7bf55786fd81d12b7e80d486d83569960a4acb6588ae5312726d3e2",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "Good morning😁",
-      "text": "Good morning😁",
-      "url": "https://nitter.net/WorstGenHQ/status/2046448417207935456#m",
-      "date": "Tue, 21 Apr 2026 04:38:18 GMT",
+      "title": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2046345496910798879#m",
+      "date": "Mon, 20 Apr 2026 21:49:20 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGYUU7PacAApM-j.jpg"
+      ]
     },
     {
       "id": "fb59154d5003f2bf5f2c3d0099450f44b82a41edc1eaffc9d93624112c4266ec",
@@ -482,19 +484,17 @@
       "attachments": []
     },
     {
-      "id": "b60b0ea3d7bf55786fd81d12b7e80d486d83569960a4acb6588ae5312726d3e2",
+      "id": "ea72971123a0f3ae4c987535e7ce07cdf5570a47054aaedb1e499de321e0ff80",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
-      "text": "#ONEPIECE1181 NO FUCKING WAY!!!!!!!!!!!!!! 🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2046345496910798879#m",
-      "date": "Mon, 20 Apr 2026 21:49:20 GMT",
+      "title": "Good morning😁",
+      "text": "Good morning😁",
+      "url": "https://nitter.net/WorstGenHQ/status/2046448417207935456#m",
+      "date": "Tue, 21 Apr 2026 04:38:18 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGYUU7PacAApM-j.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
