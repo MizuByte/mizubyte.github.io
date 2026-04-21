@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T20:44:12.487Z",
+  "generatedAt": "2026-04-21T21:31:38.878Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -48,6 +48,21 @@
       ]
     },
     {
+      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
+      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
+      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+      ]
+    },
+    {
       "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -75,21 +90,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
-      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
-      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
@@ -201,19 +201,6 @@
       ]
     },
     {
-      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Theory, not a hint chill guys xD.^^",
-      "text": "Theory, not a hint chill guys xD.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
-      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "47a0898e3b546a942bbf6db2f65385a2ee70bc8e79b61c7ebb058eb1942a3748",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -229,6 +216,19 @@
       ]
     },
     {
+      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Theory, not a hint chill guys xD.^^",
+      "text": "Theory, not a hint chill guys xD.^^",
+      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
+      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "40e1e302b6593f95e5ab3a1fac76c82dd7d6f62d3693637190a899705f0a9b70",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -241,6 +241,77 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2046515387299479552%2Fpu%2Fimg%2FfcjHWEADBmaPE9aB.jpg"
+      ]
+    },
+    {
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
+      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
+      ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
+    },
+    {
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
@@ -301,77 +372,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
-      ]
-    },
-    {
-      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Someone has to say that and open your eyes. #BORUTO Video",
-      "text": "Someone has to say that and open your eyes. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
-      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
-      ]
-    },
-    {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
-      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
-      ]
-    },
-    {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
     },
     {
@@ -452,6 +452,21 @@
       ]
     },
     {
+      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
+      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
+      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
+      ]
+    },
+    {
       "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -479,21 +494,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
-      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
-      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
@@ -603,19 +603,6 @@
       ]
     },
     {
-      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Theory, not a hint chill guys xD.^^",
-      "text": "Theory, not a hint chill guys xD.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
-      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "47a0898e3b546a942bbf6db2f65385a2ee70bc8e79b61c7ebb058eb1942a3748",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -631,6 +618,19 @@
       ]
     },
     {
+      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Theory, not a hint chill guys xD.^^",
+      "text": "Theory, not a hint chill guys xD.^^",
+      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
+      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "40e1e302b6593f95e5ab3a1fac76c82dd7d6f62d3693637190a899705f0a9b70",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -643,6 +643,77 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2046515387299479552%2Fpu%2Fimg%2FfcjHWEADBmaPE9aB.jpg"
+      ]
+    },
+    {
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
+      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
+      ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
+    },
+    {
+      "id": "2476689b75209bb717c8e10db76352a8a94584c567fda2f3bdf058cca2a9fce5",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "text": "I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
+      "date": "Tue, 14 Apr 2026 09:09:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
       ]
     },
     {
@@ -703,77 +774,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
-      ]
-    },
-    {
-      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Someone has to say that and open your eyes. #BORUTO Video",
-      "text": "Someone has to say that and open your eyes. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
-      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
-      ]
-    },
-    {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
-      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
-      ]
-    },
-    {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
     },
     {
