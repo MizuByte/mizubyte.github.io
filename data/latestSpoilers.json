@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-04-21T08:12:59.483Z",
+  "generatedAt": "2026-04-21T09:55:19.827Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "970941e6ea1e8e3b361a1ce9b26c3f2377101a0af9784bf6b52cc2c209eb75d9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Join my new discord server, if you guys wanna see leaks, hints and spoilers talk. Basically everything. Join now🫶🏻🤍 #ONEPIECE1181 discord.gg/XXGZmfJa6",
+      "text": "Join my new discord server, if you guys wanna see leaks, hints and spoilers talk. Basically everything. Join now🫶🏻🤍 #ONEPIECE1181 discord.gg/XXGZmfJa6",
+      "url": "https://nitter.net/MarcoGrandFleet/status/2046513364684185713#m",
+      "date": "Tue, 21 Apr 2026 08:56:23 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "6b50a418d0e62ec97ffff5de49df775714d8129c2d5a95c8052c2927f318279e",
       "anime": "onepiece",
@@ -134,21 +147,6 @@
       ]
     },
     {
-      "id": "75fcd85df061f4d0a2c86433e5b1703ba0b818d7faf01f315685843cfc1343d0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1181 #FEARFUCKINGLOKI VS #FEARFUCKINGIMU PERFECT FIGHT!!",
-      "text": "#ONEPIECE1181 #FEARFUCKINGLOKI VS #FEARFUCKINGIMU PERFECT FIGHT!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2046344402361004095#m",
-      "date": "Mon, 20 Apr 2026 21:44:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGYTWH0akAAVR1I.png"
-      ]
-    },
-    {
       "id": "46a2007c2319e36dab2566e30700308b27a8a9a47bc84108f8a54a94cd7ef3c4",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -370,9 +368,37 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
       ]
+    },
+    {
+      "id": "fe158f224d45cb3c60843eabcea0c3b47b81c4991fa87688cefd2b4ff6501326",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク Maybe someday…🥹",
+      "text": "#BERSERK #ベルセルク Maybe someday…🥹",
+      "url": "https://nitter.net/daily_berserk/status/2046507411091939548#m",
+      "date": "Tue, 21 Apr 2026 08:32:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGanpL_WwAApLP-.jpg"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "970941e6ea1e8e3b361a1ce9b26c3f2377101a0af9784bf6b52cc2c209eb75d9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Join my new discord server, if you guys wanna see leaks, hints and spoilers talk. Basically everything. Join now🫶🏻🤍 #ONEPIECE1181 discord.gg/XXGZmfJa6",
+      "text": "Join my new discord server, if you guys wanna see leaks, hints and spoilers talk. Basically everything. Join now🫶🏻🤍 #ONEPIECE1181 discord.gg/XXGZmfJa6",
+      "url": "https://nitter.net/MarcoGrandFleet/status/2046513364684185713#m",
+      "date": "Tue, 21 Apr 2026 08:56:23 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "6b50a418d0e62ec97ffff5de49df775714d8129c2d5a95c8052c2927f318279e",
       "anime": "onepiece",
@@ -503,21 +529,6 @@
       ]
     },
     {
-      "id": "75fcd85df061f4d0a2c86433e5b1703ba0b818d7faf01f315685843cfc1343d0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1181 #FEARFUCKINGLOKI VS #FEARFUCKINGIMU PERFECT FIGHT!!",
-      "text": "#ONEPIECE1181 #FEARFUCKINGLOKI VS #FEARFUCKINGIMU PERFECT FIGHT!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2046344402361004095#m",
-      "date": "Mon, 20 Apr 2026 21:44:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGYTWH0akAAVR1I.png"
-      ]
-    },
-    {
       "id": "46a2007c2319e36dab2566e30700308b27a8a9a47bc84108f8a54a94cd7ef3c4",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -738,6 +749,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2044667391053824000%2Fimg%2FCgCPIVx-BuwYoSih.jpg"
+      ]
+    },
+    {
+      "id": "fe158f224d45cb3c60843eabcea0c3b47b81c4991fa87688cefd2b4ff6501326",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク Maybe someday…🥹",
+      "text": "#BERSERK #ベルセルク Maybe someday…🥹",
+      "url": "https://nitter.net/daily_berserk/status/2046507411091939548#m",
+      "date": "Tue, 21 Apr 2026 08:32:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGanpL_WwAApLP-.jpg"
       ]
     }
   ]
