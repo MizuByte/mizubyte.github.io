@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T23:55:50.941Z",
+  "generatedAt": "2026-04-22T02:06:37.317Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -63,6 +63,21 @@
       ]
     },
     {
+      "id": "6d95022b3bed6f90402fad57577bffe043b4ac48d52752bed964c0ed2ae3b26a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
+      "text": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2046269261832679547#m",
+      "date": "Mon, 20 Apr 2026 16:46:24 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGXPC6bWEAASmxF.jpg"
+      ]
+    },
+    {
       "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -90,21 +105,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "6d95022b3bed6f90402fad57577bffe043b4ac48d52752bed964c0ed2ae3b26a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
-      "text": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
-      "url": "https://nitter.net/daily_berserk/status/2046269261832679547#m",
-      "date": "Mon, 20 Apr 2026 16:46:24 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGXPC6bWEAASmxF.jpg"
       ]
     }
   ],
@@ -169,6 +169,34 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2045873997473296384%2Fimg%2FcsyXpvSdEws1NC2P.jpg"
       ]
+    },
+    {
+      "id": "87c5a5de857195d4d9198259080d03e9329ffee86425e9c218650471e2e3e21f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I hate this guy so much man 📖 Jump 🪙 Store (@jump_store_fr) 🤪Voilà pourquoi les prix des Weekly Shonen Jump sont en train d'exploser. 🤯Lorsque Logan Paul achète le 1er Jump de One Piece gradé 9.0 ",
+      "text": "I hate this guy so much man 📖 Jump 🪙 Store (@jump_store_fr) 🤪Voilà pourquoi les prix des Weekly Shonen Jump sont en train d'exploser. 🤯Lorsque Logan Paul achète le 1er Jump de One Piece gradé 9.0 pour XXX XXX $ et le 1er Jump de Dragon Ball gradé 9.2 pour 550 000 $, ils cassent littéralement le marché #WeeklyShonenJump #ShonenJump — https://nitter.net/jump_store_fr/status/2046647218107474162#m",
+      "url": "https://nitter.net/SmugStickDB/status/2046680402069254331#m",
+      "date": "Tue, 21 Apr 2026 20:00:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGcl_F4XkAEV-tC.png"
+      ]
+    },
+    {
+      "id": "724ac981d5979fcf17a443add81f8cd1dea6632d77425d8df8cc07d350e46337",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "日本のフリマサイトでナルトの初版の落札価格が急に上がった事が話題になり、釣られてワンピース等も高騰し始めました。 日本人が買ってるとは思えません。 その現象を察知した人達は古本屋に探しに行ったでしょう😂 そのせいで古本屋では「初版」のみ少し高額になってしまいました。",
+      "text": "日本のフリマサイトでナルトの初版の落札価格が急に上がった事が話題になり、釣られてワンピース等も高騰し始めました。 日本人が買ってるとは思えません。 その現象を察知した人達は古本屋に探しに行ったでしょう😂 そのせいで古本屋では「初版」のみ少し高額になってしまいました。",
+      "url": "https://nitter.net/televikun2025/status/2046736328713531557#m",
+      "date": "Tue, 21 Apr 2026 23:42:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "8c2d60011a38c5b81fd5e11110fb15bdb83cf40aebc01b55a26266799ce83c8b",
@@ -237,36 +265,6 @@
       ]
     },
     {
-      "id": "0b670ea4baaa8a9e744e3fd294615eee876db24175f951c3ce8e8f596959dd39",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Cada dia doy gracias por tener esta app",
-      "text": "Cada dia doy gracias por tener esta app",
-      "url": "https://nitter.net/Ratioxdelratiox/status/2046595819676078413#m",
-      "date": "Tue, 21 Apr 2026 14:24:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGb4DQWWQAA5cRd.jpg"
-      ]
-    },
-    {
-      "id": "ab13b30c3cf44b703dc1ad9aa82d48660c4ec2ff55bfb2e1069aa3697c0388d1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Video",
-      "text": "Video",
-      "url": "https://nitter.net/JosephFox_088/status/2046457250726682632#m",
-      "date": "Tue, 21 Apr 2026 05:13:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2046457227167584256%2Fpu%2Fimg%2F8-9d6XsQeaGLSgnT.jpg"
-      ]
-    },
-    {
       "id": "0444f4f85a5a5c1bfb482edfa65521fa0e286994a4c3aaaefa67627b205d9160",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -297,19 +295,6 @@
       ]
     },
     {
-      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Theory, not a hint chill guys xD.^^",
-      "text": "Theory, not a hint chill guys xD.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
-      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "47a0898e3b546a942bbf6db2f65385a2ee70bc8e79b61c7ebb058eb1942a3748",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -323,6 +308,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGc289vXgAA7Z6-.jpg"
       ]
+    },
+    {
+      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Theory, not a hint chill guys xD.^^",
+      "text": "Theory, not a hint chill guys xD.^^",
+      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
+      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "40e1e302b6593f95e5ab3a1fac76c82dd7d6f62d3693637190a899705f0a9b70",
@@ -473,6 +471,21 @@
       ]
     },
     {
+      "id": "6d95022b3bed6f90402fad57577bffe043b4ac48d52752bed964c0ed2ae3b26a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
+      "text": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2046269261832679547#m",
+      "date": "Mon, 20 Apr 2026 16:46:24 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGXPC6bWEAASmxF.jpg"
+      ]
+    },
+    {
       "id": "30082f32c905b97fb2e6d5ebaac6e70ea22fecc3f98183f06fd3865496b81f8f",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -500,21 +513,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGAc2R-bUAAOaSP.jpg"
-      ]
-    },
-    {
-      "id": "6d95022b3bed6f90402fad57577bffe043b4ac48d52752bed964c0ed2ae3b26a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
-      "text": "🚨🚨Chapter 384 of #BERSERK is out!!!🚨🚨",
-      "url": "https://nitter.net/daily_berserk/status/2046269261832679547#m",
-      "date": "Mon, 20 Apr 2026 16:46:24 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGXPC6bWEAASmxF.jpg"
       ]
     },
     {
@@ -577,6 +575,34 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2045873997473296384%2Fimg%2FcsyXpvSdEws1NC2P.jpg"
       ]
+    },
+    {
+      "id": "87c5a5de857195d4d9198259080d03e9329ffee86425e9c218650471e2e3e21f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I hate this guy so much man 📖 Jump 🪙 Store (@jump_store_fr) 🤪Voilà pourquoi les prix des Weekly Shonen Jump sont en train d'exploser. 🤯Lorsque Logan Paul achète le 1er Jump de One Piece gradé 9.0 ",
+      "text": "I hate this guy so much man 📖 Jump 🪙 Store (@jump_store_fr) 🤪Voilà pourquoi les prix des Weekly Shonen Jump sont en train d'exploser. 🤯Lorsque Logan Paul achète le 1er Jump de One Piece gradé 9.0 pour XXX XXX $ et le 1er Jump de Dragon Ball gradé 9.2 pour 550 000 $, ils cassent littéralement le marché #WeeklyShonenJump #ShonenJump — https://nitter.net/jump_store_fr/status/2046647218107474162#m",
+      "url": "https://nitter.net/SmugStickDB/status/2046680402069254331#m",
+      "date": "Tue, 21 Apr 2026 20:00:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGcl_F4XkAEV-tC.png"
+      ]
+    },
+    {
+      "id": "724ac981d5979fcf17a443add81f8cd1dea6632d77425d8df8cc07d350e46337",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "日本のフリマサイトでナルトの初版の落札価格が急に上がった事が話題になり、釣られてワンピース等も高騰し始めました。 日本人が買ってるとは思えません。 その現象を察知した人達は古本屋に探しに行ったでしょう😂 そのせいで古本屋では「初版」のみ少し高額になってしまいました。",
+      "text": "日本のフリマサイトでナルトの初版の落札価格が急に上がった事が話題になり、釣られてワンピース等も高騰し始めました。 日本人が買ってるとは思えません。 その現象を察知した人達は古本屋に探しに行ったでしょう😂 そのせいで古本屋では「初版」のみ少し高額になってしまいました。",
+      "url": "https://nitter.net/televikun2025/status/2046736328713531557#m",
+      "date": "Tue, 21 Apr 2026 23:42:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "8c2d60011a38c5b81fd5e11110fb15bdb83cf40aebc01b55a26266799ce83c8b",
@@ -645,36 +671,6 @@
       ]
     },
     {
-      "id": "0b670ea4baaa8a9e744e3fd294615eee876db24175f951c3ce8e8f596959dd39",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Cada dia doy gracias por tener esta app",
-      "text": "Cada dia doy gracias por tener esta app",
-      "url": "https://nitter.net/Ratioxdelratiox/status/2046595819676078413#m",
-      "date": "Tue, 21 Apr 2026 14:24:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGb4DQWWQAA5cRd.jpg"
-      ]
-    },
-    {
-      "id": "ab13b30c3cf44b703dc1ad9aa82d48660c4ec2ff55bfb2e1069aa3697c0388d1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Video",
-      "text": "Video",
-      "url": "https://nitter.net/JosephFox_088/status/2046457250726682632#m",
-      "date": "Tue, 21 Apr 2026 05:13:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2046457227167584256%2Fpu%2Fimg%2F8-9d6XsQeaGLSgnT.jpg"
-      ]
-    },
-    {
       "id": "0444f4f85a5a5c1bfb482edfa65521fa0e286994a4c3aaaefa67627b205d9160",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -705,19 +701,6 @@
       ]
     },
     {
-      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Theory, not a hint chill guys xD.^^",
-      "text": "Theory, not a hint chill guys xD.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
-      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "47a0898e3b546a942bbf6db2f65385a2ee70bc8e79b61c7ebb058eb1942a3748",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -731,6 +714,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGc289vXgAA7Z6-.jpg"
       ]
+    },
+    {
+      "id": "ccc9bd2574d1d5ac63bb60c99cb65e5e7e004b4776199616d761ee420786f7e7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Theory, not a hint chill guys xD.^^",
+      "text": "Theory, not a hint chill guys xD.^^",
+      "url": "https://nitter.net/WorstGenHQ/status/2046665451451695182#m",
+      "date": "Tue, 21 Apr 2026 19:00:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "40e1e302b6593f95e5ab3a1fac76c82dd7d6f62d3693637190a899705f0a9b70",
