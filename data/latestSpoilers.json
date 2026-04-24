@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T20:30:51.135Z",
+  "generatedAt": "2026-04-24T21:34:20.969Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -94,19 +94,6 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -122,17 +109,32 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
     },
     {
       "id": "4385e8805ca210339feaca54a92e917a119ef95228ef7bb32132a95c536f6cb1",
@@ -357,19 +359,6 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -385,17 +374,32 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
     },
     {
       "id": "4385e8805ca210339feaca54a92e917a119ef95228ef7bb32132a95c536f6cb1",
