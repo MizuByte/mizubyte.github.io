@@ -1,25 +1,55 @@
 {
-  "generatedAt": "2026-04-24T11:38:07.767Z",
+  "generatedAt": "2026-04-24T12:45:07.209Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "98ca2a91e427e390ea887cb4628fb82cb1e84499e6b481a133a9c2b836472a52",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/SethMacFarlane/status/2047477610037596574#m",
-      "date": "Fri, 24 Apr 2026 00:47:57 GMT",
+      "id": "63e47863433b2431d7891aa5651410cdb4a9c4269d8f8ba9d19159b750ce875d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Asta VS Yuno , the Wizard King decisive battle erupts!.... #BlackClover #BCSpoilers",
+      "text": "Asta VS Yuno , the Wizard King decisive battle erupts!.... #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2047234114395500891#m",
+      "date": "Thu, 23 Apr 2026 08:40:23 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGoaCQYa8AA2XIk.jpg"
+        "https://nitter.net/pic/media%2FHGk8k_aboAAdr-I.jpg"
+      ]
+    },
+    {
+      "id": "64222851c7b20afa2cd3f322bef352c868ca00f8a8e87ad93d073428f4aaa062",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Cover for Upcoming Spring Giga Edition, Featuring \"Asta\" Also Black Clover is reaching its 'Serialization Climax' in upcoming Jump GIGA 2026 SPRING. #BlackClover #BCSpoilers",
+      "text": "Cover for Upcoming Spring Giga Edition, Featuring \"Asta\" Also Black Clover is reaching its 'Serialization Climax' in upcoming Jump GIGA 2026 SPRING. #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2047212419777434091#m",
+      "date": "Thu, 23 Apr 2026 07:14:10 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGko0_WbEAAXp-e.jpg"
       ]
     }
   ],
   "misc": [
     {
+      "id": "443f3fbc6190b3b74be0348024099c667726ac49c901315a8a8db075b97a7987",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "箱はすごく大きい",
+      "text": "箱はすごく大きい",
+      "url": "https://nitter.net/taiyounomotohe/status/2047649972158599268#m",
+      "date": "Fri, 24 Apr 2026 12:12:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGq2zHfaAAAj8Ks.jpg"
+      ]
+    },
+    {
       "id": "0b40891fb30d0cb007a6475a4a700c41d7cf607fb5e55cab5d7b40188e1d7ea5",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -129,6 +159,19 @@
       ]
     },
     {
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -144,14 +187,14 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -172,17 +215,75 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
+      "id": "4d737a2628296a16bf1b14994273f02419c80a2febac581d7f9b2a66e80dcf1e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SAKAMOTODAYS257 #SD257 GENIUS",
+      "text": "#SAKAMOTODAYS257 #SD257 GENIUS",
+      "url": "https://nitter.net/OkizemeSD/status/2047190216696381725#m",
+      "date": "Thu, 23 Apr 2026 05:45:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGkUpnGXkAA2xvC.jpg"
+      ]
+    },
+    {
+      "id": "9d890e0e44706d8aaa6232b12ebef535755e5f33f82533ee9eb354f2bfad5872",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2047651927811322320#m",
+      "date": "Fri, 24 Apr 2026 12:20:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGq4k2CWsAAa00N.jpg"
+      ]
     },
     {
       "id": "22dff1abbc71dcc6bef41040d88ae9d27101ccf0b44fed240d0893c734ead485",
@@ -227,68 +328,53 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGmBunBWUAACkiP.jpg"
-      ]
-    },
-    {
-      "id": "1ba9bb6ebe972155e9532a0156780e658d91b80ed2a2254ebf5f1f04b7a871e7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2047070361691275709#m",
-      "date": "Wed, 22 Apr 2026 21:49:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGinpM9WwAAhwfJ.jpg"
-      ]
-    },
-    {
-      "id": "602cc6788e74303fe004ba969fcfc8698b46492a1486171d697021b12f829af2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2046976338427367455#m",
-      "date": "Wed, 22 Apr 2026 15:36:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGhSIQ9WoAAqvpD.jpg"
-      ]
-    },
-    {
-      "id": "16a65d280e28c5db8968920c5eec60ec3e369cc2eb4f958be970fafa645e0634",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2046929118097211866#m",
-      "date": "Wed, 22 Apr 2026 12:28:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGgnLtBWcAAs0nO.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "98ca2a91e427e390ea887cb4628fb82cb1e84499e6b481a133a9c2b836472a52",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/SethMacFarlane/status/2047477610037596574#m",
-      "date": "Fri, 24 Apr 2026 00:47:57 GMT",
+      "id": "63e47863433b2431d7891aa5651410cdb4a9c4269d8f8ba9d19159b750ce875d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Asta VS Yuno , the Wizard King decisive battle erupts!.... #BlackClover #BCSpoilers",
+      "text": "Asta VS Yuno , the Wizard King decisive battle erupts!.... #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2047234114395500891#m",
+      "date": "Thu, 23 Apr 2026 08:40:23 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGoaCQYa8AA2XIk.jpg"
+        "https://nitter.net/pic/media%2FHGk8k_aboAAdr-I.jpg"
+      ]
+    },
+    {
+      "id": "64222851c7b20afa2cd3f322bef352c868ca00f8a8e87ad93d073428f4aaa062",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Cover for Upcoming Spring Giga Edition, Featuring \"Asta\" Also Black Clover is reaching its 'Serialization Climax' in upcoming Jump GIGA 2026 SPRING. #BlackClover #BCSpoilers",
+      "text": "Cover for Upcoming Spring Giga Edition, Featuring \"Asta\" Also Black Clover is reaching its 'Serialization Climax' in upcoming Jump GIGA 2026 SPRING. #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2047212419777434091#m",
+      "date": "Thu, 23 Apr 2026 07:14:10 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGko0_WbEAAXp-e.jpg"
+      ]
+    },
+    {
+      "id": "443f3fbc6190b3b74be0348024099c667726ac49c901315a8a8db075b97a7987",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "箱はすごく大きい",
+      "text": "箱はすごく大きい",
+      "url": "https://nitter.net/taiyounomotohe/status/2047649972158599268#m",
+      "date": "Fri, 24 Apr 2026 12:12:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGq2zHfaAAAj8Ks.jpg"
       ]
     },
     {
@@ -401,6 +487,19 @@
       ]
     },
     {
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -416,14 +515,14 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -444,17 +543,75 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
+      "id": "4d737a2628296a16bf1b14994273f02419c80a2febac581d7f9b2a66e80dcf1e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SAKAMOTODAYS257 #SD257 GENIUS",
+      "text": "#SAKAMOTODAYS257 #SD257 GENIUS",
+      "url": "https://nitter.net/OkizemeSD/status/2047190216696381725#m",
+      "date": "Thu, 23 Apr 2026 05:45:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGkUpnGXkAA2xvC.jpg"
+      ]
+    },
+    {
+      "id": "9d890e0e44706d8aaa6232b12ebef535755e5f33f82533ee9eb354f2bfad5872",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2047651927811322320#m",
+      "date": "Fri, 24 Apr 2026 12:20:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGq4k2CWsAAa00N.jpg"
+      ]
     },
     {
       "id": "22dff1abbc71dcc6bef41040d88ae9d27101ccf0b44fed240d0893c734ead485",
@@ -499,51 +656,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGmBunBWUAACkiP.jpg"
-      ]
-    },
-    {
-      "id": "1ba9bb6ebe972155e9532a0156780e658d91b80ed2a2254ebf5f1f04b7a871e7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2047070361691275709#m",
-      "date": "Wed, 22 Apr 2026 21:49:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGinpM9WwAAhwfJ.jpg"
-      ]
-    },
-    {
-      "id": "602cc6788e74303fe004ba969fcfc8698b46492a1486171d697021b12f829af2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2046976338427367455#m",
-      "date": "Wed, 22 Apr 2026 15:36:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGhSIQ9WoAAqvpD.jpg"
-      ]
-    },
-    {
-      "id": "16a65d280e28c5db8968920c5eec60ec3e369cc2eb4f958be970fafa645e0634",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2046929118097211866#m",
-      "date": "Wed, 22 Apr 2026 12:28:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGgnLtBWcAAs0nO.jpg"
       ]
     }
   ]
