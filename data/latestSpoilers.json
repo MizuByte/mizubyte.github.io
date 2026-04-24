@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T12:45:07.209Z",
+  "generatedAt": "2026-04-24T14:21:00.807Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -159,19 +159,6 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -187,14 +174,14 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -213,6 +200,19 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
@@ -487,19 +487,6 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -515,14 +502,14 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -541,6 +528,19 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
       ]
+    },
+    {
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
