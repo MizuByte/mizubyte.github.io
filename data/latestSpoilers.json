@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-04-24T17:39:05.903Z",
+  "generatedAt": "2026-04-24T18:31:50.385Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
-      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
-      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
-      ]
-    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -63,6 +48,21 @@
   ],
   "misc": [
     {
+      "id": "f131d7ba2fca274d4ab932cc1d23d39090649859d0c4907356d3fb7b87aef972",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Based on a true story btw (And I love them for this) #BORUTO Video",
+      "text": "Based on a true story btw (And I love them for this) #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2047735158665572540#m",
+      "date": "Fri, 24 Apr 2026 17:51:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2047735066189557760%2Fimg%2FriaouoJju_-k3Kmw.jpg"
+      ]
+    },
+    {
       "id": "62a4125e2b850c10760feca0b2c9b2d2c3a5804b0b6320f8e9bf7cea4092e27c",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -76,6 +76,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGhIenYXcAA8tKF.jpg",
         "https://nitter.net/pic/media%2FHGhIenkWwAAWeNC.jpg"
+      ]
+    },
+    {
+      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Someone has to say that and open your eyes. #BORUTO Video",
+      "text": "Someone has to say that and open your eyes. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
+      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
       ]
     },
     {
@@ -120,21 +135,6 @@
       "attachments": []
     },
     {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
-      ]
-    },
-    {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -173,6 +173,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
+      "id": "4385e8805ca210339feaca54a92e917a119ef95228ef7bb32132a95c536f6cb1",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2047741908080816325#m",
+      "date": "Fri, 24 Apr 2026 18:18:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGsKaXaXQAAVetT.jpg"
       ]
     },
     {
@@ -236,21 +251,6 @@
       ]
     },
     {
-      "id": "18a7dbb738bc4373735912f2519a6c0c6b8467d38aba52f149c1d941390a45aa",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク #Casca",
-      "text": "#BERSERK #ベルセルク #Casca",
-      "url": "https://nitter.net/daily_berserk/status/2047242514927673745#m",
-      "date": "Thu, 23 Apr 2026 09:13:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGlEN5uX0AAERcN.jpg"
-      ]
-    },
-    {
       "id": "1ba9bb6ebe972155e9532a0156780e658d91b80ed2a2254ebf5f1f04b7a871e7",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -267,21 +267,6 @@
     }
   ],
   "items": [
-    {
-      "id": "43619e2dee06ff7cfb01cc419a73c18dcf36f64da35bfa7218fc966bd46315e9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was ",
-      "text": "Apparently the only thing that changed is that no one gives a shit about me anymore😔 Smurfy🐐 (Leaker) (@SchmurfiV1) I wasn’t really active on this App… What did I miss? Which big Boruto account was exposed during the time I left? #BORUTO — https://nitter.net/SchmurfiV1/status/2043980012932481506#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2044713433862402326#m",
-      "date": "Thu, 16 Apr 2026 09:44:06 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHF2s_MgXgAA2yar.jpg"
-      ]
-    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -326,6 +311,21 @@
       ]
     },
     {
+      "id": "f131d7ba2fca274d4ab932cc1d23d39090649859d0c4907356d3fb7b87aef972",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Based on a true story btw (And I love them for this) #BORUTO Video",
+      "text": "Based on a true story btw (And I love them for this) #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2047735158665572540#m",
+      "date": "Fri, 24 Apr 2026 17:51:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2047735066189557760%2Fimg%2FriaouoJju_-k3Kmw.jpg"
+      ]
+    },
+    {
       "id": "62a4125e2b850c10760feca0b2c9b2d2c3a5804b0b6320f8e9bf7cea4092e27c",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -339,6 +339,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHGhIenYXcAA8tKF.jpg",
         "https://nitter.net/pic/media%2FHGhIenkWwAAWeNC.jpg"
+      ]
+    },
+    {
+      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Someone has to say that and open your eyes. #BORUTO Video",
+      "text": "Someone has to say that and open your eyes. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
+      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
       ]
     },
     {
@@ -383,21 +398,6 @@
       "attachments": []
     },
     {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
-      ]
-    },
-    {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -436,6 +436,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
+      "id": "4385e8805ca210339feaca54a92e917a119ef95228ef7bb32132a95c536f6cb1",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2047741908080816325#m",
+      "date": "Fri, 24 Apr 2026 18:18:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGsKaXaXQAAVetT.jpg"
       ]
     },
     {
@@ -496,21 +511,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGmBunBWUAACkiP.jpg"
-      ]
-    },
-    {
-      "id": "18a7dbb738bc4373735912f2519a6c0c6b8467d38aba52f149c1d941390a45aa",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク #Casca",
-      "text": "#BERSERK #ベルセルク #Casca",
-      "url": "https://nitter.net/daily_berserk/status/2047242514927673745#m",
-      "date": "Thu, 23 Apr 2026 09:13:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGlEN5uX0AAERcN.jpg"
       ]
     },
     {
