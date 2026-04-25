@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T23:26:22.986Z",
+  "generatedAt": "2026-04-25T01:06:34.903Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -79,6 +79,21 @@
       ]
     },
     {
+      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Someone has to say that and open your eyes. #BORUTO Video",
+      "text": "Someone has to say that and open your eyes. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
+      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
+      ]
+    },
+    {
       "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -118,21 +133,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
-      ]
     },
     {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
@@ -342,6 +342,21 @@
       ]
     },
     {
+      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Someone has to say that and open your eyes. #BORUTO Video",
+      "text": "Someone has to say that and open your eyes. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
+      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
+      ]
+    },
+    {
       "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -381,21 +396,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
-      ]
     },
     {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
