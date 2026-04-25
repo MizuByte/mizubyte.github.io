@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T22:32:04.336Z",
+  "generatedAt": "2026-04-25T23:23:15.018Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -188,19 +188,6 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -216,17 +203,32 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
     },
     {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
@@ -282,6 +284,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
+      ]
+    },
+    {
+      "id": "d34e849137e64e638e7886478c78e07e1ae7195bca75f1f6a9139427984a563f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2048011256326476268#m",
+      "date": "Sat, 25 Apr 2026 12:08:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGv_YPlaAAAXx-3.jpg"
       ]
     },
     {
@@ -342,21 +359,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGpuGDUWkAA8j97.jpg"
-      ]
-    },
-    {
-      "id": "a0f127e2d106a33d03f515d25645ce62a1f3d26ac6fabd75edd849b5f1d5b712",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2047408171858145436#m",
-      "date": "Thu, 23 Apr 2026 20:12:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGna4XlWAAAfIY2.jpg"
       ]
     }
   ],
@@ -545,19 +547,6 @@
       ]
     },
     {
-      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Let me cope guys",
-      "text": "Let me cope guys",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
-      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -573,17 +562,32 @@
       ]
     },
     {
-      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Credits: ces.siee on TikTok",
-      "text": "Credits: ces.siee on TikTok",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
-      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
+      "title": "Let me cope guys",
+      "text": "Let me cope guys",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268879148609946#m",
+      "date": "Mon, 20 Apr 2026 16:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
+      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+      ]
     },
     {
       "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
@@ -639,6 +643,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
+      ]
+    },
+    {
+      "id": "d34e849137e64e638e7886478c78e07e1ae7195bca75f1f6a9139427984a563f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2048011256326476268#m",
+      "date": "Sat, 25 Apr 2026 12:08:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGv_YPlaAAAXx-3.jpg"
       ]
     },
     {
@@ -699,21 +718,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGpuGDUWkAA8j97.jpg"
-      ]
-    },
-    {
-      "id": "a0f127e2d106a33d03f515d25645ce62a1f3d26ac6fabd75edd849b5f1d5b712",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2047408171858145436#m",
-      "date": "Thu, 23 Apr 2026 20:12:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGna4XlWAAAfIY2.jpg"
       ]
     }
   ]
