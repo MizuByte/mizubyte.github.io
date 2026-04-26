@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T08:41:03.435Z",
+  "generatedAt": "2026-04-26T09:38:41.480Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -48,47 +48,6 @@
   ],
   "misc": [
     {
-      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
-      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
-      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
-      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
-      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
-    },
-    {
       "id": "f131d7ba2fca274d4ab932cc1d23d39090649859d0c4907356d3fb7b87aef972",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -176,6 +135,47 @@
       "attachments": []
     },
     {
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
       "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -188,6 +188,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
+      ]
+    },
+    {
+      "id": "d34e849137e64e638e7886478c78e07e1ae7195bca75f1f6a9139427984a563f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2048011256326476268#m",
+      "date": "Sat, 25 Apr 2026 12:08:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGv_YPlaAAAXx-3.jpg"
       ]
     },
     {
@@ -248,21 +263,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGpuGDUWkAA8j97.jpg"
-      ]
-    },
-    {
-      "id": "a0f127e2d106a33d03f515d25645ce62a1f3d26ac6fabd75edd849b5f1d5b712",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2047408171858145436#m",
-      "date": "Thu, 23 Apr 2026 20:12:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGna4XlWAAAfIY2.jpg"
       ]
     }
   ],
@@ -311,47 +311,6 @@
       ]
     },
     {
-      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
-      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
-      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
-      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
-      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
-    },
-    {
       "id": "f131d7ba2fca274d4ab932cc1d23d39090649859d0c4907356d3fb7b87aef972",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -439,6 +398,47 @@
       "attachments": []
     },
     {
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
       "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -451,6 +451,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
+      ]
+    },
+    {
+      "id": "d34e849137e64e638e7886478c78e07e1ae7195bca75f1f6a9139427984a563f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2048011256326476268#m",
+      "date": "Sat, 25 Apr 2026 12:08:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGv_YPlaAAAXx-3.jpg"
       ]
     },
     {
@@ -511,21 +526,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHGpuGDUWkAA8j97.jpg"
-      ]
-    },
-    {
-      "id": "a0f127e2d106a33d03f515d25645ce62a1f3d26ac6fabd75edd849b5f1d5b712",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2047408171858145436#m",
-      "date": "Thu, 23 Apr 2026 20:12:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGna4XlWAAAfIY2.jpg"
       ]
     }
   ]
