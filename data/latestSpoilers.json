@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-04-26T07:21:33.009Z",
+  "generatedAt": "2026-04-26T08:41:03.435Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "55dfbce8d1f2d10deb4191e13df6cd532003c420beeff603551a8c2b321db063",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/DunderMifflinAS/status/2047768648190754991#m",
-      "date": "Fri, 24 Apr 2026 20:04:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGsiu0kWYAIWbSE.jpg"
-      ]
-    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -63,82 +48,44 @@
   ],
   "misc": [
     {
-      "id": "7e33d61631b408c514509684f79384758e1fc4124b110063733bfca7bd22f603",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2004年4月26日発売 2004年22•23号掲載 第319話〝海軍本部「大将」青キジ〟 2010年4月26日発売 2010年21•22号掲載 第582話〝ルフィとエース〟 2021年4月26日発売 2021年21・22号掲載 第1011話〝あんこの仁義〟 #ワンピース今日は何話の日",
-      "text": "2004年4月26日発売 2004年22•23号掲載 第319話〝海軍本部「大将」青キジ〟 2010年4月26日発売 2010年21•22号掲載 第582話〝ルフィとエース〟 2021年4月26日発売 2021年21・22号掲載 第1011話〝あんこの仁義〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2048201282310258947#m",
-      "date": "Sun, 26 Apr 2026 00:43:34 GMT",
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGysNU8bkAAVFIs.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "0e3335b9b43ac4c7fc007ef9171401e1b1e1c3cdf3bcab4bb404b4ba97f27358",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "来たきたキタ～",
-      "text": "来たきたキタ～",
-      "url": "https://nitter.net/taiyounomotohe/status/2048189710326239668#m",
-      "date": "Sat, 25 Apr 2026 23:57:35 GMT",
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGyhr-paoAApR6f.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "558a63232ed434928b40b0517b45a453ed9a39cde1f09d410efe8734d2b9d3bf",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ワンピース、ルフィの新作プライズゲット！ 台座がでっかいからいい方法探してみようかな。 #ONEPIECE〜 #フィギュア愛でる部 #FigurePhotoGraphy",
-      "text": "ワンピース、ルフィの新作プライズゲット！ 台座がでっかいからいい方法探してみようかな。 #ONEPIECE〜 #フィギュア愛でる部 #FigurePhotoGraphy",
-      "url": "https://nitter.net/VHzwGl2Ls315499/status/2048013271010259357#m",
-      "date": "Sat, 25 Apr 2026 12:16:28 GMT",
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGwBN13bkAAPygb.jpg",
-        "https://nitter.net/pic/media%2FHGwBN4Ba8AA0wnT.jpg"
-      ]
-    },
-    {
-      "id": "bfff6d7b6be5a90772670cfde9123f3fbc525ac0f286a9196f4ffdd2b4bdafe5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "その時その時で思い出されること感じることが違うので何度来てもいいですな… #ONEPIECE10年展 #熊本復興プロジェクト",
-      "text": "その時その時で思い出されること感じることが違うので何度来てもいいですな… #ONEPIECE10年展 #熊本復興プロジェクト",
-      "url": "https://nitter.net/KMTSmash_KID/status/2047856153384919308#m",
-      "date": "Sat, 25 Apr 2026 01:52:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGtyTMza0AATm-N.jpg",
-        "https://nitter.net/pic/media%2FHGtyTM3aIAA7HSJ.jpg",
-        "https://nitter.net/pic/media%2FHGtyTM0bIAA8jz7.jpg",
-        "https://nitter.net/pic/media%2FHGtyTM2a0AA6-yZ.jpg"
-      ]
-    },
-    {
-      "id": "95e930435239f617a27d527282592f63284aa6c9d32eda636d3b1ab7dec0d3f5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The king of paper",
-      "text": "The king of paper",
-      "url": "https://nitter.net/OfficeMemes_/status/2048113537763922167#m",
-      "date": "Sat, 25 Apr 2026 18:54:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGxcaJDakAAVtPz.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
       ]
     },
     {
@@ -227,47 +174,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
-      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
-      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
-      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
-      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
     },
     {
       "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
@@ -362,21 +268,6 @@
   ],
   "items": [
     {
-      "id": "55dfbce8d1f2d10deb4191e13df6cd532003c420beeff603551a8c2b321db063",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/DunderMifflinAS/status/2047768648190754991#m",
-      "date": "Fri, 24 Apr 2026 20:04:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGsiu0kWYAIWbSE.jpg"
-      ]
-    },
-    {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -420,82 +311,44 @@
       ]
     },
     {
-      "id": "7e33d61631b408c514509684f79384758e1fc4124b110063733bfca7bd22f603",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2004年4月26日発売 2004年22•23号掲載 第319話〝海軍本部「大将」青キジ〟 2010年4月26日発売 2010年21•22号掲載 第582話〝ルフィとエース〟 2021年4月26日発売 2021年21・22号掲載 第1011話〝あんこの仁義〟 #ワンピース今日は何話の日",
-      "text": "2004年4月26日発売 2004年22•23号掲載 第319話〝海軍本部「大将」青キジ〟 2010年4月26日発売 2010年21•22号掲載 第582話〝ルフィとエース〟 2021年4月26日発売 2021年21・22号掲載 第1011話〝あんこの仁義〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2048201282310258947#m",
-      "date": "Sun, 26 Apr 2026 00:43:34 GMT",
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGysNU8bkAAVFIs.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "0e3335b9b43ac4c7fc007ef9171401e1b1e1c3cdf3bcab4bb404b4ba97f27358",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "来たきたキタ～",
-      "text": "来たきたキタ～",
-      "url": "https://nitter.net/taiyounomotohe/status/2048189710326239668#m",
-      "date": "Sat, 25 Apr 2026 23:57:35 GMT",
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGyhr-paoAApR6f.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "558a63232ed434928b40b0517b45a453ed9a39cde1f09d410efe8734d2b9d3bf",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ワンピース、ルフィの新作プライズゲット！ 台座がでっかいからいい方法探してみようかな。 #ONEPIECE〜 #フィギュア愛でる部 #FigurePhotoGraphy",
-      "text": "ワンピース、ルフィの新作プライズゲット！ 台座がでっかいからいい方法探してみようかな。 #ONEPIECE〜 #フィギュア愛でる部 #FigurePhotoGraphy",
-      "url": "https://nitter.net/VHzwGl2Ls315499/status/2048013271010259357#m",
-      "date": "Sat, 25 Apr 2026 12:16:28 GMT",
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGwBN13bkAAPygb.jpg",
-        "https://nitter.net/pic/media%2FHGwBN4Ba8AA0wnT.jpg"
-      ]
-    },
-    {
-      "id": "bfff6d7b6be5a90772670cfde9123f3fbc525ac0f286a9196f4ffdd2b4bdafe5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "その時その時で思い出されること感じることが違うので何度来てもいいですな… #ONEPIECE10年展 #熊本復興プロジェクト",
-      "text": "その時その時で思い出されること感じることが違うので何度来てもいいですな… #ONEPIECE10年展 #熊本復興プロジェクト",
-      "url": "https://nitter.net/KMTSmash_KID/status/2047856153384919308#m",
-      "date": "Sat, 25 Apr 2026 01:52:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGtyTMza0AATm-N.jpg",
-        "https://nitter.net/pic/media%2FHGtyTM3aIAA7HSJ.jpg",
-        "https://nitter.net/pic/media%2FHGtyTM0bIAA8jz7.jpg",
-        "https://nitter.net/pic/media%2FHGtyTM2a0AA6-yZ.jpg"
-      ]
-    },
-    {
-      "id": "95e930435239f617a27d527282592f63284aa6c9d32eda636d3b1ab7dec0d3f5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The king of paper",
-      "text": "The king of paper",
-      "url": "https://nitter.net/OfficeMemes_/status/2048113537763922167#m",
-      "date": "Sat, 25 Apr 2026 18:54:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGxcaJDakAAVtPz.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
       ]
     },
     {
@@ -584,47 +437,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
-      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
-      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
-      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
-      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
     },
     {
       "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
