@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-04-26T13:54:42.103Z",
+  "generatedAt": "2026-04-26T14:39:17.734Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "55b8629703b6cfa55f579996dd1f3d5945d7b2e50fe13640768f5573cf7e64a7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
+      "text": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2046603608557297848#m",
+      "date": "Tue, 21 Apr 2026 14:54:58 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "2c8dd61d93ec9d32b074425b33c5956c7d62004e76db56eb741458aa1241842e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week",
+      "text": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week.",
+      "url": "https://nitter.net/pewpiece/status/2046259027995234559#m",
+      "date": "Mon, 20 Apr 2026 16:05:44 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGXA57lbAAAEZjr.jpg"
+      ]
+    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -48,6 +76,65 @@
   ],
   "misc": [
     {
+      "id": "b620690bf015f1341d1de26a31371253f53c0ff4f355ad81be5f76b5b353f58e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "AYOOO Video",
+      "text": "AYOOO Video",
+      "url": "https://nitter.net/pewpiece/status/2048408459947749401#m",
+      "date": "Sun, 26 Apr 2026 14:26:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2048408298261819392%2Fimg%2Fq2-cShqIH642KArX.jpg"
+      ]
+    },
+    {
+      "id": "163ebb19e1e4aeac438334cf6040fc7749c8eae398d17f4d216abd1c127ae731",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
+      "text": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
+      "url": "https://nitter.net/pewpiece/status/2047235104989143099#m",
+      "date": "Thu, 23 Apr 2026 08:44:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0b63dac743adc88abede1042b3753d70f224064344086afed67da33712523843",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New Batman cover has a onepiece reference 😲",
+      "text": "New Batman cover has a onepiece reference 😲",
+      "url": "https://nitter.net/pewpiece/status/2046369221681008675#m",
+      "date": "Mon, 20 Apr 2026 23:23:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGYp8zSbQAAfUI9.jpg",
+        "https://nitter.net/pic/media%2FHGYp9PsbYAApN4V.jpg"
+      ]
+    },
+    {
+      "id": "41440a90cf01556d47e6da01a58f4eeeee136258976c2cda5f819b6068ed4033",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official onepiece art",
+      "text": "Official onepiece art",
+      "url": "https://nitter.net/pewpiece/status/2045992886584451483#m",
+      "date": "Sun, 19 Apr 2026 22:28:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGTTrlyaoAASkML.jpg"
+      ]
+    },
+    {
       "id": "9ad3aeccc27dc43b9f63060ef0dcba3116f56307791b31c3db2fe3bdc8358a4a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -184,18 +271,18 @@
       ]
     },
     {
-      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
+      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
-      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
+      "title": "Someone has to say that and open your eyes. #BORUTO Video",
+      "text": "Someone has to say that and open your eyes. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
+      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
       ]
     },
     {
@@ -212,18 +299,18 @@
       "attachments": []
     },
     {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
+      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
       ]
     },
     {
@@ -281,69 +368,37 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHG0vW7AagAAm2dH.jpg"
       ]
-    },
-    {
-      "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "text": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "url": "https://nitter.net/daily_berserk/status/2048156098390053364#m",
-      "date": "Sat, 25 Apr 2026 21:44:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
-      ]
-    },
-    {
-      "id": "42ec08f91cf5506bdaea5217a8acac85f05c89848ac6b7e90095f68df88e186f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Griffith did NOTHING wrong. If you think he’s a villain, you’re either clueless or too soft to grasp what ambition actually costs. Griffith played the game better than anyone—cry about it.",
-      "text": "Griffith did NOTHING wrong. If you think he’s a villain, you’re either clueless or too soft to grasp what ambition actually costs. Griffith played the game better than anyone—cry about it.",
-      "url": "https://nitter.net/daily_berserk/status/2047809055264010555#m",
-      "date": "Fri, 24 Apr 2026 22:44:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGtHerNbEAAaJcA.jpg"
-      ]
-    },
-    {
-      "id": "4385e8805ca210339feaca54a92e917a119ef95228ef7bb32132a95c536f6cb1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2047741908080816325#m",
-      "date": "Fri, 24 Apr 2026 18:18:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGsKaXaXQAAVetT.jpg"
-      ]
-    },
-    {
-      "id": "9d890e0e44706d8aaa6232b12ebef535755e5f33f82533ee9eb354f2bfad5872",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2047651927811322320#m",
-      "date": "Fri, 24 Apr 2026 12:20:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGq4k2CWsAAa00N.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "55b8629703b6cfa55f579996dd1f3d5945d7b2e50fe13640768f5573cf7e64a7",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
+      "text": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2046603608557297848#m",
+      "date": "Tue, 21 Apr 2026 14:54:58 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "2c8dd61d93ec9d32b074425b33c5956c7d62004e76db56eb741458aa1241842e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week",
+      "text": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week.",
+      "url": "https://nitter.net/pewpiece/status/2046259027995234559#m",
+      "date": "Mon, 20 Apr 2026 16:05:44 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGXA57lbAAAEZjr.jpg"
+      ]
+    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -388,6 +443,65 @@
       ]
     },
     {
+      "id": "b620690bf015f1341d1de26a31371253f53c0ff4f355ad81be5f76b5b353f58e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "AYOOO Video",
+      "text": "AYOOO Video",
+      "url": "https://nitter.net/pewpiece/status/2048408459947749401#m",
+      "date": "Sun, 26 Apr 2026 14:26:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2048408298261819392%2Fimg%2Fq2-cShqIH642KArX.jpg"
+      ]
+    },
+    {
+      "id": "163ebb19e1e4aeac438334cf6040fc7749c8eae398d17f4d216abd1c127ae731",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
+      "text": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
+      "url": "https://nitter.net/pewpiece/status/2047235104989143099#m",
+      "date": "Thu, 23 Apr 2026 08:44:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0b63dac743adc88abede1042b3753d70f224064344086afed67da33712523843",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New Batman cover has a onepiece reference 😲",
+      "text": "New Batman cover has a onepiece reference 😲",
+      "url": "https://nitter.net/pewpiece/status/2046369221681008675#m",
+      "date": "Mon, 20 Apr 2026 23:23:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGYp8zSbQAAfUI9.jpg",
+        "https://nitter.net/pic/media%2FHGYp9PsbYAApN4V.jpg"
+      ]
+    },
+    {
+      "id": "41440a90cf01556d47e6da01a58f4eeeee136258976c2cda5f819b6068ed4033",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official onepiece art",
+      "text": "Official onepiece art",
+      "url": "https://nitter.net/pewpiece/status/2045992886584451483#m",
+      "date": "Sun, 19 Apr 2026 22:28:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGTTrlyaoAASkML.jpg"
+      ]
+    },
+    {
       "id": "9ad3aeccc27dc43b9f63060ef0dcba3116f56307791b31c3db2fe3bdc8358a4a",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -524,18 +638,18 @@
       ]
     },
     {
-      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
+      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
-      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
-      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
+      "title": "Someone has to say that and open your eyes. #BORUTO Video",
+      "text": "Someone has to say that and open your eyes. #BORUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
+      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
       ]
     },
     {
@@ -552,18 +666,18 @@
       "attachments": []
     },
     {
-      "id": "facfc17d7853199a3e88159f8e02ec393a7e77892d5de29a0dc5c613ab7e6bd2",
+      "id": "78d32f25a04e62c62a779cbc7e13044b766fe3b5e34b662a0c4a69b64f439b71",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "text": "I‘ve seen enough. Use this as the official Boruto TBV Trailer. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2045149504383369643#m",
-      "date": "Fri, 17 Apr 2026 14:36:53 GMT",
+      "title": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "text": "Damn those eyes look like Toneri. #BORUTO #BorutoTwoBlueVortexCh33",
+      "url": "https://nitter.net/SchmurfiV1/status/2046268731605622867#m",
+      "date": "Mon, 20 Apr 2026 16:44:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2045149439057137664%2Fimg%2FX78UN9hWA-O2M8u8.jpg"
+        "https://nitter.net/pic/media%2FHGXOkI8WQAAClP6.jpg"
       ]
     },
     {
@@ -620,66 +734,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHG0vW7AagAAm2dH.jpg"
-      ]
-    },
-    {
-      "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "text": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "url": "https://nitter.net/daily_berserk/status/2048156098390053364#m",
-      "date": "Sat, 25 Apr 2026 21:44:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
-      ]
-    },
-    {
-      "id": "42ec08f91cf5506bdaea5217a8acac85f05c89848ac6b7e90095f68df88e186f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Griffith did NOTHING wrong. If you think he’s a villain, you’re either clueless or too soft to grasp what ambition actually costs. Griffith played the game better than anyone—cry about it.",
-      "text": "Griffith did NOTHING wrong. If you think he’s a villain, you’re either clueless or too soft to grasp what ambition actually costs. Griffith played the game better than anyone—cry about it.",
-      "url": "https://nitter.net/daily_berserk/status/2047809055264010555#m",
-      "date": "Fri, 24 Apr 2026 22:44:59 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGtHerNbEAAaJcA.jpg"
-      ]
-    },
-    {
-      "id": "4385e8805ca210339feaca54a92e917a119ef95228ef7bb32132a95c536f6cb1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2047741908080816325#m",
-      "date": "Fri, 24 Apr 2026 18:18:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGsKaXaXQAAVetT.jpg"
-      ]
-    },
-    {
-      "id": "9d890e0e44706d8aaa6232b12ebef535755e5f33f82533ee9eb354f2bfad5872",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2047651927811322320#m",
-      "date": "Fri, 24 Apr 2026 12:20:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGq4k2CWsAAa00N.jpg"
       ]
     }
   ]
