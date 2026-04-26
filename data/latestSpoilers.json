@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T21:49:53.322Z",
+  "generatedAt": "2026-04-26T22:33:15.759Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -48,12 +48,53 @@
   ],
   "misc": [
     {
-      "id": "4ea0b997083d733f31908599e859c3e866f86cec52c495700c05b8f68b006b98",
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
+      "id": "ae084d1bf2daf676d893db3b5e1aac208efe3b7fff8adf4c1798ad89ff6d4b6b",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "So earth copied Itachi‘s Mangekyou Sharingan design??? Naruto ended 10 years ago but it’s still the most influential Anime of all time😭🙏🏼 #NARUTO The Astronomy Guy (@astrooalert) NASA just released",
-      "text": "So earth copied Itachi‘s Mangekyou Sharingan design??? Naruto ended 10 years ago but it’s still the most influential Anime of all time😭🙏🏼 #NARUTO The Astronomy Guy (@astrooalert) NASA just released a breathtaking view of Antarctica — https://nitter.net/astrooalert/status/2048190323495403835#m",
+      "text": "So earth copied Itachi‘s Mangekyou Sharingan design??? Naruto ended 10 years ago but it’s still the most influential Anime of all time😭🙏🏼 #NARUTO The Astronomy Guy (@astrooalert) NASA just released a breathtaking view of Antarctica Community note: This image is not from NASA. No such photo was released by Artemis II. It appears to be a computer-generated illustration, similar to past CGI examples falsely claimed as NASA photos. nasa.gov/artemis-ii/ earthobservatory.nasa.gov/images apnews.com/article/Fact-c… — https://nitter.net/astrooalert/status/2048190323495403835#m",
       "url": "https://nitter.net/SchmurfiV1/status/2048366999168757765#m",
       "date": "Sun, 26 Apr 2026 11:42:04 GMT",
       "isSpoiler": false,
@@ -95,21 +136,6 @@
       ]
     },
     {
-      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Someone has to say that and open your eyes. #BORUTO Video",
-      "text": "Someone has to say that and open your eyes. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
-      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
-      ]
-    },
-    {
       "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -138,45 +164,17 @@
       ]
     },
     {
-      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
-      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
-      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
-      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
-      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
     },
     {
       "id": "8ad6164c07d2332c9a0046186607afbf5d1499feb31720a2632d5231eb5732b7",
@@ -314,12 +312,53 @@
       ]
     },
     {
-      "id": "4ea0b997083d733f31908599e859c3e866f86cec52c495700c05b8f68b006b98",
+      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
+      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
+      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
+      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
+      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
+      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
+      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
+      ]
+    },
+    {
+      "id": "ae084d1bf2daf676d893db3b5e1aac208efe3b7fff8adf4c1798ad89ff6d4b6b",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
       "title": "So earth copied Itachi‘s Mangekyou Sharingan design??? Naruto ended 10 years ago but it’s still the most influential Anime of all time😭🙏🏼 #NARUTO The Astronomy Guy (@astrooalert) NASA just released",
-      "text": "So earth copied Itachi‘s Mangekyou Sharingan design??? Naruto ended 10 years ago but it’s still the most influential Anime of all time😭🙏🏼 #NARUTO The Astronomy Guy (@astrooalert) NASA just released a breathtaking view of Antarctica — https://nitter.net/astrooalert/status/2048190323495403835#m",
+      "text": "So earth copied Itachi‘s Mangekyou Sharingan design??? Naruto ended 10 years ago but it’s still the most influential Anime of all time😭🙏🏼 #NARUTO The Astronomy Guy (@astrooalert) NASA just released a breathtaking view of Antarctica Community note: This image is not from NASA. No such photo was released by Artemis II. It appears to be a computer-generated illustration, similar to past CGI examples falsely claimed as NASA photos. nasa.gov/artemis-ii/ earthobservatory.nasa.gov/images apnews.com/article/Fact-c… — https://nitter.net/astrooalert/status/2048190323495403835#m",
       "url": "https://nitter.net/SchmurfiV1/status/2048366999168757765#m",
       "date": "Sun, 26 Apr 2026 11:42:04 GMT",
       "isSpoiler": false,
@@ -361,21 +400,6 @@
       ]
     },
     {
-      "id": "1ad2f1eed206b4bf2155884c086ea4930adf34eecc1d54c39b5cc565cda19247",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Someone has to say that and open your eyes. #BORUTO Video",
-      "text": "Someone has to say that and open your eyes. #BORUTO Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2046649516267311424#m",
-      "date": "Tue, 21 Apr 2026 17:57:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2046649451503136768%2Fimg%2F6ZRibberla2BV-mM.jpg"
-      ]
-    },
-    {
       "id": "e60773923a567f9eda8f8113d1fb7cc57b71579bed06dd9b9b3251f626b0a882",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -404,45 +428,17 @@
       ]
     },
     {
-      "id": "0d1183b88731ccbaf8e360d464f8da73ec5983739697bddcb34af05511bbe675",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "text": "Blue Lock Ch 346 Title - \"Full Bet\" #bluelock",
-      "url": "https://nitter.net/PacemanOP/status/2047650195589222557#m",
-      "date": "Fri, 24 Apr 2026 12:13:44 GMT",
+      "id": "06f4bc0752b002fd19280c6dc14b1a823b6288830efd1282381a4b645f79abfc",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Credits: ces.siee on TikTok",
+      "text": "Credits: ces.siee on TikTok",
+      "url": "https://nitter.net/SchmurfiV1/status/2045149604778328087#m",
+      "date": "Fri, 17 Apr 2026 14:37:17 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "41d2df8307860af1a1eb2cb4aad264bba9fff2802f8268de7e3e1bc9ed35addc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi N",
-      "text": "Witch Hat Atelier #5 Full Staff: SB/ED: Kazuki Kawagoe CAD: Kairi Unabara AD: Atsuko Nakajima, Haruhito Takada, Akane Ogawa, Fuminori Ishimaru, Rina Ogawa, Miyuki Nakayama, Yousuke Murata, Haruyoshi Nomura KA: Haruyoshi Nomura, WILLIAM LEE, Satoshi Nakano, Isao Nanba, Hayato Torii, Taichi Hattori Fuuma Urata, Tekuma Shinohara, Tomoka Tamatani, Hijiri Iguchi, Håvard Skjeggestad Dale, Kazumi Satou, Shinji Matsuda, Asahi Yamada, Yukina Furunaga, Rino Shouda, Saurabh Singh, Ayaka Shimoji, Vercreek, Shoutarou Tamemizu, Hajime Nihira, Tetsuta Sannomiya, Yasuo Fujii, Shinga Nakamura, Naporin, kASS CHAPA, dino, Daniel Monteiro, Satoru Kimura, Yin, Atsumi Ichimura, Naomi Mikamiyama, Yuuichirou Iida, Iida Mono, Nana Higashida, Momoka Uchida, Hitoshi Maki, Iyumi Kane, ふぃめら (?) 42 2nd KAs Ass ED: 長谷川あい (?)",
-      "url": "https://nitter.net/d0nut2x/status/2047635462039163096#m",
-      "date": "Fri, 24 Apr 2026 11:15:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
     },
     {
       "id": "8ad6164c07d2332c9a0046186607afbf5d1499feb31720a2632d5231eb5732b7",
