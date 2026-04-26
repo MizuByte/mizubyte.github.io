@@ -1,35 +1,7 @@
 {
-  "generatedAt": "2026-04-26T14:39:17.734Z",
+  "generatedAt": "2026-04-26T15:29:07.757Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "55b8629703b6cfa55f579996dd1f3d5945d7b2e50fe13640768f5573cf7e64a7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
-      "text": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2046603608557297848#m",
-      "date": "Tue, 21 Apr 2026 14:54:58 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2c8dd61d93ec9d32b074425b33c5956c7d62004e76db56eb741458aa1241842e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week",
-      "text": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week.",
-      "url": "https://nitter.net/pewpiece/status/2046259027995234559#m",
-      "date": "Mon, 20 Apr 2026 16:05:44 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGXA57lbAAAEZjr.jpg"
-      ]
-    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -76,10 +48,25 @@
   ],
   "misc": [
     {
+      "id": "fc576025ed3c795512703e35da991d04b3f1d0bfe4194694744cfbc4eb21b1fd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "G E L İ Y O R U Z! #GençFenerbahçeliler Video",
+      "text": "G E L İ Y O R U Z! #GençFenerbahçeliler Video",
+      "url": "https://nitter.net/gencfborg/status/2048375368642383963#m",
+      "date": "Sun, 26 Apr 2026 12:15:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2048375092686753792%2Fimg%2F-3_JlQLlRHRDnXRs.jpg"
+      ]
+    },
+    {
       "id": "b620690bf015f1341d1de26a31371253f53c0ff4f355ad81be5f76b5b353f58e",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "AYOOO Video",
       "text": "AYOOO Video",
       "url": "https://nitter.net/pewpiece/status/2048408459947749401#m",
@@ -91,136 +78,154 @@
       ]
     },
     {
-      "id": "163ebb19e1e4aeac438334cf6040fc7749c8eae398d17f4d216abd1c127ae731",
+      "id": "3839b64909394ff9cb68cc36b11ea3381fd620e89057bd1924484e3156d032d1",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
-      "text": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
-      "url": "https://nitter.net/pewpiece/status/2047235104989143099#m",
-      "date": "Thu, 23 Apr 2026 08:44:19 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Shanks FC vs Mihawk FC Who yall got🤔",
+      "text": "Shanks FC vs Mihawk FC Who yall got🤔",
+      "url": "https://nitter.net/PaulSSYS/status/2048223749091029186#m",
+      "date": "Sun, 26 Apr 2026 02:12:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGzApD2aMAAImxG.jpg",
+        "https://nitter.net/pic/media%2FHGzApDKWcAA36Rz.jpg"
+      ]
+    },
+    {
+      "id": "da4780943773be1ae7f9885aa6f4bffe81b47923570251b956f6b97338957f6a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Trump has skipped EVERY correspondant's dinner across his presidencies. Except this one. And all of a sudden there's a shooter in the lobby Ok.",
+      "text": "Trump has skipped EVERY correspondant's dinner across his presidencies. Except this one. And all of a sudden there's a shooter in the lobby Ok.",
+      "url": "https://nitter.net/BonkDaCarnivore/status/2048220342678597688#m",
+      "date": "Sun, 26 Apr 2026 01:59:18 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "0b63dac743adc88abede1042b3753d70f224064344086afed67da33712523843",
+      "id": "1a9640fabb248bfebf36b4eeba9608f0caf0bddf565e93c10910648a224fa7c4",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New Batman cover has a onepiece reference 😲",
-      "text": "New Batman cover has a onepiece reference 😲",
-      "url": "https://nitter.net/pewpiece/status/2046369221681008675#m",
-      "date": "Mon, 20 Apr 2026 23:23:36 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "【Official Trailer】 My Hero Academia Special Episode \"More\" Scheduled for May 2 on Crunchyroll! ✨More: heroaca.com Video",
+      "text": "【Official Trailer】 My Hero Academia Special Episode \"More\" Scheduled for May 2 on Crunchyroll! ✨More: heroaca.com Video",
+      "url": "https://nitter.net/animetv_jp/status/2047956401809486249#m",
+      "date": "Sat, 25 Apr 2026 08:30:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGYp8zSbQAAfUI9.jpg",
-        "https://nitter.net/pic/media%2FHGYp9PsbYAApN4V.jpg"
+        "https://nitter.net/pic/media%2FHGqfylqasAA9EpP.jpg"
       ]
     },
     {
-      "id": "41440a90cf01556d47e6da01a58f4eeeee136258976c2cda5f819b6068ed4033",
+      "id": "d9aa55cb897640a4e3af84e0293111ed5caab5457ba5642c7f9d5f5d46f61739",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official onepiece art",
-      "text": "Official onepiece art",
-      "url": "https://nitter.net/pewpiece/status/2045992886584451483#m",
-      "date": "Sun, 19 Apr 2026 22:28:11 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 In Chapter 1179, we see Imu transforming in the castle. In the new chapter, Imu isn't fully visible in the Joyboy scene. And the structure in the flashback scene could really fit with Ve",
+      "text": "#ONEPIECE1181 In Chapter 1179, we see Imu transforming in the castle. In the new chapter, Imu isn't fully visible in the Joyboy scene. And the structure in the flashback scene could really fit with Vearth. Perhaps that's why he shrouds his body in darkness, because he doesn't want his followers to see him like that.",
+      "url": "https://nitter.net/WorstGenHQ/status/2048008073210404992#m",
+      "date": "Sat, 25 Apr 2026 11:55:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGTTrlyaoAASkML.jpg"
+        "https://nitter.net/pic/media%2FHGv7hsDWcAAZwef.jpg"
       ]
     },
     {
-      "id": "9ad3aeccc27dc43b9f63060ef0dcba3116f56307791b31c3db2fe3bdc8358a4a",
+      "id": "31df94e5fab25b39b9cd419590b0a314ea5336215ecfe1ec0653249eb433e6e8",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "スーパーマリオワールド1650円🤔 #ハードオフ #ハードオフファミリー",
-      "text": "スーパーマリオワールド1650円🤔 #ハードオフ #ハードオフファミリー",
-      "url": "https://nitter.net/kandori_retro/status/2048334195874025693#m",
-      "date": "Sun, 26 Apr 2026 09:31:43 GMT",
+      "title": "イム様の“天罰剣(ネメシス)”🗡️ ミホークのコレじゃん！ ネメシス”はギリシャ神話に登場する「復讐」の女神。人間の高慢に対する神の怒り(天罰)を擬人化した存在。 「夜」の女神ニックスの娘。 ミホークの剣の名前は「夜」。 ここも繋がる。#今週のワンピ .Log【ワンピース考察】 (@manganouA) 以前、グルグルの目の共通点についてポストしたけど、イム様とミホークな雰囲気が似過ぎてるな🤔",
+      "text": "イム様の“天罰剣(ネメシス)”🗡️ ミホークのコレじゃん！ ネメシス”はギリシャ神話に登場する「復讐」の女神。人間の高慢に対する神の怒り(天罰)を擬人化した存在。 「夜」の女神ニックスの娘。 ミホークの剣の名前は「夜」。 ここも繋がる。#今週のワンピ .Log【ワンピース考察】 (@manganouA) 以前、グルグルの目の共通点についてポストしたけど、イム様とミホークな雰囲気が似過ぎてるな🤔🌀#今週のワンピ イム様、もといネロナの家系は現在まで続いてるのかな？イム様の子孫説ある？ — https://nitter.net/manganouA/status/2047620985864716429#m",
+      "url": "https://nitter.net/manganouA/status/2048421857536377097#m",
+      "date": "Sun, 26 Apr 2026 15:20:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHG0lFgmbYAAmeYl.jpg",
-        "https://nitter.net/pic/media%2FHG0lFeeaYAASR8M.jpg",
-        "https://nitter.net/pic/media%2FHG0lFeragAAOyxL.jpg",
-        "https://nitter.net/pic/media%2FHG0lFepakAAKdWo.jpg"
+        "https://nitter.net/pic/media%2FHG100jsasAAYwfq.jpg",
+        "https://nitter.net/pic/media%2FHGqcbtNbYAAywwn.jpg"
       ]
     },
     {
-      "id": "907e0947693a2c6103f7a07789be04ac1d8ea559674daeb707903daee84e148b",
+      "id": "62f81f33d73d78edacc62f1147547acdb0e6d8029db811e737c69ede5089ef1f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Los japoneses que me están debatiendo de que en japón se vende mas manga que en el resto del mundo es como si yo comparara que en España vendiéramos mas aceite de oliva que el resto del mundo. Así de ",
-      "text": "Los japoneses que me están debatiendo de que en japón se vende mas manga que en el resto del mundo es como si yo comparara que en España vendiéramos mas aceite de oliva que el resto del mundo. Así de estúpida es la comparación",
-      "url": "https://nitter.net/Kisaki_Lau/status/2047704491516920104#m",
-      "date": "Fri, 24 Apr 2026 15:49:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "77b18e47263b6de22b91ea7fa7e927c6876e72da39a6585412b9acbc7d79cc55",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Just picked up my rare one of a kind 1980s manga (only 500,000 printed) for $45,000!!! What a steal!! #mangacollecting",
-      "text": "Just picked up my rare one of a kind 1980s manga (only 500,000 printed) for $45,000!!! What a steal!! #mangacollecting",
-      "url": "https://nitter.net/_gouramie/status/2048193410205372825#m",
-      "date": "Sun, 26 Apr 2026 00:12:17 GMT",
+      "title": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売 Video",
+      "text": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売 Video",
+      "url": "https://nitter.net/GrandMaster2048/status/2048420566370312486#m",
+      "date": "Sun, 26 Apr 2026 15:14:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGylDJDWwAEak-3.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2048420509793341440%2Fimg%2FEOcBCuPqbKfp0Wry.jpg"
       ]
     },
     {
-      "id": "6dc6ae85c05552459da3d57ca2149e27df46c29f50c453586104e681c63ffbf0",
+      "id": "dc7b0b38d8cfb9a904bbe707633be0078797072cea92eba8e441f7caa0f3522d",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "un manga: 10€ un libro: 25€ un juego: 60€ un concierto: +100€ pero el problema es la pirateria Joan-sama (@Joan_NGNL) Ver gente que dice que no tiene dinero para comprar mangas, pero luego en un año s",
-      "text": "un manga: 10€ un libro: 25€ un juego: 60€ un concierto: +100€ pero el problema es la pirateria Joan-sama (@Joan_NGNL) Ver gente que dice que no tiene dinero para comprar mangas, pero luego en un año se han comprado 3 videojuegos triple A, se han ido a 4 conciertos y cada mes semanas salen a cenar... Amigo, no es que no tengas dinero, es que el que tienes no quieres destinarlo al manga. — https://nitter.net/Joan_NGNL/status/2047963631229296685#m",
-      "url": "https://nitter.net/putojimin/status/2048303492440183152#m",
-      "date": "Sun, 26 Apr 2026 07:29:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "99c99593eeb7dd13445cc19ede165f4b7ae370a6885e64d40a7bb716b1eeecd9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Este billete es más verdadero que el atentado contra Donald Trump.",
-      "text": "Este billete es más verdadero que el atentado contra Donald Trump.",
-      "url": "https://nitter.net/Apu_elrojo/status/2048343141971898675#m",
-      "date": "Sun, 26 Apr 2026 10:07:16 GMT",
+      "title": "【Lost in Translation by a Native Japanese Speaker】 There’s a Japanese proverb that Connie, from the Sorbet Kingdom, also referred to: “能ある鷹は爪を隠す: A skilled hawk hides its claws.” It means that someone",
+      "text": "【Lost in Translation by a Native Japanese Speaker】 There’s a Japanese proverb that Connie, from the Sorbet Kingdom, also referred to: “能ある鷹は爪を隠す: A skilled hawk hides its claws.” It means that someone with real talent or intelligence doesn’t go around showing it off for no reason. That idea is perfectly embodied by \"Hawk-Eye Mihawk\". He’s not the kind of person who flaunts his strength on his own. That’s probably why he called Zoro “a weakling” at first—because Zoro was the one trying to prove himself by challenging him. And when you hear “爪 claws,” another thing that comes to mind is the Hoof of the Flying Dragon. That’s the symbol of the \"Celestial Dragons\". Hancock, for example, desperately wants no one to see that claw-shaped mark, because it’s the brand of a slave. So if Mihawk is someone who “hides his claws,” then maybe that also suggests he wants to hide the claws he himself carries. A hawk that hides its claws. In other words, it could even be a metaphor for Mihawk hiding the fact that he carries \"Celestial Dragon\" blood. Stussy Sama - Dawn&Dusk (@DawnStussy) x.com/i/article/204221152086… — https://nitter.net/DawnStussy/status/2042241260086612180#m",
+      "url": "https://nitter.net/DawnStussy/status/2048420643847524855#m",
+      "date": "Sun, 26 Apr 2026 15:15:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHG0tOh3boAAXH-t.jpg"
+        "https://nitter.net/pic/media%2FHG1zWo1aEAEOWH3.png",
+        "https://nitter.net/pic/media%2FHG1zdd7aIAA1unH.png"
       ]
     },
     {
-      "id": "7d63bb1ee44c81c9f170d0a8568c9ece922e07520521211a6c015ef0fbf0f6e4",
+      "id": "79c5095e7c5f73a8b03936685779739be35daedcf6fe62e5248648be816fe557",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Americans realizing the Iran war is going so bad that Trump is faking his assassination again Video",
-      "text": "Americans realizing the Iran war is going so bad that Trump is faking his assassination again Video",
-      "url": "https://nitter.net/thatdayin1992/status/2048303565865677220#m",
-      "date": "Sun, 26 Apr 2026 07:30:00 GMT",
+      "title": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売",
+      "text": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売",
+      "url": "https://nitter.net/GrandMaster2048/status/2048420750537953749#m",
+      "date": "Sun, 26 Apr 2026 15:15:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2048299886186311680%2Fimg%2FJH09NrdMMTtpXL7U.jpg"
+        "https://nitter.net/pic/media%2FHG1z0MXacAAOZ8w.jpg"
+      ]
+    },
+    {
+      "id": "2344134a1cfa297125cacdb49bd9395686f480eab74faf5c3deb0093314aee16",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡ÉPICO CAPÍTULO EL #OnePiece1181 😍😍😍!! Pese a ser un capítulo más corto de lo normal, me alegro de que Oda lo haya dedicado 100% a la lucha entre Imu y Loki (este último más poderoso de lo que pen",
+      "text": "¡¡ÉPICO CAPÍTULO EL #OnePiece1181 😍😍😍!! Pese a ser un capítulo más corto de lo normal, me alegro de que Oda lo haya dedicado 100% a la lucha entre Imu y Loki (este último más poderoso de lo que pensaba 😯). Ojalá el siguiente también sea 100% batalla antes de que llegue Luffy. Shonen Jump (@shonenjump) What’s the difference between a god and a devil? Read One Piece, Ch. 1,181 in Shonen Jump for free! bit.ly/4d3xLvY — https://nitter.net/shonenjump/status/2048421113974165534#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2048421388143185985#m",
+      "date": "Sun, 26 Apr 2026 15:18:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG10IaAXgAA7RQQ.jpg"
+      ]
+    },
+    {
+      "id": "72a8e8bb9a16833f5607effb8b2c61be488e2568f903dfcee75ac8b043c2582a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "What’s the difference between a god and a devil? Read One Piece, Ch. 1,181 in Shonen Jump for free! bit.ly/4d3xLvY",
+      "text": "What’s the difference between a god and a devil? Read One Piece, Ch. 1,181 in Shonen Jump for free! bit.ly/4d3xLvY",
+      "url": "https://nitter.net/shonenjump/status/2048421113974165534#m",
+      "date": "Sun, 26 Apr 2026 15:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG10IaAXgAA7RQQ.jpg"
       ]
     },
     {
@@ -338,67 +343,9 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
-    },
-    {
-      "id": "9fb3024b6bd3400d29b4a91f76bcef9cb03f7e86d81b2b143e7739dd14c49aec",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2048345483509215549#m",
-      "date": "Sun, 26 Apr 2026 10:16:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG0vW7AagAAm2dH.jpg"
-      ]
     }
   ],
   "items": [
-    {
-      "id": "55b8629703b6cfa55f579996dd1f3d5945d7b2e50fe13640768f5573cf7e64a7",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
-      "text": "#ONEPIECE1181 BRIEF SPOILERS FOR ONEPIECEC CHAPTER 1181 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2046603608557297848#m",
-      "date": "Tue, 21 Apr 2026 14:54:58 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2c8dd61d93ec9d32b074425b33c5956c7d62004e76db56eb741458aa1241842e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week",
-      "text": "🚨Official There will be no break from Oda after One Piece Chapter 1181. However the magazine will be on break due to golden week holiday, which means leaks for Chapter 1182 might come early next week.",
-      "url": "https://nitter.net/pewpiece/status/2046259027995234559#m",
-      "date": "Mon, 20 Apr 2026 16:05:44 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGXA57lbAAAEZjr.jpg"
-      ]
-    },
     {
       "id": "755e9164cd461ac998a34a227cd745ad92d6873d889a892ddab2c28a69482d91",
       "anime": "blackclover",
@@ -443,10 +390,25 @@
       ]
     },
     {
+      "id": "fc576025ed3c795512703e35da991d04b3f1d0bfe4194694744cfbc4eb21b1fd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "G E L İ Y O R U Z! #GençFenerbahçeliler Video",
+      "text": "G E L İ Y O R U Z! #GençFenerbahçeliler Video",
+      "url": "https://nitter.net/gencfborg/status/2048375368642383963#m",
+      "date": "Sun, 26 Apr 2026 12:15:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2048375092686753792%2Fimg%2F-3_JlQLlRHRDnXRs.jpg"
+      ]
+    },
+    {
       "id": "b620690bf015f1341d1de26a31371253f53c0ff4f355ad81be5f76b5b353f58e",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "AYOOO Video",
       "text": "AYOOO Video",
       "url": "https://nitter.net/pewpiece/status/2048408459947749401#m",
@@ -458,136 +420,154 @@
       ]
     },
     {
-      "id": "163ebb19e1e4aeac438334cf6040fc7749c8eae398d17f4d216abd1c127ae731",
+      "id": "3839b64909394ff9cb68cc36b11ea3381fd620e89057bd1924484e3156d032d1",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
-      "text": "OFFICIAL 🚨 LOKI WILL APPEAR IN THE NEXT WEEK’S ONE PIECE EPISODES MAY 3 (EPISODES 1160 ) Titled: “Encounter on the Snowfield: Loki, the Cursed Prince”",
-      "url": "https://nitter.net/pewpiece/status/2047235104989143099#m",
-      "date": "Thu, 23 Apr 2026 08:44:19 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Shanks FC vs Mihawk FC Who yall got🤔",
+      "text": "Shanks FC vs Mihawk FC Who yall got🤔",
+      "url": "https://nitter.net/PaulSSYS/status/2048223749091029186#m",
+      "date": "Sun, 26 Apr 2026 02:12:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGzApD2aMAAImxG.jpg",
+        "https://nitter.net/pic/media%2FHGzApDKWcAA36Rz.jpg"
+      ]
+    },
+    {
+      "id": "da4780943773be1ae7f9885aa6f4bffe81b47923570251b956f6b97338957f6a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Trump has skipped EVERY correspondant's dinner across his presidencies. Except this one. And all of a sudden there's a shooter in the lobby Ok.",
+      "text": "Trump has skipped EVERY correspondant's dinner across his presidencies. Except this one. And all of a sudden there's a shooter in the lobby Ok.",
+      "url": "https://nitter.net/BonkDaCarnivore/status/2048220342678597688#m",
+      "date": "Sun, 26 Apr 2026 01:59:18 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "0b63dac743adc88abede1042b3753d70f224064344086afed67da33712523843",
+      "id": "1a9640fabb248bfebf36b4eeba9608f0caf0bddf565e93c10910648a224fa7c4",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New Batman cover has a onepiece reference 😲",
-      "text": "New Batman cover has a onepiece reference 😲",
-      "url": "https://nitter.net/pewpiece/status/2046369221681008675#m",
-      "date": "Mon, 20 Apr 2026 23:23:36 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "【Official Trailer】 My Hero Academia Special Episode \"More\" Scheduled for May 2 on Crunchyroll! ✨More: heroaca.com Video",
+      "text": "【Official Trailer】 My Hero Academia Special Episode \"More\" Scheduled for May 2 on Crunchyroll! ✨More: heroaca.com Video",
+      "url": "https://nitter.net/animetv_jp/status/2047956401809486249#m",
+      "date": "Sat, 25 Apr 2026 08:30:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGYp8zSbQAAfUI9.jpg",
-        "https://nitter.net/pic/media%2FHGYp9PsbYAApN4V.jpg"
+        "https://nitter.net/pic/media%2FHGqfylqasAA9EpP.jpg"
       ]
     },
     {
-      "id": "41440a90cf01556d47e6da01a58f4eeeee136258976c2cda5f819b6068ed4033",
+      "id": "d9aa55cb897640a4e3af84e0293111ed5caab5457ba5642c7f9d5f5d46f61739",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official onepiece art",
-      "text": "Official onepiece art",
-      "url": "https://nitter.net/pewpiece/status/2045992886584451483#m",
-      "date": "Sun, 19 Apr 2026 22:28:11 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 In Chapter 1179, we see Imu transforming in the castle. In the new chapter, Imu isn't fully visible in the Joyboy scene. And the structure in the flashback scene could really fit with Ve",
+      "text": "#ONEPIECE1181 In Chapter 1179, we see Imu transforming in the castle. In the new chapter, Imu isn't fully visible in the Joyboy scene. And the structure in the flashback scene could really fit with Vearth. Perhaps that's why he shrouds his body in darkness, because he doesn't want his followers to see him like that.",
+      "url": "https://nitter.net/WorstGenHQ/status/2048008073210404992#m",
+      "date": "Sat, 25 Apr 2026 11:55:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGTTrlyaoAASkML.jpg"
+        "https://nitter.net/pic/media%2FHGv7hsDWcAAZwef.jpg"
       ]
     },
     {
-      "id": "9ad3aeccc27dc43b9f63060ef0dcba3116f56307791b31c3db2fe3bdc8358a4a",
+      "id": "31df94e5fab25b39b9cd419590b0a314ea5336215ecfe1ec0653249eb433e6e8",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "スーパーマリオワールド1650円🤔 #ハードオフ #ハードオフファミリー",
-      "text": "スーパーマリオワールド1650円🤔 #ハードオフ #ハードオフファミリー",
-      "url": "https://nitter.net/kandori_retro/status/2048334195874025693#m",
-      "date": "Sun, 26 Apr 2026 09:31:43 GMT",
+      "title": "イム様の“天罰剣(ネメシス)”🗡️ ミホークのコレじゃん！ ネメシス”はギリシャ神話に登場する「復讐」の女神。人間の高慢に対する神の怒り(天罰)を擬人化した存在。 「夜」の女神ニックスの娘。 ミホークの剣の名前は「夜」。 ここも繋がる。#今週のワンピ .Log【ワンピース考察】 (@manganouA) 以前、グルグルの目の共通点についてポストしたけど、イム様とミホークな雰囲気が似過ぎてるな🤔",
+      "text": "イム様の“天罰剣(ネメシス)”🗡️ ミホークのコレじゃん！ ネメシス”はギリシャ神話に登場する「復讐」の女神。人間の高慢に対する神の怒り(天罰)を擬人化した存在。 「夜」の女神ニックスの娘。 ミホークの剣の名前は「夜」。 ここも繋がる。#今週のワンピ .Log【ワンピース考察】 (@manganouA) 以前、グルグルの目の共通点についてポストしたけど、イム様とミホークな雰囲気が似過ぎてるな🤔🌀#今週のワンピ イム様、もといネロナの家系は現在まで続いてるのかな？イム様の子孫説ある？ — https://nitter.net/manganouA/status/2047620985864716429#m",
+      "url": "https://nitter.net/manganouA/status/2048421857536377097#m",
+      "date": "Sun, 26 Apr 2026 15:20:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHG0lFgmbYAAmeYl.jpg",
-        "https://nitter.net/pic/media%2FHG0lFeeaYAASR8M.jpg",
-        "https://nitter.net/pic/media%2FHG0lFeragAAOyxL.jpg",
-        "https://nitter.net/pic/media%2FHG0lFepakAAKdWo.jpg"
+        "https://nitter.net/pic/media%2FHG100jsasAAYwfq.jpg",
+        "https://nitter.net/pic/media%2FHGqcbtNbYAAywwn.jpg"
       ]
     },
     {
-      "id": "907e0947693a2c6103f7a07789be04ac1d8ea559674daeb707903daee84e148b",
+      "id": "62f81f33d73d78edacc62f1147547acdb0e6d8029db811e737c69ede5089ef1f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Los japoneses que me están debatiendo de que en japón se vende mas manga que en el resto del mundo es como si yo comparara que en España vendiéramos mas aceite de oliva que el resto del mundo. Así de ",
-      "text": "Los japoneses que me están debatiendo de que en japón se vende mas manga que en el resto del mundo es como si yo comparara que en España vendiéramos mas aceite de oliva que el resto del mundo. Así de estúpida es la comparación",
-      "url": "https://nitter.net/Kisaki_Lau/status/2047704491516920104#m",
-      "date": "Fri, 24 Apr 2026 15:49:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "77b18e47263b6de22b91ea7fa7e927c6876e72da39a6585412b9acbc7d79cc55",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Just picked up my rare one of a kind 1980s manga (only 500,000 printed) for $45,000!!! What a steal!! #mangacollecting",
-      "text": "Just picked up my rare one of a kind 1980s manga (only 500,000 printed) for $45,000!!! What a steal!! #mangacollecting",
-      "url": "https://nitter.net/_gouramie/status/2048193410205372825#m",
-      "date": "Sun, 26 Apr 2026 00:12:17 GMT",
+      "title": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売 Video",
+      "text": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売 Video",
+      "url": "https://nitter.net/GrandMaster2048/status/2048420566370312486#m",
+      "date": "Sun, 26 Apr 2026 15:14:55 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHGylDJDWwAEak-3.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2048420509793341440%2Fimg%2FEOcBCuPqbKfp0Wry.jpg"
       ]
     },
     {
-      "id": "6dc6ae85c05552459da3d57ca2149e27df46c29f50c453586104e681c63ffbf0",
+      "id": "dc7b0b38d8cfb9a904bbe707633be0078797072cea92eba8e441f7caa0f3522d",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "un manga: 10€ un libro: 25€ un juego: 60€ un concierto: +100€ pero el problema es la pirateria Joan-sama (@Joan_NGNL) Ver gente que dice que no tiene dinero para comprar mangas, pero luego en un año s",
-      "text": "un manga: 10€ un libro: 25€ un juego: 60€ un concierto: +100€ pero el problema es la pirateria Joan-sama (@Joan_NGNL) Ver gente que dice que no tiene dinero para comprar mangas, pero luego en un año se han comprado 3 videojuegos triple A, se han ido a 4 conciertos y cada mes semanas salen a cenar... Amigo, no es que no tengas dinero, es que el que tienes no quieres destinarlo al manga. — https://nitter.net/Joan_NGNL/status/2047963631229296685#m",
-      "url": "https://nitter.net/putojimin/status/2048303492440183152#m",
-      "date": "Sun, 26 Apr 2026 07:29:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "99c99593eeb7dd13445cc19ede165f4b7ae370a6885e64d40a7bb716b1eeecd9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Este billete es más verdadero que el atentado contra Donald Trump.",
-      "text": "Este billete es más verdadero que el atentado contra Donald Trump.",
-      "url": "https://nitter.net/Apu_elrojo/status/2048343141971898675#m",
-      "date": "Sun, 26 Apr 2026 10:07:16 GMT",
+      "title": "【Lost in Translation by a Native Japanese Speaker】 There’s a Japanese proverb that Connie, from the Sorbet Kingdom, also referred to: “能ある鷹は爪を隠す: A skilled hawk hides its claws.” It means that someone",
+      "text": "【Lost in Translation by a Native Japanese Speaker】 There’s a Japanese proverb that Connie, from the Sorbet Kingdom, also referred to: “能ある鷹は爪を隠す: A skilled hawk hides its claws.” It means that someone with real talent or intelligence doesn’t go around showing it off for no reason. That idea is perfectly embodied by \"Hawk-Eye Mihawk\". He’s not the kind of person who flaunts his strength on his own. That’s probably why he called Zoro “a weakling” at first—because Zoro was the one trying to prove himself by challenging him. And when you hear “爪 claws,” another thing that comes to mind is the Hoof of the Flying Dragon. That’s the symbol of the \"Celestial Dragons\". Hancock, for example, desperately wants no one to see that claw-shaped mark, because it’s the brand of a slave. So if Mihawk is someone who “hides his claws,” then maybe that also suggests he wants to hide the claws he himself carries. A hawk that hides its claws. In other words, it could even be a metaphor for Mihawk hiding the fact that he carries \"Celestial Dragon\" blood. Stussy Sama - Dawn&Dusk (@DawnStussy) x.com/i/article/204221152086… — https://nitter.net/DawnStussy/status/2042241260086612180#m",
+      "url": "https://nitter.net/DawnStussy/status/2048420643847524855#m",
+      "date": "Sun, 26 Apr 2026 15:15:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHG0tOh3boAAXH-t.jpg"
+        "https://nitter.net/pic/media%2FHG1zWo1aEAEOWH3.png",
+        "https://nitter.net/pic/media%2FHG1zdd7aIAA1unH.png"
       ]
     },
     {
-      "id": "7d63bb1ee44c81c9f170d0a8568c9ece922e07520521211a6c015ef0fbf0f6e4",
+      "id": "79c5095e7c5f73a8b03936685779739be35daedcf6fe62e5248648be816fe557",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Americans realizing the Iran war is going so bad that Trump is faking his assassination again Video",
-      "text": "Americans realizing the Iran war is going so bad that Trump is faking his assassination again Video",
-      "url": "https://nitter.net/thatdayin1992/status/2048303565865677220#m",
-      "date": "Sun, 26 Apr 2026 07:30:00 GMT",
+      "title": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売",
+      "text": "2000年4月27日発売 「ゼルダの伝説 ムジュラの仮面」 #本日発売",
+      "url": "https://nitter.net/GrandMaster2048/status/2048420750537953749#m",
+      "date": "Sun, 26 Apr 2026 15:15:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2048299886186311680%2Fimg%2FJH09NrdMMTtpXL7U.jpg"
+        "https://nitter.net/pic/media%2FHG1z0MXacAAOZ8w.jpg"
+      ]
+    },
+    {
+      "id": "2344134a1cfa297125cacdb49bd9395686f480eab74faf5c3deb0093314aee16",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡ÉPICO CAPÍTULO EL #OnePiece1181 😍😍😍!! Pese a ser un capítulo más corto de lo normal, me alegro de que Oda lo haya dedicado 100% a la lucha entre Imu y Loki (este último más poderoso de lo que pen",
+      "text": "¡¡ÉPICO CAPÍTULO EL #OnePiece1181 😍😍😍!! Pese a ser un capítulo más corto de lo normal, me alegro de que Oda lo haya dedicado 100% a la lucha entre Imu y Loki (este último más poderoso de lo que pensaba 😯). Ojalá el siguiente también sea 100% batalla antes de que llegue Luffy. Shonen Jump (@shonenjump) What’s the difference between a god and a devil? Read One Piece, Ch. 1,181 in Shonen Jump for free! bit.ly/4d3xLvY — https://nitter.net/shonenjump/status/2048421113974165534#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2048421388143185985#m",
+      "date": "Sun, 26 Apr 2026 15:18:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG10IaAXgAA7RQQ.jpg"
+      ]
+    },
+    {
+      "id": "72a8e8bb9a16833f5607effb8b2c61be488e2568f903dfcee75ac8b043c2582a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "What’s the difference between a god and a devil? Read One Piece, Ch. 1,181 in Shonen Jump for free! bit.ly/4d3xLvY",
+      "text": "What’s the difference between a god and a devil? Read One Piece, Ch. 1,181 in Shonen Jump for free! bit.ly/4d3xLvY",
+      "url": "https://nitter.net/shonenjump/status/2048421113974165534#m",
+      "date": "Sun, 26 Apr 2026 15:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG10IaAXgAA7RQQ.jpg"
       ]
     },
     {
@@ -705,36 +685,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "335e48002fcc3ae889f19ea54802f6da1cb42cc240fb0965306e1417bb55aa48",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "text": "SB/UD - Masashi Ito (Stereotype) Still One of the best Opening themes out there! And Only BC S2 can Surpass it 👀🍀 #BlackClover Video",
-      "url": "https://nitter.net/PacemanOP/status/2047386013849518414#m",
-      "date": "Thu, 23 Apr 2026 18:43:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2047385962511261696%2Fpu%2Fimg%2FKl_oJfpdeCuLRi1h.jpg"
-      ]
-    },
-    {
-      "id": "9fb3024b6bd3400d29b4a91f76bcef9cb03f7e86d81b2b143e7739dd14c49aec",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2048345483509215549#m",
-      "date": "Sun, 26 Apr 2026 10:16:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG0vW7AagAAm2dH.jpg"
-      ]
     }
   ]
 }
