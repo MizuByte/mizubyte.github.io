@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T09:09:37.640Z",
+  "generatedAt": "2026-04-27T11:20:35.241Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -17,41 +17,6 @@
         "https://nitter.net/pic/media%2FHG4jW8eboAAkxVe.jpg",
         "https://nitter.net/pic/media%2FHG4jXAuagAA7cri.jpg",
         "https://nitter.net/pic/media%2FHG4jW_7awAEsbuU.jpg"
-      ]
-    },
-    {
-      "id": "62f739aca0564ff1d36a19df5ce28fc0eb1c7ed7927cfa0f0f322da13d668f64",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/3clipse_tt/status/2048613749901144422#m",
-      "date": "Mon, 27 Apr 2026 04:02:34 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG4jWKNaAAEZqNH.jpg",
-        "https://nitter.net/pic/media%2FHG4jWJMWsAAVc48.jpg",
-        "https://nitter.net/pic/media%2FHG4jWUEbUAEtWgm.jpg"
-      ]
-    },
-    {
-      "id": "84ba165d39497d1c97921671215570833621413879e66874e9935c44088e82bc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/3clipse_tt/status/2048613737091776600#m",
-      "date": "Mon, 27 Apr 2026 04:02:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG4jVfIbUAAkyEN.jpg",
-        "https://nitter.net/pic/media%2FHG4jVZMWcAAD1Q0.jpg",
-        "https://nitter.net/pic/media%2FHG4jVjYagAAN1Fi.jpg",
-        "https://nitter.net/pic/media%2FHG4jVe4XoAARwmj.jpg"
       ]
     },
     {
@@ -100,6 +65,36 @@
   ],
   "misc": [
     {
+      "id": "b94d9d3f8366ef9b3306d75dbad96cccce92b7a3d7eeaa28dfbf8a6e0330ce57",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1999年4月27日発売 1999年22•23号掲載 第86話〝騎士道VS魚人空手〟 2002年4月27日発売 2002年22•23号掲載 第228話〝「猿山連合軍最終園長」モンブラン・クリケット〟 2009年4月27日発売 2009年22•23号掲載 第540話〝LV6 無限地獄〟 #ワンピース今日は何話の日 ↓",
+      "text": "1999年4月27日発売 1999年22•23号掲載 第86話〝騎士道VS魚人空手〟 2002年4月27日発売 2002年22•23号掲載 第228話〝「猿山連合軍最終園長」モンブラン・クリケット〟 2009年4月27日発売 2009年22•23号掲載 第540話〝LV6 無限地獄〟 #ワンピース今日は何話の日 ↓",
+      "url": "https://nitter.net/hamaboh_manga/status/2048695567090606510#m",
+      "date": "Mon, 27 Apr 2026 09:27:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG5twdMaEAAQYca.jpg"
+      ]
+    },
+    {
+      "id": "dafacf2cfe18c34ce68bbcef3f95b7d281610c34b5f566af381ae86c20612c4d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『SPY×FAMILY』１３３話更新されました。 ちょっとページ短め＆よく分からん話ですがよろしくお願いいたします。 shonenjumpplus.com/episode/1…",
+      "text": "『SPY×FAMILY』１３３話更新されました。 ちょっとページ短め＆よく分からん話ですがよろしくお願いいたします。 shonenjumpplus.com/episode/1…",
+      "url": "https://nitter.net/_tatsuyaendo_/status/2048678960981246269#m",
+      "date": "Mon, 27 Apr 2026 08:21:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG5eBppbwAAITEs.jpg"
+      ]
+    },
+    {
       "id": "4a62829386e45d2dc639746321b07ab5b1948cade40932ac50cb38f58bcac4b3",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -276,6 +271,21 @@
       ]
     },
     {
+      "id": "10314219f30758ad4c07ddf1c93e19b53f2d7f9eba53a73727147e0a2dd5ff18",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Unpopular truth: If you still worship Guts but demonize Griffith, you’re just romanticizing suffering because you can’t comprehend real ambition. #BERSERK #ベルセルク",
+      "text": "Unpopular truth: If you still worship Guts but demonize Griffith, you’re just romanticizing suffering because you can’t comprehend real ambition. #BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2048720490076807604#m",
+      "date": "Mon, 27 Apr 2026 11:06:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG6EbRnbwAA14ye.jpg"
+      ]
+    },
+    {
       "id": "436dfbf6ad7f6895d351b650d8c7df15cc59f93413e1503a3bbecc7a47101770",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -349,21 +359,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHG0vW7AagAAm2dH.jpg"
       ]
-    },
-    {
-      "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "text": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "url": "https://nitter.net/daily_berserk/status/2048156098390053364#m",
-      "date": "Sat, 25 Apr 2026 21:44:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
-      ]
     }
   ],
   "items": [
@@ -382,41 +377,6 @@
         "https://nitter.net/pic/media%2FHG4jW8eboAAkxVe.jpg",
         "https://nitter.net/pic/media%2FHG4jXAuagAA7cri.jpg",
         "https://nitter.net/pic/media%2FHG4jW_7awAEsbuU.jpg"
-      ]
-    },
-    {
-      "id": "62f739aca0564ff1d36a19df5ce28fc0eb1c7ed7927cfa0f0f322da13d668f64",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/3clipse_tt/status/2048613749901144422#m",
-      "date": "Mon, 27 Apr 2026 04:02:34 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG4jWKNaAAEZqNH.jpg",
-        "https://nitter.net/pic/media%2FHG4jWJMWsAAVc48.jpg",
-        "https://nitter.net/pic/media%2FHG4jWUEbUAEtWgm.jpg"
-      ]
-    },
-    {
-      "id": "84ba165d39497d1c97921671215570833621413879e66874e9935c44088e82bc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/3clipse_tt/status/2048613737091776600#m",
-      "date": "Mon, 27 Apr 2026 04:02:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG4jVfIbUAAkyEN.jpg",
-        "https://nitter.net/pic/media%2FHG4jVZMWcAAD1Q0.jpg",
-        "https://nitter.net/pic/media%2FHG4jVjYagAAN1Fi.jpg",
-        "https://nitter.net/pic/media%2FHG4jVe4XoAARwmj.jpg"
       ]
     },
     {
@@ -463,6 +423,36 @@
       ]
     },
     {
+      "id": "b94d9d3f8366ef9b3306d75dbad96cccce92b7a3d7eeaa28dfbf8a6e0330ce57",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1999年4月27日発売 1999年22•23号掲載 第86話〝騎士道VS魚人空手〟 2002年4月27日発売 2002年22•23号掲載 第228話〝「猿山連合軍最終園長」モンブラン・クリケット〟 2009年4月27日発売 2009年22•23号掲載 第540話〝LV6 無限地獄〟 #ワンピース今日は何話の日 ↓",
+      "text": "1999年4月27日発売 1999年22•23号掲載 第86話〝騎士道VS魚人空手〟 2002年4月27日発売 2002年22•23号掲載 第228話〝「猿山連合軍最終園長」モンブラン・クリケット〟 2009年4月27日発売 2009年22•23号掲載 第540話〝LV6 無限地獄〟 #ワンピース今日は何話の日 ↓",
+      "url": "https://nitter.net/hamaboh_manga/status/2048695567090606510#m",
+      "date": "Mon, 27 Apr 2026 09:27:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG5twdMaEAAQYca.jpg"
+      ]
+    },
+    {
+      "id": "dafacf2cfe18c34ce68bbcef3f95b7d281610c34b5f566af381ae86c20612c4d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『SPY×FAMILY』１３３話更新されました。 ちょっとページ短め＆よく分からん話ですがよろしくお願いいたします。 shonenjumpplus.com/episode/1…",
+      "text": "『SPY×FAMILY』１３３話更新されました。 ちょっとページ短め＆よく分からん話ですがよろしくお願いいたします。 shonenjumpplus.com/episode/1…",
+      "url": "https://nitter.net/_tatsuyaendo_/status/2048678960981246269#m",
+      "date": "Mon, 27 Apr 2026 08:21:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG5eBppbwAAITEs.jpg"
+      ]
+    },
+    {
       "id": "4a62829386e45d2dc639746321b07ab5b1948cade40932ac50cb38f58bcac4b3",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -639,6 +629,21 @@
       ]
     },
     {
+      "id": "10314219f30758ad4c07ddf1c93e19b53f2d7f9eba53a73727147e0a2dd5ff18",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Unpopular truth: If you still worship Guts but demonize Griffith, you’re just romanticizing suffering because you can’t comprehend real ambition. #BERSERK #ベルセルク",
+      "text": "Unpopular truth: If you still worship Guts but demonize Griffith, you’re just romanticizing suffering because you can’t comprehend real ambition. #BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2048720490076807604#m",
+      "date": "Mon, 27 Apr 2026 11:06:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG6EbRnbwAA14ye.jpg"
+      ]
+    },
+    {
       "id": "436dfbf6ad7f6895d351b650d8c7df15cc59f93413e1503a3bbecc7a47101770",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -711,21 +716,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHG0vW7AagAAm2dH.jpg"
-      ]
-    },
-    {
-      "id": "40356d4a52000d05224d804cb4d52e60bc2e08596522f858cc51631979225b8d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "text": "Hot take: If you hate Griffith but glorify Guts, you missed the entire point of #BERSERK #ベルセルク. One built a kingdom, the other just survived—guess which one actually changed the world.",
-      "url": "https://nitter.net/daily_berserk/status/2048156098390053364#m",
-      "date": "Sat, 25 Apr 2026 21:44:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHGyDHYfW8AAviDC.jpg"
       ]
     }
   ]
