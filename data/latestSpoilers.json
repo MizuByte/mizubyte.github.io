@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T09:52:33.961Z",
+  "generatedAt": "2026-04-29T11:26:19.434Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -90,6 +90,36 @@
   ],
   "misc": [
     {
+      "id": "15203d32073476e66442b8661261a9d3fcf32e984956144297628bb70bb3d128",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#仲間がいるよTube #258】 👇あす19時プレミア公開👇 piped.video/zxuRW8W-sbA 現在、熊本で開催中の ONE PIECE熊本復興プロジェクト『10年展』。 本イベントを通して 皆さんと『ONE PIECE』で歩んできた 復興の軌跡を振り返ります。 #ONEPIECE",
+      "text": "【#仲間がいるよTube #258】 👇あす19時プレミア公開👇 piped.video/zxuRW8W-sbA 現在、熊本で開催中の ONE PIECE熊本復興プロジェクト『10年展』。 本イベントを通して 皆さんと『ONE PIECE』で歩んできた 復興の軌跡を振り返ります。 #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2049428505113543116#m",
+      "date": "Wed, 29 Apr 2026 10:00:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHEIXM8awAAh1xN.jpg"
+      ]
+    },
+    {
+      "id": "fa803b6fd2ea433bbdfb8aedb14a5314c7d544b0f1a1a6dd1fc3a79f0f5c2069",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Are you excited for the release of OP - 16 The Time of Battle? ⚔️ the Release date is June 12th just over a month away! 🏴‍☠️",
+      "text": "Are you excited for the release of OP - 16 The Time of Battle? ⚔️ the Release date is June 12th just over a month away! 🏴‍☠️",
+      "url": "https://nitter.net/CardmarketOP/status/2049432285661810799#m",
+      "date": "Wed, 29 Apr 2026 10:15:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHELzaDXoAA2m2o.jpg"
+      ]
+    },
+    {
       "id": "e6d7a2096b84a2514f267e4958f9acd349d5a1b1c0eaeb83f61db4e723562aae",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -153,36 +183,6 @@
         "https://nitter.net/pic/media%2FHHCewjobEAAzaD8.jpg",
         "https://nitter.net/pic/media%2FHHCewwoacAEVn_T.jpg",
         "https://nitter.net/pic/media%2FHHCew68asAATZOL.jpg"
-      ]
-    },
-    {
-      "id": "e68759f6b25d8410eff647ab8525b79e5557f4164bc769ce2f7dadf34eb22426",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2015年の今日、「XenobladeX」が発売されました。 #モノリスソフトの開発実績 #今日は何の日 monolithsoft.co.jp/games/",
-      "text": "2015年の今日、「XenobladeX」が発売されました。 #モノリスソフトの開発実績 #今日は何の日 monolithsoft.co.jp/games/",
-      "url": "https://nitter.net/MONOLITHSOFT/status/2049322659545243875#m",
-      "date": "Wed, 29 Apr 2026 02:59:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHCoGNKaEAAmfO9.jpg"
-      ]
-    },
-    {
-      "id": "26b4188444c750e19cc87ec6677c55dda1a0a4382e727a7f5389915a4a91b645",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Starting Apr. 30, 12 AM PT, Lyon: Twilight Amends from the #FireEmblem: The Sacred Stones game appears as a Legendary Hero, and Sombron: Fell Dragon King from the Fire Emblem Engage game appears as a ",
-      "text": "Starting Apr. 30, 12 AM PT, Lyon: Twilight Amends from the #FireEmblem: The Sacred Stones game appears as a Legendary Hero, and Sombron: Fell Dragon King from the Fire Emblem Engage game appears as a Mythic Hero! Previously released 5★ Emblem, Mythic and other Heroes appear too! Video",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2049322788616610254#m",
-      "date": "Wed, 29 Apr 2026 03:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG5waAjagAAVSll.jpg"
       ]
     },
     {
@@ -308,6 +308,21 @@
       ]
     },
     {
+      "id": "2d9199a17e8cc83097ab594f4b3934fe3a5744c5107c5ad9db94450d8ef7959a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049193019211948323#m",
+      "date": "Tue, 28 Apr 2026 18:24:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHAyMBtbIAAWCF8.jpg"
+      ]
+    },
+    {
       "id": "17db12da01031fb6b72ef134b23fe8a0bc4ec7870aa5609a071f617e1d89d3b4",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -350,21 +365,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHG76xMda0AAiKl9.jpg"
-      ]
-    },
-    {
-      "id": "8d02a14732d680efead066ada6aba6e4084997e6bbdeedc459e7c3ce3886bf83",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2048799021460828398#m",
-      "date": "Mon, 27 Apr 2026 16:18:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG7L2boXQAARjaa.jpg"
       ]
     }
   ],
@@ -455,6 +455,36 @@
       "attachments": []
     },
     {
+      "id": "15203d32073476e66442b8661261a9d3fcf32e984956144297628bb70bb3d128",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#仲間がいるよTube #258】 👇あす19時プレミア公開👇 piped.video/zxuRW8W-sbA 現在、熊本で開催中の ONE PIECE熊本復興プロジェクト『10年展』。 本イベントを通して 皆さんと『ONE PIECE』で歩んできた 復興の軌跡を振り返ります。 #ONEPIECE",
+      "text": "【#仲間がいるよTube #258】 👇あす19時プレミア公開👇 piped.video/zxuRW8W-sbA 現在、熊本で開催中の ONE PIECE熊本復興プロジェクト『10年展』。 本イベントを通して 皆さんと『ONE PIECE』で歩んできた 復興の軌跡を振り返ります。 #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2049428505113543116#m",
+      "date": "Wed, 29 Apr 2026 10:00:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHEIXM8awAAh1xN.jpg"
+      ]
+    },
+    {
+      "id": "fa803b6fd2ea433bbdfb8aedb14a5314c7d544b0f1a1a6dd1fc3a79f0f5c2069",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Are you excited for the release of OP - 16 The Time of Battle? ⚔️ the Release date is June 12th just over a month away! 🏴‍☠️",
+      "text": "Are you excited for the release of OP - 16 The Time of Battle? ⚔️ the Release date is June 12th just over a month away! 🏴‍☠️",
+      "url": "https://nitter.net/CardmarketOP/status/2049432285661810799#m",
+      "date": "Wed, 29 Apr 2026 10:15:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHELzaDXoAA2m2o.jpg"
+      ]
+    },
+    {
       "id": "e6d7a2096b84a2514f267e4958f9acd349d5a1b1c0eaeb83f61db4e723562aae",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -518,36 +548,6 @@
         "https://nitter.net/pic/media%2FHHCewjobEAAzaD8.jpg",
         "https://nitter.net/pic/media%2FHHCewwoacAEVn_T.jpg",
         "https://nitter.net/pic/media%2FHHCew68asAATZOL.jpg"
-      ]
-    },
-    {
-      "id": "e68759f6b25d8410eff647ab8525b79e5557f4164bc769ce2f7dadf34eb22426",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2015年の今日、「XenobladeX」が発売されました。 #モノリスソフトの開発実績 #今日は何の日 monolithsoft.co.jp/games/",
-      "text": "2015年の今日、「XenobladeX」が発売されました。 #モノリスソフトの開発実績 #今日は何の日 monolithsoft.co.jp/games/",
-      "url": "https://nitter.net/MONOLITHSOFT/status/2049322659545243875#m",
-      "date": "Wed, 29 Apr 2026 02:59:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHCoGNKaEAAmfO9.jpg"
-      ]
-    },
-    {
-      "id": "26b4188444c750e19cc87ec6677c55dda1a0a4382e727a7f5389915a4a91b645",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Starting Apr. 30, 12 AM PT, Lyon: Twilight Amends from the #FireEmblem: The Sacred Stones game appears as a Legendary Hero, and Sombron: Fell Dragon King from the Fire Emblem Engage game appears as a ",
-      "text": "Starting Apr. 30, 12 AM PT, Lyon: Twilight Amends from the #FireEmblem: The Sacred Stones game appears as a Legendary Hero, and Sombron: Fell Dragon King from the Fire Emblem Engage game appears as a Mythic Hero! Previously released 5★ Emblem, Mythic and other Heroes appear too! Video",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2049322788616610254#m",
-      "date": "Wed, 29 Apr 2026 03:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG5waAjagAAVSll.jpg"
       ]
     },
     {
@@ -673,6 +673,21 @@
       ]
     },
     {
+      "id": "2d9199a17e8cc83097ab594f4b3934fe3a5744c5107c5ad9db94450d8ef7959a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049193019211948323#m",
+      "date": "Tue, 28 Apr 2026 18:24:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHAyMBtbIAAWCF8.jpg"
+      ]
+    },
+    {
       "id": "17db12da01031fb6b72ef134b23fe8a0bc4ec7870aa5609a071f617e1d89d3b4",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -715,21 +730,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHG76xMda0AAiKl9.jpg"
-      ]
-    },
-    {
-      "id": "8d02a14732d680efead066ada6aba6e4084997e6bbdeedc459e7c3ce3886bf83",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2048799021460828398#m",
-      "date": "Mon, 27 Apr 2026 16:18:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG7L2boXQAARjaa.jpg"
       ]
     }
   ]
