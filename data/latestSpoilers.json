@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T07:27:51.156Z",
+  "generatedAt": "2026-04-29T09:52:33.961Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -90,6 +90,21 @@
   ],
   "misc": [
     {
+      "id": "e6d7a2096b84a2514f267e4958f9acd349d5a1b1c0eaeb83f61db4e723562aae",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy birthday Fumihiko Tachiki! 🎉 Let's wish him all the best @Fu_minT61 #FumihikoTachiki #立木文彦 #立木文彦生誕祭2026",
+      "text": "Happy birthday Fumihiko Tachiki! 🎉 Let's wish him all the best @Fu_minT61 #FumihikoTachiki #立木文彦 #立木文彦生誕祭2026",
+      "url": "https://nitter.net/seiyuucorner/status/2049141629458759690#m",
+      "date": "Tue, 28 Apr 2026 15:00:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHADFQbbgAEPJae.jpg"
+      ]
+    },
+    {
       "id": "971dfadf6f1f97325ed1ba8358db6f149986b33511471b7fc05b3c8a66e4382f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -168,22 +183,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHG5waAjagAAVSll.jpg"
-      ]
-    },
-    {
-      "id": "ef91216b9c2a5a91ad7a69a5f0aec98f3d927584cc90d0187627d5b84f8c4da7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ルフィのくじ見てきた。 欲しかったC賞はちょと んー となり、どうだろて思ってたラストワンは思ってたより良かった。A賞は思ってたより小さかった。",
-      "text": "ルフィのくじ見てきた。 欲しかったC賞はちょと んー となり、どうだろて思ってたラストワンは思ってたより良かった。A賞は思ってたより小さかった。",
-      "url": "https://nitter.net/9629L9269/status/2049164288510787697#m",
-      "date": "Tue, 28 Apr 2026 16:30:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHAYCDdbwAEs63o.jpg",
-        "https://nitter.net/pic/media%2FHHAYCDraIAAgjnT.jpg"
       ]
     },
     {
@@ -279,6 +278,21 @@
       ]
     },
     {
+      "id": "7eec611702ce927092fd27813e2ebc03f648d4c4346b3769fc3d902afdc80a48",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049411325143441638#m",
+      "date": "Wed, 29 Apr 2026 08:51:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHD4vGNaMAAlct1.jpg"
+      ]
+    },
+    {
       "id": "054d9fae67e6ad589e4593777eff236f355289514804161cd23ca3413cd112b8",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -291,21 +305,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHDKBniaUAMrYHf.jpg"
-      ]
-    },
-    {
-      "id": "2d9199a17e8cc83097ab594f4b3934fe3a5744c5107c5ad9db94450d8ef7959a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049193019211948323#m",
-      "date": "Tue, 28 Apr 2026 18:24:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHAyMBtbIAAWCF8.jpg"
       ]
     },
     {
@@ -456,6 +455,21 @@
       "attachments": []
     },
     {
+      "id": "e6d7a2096b84a2514f267e4958f9acd349d5a1b1c0eaeb83f61db4e723562aae",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy birthday Fumihiko Tachiki! 🎉 Let's wish him all the best @Fu_minT61 #FumihikoTachiki #立木文彦 #立木文彦生誕祭2026",
+      "text": "Happy birthday Fumihiko Tachiki! 🎉 Let's wish him all the best @Fu_minT61 #FumihikoTachiki #立木文彦 #立木文彦生誕祭2026",
+      "url": "https://nitter.net/seiyuucorner/status/2049141629458759690#m",
+      "date": "Tue, 28 Apr 2026 15:00:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHADFQbbgAEPJae.jpg"
+      ]
+    },
+    {
       "id": "971dfadf6f1f97325ed1ba8358db6f149986b33511471b7fc05b3c8a66e4382f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -534,22 +548,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHG5waAjagAAVSll.jpg"
-      ]
-    },
-    {
-      "id": "ef91216b9c2a5a91ad7a69a5f0aec98f3d927584cc90d0187627d5b84f8c4da7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ルフィのくじ見てきた。 欲しかったC賞はちょと んー となり、どうだろて思ってたラストワンは思ってたより良かった。A賞は思ってたより小さかった。",
-      "text": "ルフィのくじ見てきた。 欲しかったC賞はちょと んー となり、どうだろて思ってたラストワンは思ってたより良かった。A賞は思ってたより小さかった。",
-      "url": "https://nitter.net/9629L9269/status/2049164288510787697#m",
-      "date": "Tue, 28 Apr 2026 16:30:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHAYCDdbwAEs63o.jpg",
-        "https://nitter.net/pic/media%2FHHAYCDraIAAgjnT.jpg"
       ]
     },
     {
@@ -645,6 +643,21 @@
       ]
     },
     {
+      "id": "7eec611702ce927092fd27813e2ebc03f648d4c4346b3769fc3d902afdc80a48",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049411325143441638#m",
+      "date": "Wed, 29 Apr 2026 08:51:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHD4vGNaMAAlct1.jpg"
+      ]
+    },
+    {
       "id": "054d9fae67e6ad589e4593777eff236f355289514804161cd23ca3413cd112b8",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -657,21 +670,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHDKBniaUAMrYHf.jpg"
-      ]
-    },
-    {
-      "id": "2d9199a17e8cc83097ab594f4b3934fe3a5744c5107c5ad9db94450d8ef7959a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049193019211948323#m",
-      "date": "Tue, 28 Apr 2026 18:24:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHAyMBtbIAAWCF8.jpg"
       ]
     },
     {
