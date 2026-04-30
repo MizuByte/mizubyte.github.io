@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T04:49:21.311Z",
+  "generatedAt": "2026-04-30T07:25:53.403Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -14,6 +14,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "522a6dc2e54386f0e3c33ff1d94141018a3d84ab603f03dcc2f1c570e4cb1ea2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔴COLLAGE DE SPOILERS DEL 1ER CAPÍTULO DE LA SAGA DEL CIELO🔴 ¡Muchachos! Izô Okada, el asistente de Masami Kurumada, acaba de publicar el 1er collage de spoilers del Saint Seiya Tenkai-hen. Además, c",
+      "text": "🔴COLLAGE DE SPOILERS DEL 1ER CAPÍTULO DE LA SAGA DEL CIELO🔴 ¡Muchachos! Izô Okada, el asistente de Masami Kurumada, acaba de publicar el 1er collage de spoilers del Saint Seiya Tenkai-hen. Además, comenta que la primera temporada tendrá 6 capítulos. Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #tenkaihen #saintseiyatenkaihen",
+      "url": "https://nitter.net/CesarinCool/status/2049686183052005803#m",
+      "date": "Thu, 30 Apr 2026 03:04:02 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHHytnbXQAAwLdG.jpg"
+      ]
     },
     {
       "id": "4b2a505332731a771c354e7e38d7da2bcbc872b9b559cd70b2266e9ddbfd1643",
@@ -62,6 +77,22 @@
   ],
   "misc": [
     {
+      "id": "d6c39c283bcb4d125f98fe6b066ac8ac1a5d0fb3f6e496cfa2a97be869e73614",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 Expectation vs. Reality: (🤣🤣)",
+      "text": "#ONEPIECE1181 Expectation vs. Reality: (🤣🤣)",
+      "url": "https://nitter.net/WorstGenHQ/status/2049741699551797554#m",
+      "date": "Thu, 30 Apr 2026 06:44:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHIlLvmXgAAh6Ox.jpg",
+        "https://nitter.net/pic/media%2FHHIlM3LXgAASPYM.jpg"
+      ]
+    },
+    {
       "id": "290d7fa7a6052454955e2e221f1d308b67affc7bfad10deb35ba017a98cb8e03",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -120,18 +151,78 @@
       ]
     },
     {
-      "id": "12247763004cb311eae5054827d6884fa0b2b61c4e04adc45160e3120ec399a4",
+      "id": "85d05eaf9e6664db115848c5b15123806bfc578c05a314f68bb3f0efbeda7317",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "“Dad, what was that Champions League semi-final like on Tuesday 28 April 2026 between PSG and Bayern Munich?” Video",
-      "text": "“Dad, what was that Champions League semi-final like on Tuesday 28 April 2026 between PSG and Bayern Munich?” Video",
-      "url": "https://nitter.net/FootyHumour/status/2049226954369388745#m",
-      "date": "Tue, 28 Apr 2026 20:39:13 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Saga do Céu terá 6 capítulos em sua primeira temporada, segundo atualização do Kurumada Pro. kurumadapro.com/column/artic…",
+      "text": "Saga do Céu terá 6 capítulos em sua primeira temporada, segundo atualização do Kurumada Pro. kurumadapro.com/column/artic…",
+      "url": "https://nitter.net/taizen_ss_br/status/2049686679292661980#m",
+      "date": "Thu, 30 Apr 2026 03:06:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F1890112799960920064%2Fimg%2FEh0jMt_fZHHUZrBS.jpg"
+        "https://nitter.net/pic/media%2FHHHzLESXcAI0O4h.jpg"
+      ]
+    },
+    {
+      "id": "ea54534f5e3c1761cb327c0ad7cd4cf51dc4f27900690ca11c01f79b8885085e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "＼\\🎊第8巻発売まであと1日🎊/／ 宇佐崎先生が描く、今回の表紙タイムラプスを特別公開🎨✨ 『魔男のイチ』最新コミックス第8巻は明日5/1(金)発売です✨ s-manga.net/items/contents.h… #IchiTheWitch Video",
+      "text": "＼\\🎊第8巻発売まであと1日🎊/／ 宇佐崎先生が描く、今回の表紙タイムラプスを特別公開🎨✨ 『魔男のイチ』最新コミックス第8巻は明日5/1(金)発売です✨ s-manga.net/items/contents.h… #IchiTheWitch Video",
+      "url": "https://nitter.net/Ichi_the_Witch/status/2049685175404278152#m",
+      "date": "Thu, 30 Apr 2026 03:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGU_LIxakAAxijY.jpg"
+      ]
+    },
+    {
+      "id": "62df46d4ca9fabdf2ad772a4f1d24e0430a1c70fc831010b39cdeb8a2b0aee4f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2024年4月30日発売 2024年22•23号掲載 第1113話〝STALEMATE〟 #ワンピース今日は何話の日",
+      "text": "2024年4月30日発売 2024年22•23号掲載 第1113話〝STALEMATE〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2049634824818954446#m",
+      "date": "Wed, 29 Apr 2026 23:39:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHHEATQbMAAHT90.jpg"
+      ]
+    },
+    {
+      "id": "9a88d393fb0a7a647d604309c0b8d20f99e4a69fff60738c93599395bc400712",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Usa el ballet, Bart!",
+      "text": "¡Usa el ballet, Bart!",
+      "url": "https://nitter.net/SoySimpsonito/status/2049505014029160665#m",
+      "date": "Wed, 29 Apr 2026 15:04:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFN8lpbsAAfAY3.jpg"
+      ]
+    },
+    {
+      "id": "be2cd85f4d9d7eb4bcf2a03048145310605ff0edffb99168fa9c559eecf81b37",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No new episode this week, so how about an everything we can tell you about Season 5 post",
+      "text": "No new episode this week, so how about an everything we can tell you about Season 5 post",
+      "url": "https://nitter.net/InvincibleHQ/status/2049526688426430859#m",
+      "date": "Wed, 29 Apr 2026 16:30:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFclQKbUAAVlLY.jpg"
       ]
     },
     {
@@ -180,6 +271,21 @@
       ]
     },
     {
+      "id": "29651f0124e0cf81caca479aff04f061f2d3a439cebf1db17c7e15bd261876ae",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049729630840442917#m",
+      "date": "Thu, 30 Apr 2026 05:56:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHIaPBOXEAA3coS.jpg"
+      ]
+    },
+    {
       "id": "13e66c7de057037cb7deb0fed19815aafe4ac6ef4eaa261abf209a9dfaab2317",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -192,21 +298,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHGi4MyaQAA0t03.jpg"
-      ]
-    },
-    {
-      "id": "e4d94c01f27278926d1a58d0544a948eab38d9cb04295bbb7bbb480a83747fb5",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049524161916112932#m",
-      "date": "Wed, 29 Apr 2026 16:20:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfXISa4AAa4WB.jpg"
       ]
     },
     {
@@ -255,18 +346,18 @@
       ]
     },
     {
-      "id": "2d9199a17e8cc83097ab594f4b3934fe3a5744c5107c5ad9db94450d8ef7959a",
+      "id": "17db12da01031fb6b72ef134b23fe8a0bc4ec7870aa5609a071f617e1d89d3b4",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "#BERSERK #ベルセルク",
       "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049193019211948323#m",
-      "date": "Tue, 28 Apr 2026 18:24:22 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2049109467069882431#m",
+      "date": "Tue, 28 Apr 2026 12:52:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHAyMBtbIAAWCF8.jpg"
+        "https://nitter.net/pic/media%2FHG_mMynW4AA2_hd.jpg"
       ]
     }
   ],
@@ -283,6 +374,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "522a6dc2e54386f0e3c33ff1d94141018a3d84ab603f03dcc2f1c570e4cb1ea2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔴COLLAGE DE SPOILERS DEL 1ER CAPÍTULO DE LA SAGA DEL CIELO🔴 ¡Muchachos! Izô Okada, el asistente de Masami Kurumada, acaba de publicar el 1er collage de spoilers del Saint Seiya Tenkai-hen. Además, c",
+      "text": "🔴COLLAGE DE SPOILERS DEL 1ER CAPÍTULO DE LA SAGA DEL CIELO🔴 ¡Muchachos! Izô Okada, el asistente de Masami Kurumada, acaba de publicar el 1er collage de spoilers del Saint Seiya Tenkai-hen. Además, comenta que la primera temporada tendrá 6 capítulos. Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #tenkaihen #saintseiyatenkaihen",
+      "url": "https://nitter.net/CesarinCool/status/2049686183052005803#m",
+      "date": "Thu, 30 Apr 2026 03:04:02 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHHytnbXQAAwLdG.jpg"
+      ]
     },
     {
       "id": "4b2a505332731a771c354e7e38d7da2bcbc872b9b559cd70b2266e9ddbfd1643",
@@ -329,6 +435,22 @@
       ]
     },
     {
+      "id": "d6c39c283bcb4d125f98fe6b066ac8ac1a5d0fb3f6e496cfa2a97be869e73614",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 Expectation vs. Reality: (🤣🤣)",
+      "text": "#ONEPIECE1181 Expectation vs. Reality: (🤣🤣)",
+      "url": "https://nitter.net/WorstGenHQ/status/2049741699551797554#m",
+      "date": "Thu, 30 Apr 2026 06:44:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHIlLvmXgAAh6Ox.jpg",
+        "https://nitter.net/pic/media%2FHHIlM3LXgAASPYM.jpg"
+      ]
+    },
+    {
       "id": "290d7fa7a6052454955e2e221f1d308b67affc7bfad10deb35ba017a98cb8e03",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -387,18 +509,78 @@
       ]
     },
     {
-      "id": "12247763004cb311eae5054827d6884fa0b2b61c4e04adc45160e3120ec399a4",
+      "id": "85d05eaf9e6664db115848c5b15123806bfc578c05a314f68bb3f0efbeda7317",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "“Dad, what was that Champions League semi-final like on Tuesday 28 April 2026 between PSG and Bayern Munich?” Video",
-      "text": "“Dad, what was that Champions League semi-final like on Tuesday 28 April 2026 between PSG and Bayern Munich?” Video",
-      "url": "https://nitter.net/FootyHumour/status/2049226954369388745#m",
-      "date": "Tue, 28 Apr 2026 20:39:13 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Saga do Céu terá 6 capítulos em sua primeira temporada, segundo atualização do Kurumada Pro. kurumadapro.com/column/artic…",
+      "text": "Saga do Céu terá 6 capítulos em sua primeira temporada, segundo atualização do Kurumada Pro. kurumadapro.com/column/artic…",
+      "url": "https://nitter.net/taizen_ss_br/status/2049686679292661980#m",
+      "date": "Thu, 30 Apr 2026 03:06:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F1890112799960920064%2Fimg%2FEh0jMt_fZHHUZrBS.jpg"
+        "https://nitter.net/pic/media%2FHHHzLESXcAI0O4h.jpg"
+      ]
+    },
+    {
+      "id": "ea54534f5e3c1761cb327c0ad7cd4cf51dc4f27900690ca11c01f79b8885085e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "＼\\🎊第8巻発売まであと1日🎊/／ 宇佐崎先生が描く、今回の表紙タイムラプスを特別公開🎨✨ 『魔男のイチ』最新コミックス第8巻は明日5/1(金)発売です✨ s-manga.net/items/contents.h… #IchiTheWitch Video",
+      "text": "＼\\🎊第8巻発売まであと1日🎊/／ 宇佐崎先生が描く、今回の表紙タイムラプスを特別公開🎨✨ 『魔男のイチ』最新コミックス第8巻は明日5/1(金)発売です✨ s-manga.net/items/contents.h… #IchiTheWitch Video",
+      "url": "https://nitter.net/Ichi_the_Witch/status/2049685175404278152#m",
+      "date": "Thu, 30 Apr 2026 03:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHGU_LIxakAAxijY.jpg"
+      ]
+    },
+    {
+      "id": "62df46d4ca9fabdf2ad772a4f1d24e0430a1c70fc831010b39cdeb8a2b0aee4f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2024年4月30日発売 2024年22•23号掲載 第1113話〝STALEMATE〟 #ワンピース今日は何話の日",
+      "text": "2024年4月30日発売 2024年22•23号掲載 第1113話〝STALEMATE〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2049634824818954446#m",
+      "date": "Wed, 29 Apr 2026 23:39:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHHEATQbMAAHT90.jpg"
+      ]
+    },
+    {
+      "id": "9a88d393fb0a7a647d604309c0b8d20f99e4a69fff60738c93599395bc400712",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Usa el ballet, Bart!",
+      "text": "¡Usa el ballet, Bart!",
+      "url": "https://nitter.net/SoySimpsonito/status/2049505014029160665#m",
+      "date": "Wed, 29 Apr 2026 15:04:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFN8lpbsAAfAY3.jpg"
+      ]
+    },
+    {
+      "id": "be2cd85f4d9d7eb4bcf2a03048145310605ff0edffb99168fa9c559eecf81b37",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No new episode this week, so how about an everything we can tell you about Season 5 post",
+      "text": "No new episode this week, so how about an everything we can tell you about Season 5 post",
+      "url": "https://nitter.net/InvincibleHQ/status/2049526688426430859#m",
+      "date": "Wed, 29 Apr 2026 16:30:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFclQKbUAAVlLY.jpg"
       ]
     },
     {
@@ -447,6 +629,21 @@
       ]
     },
     {
+      "id": "29651f0124e0cf81caca479aff04f061f2d3a439cebf1db17c7e15bd261876ae",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049729630840442917#m",
+      "date": "Thu, 30 Apr 2026 05:56:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHIaPBOXEAA3coS.jpg"
+      ]
+    },
+    {
       "id": "13e66c7de057037cb7deb0fed19815aafe4ac6ef4eaa261abf209a9dfaab2317",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -459,21 +656,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHGi4MyaQAA0t03.jpg"
-      ]
-    },
-    {
-      "id": "e4d94c01f27278926d1a58d0544a948eab38d9cb04295bbb7bbb480a83747fb5",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049524161916112932#m",
-      "date": "Wed, 29 Apr 2026 16:20:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfXISa4AAa4WB.jpg"
       ]
     },
     {
@@ -522,18 +704,18 @@
       ]
     },
     {
-      "id": "2d9199a17e8cc83097ab594f4b3934fe3a5744c5107c5ad9db94450d8ef7959a",
+      "id": "17db12da01031fb6b72ef134b23fe8a0bc4ec7870aa5609a071f617e1d89d3b4",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "#BERSERK #ベルセルク",
       "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049193019211948323#m",
-      "date": "Tue, 28 Apr 2026 18:24:22 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2049109467069882431#m",
+      "date": "Tue, 28 Apr 2026 12:52:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHAyMBtbIAAWCF8.jpg"
+        "https://nitter.net/pic/media%2FHG_mMynW4AA2_hd.jpg"
       ]
     }
   ]
