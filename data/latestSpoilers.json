@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T17:05:23.550Z",
+  "generatedAt": "2026-04-30T18:50:10.690Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,6 +33,81 @@
   ],
   "misc": [
     {
+      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Holy Fuck! Video",
+      "text": "Holy Fuck! Video",
+      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
+      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
+      ]
+    },
+    {
+      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
+      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
+      ]
+    },
+    {
+      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
+      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+      ]
+    },
+    {
+      "id": "6c7f67c96583745228c960831d4026bce712266e939114103e22131cb968630c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Gojo X Sukuna #Jjk",
+      "text": "Gojo X Sukuna #Jjk",
+      "url": "https://nitter.net/PacemanOP/status/2049127583342866452#m",
+      "date": "Tue, 28 Apr 2026 14:04:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG_2rXHbQAAzBvW.jpg"
+      ]
+    },
+    {
+      "id": "f8ca01c3154d8bff6bed22816497b1bb6986e43c61f68225ff729500931a637a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049912396815176165#m",
+      "date": "Thu, 30 Apr 2026 18:02:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHLAdYaWEAAjogS.jpg"
+      ]
+    },
+    {
       "id": "8537d353972b4c7d6ab1cb28ffd164d10aa4b46d3c88cb67699f812e29b7a373",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -105,81 +180,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHD4vGNaMAAlct1.jpg"
-      ]
-    },
-    {
-      "id": "054d9fae67e6ad589e4593777eff236f355289514804161cd23ca3413cd112b8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049359966150988132#m",
-      "date": "Wed, 29 Apr 2026 05:27:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHDKBniaUAMrYHf.jpg"
-      ]
-    },
-    {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
-      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
-      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
-    },
-    {
-      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
-      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
-    },
-    {
-      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
-      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
-      ]
-    },
-    {
-      "id": "6c7f67c96583745228c960831d4026bce712266e939114103e22131cb968630c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Gojo X Sukuna #Jjk",
-      "text": "Gojo X Sukuna #Jjk",
-      "url": "https://nitter.net/PacemanOP/status/2049127583342866452#m",
-      "date": "Tue, 28 Apr 2026 14:04:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG_2rXHbQAAzBvW.jpg"
       ]
     }
   ],
@@ -213,6 +213,81 @@
       ]
     },
     {
+      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Holy Fuck! Video",
+      "text": "Holy Fuck! Video",
+      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
+      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
+      ]
+    },
+    {
+      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
+      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
+      ]
+    },
+    {
+      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
+      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+      ]
+    },
+    {
+      "id": "6c7f67c96583745228c960831d4026bce712266e939114103e22131cb968630c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Gojo X Sukuna #Jjk",
+      "text": "Gojo X Sukuna #Jjk",
+      "url": "https://nitter.net/PacemanOP/status/2049127583342866452#m",
+      "date": "Tue, 28 Apr 2026 14:04:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG_2rXHbQAAzBvW.jpg"
+      ]
+    },
+    {
+      "id": "f8ca01c3154d8bff6bed22816497b1bb6986e43c61f68225ff729500931a637a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2049912396815176165#m",
+      "date": "Thu, 30 Apr 2026 18:02:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHLAdYaWEAAjogS.jpg"
+      ]
+    },
+    {
       "id": "8537d353972b4c7d6ab1cb28ffd164d10aa4b46d3c88cb67699f812e29b7a373",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -285,81 +360,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHD4vGNaMAAlct1.jpg"
-      ]
-    },
-    {
-      "id": "054d9fae67e6ad589e4593777eff236f355289514804161cd23ca3413cd112b8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049359966150988132#m",
-      "date": "Wed, 29 Apr 2026 05:27:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHDKBniaUAMrYHf.jpg"
-      ]
-    },
-    {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
-      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
-      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
-    },
-    {
-      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
-      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
-    },
-    {
-      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
-      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
-      ]
-    },
-    {
-      "id": "6c7f67c96583745228c960831d4026bce712266e939114103e22131cb968630c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Gojo X Sukuna #Jjk",
-      "text": "Gojo X Sukuna #Jjk",
-      "url": "https://nitter.net/PacemanOP/status/2049127583342866452#m",
-      "date": "Tue, 28 Apr 2026 14:04:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG_2rXHbQAAzBvW.jpg"
       ]
     }
   ]
