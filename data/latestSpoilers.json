@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T19:54:49.006Z",
+  "generatedAt": "2026-05-01T20:44:21.440Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "ae2cbcb41ac72ef0856b28ebb92c15ef431c0452f009d0ad86e2951ee38c52f0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 After seeing Zoro or Sanji vs Imu, and then Loki vs Imu, I seriously wonder how big the gap is between current Zoro and Mihawk and what Zoro will learn besides Future Sight and Black Bla",
+      "text": "#ONEPIECE1181 After seeing Zoro or Sanji vs Imu, and then Loki vs Imu, I seriously wonder how big the gap is between current Zoro and Mihawk and what Zoro will learn besides Future Sight and Black Blade to close this gap?",
+      "url": "https://nitter.net/WorstGenHQ/status/2050309656979853756#m",
+      "date": "Fri, 01 May 2026 20:21:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHQpDokW8AA3psd.jpg"
+      ]
+    },
     {
       "id": "ab895d8fe72a85053e680e3f7ed412e53dd16c4f92c86c1fa83d0808e257429c",
       "anime": "onepiece",
@@ -122,21 +137,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHLPpwzXoAA9kCM.jpg"
-      ]
-    },
-    {
-      "id": "96a27c88651bb137401d99695494a5c44186e89686430c388e0e276bb1d2cb4b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Nidhogg #ONEPIECE Video",
-      "text": "Nidhogg #ONEPIECE Video",
-      "url": "https://nitter.net/goyo045/status/2049899380874899921#m",
-      "date": "Thu, 30 Apr 2026 17:11:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049898659345539073%2Fimg%2F-YVfgSmmwTwy4YvQ.jpg"
       ]
     },
     {
@@ -394,6 +394,21 @@
       ]
     },
     {
+      "id": "ae2cbcb41ac72ef0856b28ebb92c15ef431c0452f009d0ad86e2951ee38c52f0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1181 After seeing Zoro or Sanji vs Imu, and then Loki vs Imu, I seriously wonder how big the gap is between current Zoro and Mihawk and what Zoro will learn besides Future Sight and Black Bla",
+      "text": "#ONEPIECE1181 After seeing Zoro or Sanji vs Imu, and then Loki vs Imu, I seriously wonder how big the gap is between current Zoro and Mihawk and what Zoro will learn besides Future Sight and Black Blade to close this gap?",
+      "url": "https://nitter.net/WorstGenHQ/status/2050309656979853756#m",
+      "date": "Fri, 01 May 2026 20:21:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHQpDokW8AA3psd.jpg"
+      ]
+    },
+    {
       "id": "ab895d8fe72a85053e680e3f7ed412e53dd16c4f92c86c1fa83d0808e257429c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -468,21 +483,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHLPpwzXoAA9kCM.jpg"
-      ]
-    },
-    {
-      "id": "96a27c88651bb137401d99695494a5c44186e89686430c388e0e276bb1d2cb4b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Nidhogg #ONEPIECE Video",
-      "text": "Nidhogg #ONEPIECE Video",
-      "url": "https://nitter.net/goyo045/status/2049899380874899921#m",
-      "date": "Thu, 30 Apr 2026 17:11:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049898659345539073%2Fimg%2F-YVfgSmmwTwy4YvQ.jpg"
       ]
     },
     {
