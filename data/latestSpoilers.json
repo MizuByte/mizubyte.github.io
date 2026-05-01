@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:40:48.757Z",
+  "generatedAt": "2026-05-01T16:39:23.879Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -278,6 +278,21 @@
       ]
     },
     {
+      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
+      "date": "Fri, 01 May 2026 16:27:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
+      ]
+    },
+    {
       "id": "f8ca01c3154d8bff6bed22816497b1bb6986e43c61f68225ff729500931a637a",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -335,21 +350,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHGi4MyaQAA0t03.jpg"
-      ]
-    },
-    {
-      "id": "b51b633c8a4a1fb6350ae423044293819a240364c4441d4b923636162fbe0c69",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049507315649220827#m",
-      "date": "Wed, 29 Apr 2026 15:13:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFQCaObEAE7MDR.jpg"
       ]
     }
   ],
@@ -628,6 +628,21 @@
       ]
     },
     {
+      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
+      "date": "Fri, 01 May 2026 16:27:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
+      ]
+    },
+    {
       "id": "f8ca01c3154d8bff6bed22816497b1bb6986e43c61f68225ff729500931a637a",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -685,21 +700,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHGi4MyaQAA0t03.jpg"
-      ]
-    },
-    {
-      "id": "b51b633c8a4a1fb6350ae423044293819a240364c4441d4b923636162fbe0c69",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049507315649220827#m",
-      "date": "Wed, 29 Apr 2026 15:13:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFQCaObEAE7MDR.jpg"
       ]
     }
   ]
