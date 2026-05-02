@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T14:00:12.671Z",
+  "generatedAt": "2026-05-02T14:54:44.577Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "7a5cddac95f09a5dda9912e1f4e4e2e4393e7a51100ca17b1c49d83391a8c972",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "本日のトークショー&サイン会に来てくださった皆様、ありがとうございました。 #サクラ大戦 #松原秀典 #SEGA #アートコレクションハウス",
+      "text": "本日のトークショー&サイン会に来てくださった皆様、ありがとうございました。 #サクラ大戦 #松原秀典 #SEGA #アートコレクションハウス",
+      "url": "https://nitter.net/HideMatsubara/status/2050568793873932467#m",
+      "date": "Sat, 02 May 2026 13:31:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHUVZ4aaYAAAazc.jpg"
+      ]
+    },
     {
       "id": "731392c0a939e62e5f6caeb5417697fbeba180fdc7877885bec65bc58a878e1e",
       "anime": "onepiece",
@@ -126,21 +141,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHT7uhRbUAErJuh.jpg"
-      ]
-    },
-    {
-      "id": "22ba496f3ddf34a38061922dbb10f5f9f3471b498266b8508ac5b6d86bae9b24",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "text": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2050357144596476133#m",
-      "date": "Fri, 01 May 2026 23:30:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHRU8mbbYAAbzKl.jpg"
       ]
     },
     {
@@ -396,6 +396,21 @@
       "attachments": []
     },
     {
+      "id": "7a5cddac95f09a5dda9912e1f4e4e2e4393e7a51100ca17b1c49d83391a8c972",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "本日のトークショー&サイン会に来てくださった皆様、ありがとうございました。 #サクラ大戦 #松原秀典 #SEGA #アートコレクションハウス",
+      "text": "本日のトークショー&サイン会に来てくださった皆様、ありがとうございました。 #サクラ大戦 #松原秀典 #SEGA #アートコレクションハウス",
+      "url": "https://nitter.net/HideMatsubara/status/2050568793873932467#m",
+      "date": "Sat, 02 May 2026 13:31:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHUVZ4aaYAAAazc.jpg"
+      ]
+    },
+    {
       "id": "731392c0a939e62e5f6caeb5417697fbeba180fdc7877885bec65bc58a878e1e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -474,21 +489,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHT7uhRbUAErJuh.jpg"
-      ]
-    },
-    {
-      "id": "22ba496f3ddf34a38061922dbb10f5f9f3471b498266b8508ac5b6d86bae9b24",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "text": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2050357144596476133#m",
-      "date": "Fri, 01 May 2026 23:30:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHRU8mbbYAAbzKl.jpg"
       ]
     },
     {
