@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-05-02T09:36:32.256Z",
+  "generatedAt": "2026-05-02T10:34:56.992Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "4b2a505332731a771c354e7e38d7da2bcbc872b9b559cd70b2266e9ddbfd1643",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
+      "text": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
+      "url": "https://nitter.net/nite_baron/status/2049145589149880672#m",
+      "date": "Tue, 28 Apr 2026 15:15:54 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
       "anime": "boruto",
@@ -16,23 +29,101 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
       ]
-    },
-    {
-      "id": "4b2a505332731a771c354e7e38d7da2bcbc872b9b559cd70b2266e9ddbfd1643",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
-      "text": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
-      "url": "https://nitter.net/nite_baron/status/2049145589149880672#m",
-      "date": "Tue, 28 Apr 2026 15:15:54 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
     {
+      "id": "22ba496f3ddf34a38061922dbb10f5f9f3471b498266b8508ac5b6d86bae9b24",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
+      "text": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2050357144596476133#m",
+      "date": "Fri, 01 May 2026 23:30:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHRU8mbbYAAbzKl.jpg"
+      ]
+    },
+    {
+      "id": "02f94e53b6fb4d241c1302b6efcdff0fd3b95c063099a6581c3abe76f058dc51",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injust",
+      "text": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injustamente fue tratada por muchos (algo parecido a lo que le pasó a Wii U). dandorf (@dandorf22) Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año? — https://nitter.net/dandorf22/status/2050161809743577435#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2050320813115515321#m",
+      "date": "Fri, 01 May 2026 21:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
+      ]
+    },
+    {
+      "id": "2d73eed362ad6f6d5017b8a950cceeb25529bf1591a7e84559f26eb5356bc56f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
+      "text": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
+      "url": "https://nitter.net/negro_milano/status/2050169026614104097#m",
+      "date": "Fri, 01 May 2026 11:02:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHKBVkPXgAAcKCE.jpg"
+      ]
+    },
+    {
+      "id": "47a36e22fda065b7a678ac86d09aa8ebbcb314a7e8ccda2dbd97de96b237939f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
+      "text": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
+      "url": "https://nitter.net/dandorf22/status/2050161809743577435#m",
+      "date": "Fri, 01 May 2026 10:34:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
+      ]
+    },
+    {
+      "id": "34664a6eeae41d37250946f7175db03dd06987baaa2e7e0148bd5659179c2fc1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
+      "text": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
+      "url": "https://nitter.net/yusutajio/status/2050235708301070562#m",
+      "date": "Fri, 01 May 2026 15:27:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHPmgf4bsAAODaQ.jpg"
+      ]
+    },
+    {
+      "id": "dca93e27c70848930c740ad0a3e592e89a29ae466f3e38db69baf87a024144ea",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
+      "text": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
+      "url": "https://nitter.net/mainichi_godone/status/2050027159939678718#m",
+      "date": "Fri, 01 May 2026 01:38:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHMo1WWbUAA1st5.jpg",
+        "https://nitter.net/pic/media%2FHHMo1WYboAAmQ7G.jpg"
+      ]
+    },
+    {
       "id": "a41166620d888ea3df94edbf2a25efd2f88fbccf0278c468db83f8f541dee0f7",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -125,171 +216,6 @@
       ]
     },
     {
-      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
-      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
-      ]
-    },
-    {
-      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
-      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
-      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
-      ]
-    },
-    {
-      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
-      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2da30d5038edb223787137bb19442ec118fe210f38cb45f9bb3c651a1e610d9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/W",
-      "text": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/WSJ_manga/status/2048845513680683326#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049057716702708222#m",
-      "date": "Tue, 28 Apr 2026 09:26:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG72GaCbgAA2sJ0.jpg",
-        "https://nitter.net/pic/media%2FHG72Hj3a8AAGLeP.jpg"
-      ]
-    },
-    {
-      "id": "bab338461e8d372e364c4851478ca1c564c137f69857ec6987aa3403597a4dc4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Yeah I don’t think Boruto will ever get this treatment… #BORUTO DiscussingFilm (@DiscussingFilm) First teaser for the ‘KAGURABACHI’ anime. Releasing in April 2027. Video — https://nitter.net/Discussin",
-      "text": "Yeah I don’t think Boruto will ever get this treatment… #BORUTO DiscussingFilm (@DiscussingFilm) First teaser for the ‘KAGURABACHI’ anime. Releasing in April 2027. Video — https://nitter.net/DiscussingFilm/status/2048743128320872480#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2048796442748125361#m",
-      "date": "Mon, 27 Apr 2026 16:08:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2048743071282819072%2Fimg%2F7nlX95LO-7XC3ri3.jpg"
-      ]
-    },
-    {
-      "id": "22ba496f3ddf34a38061922dbb10f5f9f3471b498266b8508ac5b6d86bae9b24",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "text": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2050357144596476133#m",
-      "date": "Fri, 01 May 2026 23:30:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHRU8mbbYAAbzKl.jpg"
-      ]
-    },
-    {
-      "id": "02f94e53b6fb4d241c1302b6efcdff0fd3b95c063099a6581c3abe76f058dc51",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injust",
-      "text": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injustamente fue tratada por muchos (algo parecido a lo que le pasó a Wii U). dandorf (@dandorf22) Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año? — https://nitter.net/dandorf22/status/2050161809743577435#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2050320813115515321#m",
-      "date": "Fri, 01 May 2026 21:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
-      ]
-    },
-    {
-      "id": "2d73eed362ad6f6d5017b8a950cceeb25529bf1591a7e84559f26eb5356bc56f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
-      "text": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
-      "url": "https://nitter.net/negro_milano/status/2050169026614104097#m",
-      "date": "Fri, 01 May 2026 11:02:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHKBVkPXgAAcKCE.jpg"
-      ]
-    },
-    {
-      "id": "47a36e22fda065b7a678ac86d09aa8ebbcb314a7e8ccda2dbd97de96b237939f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
-      "text": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
-      "url": "https://nitter.net/dandorf22/status/2050161809743577435#m",
-      "date": "Fri, 01 May 2026 10:34:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
-      ]
-    },
-    {
-      "id": "34664a6eeae41d37250946f7175db03dd06987baaa2e7e0148bd5659179c2fc1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
-      "text": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
-      "url": "https://nitter.net/yusutajio/status/2050235708301070562#m",
-      "date": "Fri, 01 May 2026 15:27:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHPmgf4bsAAODaQ.jpg"
-      ]
-    },
-    {
-      "id": "dca93e27c70848930c740ad0a3e592e89a29ae466f3e38db69baf87a024144ea",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
-      "text": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
-      "url": "https://nitter.net/mainichi_godone/status/2050027159939678718#m",
-      "date": "Fri, 01 May 2026 01:38:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHMo1WWbUAA1st5.jpg",
-        "https://nitter.net/pic/media%2FHHMo1WYboAAmQ7G.jpg"
-      ]
-    },
-    {
       "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -331,9 +257,95 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
       ]
+    },
+    {
+      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
+      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+      ]
+    },
+    {
+      "id": "6c7f67c96583745228c960831d4026bce712266e939114103e22131cb968630c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Gojo X Sukuna #Jjk",
+      "text": "Gojo X Sukuna #Jjk",
+      "url": "https://nitter.net/PacemanOP/status/2049127583342866452#m",
+      "date": "Tue, 28 Apr 2026 14:04:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG_2rXHbQAAzBvW.jpg"
+      ]
+    },
+    {
+      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
+      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
+      ]
+    },
+    {
+      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
+      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
+      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
+      ]
+    },
+    {
+      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
+      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
+    {
+      "id": "4b2a505332731a771c354e7e38d7da2bcbc872b9b559cd70b2266e9ddbfd1643",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
+      "text": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
+      "url": "https://nitter.net/nite_baron/status/2049145589149880672#m",
+      "date": "Tue, 28 Apr 2026 15:15:54 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
       "anime": "boruto",
@@ -350,17 +362,95 @@
       ]
     },
     {
-      "id": "4b2a505332731a771c354e7e38d7da2bcbc872b9b559cd70b2266e9ddbfd1643",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
-      "text": "Who should Asta have ended up with? 😏 VOICE YOUR OPINION #BCSpoilers",
-      "url": "https://nitter.net/nite_baron/status/2049145589149880672#m",
-      "date": "Tue, 28 Apr 2026 15:15:54 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "id": "22ba496f3ddf34a38061922dbb10f5f9f3471b498266b8508ac5b6d86bae9b24",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
+      "text": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2050357144596476133#m",
+      "date": "Fri, 01 May 2026 23:30:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHRU8mbbYAAbzKl.jpg"
+      ]
+    },
+    {
+      "id": "02f94e53b6fb4d241c1302b6efcdff0fd3b95c063099a6581c3abe76f058dc51",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injust",
+      "text": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injustamente fue tratada por muchos (algo parecido a lo que le pasó a Wii U). dandorf (@dandorf22) Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año? — https://nitter.net/dandorf22/status/2050161809743577435#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2050320813115515321#m",
+      "date": "Fri, 01 May 2026 21:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
+      ]
+    },
+    {
+      "id": "2d73eed362ad6f6d5017b8a950cceeb25529bf1591a7e84559f26eb5356bc56f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
+      "text": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
+      "url": "https://nitter.net/negro_milano/status/2050169026614104097#m",
+      "date": "Fri, 01 May 2026 11:02:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHKBVkPXgAAcKCE.jpg"
+      ]
+    },
+    {
+      "id": "47a36e22fda065b7a678ac86d09aa8ebbcb314a7e8ccda2dbd97de96b237939f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
+      "text": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
+      "url": "https://nitter.net/dandorf22/status/2050161809743577435#m",
+      "date": "Fri, 01 May 2026 10:34:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
+      ]
+    },
+    {
+      "id": "34664a6eeae41d37250946f7175db03dd06987baaa2e7e0148bd5659179c2fc1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
+      "text": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
+      "url": "https://nitter.net/yusutajio/status/2050235708301070562#m",
+      "date": "Fri, 01 May 2026 15:27:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHPmgf4bsAAODaQ.jpg"
+      ]
+    },
+    {
+      "id": "dca93e27c70848930c740ad0a3e592e89a29ae466f3e38db69baf87a024144ea",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
+      "text": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
+      "url": "https://nitter.net/mainichi_godone/status/2050027159939678718#m",
+      "date": "Fri, 01 May 2026 01:38:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHMo1WWbUAA1st5.jpg",
+        "https://nitter.net/pic/media%2FHHMo1WYboAAmQ7G.jpg"
+      ]
     },
     {
       "id": "a41166620d888ea3df94edbf2a25efd2f88fbccf0278c468db83f8f541dee0f7",
@@ -455,171 +545,6 @@
       ]
     },
     {
-      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
-      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
-      ]
-    },
-    {
-      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
-      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
-      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
-      ]
-    },
-    {
-      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
-      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2da30d5038edb223787137bb19442ec118fe210f38cb45f9bb3c651a1e610d9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/W",
-      "text": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/WSJ_manga/status/2048845513680683326#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049057716702708222#m",
-      "date": "Tue, 28 Apr 2026 09:26:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG72GaCbgAA2sJ0.jpg",
-        "https://nitter.net/pic/media%2FHG72Hj3a8AAGLeP.jpg"
-      ]
-    },
-    {
-      "id": "bab338461e8d372e364c4851478ca1c564c137f69857ec6987aa3403597a4dc4",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Yeah I don’t think Boruto will ever get this treatment… #BORUTO DiscussingFilm (@DiscussingFilm) First teaser for the ‘KAGURABACHI’ anime. Releasing in April 2027. Video — https://nitter.net/Discussin",
-      "text": "Yeah I don’t think Boruto will ever get this treatment… #BORUTO DiscussingFilm (@DiscussingFilm) First teaser for the ‘KAGURABACHI’ anime. Releasing in April 2027. Video — https://nitter.net/DiscussingFilm/status/2048743128320872480#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2048796442748125361#m",
-      "date": "Mon, 27 Apr 2026 16:08:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2048743071282819072%2Fimg%2F7nlX95LO-7XC3ri3.jpg"
-      ]
-    },
-    {
-      "id": "22ba496f3ddf34a38061922dbb10f5f9f3471b498266b8508ac5b6d86bae9b24",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "text": "2018年5月2日発売 2018年23号掲載 第903話〝5番目の皇帝〟 #ワンピース今日は何話の日",
-      "url": "https://nitter.net/hamaboh_manga/status/2050357144596476133#m",
-      "date": "Fri, 01 May 2026 23:30:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHRU8mbbYAAbzKl.jpg"
-      ]
-    },
-    {
-      "id": "02f94e53b6fb4d241c1302b6efcdff0fd3b95c063099a6581c3abe76f058dc51",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injust",
-      "text": "Teniendo en cuenta que faltan muchos juegos importantes de la consola, de esa lista para mi el mejor año es 2003 seguido muy de cerca de 2005. Qué grandísima consola fue Nintendo GameCube y que injustamente fue tratada por muchos (algo parecido a lo que le pasó a Wii U). dandorf (@dandorf22) Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año? — https://nitter.net/dandorf22/status/2050161809743577435#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2050320813115515321#m",
-      "date": "Fri, 01 May 2026 21:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
-      ]
-    },
-    {
-      "id": "2d73eed362ad6f6d5017b8a950cceeb25529bf1591a7e84559f26eb5356bc56f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
-      "text": "el dandy de barcelona DiscussingFilm (@DiscussingFilm) First look at a freak in Zach Cregger's ‘RESIDENT EVIL’. — https://nitter.net/DiscussingFilm/status/2049842991364178133#m",
-      "url": "https://nitter.net/negro_milano/status/2050169026614104097#m",
-      "date": "Fri, 01 May 2026 11:02:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHKBVkPXgAAcKCE.jpg"
-      ]
-    },
-    {
-      "id": "47a36e22fda065b7a678ac86d09aa8ebbcb314a7e8ccda2dbd97de96b237939f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
-      "text": "Estamos de acuerdo en que Nintendo Gamecube es un consolón con unos juegos descomunales pero... ¿Cuál fue su MEJOR año?",
-      "url": "https://nitter.net/dandorf22/status/2050161809743577435#m",
-      "date": "Fri, 01 May 2026 10:34:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHBhDppiXEAIzjH6.jpg"
-      ]
-    },
-    {
-      "id": "34664a6eeae41d37250946f7175db03dd06987baaa2e7e0148bd5659179c2fc1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
-      "text": "ポストカードきたぁーー！！！ 集英社って書いてる封筒も嬉しい☺️",
-      "url": "https://nitter.net/yusutajio/status/2050235708301070562#m",
-      "date": "Fri, 01 May 2026 15:27:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHPmgf4bsAAODaQ.jpg"
-      ]
-    },
-    {
-      "id": "dca93e27c70848930c740ad0a3e592e89a29ae466f3e38db69baf87a024144ea",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
-      "text": "ジャンプとポケモンコラボのアクスタセット、届きました🥳👏✨とっても良い可愛い！！集合となると流石にちょっと重量ありました。 チヒロは天才的なコートの翻り方をしている！ポカブーの作画がとても良い！ジャンプ編集部さんまっことありがとうございましたこれからも本誌読ませていただきます",
-      "url": "https://nitter.net/mainichi_godone/status/2050027159939678718#m",
-      "date": "Fri, 01 May 2026 01:38:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHMo1WWbUAA1st5.jpg",
-        "https://nitter.net/pic/media%2FHHMo1WYboAAmQ7G.jpg"
-      ]
-    },
-    {
       "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -661,6 +586,79 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
       ]
+    },
+    {
+      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
+      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+      ]
+    },
+    {
+      "id": "6c7f67c96583745228c960831d4026bce712266e939114103e22131cb968630c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Gojo X Sukuna #Jjk",
+      "text": "Gojo X Sukuna #Jjk",
+      "url": "https://nitter.net/PacemanOP/status/2049127583342866452#m",
+      "date": "Tue, 28 Apr 2026 14:04:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG_2rXHbQAAzBvW.jpg"
+      ]
+    },
+    {
+      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
+      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
+      ]
+    },
+    {
+      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
+      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
+      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
+      ]
+    },
+    {
+      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
+      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
