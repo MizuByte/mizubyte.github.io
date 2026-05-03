@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T20:26:11.501Z",
+  "generatedAt": "2026-05-03T21:28:06.548Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "5adf9c259c9e8c59242a2b3170c24556f5898e7222fb947d4ee34db58571c21d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "YOOOOOOO!!! Death Note reference in Episode 1160!!!",
+      "text": "YOOOOOOO!!! Death Note reference in Episode 1160!!!",
+      "url": "https://nitter.net/TheWillOfMarco/status/2051030789329195346#m",
+      "date": "Sun, 03 May 2026 20:07:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHa5bzLagAAfwUd.jpg"
+      ]
+    },
     {
       "id": "9fbda04c4134d906b45908303fae3b9e9f930a01698e70098b296d1ff5e8ec64",
       "anime": "onepiece",
@@ -109,17 +124,19 @@
       ]
     },
     {
-      "id": "fa9db9ac52f36cb35c4e34880cfe2878200550d2e6ba60d38abb9db1ed02f955",
+      "id": "8dc752b798a4e56378579e962d8557578227b1604cbe947ae86711c6ed933202",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The true winner is this guy, still in top 5 without much screentime since Wano... Law is HIM",
-      "text": "The true winner is this guy, still in top 5 without much screentime since Wano... Law is HIM",
-      "url": "https://nitter.net/WorstGenHQ/status/2050969145642995992#m",
-      "date": "Sun, 03 May 2026 16:02:04 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間結果発表LIVEまとめ【1/2】 いよいよ折り返しを迎えた 世界人気投票「WT100」🔥🔥 中間ランキングTOP100がこちら！ 投票〆切は6.11(木)まで！ ハガキ、特設サイト、BASEアプリ、 WT100スポットの4パターンから 好きな方法で投票しよう！ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "text": "中間結果発表LIVEまとめ【1/2】 いよいよ折り返しを迎えた 世界人気投票「WT100」🔥🔥 中間ランキングTOP100がこちら！ 投票〆切は6.11(木)まで！ ハガキ、特設サイト、BASEアプリ、 WT100スポットの4パターンから 好きな方法で投票しよう！ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050966031347405214#m",
+      "date": "Sun, 03 May 2026 15:49:41 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHZ-u1DbAAAnnRC.jpg"
+      ]
     },
     {
       "id": "68d5cf59684ee6b34490c548b8651d08763a25f1781cbc6c0fbcebe4e12e987f",
@@ -198,21 +215,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2051014160960389121%2F2EFia8Ea%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
-    {
-      "id": "a3420ebe9f4c1535d5c5fd1d5979edb6920a083134e3aa67a7b3fb5bf40f7058",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
-      "text": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
-      "url": "https://nitter.net/Mugiwara_23/status/2050187936902115406#m",
-      "date": "Fri, 01 May 2026 12:17:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHO6rciWUAAjGxH.jpg"
       ]
     },
     {
@@ -391,6 +393,21 @@
       ]
     },
     {
+      "id": "5adf9c259c9e8c59242a2b3170c24556f5898e7222fb947d4ee34db58571c21d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "YOOOOOOO!!! Death Note reference in Episode 1160!!!",
+      "text": "YOOOOOOO!!! Death Note reference in Episode 1160!!!",
+      "url": "https://nitter.net/TheWillOfMarco/status/2051030789329195346#m",
+      "date": "Sun, 03 May 2026 20:07:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHa5bzLagAAfwUd.jpg"
+      ]
+    },
+    {
       "id": "9fbda04c4134d906b45908303fae3b9e9f930a01698e70098b296d1ff5e8ec64",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -452,17 +469,19 @@
       ]
     },
     {
-      "id": "fa9db9ac52f36cb35c4e34880cfe2878200550d2e6ba60d38abb9db1ed02f955",
+      "id": "8dc752b798a4e56378579e962d8557578227b1604cbe947ae86711c6ed933202",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The true winner is this guy, still in top 5 without much screentime since Wano... Law is HIM",
-      "text": "The true winner is this guy, still in top 5 without much screentime since Wano... Law is HIM",
-      "url": "https://nitter.net/WorstGenHQ/status/2050969145642995992#m",
-      "date": "Sun, 03 May 2026 16:02:04 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間結果発表LIVEまとめ【1/2】 いよいよ折り返しを迎えた 世界人気投票「WT100」🔥🔥 中間ランキングTOP100がこちら！ 投票〆切は6.11(木)まで！ ハガキ、特設サイト、BASEアプリ、 WT100スポットの4パターンから 好きな方法で投票しよう！ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "text": "中間結果発表LIVEまとめ【1/2】 いよいよ折り返しを迎えた 世界人気投票「WT100」🔥🔥 中間ランキングTOP100がこちら！ 投票〆切は6.11(木)まで！ ハガキ、特設サイト、BASEアプリ、 WT100スポットの4パターンから 好きな方法で投票しよう！ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050966031347405214#m",
+      "date": "Sun, 03 May 2026 15:49:41 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHZ-u1DbAAAnnRC.jpg"
+      ]
     },
     {
       "id": "68d5cf59684ee6b34490c548b8651d08763a25f1781cbc6c0fbcebe4e12e987f",
@@ -541,21 +560,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2051014160960389121%2F2EFia8Ea%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
-    {
-      "id": "a3420ebe9f4c1535d5c5fd1d5979edb6920a083134e3aa67a7b3fb5bf40f7058",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
-      "text": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
-      "url": "https://nitter.net/Mugiwara_23/status/2050187936902115406#m",
-      "date": "Fri, 01 May 2026 12:17:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHO6rciWUAAjGxH.jpg"
       ]
     },
     {
