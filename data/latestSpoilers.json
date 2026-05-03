@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T14:01:29.350Z",
+  "generatedAt": "2026-05-03T15:08:47.081Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,21 +18,6 @@
       ]
     },
     {
-      "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "text": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049068440384581642#m",
-      "date": "Tue, 28 Apr 2026 10:09:20 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
-      ]
-    },
-    {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -45,6 +30,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
+      "text": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2049068440384581642#m",
+      "date": "Tue, 28 Apr 2026 10:09:20 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
       ]
     }
   ],
@@ -125,77 +125,100 @@
       ]
     },
     {
-      "id": "2c41c9d18f69a45988bfadde4a2f0886d23b68034132c8fdbe9b38041de6d2a8",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
-      "date": "Sat, 02 May 2026 20:36:44 GMT",
+      "id": "9dd889f68986de70d3138913055c57f7064bb24ae237ad6f5a789adc547b9acc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間ランキング【23位〜26位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "text": "中間ランキング【23位〜26位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050954848267653515#m",
+      "date": "Sun, 03 May 2026 15:05:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
+        "https://nitter.net/pic/media%2FHHZ0j_fasAACql3.jpg",
+        "https://nitter.net/pic/media%2FHHZ0j_tboAAg1Yy.jpg",
+        "https://nitter.net/pic/media%2FHHZ0j_jbcAApK-X.jpg",
+        "https://nitter.net/pic/media%2FHHZ0j_hagAARhcg.jpg"
       ]
     },
     {
-      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
-      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
+      "id": "7fd08356ea6ddb7b9f502694af94b994d38b5b5e24339ca4c4ed10fcab26ffb1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間ランキング【27位〜30位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "text": "中間ランキング【27位〜30位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050954566255231184#m",
+      "date": "Sun, 03 May 2026 15:04:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
+        "https://nitter.net/pic/media%2FHHZ0TnXbAAAR-W_.jpg",
+        "https://nitter.net/pic/media%2FHHZ0TndakAAHehz.jpg",
+        "https://nitter.net/pic/media%2FHHZ0TnUbYAE3XC_.jpg",
+        "https://nitter.net/pic/media%2FHHZ0TnUakAEd2ee.jpg"
       ]
     },
     {
-      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
-      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
-      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
+      "id": "33db7e9c7a36fbc93df636e52bd53feb6f284ed1c6931a0ba925335b3801dc1e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間ランキング【31位〜100位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "text": "中間ランキング【31位〜100位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050952977998127536#m",
+      "date": "Sun, 03 May 2026 14:57:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
+        "https://nitter.net/pic/media%2FHHZy3KKbkAERdJw.jpg",
+        "https://nitter.net/pic/media%2FHHZy3KUbQAAkCHH.jpg",
+        "https://nitter.net/pic/media%2FHHZy3KJawAAAb89.jpg",
+        "https://nitter.net/pic/media%2FHHZy3KKbkAIm_rD.jpg"
       ]
     },
     {
-      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
-      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
+      "id": "476aec06274d12569cb9b14489e098b6e2ee6d9d0383e0a4bff1749f81281eef",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと23日】 本日の作品はこちら！ ／ お気に入りのカードはどれでしたか？ ＼",
+      "text": "【#DQ40th まであと23日】 本日の作品はこちら！ ／ お気に入りのカードはどれでしたか？ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2050953589255020606#m",
+      "date": "Sun, 03 May 2026 15:00:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHZzapCbwAApuKV.jpg"
+      ]
+    },
+    {
+      "id": "fb82c78b76e09314f6a81543d9f320303e6cde6051a4295e0cd4e968978e0ac0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Si Luffy no está en los 3 primeros puestos de los resultados oficiales de mitad de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece, tocará hacer votación masiva a Luffy en",
+      "text": "Si Luffy no está en los 3 primeros puestos de los resultados oficiales de mitad de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece, tocará hacer votación masiva a Luffy en lo que queda de las votaciones 😎😎😎 #ONEPIECE_WT100 #WT100_MidtermResults",
+      "url": "https://nitter.net/Mugiwara_23/status/2050953101809508475#m",
+      "date": "Sun, 03 May 2026 14:58:18 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "e2da30d5038edb223787137bb19442ec118fe210f38cb45f9bb3c651a1e610d9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/W",
-      "text": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/WSJ_manga/status/2048845513680683326#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049057716702708222#m",
-      "date": "Tue, 28 Apr 2026 09:26:43 GMT",
+      "id": "c15b28cc0733ccf32a68f6fffcaf2e15f3d498fa73009e92fb494d4ed0674f2b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "／ ハッシュタグ投稿で当たる！ 中間結果発表LIVE プレゼントキャンペーン開催🎁 ＼ #ワンピ中間発表 #ONEPIECE_WT100 上記ハッシュタグ2種をつけて 中間発表の実況や感想などを投稿しよう！ 投稿してくれた方の中から抽選で5名に こちらのグッズセットをプレゼントします✨",
+      "text": "／ ハッシュタグ投稿で当たる！ 中間結果発表LIVE プレゼントキャンペーン開催🎁 ＼ #ワンピ中間発表 #ONEPIECE_WT100 上記ハッシュタグ2種をつけて 中間発表の実況や感想などを投稿しよう！ 投稿してくれた方の中から抽選で5名に こちらのグッズセットをプレゼントします✨",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050950813233868896#m",
+      "date": "Sun, 03 May 2026 14:49:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHG72GaCbgAA2sJ0.jpg",
-        "https://nitter.net/pic/media%2FHG72Hj3a8AAGLeP.jpg"
+        "https://nitter.net/pic/media%2FHHZw486bUAAwXaR.jpg"
       ]
     },
     {
@@ -270,79 +293,62 @@
       ]
     },
     {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
+      "id": "2c41c9d18f69a45988bfadde4a2f0886d23b68034132c8fdbe9b38041de6d2a8",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
+      "date": "Sat, 02 May 2026 20:36:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
+        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
       ]
     },
     {
-      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
-      "date": "Fri, 01 May 2026 16:27:41 GMT",
+      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
+      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
+        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
       ]
     },
     {
-      "id": "f8ca01c3154d8bff6bed22816497b1bb6986e43c61f68225ff729500931a637a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049912396815176165#m",
-      "date": "Thu, 30 Apr 2026 18:02:55 GMT",
+      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
+      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
+      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHLAdYaWEAAjogS.jpg"
+        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
       ]
     },
     {
-      "id": "8537d353972b4c7d6ab1cb28ffd164d10aa4b46d3c88cb67699f812e29b7a373",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049836375675981889#m",
-      "date": "Thu, 30 Apr 2026 13:00:50 GMT",
+      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
+      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHJ7USIW8AAoM3B.jpg"
-      ]
-    },
-    {
-      "id": "29651f0124e0cf81caca479aff04f061f2d3a439cebf1db17c7e15bd261876ae",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049729630840442917#m",
-      "date": "Thu, 30 Apr 2026 05:56:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHIaPBOXEAA3coS.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
@@ -362,21 +368,6 @@
       ]
     },
     {
-      "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "text": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049068440384581642#m",
-      "date": "Tue, 28 Apr 2026 10:09:20 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
-      ]
-    },
-    {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -389,6 +380,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
+      "text": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2049068440384581642#m",
+      "date": "Tue, 28 Apr 2026 10:09:20 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
       ]
     },
     {
@@ -467,77 +473,100 @@
       ]
     },
     {
-      "id": "2c41c9d18f69a45988bfadde4a2f0886d23b68034132c8fdbe9b38041de6d2a8",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
-      "date": "Sat, 02 May 2026 20:36:44 GMT",
+      "id": "9dd889f68986de70d3138913055c57f7064bb24ae237ad6f5a789adc547b9acc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間ランキング【23位〜26位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "text": "中間ランキング【23位〜26位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050954848267653515#m",
+      "date": "Sun, 03 May 2026 15:05:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
+        "https://nitter.net/pic/media%2FHHZ0j_fasAACql3.jpg",
+        "https://nitter.net/pic/media%2FHHZ0j_tboAAg1Yy.jpg",
+        "https://nitter.net/pic/media%2FHHZ0j_jbcAApK-X.jpg",
+        "https://nitter.net/pic/media%2FHHZ0j_hagAARhcg.jpg"
       ]
     },
     {
-      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
-      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
+      "id": "7fd08356ea6ddb7b9f502694af94b994d38b5b5e24339ca4c4ed10fcab26ffb1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間ランキング【27位〜30位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "text": "中間ランキング【27位〜30位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050954566255231184#m",
+      "date": "Sun, 03 May 2026 15:04:08 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
+        "https://nitter.net/pic/media%2FHHZ0TnXbAAAR-W_.jpg",
+        "https://nitter.net/pic/media%2FHHZ0TndakAAHehz.jpg",
+        "https://nitter.net/pic/media%2FHHZ0TnUbYAE3XC_.jpg",
+        "https://nitter.net/pic/media%2FHHZ0TnUakAEd2ee.jpg"
       ]
     },
     {
-      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
-      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
-      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
+      "id": "33db7e9c7a36fbc93df636e52bd53feb6f284ed1c6931a0ba925335b3801dc1e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "中間ランキング【31位〜100位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "text": "中間ランキング【31位〜100位】 🔻生配信をみる piped.video/szJevCHQnvQ #ワンピ中間発表 #ONEPIECE_WT100 #ONEPIECE",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050952977998127536#m",
+      "date": "Sun, 03 May 2026 14:57:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
+        "https://nitter.net/pic/media%2FHHZy3KKbkAERdJw.jpg",
+        "https://nitter.net/pic/media%2FHHZy3KUbQAAkCHH.jpg",
+        "https://nitter.net/pic/media%2FHHZy3KJawAAAb89.jpg",
+        "https://nitter.net/pic/media%2FHHZy3KKbkAIm_rD.jpg"
       ]
     },
     {
-      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
-      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
+      "id": "476aec06274d12569cb9b14489e098b6e2ee6d9d0383e0a4bff1749f81281eef",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと23日】 本日の作品はこちら！ ／ お気に入りのカードはどれでしたか？ ＼",
+      "text": "【#DQ40th まであと23日】 本日の作品はこちら！ ／ お気に入りのカードはどれでしたか？ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2050953589255020606#m",
+      "date": "Sun, 03 May 2026 15:00:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHZzapCbwAApuKV.jpg"
+      ]
+    },
+    {
+      "id": "fb82c78b76e09314f6a81543d9f320303e6cde6051a4295e0cd4e968978e0ac0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Si Luffy no está en los 3 primeros puestos de los resultados oficiales de mitad de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece, tocará hacer votación masiva a Luffy en",
+      "text": "Si Luffy no está en los 3 primeros puestos de los resultados oficiales de mitad de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece, tocará hacer votación masiva a Luffy en lo que queda de las votaciones 😎😎😎 #ONEPIECE_WT100 #WT100_MidtermResults",
+      "url": "https://nitter.net/Mugiwara_23/status/2050953101809508475#m",
+      "date": "Sun, 03 May 2026 14:58:18 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "e2da30d5038edb223787137bb19442ec118fe210f38cb45f9bb3c651a1e610d9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/W",
-      "text": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/WSJ_manga/status/2048845513680683326#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049057716702708222#m",
-      "date": "Tue, 28 Apr 2026 09:26:43 GMT",
+      "id": "c15b28cc0733ccf32a68f6fffcaf2e15f3d498fa73009e92fb494d4ed0674f2b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "／ ハッシュタグ投稿で当たる！ 中間結果発表LIVE プレゼントキャンペーン開催🎁 ＼ #ワンピ中間発表 #ONEPIECE_WT100 上記ハッシュタグ2種をつけて 中間発表の実況や感想などを投稿しよう！ 投稿してくれた方の中から抽選で5名に こちらのグッズセットをプレゼントします✨",
+      "text": "／ ハッシュタグ投稿で当たる！ 中間結果発表LIVE プレゼントキャンペーン開催🎁 ＼ #ワンピ中間発表 #ONEPIECE_WT100 上記ハッシュタグ2種をつけて 中間発表の実況や感想などを投稿しよう！ 投稿してくれた方の中から抽選で5名に こちらのグッズセットをプレゼントします✨",
+      "url": "https://nitter.net/Eiichiro_Staff/status/2050950813233868896#m",
+      "date": "Sun, 03 May 2026 14:49:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHG72GaCbgAA2sJ0.jpg",
-        "https://nitter.net/pic/media%2FHG72Hj3a8AAGLeP.jpg"
+        "https://nitter.net/pic/media%2FHHZw486bUAAwXaR.jpg"
       ]
     },
     {
@@ -612,79 +641,62 @@
       ]
     },
     {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
+      "id": "2c41c9d18f69a45988bfadde4a2f0886d23b68034132c8fdbe9b38041de6d2a8",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "#ShootersShoot",
+      "text": "#ShootersShoot",
+      "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
+      "date": "Sat, 02 May 2026 20:36:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
+        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
       ]
     },
     {
-      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
-      "date": "Fri, 01 May 2026 16:27:41 GMT",
+      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
+      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
+        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
       ]
     },
     {
-      "id": "f8ca01c3154d8bff6bed22816497b1bb6986e43c61f68225ff729500931a637a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049912396815176165#m",
-      "date": "Thu, 30 Apr 2026 18:02:55 GMT",
+      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
+      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
+      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHLAdYaWEAAjogS.jpg"
+        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
       ]
     },
     {
-      "id": "8537d353972b4c7d6ab1cb28ffd164d10aa4b46d3c88cb67699f812e29b7a373",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049836375675981889#m",
-      "date": "Thu, 30 Apr 2026 13:00:50 GMT",
+      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
+      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHJ7USIW8AAoM3B.jpg"
-      ]
-    },
-    {
-      "id": "29651f0124e0cf81caca479aff04f061f2d3a439cebf1db17c7e15bd261876ae",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2049729630840442917#m",
-      "date": "Thu, 30 Apr 2026 05:56:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHIaPBOXEAA3coS.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
