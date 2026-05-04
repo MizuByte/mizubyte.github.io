@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-05-04T10:01:18.279Z",
+  "generatedAt": "2026-05-04T12:07:45.743Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "da8d145994ef96f5da71f347cc254db9cd5f1d2bdcb0b848dd5ab6f652e5edfb",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/hourlyelric/status/2051141387865690279#m",
-      "date": "Mon, 04 May 2026 03:26:29 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHceOEPXsAAM1Zc.jpg"
-      ]
-    },
-    {
-      "id": "f5a366c70bd297a33cd6a4d43c18cce2635b10e1df758c4e4aa85d3c6a84f3a3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/FRIEREN_PR/status/2051180023802139120#m",
-      "date": "Mon, 04 May 2026 06:00:01 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHbPlFga4AAjy59.jpg"
-      ]
-    },
     {
       "id": "f69cb183bc9404d2682845e7b4cb4f8766afadc0286551c3ba2e74655eb683c6",
       "anime": "onepiece",
@@ -44,21 +14,6 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "text": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049068440384581642#m",
-      "date": "Tue, 28 Apr 2026 10:09:20 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
-      ]
     },
     {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
@@ -78,61 +33,18 @@
   ],
   "misc": [
     {
-      "id": "8e8ff6ab52de6e22a3e297e8e63ced7b2e11e2a4cc4450e6674d39d6921c7a34",
+      "id": "5dcb6ab5495ca55135559106d609532c291e1e8ed98c9c467a5706824e7b54ff",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "text": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2051225546109964731#m",
-      "date": "Mon, 04 May 2026 09:00:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 💧💧💧💧💧 👀👀👀👀👀👀",
+      "text": "#ONEPIECE1182 💧💧💧💧💧 👀👀👀👀👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2051247902828139002#m",
+      "date": "Mon, 04 May 2026 10:29:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHdqwxxXIAAifyL.jpg"
-      ]
-    },
-    {
-      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
-      "date": "Mon, 04 May 2026 09:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "6d1c389e3271715c02f7e9cd8e3cd743bfe20f9bbf63794ae2ee6e5ef4fb5b88",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Pero yaaaa 👍👍",
-      "text": "Pero yaaaa 👍👍",
-      "url": "https://nitter.net/PalomaresTxema/status/2050864930618798514#m",
-      "date": "Sun, 03 May 2026 09:07:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHYixMVa0AAZAHc.jpg"
-      ]
-    },
-    {
-      "id": "03be622f8e0e5271d80d2b605a172b9fa2662372ac098620091c9713e94738a8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【みんなでわいわいクイズ大会！】 7.4(土)19:00~19:59に LINEで『わいわいクイズ100』開催！ LINEでの初のクイズ大会ということで 本番前にナレキン過去問で練習のチャンス⭐️ 6.22(月)19:00~19:59の間 リハーサルを兼ねた模擬試験 『おためしクイズ50』を実施します！ ↓",
-      "text": "【みんなでわいわいクイズ大会！】 7.4(土)19:00~19:59に LINEで『わいわいクイズ100』開催！ LINEでの初のクイズ大会ということで 本番前にナレキン過去問で練習のチャンス⭐️ 6.22(月)19:00~19:59の間 リハーサルを兼ねた模擬試験 『おためしクイズ50』を実施します！ ↓",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2051108687914385741#m",
-      "date": "Mon, 04 May 2026 01:16:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHcAel_aoAA-y5Z.jpg"
+        "https://nitter.net/pic/media%2FHHd--HnXgAApS9L.jpg"
       ]
     },
     {
@@ -192,93 +104,94 @@
       ]
     },
     {
-      "id": "9fbda04c4134d906b45908303fae3b9e9f930a01698e70098b296d1ff5e8ec64",
+      "id": "578145a1e56a57d4a196e03816e7f61aa23b4976c7f8a9bdad5b9e0dfbe59287",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Love Skypiea arc :) 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1182 Love Skypiea arc :) 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2051001536738656373#m",
-      "date": "Sun, 03 May 2026 18:10:46 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "この背表紙いい✨💨 セブン最高😆",
+      "text": "この背表紙いい✨💨 セブン最高😆",
+      "url": "https://nitter.net/takatakakondo/status/2051268955562758321#m",
+      "date": "Mon, 04 May 2026 11:53:24 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHae1r4W0AAP5Ty.jpg"
+        "https://nitter.net/pic/media%2FHHeSPZ0aoAAhRE3.jpg"
       ]
     },
     {
-      "id": "2c41c9d18f69a45988bfadde4a2f0886d23b68034132c8fdbe9b38041de6d2a8",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
-      "date": "Sat, 02 May 2026 20:36:44 GMT",
+      "id": "74f5dc98b4aa0356eb12379fe8104bb64be5faf1017b226b0998f60b1a8414e7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años",
+      "text": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años 1980 a 1995 y prendas retro para tu Mii. Más datos: ntdo.com/6013AAsh7",
+      "url": "https://nitter.net/NintendoES/status/2051270621854572589#m",
+      "date": "Mon, 04 May 2026 12:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
+        "https://nitter.net/pic/media%2FHHd2-MLW0AA2Ha3.jpg"
       ]
     },
     {
-      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
-      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
+      "id": "2c3ab90f6ab0ec303f88a8ff5535f7ff04a2664e011c3bf07ebd28bfc1540356",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
+      "text": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
+      "url": "https://nitter.net/yabuki_info/status/2051266894620143851#m",
+      "date": "Mon, 04 May 2026 11:45:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
+        "https://nitter.net/pic/media%2FHHeQXNDaQAAeH-J.jpg",
+        "https://nitter.net/pic/media%2FHHeQXNEbEAAMRdF.jpg",
+        "https://nitter.net/pic/media%2FHHeQXNGbUAAmqfw.jpg"
       ]
     },
     {
-      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
-      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
-      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
+      "id": "ca370a05ab48b4ea312c8efb66afef5219746d9fda80b05630242a786d192ac7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
+      "text": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2051255519470362786#m",
+      "date": "Mon, 04 May 2026 11:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
+        "https://nitter.net/pic/media%2FHG4OWDaa4AEHLuu.jpg"
       ]
     },
     {
-      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
-      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
+      "id": "8e8ff6ab52de6e22a3e297e8e63ced7b2e11e2a4cc4450e6674d39d6921c7a34",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
+      "text": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
+      "url": "https://nitter.net/ToeiAnimationEU/status/2051225546109964731#m",
+      "date": "Mon, 04 May 2026 09:00:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHdqwxxXIAAifyL.jpg"
+      ]
+    },
+    {
+      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
+      "date": "Mon, 04 May 2026 09:00:02 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "e2da30d5038edb223787137bb19442ec118fe210f38cb45f9bb3c651a1e610d9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/W",
-      "text": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/WSJ_manga/status/2048845513680683326#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049057716702708222#m",
-      "date": "Tue, 28 Apr 2026 09:26:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG72GaCbgAA2sJ0.jpg",
-        "https://nitter.net/pic/media%2FHG72Hj3a8AAGLeP.jpg"
-      ]
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -365,39 +278,54 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHdRXjcWAAAQDq3.jpg"
       ]
+    },
+    {
+      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
+      "date": "Sun, 03 May 2026 21:32:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
+      ]
+    },
+    {
+      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
+      "date": "Sat, 02 May 2026 06:31:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
+      ]
+    },
+    {
+      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
+      "date": "Fri, 01 May 2026 16:27:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "da8d145994ef96f5da71f347cc254db9cd5f1d2bdcb0b848dd5ab6f652e5edfb",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/hourlyelric/status/2051141387865690279#m",
-      "date": "Mon, 04 May 2026 03:26:29 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHceOEPXsAAM1Zc.jpg"
-      ]
-    },
-    {
-      "id": "f5a366c70bd297a33cd6a4d43c18cce2635b10e1df758c4e4aa85d3c6a84f3a3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/FRIEREN_PR/status/2051180023802139120#m",
-      "date": "Mon, 04 May 2026 06:00:01 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHbPlFga4AAjy59.jpg"
-      ]
-    },
     {
       "id": "f69cb183bc9404d2682845e7b4cb4f8766afadc0286551c3ba2e74655eb683c6",
       "anime": "onepiece",
@@ -410,21 +338,6 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "2b5794359e93b42637bbe738255f52319cfdc25b90f34dd46f7cd2ac0a100969",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "text": "Best Plot twist in modern Manga history #BORUTO liam (@sasukesugu) is there a manga spoiler more widespread than gojo’s death — https://nitter.net/sasukesugu/status/2048849524215459938#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049068440384581642#m",
-      "date": "Tue, 28 Apr 2026 10:09:20 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG_A4n5WgAELno7.jpg"
-      ]
     },
     {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
@@ -442,61 +355,18 @@
       ]
     },
     {
-      "id": "8e8ff6ab52de6e22a3e297e8e63ced7b2e11e2a4cc4450e6674d39d6921c7a34",
+      "id": "5dcb6ab5495ca55135559106d609532c291e1e8ed98c9c467a5706824e7b54ff",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "text": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2051225546109964731#m",
-      "date": "Mon, 04 May 2026 09:00:54 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 💧💧💧💧💧 👀👀👀👀👀👀",
+      "text": "#ONEPIECE1182 💧💧💧💧💧 👀👀👀👀👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2051247902828139002#m",
+      "date": "Mon, 04 May 2026 10:29:45 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHdqwxxXIAAifyL.jpg"
-      ]
-    },
-    {
-      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
-      "date": "Mon, 04 May 2026 09:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "6d1c389e3271715c02f7e9cd8e3cd743bfe20f9bbf63794ae2ee6e5ef4fb5b88",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Pero yaaaa 👍👍",
-      "text": "Pero yaaaa 👍👍",
-      "url": "https://nitter.net/PalomaresTxema/status/2050864930618798514#m",
-      "date": "Sun, 03 May 2026 09:07:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHYixMVa0AAZAHc.jpg"
-      ]
-    },
-    {
-      "id": "03be622f8e0e5271d80d2b605a172b9fa2662372ac098620091c9713e94738a8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【みんなでわいわいクイズ大会！】 7.4(土)19:00~19:59に LINEで『わいわいクイズ100』開催！ LINEでの初のクイズ大会ということで 本番前にナレキン過去問で練習のチャンス⭐️ 6.22(月)19:00~19:59の間 リハーサルを兼ねた模擬試験 『おためしクイズ50』を実施します！ ↓",
-      "text": "【みんなでわいわいクイズ大会！】 7.4(土)19:00~19:59に LINEで『わいわいクイズ100』開催！ LINEでの初のクイズ大会ということで 本番前にナレキン過去問で練習のチャンス⭐️ 6.22(月)19:00~19:59の間 リハーサルを兼ねた模擬試験 『おためしクイズ50』を実施します！ ↓",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2051108687914385741#m",
-      "date": "Mon, 04 May 2026 01:16:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHcAel_aoAA-y5Z.jpg"
+        "https://nitter.net/pic/media%2FHHd--HnXgAApS9L.jpg"
       ]
     },
     {
@@ -556,93 +426,94 @@
       ]
     },
     {
-      "id": "9fbda04c4134d906b45908303fae3b9e9f930a01698e70098b296d1ff5e8ec64",
+      "id": "578145a1e56a57d4a196e03816e7f61aa23b4976c7f8a9bdad5b9e0dfbe59287",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Love Skypiea arc :) 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1182 Love Skypiea arc :) 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2051001536738656373#m",
-      "date": "Sun, 03 May 2026 18:10:46 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "この背表紙いい✨💨 セブン最高😆",
+      "text": "この背表紙いい✨💨 セブン最高😆",
+      "url": "https://nitter.net/takatakakondo/status/2051268955562758321#m",
+      "date": "Mon, 04 May 2026 11:53:24 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHae1r4W0AAP5Ty.jpg"
+        "https://nitter.net/pic/media%2FHHeSPZ0aoAAhRE3.jpg"
       ]
     },
     {
-      "id": "2c41c9d18f69a45988bfadde4a2f0886d23b68034132c8fdbe9b38041de6d2a8",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "#ShootersShoot",
-      "text": "#ShootersShoot",
-      "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
-      "date": "Sat, 02 May 2026 20:36:44 GMT",
+      "id": "74f5dc98b4aa0356eb12379fe8104bb64be5faf1017b226b0998f60b1a8414e7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años",
+      "text": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años 1980 a 1995 y prendas retro para tu Mii. Más datos: ntdo.com/6013AAsh7",
+      "url": "https://nitter.net/NintendoES/status/2051270621854572589#m",
+      "date": "Mon, 04 May 2026 12:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
+        "https://nitter.net/pic/media%2FHHd2-MLW0AA2Ha3.jpg"
       ]
     },
     {
-      "id": "c27b83755c94a023e9bba22f4243ea5c2d9963a07c1c58804564668b356b9a54",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "text": "Me sleeping knowing that Toneri will come back next Boruto TBV chapter: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049926603585540241#m",
-      "date": "Thu, 30 Apr 2026 18:59:22 GMT",
+      "id": "2c3ab90f6ab0ec303f88a8ff5535f7ff04a2664e011c3bf07ebd28bfc1540356",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
+      "text": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
+      "url": "https://nitter.net/yabuki_info/status/2051266894620143851#m",
+      "date": "Mon, 04 May 2026 11:45:13 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHLNYSgWEAATqWi.jpg"
+        "https://nitter.net/pic/media%2FHHeQXNDaQAAeH-J.jpg",
+        "https://nitter.net/pic/media%2FHHeQXNEbEAAMRdF.jpg",
+        "https://nitter.net/pic/media%2FHHeQXNGbUAAmqfw.jpg"
       ]
     },
     {
-      "id": "39de95646dda547f5af83b0a1a3aff5e2bdf75156006f583018933ce185ae80e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/st",
-      "text": "Wait, since when is Imu a girl? I always thought Imu is a non binary, gay wolf fury with Xie/Xien as its pronouns? R O H I T (@lwkyRohit) if kishimoto wrote one piece — https://nitter.net/lwkyRohit/status/2049396429815173619#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049549582921527549#m",
-      "date": "Wed, 29 Apr 2026 18:01:14 GMT",
+      "id": "ca370a05ab48b4ea312c8efb66afef5219746d9fda80b05630242a786d192ac7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
+      "text": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2051255519470362786#m",
+      "date": "Mon, 04 May 2026 11:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHDrL8Wa8AAeUYp.jpg"
+        "https://nitter.net/pic/media%2FHG4OWDaa4AEHLuu.jpg"
       ]
     },
     {
-      "id": "f0ade01fd85b4499834cf5b788c35f500b66ac4cf900cef0db4e80fd7f185801",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "text": "You realize Boruto‘s writing is good because you 100% know that the ending won’t be predictable like other Shonen Manga #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2049487290699755534#m",
-      "date": "Wed, 29 Apr 2026 13:53:42 GMT",
+      "id": "8e8ff6ab52de6e22a3e297e8e63ced7b2e11e2a4cc4450e6674d39d6921c7a34",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
+      "text": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
+      "url": "https://nitter.net/ToeiAnimationEU/status/2051225546109964731#m",
+      "date": "Mon, 04 May 2026 09:00:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHdqwxxXIAAifyL.jpg"
+      ]
+    },
+    {
+      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
+      "date": "Mon, 04 May 2026 09:00:02 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "e2da30d5038edb223787137bb19442ec118fe210f38cb45f9bb3c651a1e610d9",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/W",
-      "text": "Imagine Boruto TBV having over 300 chapters lol #BORUTO Shonen Jump News (@WSJ_manga) Black Clover by Yuki Tabata has officially ended with Chapter 392 in Jump GIGA 2026 SPRING. — https://nitter.net/WSJ_manga/status/2048845513680683326#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2049057716702708222#m",
-      "date": "Tue, 28 Apr 2026 09:26:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG72GaCbgAA2sJ0.jpg",
-        "https://nitter.net/pic/media%2FHG72Hj3a8AAGLeP.jpg"
-      ]
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -728,6 +599,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHdRXjcWAAAQDq3.jpg"
+      ]
+    },
+    {
+      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
+      "date": "Sun, 03 May 2026 21:32:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
+      ]
+    },
+    {
+      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
+      "date": "Sat, 02 May 2026 06:31:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
+      ]
+    },
+    {
+      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
+      "date": "Fri, 01 May 2026 16:27:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
       ]
     }
   ]
