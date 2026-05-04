@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-05-04T12:07:45.743Z",
+  "generatedAt": "2026-05-04T14:34:58.086Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "f69cb183bc9404d2682845e7b4cb4f8766afadc0286551c3ba2e74655eb683c6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 This isn't a spoiler, just a thought: I believe Luffy hasn't truly awakened yet or hasn't yet reached his full potential. I think there will be a stronger version in Nika's form, which O",
-      "text": "#ONEPIECE1182 This isn't a spoiler, just a thought: I believe Luffy hasn't truly awakened yet or hasn't yet reached his full potential. I think there will be a stronger version in Nika's form, which Oda is saving for later. (I will explain why I think this later).",
-      "url": "https://nitter.net/WorstGenHQ/status/2051010097246081337#m",
-      "date": "Sun, 03 May 2026 18:44:47 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
     {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
       "anime": "blackclover",
@@ -33,6 +20,19 @@
   ],
   "misc": [
     {
+      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
+      "date": "Mon, 04 May 2026 09:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "5dcb6ab5495ca55135559106d609532c291e1e8ed98c9c467a5706824e7b54ff",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -104,6 +104,84 @@
       ]
     },
     {
+      "id": "a3420ebe9f4c1535d5c5fd1d5979edb6920a083134e3aa67a7b3fb5bf40f7058",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
+      "text": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
+      "url": "https://nitter.net/Mugiwara_23/status/2050187936902115406#m",
+      "date": "Fri, 01 May 2026 12:17:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHO6rciWUAAjGxH.jpg"
+      ]
+    },
+    {
+      "id": "2ab901ae3f8cfc2add90e3921dd8b1558ef3f7b681bb381fb15c5da4461c9faa",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pues como suponía, ha caído un chaparrón de los buenos ⛈️⛈️⛈️ Pero no había mucho tráfico y el viaje ha ido perfecto 😆😆😆 Sergio (redon) (@Mugiwara_23) Joder, qué casualidad que justo cuando tengo q",
+      "text": "Pues como suponía, ha caído un chaparrón de los buenos ⛈️⛈️⛈️ Pero no había mucho tráfico y el viaje ha ido perfecto 😆😆😆 Sergio (redon) (@Mugiwara_23) Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖 — https://nitter.net/Mugiwara_23/status/2050187936902115406#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2050544235560989086#m",
+      "date": "Sat, 02 May 2026 11:53:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHO6rciWUAAjGxH.jpg"
+      ]
+    },
+    {
+      "id": "b4376301332aa022c01bd46f643d8970d8d03158a40dfa94063dc95b78fd2f28",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡NOVEDADES DEL 7 DE MAYO! • ¿SUEÑO O REALIDAD? VOL. 1(¡NUEVA SERIE!) • LOS EXTRAÑOS HÁBITOS DE TSUMIKI OGAMI VOL. 2 • JOJOS BIZARRE ADVENTURE: THE JOJOLAND VOL. 4 • TU LADO OCULTO VOL. 3 • D.GRAY-MAN ",
+      "text": "¡NOVEDADES DEL 7 DE MAYO! • ¿SUEÑO O REALIDAD? VOL. 1(¡NUEVA SERIE!) • LOS EXTRAÑOS HÁBITOS DE TSUMIKI OGAMI VOL. 2 • JOJOS BIZARRE ADVENTURE: THE JOJOLAND VOL. 4 • TU LADO OCULTO VOL. 3 • D.GRAY-MAN VOL. 29 REIMPRESIONES: • D.GRAY-MAN VOL. 25 • D.GRAY-MAN VOL. 26",
+      "url": "https://nitter.net/Ivrea/status/2051276392021537096#m",
+      "date": "Mon, 04 May 2026 12:22:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHeY_wAWMAEd5he.jpg"
+      ]
+    },
+    {
+      "id": "dbd7cc9c79a61a0b73f17eb7b7e0051bb5b138460e38a2b19db315c7bf9bcf5a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "で、最初の海がここというわけです。 心折れなくてよかった😅",
+      "text": "で、最初の海がここというわけです。 心折れなくてよかった😅",
+      "url": "https://nitter.net/yabuki_info/status/2051276862538870930#m",
+      "date": "Mon, 04 May 2026 12:24:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHeZblzbEAA0gOr.jpg"
+      ]
+    },
+    {
+      "id": "692749f509314b20227b41e2717ca9a8a8aa137db3133684a4afd94f4ccae385",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Empezamos la semana con una nueva Weekly Shonen Jump clásica para la colección 😍😍😍!! Hoy tenemos la Jump número #16 de 1998 con el capítulo 32 de One Piece (“Desastre”). En este capítulo tenemos ",
+      "text": "¡¡Empezamos la semana con una nueva Weekly Shonen Jump clásica para la colección 😍😍😍!! Hoy tenemos la Jump número #16 de 1998 con el capítulo 32 de One Piece (“Desastre”). En este capítulo tenemos la 1ª portada de One Piece basada en la petición/idea de un lector 😲😲😲",
+      "url": "https://nitter.net/Mugiwara_23/status/2051278771072708703#m",
+      "date": "Mon, 04 May 2026 12:32:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHea7A9WAAAQC1h.jpg",
+        "https://nitter.net/pic/media%2FHHea8t5WwAAK5kQ.jpg",
+        "https://nitter.net/pic/media%2FHHebAvnWcAAGnmq.jpg",
+        "https://nitter.net/pic/media%2FHHebC9pXAAAJFMY.jpg"
+      ]
+    },
+    {
       "id": "578145a1e56a57d4a196e03816e7f61aa23b4976c7f8a9bdad5b9e0dfbe59287",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -117,81 +195,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHeSPZ0aoAAhRE3.jpg"
       ]
-    },
-    {
-      "id": "74f5dc98b4aa0356eb12379fe8104bb64be5faf1017b226b0998f60b1a8414e7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años",
-      "text": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años 1980 a 1995 y prendas retro para tu Mii. Más datos: ntdo.com/6013AAsh7",
-      "url": "https://nitter.net/NintendoES/status/2051270621854572589#m",
-      "date": "Mon, 04 May 2026 12:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHd2-MLW0AA2Ha3.jpg"
-      ]
-    },
-    {
-      "id": "2c3ab90f6ab0ec303f88a8ff5535f7ff04a2664e011c3bf07ebd28bfc1540356",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
-      "text": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
-      "url": "https://nitter.net/yabuki_info/status/2051266894620143851#m",
-      "date": "Mon, 04 May 2026 11:45:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHeQXNDaQAAeH-J.jpg",
-        "https://nitter.net/pic/media%2FHHeQXNEbEAAMRdF.jpg",
-        "https://nitter.net/pic/media%2FHHeQXNGbUAAmqfw.jpg"
-      ]
-    },
-    {
-      "id": "ca370a05ab48b4ea312c8efb66afef5219746d9fda80b05630242a786d192ac7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
-      "text": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
-      "url": "https://nitter.net/ONEPIECE_tcg/status/2051255519470362786#m",
-      "date": "Mon, 04 May 2026 11:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG4OWDaa4AEHLuu.jpg"
-      ]
-    },
-    {
-      "id": "8e8ff6ab52de6e22a3e297e8e63ced7b2e11e2a4cc4450e6674d39d6921c7a34",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "text": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2051225546109964731#m",
-      "date": "Mon, 04 May 2026 09:00:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHdqwxxXIAAifyL.jpg"
-      ]
-    },
-    {
-      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
-      "date": "Mon, 04 May 2026 09:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -265,6 +268,21 @@
       ]
     },
     {
+      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
+      "date": "Mon, 04 May 2026 13:13:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHekk-FWIAAOSPA.jpg"
+      ]
+    },
+    {
       "id": "d3f3cd0063291ac6691bae78d999f0a3e7cb4d0bf776ec9b5f877aeb269a0fa9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -293,52 +311,9 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
       ]
-    },
-    {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
-      ]
-    },
-    {
-      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
-      "date": "Fri, 01 May 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
-      ]
     }
   ],
   "items": [
-    {
-      "id": "f69cb183bc9404d2682845e7b4cb4f8766afadc0286551c3ba2e74655eb683c6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 This isn't a spoiler, just a thought: I believe Luffy hasn't truly awakened yet or hasn't yet reached his full potential. I think there will be a stronger version in Nika's form, which O",
-      "text": "#ONEPIECE1182 This isn't a spoiler, just a thought: I believe Luffy hasn't truly awakened yet or hasn't yet reached his full potential. I think there will be a stronger version in Nika's form, which Oda is saving for later. (I will explain why I think this later).",
-      "url": "https://nitter.net/WorstGenHQ/status/2051010097246081337#m",
-      "date": "Sun, 03 May 2026 18:44:47 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
     {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
       "anime": "blackclover",
@@ -355,6 +330,19 @@
       ]
     },
     {
+      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
+      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
+      "date": "Mon, 04 May 2026 09:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "5dcb6ab5495ca55135559106d609532c291e1e8ed98c9c467a5706824e7b54ff",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -426,6 +414,84 @@
       ]
     },
     {
+      "id": "a3420ebe9f4c1535d5c5fd1d5979edb6920a083134e3aa67a7b3fb5bf40f7058",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
+      "text": "Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖",
+      "url": "https://nitter.net/Mugiwara_23/status/2050187936902115406#m",
+      "date": "Fri, 01 May 2026 12:17:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHO6rciWUAAjGxH.jpg"
+      ]
+    },
+    {
+      "id": "2ab901ae3f8cfc2add90e3921dd8b1558ef3f7b681bb381fb15c5da4461c9faa",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pues como suponía, ha caído un chaparrón de los buenos ⛈️⛈️⛈️ Pero no había mucho tráfico y el viaje ha ido perfecto 😆😆😆 Sergio (redon) (@Mugiwara_23) Joder, qué casualidad que justo cuando tengo q",
+      "text": "Pues como suponía, ha caído un chaparrón de los buenos ⛈️⛈️⛈️ Pero no había mucho tráfico y el viaje ha ido perfecto 😆😆😆 Sergio (redon) (@Mugiwara_23) Joder, qué casualidad que justo cuando tengo que viajar mañana, parece que va a llover a mares 😖😖😖 — https://nitter.net/Mugiwara_23/status/2050187936902115406#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2050544235560989086#m",
+      "date": "Sat, 02 May 2026 11:53:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHO6rciWUAAjGxH.jpg"
+      ]
+    },
+    {
+      "id": "b4376301332aa022c01bd46f643d8970d8d03158a40dfa94063dc95b78fd2f28",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡NOVEDADES DEL 7 DE MAYO! • ¿SUEÑO O REALIDAD? VOL. 1(¡NUEVA SERIE!) • LOS EXTRAÑOS HÁBITOS DE TSUMIKI OGAMI VOL. 2 • JOJOS BIZARRE ADVENTURE: THE JOJOLAND VOL. 4 • TU LADO OCULTO VOL. 3 • D.GRAY-MAN ",
+      "text": "¡NOVEDADES DEL 7 DE MAYO! • ¿SUEÑO O REALIDAD? VOL. 1(¡NUEVA SERIE!) • LOS EXTRAÑOS HÁBITOS DE TSUMIKI OGAMI VOL. 2 • JOJOS BIZARRE ADVENTURE: THE JOJOLAND VOL. 4 • TU LADO OCULTO VOL. 3 • D.GRAY-MAN VOL. 29 REIMPRESIONES: • D.GRAY-MAN VOL. 25 • D.GRAY-MAN VOL. 26",
+      "url": "https://nitter.net/Ivrea/status/2051276392021537096#m",
+      "date": "Mon, 04 May 2026 12:22:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHeY_wAWMAEd5he.jpg"
+      ]
+    },
+    {
+      "id": "dbd7cc9c79a61a0b73f17eb7b7e0051bb5b138460e38a2b19db315c7bf9bcf5a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "で、最初の海がここというわけです。 心折れなくてよかった😅",
+      "text": "で、最初の海がここというわけです。 心折れなくてよかった😅",
+      "url": "https://nitter.net/yabuki_info/status/2051276862538870930#m",
+      "date": "Mon, 04 May 2026 12:24:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHeZblzbEAA0gOr.jpg"
+      ]
+    },
+    {
+      "id": "692749f509314b20227b41e2717ca9a8a8aa137db3133684a4afd94f4ccae385",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Empezamos la semana con una nueva Weekly Shonen Jump clásica para la colección 😍😍😍!! Hoy tenemos la Jump número #16 de 1998 con el capítulo 32 de One Piece (“Desastre”). En este capítulo tenemos ",
+      "text": "¡¡Empezamos la semana con una nueva Weekly Shonen Jump clásica para la colección 😍😍😍!! Hoy tenemos la Jump número #16 de 1998 con el capítulo 32 de One Piece (“Desastre”). En este capítulo tenemos la 1ª portada de One Piece basada en la petición/idea de un lector 😲😲😲",
+      "url": "https://nitter.net/Mugiwara_23/status/2051278771072708703#m",
+      "date": "Mon, 04 May 2026 12:32:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHea7A9WAAAQC1h.jpg",
+        "https://nitter.net/pic/media%2FHHea8t5WwAAK5kQ.jpg",
+        "https://nitter.net/pic/media%2FHHebAvnWcAAGnmq.jpg",
+        "https://nitter.net/pic/media%2FHHebC9pXAAAJFMY.jpg"
+      ]
+    },
+    {
       "id": "578145a1e56a57d4a196e03816e7f61aa23b4976c7f8a9bdad5b9e0dfbe59287",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -439,81 +505,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHeSPZ0aoAAhRE3.jpg"
       ]
-    },
-    {
-      "id": "74f5dc98b4aa0356eb12379fe8104bb64be5faf1017b226b0998f60b1a8414e7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años",
-      "text": "¡Dales un toque nostálgico a tus paseos en #PikminBloom! Hasta el 31 de mayo, podrás encontrar Pikmin disfrazados de cartuchos de juego, así como Pikmin disfrazados de consolas de Nintendo de los años 1980 a 1995 y prendas retro para tu Mii. Más datos: ntdo.com/6013AAsh7",
-      "url": "https://nitter.net/NintendoES/status/2051270621854572589#m",
-      "date": "Mon, 04 May 2026 12:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHd2-MLW0AA2Ha3.jpg"
-      ]
-    },
-    {
-      "id": "2c3ab90f6ab0ec303f88a8ff5535f7ff04a2664e011c3bf07ebd28bfc1540356",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
-      "text": "18歳の終わり、連載が決まる前の 唯一のアシ経験 「ヒカルの碁」背景の指示コピー。 当時、ゴミ箱に捨てられるのをいただきました。 これを見るたびに マンガ界の荒海に船出する 高揚と緊張感がよみがえる…🌊",
-      "url": "https://nitter.net/yabuki_info/status/2051266894620143851#m",
-      "date": "Mon, 04 May 2026 11:45:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHeQXNDaQAAeH-J.jpg",
-        "https://nitter.net/pic/media%2FHHeQXNEbEAAMRdF.jpg",
-        "https://nitter.net/pic/media%2FHHeQXNGbUAAmqfw.jpg"
-      ]
-    },
-    {
-      "id": "ca370a05ab48b4ea312c8efb66afef5219746d9fda80b05630242a786d192ac7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
-      "text": "★OP-16カード紹介★ 5/30(土)発売のブースターパック『決戦の刻【OP-16】』に収録するカードをご紹介！ 今回はキャラクターカード「ポートガス・D・エース」です。 ▼商品情報はコチラ onepiece-cardgame.com/produc… #ワンピカード #ONEPIECE",
-      "url": "https://nitter.net/ONEPIECE_tcg/status/2051255519470362786#m",
-      "date": "Mon, 04 May 2026 11:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHG4OWDaa4AEHLuu.jpg"
-      ]
-    },
-    {
-      "id": "8e8ff6ab52de6e22a3e297e8e63ced7b2e11e2a4cc4450e6674d39d6921c7a34",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "text": "Happy Birthday Rose 💖 #DIGIMON #BEATBREAK",
-      "url": "https://nitter.net/ToeiAnimationEU/status/2051225546109964731#m",
-      "date": "Mon, 04 May 2026 09:00:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHdqwxxXIAAifyL.jpg"
-      ]
-    },
-    {
-      "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "text": "May the 4th be with you!!! Happy Star Wars Day to all!! #StarWarsDay",
-      "url": "https://nitter.net/Mugiwara_23/status/2051225326504628334#m",
-      "date": "Mon, 04 May 2026 09:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -587,6 +578,21 @@
       ]
     },
     {
+      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
+      "date": "Mon, 04 May 2026 13:13:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHekk-FWIAAOSPA.jpg"
+      ]
+    },
+    {
       "id": "d3f3cd0063291ac6691bae78d999f0a3e7cb4d0bf776ec9b5f877aeb269a0fa9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -614,36 +620,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
-      ]
-    },
-    {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
-      ]
-    },
-    {
-      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
-      "date": "Fri, 01 May 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
       ]
     }
   ]
