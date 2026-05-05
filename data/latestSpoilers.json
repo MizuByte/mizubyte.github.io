@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:37:25.882Z",
+  "generatedAt": "2026-05-05T01:19:56.334Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -29,10 +29,8 @@
       "url": "https://nitter.net/JUSTLOTTO/status/2051318683000324267#m",
       "date": "Mon, 04 May 2026 15:11:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHe_drla4AALoWK.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f8be599b28cc2a12d300e1df6c6e5b3702ae1f1a33d03cf2c39f37059cd2fddb",
@@ -44,10 +42,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2051332316299980926#m",
       "date": "Mon, 04 May 2026 16:05:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHfLUxmXcAA74Qd.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
@@ -72,10 +68,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2051247902828139002#m",
       "date": "Mon, 04 May 2026 10:29:45 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHd--HnXgAApS9L.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "c8e506af4106b0804732e616b6ced48cd0f34d2b53e558602f140c5a9a75633a",
@@ -87,10 +81,8 @@
       "url": "https://nitter.net/pewpiece/status/2051225538300092601#m",
       "date": "Mon, 04 May 2026 09:00:52 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHdpSaYWcAAaME1.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "51424a87306681073674988e66dcb8260c630c0d65f6292c9ae23ca7ebcfb608",
@@ -101,6 +93,84 @@
       "text": "#ONEPIECE1182 \"The most thing the WG fears\": \"💧God\".... 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
       "url": "https://nitter.net/WorstGenHQ/status/2051219227244155265#m",
       "date": "Mon, 04 May 2026 08:35:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ac505130a325bb6cc1c21ed3461f067f33b70c8d5089678e3760d48df72d4a06",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051398186309152834#m",
+      "date": "Mon, 04 May 2026 20:26:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
+      "date": "Mon, 04 May 2026 13:13:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d3f3cd0063291ac6691bae78d999f0a3e7cb4d0bf776ec9b5f877aeb269a0fa9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051197624519106746#m",
+      "date": "Mon, 04 May 2026 07:09:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
+      "date": "Sun, 03 May 2026 21:32:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
+      "date": "Sat, 02 May 2026 06:31:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
+      "date": "Fri, 01 May 2026 16:27:41 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -132,19 +202,17 @@
       "attachments": []
     },
     {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "id": "5c06f0359d580593d735583b5cd0cd254d63dcf031b4244b04a3ea62781cb59b",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
+      "title": "Holy Fuck!",
+      "text": "Holy Fuck!",
       "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
       "date": "Thu, 30 Apr 2026 16:36:33 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
@@ -156,10 +224,8 @@
       "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
       "date": "Wed, 29 Apr 2026 16:20:04 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
@@ -171,100 +237,8 @@
       "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
       "date": "Wed, 29 Apr 2026 16:19:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
-      ]
-    },
-    {
-      "id": "ac505130a325bb6cc1c21ed3461f067f33b70c8d5089678e3760d48df72d4a06",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051398186309152834#m",
-      "date": "Mon, 04 May 2026 20:26:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHgHxtkWwAATPdX.jpg"
-      ]
-    },
-    {
-      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
-      "date": "Mon, 04 May 2026 13:13:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHekk-FWIAAOSPA.jpg"
-      ]
-    },
-    {
-      "id": "d3f3cd0063291ac6691bae78d999f0a3e7cb4d0bf776ec9b5f877aeb269a0fa9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051197624519106746#m",
-      "date": "Mon, 04 May 2026 07:09:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHdRXjcWAAAQDq3.jpg"
-      ]
-    },
-    {
-      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
-      "date": "Sun, 03 May 2026 21:32:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
-      ]
-    },
-    {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
-      ]
-    },
-    {
-      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
-      "date": "Fri, 01 May 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
@@ -293,10 +267,8 @@
       "url": "https://nitter.net/JUSTLOTTO/status/2051318683000324267#m",
       "date": "Mon, 04 May 2026 15:11:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHe_drla4AALoWK.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f8be599b28cc2a12d300e1df6c6e5b3702ae1f1a33d03cf2c39f37059cd2fddb",
@@ -308,10 +280,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2051332316299980926#m",
       "date": "Mon, 04 May 2026 16:05:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHfLUxmXcAA74Qd.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "d0a2896344d9578bb2b4f27e7729ed4c169f3f644060b03825cca3a22b5cbc03",
@@ -336,10 +306,8 @@
       "url": "https://nitter.net/WorstGenHQ/status/2051247902828139002#m",
       "date": "Mon, 04 May 2026 10:29:45 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHd--HnXgAApS9L.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "c8e506af4106b0804732e616b6ced48cd0f34d2b53e558602f140c5a9a75633a",
@@ -351,10 +319,8 @@
       "url": "https://nitter.net/pewpiece/status/2051225538300092601#m",
       "date": "Mon, 04 May 2026 09:00:52 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHdpSaYWcAAaME1.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "51424a87306681073674988e66dcb8260c630c0d65f6292c9ae23ca7ebcfb608",
@@ -365,6 +331,84 @@
       "text": "#ONEPIECE1182 \"The most thing the WG fears\": \"💧God\".... 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
       "url": "https://nitter.net/WorstGenHQ/status/2051219227244155265#m",
       "date": "Mon, 04 May 2026 08:35:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "ac505130a325bb6cc1c21ed3461f067f33b70c8d5089678e3760d48df72d4a06",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051398186309152834#m",
+      "date": "Mon, 04 May 2026 20:26:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
+      "date": "Mon, 04 May 2026 13:13:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "d3f3cd0063291ac6691bae78d999f0a3e7cb4d0bf776ec9b5f877aeb269a0fa9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051197624519106746#m",
+      "date": "Mon, 04 May 2026 07:09:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
+      "date": "Sun, 03 May 2026 21:32:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
+      "date": "Sat, 02 May 2026 06:31:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
+      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
+      "date": "Fri, 01 May 2026 16:27:41 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -396,19 +440,17 @@
       "attachments": []
     },
     {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "id": "5c06f0359d580593d735583b5cd0cd254d63dcf031b4244b04a3ea62781cb59b",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
+      "title": "Holy Fuck!",
+      "text": "Holy Fuck!",
       "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
       "date": "Thu, 30 Apr 2026 16:36:33 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
@@ -420,10 +462,8 @@
       "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
       "date": "Wed, 29 Apr 2026 16:20:04 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
@@ -435,100 +475,8 @@
       "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
       "date": "Wed, 29 Apr 2026 16:19:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
-      ]
-    },
-    {
-      "id": "ac505130a325bb6cc1c21ed3461f067f33b70c8d5089678e3760d48df72d4a06",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051398186309152834#m",
-      "date": "Mon, 04 May 2026 20:26:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHgHxtkWwAATPdX.jpg"
-      ]
-    },
-    {
-      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
-      "date": "Mon, 04 May 2026 13:13:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHekk-FWIAAOSPA.jpg"
-      ]
-    },
-    {
-      "id": "d3f3cd0063291ac6691bae78d999f0a3e7cb4d0bf776ec9b5f877aeb269a0fa9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051197624519106746#m",
-      "date": "Mon, 04 May 2026 07:09:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHdRXjcWAAAQDq3.jpg"
-      ]
-    },
-    {
-      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
-      "date": "Sun, 03 May 2026 21:32:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
-      ]
-    },
-    {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
-      ]
-    },
-    {
-      "id": "12b0023fcdc489e8f328e5bc54887f7251e7813c1e100e72f4c9a95097fbfdc7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "text": "🔥 The rumor of MAPPA working on a new Berserk anime adaptation is getting louder and louder… Could this finally be the version fans have been waiting for? 👀",
-      "url": "https://nitter.net/daily_berserk/status/2050250817194664235#m",
-      "date": "Fri, 01 May 2026 16:27:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHP0QEwWAAAKNG3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
