@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T10:59:08.197Z",
+  "generatedAt": "2026-05-05T12:03:33.913Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -91,6 +91,23 @@
       ]
     },
     {
+      "id": "886d27ef7541748128398389c4ab91267a89f6790c2f586692699c0fa716e337",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "New berserk manga edition in Spain… OMG!!!🥹🥹 @MangaPaniniEsp @PaniniComicsEsp",
+      "text": "New berserk manga edition in Spain… OMG!!!🥹🥹 @MangaPaniniEsp @PaniniComicsEsp",
+      "url": "https://nitter.net/daily_berserk/status/2051618273142141276#m",
+      "date": "Tue, 05 May 2026 11:01:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHjPz8MXMAohymf.jpg",
+        "https://nitter.net/pic/media%2FHHjPz8SXgAEjy1x.jpg",
+        "https://nitter.net/pic/media%2FHHjPz8NWYAQ8n0H.jpg"
+      ]
+    },
+    {
       "id": "aa7d061d8753e760d93eb3950281108fbeacfe5095117be5082a1c1e552ec46f",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -163,21 +180,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
-      ]
-    },
-    {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
       ]
     }
   ],
@@ -269,6 +271,23 @@
       ]
     },
     {
+      "id": "886d27ef7541748128398389c4ab91267a89f6790c2f586692699c0fa716e337",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "New berserk manga edition in Spain… OMG!!!🥹🥹 @MangaPaniniEsp @PaniniComicsEsp",
+      "text": "New berserk manga edition in Spain… OMG!!!🥹🥹 @MangaPaniniEsp @PaniniComicsEsp",
+      "url": "https://nitter.net/daily_berserk/status/2051618273142141276#m",
+      "date": "Tue, 05 May 2026 11:01:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHjPz8MXMAohymf.jpg",
+        "https://nitter.net/pic/media%2FHHjPz8SXgAEjy1x.jpg",
+        "https://nitter.net/pic/media%2FHHjPz8NWYAQ8n0H.jpg"
+      ]
+    },
+    {
       "id": "aa7d061d8753e760d93eb3950281108fbeacfe5095117be5082a1c1e552ec46f",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -341,21 +360,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
-      ]
-    },
-    {
-      "id": "7ca9f2b7c3bc4fc64d70daacb5d7055c34ee0fc3a67556742d898b0449ea2982",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2050463255328362825#m",
-      "date": "Sat, 02 May 2026 06:31:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHS1dmnWwAANWm-.jpg"
       ]
     }
   ]
