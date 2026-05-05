@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T14:29:20.298Z",
+  "generatedAt": "2026-05-05T16:15:06.018Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -12,28 +12,21 @@
       "url": "https://nitter.net/SchmurfiV1/status/2051264897451720973#m",
       "date": "Mon, 04 May 2026 11:37:16 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHeOjNDXEAELzVh.jpg",
-        "https://nitter.net/pic/media%2FHHeOjNLWcAARXk6.jpg",
-        "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
-        "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "654a5604ae9cd1e5d8928cb1e962b0084f2f259e70468455e0843e271f5378bb",
+      "id": "c0d1f379aa44bef0765742f151727bea6dbeb9f68ef82f2c50acdbfea62bed24",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters Video — https://nitter.net/AnimeePost/status/2051197946134249750#m",
-      "text": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters Video — https://nitter.net/AnimeePost/status/2051197946134249750#m",
+      "title": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters — https://nitter.net/AnimeePost/status/2051197946134249750#m",
+      "text": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters — https://nitter.net/AnimeePost/status/2051197946134249750#m",
       "url": "https://nitter.net/SchmurfiV1/status/2051264425189847275#m",
       "date": "Mon, 04 May 2026 11:35:24 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2051197890849075200%2Fpu%2Fimg%2Fx2N5b34NZRcocBwN.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
@@ -53,6 +46,94 @@
   ],
   "misc": [
     {
+      "id": "878c73766e10641d8bec71a48fbd93bfcff29127317acf98d946abbb997b99a0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2051684285627662410#m",
+      "date": "Tue, 05 May 2026 15:23:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2047695301130235904%2Fz-w351nb%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "5b2be2a466669b3746777eafd54f5efb40ea72d1a4c43c6fe11c1df1ef9754a2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "本日の誕生日キャラクターをチェック！ #ONEPIECE one-piece.com/character/birt…",
+      "text": "本日の誕生日キャラクターをチェック！ #ONEPIECE one-piece.com/character/birt…",
+      "url": "https://nitter.net/OPcom_info/status/2051678317749928287#m",
+      "date": "Tue, 05 May 2026 15:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHkGjgXaIAAuFix.jpg"
+      ]
+    },
+    {
+      "id": "f826206b36697ca32259b5236164b323c5df38b49229746e6cab4043af940189",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと21日】 本日の作品はこちら！ ／ 外出先でも「ドラゴンクエスト」を遊べるように。 宝の地図で伝説になった人も……？ ＼",
+      "text": "【#DQ40th まであと21日】 本日の作品はこちら！ ／ 外出先でも「ドラゴンクエスト」を遊べるように。 宝の地図で伝説になった人も……？ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2051678389464186926#m",
+      "date": "Tue, 05 May 2026 15:00:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHkGme5bUAAsA0n.jpg"
+      ]
+    },
+    {
+      "id": "ac00829ffce92a1de8a4355eefb9bfa3508dcb8d8b9b29ece5ad78c348fb6a59",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Where it all began: East Blue. Produced by WIT STUDIO, THE ONE PIECE sets sail in February 2027. All 7 episodes dropping at once, only on Netflix.",
+      "text": "Where it all began: East Blue. Produced by WIT STUDIO, THE ONE PIECE sets sail in February 2027. All 7 episodes dropping at once, only on Netflix.",
+      "url": "https://nitter.net/NetflixAnime/status/2051633008189313063#m",
+      "date": "Tue, 05 May 2026 12:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHixdXHW4AAHNTB.jpg"
+      ]
+    },
+    {
+      "id": "c7de92a2ce7b06936250e7701fe5e348a7948676267f3413b88b1b070e382ff1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "May 5th is known as Children’s Day in Japan. It’s a national holiday dedicated to celebrating the healthy growth of children! ✨ Fun fact: in the world of manga, this day is also famous for having an i",
+      "text": "May 5th is known as Children’s Day in Japan. It’s a national holiday dedicated to celebrating the healthy growth of children! ✨ Fun fact: in the world of manga, this day is also famous for having an incredibly high number of characters celebrating their birthdays! 🎂 Do you know of any characters whose birthday falls on this day? List any characters that come to mind in the comments! 👇 #ChildrensDay #mangaplus",
+      "url": "https://nitter.net/mangaplus_o/status/2051640571538911486#m",
+      "date": "Tue, 05 May 2026 12:30:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3b8ea82429a50dc791070e7a485b3db07987724e6483204a02448295d22832c8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Imu's Kingdom looms over OPTC... \"Do not seek the answer... I will not provide it...\" Imu is joining the crew for the first time during the 12th Anniversary Super Sugo-Fest! #ONEPIECE #OPTC #OPTC12th ",
+      "text": "Imu's Kingdom looms over OPTC... \"Do not seek the answer... I will not provide it...\" Imu is joining the crew for the first time during the 12th Anniversary Super Sugo-Fest! #ONEPIECE #OPTC #OPTC12th Video",
+      "url": "https://nitter.net/ONE_PIECE_TC/status/2051625457188020264#m",
+      "date": "Tue, 05 May 2026 11:30:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2050121320386732032%2Fimg%2FqeUT0RKktp3d3iOu.jpg"
+      ]
+    },
+    {
       "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -62,10 +143,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2051640848727609719#m",
       "date": "Tue, 05 May 2026 12:31:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
@@ -77,11 +156,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
       "date": "Tue, 05 May 2026 12:28:06 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
-        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "24e638be91f9eb95d3a41a0bedc8c369b5fa633273b7fd3f9e2b99410c82c781",
@@ -106,10 +182,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
       "date": "Sat, 02 May 2026 20:36:44 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -258,21 +332,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHdRXjcWAAAQDq3.jpg"
       ]
-    },
-    {
-      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
-      "date": "Sun, 03 May 2026 21:32:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
-      ]
     }
   ],
   "items": [
@@ -286,28 +345,21 @@
       "url": "https://nitter.net/SchmurfiV1/status/2051264897451720973#m",
       "date": "Mon, 04 May 2026 11:37:16 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHeOjNDXEAELzVh.jpg",
-        "https://nitter.net/pic/media%2FHHeOjNLWcAARXk6.jpg",
-        "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
-        "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "654a5604ae9cd1e5d8928cb1e962b0084f2f259e70468455e0843e271f5378bb",
+      "id": "c0d1f379aa44bef0765742f151727bea6dbeb9f68ef82f2c50acdbfea62bed24",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters Video — https://nitter.net/AnimeePost/status/2051197946134249750#m",
-      "text": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters Video — https://nitter.net/AnimeePost/status/2051197946134249750#m",
+      "title": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters — https://nitter.net/AnimeePost/status/2051197946134249750#m",
+      "text": "Kishimoto again with that Fuckass wink😭🙏🏼 Anime Posts (@AnimeePost) Big 3 mangaka drawing their main characters — https://nitter.net/AnimeePost/status/2051197946134249750#m",
       "url": "https://nitter.net/SchmurfiV1/status/2051264425189847275#m",
       "date": "Mon, 04 May 2026 11:35:24 GMT",
       "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2051197890849075200%2Fpu%2Fimg%2Fx2N5b34NZRcocBwN.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
@@ -325,6 +377,94 @@
       ]
     },
     {
+      "id": "878c73766e10641d8bec71a48fbd93bfcff29127317acf98d946abbb997b99a0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2051684285627662410#m",
+      "date": "Tue, 05 May 2026 15:23:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2047695301130235904%2Fz-w351nb%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "5b2be2a466669b3746777eafd54f5efb40ea72d1a4c43c6fe11c1df1ef9754a2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "本日の誕生日キャラクターをチェック！ #ONEPIECE one-piece.com/character/birt…",
+      "text": "本日の誕生日キャラクターをチェック！ #ONEPIECE one-piece.com/character/birt…",
+      "url": "https://nitter.net/OPcom_info/status/2051678317749928287#m",
+      "date": "Tue, 05 May 2026 15:00:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHkGjgXaIAAuFix.jpg"
+      ]
+    },
+    {
+      "id": "f826206b36697ca32259b5236164b323c5df38b49229746e6cab4043af940189",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと21日】 本日の作品はこちら！ ／ 外出先でも「ドラゴンクエスト」を遊べるように。 宝の地図で伝説になった人も……？ ＼",
+      "text": "【#DQ40th まであと21日】 本日の作品はこちら！ ／ 外出先でも「ドラゴンクエスト」を遊べるように。 宝の地図で伝説になった人も……？ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2051678389464186926#m",
+      "date": "Tue, 05 May 2026 15:00:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHkGme5bUAAsA0n.jpg"
+      ]
+    },
+    {
+      "id": "ac00829ffce92a1de8a4355eefb9bfa3508dcb8d8b9b29ece5ad78c348fb6a59",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Where it all began: East Blue. Produced by WIT STUDIO, THE ONE PIECE sets sail in February 2027. All 7 episodes dropping at once, only on Netflix.",
+      "text": "Where it all began: East Blue. Produced by WIT STUDIO, THE ONE PIECE sets sail in February 2027. All 7 episodes dropping at once, only on Netflix.",
+      "url": "https://nitter.net/NetflixAnime/status/2051633008189313063#m",
+      "date": "Tue, 05 May 2026 12:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHixdXHW4AAHNTB.jpg"
+      ]
+    },
+    {
+      "id": "c7de92a2ce7b06936250e7701fe5e348a7948676267f3413b88b1b070e382ff1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "May 5th is known as Children’s Day in Japan. It’s a national holiday dedicated to celebrating the healthy growth of children! ✨ Fun fact: in the world of manga, this day is also famous for having an i",
+      "text": "May 5th is known as Children’s Day in Japan. It’s a national holiday dedicated to celebrating the healthy growth of children! ✨ Fun fact: in the world of manga, this day is also famous for having an incredibly high number of characters celebrating their birthdays! 🎂 Do you know of any characters whose birthday falls on this day? List any characters that come to mind in the comments! 👇 #ChildrensDay #mangaplus",
+      "url": "https://nitter.net/mangaplus_o/status/2051640571538911486#m",
+      "date": "Tue, 05 May 2026 12:30:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3b8ea82429a50dc791070e7a485b3db07987724e6483204a02448295d22832c8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Imu's Kingdom looms over OPTC... \"Do not seek the answer... I will not provide it...\" Imu is joining the crew for the first time during the 12th Anniversary Super Sugo-Fest! #ONEPIECE #OPTC #OPTC12th ",
+      "text": "Imu's Kingdom looms over OPTC... \"Do not seek the answer... I will not provide it...\" Imu is joining the crew for the first time during the 12th Anniversary Super Sugo-Fest! #ONEPIECE #OPTC #OPTC12th Video",
+      "url": "https://nitter.net/ONE_PIECE_TC/status/2051625457188020264#m",
+      "date": "Tue, 05 May 2026 11:30:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2050121320386732032%2Fimg%2FqeUT0RKktp3d3iOu.jpg"
+      ]
+    },
+    {
       "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -334,10 +474,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2051640848727609719#m",
       "date": "Tue, 05 May 2026 12:31:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
@@ -349,11 +487,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
       "date": "Tue, 05 May 2026 12:28:06 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
-        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "24e638be91f9eb95d3a41a0bedc8c369b5fa633273b7fd3f9e2b99410c82c781",
@@ -378,10 +513,8 @@
       "url": "https://nitter.net/SchmurfiV1/status/2050675882314944927#m",
       "date": "Sat, 02 May 2026 20:36:44 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHV219RWcAAoGEP.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -529,21 +662,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHdRXjcWAAAQDq3.jpg"
-      ]
-    },
-    {
-      "id": "312ffc21fb8dc6c23df5961ecaeda1ee91b5e037ca5f16958d5dcd83f82ddbda",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051052337293123994#m",
-      "date": "Sun, 03 May 2026 21:32:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHbNOt4XUAEhV8G.jpg"
       ]
     }
   ]
