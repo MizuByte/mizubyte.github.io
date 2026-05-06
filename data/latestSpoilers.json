@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-05-06T21:35:38.792Z",
+  "generatedAt": "2026-05-06T22:32:40.479Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "2311899989fa42a3ed4d238157ea8e77b7eb1d7378648b701b4f7f06c502a4ad",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 New spoilers(wont name the source this time since they probably don´t want it 👍) Also little correction: - It is not the WG in general but Kilingham and Sommers who fear Zaza.",
-      "text": "#ONEPIECE1182 New spoilers(wont name the source this time since they probably don´t want it 👍) Also little correction: - It is not the WG in general but Kilingham and Sommers who fear Zaza.",
-      "url": "https://nitter.net/WorstGenHQ/status/2052138749794922928#m",
-      "date": "Wed, 06 May 2026 21:29:39 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHqpLlUXYAY6TxP.png"
-      ]
-    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -68,74 +53,91 @@
   ],
   "misc": [
     {
-      "id": "edd4bf7c8093d455f85ee93499e17aa9f986c3d727bc1f6774e0924ee6c5b850",
+      "id": "d4d120cf233c34efc6d6689a067152383e364548116b940c37f0e11a1dbddcb1",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Referee on a mission today... False offside No yellow/red card No penalty..",
-      "text": "Referee on a mission today... False offside No yellow/red card No penalty..",
-      "url": "https://nitter.net/WorstGenHQ/status/2052109857491231036#m",
-      "date": "Wed, 06 May 2026 19:34:51 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡¡PERO ESTO QUE COJ*NES ES 😵😵😵!!! Pero cómo anuncian un Direct de Star Fox 10 minutos antes de que empiece... Nintendo España (@NintendoES) Hola, soy Shigeru Miyamoto. En breve, a medianoche, emit",
+      "text": "¡¡¡PERO ESTO QUE COJ*NES ES 😵😵😵!!! Pero cómo anuncian un Direct de Star Fox 10 minutos antes de que empiece... Nintendo España (@NintendoES) Hola, soy Shigeru Miyamoto. En breve, a medianoche, emitiremos en directo la presentación Star Fox Direct – 07-05-2026. Durará aproximadamente 15 minutos, y me haría mucha ilusión que le echaseis un vistazo. ntdo.com/6010A7PBs #StarFox #NintendoDirect — https://nitter.net/NintendoES/status/2052143921434632639#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2052149804294181247#m",
+      "date": "Wed, 06 May 2026 22:13:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHquBQgXkAEMxQf.jpg"
+      ]
+    },
+    {
+      "id": "12e27640a527dde9f71c53b28fb35f63c0961fd0067f235ad02622cb33f1135e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hola, soy Shigeru Miyamoto. En breve, a medianoche, emitiremos en directo la presentación Star Fox Direct – 07-05-2026. Durará aproximadamente 15 minutos, y me haría mucha ilusión que le echaseis un v",
+      "text": "Hola, soy Shigeru Miyamoto. En breve, a medianoche, emitiremos en directo la presentación Star Fox Direct – 07-05-2026. Durará aproximadamente 15 minutos, y me haría mucha ilusión que le echaseis un vistazo. ntdo.com/6010A7PBs #StarFox #NintendoDirect",
+      "url": "https://nitter.net/NintendoES/status/2052143921434632639#m",
+      "date": "Wed, 06 May 2026 21:50:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHquBQgXkAEMxQf.jpg"
+      ]
+    },
+    {
+      "id": "167171c7d664eac1ebf2bc4438c089fa6d7a5326fc7d60e4edb31e1c264e8224",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Aquellos que se quejan de que las editoriales sacan ediciones coleccionistas a precio de coleccionista; son los que se dan golpes de pecho y crean polémicas pidiendo ediciones especiales, regalitos, p",
+      "text": "Aquellos que se quejan de que las editoriales sacan ediciones coleccionistas a precio de coleccionista; son los que se dan golpes de pecho y crean polémicas pidiendo ediciones especiales, regalitos, postalitas y tonterías varias que realmente “no son gratis”… no, no son gratis.",
+      "url": "https://nitter.net/MangAnimeList/status/2052045745360965913#m",
+      "date": "Wed, 06 May 2026 15:20:05 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "44e0459683154292a60fb4d8a88a356652d96acfb066840a932966443c29ed48",
+      "id": "59fd81b057a2a92f8c1be4bc2800c1adc96430f7f8001bbe2ad4c25444fa6d9f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Paris 1:0....",
-      "text": "Paris 1:0....",
-      "url": "https://nitter.net/WorstGenHQ/status/2052102460550811785#m",
-      "date": "Wed, 06 May 2026 19:05:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "caa1a5ede2fd0ae1291c6983e0c9a3e098239e64bd9d487c4345ca09fcfceb15",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Peak here guys today. Gonna be a amazing game... Bayern 3:1 Paris",
-      "text": "Peak here guys today. Gonna be a amazing game... Bayern 3:1 Paris",
-      "url": "https://nitter.net/WorstGenHQ/status/2052093649232470306#m",
-      "date": "Wed, 06 May 2026 18:30:26 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "[OFF-Topic MI opinión] Que iba a volar costase 150, 300, 500 o mil € era evidente cuando se juega con el fomo y con lo que más añoran los especuladores. Que se hayan sacado 75.000 euros en unas horas ",
+      "text": "[OFF-Topic MI opinión] Que iba a volar costase 150, 300, 500 o mil € era evidente cuando se juega con el fomo y con lo que más añoran los especuladores. Que se hayan sacado 75.000 euros en unas horas es lo de menos, lo que da miedo es el rumbo que ya lleva años... PANINI_Manga (@MangaPaniniEsp) 🌘Las 500 unidades de la exclusiva edición BEHERIT LIMITED del primer tomo de BERSERK MASTER EDITION se agotaron en pocas horas. ¡Gracias por vuestra fenomenal acogida! El primer tomo en la edición convencional sigue en pre-venta: panini.es/shp_esp_es/berserk… #PaniniManga #Berserk — https://nitter.net/MangaPaniniEsp/status/2051942997260910656#m",
+      "url": "https://nitter.net/NosMANGAn_ES/status/2051968762673271005#m",
+      "date": "Wed, 06 May 2026 10:14:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHqAOt_W4AQtx7D.jpg"
+        "https://nitter.net/pic/media%2FHHn2hF7WgAUEqEp.jpg"
       ]
     },
     {
-      "id": "4ad9a8d14c1075f64ebb17a849755fbb7961b2466a621754264140e815c1c45c",
+      "id": "22f8f23fc94d90db91fe4410b6abf7e53e16ebf6696a2c10988bd62a35917a4c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Ragnir(hammer) ate the Squirrel Squirrel fruit (Mythical Zoan) = Rataroskr Ice Squirrel Thanks to TALKOP",
-      "text": "#ONEPIECE1182 Ragnir(hammer) ate the Squirrel Squirrel fruit (Mythical Zoan) = Rataroskr Ice Squirrel Thanks to TALKOP",
-      "url": "https://nitter.net/WorstGenHQ/status/2052070602500976772#m",
-      "date": "Wed, 06 May 2026 16:58:51 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Tears Of The Kingdom player builds a working Flying Dutchman 🎥: u/thefrankmiester4815 Video",
+      "text": "Tears Of The Kingdom player builds a working Flying Dutchman 🎥: u/thefrankmiester4815 Video",
+      "url": "https://nitter.net/Dexerto/status/2051897244719448064#m",
+      "date": "Wed, 06 May 2026 05:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHpj-4JXQAEkKKB.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2051583087708864515%2Fimg%2F6BiLyp_ISzVlqNzF.jpg"
       ]
     },
     {
-      "id": "01d0174d5a1d90007f9c511c9c32c212cbaf560554429ae12a9e2b319510d1d8",
+      "id": "21e115501bb329822703cabc7fe1dfb8382ac51e626d107f571765bbdaa46c71",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 I've thought about this a lot. What if the Ancient Weapons are human-made technologies, created from the DNA of the God Powers? Sun God > Uranus Earth God > Pluton Rain God > Sea God Per",
-      "text": "#ONEPIECE1182 I've thought about this a lot. What if the Ancient Weapons are human-made technologies, created from the DNA of the God Powers? Sun God > Uranus Earth God > Pluton Rain God > Sea God Perhaps humanity created a counterpart to these God Powers to fight them?",
-      "url": "https://nitter.net/WorstGenHQ/status/2052067490079912107#m",
-      "date": "Wed, 06 May 2026 16:46:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Win or Die. #HOTD Season 3 premieres June 21 on HBO Max.",
+      "text": "Win or Die. #HOTD Season 3 premieres June 21 on HBO Max.",
+      "url": "https://nitter.net/HouseofDragon/status/2052010497537413479#m",
+      "date": "Wed, 06 May 2026 13:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHpoaupWQAEfEbx.jpg"
+        "https://nitter.net/pic/media%2FHHmMAWOW4AI0_Xe.jpg"
       ]
     },
     {
@@ -271,21 +273,6 @@
   ],
   "items": [
     {
-      "id": "2311899989fa42a3ed4d238157ea8e77b7eb1d7378648b701b4f7f06c502a4ad",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 New spoilers(wont name the source this time since they probably don´t want it 👍) Also little correction: - It is not the WG in general but Kilingham and Sommers who fear Zaza.",
-      "text": "#ONEPIECE1182 New spoilers(wont name the source this time since they probably don´t want it 👍) Also little correction: - It is not the WG in general but Kilingham and Sommers who fear Zaza.",
-      "url": "https://nitter.net/WorstGenHQ/status/2052138749794922928#m",
-      "date": "Wed, 06 May 2026 21:29:39 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHqpLlUXYAY6TxP.png"
-      ]
-    },
-    {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -334,74 +321,91 @@
       ]
     },
     {
-      "id": "edd4bf7c8093d455f85ee93499e17aa9f986c3d727bc1f6774e0924ee6c5b850",
+      "id": "d4d120cf233c34efc6d6689a067152383e364548116b940c37f0e11a1dbddcb1",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Referee on a mission today... False offside No yellow/red card No penalty..",
-      "text": "Referee on a mission today... False offside No yellow/red card No penalty..",
-      "url": "https://nitter.net/WorstGenHQ/status/2052109857491231036#m",
-      "date": "Wed, 06 May 2026 19:34:51 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡¡PERO ESTO QUE COJ*NES ES 😵😵😵!!! Pero cómo anuncian un Direct de Star Fox 10 minutos antes de que empiece... Nintendo España (@NintendoES) Hola, soy Shigeru Miyamoto. En breve, a medianoche, emit",
+      "text": "¡¡¡PERO ESTO QUE COJ*NES ES 😵😵😵!!! Pero cómo anuncian un Direct de Star Fox 10 minutos antes de que empiece... Nintendo España (@NintendoES) Hola, soy Shigeru Miyamoto. En breve, a medianoche, emitiremos en directo la presentación Star Fox Direct – 07-05-2026. Durará aproximadamente 15 minutos, y me haría mucha ilusión que le echaseis un vistazo. ntdo.com/6010A7PBs #StarFox #NintendoDirect — https://nitter.net/NintendoES/status/2052143921434632639#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2052149804294181247#m",
+      "date": "Wed, 06 May 2026 22:13:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHquBQgXkAEMxQf.jpg"
+      ]
+    },
+    {
+      "id": "12e27640a527dde9f71c53b28fb35f63c0961fd0067f235ad02622cb33f1135e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Hola, soy Shigeru Miyamoto. En breve, a medianoche, emitiremos en directo la presentación Star Fox Direct – 07-05-2026. Durará aproximadamente 15 minutos, y me haría mucha ilusión que le echaseis un v",
+      "text": "Hola, soy Shigeru Miyamoto. En breve, a medianoche, emitiremos en directo la presentación Star Fox Direct – 07-05-2026. Durará aproximadamente 15 minutos, y me haría mucha ilusión que le echaseis un vistazo. ntdo.com/6010A7PBs #StarFox #NintendoDirect",
+      "url": "https://nitter.net/NintendoES/status/2052143921434632639#m",
+      "date": "Wed, 06 May 2026 21:50:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHquBQgXkAEMxQf.jpg"
+      ]
+    },
+    {
+      "id": "167171c7d664eac1ebf2bc4438c089fa6d7a5326fc7d60e4edb31e1c264e8224",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Aquellos que se quejan de que las editoriales sacan ediciones coleccionistas a precio de coleccionista; son los que se dan golpes de pecho y crean polémicas pidiendo ediciones especiales, regalitos, p",
+      "text": "Aquellos que se quejan de que las editoriales sacan ediciones coleccionistas a precio de coleccionista; son los que se dan golpes de pecho y crean polémicas pidiendo ediciones especiales, regalitos, postalitas y tonterías varias que realmente “no son gratis”… no, no son gratis.",
+      "url": "https://nitter.net/MangAnimeList/status/2052045745360965913#m",
+      "date": "Wed, 06 May 2026 15:20:05 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "44e0459683154292a60fb4d8a88a356652d96acfb066840a932966443c29ed48",
+      "id": "59fd81b057a2a92f8c1be4bc2800c1adc96430f7f8001bbe2ad4c25444fa6d9f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Paris 1:0....",
-      "text": "Paris 1:0....",
-      "url": "https://nitter.net/WorstGenHQ/status/2052102460550811785#m",
-      "date": "Wed, 06 May 2026 19:05:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "caa1a5ede2fd0ae1291c6983e0c9a3e098239e64bd9d487c4345ca09fcfceb15",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Peak here guys today. Gonna be a amazing game... Bayern 3:1 Paris",
-      "text": "Peak here guys today. Gonna be a amazing game... Bayern 3:1 Paris",
-      "url": "https://nitter.net/WorstGenHQ/status/2052093649232470306#m",
-      "date": "Wed, 06 May 2026 18:30:26 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "[OFF-Topic MI opinión] Que iba a volar costase 150, 300, 500 o mil € era evidente cuando se juega con el fomo y con lo que más añoran los especuladores. Que se hayan sacado 75.000 euros en unas horas ",
+      "text": "[OFF-Topic MI opinión] Que iba a volar costase 150, 300, 500 o mil € era evidente cuando se juega con el fomo y con lo que más añoran los especuladores. Que se hayan sacado 75.000 euros en unas horas es lo de menos, lo que da miedo es el rumbo que ya lleva años... PANINI_Manga (@MangaPaniniEsp) 🌘Las 500 unidades de la exclusiva edición BEHERIT LIMITED del primer tomo de BERSERK MASTER EDITION se agotaron en pocas horas. ¡Gracias por vuestra fenomenal acogida! El primer tomo en la edición convencional sigue en pre-venta: panini.es/shp_esp_es/berserk… #PaniniManga #Berserk — https://nitter.net/MangaPaniniEsp/status/2051942997260910656#m",
+      "url": "https://nitter.net/NosMANGAn_ES/status/2051968762673271005#m",
+      "date": "Wed, 06 May 2026 10:14:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHqAOt_W4AQtx7D.jpg"
+        "https://nitter.net/pic/media%2FHHn2hF7WgAUEqEp.jpg"
       ]
     },
     {
-      "id": "4ad9a8d14c1075f64ebb17a849755fbb7961b2466a621754264140e815c1c45c",
+      "id": "22f8f23fc94d90db91fe4410b6abf7e53e16ebf6696a2c10988bd62a35917a4c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Ragnir(hammer) ate the Squirrel Squirrel fruit (Mythical Zoan) = Rataroskr Ice Squirrel Thanks to TALKOP",
-      "text": "#ONEPIECE1182 Ragnir(hammer) ate the Squirrel Squirrel fruit (Mythical Zoan) = Rataroskr Ice Squirrel Thanks to TALKOP",
-      "url": "https://nitter.net/WorstGenHQ/status/2052070602500976772#m",
-      "date": "Wed, 06 May 2026 16:58:51 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Tears Of The Kingdom player builds a working Flying Dutchman 🎥: u/thefrankmiester4815 Video",
+      "text": "Tears Of The Kingdom player builds a working Flying Dutchman 🎥: u/thefrankmiester4815 Video",
+      "url": "https://nitter.net/Dexerto/status/2051897244719448064#m",
+      "date": "Wed, 06 May 2026 05:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHpj-4JXQAEkKKB.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2051583087708864515%2Fimg%2F6BiLyp_ISzVlqNzF.jpg"
       ]
     },
     {
-      "id": "01d0174d5a1d90007f9c511c9c32c212cbaf560554429ae12a9e2b319510d1d8",
+      "id": "21e115501bb329822703cabc7fe1dfb8382ac51e626d107f571765bbdaa46c71",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 I've thought about this a lot. What if the Ancient Weapons are human-made technologies, created from the DNA of the God Powers? Sun God > Uranus Earth God > Pluton Rain God > Sea God Per",
-      "text": "#ONEPIECE1182 I've thought about this a lot. What if the Ancient Weapons are human-made technologies, created from the DNA of the God Powers? Sun God > Uranus Earth God > Pluton Rain God > Sea God Perhaps humanity created a counterpart to these God Powers to fight them?",
-      "url": "https://nitter.net/WorstGenHQ/status/2052067490079912107#m",
-      "date": "Wed, 06 May 2026 16:46:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Win or Die. #HOTD Season 3 premieres June 21 on HBO Max.",
+      "text": "Win or Die. #HOTD Season 3 premieres June 21 on HBO Max.",
+      "url": "https://nitter.net/HouseofDragon/status/2052010497537413479#m",
+      "date": "Wed, 06 May 2026 13:00:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHpoaupWQAEfEbx.jpg"
+        "https://nitter.net/pic/media%2FHHmMAWOW4AI0_Xe.jpg"
       ]
     },
     {
