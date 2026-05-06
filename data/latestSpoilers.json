@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T04:46:37.592Z",
+  "generatedAt": "2026-05-06T07:27:53.471Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -15,21 +15,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHlW_esXQAE2An5.jpg"
-      ]
-    },
-    {
-      "id": "0bc6a5b9504af4cfe43b1d94c75548b521bf76883517d079af0924be4c4ab297",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#OnePiece #OnePiece1182 #opspoilers Dragon's first appearance was during a heavy rain marked by the \"Zaaaa\" (ザアアア) SFX for pouring rain. Now we learn the Rain Goddess is named Zaza, essentially the sa",
-      "text": "#OnePiece #OnePiece1182 #opspoilers Dragon's first appearance was during a heavy rain marked by the \"Zaaaa\" (ザアアア) SFX for pouring rain. Now we learn the Rain Goddess is named Zaza, essentially the same sound effect. This suggests Dragon is the current Rain God, Zaza.",
-      "url": "https://nitter.net/writingpanini/status/2051750656088719749#m",
-      "date": "Tue, 05 May 2026 19:47:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHlHloIWkAUmyRY.jpg"
       ]
     },
     {
@@ -83,6 +68,21 @@
   ],
   "misc": [
     {
+      "id": "dc7003ca51f83adda9f4747137d8869fc4afbf47d1489bf6e0e787960d2bd397",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bruhhh😭🤣🤣 Troll Football (@TrollFootball) Alexander Sørloth Video — https://nitter.net/TrollFootball/status/2051769802814050813#m",
+      "text": "Bruhhh😭🤣🤣 Troll Football (@TrollFootball) Alexander Sørloth Video — https://nitter.net/TrollFootball/status/2051769802814050813#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2051900895344890266#m",
+      "date": "Wed, 06 May 2026 05:44:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1556287705864179712%2Fpu%2Fimg%2FH4mO5UOoPjUGWL_t.jpg"
+      ]
+    },
+    {
       "id": "bc6fdbecc6e10a520c0f686c7e9132909624ee404e150efbe54a45cbddfce58d",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -269,6 +269,21 @@
       ]
     },
     {
+      "id": "6efa748d24fed11a399efe92f17fb0ab13b83454bc734da1e208bb07f5687c92",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051907228521627738#m",
+      "date": "Wed, 06 May 2026 06:09:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHnWv7nW8AgN0hh.jpg"
+      ]
+    },
+    {
       "id": "04056330a6a2210b0420d6ab94502f43448f7c132176978e3525599d8329c606",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -344,21 +359,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHgHxtkWwAATPdX.jpg"
       ]
-    },
-    {
-      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
-      "date": "Mon, 04 May 2026 13:13:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHekk-FWIAAOSPA.jpg"
-      ]
     }
   ],
   "items": [
@@ -375,21 +375,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHlW_esXQAE2An5.jpg"
-      ]
-    },
-    {
-      "id": "0bc6a5b9504af4cfe43b1d94c75548b521bf76883517d079af0924be4c4ab297",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#OnePiece #OnePiece1182 #opspoilers Dragon's first appearance was during a heavy rain marked by the \"Zaaaa\" (ザアアア) SFX for pouring rain. Now we learn the Rain Goddess is named Zaza, essentially the sa",
-      "text": "#OnePiece #OnePiece1182 #opspoilers Dragon's first appearance was during a heavy rain marked by the \"Zaaaa\" (ザアアア) SFX for pouring rain. Now we learn the Rain Goddess is named Zaza, essentially the same sound effect. This suggests Dragon is the current Rain God, Zaza.",
-      "url": "https://nitter.net/writingpanini/status/2051750656088719749#m",
-      "date": "Tue, 05 May 2026 19:47:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHlHloIWkAUmyRY.jpg"
       ]
     },
     {
@@ -441,6 +426,21 @@
       ]
     },
     {
+      "id": "dc7003ca51f83adda9f4747137d8869fc4afbf47d1489bf6e0e787960d2bd397",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Bruhhh😭🤣🤣 Troll Football (@TrollFootball) Alexander Sørloth Video — https://nitter.net/TrollFootball/status/2051769802814050813#m",
+      "text": "Bruhhh😭🤣🤣 Troll Football (@TrollFootball) Alexander Sørloth Video — https://nitter.net/TrollFootball/status/2051769802814050813#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2051900895344890266#m",
+      "date": "Wed, 06 May 2026 05:44:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1556287705864179712%2Fpu%2Fimg%2FH4mO5UOoPjUGWL_t.jpg"
+      ]
+    },
+    {
       "id": "bc6fdbecc6e10a520c0f686c7e9132909624ee404e150efbe54a45cbddfce58d",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -627,6 +627,21 @@
       ]
     },
     {
+      "id": "6efa748d24fed11a399efe92f17fb0ab13b83454bc734da1e208bb07f5687c92",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2051907228521627738#m",
+      "date": "Wed, 06 May 2026 06:09:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHnWv7nW8AgN0hh.jpg"
+      ]
+    },
+    {
       "id": "04056330a6a2210b0420d6ab94502f43448f7c132176978e3525599d8329c606",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -701,21 +716,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHgHxtkWwAATPdX.jpg"
-      ]
-    },
-    {
-      "id": "813a7956a61bcb19233a86d8a854673653fcefe42c5b9818ae33f10f25d73eb4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051289115778318660#m",
-      "date": "Mon, 04 May 2026 13:13:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHekk-FWIAAOSPA.jpg"
       ]
     }
   ]
