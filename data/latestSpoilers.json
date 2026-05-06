@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T07:27:53.471Z",
+  "generatedAt": "2026-05-06T10:03:50.133Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -68,6 +68,21 @@
   ],
   "misc": [
     {
+      "id": "5abe0a7cffbbadca7524c6fdfe344939858ab730101150719da3c4fa0807252e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 All this God lore drops, Imu, Nidhogg and Joyboy and there is still the most important character left, his reveal will break X... Romeo Vinsmoke... Video",
+      "text": "#ONEPIECE1182 All this God lore drops, Imu, Nidhogg and Joyboy and there is still the most important character left, his reveal will break X... Romeo Vinsmoke... Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2051957566868005317#m",
+      "date": "Wed, 06 May 2026 09:29:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2051957555715252233%2Fpu%2Fimg%2FBS7Z99oh-A4spHLX.jpg"
+      ]
+    },
+    {
       "id": "dc7003ca51f83adda9f4747137d8869fc4afbf47d1489bf6e0e787960d2bd397",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -124,19 +139,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHlaO3CXcAcImy3.jpg"
       ]
-    },
-    {
-      "id": "880fbb4e625ed59da77f663646a453d498eda538e939d445a817f49f50bcb751",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Question, if Zaza can control water and let assume she also became a fruit like Nika/Earth God, can she swim and control water despite having a Devil Fruit? 🤔",
-      "text": "#ONEPIECE1182 Question, if Zaza can control water and let assume she also became a fruit like Nika/Earth God, can she swim and control water despite having a Devil Fruit? 🤔",
-      "url": "https://nitter.net/WorstGenHQ/status/2051760030647570792#m",
-      "date": "Tue, 05 May 2026 20:24:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
@@ -269,6 +271,21 @@
       ]
     },
     {
+      "id": "8d590d66dd3e2d93c5154a2da4cc53dd72228229c9ad53f644beeb5edef7cf19",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "text": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "url": "https://nitter.net/daily_berserk/status/2051941252057256330#m",
+      "date": "Wed, 06 May 2026 08:24:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHn1sPYXsAAxiP1.jpg"
+      ]
+    },
+    {
       "id": "6efa748d24fed11a399efe92f17fb0ab13b83454bc734da1e208bb07f5687c92",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -343,21 +360,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHiNc45XIAA_at_.jpg"
-      ]
-    },
-    {
-      "id": "ac505130a325bb6cc1c21ed3461f067f33b70c8d5089678e3760d48df72d4a06",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051398186309152834#m",
-      "date": "Mon, 04 May 2026 20:26:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHgHxtkWwAATPdX.jpg"
       ]
     }
   ],
@@ -426,6 +428,21 @@
       ]
     },
     {
+      "id": "5abe0a7cffbbadca7524c6fdfe344939858ab730101150719da3c4fa0807252e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 All this God lore drops, Imu, Nidhogg and Joyboy and there is still the most important character left, his reveal will break X... Romeo Vinsmoke... Video",
+      "text": "#ONEPIECE1182 All this God lore drops, Imu, Nidhogg and Joyboy and there is still the most important character left, his reveal will break X... Romeo Vinsmoke... Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2051957566868005317#m",
+      "date": "Wed, 06 May 2026 09:29:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2051957555715252233%2Fpu%2Fimg%2FBS7Z99oh-A4spHLX.jpg"
+      ]
+    },
+    {
       "id": "dc7003ca51f83adda9f4747137d8869fc4afbf47d1489bf6e0e787960d2bd397",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -482,19 +499,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHlaO3CXcAcImy3.jpg"
       ]
-    },
-    {
-      "id": "880fbb4e625ed59da77f663646a453d498eda538e939d445a817f49f50bcb751",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Question, if Zaza can control water and let assume she also became a fruit like Nika/Earth God, can she swim and control water despite having a Devil Fruit? 🤔",
-      "text": "#ONEPIECE1182 Question, if Zaza can control water and let assume she also became a fruit like Nika/Earth God, can she swim and control water despite having a Devil Fruit? 🤔",
-      "url": "https://nitter.net/WorstGenHQ/status/2051760030647570792#m",
-      "date": "Tue, 05 May 2026 20:24:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
@@ -627,6 +631,21 @@
       ]
     },
     {
+      "id": "8d590d66dd3e2d93c5154a2da4cc53dd72228229c9ad53f644beeb5edef7cf19",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "text": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "url": "https://nitter.net/daily_berserk/status/2051941252057256330#m",
+      "date": "Wed, 06 May 2026 08:24:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHn1sPYXsAAxiP1.jpg"
+      ]
+    },
+    {
       "id": "6efa748d24fed11a399efe92f17fb0ab13b83454bc734da1e208bb07f5687c92",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -701,21 +720,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHiNc45XIAA_at_.jpg"
-      ]
-    },
-    {
-      "id": "ac505130a325bb6cc1c21ed3461f067f33b70c8d5089678e3760d48df72d4a06",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2051398186309152834#m",
-      "date": "Mon, 04 May 2026 20:26:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHgHxtkWwAATPdX.jpg"
       ]
     }
   ]
