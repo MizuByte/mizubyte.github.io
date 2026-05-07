@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T15:07:54.481Z",
+  "generatedAt": "2026-05-07T17:12:13.873Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -15,21 +15,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
-      ]
-    },
-    {
-      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
-      "date": "Sat, 02 May 2026 13:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
@@ -49,9 +34,52 @@
         "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
         "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
       ]
+    },
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
     }
   ],
   "misc": [
+    {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgen",
+      "text": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgenhq",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431725670617187#m",
+      "date": "Thu, 07 May 2026 16:53:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
+      ]
+    },
     {
       "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
       "anime": "onepiece",
@@ -99,197 +127,100 @@
       ]
     },
     {
-      "id": "35c6d6118a1163bf358a9b02ad083ba6481d517e8842eefac1a4470a6171c540",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Robin and Saul finding all the books in a secret room, Bilbo the owl indeed took them all into that room. Source: Worstgenhq",
-      "text": "#ONEPIECE1182 Robin and Saul finding all the books in a secret room, Bilbo the owl indeed took them all into that room. Source: Worstgenhq",
-      "url": "https://nitter.net/WorstGenHQ/status/2052332899647500746#m",
-      "date": "Thu, 07 May 2026 10:21:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHtZ39tXYAQT_tP.jpg"
-      ]
-    },
-    {
-      "id": "37ef65bc1c787bc050c491985ec887e9abdb17565a2408a8c0500fbd2b68029f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Enel representing the moon part of Tezcatlipoca and Luffy the sun both of them fighting over the leftover treasures of Shandora feels incredibly perfect for a future parallel of the creature of legend",
-      "text": "Enel representing the moon part of Tezcatlipoca and Luffy the sun both of them fighting over the leftover treasures of Shandora feels incredibly perfect for a future parallel of the creature of legend",
-      "url": "https://nitter.net/yahweh_theories/status/1725671697129353481#m",
-      "date": "Sat, 18 Nov 2023 00:26:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FF_LRHrJXcAAMnd7.png",
-        "https://nitter.net/pic/media%2FF_LRJYFWUAESU_W.jpg"
-      ]
-    },
-    {
-      "id": "429d4ac7c3e7cd06ebdd5b26c34c9214225b3cb2845699c19b29b1cbc8a47855",
+      "id": "b299373f7f24eb746acabe2645ee42d29c4859b82d1adb6c97467b407bede474",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【#DQ40th まであと19日】 本日の作品はこちら！ ／ シリーズ初のオンラインで遊べるMMORPGが登場！ あなたはどの種族からスタートしましたか？ ＼",
-      "text": "【#DQ40th まであと19日】 本日の作品はこちら！ ／ シリーズ初のオンラインで遊べるMMORPGが登場！ あなたはどの種族からスタートしましたか？ ＼",
-      "url": "https://nitter.net/DQ_PR/status/2052403141082271846#m",
-      "date": "Thu, 07 May 2026 15:00:15 GMT",
+      "title": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
+      "text": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2052274733400646060#m",
+      "date": "Thu, 07 May 2026 06:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHuZxYybwAASX4y.jpg"
+        "https://nitter.net/pic/media%2FHHn-L2VbAAACD6E.jpg"
       ]
     },
     {
-      "id": "438b8a80325275c98c9543fbf7d8f368d4b7f13d2dd6f93c20d863210738fd3a",
+      "id": "01063d5f457145041a1f018e91dc3cdda3253020de854a2553eb7b19fdcacf1c",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "🔻無料で読む🔻 shonenjumpplus.com/app/viewe… #ONEPIECE #ワンピース学園 #漫画が読めるハッシュタグ",
-      "text": "🔻無料で読む🔻 shonenjumpplus.com/app/viewe… #ONEPIECE #ワンピース学園 #漫画が読めるハッシュタグ",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2052403198670131669#m",
-      "date": "Thu, 07 May 2026 15:00:29 GMT",
+      "title": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) ",
+      "text": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) Day 386: #40, 2008. “Bleach” Cover & Lead Color Pages to celebrate the Anime Movie \"Bleach: Fade to Black\" release. Other Color Pages go to “Kakuto Oji” — https://nitter.net/Th3MangaAddict/status/2052066180173799519#m",
+      "url": "https://nitter.net/Th3MangaAddict/status/2052424395365515291#m",
+      "date": "Thu, 07 May 2026 16:24:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2052403136481165313%2F6bAfY1zS%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/media%2FHHutGb4acAARDK4.jpg",
+        "https://nitter.net/pic/media%2FHHutGb4akAAdfx8.jpg",
+        "https://nitter.net/pic/media%2FHHutGb3bcAMXvGg.jpg",
+        "https://nitter.net/pic/media%2FHHutGb3bgAA4E0o.jpg",
+        "https://nitter.net/pic/media%2FHHpnTjXbAAQY9Az.jpg",
+        "https://nitter.net/pic/media%2FHHpnTjabwAAlGNd.jpg",
+        "https://nitter.net/pic/media%2FHHpnTjZbAAQ5z1K.jpg",
+        "https://nitter.net/pic/media%2FHHpnTj0bAAEuJsc.jpg"
       ]
     },
     {
-      "id": "732869b3ffc25ef362d418d6f3f026b52a8853a36b5eb7a6bfdfc94ccbb5e3cb",
+      "id": "3ee76de7eda3e1ff1aaa27ad65ad24a921e43a0cc8d884a126197816a80421ab",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "サボくんのために🔥🔥🔥 ルフィくん&エースくんvs.ティーチくん！ #ONEPIECE #ワンピース学園",
-      "text": "サボくんのために🔥🔥🔥 ルフィくん&エースくんvs.ティーチくん！ #ONEPIECE #ワンピース学園",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2052403193494298697#m",
-      "date": "Thu, 07 May 2026 15:00:27 GMT",
+      "title": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I lov",
+      "text": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I love this guy.\" \"The backbone of this country is small business. Plain and simple.\" \"The last guy in office, all we heard was that we were the evil people.\" Video — https://nitter.net/FoxNews/status/2051396674195685790#m",
+      "url": "https://nitter.net/ShitpostGate/status/2052142958007206185#m",
+      "date": "Wed, 06 May 2026 21:46:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHuZz9dbQAAZbfF.jpg",
-        "https://nitter.net/pic/media%2FHHuZz9db0AAfcQY.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2051396092525174784%2Fimg%2FE4GgRD6I5b7yW6cf.jpg"
       ]
     },
     {
-      "id": "89232b0f30a644bdbbe77d1ec657d71a1323b2c5b642c089de269af9c128628a",
+      "id": "4e91dc9243437ee34b44f3d1beb92c6c1ac4a609ca41c47f9acf00e06522f9dd",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "THE ONE PIECE will be at the Netflix panel event at Annecy 2026. Netflix Japan | ネットフリックス (@NetflixJP) 世界最大のアニメ―ション映画祭 【アヌシー国際アニメーション映画祭2026】 Netflixパネルイベント実施決定！ 『二十世紀電氣目録-ユーレカ・エヴリカ-』 『THE RIBBON HERO",
-      "text": "THE ONE PIECE will be at the Netflix panel event at Annecy 2026. Netflix Japan | ネットフリックス (@NetflixJP) 世界最大のアニメ―ション映画祭 【アヌシー国際アニメーション映画祭2026】 Netflixパネルイベント実施決定！ 『二十世紀電氣目録-ユーレカ・エヴリカ-』 『THE RIBBON HERO リボンヒーロー』 『THE ONE PIECE』 『Alley Cats （原題）』 『レイ・ガン』 『リリスとシンデレラのおとぎの王国』 …and more! 今後Netflixで世界配信を控える 多彩な作品の新情報を解禁✨ #AnnecyFestival #AnnecyFestival2026 — https://nitter.net/NetflixJP/status/2052372879816225269#m",
-      "url": "https://nitter.net/theop_official/status/2052373388577169420#m",
-      "date": "Thu, 07 May 2026 13:02:01 GMT",
+      "title": "HELLO???",
+      "text": "HELLO???",
+      "url": "https://nitter.net/SatachiFEH/status/2052189329263329456#m",
+      "date": "Thu, 07 May 2026 00:50:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHp6QPAWMAENAr9.jpg"
+        "https://nitter.net/pic/media%2FHHrXQ52XUAAbSe3.png"
       ]
     },
     {
-      "id": "f9aae40cacb7478ff00a0b06fd2540402408e02f07ec51ad6c8314c1f76a5efa",
+      "id": "68591ca149d70b6123eff526b070287d24c8bdbd8d94d387b2e0162bde190197",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Y terminamos el pedido a @otakucenter con las novedades de @PlanetadComic de esta semana, que nos traen nuevos Tomos de “Santuario” (ya estamos a un Tomo del final), de “Kagurabachi” (portadón) y de “",
-      "text": "Y terminamos el pedido a @otakucenter con las novedades de @PlanetadComic de esta semana, que nos traen nuevos Tomos de “Santuario” (ya estamos a un Tomo del final), de “Kagurabachi” (portadón) y de “Dragon Quest: Dai no Daibouken” justo una semana después del Tomo 6 😍😍😍😍😍",
-      "url": "https://nitter.net/Mugiwara_23/status/2052367334577250590#m",
-      "date": "Thu, 07 May 2026 12:37:58 GMT",
+      "title": "ONE PIECE 初版帯コンプリートまで、残り8冊",
+      "text": "ONE PIECE 初版帯コンプリートまで、残り8冊",
+      "url": "https://nitter.net/JUMPCOMICLOVESS/status/2052304215905841478#m",
+      "date": "Thu, 07 May 2026 08:27:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHt5G0oW0AAdl37.jpg",
-        "https://nitter.net/pic/media%2FHHt5G0oXoAAjgtV.jpg"
+        "https://nitter.net/pic/media%2FHHs_zuVbYAAMo5L.jpg"
       ]
     },
     {
-      "id": "905fcb6e28f8c39d41d84a52c125ece13823eeb580c25d1931352eb2bd8340d1",
+      "id": "35df31444cc7f57af744bc8661fc5e95a9975ab5a388192475e41faa2b127eb3",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Seguimos el pedido de esta semana a @otakucenter con las novedades de @Ivrea que nos traen el Tomo 4 de “The JOJOLands” 😍😍😍 Me falta el Tomo 29 de “D.Gray-man” que también salía hoy, pero por un pe",
-      "text": "Seguimos el pedido de esta semana a @otakucenter con las novedades de @Ivrea que nos traen el Tomo 4 de “The JOJOLands” 😍😍😍 Me falta el Tomo 29 de “D.Gray-man” que también salía hoy, pero por un pequeño error en el pedido, no ha llegado 😅😅😅",
-      "url": "https://nitter.net/Mugiwara_23/status/2052366398026887269#m",
-      "date": "Thu, 07 May 2026 12:34:15 GMT",
+      "title": "Lo gozo. Sin màs. Tripalosky (@elacerjoker) \"Que me maquillen los cojones\" La manera tan casual con la que lo dice Soldier Boy en castellano me tiene en el suelo 😭 Video — https://nitter.net/elacerjo",
+      "text": "Lo gozo. Sin màs. Tripalosky (@elacerjoker) \"Que me maquillen los cojones\" La manera tan casual con la que lo dice Soldier Boy en castellano me tiene en el suelo 😭 Video — https://nitter.net/elacerjoker/status/2052083809617654224#m",
+      "url": "https://nitter.net/ClaudioSensasao/status/2052308573917442490#m",
+      "date": "Thu, 07 May 2026 08:44:28 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHt3-2tW8AATVyz.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
-      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
-      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
-    },
-    {
-      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
-      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
-    },
-    {
-      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
-      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+        "https://nitter.net/pic/amplify_video_thumb%2F2052083318649241603%2Fimg%2Fk4_Ao-gntyTNwH1x.jpg"
       ]
     },
     {
@@ -348,6 +279,78 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
+      ]
+    },
+    {
+      "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING TH",
+      "text": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING THIS YEAR 🗣🔥🔥🔥 — https://nitter.net/prowlerearth42/status/2051609403560751419#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
+      "date": "Tue, 05 May 2026 12:28:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
+        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
+      ]
+    },
+    {
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "date": "Sat, 02 May 2026 07:07:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Holy Fuck! Video",
+      "text": "Holy Fuck! Video",
+      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
+      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
+      ]
+    },
+    {
+      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
+      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
       ]
     }
   ],
@@ -368,21 +371,6 @@
       ]
     },
     {
-      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
-      "date": "Sat, 02 May 2026 13:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
-    {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -398,6 +386,49 @@
         "https://nitter.net/pic/media%2FHHeOjNLWcAARXk6.jpg",
         "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
         "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
+      ]
+    },
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgen",
+      "text": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgenhq",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431725670617187#m",
+      "date": "Thu, 07 May 2026 16:53:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
       ]
     },
     {
@@ -447,197 +478,100 @@
       ]
     },
     {
-      "id": "35c6d6118a1163bf358a9b02ad083ba6481d517e8842eefac1a4470a6171c540",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Robin and Saul finding all the books in a secret room, Bilbo the owl indeed took them all into that room. Source: Worstgenhq",
-      "text": "#ONEPIECE1182 Robin and Saul finding all the books in a secret room, Bilbo the owl indeed took them all into that room. Source: Worstgenhq",
-      "url": "https://nitter.net/WorstGenHQ/status/2052332899647500746#m",
-      "date": "Thu, 07 May 2026 10:21:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHtZ39tXYAQT_tP.jpg"
-      ]
-    },
-    {
-      "id": "37ef65bc1c787bc050c491985ec887e9abdb17565a2408a8c0500fbd2b68029f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Enel representing the moon part of Tezcatlipoca and Luffy the sun both of them fighting over the leftover treasures of Shandora feels incredibly perfect for a future parallel of the creature of legend",
-      "text": "Enel representing the moon part of Tezcatlipoca and Luffy the sun both of them fighting over the leftover treasures of Shandora feels incredibly perfect for a future parallel of the creature of legend",
-      "url": "https://nitter.net/yahweh_theories/status/1725671697129353481#m",
-      "date": "Sat, 18 Nov 2023 00:26:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FF_LRHrJXcAAMnd7.png",
-        "https://nitter.net/pic/media%2FF_LRJYFWUAESU_W.jpg"
-      ]
-    },
-    {
-      "id": "429d4ac7c3e7cd06ebdd5b26c34c9214225b3cb2845699c19b29b1cbc8a47855",
+      "id": "b299373f7f24eb746acabe2645ee42d29c4859b82d1adb6c97467b407bede474",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "【#DQ40th まであと19日】 本日の作品はこちら！ ／ シリーズ初のオンラインで遊べるMMORPGが登場！ あなたはどの種族からスタートしましたか？ ＼",
-      "text": "【#DQ40th まであと19日】 本日の作品はこちら！ ／ シリーズ初のオンラインで遊べるMMORPGが登場！ あなたはどの種族からスタートしましたか？ ＼",
-      "url": "https://nitter.net/DQ_PR/status/2052403141082271846#m",
-      "date": "Thu, 07 May 2026 15:00:15 GMT",
+      "title": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
+      "text": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2052274733400646060#m",
+      "date": "Thu, 07 May 2026 06:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHuZxYybwAASX4y.jpg"
+        "https://nitter.net/pic/media%2FHHn-L2VbAAACD6E.jpg"
       ]
     },
     {
-      "id": "438b8a80325275c98c9543fbf7d8f368d4b7f13d2dd6f93c20d863210738fd3a",
+      "id": "01063d5f457145041a1f018e91dc3cdda3253020de854a2553eb7b19fdcacf1c",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "🔻無料で読む🔻 shonenjumpplus.com/app/viewe… #ONEPIECE #ワンピース学園 #漫画が読めるハッシュタグ",
-      "text": "🔻無料で読む🔻 shonenjumpplus.com/app/viewe… #ONEPIECE #ワンピース学園 #漫画が読めるハッシュタグ",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2052403198670131669#m",
-      "date": "Thu, 07 May 2026 15:00:29 GMT",
+      "title": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) ",
+      "text": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) Day 386: #40, 2008. “Bleach” Cover & Lead Color Pages to celebrate the Anime Movie \"Bleach: Fade to Black\" release. Other Color Pages go to “Kakuto Oji” — https://nitter.net/Th3MangaAddict/status/2052066180173799519#m",
+      "url": "https://nitter.net/Th3MangaAddict/status/2052424395365515291#m",
+      "date": "Thu, 07 May 2026 16:24:42 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2052403136481165313%2F6bAfY1zS%3Fformat%3Djpg%26name%3D800x419"
+        "https://nitter.net/pic/media%2FHHutGb4acAARDK4.jpg",
+        "https://nitter.net/pic/media%2FHHutGb4akAAdfx8.jpg",
+        "https://nitter.net/pic/media%2FHHutGb3bcAMXvGg.jpg",
+        "https://nitter.net/pic/media%2FHHutGb3bgAA4E0o.jpg",
+        "https://nitter.net/pic/media%2FHHpnTjXbAAQY9Az.jpg",
+        "https://nitter.net/pic/media%2FHHpnTjabwAAlGNd.jpg",
+        "https://nitter.net/pic/media%2FHHpnTjZbAAQ5z1K.jpg",
+        "https://nitter.net/pic/media%2FHHpnTj0bAAEuJsc.jpg"
       ]
     },
     {
-      "id": "732869b3ffc25ef362d418d6f3f026b52a8853a36b5eb7a6bfdfc94ccbb5e3cb",
+      "id": "3ee76de7eda3e1ff1aaa27ad65ad24a921e43a0cc8d884a126197816a80421ab",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "サボくんのために🔥🔥🔥 ルフィくん&エースくんvs.ティーチくん！ #ONEPIECE #ワンピース学園",
-      "text": "サボくんのために🔥🔥🔥 ルフィくん&エースくんvs.ティーチくん！ #ONEPIECE #ワンピース学園",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2052403193494298697#m",
-      "date": "Thu, 07 May 2026 15:00:27 GMT",
+      "title": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I lov",
+      "text": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I love this guy.\" \"The backbone of this country is small business. Plain and simple.\" \"The last guy in office, all we heard was that we were the evil people.\" Video — https://nitter.net/FoxNews/status/2051396674195685790#m",
+      "url": "https://nitter.net/ShitpostGate/status/2052142958007206185#m",
+      "date": "Wed, 06 May 2026 21:46:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHuZz9dbQAAZbfF.jpg",
-        "https://nitter.net/pic/media%2FHHuZz9db0AAfcQY.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2051396092525174784%2Fimg%2FE4GgRD6I5b7yW6cf.jpg"
       ]
     },
     {
-      "id": "89232b0f30a644bdbbe77d1ec657d71a1323b2c5b642c089de269af9c128628a",
+      "id": "4e91dc9243437ee34b44f3d1beb92c6c1ac4a609ca41c47f9acf00e06522f9dd",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "THE ONE PIECE will be at the Netflix panel event at Annecy 2026. Netflix Japan | ネットフリックス (@NetflixJP) 世界最大のアニメ―ション映画祭 【アヌシー国際アニメーション映画祭2026】 Netflixパネルイベント実施決定！ 『二十世紀電氣目録-ユーレカ・エヴリカ-』 『THE RIBBON HERO",
-      "text": "THE ONE PIECE will be at the Netflix panel event at Annecy 2026. Netflix Japan | ネットフリックス (@NetflixJP) 世界最大のアニメ―ション映画祭 【アヌシー国際アニメーション映画祭2026】 Netflixパネルイベント実施決定！ 『二十世紀電氣目録-ユーレカ・エヴリカ-』 『THE RIBBON HERO リボンヒーロー』 『THE ONE PIECE』 『Alley Cats （原題）』 『レイ・ガン』 『リリスとシンデレラのおとぎの王国』 …and more! 今後Netflixで世界配信を控える 多彩な作品の新情報を解禁✨ #AnnecyFestival #AnnecyFestival2026 — https://nitter.net/NetflixJP/status/2052372879816225269#m",
-      "url": "https://nitter.net/theop_official/status/2052373388577169420#m",
-      "date": "Thu, 07 May 2026 13:02:01 GMT",
+      "title": "HELLO???",
+      "text": "HELLO???",
+      "url": "https://nitter.net/SatachiFEH/status/2052189329263329456#m",
+      "date": "Thu, 07 May 2026 00:50:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHp6QPAWMAENAr9.jpg"
+        "https://nitter.net/pic/media%2FHHrXQ52XUAAbSe3.png"
       ]
     },
     {
-      "id": "f9aae40cacb7478ff00a0b06fd2540402408e02f07ec51ad6c8314c1f76a5efa",
+      "id": "68591ca149d70b6123eff526b070287d24c8bdbd8d94d387b2e0162bde190197",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Y terminamos el pedido a @otakucenter con las novedades de @PlanetadComic de esta semana, que nos traen nuevos Tomos de “Santuario” (ya estamos a un Tomo del final), de “Kagurabachi” (portadón) y de “",
-      "text": "Y terminamos el pedido a @otakucenter con las novedades de @PlanetadComic de esta semana, que nos traen nuevos Tomos de “Santuario” (ya estamos a un Tomo del final), de “Kagurabachi” (portadón) y de “Dragon Quest: Dai no Daibouken” justo una semana después del Tomo 6 😍😍😍😍😍",
-      "url": "https://nitter.net/Mugiwara_23/status/2052367334577250590#m",
-      "date": "Thu, 07 May 2026 12:37:58 GMT",
+      "title": "ONE PIECE 初版帯コンプリートまで、残り8冊",
+      "text": "ONE PIECE 初版帯コンプリートまで、残り8冊",
+      "url": "https://nitter.net/JUMPCOMICLOVESS/status/2052304215905841478#m",
+      "date": "Thu, 07 May 2026 08:27:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHt5G0oW0AAdl37.jpg",
-        "https://nitter.net/pic/media%2FHHt5G0oXoAAjgtV.jpg"
+        "https://nitter.net/pic/media%2FHHs_zuVbYAAMo5L.jpg"
       ]
     },
     {
-      "id": "905fcb6e28f8c39d41d84a52c125ece13823eeb580c25d1931352eb2bd8340d1",
+      "id": "35df31444cc7f57af744bc8661fc5e95a9975ab5a388192475e41faa2b127eb3",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "Seguimos el pedido de esta semana a @otakucenter con las novedades de @Ivrea que nos traen el Tomo 4 de “The JOJOLands” 😍😍😍 Me falta el Tomo 29 de “D.Gray-man” que también salía hoy, pero por un pe",
-      "text": "Seguimos el pedido de esta semana a @otakucenter con las novedades de @Ivrea que nos traen el Tomo 4 de “The JOJOLands” 😍😍😍 Me falta el Tomo 29 de “D.Gray-man” que también salía hoy, pero por un pequeño error en el pedido, no ha llegado 😅😅😅",
-      "url": "https://nitter.net/Mugiwara_23/status/2052366398026887269#m",
-      "date": "Thu, 07 May 2026 12:34:15 GMT",
+      "title": "Lo gozo. Sin màs. Tripalosky (@elacerjoker) \"Que me maquillen los cojones\" La manera tan casual con la que lo dice Soldier Boy en castellano me tiene en el suelo 😭 Video — https://nitter.net/elacerjo",
+      "text": "Lo gozo. Sin màs. Tripalosky (@elacerjoker) \"Que me maquillen los cojones\" La manera tan casual con la que lo dice Soldier Boy en castellano me tiene en el suelo 😭 Video — https://nitter.net/elacerjoker/status/2052083809617654224#m",
+      "url": "https://nitter.net/ClaudioSensasao/status/2052308573917442490#m",
+      "date": "Thu, 07 May 2026 08:44:28 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHt3-2tW8AATVyz.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
-      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
-      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
-    },
-    {
-      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
-      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
-    },
-    {
-      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
-      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+        "https://nitter.net/pic/amplify_video_thumb%2F2052083318649241603%2Fimg%2Fk4_Ao-gntyTNwH1x.jpg"
       ]
     },
     {
@@ -696,6 +630,78 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
+      ]
+    },
+    {
+      "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING TH",
+      "text": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING THIS YEAR 🗣🔥🔥🔥 — https://nitter.net/prowlerearth42/status/2051609403560751419#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
+      "date": "Tue, 05 May 2026 12:28:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
+        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
+      ]
+    },
+    {
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "date": "Sat, 02 May 2026 07:07:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Holy Fuck! Video",
+      "text": "Holy Fuck! Video",
+      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
+      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
+      ]
+    },
+    {
+      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
+      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
       ]
     }
   ]
