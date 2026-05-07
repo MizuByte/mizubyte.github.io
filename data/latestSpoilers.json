@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-05-07T19:05:37.470Z",
+  "generatedAt": "2026-05-07T20:42:29.750Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/nocontextfooty/status/2052431672977592614#m",
+      "date": "Thu, 07 May 2026 16:53:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuzubKXgAYtZGd.jpg"
+      ]
+    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -38,6 +53,21 @@
   ],
   "misc": [
     {
+      "id": "935476551c3af62d3408375580c2379f73187464f74c95a3d1f2479fa1d0fa9e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
+      "text": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
+      "url": "https://nitter.net/MPlusDeportes/status/2052475434961350991#m",
+      "date": "Thu, 07 May 2026 19:47:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2052475295316193285%2Fimg%2FsydTF6b4zie6HYiU.jpg"
+      ]
+    },
+    {
       "id": "7c4b163b670748336f663873cf2e9bacfd406511bdd213b7e43862db7de75685",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -102,36 +132,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2051396092525174784%2Fimg%2FE4GgRD6I5b7yW6cf.jpg"
-      ]
-    },
-    {
-      "id": "4e91dc9243437ee34b44f3d1beb92c6c1ac4a609ca41c47f9acf00e06522f9dd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "HELLO???",
-      "text": "HELLO???",
-      "url": "https://nitter.net/SatachiFEH/status/2052189329263329456#m",
-      "date": "Thu, 07 May 2026 00:50:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHrXQ52XUAAbSe3.png"
-      ]
-    },
-    {
-      "id": "68591ca149d70b6123eff526b070287d24c8bdbd8d94d387b2e0162bde190197",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ONE PIECE 初版帯コンプリートまで、残り8冊",
-      "text": "ONE PIECE 初版帯コンプリートまで、残り8冊",
-      "url": "https://nitter.net/JUMPCOMICLOVESS/status/2052304215905841478#m",
-      "date": "Thu, 07 May 2026 08:27:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHs_zuVbYAAMo5L.jpg"
       ]
     },
     {
@@ -338,9 +338,39 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
       ]
+    },
+    {
+      "id": "25fafee3d01e50bf0f2686b2b8c5266a13c22bc9be6e2571f5d30e3a63fff8a5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "We don't forget you kentaro miura😩😞",
+      "text": "We don't forget you kentaro miura😩😞",
+      "url": "https://nitter.net/daily_berserk/status/2052065237264650581#m",
+      "date": "Wed, 06 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHpmdMEWEAMuP5L.jpg"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/nocontextfooty/status/2052431672977592614#m",
+      "date": "Thu, 07 May 2026 16:53:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuzubKXgAYtZGd.jpg"
+      ]
+    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -375,6 +405,21 @@
       ]
     },
     {
+      "id": "935476551c3af62d3408375580c2379f73187464f74c95a3d1f2479fa1d0fa9e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
+      "text": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
+      "url": "https://nitter.net/MPlusDeportes/status/2052475434961350991#m",
+      "date": "Thu, 07 May 2026 19:47:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2052475295316193285%2Fimg%2FsydTF6b4zie6HYiU.jpg"
+      ]
+    },
+    {
       "id": "7c4b163b670748336f663873cf2e9bacfd406511bdd213b7e43862db7de75685",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -439,36 +484,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2051396092525174784%2Fimg%2FE4GgRD6I5b7yW6cf.jpg"
-      ]
-    },
-    {
-      "id": "4e91dc9243437ee34b44f3d1beb92c6c1ac4a609ca41c47f9acf00e06522f9dd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "HELLO???",
-      "text": "HELLO???",
-      "url": "https://nitter.net/SatachiFEH/status/2052189329263329456#m",
-      "date": "Thu, 07 May 2026 00:50:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHrXQ52XUAAbSe3.png"
-      ]
-    },
-    {
-      "id": "68591ca149d70b6123eff526b070287d24c8bdbd8d94d387b2e0162bde190197",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "ONE PIECE 初版帯コンプリートまで、残り8冊",
-      "text": "ONE PIECE 初版帯コンプリートまで、残り8冊",
-      "url": "https://nitter.net/JUMPCOMICLOVESS/status/2052304215905841478#m",
-      "date": "Thu, 07 May 2026 08:27:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHs_zuVbYAAMo5L.jpg"
       ]
     },
     {
@@ -674,6 +689,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
+      ]
+    },
+    {
+      "id": "25fafee3d01e50bf0f2686b2b8c5266a13c22bc9be6e2571f5d30e3a63fff8a5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "We don't forget you kentaro miura😩😞",
+      "text": "We don't forget you kentaro miura😩😞",
+      "url": "https://nitter.net/daily_berserk/status/2052065237264650581#m",
+      "date": "Wed, 06 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHpmdMEWEAMuP5L.jpg"
       ]
     }
   ]
