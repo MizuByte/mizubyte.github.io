@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-05-07T22:43:44.225Z",
+  "generatedAt": "2026-05-07T23:36:24.385Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "f508f447aa2f8299fbd8601b247857d5636e646917c56f559ff4c06d3278af9c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
-      "text": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
-      "url": "https://nitter.net/AniKing/status/2052391462063550543#m",
-      "date": "Thu, 07 May 2026 14:13:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
-      ]
-    },
     {
       "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
       "anime": "onepiece",
@@ -81,6 +66,21 @@
       "attachments": []
     },
     {
+      "id": "ecf1923328c9b1c4004050f5c3af95c6974034c92adddb5cb0f6f113b1c9c73e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
+      "text": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2052493063465914615#m",
+      "date": "Thu, 07 May 2026 20:57:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1612230904298045440%2Fpu%2Fimg%2FKP6YYIQAFAD1jk2w.jpg"
+      ]
+    },
+    {
       "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -96,19 +96,6 @@
       ]
     },
     {
-      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
-      "date": "Thu, 07 May 2026 16:54:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -122,6 +109,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
       ]
+    },
+    {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
@@ -348,40 +348,9 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
       ]
-    },
-    {
-      "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING TH",
-      "text": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING THIS YEAR 🗣🔥🔥🔥 — https://nitter.net/prowlerearth42/status/2051609403560751419#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
-      "date": "Tue, 05 May 2026 12:28:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
-        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
-      ]
     }
   ],
   "items": [
-    {
-      "id": "f508f447aa2f8299fbd8601b247857d5636e646917c56f559ff4c06d3278af9c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
-      "text": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
-      "url": "https://nitter.net/AniKing/status/2052391462063550543#m",
-      "date": "Thu, 07 May 2026 14:13:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
-      ]
-    },
     {
       "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
       "anime": "onepiece",
@@ -444,6 +413,21 @@
       "attachments": []
     },
     {
+      "id": "ecf1923328c9b1c4004050f5c3af95c6974034c92adddb5cb0f6f113b1c9c73e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
+      "text": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2052493063465914615#m",
+      "date": "Thu, 07 May 2026 20:57:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1612230904298045440%2Fpu%2Fimg%2FKP6YYIQAFAD1jk2w.jpg"
+      ]
+    },
+    {
       "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -459,19 +443,6 @@
       ]
     },
     {
-      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
-      "date": "Thu, 07 May 2026 16:54:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -485,6 +456,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
       ]
+    },
+    {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
@@ -710,22 +694,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
-      ]
-    },
-    {
-      "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING TH",
-      "text": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING THIS YEAR 🗣🔥🔥🔥 — https://nitter.net/prowlerearth42/status/2051609403560751419#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
-      "date": "Tue, 05 May 2026 12:28:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
-        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
       ]
     }
   ]
