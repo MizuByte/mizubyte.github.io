@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T04:50:09.151Z",
+  "generatedAt": "2026-05-07T07:40:09.633Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -270,6 +270,81 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
       ]
+    },
+    {
+      "id": "76cd16b8597c5fd18e50a7d9d7f3d1b06c4b5347fffd6152ce59034d2cdb2ddc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2052284517210050960#m",
+      "date": "Thu, 07 May 2026 07:08:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHst48PXUAIFs3X.jpg"
+      ]
+    },
+    {
+      "id": "ba94f5c3df93a4d952b8b9d01ea9afb837bd73ddee526aa2b345dbd759d33482",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2052258481776783401#m",
+      "date": "Thu, 07 May 2026 05:25:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHsWNj_WwAYH1Da.jpg"
+      ]
+    },
+    {
+      "id": "a142d543e01eafb024d17ba5b0165450c6a8b835667c70239b2b342013889ff8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😭",
+      "text": "😭",
+      "url": "https://nitter.net/daily_berserk/status/2052191894868722030#m",
+      "date": "Thu, 07 May 2026 01:00:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
+      ]
+    },
+    {
+      "id": "25fafee3d01e50bf0f2686b2b8c5266a13c22bc9be6e2571f5d30e3a63fff8a5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "We don't forget you kentaro miura😩😞",
+      "text": "We don't forget you kentaro miura😩😞",
+      "url": "https://nitter.net/daily_berserk/status/2052065237264650581#m",
+      "date": "Wed, 06 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHpmdMEWEAMuP5L.jpg"
+      ]
+    },
+    {
+      "id": "8d590d66dd3e2d93c5154a2da4cc53dd72228229c9ad53f644beeb5edef7cf19",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "text": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "url": "https://nitter.net/daily_berserk/status/2051941252057256330#m",
+      "date": "Wed, 06 May 2026 08:24:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHn1sPYXsAAxiP1.jpg"
+      ]
     }
   ],
   "items": [
@@ -538,6 +613,81 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
+      ]
+    },
+    {
+      "id": "76cd16b8597c5fd18e50a7d9d7f3d1b06c4b5347fffd6152ce59034d2cdb2ddc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2052284517210050960#m",
+      "date": "Thu, 07 May 2026 07:08:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHst48PXUAIFs3X.jpg"
+      ]
+    },
+    {
+      "id": "ba94f5c3df93a4d952b8b9d01ea9afb837bd73ddee526aa2b345dbd759d33482",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2052258481776783401#m",
+      "date": "Thu, 07 May 2026 05:25:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHsWNj_WwAYH1Da.jpg"
+      ]
+    },
+    {
+      "id": "a142d543e01eafb024d17ba5b0165450c6a8b835667c70239b2b342013889ff8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😭",
+      "text": "😭",
+      "url": "https://nitter.net/daily_berserk/status/2052191894868722030#m",
+      "date": "Thu, 07 May 2026 01:00:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
+      ]
+    },
+    {
+      "id": "25fafee3d01e50bf0f2686b2b8c5266a13c22bc9be6e2571f5d30e3a63fff8a5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "We don't forget you kentaro miura😩😞",
+      "text": "We don't forget you kentaro miura😩😞",
+      "url": "https://nitter.net/daily_berserk/status/2052065237264650581#m",
+      "date": "Wed, 06 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHpmdMEWEAMuP5L.jpg"
+      ]
+    },
+    {
+      "id": "8d590d66dd3e2d93c5154a2da4cc53dd72228229c9ad53f644beeb5edef7cf19",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "text": "It's been 5 years since Kentaro Miura passed away… 😭",
+      "url": "https://nitter.net/daily_berserk/status/2051941252057256330#m",
+      "date": "Wed, 06 May 2026 08:24:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHn1sPYXsAAxiP1.jpg"
       ]
     }
   ]
