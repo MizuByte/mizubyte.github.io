@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-05-07T21:39:06.972Z",
+  "generatedAt": "2026-05-07T22:43:44.225Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "f508f447aa2f8299fbd8601b247857d5636e646917c56f559ff4c06d3278af9c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "text": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "url": "https://nitter.net/AniKing/status/2052391462063550543#m",
+      "date": "Thu, 07 May 2026 14:13:50 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
+      ]
+    },
     {
       "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
       "anime": "onepiece",
@@ -15,6 +30,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHuzubKXgAYtZGd.jpg"
+      ]
+    },
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
@@ -33,26 +63,97 @@
         "https://nitter.net/pic/media%2FHHeOjNLWcAARXk6.jpg",
         "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
         "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
-      ]
-    },
-    {
-      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
-      "date": "Sat, 02 May 2026 13:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     }
   ],
   "misc": [
     {
+      "id": "5f52dbf131758eab3db14be992e404013bade13306fd1afc8a5f9018abf161c8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
+      "text": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2052494453886034215#m",
+      "date": "Thu, 07 May 2026 21:03:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
+      "text": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
+      "url": "https://nitter.net/thatguysjokes/status/2052415429428076734#m",
+      "date": "Thu, 07 May 2026 15:49:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2052415371450175488%2Fimg%2FCneo2FjpW_7018PY.jpg"
+      ]
+    },
+    {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgen",
+      "text": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgenhq",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431725670617187#m",
+      "date": "Thu, 07 May 2026 16:53:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
+      ]
+    },
+    {
+      "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
+      "text": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
+      "url": "https://nitter.net/WorstGenHQ/status/2052404528415166715#m",
+      "date": "Thu, 07 May 2026 15:05:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
+      ]
+    },
+    {
+      "id": "68988da810108a21ba6d18a9b462ed53d417d814b72321e37fff9543f9c07f7c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
+      "text": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
+      "url": "https://nitter.net/RayoVallecano/status/2052492773375271272#m",
+      "date": "Thu, 07 May 2026 20:56:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHvrTE0WYAgQcdX.jpg"
+      ]
+    },
+    {
       "id": "935476551c3af62d3408375580c2379f73187464f74c95a3d1f2479fa1d0fa9e",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -120,104 +221,74 @@
       ]
     },
     {
-      "id": "3ee76de7eda3e1ff1aaa27ad65ad24a921e43a0cc8d884a126197816a80421ab",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I lov",
-      "text": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I love this guy.\" \"The backbone of this country is small business. Plain and simple.\" \"The last guy in office, all we heard was that we were the evil people.\" Video — https://nitter.net/FoxNews/status/2051396674195685790#m",
-      "url": "https://nitter.net/ShitpostGate/status/2052142958007206185#m",
-      "date": "Wed, 06 May 2026 21:46:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2051396092525174784%2Fimg%2FE4GgRD6I5b7yW6cf.jpg"
-      ]
-    },
-    {
-      "id": "5f52dbf131758eab3db14be992e404013bade13306fd1afc8a5f9018abf161c8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
-      "text": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2052494453886034215#m",
-      "date": "Thu, 07 May 2026 21:03:05 GMT",
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "5531f35cf95430a031f24e342fd634f4af12fef61bf748b1329275ff5e37feab",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "text": "Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "url": "https://nitter.net/FullTimeTripp/status/2052428125040943182#m",
-      "date": "Thu, 07 May 2026 16:39:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1612230904298045440%2Fpu%2Fimg%2FKP6YYIQAFAD1jk2w.jpg"
-      ]
-    },
-    {
-      "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
-      "text": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
-      "url": "https://nitter.net/thatguysjokes/status/2052415429428076734#m",
-      "date": "Thu, 07 May 2026 15:49:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2052415371450175488%2Fimg%2FCneo2FjpW_7018PY.jpg"
-      ]
-    },
-    {
-      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
-      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "date": "Sat, 02 May 2026 07:07:10 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgen",
-      "text": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgenhq",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431725670617187#m",
-      "date": "Thu, 07 May 2026 16:53:50 GMT",
+      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Holy Fuck! Video",
+      "text": "Holy Fuck! Video",
+      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
+      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
       ]
     },
     {
-      "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
-      "text": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
-      "url": "https://nitter.net/WorstGenHQ/status/2052404528415166715#m",
-      "date": "Thu, 07 May 2026 15:05:46 GMT",
+      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
+      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/"
+        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
+      ]
+    },
+    {
+      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
+      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
       ]
     },
     {
@@ -293,65 +364,24 @@
         "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
         "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
       ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
-      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
-      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
-    },
-    {
-      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
-      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "f508f447aa2f8299fbd8601b247857d5636e646917c56f559ff4c06d3278af9c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "text": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "url": "https://nitter.net/AniKing/status/2052391462063550543#m",
+      "date": "Thu, 07 May 2026 14:13:50 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
+      ]
+    },
     {
       "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
       "anime": "onepiece",
@@ -365,6 +395,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHuzubKXgAYtZGd.jpg"
+      ]
+    },
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
@@ -386,18 +431,89 @@
       ]
     },
     {
-      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
-      "date": "Sat, 02 May 2026 13:38:26 GMT",
-      "isSpoiler": true,
+      "id": "5f52dbf131758eab3db14be992e404013bade13306fd1afc8a5f9018abf161c8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
+      "text": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2052494453886034215#m",
+      "date": "Thu, 07 May 2026 21:03:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
+      "text": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
+      "url": "https://nitter.net/thatguysjokes/status/2052415429428076734#m",
+      "date": "Thu, 07 May 2026 15:49:05 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
+        "https://nitter.net/pic/amplify_video_thumb%2F2052415371450175488%2Fimg%2FCneo2FjpW_7018PY.jpg"
+      ]
+    },
+    {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgen",
+      "text": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgenhq",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431725670617187#m",
+      "date": "Thu, 07 May 2026 16:53:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
+      ]
+    },
+    {
+      "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
+      "text": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
+      "url": "https://nitter.net/WorstGenHQ/status/2052404528415166715#m",
+      "date": "Thu, 07 May 2026 15:05:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/"
+      ]
+    },
+    {
+      "id": "68988da810108a21ba6d18a9b462ed53d417d814b72321e37fff9543f9c07f7c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
+      "text": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
+      "url": "https://nitter.net/RayoVallecano/status/2052492773375271272#m",
+      "date": "Thu, 07 May 2026 20:56:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHvrTE0WYAgQcdX.jpg"
       ]
     },
     {
@@ -468,104 +584,74 @@
       ]
     },
     {
-      "id": "3ee76de7eda3e1ff1aaa27ad65ad24a921e43a0cc8d884a126197816a80421ab",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I lov",
-      "text": "\"Let me call in my Epstein expert\" Fox News (@FoxNews) NEW: Pawn Stars' Rick Harrison joins President Trump at the White House: \"Literally he's going to go down as maybe the best president ever. I love this guy.\" \"The backbone of this country is small business. Plain and simple.\" \"The last guy in office, all we heard was that we were the evil people.\" Video — https://nitter.net/FoxNews/status/2051396674195685790#m",
-      "url": "https://nitter.net/ShitpostGate/status/2052142958007206185#m",
-      "date": "Wed, 06 May 2026 21:46:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2051396092525174784%2Fimg%2FE4GgRD6I5b7yW6cf.jpg"
-      ]
-    },
-    {
-      "id": "5f52dbf131758eab3db14be992e404013bade13306fd1afc8a5f9018abf161c8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
-      "text": "Arsenal fans after hearing about the Hantavirus, just before the league title and Champions League final... 😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2052494453886034215#m",
-      "date": "Thu, 07 May 2026 21:03:05 GMT",
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "5531f35cf95430a031f24e342fd634f4af12fef61bf748b1329275ff5e37feab",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "text": "Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "url": "https://nitter.net/FullTimeTripp/status/2052428125040943182#m",
-      "date": "Thu, 07 May 2026 16:39:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1612230904298045440%2Fpu%2Fimg%2FKP6YYIQAFAD1jk2w.jpg"
-      ]
-    },
-    {
-      "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
-      "text": "Trent attempting to stop the fight between Valverde and Tchouameni Video",
-      "url": "https://nitter.net/thatguysjokes/status/2052415429428076734#m",
-      "date": "Thu, 07 May 2026 15:49:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2052415371450175488%2Fimg%2FCneo2FjpW_7018PY.jpg"
-      ]
-    },
-    {
-      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
-      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "date": "Sat, 02 May 2026 07:07:10 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgen",
-      "text": "#ONEPIECE1182 \"Before Kilingham created Zaza, Sommers voiced his concerns, suggesting that such a being, regardless of whether it was a fake, would be extremely difficult to control.\" Source: Worstgenhq",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431725670617187#m",
-      "date": "Thu, 07 May 2026 16:53:50 GMT",
+      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Holy Fuck! Video",
+      "text": "Holy Fuck! Video",
+      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
+      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
       ]
     },
     {
-      "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
-      "text": "#ONEPIECE1182 Who gonna have the Rain God devilfruit power, make you bets guys:",
-      "url": "https://nitter.net/WorstGenHQ/status/2052404528415166715#m",
-      "date": "Thu, 07 May 2026 15:05:46 GMT",
+      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
+      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/"
+        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
+      ]
+    },
+    {
+      "id": "7591c5117876a7fe070205ead82ca5ff389ee72dffbbf4897903e49eaf9454c9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "text": "Dr Stone S4 Cour 3 #5 Full staff #DrStone",
+      "url": "https://nitter.net/PacemanOP/status/2049523858139668632#m",
+      "date": "Wed, 29 Apr 2026 16:19:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHFfFmcbIAAW8zS.png"
       ]
     },
     {
@@ -640,62 +726,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
         "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "67e461d951c9b1f5464fe9eeca90064296825989acfa7faa0d8885473eb8cee6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Holy Fuck! Video",
-      "text": "Holy Fuck! Video",
-      "url": "https://nitter.net/PacemanOP/status/2049890659528745331#m",
-      "date": "Thu, 30 Apr 2026 16:36:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2049843533990027264%2Fimg%2FtNG6Zisq64O2qVF3.jpg"
-      ]
-    },
-    {
-      "id": "d094ba6974b14b7b7c4aa180e4ca14c1833e4dd94687140ae7146c5d8f182a4f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "text": "Dr Stone S4 Cour 3 Ep 5 ends roughly here ch 209 With a anime. Original ending Where Senku and Chrome spotted smiling in different panels #DrStone",
-      "url": "https://nitter.net/PacemanOP/status/2049524125589459232#m",
-      "date": "Wed, 29 Apr 2026 16:20:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
       ]
     }
   ]
