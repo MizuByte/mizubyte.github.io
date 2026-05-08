@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-05-08T01:26:27.699Z",
+  "generatedAt": "2026-05-08T04:44:17.315Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "f508f447aa2f8299fbd8601b247857d5636e646917c56f559ff4c06d3278af9c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "text": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "url": "https://nitter.net/AniKing/status/2052391462063550543#m",
+      "date": "Thu, 07 May 2026 14:13:50 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
+      ]
+    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -32,7 +47,7 @@
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/cards%2Fplayer-placeholder.png"
+        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     }
   ],
@@ -51,21 +66,6 @@
       "attachments": []
     },
     {
-      "id": "ecf1923328c9b1c4004050f5c3af95c6974034c92adddb5cb0f6f113b1c9c73e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "text": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2052493063465914615#m",
-      "date": "Thu, 07 May 2026 20:57:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1612230904298045440%2Fpu%2Fimg%2FKP6YYIQAFAD1jk2w.jpg"
-      ]
-    },
-    {
       "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -81,6 +81,19 @@
       ]
     },
     {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -94,19 +107,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
       ]
-    },
-    {
-      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
-      "date": "Thu, 07 May 2026 16:54:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
@@ -327,9 +327,39 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
       ]
+    },
+    {
+      "id": "25fafee3d01e50bf0f2686b2b8c5266a13c22bc9be6e2571f5d30e3a63fff8a5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "We don't forget you kentaro miura😩😞",
+      "text": "We don't forget you kentaro miura😩😞",
+      "url": "https://nitter.net/daily_berserk/status/2052065237264650581#m",
+      "date": "Wed, 06 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHpmdMEWEAMuP5L.jpg"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "f508f447aa2f8299fbd8601b247857d5636e646917c56f559ff4c06d3278af9c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "text": "#ONEPIECE1182 #OPSPOILERS That’s the correct explanation regarding Goddess Zaza, and the people in the Holy Land.",
+      "url": "https://nitter.net/AniKing/status/2052391462063550543#m",
+      "date": "Thu, 07 May 2026 14:13:50 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHuPKAJWUAQjdBf.jpg"
+      ]
+    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -360,7 +390,7 @@
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/cards%2Fplayer-placeholder.png"
+        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
@@ -375,21 +405,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "ecf1923328c9b1c4004050f5c3af95c6974034c92adddb5cb0f6f113b1c9c73e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "text": "RT @FullTimeTripp: Tchouaméni pulling up on Valverde in hospital for Round 3 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2052493063465914615#m",
-      "date": "Thu, 07 May 2026 20:57:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1612230904298045440%2Fpu%2Fimg%2FKP6YYIQAFAD1jk2w.jpg"
-      ]
     },
     {
       "id": "be1e285ecd2cd78e16fda40b258b80a1da2379aeb3b44d0762d4f5754b9fcc02",
@@ -407,6 +422,19 @@
       ]
     },
     {
+      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
+      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
+      "date": "Thu, 07 May 2026 16:54:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "3ed28814af8747a7757c5e9c0e5b13479f267be61d7828d330f617e599e875d4",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -420,19 +448,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHuzouUW8AczSCl.jpg"
       ]
-    },
-    {
-      "id": "df325856909906c0efc4f6dd5d6bb1492dad1342d992e7ccfa20888befc44f5d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "text": "I can already see it coming: Kilingham is going to lose control over Zaza. And Zaza joins Luffy and Loki against Imu...",
-      "url": "https://nitter.net/WorstGenHQ/status/2052431801998578099#m",
-      "date": "Thu, 07 May 2026 16:54:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "9bcd6ad91a9e58bdf912bcc34983f8d323a249c62c67b9e2d7b6a3c557e96427",
@@ -652,6 +667,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
+      ]
+    },
+    {
+      "id": "25fafee3d01e50bf0f2686b2b8c5266a13c22bc9be6e2571f5d30e3a63fff8a5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "We don't forget you kentaro miura😩😞",
+      "text": "We don't forget you kentaro miura😩😞",
+      "url": "https://nitter.net/daily_berserk/status/2052065237264650581#m",
+      "date": "Wed, 06 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHpmdMEWEAMuP5L.jpg"
       ]
     }
   ]
