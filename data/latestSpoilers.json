@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-05-07T23:36:24.385Z",
+  "generatedAt": "2026-05-08T01:26:27.699Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/nocontextfooty/status/2052431672977592614#m",
-      "date": "Thu, 07 May 2026 16:53:37 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHuzubKXgAYtZGd.jpg"
-      ]
-    },
-    {
-      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
-      "date": "Sat, 02 May 2026 13:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -48,6 +18,21 @@
         "https://nitter.net/pic/media%2FHHeOjNLWcAARXk6.jpg",
         "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
         "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
+      ]
+    },
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/cards%2Fplayer-placeholder.png"
       ]
     }
   ],
@@ -139,85 +124,77 @@
       ]
     },
     {
-      "id": "68988da810108a21ba6d18a9b462ed53d417d814b72321e37fff9543f9c07f7c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
-      "text": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
-      "url": "https://nitter.net/RayoVallecano/status/2052492773375271272#m",
-      "date": "Thu, 07 May 2026 20:56:25 GMT",
+      "id": "d7f797752bfac71575a48f887b8dd86e2c1619ec0df4beeebca41a578dd3088f",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Raise your standards guys😭🙏🏼",
+      "text": "Raise your standards guys😭🙏🏼",
+      "url": "https://nitter.net/SchmurfiV1/status/2052375417143611867#m",
+      "date": "Thu, 07 May 2026 13:10:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8fdf76e5e1fc4c3760edd4e1da1c4d99e2413c943770156f505bca09b7578fe3",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉",
+      "text": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉 プレミア公開スタート！ URL：piped.video/68u2bex-zNo — https://nitter.net/jumpch_youtube/status/2052221892853911667#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2052375019980800455#m",
+      "date": "Thu, 07 May 2026 13:08:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHvrTE0WYAgQcdX.jpg"
+        "https://nitter.net/pic/media%2FHHcYolbaQAAX_8f.jpg"
       ]
     },
     {
-      "id": "935476551c3af62d3408375580c2379f73187464f74c95a3d1f2479fa1d0fa9e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
-      "text": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
-      "url": "https://nitter.net/MPlusDeportes/status/2052475434961350991#m",
-      "date": "Thu, 07 May 2026 19:47:31 GMT",
+      "id": "0dd227e6902cc0ba5c781daaa925425d9998646b8a0b454cf8e5d8a47c0b5145",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
+      "text": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2052074202908315853#m",
+      "date": "Wed, 06 May 2026 17:13:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2052475295316193285%2Fimg%2FsydTF6b4zie6HYiU.jpg"
+        "https://nitter.net/pic/media%2FHHpumXUW8AUi_Hc.jpg"
       ]
     },
     {
-      "id": "7c4b163b670748336f663873cf2e9bacfd406511bdd213b7e43862db7de75685",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "January 12th 2020 Raf Grassetti (@rafagrassetti) 💫 STAR FOX — https://nitter.net/rafagrassetti/status/1216406850603630592#m",
-      "text": "January 12th 2020 Raf Grassetti (@rafagrassetti) 💫 STAR FOX — https://nitter.net/rafagrassetti/status/1216406850603630592#m",
-      "url": "https://nitter.net/BoundaryBreak/status/2052294300914905360#m",
-      "date": "Thu, 07 May 2026 07:47:45 GMT",
+      "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Follow me for REAL news about Boruto and Naruto",
+      "text": "Follow me for REAL news about Boruto and Naruto",
+      "url": "https://nitter.net/SchmurfiV1/status/2051640848727609719#m",
+      "date": "Tue, 05 May 2026 12:31:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FEOGLlHOU0AAo3Ip.jpg"
+        "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
       ]
     },
     {
-      "id": "b299373f7f24eb746acabe2645ee42d29c4859b82d1adb6c97467b407bede474",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
-      "text": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2052274733400646060#m",
-      "date": "Thu, 07 May 2026 06:30:00 GMT",
+      "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING TH",
+      "text": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING THIS YEAR 🗣🔥🔥🔥 — https://nitter.net/prowlerearth42/status/2051609403560751419#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
+      "date": "Tue, 05 May 2026 12:28:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHn-L2VbAAACD6E.jpg"
-      ]
-    },
-    {
-      "id": "01063d5f457145041a1f018e91dc3cdda3253020de854a2553eb7b19fdcacf1c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) ",
-      "text": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) Day 386: #40, 2008. “Bleach” Cover & Lead Color Pages to celebrate the Anime Movie \"Bleach: Fade to Black\" release. Other Color Pages go to “Kakuto Oji” — https://nitter.net/Th3MangaAddict/status/2052066180173799519#m",
-      "url": "https://nitter.net/Th3MangaAddict/status/2052424395365515291#m",
-      "date": "Thu, 07 May 2026 16:24:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHutGb4acAARDK4.jpg",
-        "https://nitter.net/pic/media%2FHHutGb4akAAdfx8.jpg",
-        "https://nitter.net/pic/media%2FHHutGb3bcAMXvGg.jpg",
-        "https://nitter.net/pic/media%2FHHutGb3bgAA4E0o.jpg",
-        "https://nitter.net/pic/media%2FHHpnTjXbAAQY9Az.jpg",
-        "https://nitter.net/pic/media%2FHHpnTjabwAAlGNd.jpg",
-        "https://nitter.net/pic/media%2FHHpnTjZbAAQ5z1K.jpg",
-        "https://nitter.net/pic/media%2FHHpnTj0bAAEuJsc.jpg"
+        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
+        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
       ]
     },
     {
@@ -292,95 +269,67 @@
       ]
     },
     {
-      "id": "d7f797752bfac71575a48f887b8dd86e2c1619ec0df4beeebca41a578dd3088f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Raise your standards guys😭🙏🏼",
-      "text": "Raise your standards guys😭🙏🏼",
-      "url": "https://nitter.net/SchmurfiV1/status/2052375417143611867#m",
-      "date": "Thu, 07 May 2026 13:10:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8fdf76e5e1fc4c3760edd4e1da1c4d99e2413c943770156f505bca09b7578fe3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉",
-      "text": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉 プレミア公開スタート！ URL：piped.video/68u2bex-zNo — https://nitter.net/jumpch_youtube/status/2052221892853911667#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2052375019980800455#m",
-      "date": "Thu, 07 May 2026 13:08:30 GMT",
+      "id": "ca3877aea15f17c0b2e6695c9ca9235c7dc2badca38f959d0d93123b507dccce",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2052442871819624748#m",
+      "date": "Thu, 07 May 2026 17:38:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHcYolbaQAAX_8f.jpg"
+        "https://nitter.net/pic/media%2FHHu96ezWsAIQcND.jpg"
       ]
     },
     {
-      "id": "0dd227e6902cc0ba5c781daaa925425d9998646b8a0b454cf8e5d8a47c0b5145",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
-      "text": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2052074202908315853#m",
-      "date": "Wed, 06 May 2026 17:13:10 GMT",
+      "id": "76cd16b8597c5fd18e50a7d9d7f3d1b06c4b5347fffd6152ce59034d2cdb2ddc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2052284517210050960#m",
+      "date": "Thu, 07 May 2026 07:08:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHpumXUW8AUi_Hc.jpg"
+        "https://nitter.net/pic/media%2FHHst48PXUAIFs3X.jpg"
       ]
     },
     {
-      "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for REAL news about Boruto and Naruto",
-      "text": "Follow me for REAL news about Boruto and Naruto",
-      "url": "https://nitter.net/SchmurfiV1/status/2051640848727609719#m",
-      "date": "Tue, 05 May 2026 12:31:10 GMT",
+      "id": "ba94f5c3df93a4d952b8b9d01ea9afb837bd73ddee526aa2b345dbd759d33482",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2052258481776783401#m",
+      "date": "Thu, 07 May 2026 05:25:25 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
+        "https://nitter.net/pic/media%2FHHsWNj_WwAYH1Da.jpg"
+      ]
+    },
+    {
+      "id": "a142d543e01eafb024d17ba5b0165450c6a8b835667c70239b2b342013889ff8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😭",
+      "text": "😭",
+      "url": "https://nitter.net/daily_berserk/status/2052191894868722030#m",
+      "date": "Thu, 07 May 2026 01:00:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
       ]
     }
   ],
   "items": [
-    {
-      "id": "01108c0d7a689f0b2a4091afd8b28986c10a411f06f5cdeca6f4a0506f81bd9d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/nocontextfooty/status/2052431672977592614#m",
-      "date": "Thu, 07 May 2026 16:53:37 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHuzubKXgAYtZGd.jpg"
-      ]
-    },
-    {
-      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
-      "date": "Sat, 02 May 2026 13:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2050590413015113728%2F_y15714j%3Fformat%3Djpg%26name%3D800x320_1"
-      ]
-    },
     {
       "id": "baa2d939539d9e888a6c1bbc42e80422537f07025d6d415eddadd6271b7cbb1a",
       "anime": "boruto",
@@ -397,6 +346,21 @@
         "https://nitter.net/pic/media%2FHHeOjNLWcAARXk6.jpg",
         "https://nitter.net/pic/media%2FHHeOjNKXgAAPzQT.jpg",
         "https://nitter.net/pic/media%2FHHeOjNCWkAEJj6G.jpg"
+      ]
+    },
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/cards%2Fplayer-placeholder.png"
       ]
     },
     {
@@ -486,85 +450,77 @@
       ]
     },
     {
-      "id": "68988da810108a21ba6d18a9b462ed53d417d814b72321e37fff9543f9c07f7c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
-      "text": "⚡️¡¡¡FINAAAL EN ESTRASBURGO!!! ¡¡¡ESTAMOS EN LA FINAL!!! ⚡️ ¡Enhorabuena, rayistas. Nos vemos en Leipzig! #SigamosSoñando #UECL",
-      "url": "https://nitter.net/RayoVallecano/status/2052492773375271272#m",
-      "date": "Thu, 07 May 2026 20:56:25 GMT",
+      "id": "d7f797752bfac71575a48f887b8dd86e2c1619ec0df4beeebca41a578dd3088f",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Raise your standards guys😭🙏🏼",
+      "text": "Raise your standards guys😭🙏🏼",
+      "url": "https://nitter.net/SchmurfiV1/status/2052375417143611867#m",
+      "date": "Thu, 07 May 2026 13:10:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8fdf76e5e1fc4c3760edd4e1da1c4d99e2413c943770156f505bca09b7578fe3",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉",
+      "text": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉 プレミア公開スタート！ URL：piped.video/68u2bex-zNo — https://nitter.net/jumpch_youtube/status/2052221892853911667#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2052375019980800455#m",
+      "date": "Thu, 07 May 2026 13:08:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHvrTE0WYAgQcdX.jpg"
+        "https://nitter.net/pic/media%2FHHcYolbaQAAX_8f.jpg"
       ]
     },
     {
-      "id": "935476551c3af62d3408375580c2379f73187464f74c95a3d1f2479fa1d0fa9e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
-      "text": "Si esto es un sueño que no nos despierte nadie. ❤️⚡️ 𝑨𝒍𝒆𝒎𝒂𝒐 remacha el gol de todo Vallecas. #UECL #LaCasaDelFútbol @RayoVallecano Video",
-      "url": "https://nitter.net/MPlusDeportes/status/2052475434961350991#m",
-      "date": "Thu, 07 May 2026 19:47:31 GMT",
+      "id": "0dd227e6902cc0ba5c781daaa925425d9998646b8a0b454cf8e5d8a47c0b5145",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
+      "text": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2052074202908315853#m",
+      "date": "Wed, 06 May 2026 17:13:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2052475295316193285%2Fimg%2FsydTF6b4zie6HYiU.jpg"
+        "https://nitter.net/pic/media%2FHHpumXUW8AUi_Hc.jpg"
       ]
     },
     {
-      "id": "7c4b163b670748336f663873cf2e9bacfd406511bdd213b7e43862db7de75685",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "January 12th 2020 Raf Grassetti (@rafagrassetti) 💫 STAR FOX — https://nitter.net/rafagrassetti/status/1216406850603630592#m",
-      "text": "January 12th 2020 Raf Grassetti (@rafagrassetti) 💫 STAR FOX — https://nitter.net/rafagrassetti/status/1216406850603630592#m",
-      "url": "https://nitter.net/BoundaryBreak/status/2052294300914905360#m",
-      "date": "Thu, 07 May 2026 07:47:45 GMT",
+      "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Follow me for REAL news about Boruto and Naruto",
+      "text": "Follow me for REAL news about Boruto and Naruto",
+      "url": "https://nitter.net/SchmurfiV1/status/2051640848727609719#m",
+      "date": "Tue, 05 May 2026 12:31:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FEOGLlHOU0AAo3Ip.jpg"
+        "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
       ]
     },
     {
-      "id": "b299373f7f24eb746acabe2645ee42d29c4859b82d1adb6c97467b407bede474",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
-      "text": "Meet Ivy: Bewitching Ruler from the #FireEmblem Engage game. Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. #FEHeroes guide.fire-emblem-heroes.com…",
-      "url": "https://nitter.net/FE_Heroes_EN/status/2052274733400646060#m",
-      "date": "Thu, 07 May 2026 06:30:00 GMT",
+      "id": "f7559ec1287abc13d4d5bafa216e471b7f461b4e92395a39fced445eaaecbd39",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING TH",
+      "text": "You know the Boruto fandom is dead when they start spreading fake news😭🙏🏼 #BORUTO R 9 👾 (@prowlerearth42) New Updates about the Boruto anime !!! BORUTO TIME SKIP ANIME ANNOUNCEMENT IS HAPPENING THIS YEAR 🗣🔥🔥🔥 — https://nitter.net/prowlerearth42/status/2051609403560751419#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2051640076728221838#m",
+      "date": "Tue, 05 May 2026 12:28:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHn-L2VbAAACD6E.jpg"
-      ]
-    },
-    {
-      "id": "01063d5f457145041a1f018e91dc3cdda3253020de854a2553eb7b19fdcacf1c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) ",
-      "text": "Day 387: #34, 2002. “Eyeshield 21” Cover & Lead Color Pages to Celebrate the Start of Serialization. No other Color Pages in the Magazine. TheMangaAddict ²³ CR: Baki CW: Avatar TLAB (@Th3MangaAddict) Day 386: #40, 2008. “Bleach” Cover & Lead Color Pages to celebrate the Anime Movie \"Bleach: Fade to Black\" release. Other Color Pages go to “Kakuto Oji” — https://nitter.net/Th3MangaAddict/status/2052066180173799519#m",
-      "url": "https://nitter.net/Th3MangaAddict/status/2052424395365515291#m",
-      "date": "Thu, 07 May 2026 16:24:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHutGb4acAARDK4.jpg",
-        "https://nitter.net/pic/media%2FHHutGb4akAAdfx8.jpg",
-        "https://nitter.net/pic/media%2FHHutGb3bcAMXvGg.jpg",
-        "https://nitter.net/pic/media%2FHHutGb3bgAA4E0o.jpg",
-        "https://nitter.net/pic/media%2FHHpnTjXbAAQY9Az.jpg",
-        "https://nitter.net/pic/media%2FHHpnTjabwAAlGNd.jpg",
-        "https://nitter.net/pic/media%2FHHpnTjZbAAQ5z1K.jpg",
-        "https://nitter.net/pic/media%2FHHpnTj0bAAEuJsc.jpg"
+        "https://nitter.net/pic/media%2FHHjH3RBXQAUq1Lc.jpg",
+        "https://nitter.net/pic/media%2FHHjH3cqWEAEQq_m.jpg"
       ]
     },
     {
@@ -639,61 +595,63 @@
       ]
     },
     {
-      "id": "d7f797752bfac71575a48f887b8dd86e2c1619ec0df4beeebca41a578dd3088f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Raise your standards guys😭🙏🏼",
-      "text": "Raise your standards guys😭🙏🏼",
-      "url": "https://nitter.net/SchmurfiV1/status/2052375417143611867#m",
-      "date": "Thu, 07 May 2026 13:10:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8fdf76e5e1fc4c3760edd4e1da1c4d99e2413c943770156f505bca09b7578fe3",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉",
-      "text": "Hooray, a Music Video. So much better than an Anime. Hooray #BORUTO ジャンプチャンネル【公式】 (@jumpch_youtube) 【#JUMPMV】 『BORUTO-ボルト- -TWO BLUE VORTEX-』 ×『BAKU』いきものがかり 漫画原作×楽曲のコラボMVを公開決定！ ジャンプチャンネルにて 〈5月9日21時から〉 プレミア公開スタート！ URL：piped.video/68u2bex-zNo — https://nitter.net/jumpch_youtube/status/2052221892853911667#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2052375019980800455#m",
-      "date": "Thu, 07 May 2026 13:08:30 GMT",
+      "id": "ca3877aea15f17c0b2e6695c9ca9235c7dc2badca38f959d0d93123b507dccce",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2052442871819624748#m",
+      "date": "Thu, 07 May 2026 17:38:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHcYolbaQAAX_8f.jpg"
+        "https://nitter.net/pic/media%2FHHu96ezWsAIQcND.jpg"
       ]
     },
     {
-      "id": "0dd227e6902cc0ba5c781daaa925425d9998646b8a0b454cf8e5d8a47c0b5145",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
-      "text": "It’s insane how good the Boruto Anime is when that fuck ass Studio decides to lock in. I am praying that Studio Pierrot won’t make fillers anymore when they finally continue to animate Boruto #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2052074202908315853#m",
-      "date": "Wed, 06 May 2026 17:13:10 GMT",
+      "id": "76cd16b8597c5fd18e50a7d9d7f3d1b06c4b5347fffd6152ce59034d2cdb2ddc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2052284517210050960#m",
+      "date": "Thu, 07 May 2026 07:08:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHpumXUW8AUi_Hc.jpg"
+        "https://nitter.net/pic/media%2FHHst48PXUAIFs3X.jpg"
       ]
     },
     {
-      "id": "227973b6325c24b5a16aebdaf9ce973fa1eb2f45b7de86905fe89916dc0bb62f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for REAL news about Boruto and Naruto",
-      "text": "Follow me for REAL news about Boruto and Naruto",
-      "url": "https://nitter.net/SchmurfiV1/status/2051640848727609719#m",
-      "date": "Tue, 05 May 2026 12:31:10 GMT",
+      "id": "ba94f5c3df93a4d952b8b9d01ea9afb837bd73ddee526aa2b345dbd759d33482",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2052258481776783401#m",
+      "date": "Thu, 07 May 2026 05:25:25 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHjkejQWAAELA2V.jpg"
+        "https://nitter.net/pic/media%2FHHsWNj_WwAYH1Da.jpg"
+      ]
+    },
+    {
+      "id": "a142d543e01eafb024d17ba5b0165450c6a8b835667c70239b2b342013889ff8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "😭",
+      "text": "😭",
+      "url": "https://nitter.net/daily_berserk/status/2052191894868722030#m",
+      "date": "Thu, 07 May 2026 01:00:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHrZprBWMAI-H6s.jpg"
       ]
     }
   ]
