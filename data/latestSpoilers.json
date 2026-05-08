@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-05-08T14:48:36.022Z",
+  "generatedAt": "2026-05-08T16:04:50.580Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "c7e87d0112e4f446c1f88df363352c7c0d9747f145f394b22c35f1b190560624",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "no way he leaked this too 💀 YonkouProductions (@YonkouProd) its pronounced hantavirus x hantavirus — https://nitter.net/YonkouProd/status/1242467675634143233#m",
+      "text": "no way he leaked this too 💀 YonkouProductions (@YonkouProd) its pronounced hantavirus x hantavirus — https://nitter.net/YonkouProd/status/1242467675634143233#m",
+      "url": "https://nitter.net/Venixys/status/2052487494784938356#m",
+      "date": "Thu, 07 May 2026 20:35:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "9d40bcc41a418d2c797c6e16c2a28af110e3d3c0ac00658c15cd7de02b0705aa",
       "anime": "onepiece",
@@ -50,6 +63,97 @@
   ],
   "misc": [
     {
+      "id": "5b711750021262706e88af2998a11f50cc8670432c905ae852886f471e50d332",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Catching the sunset with the crew",
+      "text": "Catching the sunset with the crew",
+      "url": "https://nitter.net/onepiecenetflix/status/2052765467178140151#m",
+      "date": "Fri, 08 May 2026 15:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHwy0s3XQAQMDyP.jpg"
+      ]
+    },
+    {
+      "id": "1082ea4d6f2afc1bad530a2313f18e307460f0e524cfd6f625e1e686361ff325",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Estas páginas esconden rinconcitos muy majos para que Yoshi se lo pase pipa explorando! #YoshiandtheMysteriousBook Video",
+      "text": "¡Estas páginas esconden rinconcitos muy majos para que Yoshi se lo pase pipa explorando! #YoshiandtheMysteriousBook Video",
+      "url": "https://nitter.net/NintendoES/status/2052765470332211637#m",
+      "date": "Fri, 08 May 2026 15:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHvUHAhXYAATdPY.jpg"
+      ]
+    },
+    {
+      "id": "e52a44f68072d134a470f976b1bec2922b4d589445cb52d832d7e8236ecf5cc8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと18日】 本日の作品はこちら！ ／ スライム、ドラキー、ももんじゃも。 魔王だってつまめちゃう！ ＼",
+      "text": "【#DQ40th まであと18日】 本日の作品はこちら！ ／ スライム、ドラキー、ももんじゃも。 魔王だってつまめちゃう！ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2052765518277603606#m",
+      "date": "Fri, 08 May 2026 15:00:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHzjWhaaYAEnMth.jpg"
+      ]
+    },
+    {
+      "id": "5c72cac481a4ea681fc738d4190406f99da98a576b4ba58fa4fd2d78d3bd362d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Nintendo forecast to sell 16.5M Switch 2 consoles in the next year! - 3M less then the 19M+ sold in the last fiscal year due to the increase in price",
+      "text": "Nintendo forecast to sell 16.5M Switch 2 consoles in the next year! - 3M less then the 19M+ sold in the last fiscal year due to the increase in price",
+      "url": "https://nitter.net/Genki_JPN/status/2052644956670660778#m",
+      "date": "Fri, 08 May 2026 07:01:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHx1EZsaIAAOkLP.jpg"
+      ]
+    },
+    {
+      "id": "ff06f9f9cd28ccd156c9340e08697fa72ae6f12c56c7bde76de0b2950326d44d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Nintendo announced they've hired 461 employees so far in Fiscal 2026. They now have 8,666 employees total.",
+      "text": "Nintendo announced they've hired 461 employees so far in Fiscal 2026. They now have 8,666 employees total.",
+      "url": "https://nitter.net/Stealth40k/status/2052643786992275550#m",
+      "date": "Fri, 08 May 2026 06:56:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHx0QGiW4AQUgnV.jpg"
+      ]
+    },
+    {
+      "id": "1dacd2164a4c350e3a196333c4fa3f61b6ef50930280b45084e1dc7f3fbee528",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "\"This rain is a blessing.\"",
+      "text": "\"This rain is a blessing.\"",
+      "url": "https://nitter.net/StrawhatUFO/status/1511601905633415174#m",
+      "date": "Wed, 06 Apr 2022 07:09:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FFPpJ6HIUcAIPV0M.jpg",
+        "https://nitter.net/pic/media%2FFPpJ6rDUcAIAEO5.jpg"
+      ]
+    },
+    {
       "id": "e4a7df261c5d83f26248e7824e680f0407b839b54c7525e6b0d95350577f51c3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -107,21 +211,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHyPUmyWUAUz2oM.jpg"
-      ]
-    },
-    {
-      "id": "55d7a98978271599d229bae455062483d66f3f8706b1ca189e63781e5e9788d3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Zoro and Sanji sees each other at the end of the chapter: Zoro: Hey! Pull yourself together!!! Sanji: That goes for you too!!!",
-      "text": "#ONEPIECE1182 Zoro and Sanji sees each other at the end of the chapter: Zoro: Hey! Pull yourself together!!! Sanji: That goes for you too!!!",
-      "url": "https://nitter.net/TheWillOfMarco/status/2052660969269293334#m",
-      "date": "Fri, 08 May 2026 08:04:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHyEQwObkAAPEjm.jpg"
       ]
     },
     {
@@ -268,84 +357,22 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
       ]
-    },
-    {
-      "id": "9b21a66734bc651ce7ef3e791fe5bf85ff03567f478a4e970f97c73ba8aad6f1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk wallapaper 🖌️",
-      "text": "Berserk wallapaper 🖌️",
-      "url": "https://nitter.net/daily_berserk/status/2052694071223677129#m",
-      "date": "Fri, 08 May 2026 10:16:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHyiYPWWIAcC-o9.jpg"
-      ]
-    },
-    {
-      "id": "3d5b17b95c8432a36ce660b7d2827fd0f59ae5cf3f1664d97366e4c9e675b8a0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2052620741695172645#m",
-      "date": "Fri, 08 May 2026 05:24:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHxfrxfWEAQ8CSu.jpg"
-      ]
-    },
-    {
-      "id": "ca3877aea15f17c0b2e6695c9ca9235c7dc2badca38f959d0d93123b507dccce",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2052442871819624748#m",
-      "date": "Thu, 07 May 2026 17:38:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHu96ezWsAIQcND.jpg"
-      ]
-    },
-    {
-      "id": "76cd16b8597c5fd18e50a7d9d7f3d1b06c4b5347fffd6152ce59034d2cdb2ddc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2052284517210050960#m",
-      "date": "Thu, 07 May 2026 07:08:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHst48PXUAIFs3X.jpg"
-      ]
-    },
-    {
-      "id": "ba94f5c3df93a4d952b8b9d01ea9afb837bd73ddee526aa2b345dbd759d33482",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2052258481776783401#m",
-      "date": "Thu, 07 May 2026 05:25:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHsWNj_WwAYH1Da.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "c7e87d0112e4f446c1f88df363352c7c0d9747f145f394b22c35f1b190560624",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "no way he leaked this too 💀 YonkouProductions (@YonkouProd) its pronounced hantavirus x hantavirus — https://nitter.net/YonkouProd/status/1242467675634143233#m",
+      "text": "no way he leaked this too 💀 YonkouProductions (@YonkouProd) its pronounced hantavirus x hantavirus — https://nitter.net/YonkouProd/status/1242467675634143233#m",
+      "url": "https://nitter.net/Venixys/status/2052487494784938356#m",
+      "date": "Thu, 07 May 2026 20:35:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "9d40bcc41a418d2c797c6e16c2a28af110e3d3c0ac00658c15cd7de02b0705aa",
       "anime": "onepiece",
@@ -392,6 +419,97 @@
       ]
     },
     {
+      "id": "5b711750021262706e88af2998a11f50cc8670432c905ae852886f471e50d332",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Catching the sunset with the crew",
+      "text": "Catching the sunset with the crew",
+      "url": "https://nitter.net/onepiecenetflix/status/2052765467178140151#m",
+      "date": "Fri, 08 May 2026 15:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHwy0s3XQAQMDyP.jpg"
+      ]
+    },
+    {
+      "id": "1082ea4d6f2afc1bad530a2313f18e307460f0e524cfd6f625e1e686361ff325",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Estas páginas esconden rinconcitos muy majos para que Yoshi se lo pase pipa explorando! #YoshiandtheMysteriousBook Video",
+      "text": "¡Estas páginas esconden rinconcitos muy majos para que Yoshi se lo pase pipa explorando! #YoshiandtheMysteriousBook Video",
+      "url": "https://nitter.net/NintendoES/status/2052765470332211637#m",
+      "date": "Fri, 08 May 2026 15:00:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHvUHAhXYAATdPY.jpg"
+      ]
+    },
+    {
+      "id": "e52a44f68072d134a470f976b1bec2922b4d589445cb52d832d7e8236ecf5cc8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと18日】 本日の作品はこちら！ ／ スライム、ドラキー、ももんじゃも。 魔王だってつまめちゃう！ ＼",
+      "text": "【#DQ40th まであと18日】 本日の作品はこちら！ ／ スライム、ドラキー、ももんじゃも。 魔王だってつまめちゃう！ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2052765518277603606#m",
+      "date": "Fri, 08 May 2026 15:00:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHzjWhaaYAEnMth.jpg"
+      ]
+    },
+    {
+      "id": "5c72cac481a4ea681fc738d4190406f99da98a576b4ba58fa4fd2d78d3bd362d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Nintendo forecast to sell 16.5M Switch 2 consoles in the next year! - 3M less then the 19M+ sold in the last fiscal year due to the increase in price",
+      "text": "Nintendo forecast to sell 16.5M Switch 2 consoles in the next year! - 3M less then the 19M+ sold in the last fiscal year due to the increase in price",
+      "url": "https://nitter.net/Genki_JPN/status/2052644956670660778#m",
+      "date": "Fri, 08 May 2026 07:01:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHx1EZsaIAAOkLP.jpg"
+      ]
+    },
+    {
+      "id": "ff06f9f9cd28ccd156c9340e08697fa72ae6f12c56c7bde76de0b2950326d44d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Nintendo announced they've hired 461 employees so far in Fiscal 2026. They now have 8,666 employees total.",
+      "text": "Nintendo announced they've hired 461 employees so far in Fiscal 2026. They now have 8,666 employees total.",
+      "url": "https://nitter.net/Stealth40k/status/2052643786992275550#m",
+      "date": "Fri, 08 May 2026 06:56:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHx0QGiW4AQUgnV.jpg"
+      ]
+    },
+    {
+      "id": "1dacd2164a4c350e3a196333c4fa3f61b6ef50930280b45084e1dc7f3fbee528",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "\"This rain is a blessing.\"",
+      "text": "\"This rain is a blessing.\"",
+      "url": "https://nitter.net/StrawhatUFO/status/1511601905633415174#m",
+      "date": "Wed, 06 Apr 2022 07:09:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FFPpJ6HIUcAIPV0M.jpg",
+        "https://nitter.net/pic/media%2FFPpJ6rDUcAIAEO5.jpg"
+      ]
+    },
+    {
       "id": "e4a7df261c5d83f26248e7824e680f0407b839b54c7525e6b0d95350577f51c3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -449,21 +567,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHyPUmyWUAUz2oM.jpg"
-      ]
-    },
-    {
-      "id": "55d7a98978271599d229bae455062483d66f3f8706b1ca189e63781e5e9788d3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Zoro and Sanji sees each other at the end of the chapter: Zoro: Hey! Pull yourself together!!! Sanji: That goes for you too!!!",
-      "text": "#ONEPIECE1182 Zoro and Sanji sees each other at the end of the chapter: Zoro: Hey! Pull yourself together!!! Sanji: That goes for you too!!!",
-      "url": "https://nitter.net/TheWillOfMarco/status/2052660969269293334#m",
-      "date": "Fri, 08 May 2026 08:04:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHyEQwObkAAPEjm.jpg"
       ]
     },
     {
@@ -609,81 +712,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHFfVLLaoAAiHyY.jpg"
-      ]
-    },
-    {
-      "id": "9b21a66734bc651ce7ef3e791fe5bf85ff03567f478a4e970f97c73ba8aad6f1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk wallapaper 🖌️",
-      "text": "Berserk wallapaper 🖌️",
-      "url": "https://nitter.net/daily_berserk/status/2052694071223677129#m",
-      "date": "Fri, 08 May 2026 10:16:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHyiYPWWIAcC-o9.jpg"
-      ]
-    },
-    {
-      "id": "3d5b17b95c8432a36ce660b7d2827fd0f59ae5cf3f1664d97366e4c9e675b8a0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2052620741695172645#m",
-      "date": "Fri, 08 May 2026 05:24:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHxfrxfWEAQ8CSu.jpg"
-      ]
-    },
-    {
-      "id": "ca3877aea15f17c0b2e6695c9ca9235c7dc2badca38f959d0d93123b507dccce",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2052442871819624748#m",
-      "date": "Thu, 07 May 2026 17:38:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHu96ezWsAIQcND.jpg"
-      ]
-    },
-    {
-      "id": "76cd16b8597c5fd18e50a7d9d7f3d1b06c4b5347fffd6152ce59034d2cdb2ddc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2052284517210050960#m",
-      "date": "Thu, 07 May 2026 07:08:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHst48PXUAIFs3X.jpg"
-      ]
-    },
-    {
-      "id": "ba94f5c3df93a4d952b8b9d01ea9afb837bd73ddee526aa2b345dbd759d33482",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2052258481776783401#m",
-      "date": "Thu, 07 May 2026 05:25:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHsWNj_WwAYH1Da.jpg"
       ]
     }
   ]
