@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T21:34:27.271Z",
+  "generatedAt": "2026-05-10T22:30:04.453Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -14,7 +14,7 @@
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/cards%2Fplayer-placeholder.png"
+        "https://nitter.net/pic/card_img%2F2053146592522502145%2FQF7MQKTK%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     }
   ],
@@ -324,7 +324,7 @@
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/cards%2Fplayer-placeholder.png"
+        "https://nitter.net/pic/card_img%2F2053146592522502145%2FQF7MQKTK%3Fformat%3Djpg%26name%3D800x320_1"
       ]
     },
     {
