@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-10T18:10:57.552Z",
+  "generatedAt": "2026-05-10T19:37:11.534Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2053146592522502145%2FQF7MQKTK%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    }
+  ],
   "misc": [
     {
       "id": "364efa8477b7759ded45d37fdb8d67a07fa34a438c1c748bb9c161f7c54e79be",
@@ -92,91 +108,75 @@
       ]
     },
     {
-      "id": "0c8ccbfaeca5143a6cbb9dc31c92cf7c8c488f48813173f52317b830b2e71cd0",
+      "id": "6c00ea8aa5942e4a148edb7069e23a104cc7fc867413e2ea5986b2dcc4758d5a",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Imu ring> eye symbole Zaza ring> water symbole Luffy true awakening will gain him a ring with sun/fire symbole too. Every God probably has his own unique ring.",
-      "text": "#ONEPIECE1182 Imu ring> eye symbole Zaza ring> water symbole Luffy true awakening will gain him a ring with sun/fire symbole too. Every God probably has his own unique ring.",
-      "url": "https://nitter.net/WorstGenHQ/status/2053350798231220295#m",
-      "date": "Sun, 10 May 2026 05:45:54 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "11 years ago today, Carrie Fisher made a hilarious Mother’s Day post.",
+      "text": "11 years ago today, Carrie Fisher made a hilarious Mother’s Day post.",
+      "url": "https://nitter.net/cosmic_marvel/status/2053456130035064903#m",
+      "date": "Sun, 10 May 2026 12:44:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH73qzqW4AAy8y2.jpg"
+        "https://nitter.net/pic/media%2FHH9XdyXXcAIBKA1.jpg",
+        "https://nitter.net/pic/media%2FHH9XdylWQAYhGRN.jpg"
       ]
     },
     {
-      "id": "fd7d090279930aaab21ed3d55af4f6f61d5531186d0f3d5ad0fae47d7dacbcfe",
+      "id": "5bfc6332bd3d169b2a95ab891333b35ba73d54075139f2f39144d1a97f993243",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 It seems that every “GOD” has their own unique musical rhythm. The rhythm of ☀️ Sun God Nika (Monkey D. Luffy's heartbeat in Gear 5), known as the “Drums of Liberation,” is: “ドッドットット” 🎵",
-      "text": "#ONEPIECE1182 It seems that every “GOD” has their own unique musical rhythm. The rhythm of ☀️ Sun God Nika (Monkey D. Luffy's heartbeat in Gear 5), known as the “Drums of Liberation,” is: “ドッドットット” 🎵🎶 (DODDOTTOTTO 🎵🎶) Meanwhile, in the latest chapter, the rhythm of 🌧️Rain God Zaza is: “ドンチャンシャンシャン” 🎵🎶 (DONCHANSHANSHAN 🎵🎶) This SFX is a combination of “DONCHAN,” the sound of merrymaking or a festive atmosphere, and “SHANSHAN,” the Japanese onomatopoeia for jingling sounds. Could this be the musical counterpart to the “Drums of Liberation” 🥁 of Sun God Nika? If you look closely at Zaza’s aura ring and hat, there seem to be chimes or bells attached to them. “The Bell/Chime of Liberation,” perhaps?! 👀☕️",
-      "url": "https://nitter.net/TheWillOfMarco/status/2053220855384248476#m",
-      "date": "Sat, 09 May 2026 21:09:33 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Incredible Fernando moves! 😮‍💨 Alonso's class keeps shining throughout his career 💪 #F1 Video",
+      "text": "Incredible Fernando moves! 😮‍💨 Alonso's class keeps shining throughout his career 💪 #F1 Video",
+      "url": "https://nitter.net/F1/status/2053417764027535553#m",
+      "date": "Sun, 10 May 2026 10:12:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH6BT-JaQAAdip3.jpg"
+        "https://nitter.net/pic/media%2FHHzm8O_WQAcR02z.jpg"
       ]
     },
     {
-      "id": "54615eddc597c8187465a981af69607e8d9ec3969af34f0a98c65ff3ef0033fe",
+      "id": "66743edba447875ce1b301a9080918562681d0bdc40cf9c8781d1d63ce351dfe",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Noluyor amk?? Gs 0 : 1 Antalya??",
-      "text": "Noluyor amk?? Gs 0 : 1 Antalya??",
-      "url": "https://nitter.net/WorstGenHQ/status/2053171530222252316#m",
-      "date": "Sat, 09 May 2026 17:53:33 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Montar un circo en cada crisis, tras cada propuesta, en cada decisión, sin aportar una sola propuesta y sin hacerse cargo de las consecuencias es una forma de política dirigida a las vísceras de un el",
+      "text": "Montar un circo en cada crisis, tras cada propuesta, en cada decisión, sin aportar una sola propuesta y sin hacerse cargo de las consecuencias es una forma de política dirigida a las vísceras de un electorado adiestrado durante años para el odio.",
+      "url": "https://nitter.net/EmilioDelgadoOr/status/2053412862496838055#m",
+      "date": "Sun, 10 May 2026 09:52:31 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "8d999bef2f4cffb6559fc35cc720522821f74881ed886b8d231df6870ac674c4",
+      "id": "f1918fa61fc64b62a77f82725459d5e6f830ddda0e74af203d9d7159fec27e3a",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#OnePiece Theory (#onepiece1182) The Identity of The Rain God Zaza",
-      "text": "#OnePiece Theory (#onepiece1182) The Identity of The Rain God Zaza",
-      "url": "https://nitter.net/writingpanini/status/2053072705398726739#m",
-      "date": "Sat, 09 May 2026 11:20:51 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pocos días me he mordido tanto la lengua como hoy con Clavijo. Lo que no sé es el tiempo que aguantaré.",
+      "text": "Pocos días me he mordido tanto la lengua como hoy con Clavijo. Lo que no sé es el tiempo que aguantaré.",
+      "url": "https://nitter.net/oscar_puente_/status/2053428085828002217#m",
+      "date": "Sun, 10 May 2026 10:53:01 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH31mceWEAAFdJN.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "910e0956245b19a2c0e488103e2b094591d5ce82d6fa27f39a57d82763eeffd4",
+      "id": "fc715621022f52904642768daf7c42cebb924063cd634cd48689fc4db575afd2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "WE'RE LESS THAN A MONTH AWAY🔥🔥 Pew (@pewpiece) OFFICIAL : SHAMROCK GUNKO WILL APPEAR ON EPISODE 1164 DATE : 5/31 — https://nitter.net/pewpiece/status/2052869552560595295#m",
-      "text": "WE'RE LESS THAN A MONTH AWAY🔥🔥 Pew (@pewpiece) OFFICIAL : SHAMROCK GUNKO WILL APPEAR ON EPISODE 1164 DATE : 5/31 — https://nitter.net/pewpiece/status/2052869552560595295#m",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2052869656256418001#m",
-      "date": "Fri, 08 May 2026 21:54:01 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【Lost in Translation by a Japanese Native Speaker】 “ザザ Zaza” is probably derived from the onomatopoeic Japanese sound for falling rain: ザーザー zaa zaa. It brings to mind the names of the women of Alabas",
+      "text": "【Lost in Translation by a Japanese Native Speaker】 “ザザ Zaza” is probably derived from the onomatopoeic Japanese sound for falling rain: ザーザー zaa zaa. It brings to mind the names of the women of Alabasta’s royal line: Lily, Titi, Vivi. — two of the same syllable in a row — The reason their names seem to follow that same kind of pattern may be tied to the fact that \"Sandy Island\", where Alabasta is located, has always struggled with a lack of water. So it’s possible that a woman with beautiful light blue hair was once worshipped as “Zaza, the Rain God,” and that the royal women were given names with a similar sound as a way of praying for the blessing of rain. And in Japanese, the color of Vivi’s hair—light blue—is literally described as \"mizuiro\", or “water color.”",
+      "url": "https://nitter.net/DawnStussy/status/2053521305828520057#m",
+      "date": "Sun, 10 May 2026 17:03:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH0_z5aW4AISYJI.jpg"
-      ]
-    },
-    {
-      "id": "a142dc07ee72a29507c8997bfa9dfaba074722ae70867e86cbeb42f710385196",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 😭🤣",
-      "text": "#ONEPIECE1182 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2053067222059241525#m",
-      "date": "Sat, 09 May 2026 10:59:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH31wkDXcAUqT9T.jpg"
+        "https://nitter.net/pic/media%2FHH-SvFwaYAAcfbA.png"
       ]
     },
     {
@@ -195,81 +195,89 @@
       ]
     },
     {
-      "id": "1ffb2fa776a86349ee4861409b70db7c94a81dbbc5310e62db7dac33d39fa353",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
-      "text": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
-      "url": "https://nitter.net/shonenjump/status/2053494073961378130#m",
-      "date": "Sun, 10 May 2026 15:15:13 GMT",
+      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
+      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
+      "date": "Sun, 10 May 2026 18:16:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
+      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
+      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
+      "date": "Fri, 08 May 2026 17:20:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH959jJXgAIFmIl.jpg"
+        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
+        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
+        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
       ]
     },
     {
-      "id": "11640392ee28d4679d20523ddaa275a1b5a5a471792c1e6715ed849988423e6a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
-      "text": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
-      "url": "https://nitter.net/shonenjump/status/2053494543886983526#m",
-      "date": "Sun, 10 May 2026 15:17:06 GMT",
+      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
+      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
+      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
+      "date": "Fri, 08 May 2026 04:54:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH96Y5VWMAAmRhT.jpg"
+        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
       ]
     },
     {
-      "id": "23a7162e7c34266257d89007657cb0ce4f06b0c61475ded8a410313dd1d96293",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line wa",
-      "text": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line was described as a continuous chain of connected islands, with winter islands and spring islands existing there as well. And since we’ve actually seen \"snow\" falling there, it doesn’t seem like the Red Line itself is a place where rain never falls. But in material from Oda-Sensei included in a Weekly Shonen Jump bonus, the land around Mariejois is shown and labeled as a “赤い砂漠 Red Desert.” So the reason rain doesn’t fall where they live may simply be because it has a desert climate. In other words, maybe the logic has been subtly swapped out here: Not “we’re afraid of rain because we live in a high place,” but rather, “because the place we live has a desert climate, rain doesn’t fall there—and that’s why we’re afraid of it.” So that raises the possibility that what the Celestial Dragons fear as Zaza may actually be something they were deliberately taught to fear by someone else.",
-      "url": "https://nitter.net/DawnStussy/status/2053494648224801124#m",
-      "date": "Sun, 10 May 2026 15:17:30 GMT",
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH96dtAakAAAD07.png",
-        "https://nitter.net/pic/media%2FHH96e_zboAEvkZj.png"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "f0a0bd2e517c25a0ec3358ed5c436d3bc493d74c7c648bbc00ba34372e8195be",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡¡GRAN CAPÍTULO EL #OnePiece1182 😍😍😍!! Me alegro de que Loki Vs. Imu continúe, pero quiero que llegue ya Luffy. Grande Ragnir echándole la bronca a Imu 🤣🤣🤣 Y muy interesante la aparición de la “",
-      "text": "¡¡GRAN CAPÍTULO EL #OnePiece1182 😍😍😍!! Me alegro de que Loki Vs. Imu continúe, pero quiero que llegue ya Luffy. Grande Ragnir echándole la bronca a Imu 🤣🤣🤣 Y muy interesante la aparición de la “Deidad de la Lluvia” (雨の神) que ya fue nombrada en Skypiea hace 23 años 🤯🤯🤯 Shonen Jump (@shonenjump) When it rains, it pours. Read One Piece, Ch. 1,182 in Shonen Jump for free! bit.ly/3QOPb7c — https://nitter.net/shonenjump/status/2053493051926974474#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2053493269527453882#m",
-      "date": "Sun, 10 May 2026 15:12:02 GMT",
+      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "date": "Sat, 02 May 2026 07:07:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH95PiKW0AAG2pH.jpg",
-        "https://nitter.net/pic/media%2FHH95PiIW4AA_cPN.jpg",
-        "https://nitter.net/pic/media%2FHH95CDhWoAEM9sS.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "85619baea453f9a2fc1ab9fa186d5143c5123862c1f8b6522ee596847e350eea",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "When it rains, it pours. Read One Piece, Ch. 1,182 in Shonen Jump for free! bit.ly/3QOPb7c",
-      "text": "When it rains, it pours. Read One Piece, Ch. 1,182 in Shonen Jump for free! bit.ly/3QOPb7c",
-      "url": "https://nitter.net/shonenjump/status/2053493051926974474#m",
-      "date": "Sun, 10 May 2026 15:11:10 GMT",
+      "id": "86564e0192ed1b7f3a8243f0500dbe95baa2cec896871ad5920cc4e5bac82016",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "It's been almost a year since the last episode of Berserk…",
+      "text": "It's been almost a year since the last episode of Berserk…",
+      "url": "https://nitter.net/daily_berserk/status/2053538710675697738#m",
+      "date": "Sun, 10 May 2026 18:12:36 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH95CDhWoAEM9sS.jpg"
+        "https://nitter.net/pic/media%2FHH-ikuqXwAIbcDu.jpg"
       ]
     },
     {
@@ -304,6 +312,21 @@
     }
   ],
   "items": [
+    {
+      "id": "0c8679dcd7254fe29f98654e34c2cedd52b1f38fa52586b33b0dcf0660eefb8e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "text": "piped.video/watch?v=lSR6spk3… BLACK CLOVER’s ending made it onto a news channelLMAOO. One of the greatest manga of all time. 🖤🍀 #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2050570611240681696#m",
+      "date": "Sat, 02 May 2026 13:38:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2053146592522502145%2FQF7MQKTK%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
     {
       "id": "364efa8477b7759ded45d37fdb8d67a07fa34a438c1c748bb9c161f7c54e79be",
       "anime": "onepiece",
@@ -393,91 +416,75 @@
       ]
     },
     {
-      "id": "0c8ccbfaeca5143a6cbb9dc31c92cf7c8c488f48813173f52317b830b2e71cd0",
+      "id": "6c00ea8aa5942e4a148edb7069e23a104cc7fc867413e2ea5986b2dcc4758d5a",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 Imu ring> eye symbole Zaza ring> water symbole Luffy true awakening will gain him a ring with sun/fire symbole too. Every God probably has his own unique ring.",
-      "text": "#ONEPIECE1182 Imu ring> eye symbole Zaza ring> water symbole Luffy true awakening will gain him a ring with sun/fire symbole too. Every God probably has his own unique ring.",
-      "url": "https://nitter.net/WorstGenHQ/status/2053350798231220295#m",
-      "date": "Sun, 10 May 2026 05:45:54 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "11 years ago today, Carrie Fisher made a hilarious Mother’s Day post.",
+      "text": "11 years ago today, Carrie Fisher made a hilarious Mother’s Day post.",
+      "url": "https://nitter.net/cosmic_marvel/status/2053456130035064903#m",
+      "date": "Sun, 10 May 2026 12:44:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH73qzqW4AAy8y2.jpg"
+        "https://nitter.net/pic/media%2FHH9XdyXXcAIBKA1.jpg",
+        "https://nitter.net/pic/media%2FHH9XdylWQAYhGRN.jpg"
       ]
     },
     {
-      "id": "fd7d090279930aaab21ed3d55af4f6f61d5531186d0f3d5ad0fae47d7dacbcfe",
+      "id": "5bfc6332bd3d169b2a95ab891333b35ba73d54075139f2f39144d1a97f993243",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 It seems that every “GOD” has their own unique musical rhythm. The rhythm of ☀️ Sun God Nika (Monkey D. Luffy's heartbeat in Gear 5), known as the “Drums of Liberation,” is: “ドッドットット” 🎵",
-      "text": "#ONEPIECE1182 It seems that every “GOD” has their own unique musical rhythm. The rhythm of ☀️ Sun God Nika (Monkey D. Luffy's heartbeat in Gear 5), known as the “Drums of Liberation,” is: “ドッドットット” 🎵🎶 (DODDOTTOTTO 🎵🎶) Meanwhile, in the latest chapter, the rhythm of 🌧️Rain God Zaza is: “ドンチャンシャンシャン” 🎵🎶 (DONCHANSHANSHAN 🎵🎶) This SFX is a combination of “DONCHAN,” the sound of merrymaking or a festive atmosphere, and “SHANSHAN,” the Japanese onomatopoeia for jingling sounds. Could this be the musical counterpart to the “Drums of Liberation” 🥁 of Sun God Nika? If you look closely at Zaza’s aura ring and hat, there seem to be chimes or bells attached to them. “The Bell/Chime of Liberation,” perhaps?! 👀☕️",
-      "url": "https://nitter.net/TheWillOfMarco/status/2053220855384248476#m",
-      "date": "Sat, 09 May 2026 21:09:33 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Incredible Fernando moves! 😮‍💨 Alonso's class keeps shining throughout his career 💪 #F1 Video",
+      "text": "Incredible Fernando moves! 😮‍💨 Alonso's class keeps shining throughout his career 💪 #F1 Video",
+      "url": "https://nitter.net/F1/status/2053417764027535553#m",
+      "date": "Sun, 10 May 2026 10:12:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH6BT-JaQAAdip3.jpg"
+        "https://nitter.net/pic/media%2FHHzm8O_WQAcR02z.jpg"
       ]
     },
     {
-      "id": "54615eddc597c8187465a981af69607e8d9ec3969af34f0a98c65ff3ef0033fe",
+      "id": "66743edba447875ce1b301a9080918562681d0bdc40cf9c8781d1d63ce351dfe",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Noluyor amk?? Gs 0 : 1 Antalya??",
-      "text": "Noluyor amk?? Gs 0 : 1 Antalya??",
-      "url": "https://nitter.net/WorstGenHQ/status/2053171530222252316#m",
-      "date": "Sat, 09 May 2026 17:53:33 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Montar un circo en cada crisis, tras cada propuesta, en cada decisión, sin aportar una sola propuesta y sin hacerse cargo de las consecuencias es una forma de política dirigida a las vísceras de un el",
+      "text": "Montar un circo en cada crisis, tras cada propuesta, en cada decisión, sin aportar una sola propuesta y sin hacerse cargo de las consecuencias es una forma de política dirigida a las vísceras de un electorado adiestrado durante años para el odio.",
+      "url": "https://nitter.net/EmilioDelgadoOr/status/2053412862496838055#m",
+      "date": "Sun, 10 May 2026 09:52:31 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "8d999bef2f4cffb6559fc35cc720522821f74881ed886b8d231df6870ac674c4",
+      "id": "f1918fa61fc64b62a77f82725459d5e6f830ddda0e74af203d9d7159fec27e3a",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#OnePiece Theory (#onepiece1182) The Identity of The Rain God Zaza",
-      "text": "#OnePiece Theory (#onepiece1182) The Identity of The Rain God Zaza",
-      "url": "https://nitter.net/writingpanini/status/2053072705398726739#m",
-      "date": "Sat, 09 May 2026 11:20:51 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pocos días me he mordido tanto la lengua como hoy con Clavijo. Lo que no sé es el tiempo que aguantaré.",
+      "text": "Pocos días me he mordido tanto la lengua como hoy con Clavijo. Lo que no sé es el tiempo que aguantaré.",
+      "url": "https://nitter.net/oscar_puente_/status/2053428085828002217#m",
+      "date": "Sun, 10 May 2026 10:53:01 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH31mceWEAAFdJN.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "910e0956245b19a2c0e488103e2b094591d5ce82d6fa27f39a57d82763eeffd4",
+      "id": "fc715621022f52904642768daf7c42cebb924063cd634cd48689fc4db575afd2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "WE'RE LESS THAN A MONTH AWAY🔥🔥 Pew (@pewpiece) OFFICIAL : SHAMROCK GUNKO WILL APPEAR ON EPISODE 1164 DATE : 5/31 — https://nitter.net/pewpiece/status/2052869552560595295#m",
-      "text": "WE'RE LESS THAN A MONTH AWAY🔥🔥 Pew (@pewpiece) OFFICIAL : SHAMROCK GUNKO WILL APPEAR ON EPISODE 1164 DATE : 5/31 — https://nitter.net/pewpiece/status/2052869552560595295#m",
-      "url": "https://nitter.net/MarcoGrandFleet/status/2052869656256418001#m",
-      "date": "Fri, 08 May 2026 21:54:01 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【Lost in Translation by a Japanese Native Speaker】 “ザザ Zaza” is probably derived from the onomatopoeic Japanese sound for falling rain: ザーザー zaa zaa. It brings to mind the names of the women of Alabas",
+      "text": "【Lost in Translation by a Japanese Native Speaker】 “ザザ Zaza” is probably derived from the onomatopoeic Japanese sound for falling rain: ザーザー zaa zaa. It brings to mind the names of the women of Alabasta’s royal line: Lily, Titi, Vivi. — two of the same syllable in a row — The reason their names seem to follow that same kind of pattern may be tied to the fact that \"Sandy Island\", where Alabasta is located, has always struggled with a lack of water. So it’s possible that a woman with beautiful light blue hair was once worshipped as “Zaza, the Rain God,” and that the royal women were given names with a similar sound as a way of praying for the blessing of rain. And in Japanese, the color of Vivi’s hair—light blue—is literally described as \"mizuiro\", or “water color.”",
+      "url": "https://nitter.net/DawnStussy/status/2053521305828520057#m",
+      "date": "Sun, 10 May 2026 17:03:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH0_z5aW4AISYJI.jpg"
-      ]
-    },
-    {
-      "id": "a142dc07ee72a29507c8997bfa9dfaba074722ae70867e86cbeb42f710385196",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1182 😭🤣",
-      "text": "#ONEPIECE1182 😭🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2053067222059241525#m",
-      "date": "Sat, 09 May 2026 10:59:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH31wkDXcAUqT9T.jpg"
+        "https://nitter.net/pic/media%2FHH-SvFwaYAAcfbA.png"
       ]
     },
     {
@@ -496,81 +503,89 @@
       ]
     },
     {
-      "id": "1ffb2fa776a86349ee4861409b70db7c94a81dbbc5310e62db7dac33d39fa353",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
-      "text": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
-      "url": "https://nitter.net/shonenjump/status/2053494073961378130#m",
-      "date": "Sun, 10 May 2026 15:15:13 GMT",
+      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
+      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
+      "date": "Sun, 10 May 2026 18:16:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
+      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
+      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
+      "date": "Fri, 08 May 2026 17:20:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH959jJXgAIFmIl.jpg"
+        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
+        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
+        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
       ]
     },
     {
-      "id": "11640392ee28d4679d20523ddaa275a1b5a5a471792c1e6715ed849988423e6a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
-      "text": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
-      "url": "https://nitter.net/shonenjump/status/2053494543886983526#m",
-      "date": "Sun, 10 May 2026 15:17:06 GMT",
+      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
+      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
+      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
+      "date": "Fri, 08 May 2026 04:54:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH96Y5VWMAAmRhT.jpg"
+        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
       ]
     },
     {
-      "id": "23a7162e7c34266257d89007657cb0ce4f06b0c61475ded8a410313dd1d96293",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line wa",
-      "text": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line was described as a continuous chain of connected islands, with winter islands and spring islands existing there as well. And since we’ve actually seen \"snow\" falling there, it doesn’t seem like the Red Line itself is a place where rain never falls. But in material from Oda-Sensei included in a Weekly Shonen Jump bonus, the land around Mariejois is shown and labeled as a “赤い砂漠 Red Desert.” So the reason rain doesn’t fall where they live may simply be because it has a desert climate. In other words, maybe the logic has been subtly swapped out here: Not “we’re afraid of rain because we live in a high place,” but rather, “because the place we live has a desert climate, rain doesn’t fall there—and that’s why we’re afraid of it.” So that raises the possibility that what the Celestial Dragons fear as Zaza may actually be something they were deliberately taught to fear by someone else.",
-      "url": "https://nitter.net/DawnStussy/status/2053494648224801124#m",
-      "date": "Sun, 10 May 2026 15:17:30 GMT",
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH96dtAakAAAD07.png",
-        "https://nitter.net/pic/media%2FHH96e_zboAEvkZj.png"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "f0a0bd2e517c25a0ec3358ed5c436d3bc493d74c7c648bbc00ba34372e8195be",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡¡GRAN CAPÍTULO EL #OnePiece1182 😍😍😍!! Me alegro de que Loki Vs. Imu continúe, pero quiero que llegue ya Luffy. Grande Ragnir echándole la bronca a Imu 🤣🤣🤣 Y muy interesante la aparición de la “",
-      "text": "¡¡GRAN CAPÍTULO EL #OnePiece1182 😍😍😍!! Me alegro de que Loki Vs. Imu continúe, pero quiero que llegue ya Luffy. Grande Ragnir echándole la bronca a Imu 🤣🤣🤣 Y muy interesante la aparición de la “Deidad de la Lluvia” (雨の神) que ya fue nombrada en Skypiea hace 23 años 🤯🤯🤯 Shonen Jump (@shonenjump) When it rains, it pours. Read One Piece, Ch. 1,182 in Shonen Jump for free! bit.ly/3QOPb7c — https://nitter.net/shonenjump/status/2053493051926974474#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2053493269527453882#m",
-      "date": "Sun, 10 May 2026 15:12:02 GMT",
+      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
+      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "date": "Sat, 02 May 2026 07:07:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH95PiKW0AAG2pH.jpg",
-        "https://nitter.net/pic/media%2FHH95PiIW4AA_cPN.jpg",
-        "https://nitter.net/pic/media%2FHH95CDhWoAEM9sS.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "85619baea453f9a2fc1ab9fa186d5143c5123862c1f8b6522ee596847e350eea",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "When it rains, it pours. Read One Piece, Ch. 1,182 in Shonen Jump for free! bit.ly/3QOPb7c",
-      "text": "When it rains, it pours. Read One Piece, Ch. 1,182 in Shonen Jump for free! bit.ly/3QOPb7c",
-      "url": "https://nitter.net/shonenjump/status/2053493051926974474#m",
-      "date": "Sun, 10 May 2026 15:11:10 GMT",
+      "id": "86564e0192ed1b7f3a8243f0500dbe95baa2cec896871ad5920cc4e5bac82016",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "It's been almost a year since the last episode of Berserk…",
+      "text": "It's been almost a year since the last episode of Berserk…",
+      "url": "https://nitter.net/daily_berserk/status/2053538710675697738#m",
+      "date": "Sun, 10 May 2026 18:12:36 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH95CDhWoAEM9sS.jpg"
+        "https://nitter.net/pic/media%2FHH-ikuqXwAIbcDu.jpg"
       ]
     },
     {
