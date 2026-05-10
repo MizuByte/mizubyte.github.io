@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-05-10T15:17:27.800Z",
+  "generatedAt": "2026-05-10T16:14:07.009Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
+    {
+      "id": "364efa8477b7759ded45d37fdb8d67a07fa34a438c1c748bb9c161f7c54e79be",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Imu's eye has appeared on the #ONEPIECE hashtag.",
+      "text": "Imu's eye has appeared on the #ONEPIECE hashtag.",
+      "url": "https://nitter.net/pewpiece/status/2053497043490935179#m",
+      "date": "Sun, 10 May 2026 15:27:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH98q6ZWYAE4Vop.jpg"
+      ]
+    },
     {
       "id": "1875422930b3e4cc31813267ce553da1fa401f410b0c19b461995c1816804262",
       "anime": "onepiece",
@@ -74,21 +89,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHH9x8S_WAAMW6aF.jpg"
-      ]
-    },
-    {
-      "id": "0964aded456d6979436895bd0246230c6fd7f18fe6fbaf4e6059d2790e185734",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "LUFFY FROM TOMORROW'S ONEPIECE EPISODE",
-      "text": "LUFFY FROM TOMORROW'S ONEPIECE EPISODE",
-      "url": "https://nitter.net/pewpiece/status/2053082940658069832#m",
-      "date": "Sat, 09 May 2026 12:01:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH4ECq9XcAEZs7B.jpg"
       ]
     },
     {
@@ -180,6 +180,67 @@
       ]
     },
     {
+      "id": "38c9c929b2939a6da9f06055eea102806086141b903b808a404249768b939865",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2053501857863995741#m",
+      "date": "Sun, 10 May 2026 15:46:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2050232036066242561%2FJmJJRrAE%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "1ffb2fa776a86349ee4861409b70db7c94a81dbbc5310e62db7dac33d39fa353",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
+      "text": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
+      "url": "https://nitter.net/shonenjump/status/2053494073961378130#m",
+      "date": "Sun, 10 May 2026 15:15:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH959jJXgAIFmIl.jpg"
+      ]
+    },
+    {
+      "id": "11640392ee28d4679d20523ddaa275a1b5a5a471792c1e6715ed849988423e6a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
+      "text": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
+      "url": "https://nitter.net/shonenjump/status/2053494543886983526#m",
+      "date": "Sun, 10 May 2026 15:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH96Y5VWMAAmRhT.jpg"
+      ]
+    },
+    {
+      "id": "23a7162e7c34266257d89007657cb0ce4f06b0c61475ded8a410313dd1d96293",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line wa",
+      "text": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line was described as a continuous chain of connected islands, with winter islands and spring islands existing there as well. And since we’ve actually seen \"snow\" falling there, it doesn’t seem like the Red Line itself is a place where rain never falls. But in material from Oda-Sensei included in a Weekly Shonen Jump bonus, the land around Mariejois is shown and labeled as a “赤い砂漠 Red Desert.” So the reason rain doesn’t fall where they live may simply be because it has a desert climate. In other words, maybe the logic has been subtly swapped out here: Not “we’re afraid of rain because we live in a high place,” but rather, “because the place we live has a desert climate, rain doesn’t fall there—and that’s why we’re afraid of it.” So that raises the possibility that what the Celestial Dragons fear as Zaza may actually be something they were deliberately taught to fear by someone else.",
+      "url": "https://nitter.net/DawnStussy/status/2053494648224801124#m",
+      "date": "Sun, 10 May 2026 15:17:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH96dtAakAAAD07.png",
+        "https://nitter.net/pic/media%2FHH96e_zboAEvkZj.png"
+      ]
+    },
+    {
       "id": "f0a0bd2e517c25a0ec3358ed5c436d3bc493d74c7c648bbc00ba34372e8195be",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -209,66 +270,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHH95CDhWoAEM9sS.jpg"
-      ]
-    },
-    {
-      "id": "c0c4b883e223d9855ea2eceea3e558a235c8062338d4e41983dbffa57e5bd4c3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "週刊少年ジャンプ24号本日発売📚 人気投票結果発表＆TVアニメ化決定記念❗️ 表紙&巻頭カラーは『カグラバチ』🎉 センターカラーは『悪祓士のキヨシくん』読切『上海龍人』『あかね噺』‼️ 電子版👇 shonenjump.com/j/teikikoudok…",
-      "text": "週刊少年ジャンプ24号本日発売📚 人気投票結果発表＆TVアニメ化決定記念❗️ 表紙&巻頭カラーは『カグラバチ』🎉 センターカラーは『悪祓士のキヨシくん』読切『上海龍人』『あかね噺』‼️ 電子版👇 shonenjump.com/j/teikikoudok…",
-      "url": "https://nitter.net/jump_henshubu/status/2053490242892480902#m",
-      "date": "Sun, 10 May 2026 15:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHtLLnRbYAAA7XA.jpg"
-      ]
-    },
-    {
-      "id": "bcf352e875d190b821b742b268783adca6c2377393d88d40dcf86e9adbef6647",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【#DQ40th まであと16日】 本日の作品はこちら！ ／ みなさんはどのキャラクターで戦いましたか？👀 ＼",
-      "text": "【#DQ40th まであと16日】 本日の作品はこちら！ ／ みなさんはどのキャラクターで戦いましたか？👀 ＼",
-      "url": "https://nitter.net/DQ_PR/status/2053490252002771291#m",
-      "date": "Sun, 10 May 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH92f7MaMAICw2D.jpg"
-      ]
-    },
-    {
-      "id": "adf0bad6cbcaeced636bdfe653ea13b3791c797f46944cb07835e04089b2ad1a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Loid’s been dragged to the wrong party. Read Spy x Family, Ch. 134 in Shonen Jump for free! bit.ly/4dBH99x",
-      "text": "Loid’s been dragged to the wrong party. Read Spy x Family, Ch. 134 in Shonen Jump for free! bit.ly/4dBH99x",
-      "url": "https://nitter.net/shonenjump/status/2053491553901949202#m",
-      "date": "Sun, 10 May 2026 15:05:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH93q2oXgAUnCK-.jpg"
-      ]
-    },
-    {
-      "id": "36d45a24e6b23efb2761913b73827aa8036beb0566741fbbe66827fc0b43c0bf",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "本日発売 #週刊少年ジャンプ 2026年24号 zebrack-comic.shueisha.co.jp… 人気投票結果‼︎表紙＆巻頭カラー‼︎ 「#カグラバチ」 センターカラー 「#あかね噺」「#上海龍人」「#悪祓士のキヨシくん」 📱集英社公式アプリ #ゼブラック app.adjust.com/mw10ij5",
-      "text": "本日発売 #週刊少年ジャンプ 2026年24号 zebrack-comic.shueisha.co.jp… 人気投票結果‼︎表紙＆巻頭カラー‼︎ 「#カグラバチ」 センターカラー 「#あかね噺」「#上海龍人」「#悪祓士のキヨシくん」 📱集英社公式アプリ #ゼブラック app.adjust.com/mw10ij5",
-      "url": "https://nitter.net/zebrack_comic/status/2053490287096500542#m",
-      "date": "Sun, 10 May 2026 15:00:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH92h1QacAAPzx0.jpg"
       ]
     },
     {
@@ -304,6 +305,21 @@
   ],
   "items": [
     {
+      "id": "364efa8477b7759ded45d37fdb8d67a07fa34a438c1c748bb9c161f7c54e79be",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Imu's eye has appeared on the #ONEPIECE hashtag.",
+      "text": "Imu's eye has appeared on the #ONEPIECE hashtag.",
+      "url": "https://nitter.net/pewpiece/status/2053497043490935179#m",
+      "date": "Sun, 10 May 2026 15:27:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH98q6ZWYAE4Vop.jpg"
+      ]
+    },
+    {
       "id": "1875422930b3e4cc31813267ce553da1fa401f410b0c19b461995c1816804262",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -374,21 +390,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHH9x8S_WAAMW6aF.jpg"
-      ]
-    },
-    {
-      "id": "0964aded456d6979436895bd0246230c6fd7f18fe6fbaf4e6059d2790e185734",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "LUFFY FROM TOMORROW'S ONEPIECE EPISODE",
-      "text": "LUFFY FROM TOMORROW'S ONEPIECE EPISODE",
-      "url": "https://nitter.net/pewpiece/status/2053082940658069832#m",
-      "date": "Sat, 09 May 2026 12:01:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH4ECq9XcAEZs7B.jpg"
       ]
     },
     {
@@ -480,6 +481,67 @@
       ]
     },
     {
+      "id": "38c9c929b2939a6da9f06055eea102806086141b903b808a404249768b939865",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2053501857863995741#m",
+      "date": "Sun, 10 May 2026 15:46:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2050232036066242561%2FJmJJRrAE%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "1ffb2fa776a86349ee4861409b70db7c94a81dbbc5310e62db7dac33d39fa353",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
+      "text": "Now what kind of witch uses bullets?! Read Ichi the Witch, Ch. 81 in Shonen Jump for free! bit.ly/4tnFKZS",
+      "url": "https://nitter.net/shonenjump/status/2053494073961378130#m",
+      "date": "Sun, 10 May 2026 15:15:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH959jJXgAIFmIl.jpg"
+      ]
+    },
+    {
+      "id": "11640392ee28d4679d20523ddaa275a1b5a5a471792c1e6715ed849988423e6a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
+      "text": "Kiyoshi’s never faced a demon like this before. Read Ultimate Exorcist Kiyoshi, Ch. 91 in Shonen Jump for free! bit.ly/4uwFPv7",
+      "url": "https://nitter.net/shonenjump/status/2053494543886983526#m",
+      "date": "Sun, 10 May 2026 15:17:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH96Y5VWMAAmRhT.jpg"
+      ]
+    },
+    {
+      "id": "23a7162e7c34266257d89007657cb0ce4f06b0c61475ded8a410313dd1d96293",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line wa",
+      "text": "Killingham: “We were born in a high place, so the idea of water falling from the sky terrifies us.” There’s something off about that explanation... In an earlier explanation from Nami, the Red Line was described as a continuous chain of connected islands, with winter islands and spring islands existing there as well. And since we’ve actually seen \"snow\" falling there, it doesn’t seem like the Red Line itself is a place where rain never falls. But in material from Oda-Sensei included in a Weekly Shonen Jump bonus, the land around Mariejois is shown and labeled as a “赤い砂漠 Red Desert.” So the reason rain doesn’t fall where they live may simply be because it has a desert climate. In other words, maybe the logic has been subtly swapped out here: Not “we’re afraid of rain because we live in a high place,” but rather, “because the place we live has a desert climate, rain doesn’t fall there—and that’s why we’re afraid of it.” So that raises the possibility that what the Celestial Dragons fear as Zaza may actually be something they were deliberately taught to fear by someone else.",
+      "url": "https://nitter.net/DawnStussy/status/2053494648224801124#m",
+      "date": "Sun, 10 May 2026 15:17:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH96dtAakAAAD07.png",
+        "https://nitter.net/pic/media%2FHH96e_zboAEvkZj.png"
+      ]
+    },
+    {
       "id": "f0a0bd2e517c25a0ec3358ed5c436d3bc493d74c7c648bbc00ba34372e8195be",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -509,66 +571,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHH95CDhWoAEM9sS.jpg"
-      ]
-    },
-    {
-      "id": "c0c4b883e223d9855ea2eceea3e558a235c8062338d4e41983dbffa57e5bd4c3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "週刊少年ジャンプ24号本日発売📚 人気投票結果発表＆TVアニメ化決定記念❗️ 表紙&巻頭カラーは『カグラバチ』🎉 センターカラーは『悪祓士のキヨシくん』読切『上海龍人』『あかね噺』‼️ 電子版👇 shonenjump.com/j/teikikoudok…",
-      "text": "週刊少年ジャンプ24号本日発売📚 人気投票結果発表＆TVアニメ化決定記念❗️ 表紙&巻頭カラーは『カグラバチ』🎉 センターカラーは『悪祓士のキヨシくん』読切『上海龍人』『あかね噺』‼️ 電子版👇 shonenjump.com/j/teikikoudok…",
-      "url": "https://nitter.net/jump_henshubu/status/2053490242892480902#m",
-      "date": "Sun, 10 May 2026 15:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHtLLnRbYAAA7XA.jpg"
-      ]
-    },
-    {
-      "id": "bcf352e875d190b821b742b268783adca6c2377393d88d40dcf86e9adbef6647",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【#DQ40th まであと16日】 本日の作品はこちら！ ／ みなさんはどのキャラクターで戦いましたか？👀 ＼",
-      "text": "【#DQ40th まであと16日】 本日の作品はこちら！ ／ みなさんはどのキャラクターで戦いましたか？👀 ＼",
-      "url": "https://nitter.net/DQ_PR/status/2053490252002771291#m",
-      "date": "Sun, 10 May 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH92f7MaMAICw2D.jpg"
-      ]
-    },
-    {
-      "id": "adf0bad6cbcaeced636bdfe653ea13b3791c797f46944cb07835e04089b2ad1a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Loid’s been dragged to the wrong party. Read Spy x Family, Ch. 134 in Shonen Jump for free! bit.ly/4dBH99x",
-      "text": "Loid’s been dragged to the wrong party. Read Spy x Family, Ch. 134 in Shonen Jump for free! bit.ly/4dBH99x",
-      "url": "https://nitter.net/shonenjump/status/2053491553901949202#m",
-      "date": "Sun, 10 May 2026 15:05:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH93q2oXgAUnCK-.jpg"
-      ]
-    },
-    {
-      "id": "36d45a24e6b23efb2761913b73827aa8036beb0566741fbbe66827fc0b43c0bf",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "本日発売 #週刊少年ジャンプ 2026年24号 zebrack-comic.shueisha.co.jp… 人気投票結果‼︎表紙＆巻頭カラー‼︎ 「#カグラバチ」 センターカラー 「#あかね噺」「#上海龍人」「#悪祓士のキヨシくん」 📱集英社公式アプリ #ゼブラック app.adjust.com/mw10ij5",
-      "text": "本日発売 #週刊少年ジャンプ 2026年24号 zebrack-comic.shueisha.co.jp… 人気投票結果‼︎表紙＆巻頭カラー‼︎ 「#カグラバチ」 センターカラー 「#あかね噺」「#上海龍人」「#悪祓士のキヨシくん」 📱集英社公式アプリ #ゼブラック app.adjust.com/mw10ij5",
-      "url": "https://nitter.net/zebrack_comic/status/2053490287096500542#m",
-      "date": "Sun, 10 May 2026 15:00:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH92h1QacAAPzx0.jpg"
       ]
     },
     {
