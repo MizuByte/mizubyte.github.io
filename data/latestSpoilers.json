@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T01:29:45.672Z",
+  "generatedAt": "2026-05-13T05:34:50.762Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "70564bc57b6479e0728704680d4d40972cd14011a17ea08781116d189c185fb1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE The Sun God was born from the waters of Nun in the form of scarab beetle ☀️",
+      "text": "#ONEPIECE The Sun God was born from the waters of Nun in the form of scarab beetle ☀️",
+      "url": "https://nitter.net/Buggy/status/2054336066874663074#m",
+      "date": "Tue, 12 May 2026 23:01:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIJ3w4cX0AAhiJD.jpg"
+      ]
+    },
     {
       "id": "b5b6e69a9ce07e3eae0e1ec624bfbacd52edc482ed6153288ca2d1b70ba4a7d9",
       "anime": "onepiece",
@@ -95,21 +110,6 @@
       ]
     },
     {
-      "id": "022b1707e047296b2c06438c9abb5a24abd804dec7175b1596b9d105010ef6d2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Artist: nitter.net/i/status/2053289441024… Leave a like and retweet the art. riz 🐊🇺🇦 (@riz4rizz) first dragon aka rain god concept attempt i defo will do more #onepiece — https://nitter.net/riz4riz",
-      "text": "Artist: nitter.net/i/status/2053289441024… Leave a like and retweet the art. riz 🐊🇺🇦 (@riz4rizz) first dragon aka rain god concept attempt i defo will do more #onepiece — https://nitter.net/riz4rizz/status/2053289441024700679#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2054173553424060809#m",
-      "date": "Tue, 12 May 2026 12:15:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH6-6TQWEAQYm9L.jpg"
-      ]
-    },
-    {
       "id": "79c60e0f585ea71a490c039e0813a565acc9533e4c2d51646b901ad45ae6c863",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -155,21 +155,6 @@
       ]
     },
     {
-      "id": "256210627984ffe9a6d68c20ff434098d3c911635664855b349cee87ab072037",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves ",
-      "text": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves symbolism. KawaSara is possible to become the canon ship… #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2053732881839555043#m",
-      "date": "Mon, 11 May 2026 07:04:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIBTK3YXgAAIsoj.jpg"
-      ]
-    },
-    {
       "id": "9ce423423ed6e99acddf47386d2a944169c123383c2148841cd0f8ee1f38d570",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -185,19 +170,32 @@
       ]
     },
     {
-      "id": "7e1fb4e2fb92e02cc697aaa3ba4f10c4ce9e8dd63298593a4ee1bf8033781ac0",
+      "id": "256210627984ffe9a6d68c20ff434098d3c911635664855b349cee87ab072037",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "I will be honest now: The Boruto fandom NEEDS to raise their standards. Y‘all can’t be happy with only a music video with a Manga animation which isn’t even good. It was supposed to be a 10 years anni",
-      "text": "I will be honest now: The Boruto fandom NEEDS to raise their standards. Y‘all can’t be happy with only a music video with a Manga animation which isn’t even good. It was supposed to be a 10 years anniversary for the Manga of the most iconic AniManga franchise… #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2053411490242146317#m",
-      "date": "Sun, 10 May 2026 09:47:04 GMT",
+      "title": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves ",
+      "text": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves symbolism. KawaSara is possible to become the canon ship… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2053732881839555043#m",
+      "date": "Mon, 11 May 2026 07:04:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH8u3cNX0AMJYXU.jpg"
+        "https://nitter.net/pic/media%2FHIBTK3YXgAAIsoj.jpg"
       ]
+    },
+    {
+      "id": "280bd27689abf1b2a0b52d1201580a7eb6f3adbf0965f76606cee62be4874193",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "And before you start saying I am an ungrateful person: I’m not, I just want something more for the 10 years anniversary. I swear Dasiens Manga animations back then were better than this lol",
+      "text": "And before you start saying I am an ungrateful person: I’m not, I just want something more for the 10 years anniversary. I swear Dasiens Manga animations back then were better than this lol",
+      "url": "https://nitter.net/SchmurfiV1/status/2053412997117161873#m",
+      "date": "Sun, 10 May 2026 09:53:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
@@ -333,6 +331,21 @@
       ]
     },
     {
+      "id": "70564bc57b6479e0728704680d4d40972cd14011a17ea08781116d189c185fb1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE The Sun God was born from the waters of Nun in the form of scarab beetle ☀️",
+      "text": "#ONEPIECE The Sun God was born from the waters of Nun in the form of scarab beetle ☀️",
+      "url": "https://nitter.net/Buggy/status/2054336066874663074#m",
+      "date": "Tue, 12 May 2026 23:01:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIJ3w4cX0AAhiJD.jpg"
+      ]
+    },
+    {
       "id": "b5b6e69a9ce07e3eae0e1ec624bfbacd52edc482ed6153288ca2d1b70ba4a7d9",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -408,21 +421,6 @@
       ]
     },
     {
-      "id": "022b1707e047296b2c06438c9abb5a24abd804dec7175b1596b9d105010ef6d2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Artist: nitter.net/i/status/2053289441024… Leave a like and retweet the art. riz 🐊🇺🇦 (@riz4rizz) first dragon aka rain god concept attempt i defo will do more #onepiece — https://nitter.net/riz4riz",
-      "text": "Artist: nitter.net/i/status/2053289441024… Leave a like and retweet the art. riz 🐊🇺🇦 (@riz4rizz) first dragon aka rain god concept attempt i defo will do more #onepiece — https://nitter.net/riz4rizz/status/2053289441024700679#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2054173553424060809#m",
-      "date": "Tue, 12 May 2026 12:15:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH6-6TQWEAQYm9L.jpg"
-      ]
-    },
-    {
       "id": "79c60e0f585ea71a490c039e0813a565acc9533e4c2d51646b901ad45ae6c863",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -468,21 +466,6 @@
       ]
     },
     {
-      "id": "256210627984ffe9a6d68c20ff434098d3c911635664855b349cee87ab072037",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves ",
-      "text": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves symbolism. KawaSara is possible to become the canon ship… #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2053732881839555043#m",
-      "date": "Mon, 11 May 2026 07:04:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIBTK3YXgAAIsoj.jpg"
-      ]
-    },
-    {
       "id": "9ce423423ed6e99acddf47386d2a944169c123383c2148841cd0f8ee1f38d570",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -498,19 +481,32 @@
       ]
     },
     {
-      "id": "7e1fb4e2fb92e02cc697aaa3ba4f10c4ce9e8dd63298593a4ee1bf8033781ac0",
+      "id": "256210627984ffe9a6d68c20ff434098d3c911635664855b349cee87ab072037",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "I will be honest now: The Boruto fandom NEEDS to raise their standards. Y‘all can’t be happy with only a music video with a Manga animation which isn’t even good. It was supposed to be a 10 years anni",
-      "text": "I will be honest now: The Boruto fandom NEEDS to raise their standards. Y‘all can’t be happy with only a music video with a Manga animation which isn’t even good. It was supposed to be a 10 years anniversary for the Manga of the most iconic AniManga franchise… #BORUTO #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2053411490242146317#m",
-      "date": "Sun, 10 May 2026 09:47:04 GMT",
+      "title": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves ",
+      "text": "It’s not looking good for BoruSara shippers. If you look at both Sarada’s and Kawaki’s eye you can see that if you overlap those eyes they fill their empty space completely. And we know Ikemoto loves symbolism. KawaSara is possible to become the canon ship… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2053732881839555043#m",
+      "date": "Mon, 11 May 2026 07:04:10 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH8u3cNX0AMJYXU.jpg"
+        "https://nitter.net/pic/media%2FHIBTK3YXgAAIsoj.jpg"
       ]
+    },
+    {
+      "id": "280bd27689abf1b2a0b52d1201580a7eb6f3adbf0965f76606cee62be4874193",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "And before you start saying I am an ungrateful person: I’m not, I just want something more for the 10 years anniversary. I swear Dasiens Manga animations back then were better than this lol",
+      "text": "And before you start saying I am an ungrateful person: I’m not, I just want something more for the 10 years anniversary. I swear Dasiens Manga animations back then were better than this lol",
+      "url": "https://nitter.net/SchmurfiV1/status/2053412997117161873#m",
+      "date": "Sun, 10 May 2026 09:53:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
