@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T22:05:32.400Z",
+  "generatedAt": "2026-05-14T23:14:23.592Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,6 +34,89 @@
     }
   ],
   "misc": [
+    {
+      "id": "b0e18c1ac74239e5b1bfef536a4a12d30f92fa08b364cc4823f37737eaa285a1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "See you all in Gotham... soon. 🦇🦇",
+      "text": "See you all in Gotham... soon. 🦇🦇",
+      "url": "https://nitter.net/mattreevesLA/status/2055053371846124011#m",
+      "date": "Thu, 14 May 2026 22:31:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7a43db0b2d4f1764b18d15ba6f0ad6710437df102e5190e5bd05e01cf2c0346f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Ya están disponibles los episodios del 78 al 92 del nuevo doblaje de One Piece en castellano, en Netflix! Comparativa de los nuevos personajes (Chopper, Ace, Mr. 2 Bon Kure…) de estos episodios. Vide",
+      "text": "¡Ya están disponibles los episodios del 78 al 92 del nuevo doblaje de One Piece en castellano, en Netflix! Comparativa de los nuevos personajes (Chopper, Ace, Mr. 2 Bon Kure…) de estos episodios. Video Desierto La Espada (@desiertoespada) ¡Ya están disponibles los episodios del 62 al 77 del nuevo doblaje de One Piece en castellano, en Netflix! Comparativa de los nuevos personajes (Mr. 0, Miss All-Sunday, Vivi, Garp…) de estos episodios. Video — https://nitter.net/desiertoespada/status/2044173925081366889#m",
+      "url": "https://nitter.net/desiertoespada/status/2055045491033825383#m",
+      "date": "Thu, 14 May 2026 22:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2055043228743692289%2Fimg%2FkUV5dcewb3Vsj6iv.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2044172110050865152%2Fimg%2FH2t5dojEzeBlYV9A.jpg"
+      ]
+    },
+    {
+      "id": "177d6eeee11bcbba6ea8693e8fc5cec042e0cf1a2227afdaa881b84d5d8ee148",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Locked and loaded for Gotham... Welcome. 🦇🦇",
+      "text": "Locked and loaded for Gotham... Welcome. 🦇🦇",
+      "url": "https://nitter.net/mattreevesLA/status/2055023994961809898#m",
+      "date": "Thu, 14 May 2026 20:34:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5bdf0871380c9c21eb861bd7a816489107c79cc0c11aa5be040ecc3f2c10a20f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Out of the shadows... Welcome. 🦇🦇",
+      "text": "Out of the shadows... Welcome. 🦇🦇",
+      "url": "https://nitter.net/mattreevesLA/status/2055006149242650841#m",
+      "date": "Thu, 14 May 2026 19:23:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "cd4ff2e90356787b488fd78833fb052b10c2d8cfd1c1bbfdf6229d53fd8aa634",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón",
+      "text": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón, un payaso, una broma. Video",
+      "url": "https://nitter.net/PiedrafitaMario/status/2054840180335370668#m",
+      "date": "Thu, 14 May 2026 08:24:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2054840101855772672%2Fimg%2FazgLc7TbcJzhSZ7f.jpg"
+      ]
+    },
+    {
+      "id": "753cb6d07cfb9f9ed276d6226aaed789fed329794bcb0ac77e097b008cf8c648",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/",
+      "text": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/2054799017779868162#m",
+      "url": "https://nitter.net/oscar_puente_/status/2054818008061681842#m",
+      "date": "Thu, 14 May 2026 06:56:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "d65a535f94f97cb477d656b148e14d8f0c8daf152542ba17c50ad3edd83e6f04",
       "anime": "onepiece",
@@ -111,90 +194,6 @@
       ]
     },
     {
-      "id": "177d6eeee11bcbba6ea8693e8fc5cec042e0cf1a2227afdaa881b84d5d8ee148",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Locked and loaded for Gotham... Welcome. 🦇🦇",
-      "text": "Locked and loaded for Gotham... Welcome. 🦇🦇",
-      "url": "https://nitter.net/mattreevesLA/status/2055023994961809898#m",
-      "date": "Thu, 14 May 2026 20:34:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "5bdf0871380c9c21eb861bd7a816489107c79cc0c11aa5be040ecc3f2c10a20f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Out of the shadows... Welcome. 🦇🦇",
-      "text": "Out of the shadows... Welcome. 🦇🦇",
-      "url": "https://nitter.net/mattreevesLA/status/2055006149242650841#m",
-      "date": "Thu, 14 May 2026 19:23:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "cd4ff2e90356787b488fd78833fb052b10c2d8cfd1c1bbfdf6229d53fd8aa634",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón",
-      "text": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón, un payaso, una broma. Video",
-      "url": "https://nitter.net/PiedrafitaMario/status/2054840180335370668#m",
-      "date": "Thu, 14 May 2026 08:24:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2054840101855772672%2Fimg%2FazgLc7TbcJzhSZ7f.jpg"
-      ]
-    },
-    {
-      "id": "753cb6d07cfb9f9ed276d6226aaed789fed329794bcb0ac77e097b008cf8c648",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/",
-      "text": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/2054799017779868162#m",
-      "url": "https://nitter.net/oscar_puente_/status/2054818008061681842#m",
-      "date": "Thu, 14 May 2026 06:56:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2054464646183059456%2FtdK-u4pA%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "6796e4e7f2326116b33e88586f54160ce06f776b0c1926480126f953a8ac97b4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Globally exclusive | Officially Licensed ONE PIECE 1/6 Platinum Silicone Action Figure Available for pre-order soon! It pioneers a brand-new form of collectible artwork, pairing a resin statue base wi",
-      "text": "Globally exclusive | Officially Licensed ONE PIECE 1/6 Platinum Silicone Action Figure Available for pre-order soon! It pioneers a brand-new form of collectible artwork, pairing a resin statue base with a highly articulated figure to unlock diverse display possibilities. Video",
-      "url": "https://nitter.net/JIMEIPALACE/status/2054718477559054380#m",
-      "date": "Thu, 14 May 2026 00:20:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2054717520905383936%2Fimg%2FwCs-_3ZWC-y4z8MB.jpg"
-      ]
-    },
-    {
-      "id": "d2cfca97fe033402ec6c411bcd9c705ccb67d2433ffc1be46ab124eb14234407",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "In a Gotham state of mind... Welcome. 🦇🦇",
-      "text": "In a Gotham state of mind... Welcome. 🦇🦇",
-      "url": "https://nitter.net/mattreevesLA/status/2054983154344362342#m",
-      "date": "Thu, 14 May 2026 17:52:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "600d5a1aafdd2f93d5a9b1305c2226aa9fb89a5675c381010f07ca871ef839f7",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -270,18 +269,18 @@
       ]
     },
     {
-      "id": "d04fa49e3b340385b59c743e28f11b872d256f23409a070a5236ed78d3027013",
+      "id": "9ce423423ed6e99acddf47386d2a944169c123383c2148841cd0f8ee1f38d570",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
-      "text": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2053804050114609595#m",
-      "date": "Mon, 11 May 2026 11:46:58 GMT",
+      "title": "The BoruEida ship is ready to sail now🤭 Video",
+      "text": "The BoruEida ship is ready to sail now🤭 Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2053732995245191181#m",
+      "date": "Mon, 11 May 2026 07:04:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHICT5QiWQAAnK1Z.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2053732981567627264%2Fimg%2FOVJEiPT0jRowDPxD.jpg"
       ]
     },
     {
@@ -362,6 +361,89 @@
       ]
     },
     {
+      "id": "b0e18c1ac74239e5b1bfef536a4a12d30f92fa08b364cc4823f37737eaa285a1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "See you all in Gotham... soon. 🦇🦇",
+      "text": "See you all in Gotham... soon. 🦇🦇",
+      "url": "https://nitter.net/mattreevesLA/status/2055053371846124011#m",
+      "date": "Thu, 14 May 2026 22:31:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7a43db0b2d4f1764b18d15ba6f0ad6710437df102e5190e5bd05e01cf2c0346f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Ya están disponibles los episodios del 78 al 92 del nuevo doblaje de One Piece en castellano, en Netflix! Comparativa de los nuevos personajes (Chopper, Ace, Mr. 2 Bon Kure…) de estos episodios. Vide",
+      "text": "¡Ya están disponibles los episodios del 78 al 92 del nuevo doblaje de One Piece en castellano, en Netflix! Comparativa de los nuevos personajes (Chopper, Ace, Mr. 2 Bon Kure…) de estos episodios. Video Desierto La Espada (@desiertoespada) ¡Ya están disponibles los episodios del 62 al 77 del nuevo doblaje de One Piece en castellano, en Netflix! Comparativa de los nuevos personajes (Mr. 0, Miss All-Sunday, Vivi, Garp…) de estos episodios. Video — https://nitter.net/desiertoespada/status/2044173925081366889#m",
+      "url": "https://nitter.net/desiertoespada/status/2055045491033825383#m",
+      "date": "Thu, 14 May 2026 22:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2055043228743692289%2Fimg%2FkUV5dcewb3Vsj6iv.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2044172110050865152%2Fimg%2FH2t5dojEzeBlYV9A.jpg"
+      ]
+    },
+    {
+      "id": "177d6eeee11bcbba6ea8693e8fc5cec042e0cf1a2227afdaa881b84d5d8ee148",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Locked and loaded for Gotham... Welcome. 🦇🦇",
+      "text": "Locked and loaded for Gotham... Welcome. 🦇🦇",
+      "url": "https://nitter.net/mattreevesLA/status/2055023994961809898#m",
+      "date": "Thu, 14 May 2026 20:34:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5bdf0871380c9c21eb861bd7a816489107c79cc0c11aa5be040ecc3f2c10a20f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Out of the shadows... Welcome. 🦇🦇",
+      "text": "Out of the shadows... Welcome. 🦇🦇",
+      "url": "https://nitter.net/mattreevesLA/status/2055006149242650841#m",
+      "date": "Thu, 14 May 2026 19:23:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "cd4ff2e90356787b488fd78833fb052b10c2d8cfd1c1bbfdf6229d53fd8aa634",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón",
+      "text": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón, un payaso, una broma. Video",
+      "url": "https://nitter.net/PiedrafitaMario/status/2054840180335370668#m",
+      "date": "Thu, 14 May 2026 08:24:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2054840101855772672%2Fimg%2FazgLc7TbcJzhSZ7f.jpg"
+      ]
+    },
+    {
+      "id": "753cb6d07cfb9f9ed276d6226aaed789fed329794bcb0ac77e097b008cf8c648",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/",
+      "text": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/2054799017779868162#m",
+      "url": "https://nitter.net/oscar_puente_/status/2054818008061681842#m",
+      "date": "Thu, 14 May 2026 06:56:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "d65a535f94f97cb477d656b148e14d8f0c8daf152542ba17c50ad3edd83e6f04",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -436,90 +518,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHIQ95NJWsAADiyp.jpg"
       ]
-    },
-    {
-      "id": "177d6eeee11bcbba6ea8693e8fc5cec042e0cf1a2227afdaa881b84d5d8ee148",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Locked and loaded for Gotham... Welcome. 🦇🦇",
-      "text": "Locked and loaded for Gotham... Welcome. 🦇🦇",
-      "url": "https://nitter.net/mattreevesLA/status/2055023994961809898#m",
-      "date": "Thu, 14 May 2026 20:34:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "5bdf0871380c9c21eb861bd7a816489107c79cc0c11aa5be040ecc3f2c10a20f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Out of the shadows... Welcome. 🦇🦇",
-      "text": "Out of the shadows... Welcome. 🦇🦇",
-      "url": "https://nitter.net/mattreevesLA/status/2055006149242650841#m",
-      "date": "Thu, 14 May 2026 19:23:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "cd4ff2e90356787b488fd78833fb052b10c2d8cfd1c1bbfdf6229d53fd8aa634",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón",
-      "text": "Ayuso desata las risas con su ignorancia en la Asamblea de Madrid: “México no existió hasta que llegaron los españoles”. Para esto ha quedado la presidenta de la Comunidad de Madrid: para ser un bufón, un payaso, una broma. Video",
-      "url": "https://nitter.net/PiedrafitaMario/status/2054840180335370668#m",
-      "date": "Thu, 14 May 2026 08:24:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2054840101855772672%2Fimg%2FazgLc7TbcJzhSZ7f.jpg"
-      ]
-    },
-    {
-      "id": "753cb6d07cfb9f9ed276d6226aaed789fed329794bcb0ac77e097b008cf8c648",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/",
-      "text": "Madre mía los Menas. El Plural (@El_Plural) Renfe acredita que Vito Quiles se 'coló' en sus trenes al menos 17 veces en año y medio elplural.com/sociedad/tribun… — https://nitter.net/El_Plural/status/2054799017779868162#m",
-      "url": "https://nitter.net/oscar_puente_/status/2054818008061681842#m",
-      "date": "Thu, 14 May 2026 06:56:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2054464646183059456%2FtdK-u4pA%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "6796e4e7f2326116b33e88586f54160ce06f776b0c1926480126f953a8ac97b4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Globally exclusive | Officially Licensed ONE PIECE 1/6 Platinum Silicone Action Figure Available for pre-order soon! It pioneers a brand-new form of collectible artwork, pairing a resin statue base wi",
-      "text": "Globally exclusive | Officially Licensed ONE PIECE 1/6 Platinum Silicone Action Figure Available for pre-order soon! It pioneers a brand-new form of collectible artwork, pairing a resin statue base with a highly articulated figure to unlock diverse display possibilities. Video",
-      "url": "https://nitter.net/JIMEIPALACE/status/2054718477559054380#m",
-      "date": "Thu, 14 May 2026 00:20:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2054717520905383936%2Fimg%2FwCs-_3ZWC-y4z8MB.jpg"
-      ]
-    },
-    {
-      "id": "d2cfca97fe033402ec6c411bcd9c705ccb67d2433ffc1be46ab124eb14234407",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "In a Gotham state of mind... Welcome. 🦇🦇",
-      "text": "In a Gotham state of mind... Welcome. 🦇🦇",
-      "url": "https://nitter.net/mattreevesLA/status/2054983154344362342#m",
-      "date": "Thu, 14 May 2026 17:52:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "600d5a1aafdd2f93d5a9b1305c2226aa9fb89a5675c381010f07ca871ef839f7",
@@ -597,18 +595,18 @@
       ]
     },
     {
-      "id": "d04fa49e3b340385b59c743e28f11b872d256f23409a070a5236ed78d3027013",
+      "id": "9ce423423ed6e99acddf47386d2a944169c123383c2148841cd0f8ee1f38d570",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
-      "text": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2053804050114609595#m",
-      "date": "Mon, 11 May 2026 11:46:58 GMT",
+      "title": "The BoruEida ship is ready to sail now🤭 Video",
+      "text": "The BoruEida ship is ready to sail now🤭 Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2053732995245191181#m",
+      "date": "Mon, 11 May 2026 07:04:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHICT5QiWQAAnK1Z.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2053732981567627264%2Fimg%2FOVJEiPT0jRowDPxD.jpg"
       ]
     },
     {
