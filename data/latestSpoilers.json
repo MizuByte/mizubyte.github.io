@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:15:30.673Z",
+  "generatedAt": "2026-05-15T14:41:33.135Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -95,18 +95,18 @@
       ]
     },
     {
-      "id": "9ce423423ed6e99acddf47386d2a944169c123383c2148841cd0f8ee1f38d570",
+      "id": "d04fa49e3b340385b59c743e28f11b872d256f23409a070a5236ed78d3027013",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "The BoruEida ship is ready to sail now🤭 Video",
-      "text": "The BoruEida ship is ready to sail now🤭 Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2053732995245191181#m",
-      "date": "Mon, 11 May 2026 07:04:37 GMT",
+      "title": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
+      "text": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2053804050114609595#m",
+      "date": "Mon, 11 May 2026 11:46:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2053732981567627264%2Fimg%2FOVJEiPT0jRowDPxD.jpg"
+        "https://nitter.net/pic/media%2FHICT5QiWQAAnK1Z.jpg"
       ]
     },
     {
@@ -241,6 +241,21 @@
       ]
     },
     {
+      "id": "ef7a0e1d287b7ec5df0488fafc72cb1f9ca9d4cac629be7c877e0f37a421b80a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2054914888158286010#m",
+      "date": "Thu, 14 May 2026 13:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHISGMwrWAAA3ZAL.jpg"
+      ]
+    },
+    {
       "id": "a6bfa12743810262df1bd6646653aa4c7cea464cc562cb86b660fc6970984499",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -253,21 +268,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHIQktoaXAAAJTFi.jpg"
-      ]
-    },
-    {
-      "id": "3d5b699c40719c77382a69e88fb28d59ece263a2af1f53f8f3a55a838dfaadba",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2054794064277446934#m",
-      "date": "Thu, 14 May 2026 05:20:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIQYT4VWkAAyhKx.jpg"
       ]
     }
   ],
@@ -363,18 +363,18 @@
       ]
     },
     {
-      "id": "9ce423423ed6e99acddf47386d2a944169c123383c2148841cd0f8ee1f38d570",
+      "id": "d04fa49e3b340385b59c743e28f11b872d256f23409a070a5236ed78d3027013",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "The BoruEida ship is ready to sail now🤭 Video",
-      "text": "The BoruEida ship is ready to sail now🤭 Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2053732995245191181#m",
-      "date": "Mon, 11 May 2026 07:04:37 GMT",
+      "title": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
+      "text": "“Boruto Manga has bad art style.” Bro, are we reading the same Manga? #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2053804050114609595#m",
+      "date": "Mon, 11 May 2026 11:46:58 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2053732981567627264%2Fimg%2FOVJEiPT0jRowDPxD.jpg"
+        "https://nitter.net/pic/media%2FHICT5QiWQAAnK1Z.jpg"
       ]
     },
     {
@@ -509,6 +509,21 @@
       ]
     },
     {
+      "id": "ef7a0e1d287b7ec5df0488fafc72cb1f9ca9d4cac629be7c877e0f37a421b80a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2054914888158286010#m",
+      "date": "Thu, 14 May 2026 13:21:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHISGMwrWAAA3ZAL.jpg"
+      ]
+    },
+    {
       "id": "a6bfa12743810262df1bd6646653aa4c7cea464cc562cb86b660fc6970984499",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -521,21 +536,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHIQktoaXAAAJTFi.jpg"
-      ]
-    },
-    {
-      "id": "3d5b699c40719c77382a69e88fb28d59ece263a2af1f53f8f3a55a838dfaadba",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2054794064277446934#m",
-      "date": "Thu, 14 May 2026 05:20:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIQYT4VWkAAyhKx.jpg"
       ]
     }
   ]
