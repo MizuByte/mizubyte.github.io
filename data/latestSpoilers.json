@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T01:50:33.436Z",
+  "generatedAt": "2026-05-18T06:08:29.227Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -178,19 +178,17 @@
       "url": "https://nitter.net/Mugiwara_23/status/2056126411811803194#m",
       "date": "Sun, 17 May 2026 21:35:12 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2053258733460107264%2Fkcz6p0L8%3Fformat%3Djpg%26name%3D800x419"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "fe0bc309546caabf5db15170d4d2377bf5cac89284cff64638a2f0df35e9c748",
+      "id": "039aa44867285f65dd35d639ee009ef593d8b91c2c8c39f8ff2e786f2ec7810f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
       "title": "La lógica andaluza es la hostia: según el CIS, lo que más preocupa a los andaluces es el desmantelamiento de la Sanidad Pública y por eso vuelven a votar a Moreno Bonilla para que termine de destrozar",
       "text": "La lógica andaluza es la hostia: según el CIS, lo que más preocupa a los andaluces es el desmantelamiento de la Sanidad Pública y por eso vuelven a votar a Moreno Bonilla para que termine de destrozarla. #EleccionesAndalucía",
-      "url": "https://nitter.net/rgonviu/status/2056088049746931748#m",
+      "url": "https://nitter.net/i/status/2056088049746931748#m",
       "date": "Sun, 17 May 2026 19:02:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
@@ -302,21 +300,6 @@
       ]
     },
     {
-      "id": "7043afff342da3d740d57a4e6eb935a498df687c52a6efbebc67e905ee3814a6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BorutoTwoBlueVortexCh34 Page 1",
-      "text": "#BorutoTwoBlueVortexCh34 Page 1",
-      "url": "https://nitter.net/WONPE4CE/status/2056187182860435731#m",
-      "date": "Mon, 18 May 2026 01:36:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIkLPyoa4AAWsfE.png"
-      ]
-    },
-    {
       "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -328,6 +311,23 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
+      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
+      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
+      "date": "Fri, 08 May 2026 17:20:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
+        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
+        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+      ]
     }
   ],
   "items": [
@@ -505,19 +505,17 @@
       "url": "https://nitter.net/Mugiwara_23/status/2056126411811803194#m",
       "date": "Sun, 17 May 2026 21:35:12 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2053258733460107264%2Fkcz6p0L8%3Fformat%3Djpg%26name%3D800x419"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "fe0bc309546caabf5db15170d4d2377bf5cac89284cff64638a2f0df35e9c748",
+      "id": "039aa44867285f65dd35d639ee009ef593d8b91c2c8c39f8ff2e786f2ec7810f",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
       "title": "La lógica andaluza es la hostia: según el CIS, lo que más preocupa a los andaluces es el desmantelamiento de la Sanidad Pública y por eso vuelven a votar a Moreno Bonilla para que termine de destrozar",
       "text": "La lógica andaluza es la hostia: según el CIS, lo que más preocupa a los andaluces es el desmantelamiento de la Sanidad Pública y por eso vuelven a votar a Moreno Bonilla para que termine de destrozarla. #EleccionesAndalucía",
-      "url": "https://nitter.net/rgonviu/status/2056088049746931748#m",
+      "url": "https://nitter.net/i/status/2056088049746931748#m",
       "date": "Sun, 17 May 2026 19:02:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
@@ -629,21 +627,6 @@
       ]
     },
     {
-      "id": "7043afff342da3d740d57a4e6eb935a498df687c52a6efbebc67e905ee3814a6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BorutoTwoBlueVortexCh34 Page 1",
-      "text": "#BorutoTwoBlueVortexCh34 Page 1",
-      "url": "https://nitter.net/WONPE4CE/status/2056187182860435731#m",
-      "date": "Mon, 18 May 2026 01:36:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIkLPyoa4AAWsfE.png"
-      ]
-    },
-    {
       "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -655,6 +638,23 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
+      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
+      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
+      "date": "Fri, 08 May 2026 17:20:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
+        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
+        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+      ]
     }
   ]
 }
