@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-05-19T12:31:22.536Z",
+  "generatedAt": "2026-05-19T16:03:14.079Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "93617a33ee27ea5b6a680615486f55979474e71be54ff07df4f37ad465f310fd",
+      "id": "ee2f5ee81d09dae89dae1edc5582cbf483dd312f641145e19c198c5305b719fe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME.",
+      "text": "#ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME.",
+      "url": "https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "date": "Tue, 19 May 2026 14:04:58 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
+      ]
+    },
+    {
+      "id": "8fc629c279829f941fbf245d672e837f82551b5618067a4ae79073d008fa75b2",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Good/Okay Chapter based on the spoilers, raws/eng translation might change the view of me.",
-      "text": "#ONEPIECE1183 Good/Okay Chapter based on the spoilers, raws/eng translation might change the view of me.",
-      "url": "https://nitter.net/WorstGenHQ/status/2056653030825562547#m",
-      "date": "Tue, 19 May 2026 08:27:47 GMT",
+      "title": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SP",
+      "text": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "url": "https://nitter.net/k0k1eth/status/2056744365284807038#m",
+      "date": "Tue, 19 May 2026 14:30:43 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
+      ]
+    },
+    {
+      "id": "75077d9a691d7428baee52d38f8b3fb6bffffadd82e7df96621411d15ccd0298",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Spoilers by Pew!! Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "text": "#ONEPIECE1183 Spoilers by Pew!! Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2056739675897729183#m",
+      "date": "Tue, 19 May 2026 14:12:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
+      ]
     },
     {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
@@ -32,6 +64,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "text": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "url": "https://nitter.net/pewpiece/status/2056757535579754825#m",
+      "date": "Tue, 19 May 2026 15:23:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsSEw6XMAAaPds.jpg"
+      ]
+    },
     {
       "id": "4398e443e2fc19a982b68598f98678edba67dbab34b0854142cd9aa97bf8afeb",
       "anime": "onepiece",
@@ -94,33 +141,48 @@
       ]
     },
     {
-      "id": "4efc25ec9476fe729471964befd1359b955b5de243d0991eb8f1d32309277829",
+      "id": "97d9e17ea6d2a787772a9d61bd71b2b5a0deb27cabfd440ede90f04a11dd17b0",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE 1163 PREVIEW Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE 1163 PREVIEW Video",
-      "url": "https://nitter.net/pewpiece/status/2056023188748767344#m",
-      "date": "Sun, 17 May 2026 14:45:01 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Vibe: 🤣",
+      "text": "#ONEPIECE1183 Vibe: 🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2056743019173302514#m",
+      "date": "Tue, 19 May 2026 14:25:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2056023092204306433%2Fimg%2FTLcGrfagJ0wYRtr8.jpg"
+        "https://nitter.net/pic/media%2FHIsE2QdWoAAqv3O.jpg"
       ]
     },
     {
-      "id": "a41f7ee0b5425543895e7add9416136eade0e8a16df3484354d8e2c5bb5b445c",
+      "id": "2be1d120aafbfa87f551df4216d7de05fd89953bf59f51f666a78e2705218815",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The voice actress of Nami will continue to play Ran Mouri in Detective Conan after the previous voice actress sadly passed away.",
-      "text": "The voice actress of Nami will continue to play Ran Mouri in Detective Conan after the previous voice actress sadly passed away.",
-      "url": "https://nitter.net/pewpiece/status/2055214774661591279#m",
-      "date": "Fri, 15 May 2026 09:12:40 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
+      "text": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
+      "url": "https://nitter.net/WorstGenHQ/status/2056742614062215581#m",
+      "date": "Tue, 19 May 2026 14:23:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIWW8WbW0AAAkwR.jpg"
+        "https://nitter.net/pic/media%2FHIsEc2vX0AASO3s.jpg"
+      ]
+    },
+    {
+      "id": "1c5de7f4f60a7d2132527d9091894d2f17c37fb32d1a9d323f67830d855b5630",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 My guess is Dozan is the previous Nidhogg df user who fought Joyboy in the past. Later he got killed in a battle against Imu!?",
+      "text": "#ONEPIECE1183 My guess is Dozan is the previous Nidhogg df user who fought Joyboy in the past. Later he got killed in a battle against Imu!?",
+      "url": "https://nitter.net/WorstGenHQ/status/2056740372492042722#m",
+      "date": "Tue, 19 May 2026 14:14:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsCWMPXIAABSZ8.jpg"
       ]
     },
     {
@@ -137,135 +199,116 @@
       "attachments": []
     },
     {
-      "id": "80fc817c451232f68ca67cc854f1829fca3de8ab1bf1ae7b662e1ccdfecdfa2e",
+      "id": "435088e45d15a6cf4db3069f822730735f5f28784440f1ce5ca6d6e9ff0bb04c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "jewish supremacy is when muslims are killed and yet the headlines start singling out jewish institutions needing “protection” Stella Escobedo (@StellaEscoTV) 🚨 DEVELOPING 🚨 Shooting at Islamic Cente",
-      "text": "jewish supremacy is when muslims are killed and yet the headlines start singling out jewish institutions needing “protection” Stella Escobedo (@StellaEscoTV) 🚨 DEVELOPING 🚨 Shooting at Islamic Center in San Diego. All Jewish institutions are on lockdown including schools. Video — https://nitter.net/StellaEscoTV/status/2056461023196966991#m",
-      "url": "https://nitter.net/shriiyasays/status/2056477777466118537#m",
-      "date": "Mon, 18 May 2026 20:51:24 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2056752094300766512#m",
+      "date": "Tue, 19 May 2026 15:01:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2056460889583181825%2Fimg%2Fd0yXMz8H6s78dOpy.jpg"
+        "https://nitter.net/pic/card_img%2F2053258733460107264%2Fkcz6p0L8%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
-      "id": "a310a51233f0fa85aaa12fc253a4b7f24476e48194005734e7f28c3689e0822d",
+      "id": "948b84160a2aadb8ba213a2602b686ae57462b2abae97327478149566e97266e",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't",
-      "text": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't stop...",
-      "url": "https://nitter.net/WorstGenHQ/status/2056478137056125262#m",
-      "date": "Mon, 18 May 2026 20:52:50 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと7日】 本日の作品はこちら！ ／ 「ドラゴンクエスト」の生みの親・堀井雄二さんの出身地・淡路島にあるアトラクション。 5周年記念イベント開催中✨ ＼",
+      "text": "【#DQ40th まであと7日】 本日の作品はこちら！ ／ 「ドラゴンクエスト」の生みの親・堀井雄二さんの出身地・淡路島にあるアトラクション。 5周年記念イベント開催中✨ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2056751802121605402#m",
+      "date": "Tue, 19 May 2026 15:00:16 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoT6i7XkAAK13B.jpg"
+        "https://nitter.net/pic/media%2FHIsM2uIboAAauwh.jpg"
       ]
     },
     {
-      "id": "2bc8c49e95134aae0b03728362c1236b4b8cffa882cce0529b5aab018b56a910",
+      "id": "2e63eb6e2362f46e415c808ee7a67a2783e25a1ff190ef145d413ff663cb95a4",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "text": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "url": "https://nitter.net/WorstGenHQ/status/2056470180105011389#m",
-      "date": "Mon, 18 May 2026 20:21:12 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "THEジャンプショップで発売中のワンピースのアート商品各種！！",
+      "text": "THEジャンプショップで発売中のワンピースのアート商品各種！！",
+      "url": "https://nitter.net/guernicass4/status/2056748017538265294#m",
+      "date": "Tue, 19 May 2026 14:45:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoMt50WoAAjmxa.jpg"
+        "https://nitter.net/pic/media%2FHIsJa-tacAAbmoS.jpg",
+        "https://nitter.net/pic/media%2FHIsJbAOacAA0O8D.jpg",
+        "https://nitter.net/pic/media%2FHIsJbBcbYAApOvy.jpg",
+        "https://nitter.net/pic/media%2FHIsJbCkbMAA3Xu6.jpg"
       ]
     },
     {
-      "id": "6df0f1f4eb24f39982f223c6833878217cefa6a47622cd708d6e5807d61195a4",
+      "id": "8d10674d5e8d1d2c2a087699dd36b2d654f92f0af3dae086be3c69d7ee7bbb98",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 WAGNIR!!",
-      "text": "#ONEPIECE1183 WAGNIR!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2056457489311285509#m",
-      "date": "Mon, 18 May 2026 19:30:47 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Uy, uy, uy... A saber qué trama esta vez... #YoshiandtheMysteriousBook Video",
+      "text": "Uy, uy, uy... A saber qué trama esta vez... #YoshiandtheMysteriousBook Video",
+      "url": "https://nitter.net/NintendoES/status/2056722655089230017#m",
+      "date": "Tue, 19 May 2026 13:04:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoBH4kXwAAV8zJ.jpg"
+        "https://nitter.net/pic/media%2FHIryWrQWwAAuSU9.jpg"
       ]
     },
     {
-      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
-      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
-      "date": "Sun, 10 May 2026 18:16:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
-      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
-      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
-      "date": "Fri, 08 May 2026 17:20:58 GMT",
+      "id": "c7d32fec9fbdfd6f5fccd2cb411b5d30813b6ab44eabeebe1a81ae32e530be30",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy me ha llegado un libro que, literalmente, llevaba años buscando: se trata de “DRILL GUNDAM 00500” un doujinshi dedicado a esta mítica franquicia, con homenajes de",
+      "text": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy me ha llegado un libro que, literalmente, llevaba años buscando: se trata de “DRILL GUNDAM 00500” un doujinshi dedicado a esta mítica franquicia, con homenajes de diversos Mangakas, entre ellos Eiichiro Oda que dibujó su propio mecha 😍😍😍😍😍",
+      "url": "https://nitter.net/Mugiwara_23/status/2056714200332874053#m",
+      "date": "Tue, 19 May 2026 12:30:51 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
-        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
-        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+        "https://nitter.net/pic/media%2FHIrprFfXsAA-G6A.jpg",
+        "https://nitter.net/pic/media%2FHIrpsoHWwAMPTgo.jpg",
+        "https://nitter.net/pic/media%2FHIrpuOQXMAAsPrQ.jpg"
       ]
     },
     {
-      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
-      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
-      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
-      "date": "Fri, 08 May 2026 04:54:10 GMT",
+      "id": "5649d37b2569f2bad82014842bfdc5d636d746778feae5c1e75eb3866718e864",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Sobre ZP. Pienso lo mismo hoy que entonces. Video",
+      "text": "Sobre ZP. Pienso lo mismo hoy que entonces. Video",
+      "url": "https://nitter.net/gabrielrufian/status/2056655222122950919#m",
+      "date": "Tue, 19 May 2026 08:36:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2056655153541832704%2Fimg%2F54TTBIa-UFkCRbg6.jpg"
       ]
     },
     {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "id": "5651d23398058237204bdfd2219586d2903d42b1a533b43c34feaf86d277f909",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BORUTO THEORY‼️ BORUTO AND KAWAKI ARE THE REINCARNATIONS OF STEWARD AND EDDY OTSUTSUKI🔥😱 #BORUTO",
+      "text": "BORUTO THEORY‼️ BORUTO AND KAWAKI ARE THE REINCARNATIONS OF STEWARD AND EDDY OTSUTSUKI🔥😱 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2056748817651826822#m",
+      "date": "Tue, 19 May 2026 14:48:25 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsKJXZW4AAJudC.jpg",
+        "https://nitter.net/pic/media%2FHIsKJXXWEAEf-aB.jpg",
+        "https://nitter.net/pic/media%2FHIsKJXaXsAIpV_j.jpg"
+      ]
     },
     {
       "id": "77715db9f2c939c9030f30fc8a0cf95c6c8c7126078fa4f10fd6abf92a2e7874",
@@ -334,17 +377,49 @@
   ],
   "items": [
     {
-      "id": "93617a33ee27ea5b6a680615486f55979474e71be54ff07df4f37ad465f310fd",
+      "id": "ee2f5ee81d09dae89dae1edc5582cbf483dd312f641145e19c198c5305b719fe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME.",
+      "text": "#ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME.",
+      "url": "https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "date": "Tue, 19 May 2026 14:04:58 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
+      ]
+    },
+    {
+      "id": "8fc629c279829f941fbf245d672e837f82551b5618067a4ae79073d008fa75b2",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Good/Okay Chapter based on the spoilers, raws/eng translation might change the view of me.",
-      "text": "#ONEPIECE1183 Good/Okay Chapter based on the spoilers, raws/eng translation might change the view of me.",
-      "url": "https://nitter.net/WorstGenHQ/status/2056653030825562547#m",
-      "date": "Tue, 19 May 2026 08:27:47 GMT",
+      "title": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SP",
+      "text": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "url": "https://nitter.net/k0k1eth/status/2056744365284807038#m",
+      "date": "Tue, 19 May 2026 14:30:43 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
+      ]
+    },
+    {
+      "id": "75077d9a691d7428baee52d38f8b3fb6bffffadd82e7df96621411d15ccd0298",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Spoilers by Pew!! Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "text": "#ONEPIECE1183 Spoilers by Pew!! Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2056739675897729183#m",
+      "date": "Tue, 19 May 2026 14:12:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
+      ]
     },
     {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
@@ -359,6 +434,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
+      ]
+    },
+    {
+      "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "text": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "url": "https://nitter.net/pewpiece/status/2056757535579754825#m",
+      "date": "Tue, 19 May 2026 15:23:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsSEw6XMAAaPds.jpg"
       ]
     },
     {
@@ -423,33 +513,48 @@
       ]
     },
     {
-      "id": "4efc25ec9476fe729471964befd1359b955b5de243d0991eb8f1d32309277829",
+      "id": "97d9e17ea6d2a787772a9d61bd71b2b5a0deb27cabfd440ede90f04a11dd17b0",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE 1163 PREVIEW Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE 1163 PREVIEW Video",
-      "url": "https://nitter.net/pewpiece/status/2056023188748767344#m",
-      "date": "Sun, 17 May 2026 14:45:01 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Vibe: 🤣",
+      "text": "#ONEPIECE1183 Vibe: 🤣",
+      "url": "https://nitter.net/WorstGenHQ/status/2056743019173302514#m",
+      "date": "Tue, 19 May 2026 14:25:22 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2056023092204306433%2Fimg%2FTLcGrfagJ0wYRtr8.jpg"
+        "https://nitter.net/pic/media%2FHIsE2QdWoAAqv3O.jpg"
       ]
     },
     {
-      "id": "a41f7ee0b5425543895e7add9416136eade0e8a16df3484354d8e2c5bb5b445c",
+      "id": "2be1d120aafbfa87f551df4216d7de05fd89953bf59f51f666a78e2705218815",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The voice actress of Nami will continue to play Ran Mouri in Detective Conan after the previous voice actress sadly passed away.",
-      "text": "The voice actress of Nami will continue to play Ran Mouri in Detective Conan after the previous voice actress sadly passed away.",
-      "url": "https://nitter.net/pewpiece/status/2055214774661591279#m",
-      "date": "Fri, 15 May 2026 09:12:40 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
+      "text": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
+      "url": "https://nitter.net/WorstGenHQ/status/2056742614062215581#m",
+      "date": "Tue, 19 May 2026 14:23:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIWW8WbW0AAAkwR.jpg"
+        "https://nitter.net/pic/media%2FHIsEc2vX0AASO3s.jpg"
+      ]
+    },
+    {
+      "id": "1c5de7f4f60a7d2132527d9091894d2f17c37fb32d1a9d323f67830d855b5630",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 My guess is Dozan is the previous Nidhogg df user who fought Joyboy in the past. Later he got killed in a battle against Imu!?",
+      "text": "#ONEPIECE1183 My guess is Dozan is the previous Nidhogg df user who fought Joyboy in the past. Later he got killed in a battle against Imu!?",
+      "url": "https://nitter.net/WorstGenHQ/status/2056740372492042722#m",
+      "date": "Tue, 19 May 2026 14:14:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsCWMPXIAABSZ8.jpg"
       ]
     },
     {
@@ -466,135 +571,116 @@
       "attachments": []
     },
     {
-      "id": "80fc817c451232f68ca67cc854f1829fca3de8ab1bf1ae7b662e1ccdfecdfa2e",
+      "id": "435088e45d15a6cf4db3069f822730735f5f28784440f1ce5ca6d6e9ff0bb04c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "jewish supremacy is when muslims are killed and yet the headlines start singling out jewish institutions needing “protection” Stella Escobedo (@StellaEscoTV) 🚨 DEVELOPING 🚨 Shooting at Islamic Cente",
-      "text": "jewish supremacy is when muslims are killed and yet the headlines start singling out jewish institutions needing “protection” Stella Escobedo (@StellaEscoTV) 🚨 DEVELOPING 🚨 Shooting at Islamic Center in San Diego. All Jewish institutions are on lockdown including schools. Video — https://nitter.net/StellaEscoTV/status/2056461023196966991#m",
-      "url": "https://nitter.net/shriiyasays/status/2056477777466118537#m",
-      "date": "Mon, 18 May 2026 20:51:24 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2056752094300766512#m",
+      "date": "Tue, 19 May 2026 15:01:26 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2056460889583181825%2Fimg%2Fd0yXMz8H6s78dOpy.jpg"
+        "https://nitter.net/pic/card_img%2F2053258733460107264%2Fkcz6p0L8%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
-      "id": "a310a51233f0fa85aaa12fc253a4b7f24476e48194005734e7f28c3689e0822d",
+      "id": "948b84160a2aadb8ba213a2602b686ae57462b2abae97327478149566e97266e",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't",
-      "text": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't stop...",
-      "url": "https://nitter.net/WorstGenHQ/status/2056478137056125262#m",
-      "date": "Mon, 18 May 2026 20:52:50 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【#DQ40th まであと7日】 本日の作品はこちら！ ／ 「ドラゴンクエスト」の生みの親・堀井雄二さんの出身地・淡路島にあるアトラクション。 5周年記念イベント開催中✨ ＼",
+      "text": "【#DQ40th まであと7日】 本日の作品はこちら！ ／ 「ドラゴンクエスト」の生みの親・堀井雄二さんの出身地・淡路島にあるアトラクション。 5周年記念イベント開催中✨ ＼",
+      "url": "https://nitter.net/DQ_PR/status/2056751802121605402#m",
+      "date": "Tue, 19 May 2026 15:00:16 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoT6i7XkAAK13B.jpg"
+        "https://nitter.net/pic/media%2FHIsM2uIboAAauwh.jpg"
       ]
     },
     {
-      "id": "2bc8c49e95134aae0b03728362c1236b4b8cffa882cce0529b5aab018b56a910",
+      "id": "2e63eb6e2362f46e415c808ee7a67a2783e25a1ff190ef145d413ff663cb95a4",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "text": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "url": "https://nitter.net/WorstGenHQ/status/2056470180105011389#m",
-      "date": "Mon, 18 May 2026 20:21:12 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "THEジャンプショップで発売中のワンピースのアート商品各種！！",
+      "text": "THEジャンプショップで発売中のワンピースのアート商品各種！！",
+      "url": "https://nitter.net/guernicass4/status/2056748017538265294#m",
+      "date": "Tue, 19 May 2026 14:45:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoMt50WoAAjmxa.jpg"
+        "https://nitter.net/pic/media%2FHIsJa-tacAAbmoS.jpg",
+        "https://nitter.net/pic/media%2FHIsJbAOacAA0O8D.jpg",
+        "https://nitter.net/pic/media%2FHIsJbBcbYAApOvy.jpg",
+        "https://nitter.net/pic/media%2FHIsJbCkbMAA3Xu6.jpg"
       ]
     },
     {
-      "id": "6df0f1f4eb24f39982f223c6833878217cefa6a47622cd708d6e5807d61195a4",
+      "id": "8d10674d5e8d1d2c2a087699dd36b2d654f92f0af3dae086be3c69d7ee7bbb98",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 WAGNIR!!",
-      "text": "#ONEPIECE1183 WAGNIR!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2056457489311285509#m",
-      "date": "Mon, 18 May 2026 19:30:47 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Uy, uy, uy... A saber qué trama esta vez... #YoshiandtheMysteriousBook Video",
+      "text": "Uy, uy, uy... A saber qué trama esta vez... #YoshiandtheMysteriousBook Video",
+      "url": "https://nitter.net/NintendoES/status/2056722655089230017#m",
+      "date": "Tue, 19 May 2026 13:04:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoBH4kXwAAV8zJ.jpg"
+        "https://nitter.net/pic/media%2FHIryWrQWwAAuSU9.jpg"
       ]
     },
     {
-      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
-      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
-      "date": "Sun, 10 May 2026 18:16:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
-      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
-      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
-      "date": "Fri, 08 May 2026 17:20:58 GMT",
+      "id": "c7d32fec9fbdfd6f5fccd2cb411b5d30813b6ab44eabeebe1a81ae32e530be30",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy me ha llegado un libro que, literalmente, llevaba años buscando: se trata de “DRILL GUNDAM 00500” un doujinshi dedicado a esta mítica franquicia, con homenajes de",
+      "text": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy me ha llegado un libro que, literalmente, llevaba años buscando: se trata de “DRILL GUNDAM 00500” un doujinshi dedicado a esta mítica franquicia, con homenajes de diversos Mangakas, entre ellos Eiichiro Oda que dibujó su propio mecha 😍😍😍😍😍",
+      "url": "https://nitter.net/Mugiwara_23/status/2056714200332874053#m",
+      "date": "Tue, 19 May 2026 12:30:51 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
-        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
-        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+        "https://nitter.net/pic/media%2FHIrprFfXsAA-G6A.jpg",
+        "https://nitter.net/pic/media%2FHIrpsoHWwAMPTgo.jpg",
+        "https://nitter.net/pic/media%2FHIrpuOQXMAAsPrQ.jpg"
       ]
     },
     {
-      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
-      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
-      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
-      "date": "Fri, 08 May 2026 04:54:10 GMT",
+      "id": "5649d37b2569f2bad82014842bfdc5d636d746778feae5c1e75eb3866718e864",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Sobre ZP. Pienso lo mismo hoy que entonces. Video",
+      "text": "Sobre ZP. Pienso lo mismo hoy que entonces. Video",
+      "url": "https://nitter.net/gabrielrufian/status/2056655222122950919#m",
+      "date": "Tue, 19 May 2026 08:36:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2056655153541832704%2Fimg%2F54TTBIa-UFkCRbg6.jpg"
       ]
     },
     {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "id": "5651d23398058237204bdfd2219586d2903d42b1a533b43c34feaf86d277f909",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "BORUTO THEORY‼️ BORUTO AND KAWAKI ARE THE REINCARNATIONS OF STEWARD AND EDDY OTSUTSUKI🔥😱 #BORUTO",
+      "text": "BORUTO THEORY‼️ BORUTO AND KAWAKI ARE THE REINCARNATIONS OF STEWARD AND EDDY OTSUTSUKI🔥😱 #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2056748817651826822#m",
+      "date": "Tue, 19 May 2026 14:48:25 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsKJXZW4AAJudC.jpg",
+        "https://nitter.net/pic/media%2FHIsKJXXWEAEf-aB.jpg",
+        "https://nitter.net/pic/media%2FHIsKJXaXsAIpV_j.jpg"
+      ]
     },
     {
       "id": "77715db9f2c939c9030f30fc8a0cf95c6c8c7126078fa4f10fd6abf92a2e7874",
