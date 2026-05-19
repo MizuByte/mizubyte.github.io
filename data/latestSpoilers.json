@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T23:07:40.932Z",
+  "generatedAt": "2026-05-19T01:26:21.446Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,6 +34,94 @@
     }
   ],
   "misc": [
+    {
+      "id": "a310a51233f0fa85aaa12fc253a4b7f24476e48194005734e7f28c3689e0822d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't",
+      "text": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't stop...",
+      "url": "https://nitter.net/WorstGenHQ/status/2056478137056125262#m",
+      "date": "Mon, 18 May 2026 20:52:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIoT6i7XkAAK13B.jpg"
+      ]
+    },
+    {
+      "id": "2bc8c49e95134aae0b03728362c1236b4b8cffa882cce0529b5aab018b56a910",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 YOHOHOHOHO💀",
+      "text": "#ONEPIECE1183 YOHOHOHOHO💀",
+      "url": "https://nitter.net/WorstGenHQ/status/2056470180105011389#m",
+      "date": "Mon, 18 May 2026 20:21:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIoMt50WoAAjmxa.jpg"
+      ]
+    },
+    {
+      "id": "6df0f1f4eb24f39982f223c6833878217cefa6a47622cd708d6e5807d61195a4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 WAGNIR!!",
+      "text": "#ONEPIECE1183 WAGNIR!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2056457489311285509#m",
+      "date": "Mon, 18 May 2026 19:30:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIoBH4kXwAAV8zJ.jpg"
+      ]
+    },
+    {
+      "id": "e4eaaf9922d9d4ad2342a018fa4612b7d58a819397aaeac58250085bcf990bee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I had a dream, I fear Arsenal gonna not win tonight...",
+      "text": "I had a dream, I fear Arsenal gonna not win tonight...",
+      "url": "https://nitter.net/WorstGenHQ/status/2056432933867532632#m",
+      "date": "Mon, 18 May 2026 17:53:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4d114aeb8cbbd64cc63b8d0d9a2b03eb1f29b511b7902c508d6d592cc96fe37d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year dea",
+      "text": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year deal, JM to travel to Madrid after Real-Bilbao game. The Special One is back.",
+      "url": "https://nitter.net/FabrizioRomano/status/2056292538705649901#m",
+      "date": "Mon, 18 May 2026 08:35:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIlrKilWAAAJyi9.jpg"
+      ]
+    },
+    {
+      "id": "d876a07631dc211cfbb753e1be91ef95d903cba9b912f6f9482c170a468f7942",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, ",
+      "text": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, and the impressions on my posts have -90％plummeted... my traditional commissioned art life at risk...🥶 if you see this tweet, please commission me. 🤗 The commission pricing details will be included in the ALT section of this post. For more detailed pricing, please send me a direct message. Let's discuss it further. Thank you everyone.🙏🙏🙏",
+      "url": "https://nitter.net/tana_taka_3rder/status/2055336690684977478#m",
+      "date": "Fri, 15 May 2026 17:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIYFvVObYAAGPj8.jpg"
+      ]
+    },
     {
       "id": "bd68021dd12f2301d238b6b4b353e09a045ce102226aa2da92678955b532a58e",
       "anime": "onepiece",
@@ -127,91 +215,67 @@
       ]
     },
     {
-      "id": "a310a51233f0fa85aaa12fc253a4b7f24476e48194005734e7f28c3689e0822d",
+      "id": "cca6bc63352cf1c35a7939f823ff05fc23744bd12dee1370351cc2f46560a8a2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't",
-      "text": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't stop...",
-      "url": "https://nitter.net/WorstGenHQ/status/2056478137056125262#m",
-      "date": "Mon, 18 May 2026 20:52:50 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2003年25号からジャンプの発売日が火曜日から月曜日になって「1日早く読める！」ってめちゃくちゃ得した気分だったな はまっち (@hamaboh_manga) 1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボン",
+      "text": "2003年25号からジャンプの発売日が火曜日から月曜日になって「1日早く読める！」ってめちゃくちゃ得した気分だったな はまっち (@hamaboh_manga) 1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボンディパーク〟 2014年5月19日発売 2014年25号掲載 第747話〝最高幹部ピーカ〟 #ワンピース今日は何話の日 ↓ — https://nitter.net/hamaboh_manga/status/2056521437805170779#m",
+      "url": "https://nitter.net/hamaboh_manga/status/2056523079938105795#m",
+      "date": "Mon, 18 May 2026 23:51:25 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoT6i7XkAAK13B.jpg"
+        "https://nitter.net/pic/media%2FHIo81S5a0AAsPB_.jpg",
+        "https://nitter.net/pic/media%2FHIo7SWvaIAAHWin.jpg"
       ]
     },
     {
-      "id": "2bc8c49e95134aae0b03728362c1236b4b8cffa882cce0529b5aab018b56a910",
+      "id": "d890e4f777f7a50f5af4c58400d909dbb0dc7abf3a23cf6977d67fc6b4edbb31",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "text": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "url": "https://nitter.net/WorstGenHQ/status/2056470180105011389#m",
-      "date": "Mon, 18 May 2026 20:21:12 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボンディパーク〟 2014年5月19日発売 2014年25号掲載 第747話〝最高幹部ピーカ〟 #ワンピース今日は何話の日 ↓",
+      "text": "1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボンディパーク〟 2014年5月19日発売 2014年25号掲載 第747話〝最高幹部ピーカ〟 #ワンピース今日は何話の日 ↓",
+      "url": "https://nitter.net/hamaboh_manga/status/2056521437805170779#m",
+      "date": "Mon, 18 May 2026 23:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoMt50WoAAjmxa.jpg"
+        "https://nitter.net/pic/media%2FHIo7SWvaIAAHWin.jpg"
       ]
     },
     {
-      "id": "6df0f1f4eb24f39982f223c6833878217cefa6a47622cd708d6e5807d61195a4",
+      "id": "8448c09387183fd777a49b9065cfdc1ab2aaed18d0a3ff62d1238d66bc5a6528",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 WAGNIR!!",
-      "text": "#ONEPIECE1183 WAGNIR!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2056457489311285509#m",
-      "date": "Mon, 18 May 2026 19:30:47 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "「キングダム」連載20周年記念、各章の単行本を収録した特製ボックスセットが発売 natalie.mu/comic/news/672501 #キングダム",
+      "text": "「キングダム」連載20周年記念、各章の単行本を収録した特製ボックスセットが発売 natalie.mu/comic/news/672501 #キングダム",
+      "url": "https://nitter.net/comic_natalie/status/2056510188564431356#m",
+      "date": "Mon, 18 May 2026 23:00:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoBH4kXwAAV8zJ.jpg"
+        "https://nitter.net/pic/media%2FHIoxHbPbUAAvF0u.jpg",
+        "https://nitter.net/pic/media%2FHIoxHhqbEAAG4T_.jpg",
+        "https://nitter.net/pic/media%2FHIoxHoCbYAAI_IT.jpg"
       ]
     },
     {
-      "id": "e4eaaf9922d9d4ad2342a018fa4612b7d58a819397aaeac58250085bcf990bee",
+      "id": "2ce7b6e596524cf285df0ebf2cbafb848d7e10b0932b42570c6b5ce9c64b77c8",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I had a dream, I fear Arsenal gonna not win tonight...",
-      "text": "I had a dream, I fear Arsenal gonna not win tonight...",
-      "url": "https://nitter.net/WorstGenHQ/status/2056432933867532632#m",
-      "date": "Mon, 18 May 2026 17:53:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4d114aeb8cbbd64cc63b8d0d9a2b03eb1f29b511b7902c508d6d592cc96fe37d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year dea",
-      "text": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year deal, JM to travel to Madrid after Real-Bilbao game. The Special One is back.",
-      "url": "https://nitter.net/FabrizioRomano/status/2056292538705649901#m",
-      "date": "Mon, 18 May 2026 08:35:19 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "本日19日(火)はキングダム新刊79巻の発売日です。 どうぞ宜しくお願い致します。",
+      "text": "本日19日(火)はキングダム新刊79巻の発売日です。 どうぞ宜しくお願い致します。",
+      "url": "https://nitter.net/HaraYassa/status/2056512485822529721#m",
+      "date": "Mon, 18 May 2026 23:09:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIlrKilWAAAJyi9.jpg"
-      ]
-    },
-    {
-      "id": "d876a07631dc211cfbb753e1be91ef95d903cba9b912f6f9482c170a468f7942",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, ",
-      "text": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, and the impressions on my posts have -90％plummeted... my traditional commissioned art life at risk...🥶 if you see this tweet, please commission me. 🤗 The commission pricing details will be included in the ALT section of this post. For more detailed pricing, please send me a direct message. Let's discuss it further. Thank you everyone.🙏🙏🙏",
-      "url": "https://nitter.net/tana_taka_3rder/status/2055336690684977478#m",
-      "date": "Fri, 15 May 2026 17:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIYFvVObYAAGPj8.jpg"
+        "https://nitter.net/pic/media%2FHIozNM7a4AAVnMx.jpg",
+        "https://nitter.net/pic/media%2FHIozNOybkAAQLAj.jpg"
       ]
     },
     {
@@ -243,66 +307,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHInJZrnWMAAxBmC.jpg",
         "https://nitter.net/pic/media%2FHInK9GZWQAABlAB.jpg"
-      ]
-    },
-    {
-      "id": "30a96db3dc85d5f56dd34bad10636e80ea6b576275e1a075e22b66711e3e0931",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "筆跡が、わたしの手もとにある鳥山さん直筆の手紙のそれと完全に異なっています。あと、「前」は略字にしません。",
-      "text": "筆跡が、わたしの手もとにある鳥山さん直筆の手紙のそれと完全に異なっています。あと、「前」は略字にしません。",
-      "url": "https://nitter.net/takachihoharuka/status/2056227626373829036#m",
-      "date": "Mon, 18 May 2026 04:17:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "70e8c87a94bf011338388687a772399d5ff7e660eb13d5391ed2d50e19ca0ece",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 本日発売の週刊少年ジャンプ25号には 『DQXオンライン』バージョン8新職業の情報が! 5月21日(木)発売のVジャンプ7月特大号の ＤＱ記事も先取りチェック!! vjump.shueisha.co.jp/dqnext/",
-      "text": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 本日発売の週刊少年ジャンプ25号には 『DQXオンライン』バージョン8新職業の情報が! 5月21日(木)発売のVジャンプ7月特大号の ＤＱ記事も先取りチェック!! vjump.shueisha.co.jp/dqnext/",
-      "url": "https://nitter.net/V_Jump/status/2056283656021499905#m",
-      "date": "Mon, 18 May 2026 08:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIkbTJJakAAm7hK.jpg"
-      ]
-    },
-    {
-      "id": "cd7d6b087f7501c28167ce53ab9f465a1336f8c6e1b138ee34e0515e7a190519",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2056498701925831047#m",
-      "date": "Mon, 18 May 2026 22:14:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2053258733460107264%2Fkcz6p0L8%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "4d69784a23a9466c73dde56dda55cfb68bcb4a6298787cc1bf102524f7f80b93",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Tom Kane has sadly passed away at the age of 64. He was the iconic narrator of ‘The Clone Wars’ series as well as the voice of Yoda & Admiral Yularen. He also voiced Professor Utonium in ‘The Powerpuf",
-      "text": "Tom Kane has sadly passed away at the age of 64. He was the iconic narrator of ‘The Clone Wars’ series as well as the voice of Yoda & Admiral Yularen. He also voiced Professor Utonium in ‘The Powerpuff Girls’.",
-      "url": "https://nitter.net/DiscussingFilm/status/2056407732471689434#m",
-      "date": "Mon, 18 May 2026 16:13:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHInT7sGXsAAczkB.jpg",
-        "https://nitter.net/pic/media%2FHInT7sLWgAAvyzX.jpg",
-        "https://nitter.net/pic/media%2FHInT7sGXsAE2Jy8.jpg"
       ]
     },
     {
@@ -372,6 +376,94 @@
       ]
     },
     {
+      "id": "a310a51233f0fa85aaa12fc253a4b7f24476e48194005734e7f28c3689e0822d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't",
+      "text": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't stop...",
+      "url": "https://nitter.net/WorstGenHQ/status/2056478137056125262#m",
+      "date": "Mon, 18 May 2026 20:52:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIoT6i7XkAAK13B.jpg"
+      ]
+    },
+    {
+      "id": "2bc8c49e95134aae0b03728362c1236b4b8cffa882cce0529b5aab018b56a910",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 YOHOHOHOHO💀",
+      "text": "#ONEPIECE1183 YOHOHOHOHO💀",
+      "url": "https://nitter.net/WorstGenHQ/status/2056470180105011389#m",
+      "date": "Mon, 18 May 2026 20:21:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIoMt50WoAAjmxa.jpg"
+      ]
+    },
+    {
+      "id": "6df0f1f4eb24f39982f223c6833878217cefa6a47622cd708d6e5807d61195a4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 WAGNIR!!",
+      "text": "#ONEPIECE1183 WAGNIR!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2056457489311285509#m",
+      "date": "Mon, 18 May 2026 19:30:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIoBH4kXwAAV8zJ.jpg"
+      ]
+    },
+    {
+      "id": "e4eaaf9922d9d4ad2342a018fa4612b7d58a819397aaeac58250085bcf990bee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I had a dream, I fear Arsenal gonna not win tonight...",
+      "text": "I had a dream, I fear Arsenal gonna not win tonight...",
+      "url": "https://nitter.net/WorstGenHQ/status/2056432933867532632#m",
+      "date": "Mon, 18 May 2026 17:53:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4d114aeb8cbbd64cc63b8d0d9a2b03eb1f29b511b7902c508d6d592cc96fe37d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year dea",
+      "text": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year deal, JM to travel to Madrid after Real-Bilbao game. The Special One is back.",
+      "url": "https://nitter.net/FabrizioRomano/status/2056292538705649901#m",
+      "date": "Mon, 18 May 2026 08:35:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIlrKilWAAAJyi9.jpg"
+      ]
+    },
+    {
+      "id": "d876a07631dc211cfbb753e1be91ef95d903cba9b912f6f9482c170a468f7942",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, ",
+      "text": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, and the impressions on my posts have -90％plummeted... my traditional commissioned art life at risk...🥶 if you see this tweet, please commission me. 🤗 The commission pricing details will be included in the ALT section of this post. For more detailed pricing, please send me a direct message. Let's discuss it further. Thank you everyone.🙏🙏🙏",
+      "url": "https://nitter.net/tana_taka_3rder/status/2055336690684977478#m",
+      "date": "Fri, 15 May 2026 17:17:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIYFvVObYAAGPj8.jpg"
+      ]
+    },
+    {
       "id": "bd68021dd12f2301d238b6b4b353e09a045ce102226aa2da92678955b532a58e",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -464,91 +556,67 @@
       ]
     },
     {
-      "id": "a310a51233f0fa85aaa12fc253a4b7f24476e48194005734e7f28c3689e0822d",
+      "id": "cca6bc63352cf1c35a7939f823ff05fc23744bd12dee1370351cc2f46560a8a2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't",
-      "text": "#ONEPIECE1183 If someone had posted this picture of Ragnir to me years ago and told me he was legitimately a strong top-tier character, I would have laughed at them... The Ragnir hype train just won't stop...",
-      "url": "https://nitter.net/WorstGenHQ/status/2056478137056125262#m",
-      "date": "Mon, 18 May 2026 20:52:50 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "2003年25号からジャンプの発売日が火曜日から月曜日になって「1日早く読める！」ってめちゃくちゃ得した気分だったな はまっち (@hamaboh_manga) 1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボン",
+      "text": "2003年25号からジャンプの発売日が火曜日から月曜日になって「1日早く読める！」ってめちゃくちゃ得した気分だったな はまっち (@hamaboh_manga) 1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボンディパーク〟 2014年5月19日発売 2014年25号掲載 第747話〝最高幹部ピーカ〟 #ワンピース今日は何話の日 ↓ — https://nitter.net/hamaboh_manga/status/2056521437805170779#m",
+      "url": "https://nitter.net/hamaboh_manga/status/2056523079938105795#m",
+      "date": "Mon, 18 May 2026 23:51:25 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoT6i7XkAAK13B.jpg"
+        "https://nitter.net/pic/media%2FHIo81S5a0AAsPB_.jpg",
+        "https://nitter.net/pic/media%2FHIo7SWvaIAAHWin.jpg"
       ]
     },
     {
-      "id": "2bc8c49e95134aae0b03728362c1236b4b8cffa882cce0529b5aab018b56a910",
+      "id": "d890e4f777f7a50f5af4c58400d909dbb0dc7abf3a23cf6977d67fc6b4edbb31",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "text": "#ONEPIECE1183 YOHOHOHOHO💀",
-      "url": "https://nitter.net/WorstGenHQ/status/2056470180105011389#m",
-      "date": "Mon, 18 May 2026 20:21:12 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボンディパーク〟 2014年5月19日発売 2014年25号掲載 第747話〝最高幹部ピーカ〟 #ワンピース今日は何話の日 ↓",
+      "text": "1998年5月19日発売 1998年25号掲載 第40話 〝ウソップ海賊団〟 2003年5月19日発売 2003年25号掲載 第276話〝SHANDIA RHYTHM〟 2008年5月19日発売 2008年25号掲載 第499話〝シャボンディパーク〟 2014年5月19日発売 2014年25号掲載 第747話〝最高幹部ピーカ〟 #ワンピース今日は何話の日 ↓",
+      "url": "https://nitter.net/hamaboh_manga/status/2056521437805170779#m",
+      "date": "Mon, 18 May 2026 23:44:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoMt50WoAAjmxa.jpg"
+        "https://nitter.net/pic/media%2FHIo7SWvaIAAHWin.jpg"
       ]
     },
     {
-      "id": "6df0f1f4eb24f39982f223c6833878217cefa6a47622cd708d6e5807d61195a4",
+      "id": "8448c09387183fd777a49b9065cfdc1ab2aaed18d0a3ff62d1238d66bc5a6528",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 WAGNIR!!",
-      "text": "#ONEPIECE1183 WAGNIR!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2056457489311285509#m",
-      "date": "Mon, 18 May 2026 19:30:47 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "「キングダム」連載20周年記念、各章の単行本を収録した特製ボックスセットが発売 natalie.mu/comic/news/672501 #キングダム",
+      "text": "「キングダム」連載20周年記念、各章の単行本を収録した特製ボックスセットが発売 natalie.mu/comic/news/672501 #キングダム",
+      "url": "https://nitter.net/comic_natalie/status/2056510188564431356#m",
+      "date": "Mon, 18 May 2026 23:00:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIoBH4kXwAAV8zJ.jpg"
+        "https://nitter.net/pic/media%2FHIoxHbPbUAAvF0u.jpg",
+        "https://nitter.net/pic/media%2FHIoxHhqbEAAG4T_.jpg",
+        "https://nitter.net/pic/media%2FHIoxHoCbYAAI_IT.jpg"
       ]
     },
     {
-      "id": "e4eaaf9922d9d4ad2342a018fa4612b7d58a819397aaeac58250085bcf990bee",
+      "id": "2ce7b6e596524cf285df0ebf2cbafb848d7e10b0932b42570c6b5ce9c64b77c8",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I had a dream, I fear Arsenal gonna not win tonight...",
-      "text": "I had a dream, I fear Arsenal gonna not win tonight...",
-      "url": "https://nitter.net/WorstGenHQ/status/2056432933867532632#m",
-      "date": "Mon, 18 May 2026 17:53:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4d114aeb8cbbd64cc63b8d0d9a2b03eb1f29b511b7902c508d6d592cc96fe37d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year dea",
-      "text": "🚨 BREAKING: José Mourinho back to Real Madrid, HERE WE GO! 💣🤍 All terms have been verbally agreed between José Mourinho and Real Madrid, waiting to sign all documents. Plan for initial two year deal, JM to travel to Madrid after Real-Bilbao game. The Special One is back.",
-      "url": "https://nitter.net/FabrizioRomano/status/2056292538705649901#m",
-      "date": "Mon, 18 May 2026 08:35:19 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "本日19日(火)はキングダム新刊79巻の発売日です。 どうぞ宜しくお願い致します。",
+      "text": "本日19日(火)はキングダム新刊79巻の発売日です。 どうぞ宜しくお願い致します。",
+      "url": "https://nitter.net/HaraYassa/status/2056512485822529721#m",
+      "date": "Mon, 18 May 2026 23:09:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIlrKilWAAAJyi9.jpg"
-      ]
-    },
-    {
-      "id": "d876a07631dc211cfbb753e1be91ef95d903cba9b912f6f9482c170a468f7942",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, ",
-      "text": "🙏To all art fans around the world HELP😭 I'm Japanese traditional analog artist. I survive on commissions from clients in countries other than Japan. Recently, the situation on Twitter has worsened, and the impressions on my posts have -90％plummeted... my traditional commissioned art life at risk...🥶 if you see this tweet, please commission me. 🤗 The commission pricing details will be included in the ALT section of this post. For more detailed pricing, please send me a direct message. Let's discuss it further. Thank you everyone.🙏🙏🙏",
-      "url": "https://nitter.net/tana_taka_3rder/status/2055336690684977478#m",
-      "date": "Fri, 15 May 2026 17:17:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIYFvVObYAAGPj8.jpg"
+        "https://nitter.net/pic/media%2FHIozNM7a4AAVnMx.jpg",
+        "https://nitter.net/pic/media%2FHIozNOybkAAQLAj.jpg"
       ]
     },
     {
@@ -580,66 +648,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHInJZrnWMAAxBmC.jpg",
         "https://nitter.net/pic/media%2FHInK9GZWQAABlAB.jpg"
-      ]
-    },
-    {
-      "id": "30a96db3dc85d5f56dd34bad10636e80ea6b576275e1a075e22b66711e3e0931",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "筆跡が、わたしの手もとにある鳥山さん直筆の手紙のそれと完全に異なっています。あと、「前」は略字にしません。",
-      "text": "筆跡が、わたしの手もとにある鳥山さん直筆の手紙のそれと完全に異なっています。あと、「前」は略字にしません。",
-      "url": "https://nitter.net/takachihoharuka/status/2056227626373829036#m",
-      "date": "Mon, 18 May 2026 04:17:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "70e8c87a94bf011338388687a772399d5ff7e660eb13d5391ed2d50e19ca0ece",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 本日発売の週刊少年ジャンプ25号には 『DQXオンライン』バージョン8新職業の情報が! 5月21日(木)発売のVジャンプ7月特大号の ＤＱ記事も先取りチェック!! vjump.shueisha.co.jp/dqnext/",
-      "text": "#DQ #ドラクエ #Vジャンプ Weekly DQ Report. 更新! 【VジャンプWEB DQネクスト！】DQ最新情報＆コラムをお届け! 本日発売の週刊少年ジャンプ25号には 『DQXオンライン』バージョン8新職業の情報が! 5月21日(木)発売のVジャンプ7月特大号の ＤＱ記事も先取りチェック!! vjump.shueisha.co.jp/dqnext/",
-      "url": "https://nitter.net/V_Jump/status/2056283656021499905#m",
-      "date": "Mon, 18 May 2026 08:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIkbTJJakAAm7hK.jpg"
-      ]
-    },
-    {
-      "id": "cd7d6b087f7501c28167ce53ab9f465a1336f8c6e1b138ee34e0515e7a190519",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2056498701925831047#m",
-      "date": "Mon, 18 May 2026 22:14:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2053258733460107264%2Fkcz6p0L8%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "4d69784a23a9466c73dde56dda55cfb68bcb4a6298787cc1bf102524f7f80b93",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Tom Kane has sadly passed away at the age of 64. He was the iconic narrator of ‘The Clone Wars’ series as well as the voice of Yoda & Admiral Yularen. He also voiced Professor Utonium in ‘The Powerpuf",
-      "text": "Tom Kane has sadly passed away at the age of 64. He was the iconic narrator of ‘The Clone Wars’ series as well as the voice of Yoda & Admiral Yularen. He also voiced Professor Utonium in ‘The Powerpuff Girls’.",
-      "url": "https://nitter.net/DiscussingFilm/status/2056407732471689434#m",
-      "date": "Mon, 18 May 2026 16:13:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHInT7sGXsAAczkB.jpg",
-        "https://nitter.net/pic/media%2FHInT7sLWgAAvyzX.jpg",
-        "https://nitter.net/pic/media%2FHInT7sGXsAE2Jy8.jpg"
       ]
     },
     {
