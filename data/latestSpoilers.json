@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T20:08:26.176Z",
+  "generatedAt": "2026-05-19T21:50:09.229Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -11,21 +11,6 @@
       "text": "#ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME.",
       "url": "https://nitter.net/pewpiece/status/2056737882446950887#m",
       "date": "Tue, 19 May 2026 14:04:58 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
-      ]
-    },
-    {
-      "id": "8fc629c279829f941fbf245d672e837f82551b5618067a4ae79073d008fa75b2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SP",
-      "text": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
-      "url": "https://nitter.net/k0k1eth/status/2056744365284807038#m",
-      "date": "Tue, 19 May 2026 14:30:43 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
@@ -50,6 +35,21 @@
   ],
   "misc": [
     {
+      "id": "06f36451514f15eef5ce28640f446582197c99629018c24a2eccb1d0aef01979",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "text": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2056846906676883656#m",
+      "date": "Tue, 19 May 2026 21:18:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHItjJ98XAAAOxA4.jpg"
+      ]
+    },
+    {
       "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -110,20 +110,58 @@
       ]
     },
     {
-      "id": "dee22acc0401223b307a414143a84ff498e3f63054ea4bdc201dce68f6e67149",
+      "id": "2e59dbb24f41d4f8b231d6ee1ee29ca2e74db78af45d9cf057a33f267974d157",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
-      "text": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
-      "url": "https://nitter.net/pewpiece/status/2056027113690382601#m",
-      "date": "Sun, 17 May 2026 15:00:37 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Arsenal wins the Premier league and Tottenham with one leg about go down...",
+      "text": "Arsenal wins the Premier league and Tottenham with one leg about go down...",
+      "url": "https://nitter.net/WorstGenHQ/status/2056840414087254151#m",
+      "date": "Tue, 19 May 2026 20:52:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5d5572a27f0c153fd26854a0d8ea47c6cdd6bb88fa94afd3080f8a325904954e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ARSENAL WIN THE PREMIER LEAGUE 🏆",
+      "text": "ARSENAL WIN THE PREMIER LEAGUE 🏆",
+      "url": "https://nitter.net/brfootball/status/2056833582216204421#m",
+      "date": "Tue, 19 May 2026 20:25:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIh5WdBXcAAMqyn.jpg",
-        "https://nitter.net/pic/media%2FHIh5aZhXEAAkUaM.jpg"
+        "https://nitter.net/pic/media%2FHItSfaUXMAAbPlB.jpg"
       ]
+    },
+    {
+      "id": "3ee10a974fa888b3581cf9c9188b16f54fcda0b9d1c849ef37110302f15508eb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "WE ARE FUCKING PL CHAMPIONS OMDS I CANT EVEN BREATH, HOW DO U EVEN FUNCTION AFTER THAT 🔥 All these years of suffering and dua made every night thank you Bournemouth & Everton you shall not be forgott",
+      "text": "WE ARE FUCKING PL CHAMPIONS OMDS I CANT EVEN BREATH, HOW DO U EVEN FUNCTION AFTER THAT 🔥 All these years of suffering and dua made every night thank you Bournemouth & Everton you shall not be forgotten 😭❤️",
+      "url": "https://nitter.net/ohimetenshi/status/2056834314310959356#m",
+      "date": "Tue, 19 May 2026 20:28:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9faf0610d95bf575a8e0652faa6eedd4ef2f8b40958c19851e73aeef89486dd8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ARSENAL DID IT, THEY WON THE PREMIER LEAGUE!! What a feeling man, congrats to @ohimetenshi and all Arsenal fans out there, have fun guys. And in two weeks the Champions league final.!!",
+      "text": "ARSENAL DID IT, THEY WON THE PREMIER LEAGUE!! What a feeling man, congrats to @ohimetenshi and all Arsenal fans out there, have fun guys. And in two weeks the Champions league final.!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2056834821205209491#m",
+      "date": "Tue, 19 May 2026 20:30:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "21c41de923f1c4aa2c27acc57ca34ac0d374a92a5553ec5e7b6333ea0fe0d7d1",
@@ -152,51 +190,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "e5878ecd0a75f591b9d17ce95526b78cfed21030b9fb3fc3bbae81a74856cbf8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIEC1183] GOT IT YALL, ODA TRULY MUSIC HEAD!!! In real world, Dozan is actual person and his name is Dozan fujiwara & known as the prince of traditional Japanese music!!!! He is known to play wha",
-      "text": "[#ONEPIEC1183] GOT IT YALL, ODA TRULY MUSIC HEAD!!! In real world, Dozan is actual person and his name is Dozan fujiwara & known as the prince of traditional Japanese music!!!! He is known to play what is called Shakuhachi aka the flute. So it seem Oda is applying this music theme with the Gods.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2056756931700641918#m",
-      "date": "Tue, 19 May 2026 15:20:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsRhghWEAEvRq1.jpg"
-      ]
-    },
-    {
-      "id": "97d9e17ea6d2a787772a9d61bd71b2b5a0deb27cabfd440ede90f04a11dd17b0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Vibe: 🤣",
-      "text": "#ONEPIECE1183 Vibe: 🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2056743019173302514#m",
-      "date": "Tue, 19 May 2026 14:25:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsE2QdWoAAqv3O.jpg"
-      ]
-    },
-    {
-      "id": "2be1d120aafbfa87f551df4216d7de05fd89953bf59f51f666a78e2705218815",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
-      "text": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
-      "url": "https://nitter.net/WorstGenHQ/status/2056742614062215581#m",
-      "date": "Tue, 19 May 2026 14:23:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsEc2vX0AASO3s.jpg"
-      ]
     },
     {
       "id": "5651d23398058237204bdfd2219586d2903d42b1a533b43c34feaf86d277f909",
@@ -325,29 +318,14 @@
       ]
     },
     {
-      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "id": "d56f1d1070fd9a93eb967eaa45caf887c5e9b29b13146b68845dae90beaf34a4",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
-      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
-      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
-      "date": "Fri, 08 May 2026 04:54:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "title": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "text": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "url": "https://nitter.net/PacemanOP/status/2052615430968316057#m",
+      "date": "Fri, 08 May 2026 05:03:49 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -370,21 +348,6 @@
       ]
     },
     {
-      "id": "8fc629c279829f941fbf245d672e837f82551b5618067a4ae79073d008fa75b2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SP",
-      "text": "#ONEPIECE1183 Dozan is an Arabic boy name that means \"Rhythm\" This could very well be the real name of Joyboy rhythm = drums of liberation a connection like this Pew (@pewpiece) #ONEPIECE1183 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1183 BY ME. — https://nitter.net/pewpiece/status/2056737882446950887#m",
-      "url": "https://nitter.net/k0k1eth/status/2056744365284807038#m",
-      "date": "Tue, 19 May 2026 14:30:43 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIr_JlgWgAEAIpv.jpg"
-      ]
-    },
-    {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -397,6 +360,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
+      ]
+    },
+    {
+      "id": "06f36451514f15eef5ce28640f446582197c99629018c24a2eccb1d0aef01979",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "text": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2056846906676883656#m",
+      "date": "Tue, 19 May 2026 21:18:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHItjJ98XAAAOxA4.jpg"
       ]
     },
     {
@@ -460,20 +438,58 @@
       ]
     },
     {
-      "id": "dee22acc0401223b307a414143a84ff498e3f63054ea4bdc201dce68f6e67149",
+      "id": "2e59dbb24f41d4f8b231d6ee1ee29ca2e74db78af45d9cf057a33f267974d157",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
-      "text": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
-      "url": "https://nitter.net/pewpiece/status/2056027113690382601#m",
-      "date": "Sun, 17 May 2026 15:00:37 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Arsenal wins the Premier league and Tottenham with one leg about go down...",
+      "text": "Arsenal wins the Premier league and Tottenham with one leg about go down...",
+      "url": "https://nitter.net/WorstGenHQ/status/2056840414087254151#m",
+      "date": "Tue, 19 May 2026 20:52:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5d5572a27f0c153fd26854a0d8ea47c6cdd6bb88fa94afd3080f8a325904954e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ARSENAL WIN THE PREMIER LEAGUE 🏆",
+      "text": "ARSENAL WIN THE PREMIER LEAGUE 🏆",
+      "url": "https://nitter.net/brfootball/status/2056833582216204421#m",
+      "date": "Tue, 19 May 2026 20:25:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHIh5WdBXcAAMqyn.jpg",
-        "https://nitter.net/pic/media%2FHIh5aZhXEAAkUaM.jpg"
+        "https://nitter.net/pic/media%2FHItSfaUXMAAbPlB.jpg"
       ]
+    },
+    {
+      "id": "3ee10a974fa888b3581cf9c9188b16f54fcda0b9d1c849ef37110302f15508eb",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "WE ARE FUCKING PL CHAMPIONS OMDS I CANT EVEN BREATH, HOW DO U EVEN FUNCTION AFTER THAT 🔥 All these years of suffering and dua made every night thank you Bournemouth & Everton you shall not be forgott",
+      "text": "WE ARE FUCKING PL CHAMPIONS OMDS I CANT EVEN BREATH, HOW DO U EVEN FUNCTION AFTER THAT 🔥 All these years of suffering and dua made every night thank you Bournemouth & Everton you shall not be forgotten 😭❤️",
+      "url": "https://nitter.net/ohimetenshi/status/2056834314310959356#m",
+      "date": "Tue, 19 May 2026 20:28:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9faf0610d95bf575a8e0652faa6eedd4ef2f8b40958c19851e73aeef89486dd8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ARSENAL DID IT, THEY WON THE PREMIER LEAGUE!! What a feeling man, congrats to @ohimetenshi and all Arsenal fans out there, have fun guys. And in two weeks the Champions league final.!!",
+      "text": "ARSENAL DID IT, THEY WON THE PREMIER LEAGUE!! What a feeling man, congrats to @ohimetenshi and all Arsenal fans out there, have fun guys. And in two weeks the Champions league final.!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2056834821205209491#m",
+      "date": "Tue, 19 May 2026 20:30:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "21c41de923f1c4aa2c27acc57ca34ac0d374a92a5553ec5e7b6333ea0fe0d7d1",
@@ -502,51 +518,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "e5878ecd0a75f591b9d17ce95526b78cfed21030b9fb3fc3bbae81a74856cbf8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIEC1183] GOT IT YALL, ODA TRULY MUSIC HEAD!!! In real world, Dozan is actual person and his name is Dozan fujiwara & known as the prince of traditional Japanese music!!!! He is known to play wha",
-      "text": "[#ONEPIEC1183] GOT IT YALL, ODA TRULY MUSIC HEAD!!! In real world, Dozan is actual person and his name is Dozan fujiwara & known as the prince of traditional Japanese music!!!! He is known to play what is called Shakuhachi aka the flute. So it seem Oda is applying this music theme with the Gods.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2056756931700641918#m",
-      "date": "Tue, 19 May 2026 15:20:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsRhghWEAEvRq1.jpg"
-      ]
-    },
-    {
-      "id": "97d9e17ea6d2a787772a9d61bd71b2b5a0deb27cabfd440ede90f04a11dd17b0",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Vibe: 🤣",
-      "text": "#ONEPIECE1183 Vibe: 🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2056743019173302514#m",
-      "date": "Tue, 19 May 2026 14:25:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsE2QdWoAAqv3O.jpg"
-      ]
-    },
-    {
-      "id": "2be1d120aafbfa87f551df4216d7de05fd89953bf59f51f666a78e2705218815",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
-      "text": "#ONEPIECE1183 Imu was unable to free Gunko; she is still trapped in the ice by Ragnir!! #FEARLOKI #FEARRAGNIR 🔥🔥🔥 Source: MALIK from TalkOP and WorstGenHQ",
-      "url": "https://nitter.net/WorstGenHQ/status/2056742614062215581#m",
-      "date": "Tue, 19 May 2026 14:23:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsEc2vX0AASO3s.jpg"
-      ]
     },
     {
       "id": "5651d23398058237204bdfd2219586d2903d42b1a533b43c34feaf86d277f909",
@@ -675,29 +646,14 @@
       ]
     },
     {
-      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "id": "d56f1d1070fd9a93eb967eaa45caf887c5e9b29b13146b68845dae90beaf34a4",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
-      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
-      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
-      "date": "Fri, 08 May 2026 04:54:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "title": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "text": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "url": "https://nitter.net/PacemanOP/status/2052615430968316057#m",
+      "date": "Fri, 08 May 2026 05:03:49 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
