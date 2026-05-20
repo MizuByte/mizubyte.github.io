@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T21:47:43.069Z",
+  "generatedAt": "2026-05-20T23:00:48.173Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,81 +34,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "06f36451514f15eef5ce28640f446582197c99629018c24a2eccb1d0aef01979",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1183 More info from (@Mugiwara_23)",
-      "text": "#ONEPIECE1183 More info from (@Mugiwara_23)",
-      "url": "https://nitter.net/pewpiece/status/2056846906676883656#m",
-      "date": "Tue, 19 May 2026 21:18:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHItjJ98XAAAOxA4.jpg"
-      ]
-    },
-    {
-      "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPIECE ART OMG!!",
-      "text": "NEW OFFICIAL ONEPIECE ART OMG!!",
-      "url": "https://nitter.net/pewpiece/status/2056757535579754825#m",
-      "date": "Tue, 19 May 2026 15:23:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsSEw6XMAAaPds.jpg"
-      ]
-    },
-    {
-      "id": "4398e443e2fc19a982b68598f98678edba67dbab34b0854142cd9aa97bf8afeb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨🚨🚨 NO ONEPIECE MANGA BREAK NEXT WEEK",
-      "text": "OFFICIAL 🚨🚨🚨 NO ONEPIECE MANGA BREAK NEXT WEEK",
-      "url": "https://nitter.net/pewpiece/status/2056672681227899113#m",
-      "date": "Tue, 19 May 2026 09:45:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIrDlu8XIAA135M.jpg"
-      ]
-    },
-    {
-      "id": "bd68021dd12f2301d238b6b4b353e09a045ce102226aa2da92678955b532a58e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
-      "text": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
-      "url": "https://nitter.net/3asqColored/status/2056413892247539901#m",
-      "date": "Mon, 18 May 2026 16:37:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHInZiG_XMAAM_cS.jpg"
-      ]
-    },
-    {
-      "id": "f51796f68aba16e97c59fdaf9ed1629651b56d7d759c36f3cdf424de1725136e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "text": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "url": "https://nitter.net/pewpiece/status/2056028479280312544#m",
-      "date": "Sun, 17 May 2026 15:06:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIh63GKXkAAOcWm.jpg"
-      ]
-    },
     {
       "id": "e3f692a8988c56189da23af67fd7024eb6dfea8bfe573a9f3c45eebf0da43569",
       "anime": "onepiece",
@@ -196,6 +121,19 @@
       "attachments": []
     },
     {
+      "id": "16a2410446a1be0f50f02a794561b12263c8e7b303f4770e6c69441e55f28eaf",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Disney is proud of Ikemoto",
+      "text": "Disney is proud of Ikemoto",
+      "url": "https://nitter.net/SchmurfiV1/status/2057133516752621601#m",
+      "date": "Wed, 20 May 2026 16:17:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "cb474934d005863747a343ed40e331a16142cfae966ebb696c7c181fb97eaa9b",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -209,19 +147,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHIxn553WUAA9z_a.jpg"
       ]
-    },
-    {
-      "id": "16a2410446a1be0f50f02a794561b12263c8e7b303f4770e6c69441e55f28eaf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Disney is proud of Ikemoto",
-      "text": "Disney is proud of Ikemoto",
-      "url": "https://nitter.net/SchmurfiV1/status/2057133516752621601#m",
-      "date": "Wed, 20 May 2026 16:17:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5651d23398058237204bdfd2219586d2903d42b1a533b43c34feaf86d277f909",
@@ -287,6 +212,82 @@
         "https://nitter.net/pic/media%2FHImLDcwWoAEnQrH.jpg",
         "https://nitter.net/pic/media%2FHImLDcrW8AAnhPa.jpg",
         "https://nitter.net/pic/media%2FHImLDcoXgAA_FaY.jpg"
+      ]
+    },
+    {
+      "id": "06f36451514f15eef5ce28640f446582197c99629018c24a2eccb1d0aef01979",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "text": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2056846906676883656#m",
+      "date": "Tue, 19 May 2026 21:18:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHItjJ98XAAAOxA4.jpg"
+      ]
+    },
+    {
+      "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "text": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "url": "https://nitter.net/pewpiece/status/2056757535579754825#m",
+      "date": "Tue, 19 May 2026 15:23:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsSEw6XMAAaPds.jpg"
+      ]
+    },
+    {
+      "id": "bd68021dd12f2301d238b6b4b353e09a045ce102226aa2da92678955b532a58e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
+      "text": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
+      "url": "https://nitter.net/3asqColored/status/2056413892247539901#m",
+      "date": "Mon, 18 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHInZiG_XMAAM_cS.jpg"
+      ]
+    },
+    {
+      "id": "f51796f68aba16e97c59fdaf9ed1629651b56d7d759c36f3cdf424de1725136e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
+      "text": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
+      "url": "https://nitter.net/pewpiece/status/2056028479280312544#m",
+      "date": "Sun, 17 May 2026 15:06:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIh63GKXkAAOcWm.jpg"
+      ]
+    },
+    {
+      "id": "dee22acc0401223b307a414143a84ff498e3f63054ea4bdc201dce68f6e67149",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
+      "text": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
+      "url": "https://nitter.net/pewpiece/status/2056027113690382601#m",
+      "date": "Sun, 17 May 2026 15:00:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIh5WdBXcAAMqyn.jpg",
+        "https://nitter.net/pic/media%2FHIh5aZhXEAAkUaM.jpg"
       ]
     },
     {
@@ -367,81 +368,6 @@
       ]
     },
     {
-      "id": "06f36451514f15eef5ce28640f446582197c99629018c24a2eccb1d0aef01979",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1183 More info from (@Mugiwara_23)",
-      "text": "#ONEPIECE1183 More info from (@Mugiwara_23)",
-      "url": "https://nitter.net/pewpiece/status/2056846906676883656#m",
-      "date": "Tue, 19 May 2026 21:18:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHItjJ98XAAAOxA4.jpg"
-      ]
-    },
-    {
-      "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPIECE ART OMG!!",
-      "text": "NEW OFFICIAL ONEPIECE ART OMG!!",
-      "url": "https://nitter.net/pewpiece/status/2056757535579754825#m",
-      "date": "Tue, 19 May 2026 15:23:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIsSEw6XMAAaPds.jpg"
-      ]
-    },
-    {
-      "id": "4398e443e2fc19a982b68598f98678edba67dbab34b0854142cd9aa97bf8afeb",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨🚨🚨 NO ONEPIECE MANGA BREAK NEXT WEEK",
-      "text": "OFFICIAL 🚨🚨🚨 NO ONEPIECE MANGA BREAK NEXT WEEK",
-      "url": "https://nitter.net/pewpiece/status/2056672681227899113#m",
-      "date": "Tue, 19 May 2026 09:45:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIrDlu8XIAA135M.jpg"
-      ]
-    },
-    {
-      "id": "bd68021dd12f2301d238b6b4b353e09a045ce102226aa2da92678955b532a58e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
-      "text": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
-      "url": "https://nitter.net/3asqColored/status/2056413892247539901#m",
-      "date": "Mon, 18 May 2026 16:37:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHInZiG_XMAAM_cS.jpg"
-      ]
-    },
-    {
-      "id": "f51796f68aba16e97c59fdaf9ed1629651b56d7d759c36f3cdf424de1725136e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "text": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "url": "https://nitter.net/pewpiece/status/2056028479280312544#m",
-      "date": "Sun, 17 May 2026 15:06:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHIh63GKXkAAOcWm.jpg"
-      ]
-    },
-    {
       "id": "e3f692a8988c56189da23af67fd7024eb6dfea8bfe573a9f3c45eebf0da43569",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -528,6 +454,19 @@
       "attachments": []
     },
     {
+      "id": "16a2410446a1be0f50f02a794561b12263c8e7b303f4770e6c69441e55f28eaf",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Disney is proud of Ikemoto",
+      "text": "Disney is proud of Ikemoto",
+      "url": "https://nitter.net/SchmurfiV1/status/2057133516752621601#m",
+      "date": "Wed, 20 May 2026 16:17:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "cb474934d005863747a343ed40e331a16142cfae966ebb696c7c181fb97eaa9b",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -541,19 +480,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHIxn553WUAA9z_a.jpg"
       ]
-    },
-    {
-      "id": "16a2410446a1be0f50f02a794561b12263c8e7b303f4770e6c69441e55f28eaf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Disney is proud of Ikemoto",
-      "text": "Disney is proud of Ikemoto",
-      "url": "https://nitter.net/SchmurfiV1/status/2057133516752621601#m",
-      "date": "Wed, 20 May 2026 16:17:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5651d23398058237204bdfd2219586d2903d42b1a533b43c34feaf86d277f909",
@@ -619,6 +545,82 @@
         "https://nitter.net/pic/media%2FHImLDcwWoAEnQrH.jpg",
         "https://nitter.net/pic/media%2FHImLDcrW8AAnhPa.jpg",
         "https://nitter.net/pic/media%2FHImLDcoXgAA_FaY.jpg"
+      ]
+    },
+    {
+      "id": "06f36451514f15eef5ce28640f446582197c99629018c24a2eccb1d0aef01979",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "text": "#ONEPIECE1183 More info from (@Mugiwara_23)",
+      "url": "https://nitter.net/pewpiece/status/2056846906676883656#m",
+      "date": "Tue, 19 May 2026 21:18:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHItjJ98XAAAOxA4.jpg"
+      ]
+    },
+    {
+      "id": "93e8d66b3e13f0c6a865d84aecb48cde15d82bd2e11e113fd4ff33f221a9da68",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "text": "NEW OFFICIAL ONEPIECE ART OMG!!",
+      "url": "https://nitter.net/pewpiece/status/2056757535579754825#m",
+      "date": "Tue, 19 May 2026 15:23:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIsSEw6XMAAaPds.jpg"
+      ]
+    },
+    {
+      "id": "bd68021dd12f2301d238b6b4b353e09a045ce102226aa2da92678955b532a58e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
+      "text": "Chapter 1181 Full Colored 🔗 3asq.org/manga/one-piece-eng… #ONEPIECE1181 #ONEPIECE #3saq",
+      "url": "https://nitter.net/3asqColored/status/2056413892247539901#m",
+      "date": "Mon, 18 May 2026 16:37:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHInZiG_XMAAM_cS.jpg"
+      ]
+    },
+    {
+      "id": "f51796f68aba16e97c59fdaf9ed1629651b56d7d759c36f3cdf424de1725136e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
+      "text": "OFFICIAL 🚨🚨🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
+      "url": "https://nitter.net/pewpiece/status/2056028479280312544#m",
+      "date": "Sun, 17 May 2026 15:06:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIh63GKXkAAOcWm.jpg"
+      ]
+    },
+    {
+      "id": "dee22acc0401223b307a414143a84ff498e3f63054ea4bdc201dce68f6e67149",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
+      "text": "The voice of Louis Arnot’s is Tomohisa Aso again not brook voice actor cho (they both sounds so similar)",
+      "url": "https://nitter.net/pewpiece/status/2056027113690382601#m",
+      "date": "Sun, 17 May 2026 15:00:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIh5WdBXcAAMqyn.jpg",
+        "https://nitter.net/pic/media%2FHIh5aZhXEAAkUaM.jpg"
       ]
     },
     {
