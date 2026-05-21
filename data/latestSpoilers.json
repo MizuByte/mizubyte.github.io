@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-05-21T19:29:53.731Z",
+  "generatedAt": "2026-05-21T21:18:31.413Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "939698f3fbec888f77581af9a93605c3c30cc67c6f99ed6162e4b73adcb7e7c7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece Fans jede Woche wenn sie Spoiler von Leakern haben wollen Corporate Dudes (@corporatedudes) POV: Trying to get a job in 2026 Video — https://nitter.net/corporatedudes/status/2057312997777834",
-      "text": "One Piece Fans jede Woche wenn sie Spoiler von Leakern haben wollen Corporate Dudes (@corporatedudes) POV: Trying to get a job in 2026 Video — https://nitter.net/corporatedudes/status/2057312997777834394#m",
-      "url": "https://nitter.net/Raafey17/status/2057395765245350370#m",
-      "date": "Thu, 21 May 2026 09:39:09 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2057312947383259137%2Fimg%2FL6ZTiQfOilpNUYKw.jpg"
-      ]
-    },
     {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
       "anime": "blackclover",
@@ -35,78 +20,95 @@
   ],
   "misc": [
     {
-      "id": "28bc8c6f4a7da6a52f88f46de65bb905f3c25c0a3f537dc5cf74a5cc0eafe487",
+      "id": "cc8fd271a4f1926c2041a227a07f587e6f1ddc7a5f500cb03565788a31257158",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183",
-      "text": "#ONEPIECE1183",
-      "url": "https://nitter.net/AniKing/status/2057521311501467677#m",
-      "date": "Thu, 21 May 2026 17:58:02 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I've scanned Naoko's new artwork for the Shining Theater! These are from the clear files. #SailorMoon",
+      "text": "I've scanned Naoko's new artwork for the Shining Theater! These are from the clear files. #SailorMoon",
+      "url": "https://nitter.net/setteidreams/status/2057472722272202952#m",
+      "date": "Thu, 21 May 2026 14:44:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI3IuddWYAAV8iQ.jpg"
+        "https://nitter.net/pic/media%2FHI2cXklXsAAXzLY.jpg",
+        "https://nitter.net/pic/media%2FHI2cXkoXoAArWVQ.jpg"
       ]
     },
     {
-      "id": "5d2f3e121c4a11b7f130538665f7eb6c1b27b7ba8f2865c06d6b593a6671183e",
+      "id": "23042ec99bf558f834c9b0788205eec1eaab2df6e79d05b95653a8b52b551455",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "😭😭😭 Video",
-      "text": "😭😭😭 Video",
-      "url": "https://nitter.net/unonumero_56/status/2057464068043116711#m",
-      "date": "Thu, 21 May 2026 14:10:34 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Video",
+      "text": "Video",
+      "url": "https://nitter.net/crazytaxi/status/2057522083706662957#m",
+      "date": "Thu, 21 May 2026 18:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2057464002737733632%2Fimg%2FYYctg0Ef_lUuRg6q.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2057521968832991232%2Fimg%2FCu40t0bBfHB2QgzR.jpg"
       ]
     },
     {
-      "id": "b72dd2832d59ccc36fa0a75f068be4768230ec241fb134ae8d8f5d8310ccc1f3",
+      "id": "4e9c7d4ce0595cdcf733f1a95f702a79f9ea1ce717af76127ea620f69f88b55f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "ONE PIECE x Samurai Blue collaboration announced for Weekly Shonen Jump #26 & #27, featuring a special interview with Japan’s national football team ahead of the World Cup.",
-      "text": "ONE PIECE x Samurai Blue collaboration announced for Weekly Shonen Jump #26 & #27, featuring a special interview with Japan’s national football team ahead of the World Cup.",
-      "url": "https://nitter.net/AniKing/status/2057411220634739038#m",
-      "date": "Thu, 21 May 2026 10:40:34 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Total sales of the Nintendo Switch 2 in Japan have surpassed those of the Nintendo 64, that's 5.58m vs. 5.55m. Next up is the SEGA Saturn at 5.9m.",
+      "text": "Total sales of the Nintendo Switch 2 in Japan have surpassed those of the Nintendo 64, that's 5.58m vs. 5.55m. Next up is the SEGA Saturn at 5.9m.",
+      "url": "https://nitter.net/GameDataLibrary/status/2057497613226635657#m",
+      "date": "Thu, 21 May 2026 16:23:52 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI1kmbhWoAAN-Gc.jpg"
+        "https://nitter.net/pic/media%2FHI2w2KxW4AAJsft.jpg"
       ]
     },
     {
-      "id": "3f1b5f4c182ecc85b8623f2a36f42e9abeb57284a36087c87c7dc56da1c14305",
+      "id": "2f35de9c16564ed6eb8cf82286f226c9dbbfb753d822cc5e2793a10cd6a0adec",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Ragnir never disappoints...",
-      "text": "#ONEPIECE1183 Ragnir never disappoints...",
-      "url": "https://nitter.net/WorstGenHQ/status/2057405409971904821#m",
-      "date": "Thu, 21 May 2026 10:17:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今日発売のVジャンプ7月特大号に 『勇者アバンと獄炎の魔王』第62話が載っています！ 小さいマァムがスーパー可愛く描けました！ ぜひご覧ください！ 累計200万部突破！最新15巻発売中です！ shueisha.co.jp/books/items/c… ジャンプ+でも同時連載中！ shonenjumpplus.com/episode/9… #ドラゴンクエスト #ダイの大冒険 #勇者アバン",
+      "text": "今日発売のVジャンプ7月特大号に 『勇者アバンと獄炎の魔王』第62話が載っています！ 小さいマァムがスーパー可愛く描けました！ ぜひご覧ください！ 累計200万部突破！最新15巻発売中です！ shueisha.co.jp/books/items/c… ジャンプ+でも同時連載中！ shonenjumpplus.com/episode/9… #ドラゴンクエスト #ダイの大冒険 #勇者アバン",
+      "url": "https://nitter.net/tokiwablue21/status/2057404706952224939#m",
+      "date": "Thu, 21 May 2026 10:14:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI1fTlTWcAAlh4S.jpg"
+        "https://nitter.net/pic/media%2FHI1ejkzaAAAoICS.png",
+        "https://nitter.net/pic/media%2FHI1ekxvaAAAuL8i.jpg"
       ]
     },
     {
-      "id": "ba56f3051de261b68921e9e769af3bdd8826bb4c6da4254780c4580ddf0d1029",
+      "id": "aa1e10f7197fceb575fbf3c8e024a017c8a921c1f5a48565fbe4ac2edcb9f56c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Comment section bruhh xD.... Lo-Ping (@GamingAndPandas) \"PLEASE HARRY I'LL DO ANYTHING! I'LL FUCKING SUCK YOUR DICK! YOU WANT ME TO EAT YOUR SHIT? I'LL EAT YOUR FUCKING SHIT ON THE HOGWARTS FRONT LAWN",
-      "text": "Comment section bruhh xD.... Lo-Ping (@GamingAndPandas) \"PLEASE HARRY I'LL DO ANYTHING! I'LL FUCKING SUCK YOUR DICK! YOU WANT ME TO EAT YOUR SHIT? I'LL EAT YOUR FUCKING SHIT ON THE HOGWARTS FRONT LAWN!\" — https://nitter.net/GamingAndPandas/status/2057319236217749937#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2057381016386334731#m",
-      "date": "Thu, 21 May 2026 08:40:33 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今でも色褪せない 遊戯王の熱さと記憶！ 集英社マンガ公式CHにて 遊☆戯☆王デュエルモンスターズ 「OVERLAP」新作MVが公開されました！ 原作30周年おめでとうございます✨ Yu-Gi-Oh! fans around the world — this song still hits hard. piped.video/g6Zj_mu_QZ8 #YuGiOh #YuGiOhDM #OVERLA",
+      "text": "今でも色褪せない 遊戯王の熱さと記憶！ 集英社マンガ公式CHにて 遊☆戯☆王デュエルモンスターズ 「OVERLAP」新作MVが公開されました！ 原作30周年おめでとうございます✨ Yu-Gi-Oh! fans around the world — this song still hits hard. piped.video/g6Zj_mu_QZ8 #YuGiOh #YuGiOhDM #OVERLAP",
+      "url": "https://nitter.net/Kimeru_/status/2057403566068023681#m",
+      "date": "Thu, 21 May 2026 10:10:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI0Q1H3W8AANuxL.jpg"
+        "https://nitter.net/pic/card_img%2F2057310193021784064%2F7-yp4HOq%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "a323d0e1a8a308fa89807da83f49f87e95f9ad1e2d63e94ddb5c5c21396eb855",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Vintage pokemon art by Ken Sugimori",
+      "text": "Vintage pokemon art by Ken Sugimori",
+      "url": "https://nitter.net/pokemon_daily/status/2057217054768337119#m",
+      "date": "Wed, 20 May 2026 21:49:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIy0AloWsAAkz3Y.jpg"
       ]
     },
     {
@@ -266,21 +268,6 @@
   ],
   "items": [
     {
-      "id": "939698f3fbec888f77581af9a93605c3c30cc67c6f99ed6162e4b73adcb7e7c7",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece Fans jede Woche wenn sie Spoiler von Leakern haben wollen Corporate Dudes (@corporatedudes) POV: Trying to get a job in 2026 Video — https://nitter.net/corporatedudes/status/2057312997777834",
-      "text": "One Piece Fans jede Woche wenn sie Spoiler von Leakern haben wollen Corporate Dudes (@corporatedudes) POV: Trying to get a job in 2026 Video — https://nitter.net/corporatedudes/status/2057312997777834394#m",
-      "url": "https://nitter.net/Raafey17/status/2057395765245350370#m",
-      "date": "Thu, 21 May 2026 09:39:09 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2057312947383259137%2Fimg%2FL6ZTiQfOilpNUYKw.jpg"
-      ]
-    },
-    {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -296,78 +283,95 @@
       ]
     },
     {
-      "id": "28bc8c6f4a7da6a52f88f46de65bb905f3c25c0a3f537dc5cf74a5cc0eafe487",
+      "id": "cc8fd271a4f1926c2041a227a07f587e6f1ddc7a5f500cb03565788a31257158",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183",
-      "text": "#ONEPIECE1183",
-      "url": "https://nitter.net/AniKing/status/2057521311501467677#m",
-      "date": "Thu, 21 May 2026 17:58:02 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I've scanned Naoko's new artwork for the Shining Theater! These are from the clear files. #SailorMoon",
+      "text": "I've scanned Naoko's new artwork for the Shining Theater! These are from the clear files. #SailorMoon",
+      "url": "https://nitter.net/setteidreams/status/2057472722272202952#m",
+      "date": "Thu, 21 May 2026 14:44:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI3IuddWYAAV8iQ.jpg"
+        "https://nitter.net/pic/media%2FHI2cXklXsAAXzLY.jpg",
+        "https://nitter.net/pic/media%2FHI2cXkoXoAArWVQ.jpg"
       ]
     },
     {
-      "id": "5d2f3e121c4a11b7f130538665f7eb6c1b27b7ba8f2865c06d6b593a6671183e",
+      "id": "23042ec99bf558f834c9b0788205eec1eaab2df6e79d05b95653a8b52b551455",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "😭😭😭 Video",
-      "text": "😭😭😭 Video",
-      "url": "https://nitter.net/unonumero_56/status/2057464068043116711#m",
-      "date": "Thu, 21 May 2026 14:10:34 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Video",
+      "text": "Video",
+      "url": "https://nitter.net/crazytaxi/status/2057522083706662957#m",
+      "date": "Thu, 21 May 2026 18:01:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2057464002737733632%2Fimg%2FYYctg0Ef_lUuRg6q.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2057521968832991232%2Fimg%2FCu40t0bBfHB2QgzR.jpg"
       ]
     },
     {
-      "id": "b72dd2832d59ccc36fa0a75f068be4768230ec241fb134ae8d8f5d8310ccc1f3",
+      "id": "4e9c7d4ce0595cdcf733f1a95f702a79f9ea1ce717af76127ea620f69f88b55f",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "ONE PIECE x Samurai Blue collaboration announced for Weekly Shonen Jump #26 & #27, featuring a special interview with Japan’s national football team ahead of the World Cup.",
-      "text": "ONE PIECE x Samurai Blue collaboration announced for Weekly Shonen Jump #26 & #27, featuring a special interview with Japan’s national football team ahead of the World Cup.",
-      "url": "https://nitter.net/AniKing/status/2057411220634739038#m",
-      "date": "Thu, 21 May 2026 10:40:34 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Total sales of the Nintendo Switch 2 in Japan have surpassed those of the Nintendo 64, that's 5.58m vs. 5.55m. Next up is the SEGA Saturn at 5.9m.",
+      "text": "Total sales of the Nintendo Switch 2 in Japan have surpassed those of the Nintendo 64, that's 5.58m vs. 5.55m. Next up is the SEGA Saturn at 5.9m.",
+      "url": "https://nitter.net/GameDataLibrary/status/2057497613226635657#m",
+      "date": "Thu, 21 May 2026 16:23:52 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI1kmbhWoAAN-Gc.jpg"
+        "https://nitter.net/pic/media%2FHI2w2KxW4AAJsft.jpg"
       ]
     },
     {
-      "id": "3f1b5f4c182ecc85b8623f2a36f42e9abeb57284a36087c87c7dc56da1c14305",
+      "id": "2f35de9c16564ed6eb8cf82286f226c9dbbfb753d822cc5e2793a10cd6a0adec",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Ragnir never disappoints...",
-      "text": "#ONEPIECE1183 Ragnir never disappoints...",
-      "url": "https://nitter.net/WorstGenHQ/status/2057405409971904821#m",
-      "date": "Thu, 21 May 2026 10:17:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今日発売のVジャンプ7月特大号に 『勇者アバンと獄炎の魔王』第62話が載っています！ 小さいマァムがスーパー可愛く描けました！ ぜひご覧ください！ 累計200万部突破！最新15巻発売中です！ shueisha.co.jp/books/items/c… ジャンプ+でも同時連載中！ shonenjumpplus.com/episode/9… #ドラゴンクエスト #ダイの大冒険 #勇者アバン",
+      "text": "今日発売のVジャンプ7月特大号に 『勇者アバンと獄炎の魔王』第62話が載っています！ 小さいマァムがスーパー可愛く描けました！ ぜひご覧ください！ 累計200万部突破！最新15巻発売中です！ shueisha.co.jp/books/items/c… ジャンプ+でも同時連載中！ shonenjumpplus.com/episode/9… #ドラゴンクエスト #ダイの大冒険 #勇者アバン",
+      "url": "https://nitter.net/tokiwablue21/status/2057404706952224939#m",
+      "date": "Thu, 21 May 2026 10:14:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI1fTlTWcAAlh4S.jpg"
+        "https://nitter.net/pic/media%2FHI1ejkzaAAAoICS.png",
+        "https://nitter.net/pic/media%2FHI1ekxvaAAAuL8i.jpg"
       ]
     },
     {
-      "id": "ba56f3051de261b68921e9e769af3bdd8826bb4c6da4254780c4580ddf0d1029",
+      "id": "aa1e10f7197fceb575fbf3c8e024a017c8a921c1f5a48565fbe4ac2edcb9f56c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Comment section bruhh xD.... Lo-Ping (@GamingAndPandas) \"PLEASE HARRY I'LL DO ANYTHING! I'LL FUCKING SUCK YOUR DICK! YOU WANT ME TO EAT YOUR SHIT? I'LL EAT YOUR FUCKING SHIT ON THE HOGWARTS FRONT LAWN",
-      "text": "Comment section bruhh xD.... Lo-Ping (@GamingAndPandas) \"PLEASE HARRY I'LL DO ANYTHING! I'LL FUCKING SUCK YOUR DICK! YOU WANT ME TO EAT YOUR SHIT? I'LL EAT YOUR FUCKING SHIT ON THE HOGWARTS FRONT LAWN!\" — https://nitter.net/GamingAndPandas/status/2057319236217749937#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2057381016386334731#m",
-      "date": "Thu, 21 May 2026 08:40:33 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今でも色褪せない 遊戯王の熱さと記憶！ 集英社マンガ公式CHにて 遊☆戯☆王デュエルモンスターズ 「OVERLAP」新作MVが公開されました！ 原作30周年おめでとうございます✨ Yu-Gi-Oh! fans around the world — this song still hits hard. piped.video/g6Zj_mu_QZ8 #YuGiOh #YuGiOhDM #OVERLA",
+      "text": "今でも色褪せない 遊戯王の熱さと記憶！ 集英社マンガ公式CHにて 遊☆戯☆王デュエルモンスターズ 「OVERLAP」新作MVが公開されました！ 原作30周年おめでとうございます✨ Yu-Gi-Oh! fans around the world — this song still hits hard. piped.video/g6Zj_mu_QZ8 #YuGiOh #YuGiOhDM #OVERLAP",
+      "url": "https://nitter.net/Kimeru_/status/2057403566068023681#m",
+      "date": "Thu, 21 May 2026 10:10:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI0Q1H3W8AANuxL.jpg"
+        "https://nitter.net/pic/card_img%2F2057310193021784064%2F7-yp4HOq%3Fformat%3Djpg%26name%3D800x320_1"
+      ]
+    },
+    {
+      "id": "a323d0e1a8a308fa89807da83f49f87e95f9ad1e2d63e94ddb5c5c21396eb855",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Vintage pokemon art by Ken Sugimori",
+      "text": "Vintage pokemon art by Ken Sugimori",
+      "url": "https://nitter.net/pokemon_daily/status/2057217054768337119#m",
+      "date": "Wed, 20 May 2026 21:49:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIy0AloWsAAkz3Y.jpg"
       ]
     },
     {
