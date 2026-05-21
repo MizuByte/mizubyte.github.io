@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T21:18:31.413Z",
+  "generatedAt": "2026-05-21T22:45:36.154Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -264,6 +264,54 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "fabb61f0f4b9ce01e6c0858c707641a582481b8b428601a1047b85e531d88d31",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "22 days until Berserk returns on June 12. The wait is almost over. ⚔️🖤 #Berserk #berserk384",
+      "text": "22 days until Berserk returns on June 12. The wait is almost over. ⚔️🖤 #Berserk #berserk384",
+      "url": "https://nitter.net/daily_berserk/status/2057581089808318763#m",
+      "date": "Thu, 21 May 2026 21:55:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI3_FxiXAAAYvE1.jpg",
+        "https://nitter.net/pic/media%2FHI3_FxXXQAA7gFx.jpg"
+      ]
+    },
+    {
+      "id": "f12562d4f87ce62d829d42fa5b71cba1d5d4d1fbdd9dbf91259331826de80d98",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Link: orzgk.com/product/wu-shi-mo-…",
+      "text": "Link: orzgk.com/product/wu-shi-mo-…",
+      "url": "https://nitter.net/daily_berserk/status/2057472907035447669#m",
+      "date": "Thu, 21 May 2026 14:45:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2ctDZXAAAQbFi.jpg",
+        "https://nitter.net/pic/media%2FHI2ctDUWkAAK5P7.jpg",
+        "https://nitter.net/pic/media%2FHI2ctDTWYAAGgRs.jpg"
+      ]
+    },
+    {
+      "id": "1cbadf3fb42de77a729a8b31ec39c9fd3d13695bf6fffffe63fe2ba62d88fee9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🙈😭😨",
+      "text": "🙈😭😨",
+      "url": "https://nitter.net/daily_berserk/status/2057164056704827608#m",
+      "date": "Wed, 20 May 2026 18:18:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIyDzl0XEAAbIuL.jpg"
+      ]
     }
   ],
   "items": [
@@ -527,6 +575,54 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "fabb61f0f4b9ce01e6c0858c707641a582481b8b428601a1047b85e531d88d31",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "22 days until Berserk returns on June 12. The wait is almost over. ⚔️🖤 #Berserk #berserk384",
+      "text": "22 days until Berserk returns on June 12. The wait is almost over. ⚔️🖤 #Berserk #berserk384",
+      "url": "https://nitter.net/daily_berserk/status/2057581089808318763#m",
+      "date": "Thu, 21 May 2026 21:55:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI3_FxiXAAAYvE1.jpg",
+        "https://nitter.net/pic/media%2FHI3_FxXXQAA7gFx.jpg"
+      ]
+    },
+    {
+      "id": "f12562d4f87ce62d829d42fa5b71cba1d5d4d1fbdd9dbf91259331826de80d98",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Link: orzgk.com/product/wu-shi-mo-…",
+      "text": "Link: orzgk.com/product/wu-shi-mo-…",
+      "url": "https://nitter.net/daily_berserk/status/2057472907035447669#m",
+      "date": "Thu, 21 May 2026 14:45:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2ctDZXAAAQbFi.jpg",
+        "https://nitter.net/pic/media%2FHI2ctDUWkAAK5P7.jpg",
+        "https://nitter.net/pic/media%2FHI2ctDTWYAAGgRs.jpg"
+      ]
+    },
+    {
+      "id": "1cbadf3fb42de77a729a8b31ec39c9fd3d13695bf6fffffe63fe2ba62d88fee9",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🙈😭😨",
+      "text": "🙈😭😨",
+      "url": "https://nitter.net/daily_berserk/status/2057164056704827608#m",
+      "date": "Wed, 20 May 2026 18:18:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHIyDzl0XEAAbIuL.jpg"
+      ]
     }
   ]
 }
