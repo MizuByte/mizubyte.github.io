@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-05-23T01:30:24.203Z",
+  "generatedAt": "2026-05-23T05:26:55.249Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Vol 38 Cover Illustration #BlackClover #BCSpoiler",
+      "text": "Black Clover Vol 38 Cover Illustration #BlackClover #BCSpoiler",
+      "url": "https://nitter.net/PacemanOP/status/2058043594687361229#m",
+      "date": "Sat, 23 May 2026 04:33:24 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-jviTbcAAL-Ej.jpg"
+      ]
+    },
     {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
       "anime": "blackclover",
@@ -226,19 +241,17 @@
       ]
     },
     {
-      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "id": "d56f1d1070fd9a93eb967eaa45caf887c5e9b29b13146b68845dae90beaf34a4",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
-      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
-      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
-      "date": "Fri, 08 May 2026 04:54:10 GMT",
+      "title": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "text": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "url": "https://nitter.net/PacemanOP/status/2052615430968316057#m",
+      "date": "Fri, 08 May 2026 05:03:49 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -252,22 +265,24 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
+    {
+      "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Vol 38 Cover Illustration #BlackClover #BCSpoiler",
+      "text": "Black Clover Vol 38 Cover Illustration #BlackClover #BCSpoiler",
+      "url": "https://nitter.net/PacemanOP/status/2058043594687361229#m",
+      "date": "Sat, 23 May 2026 04:33:24 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-jviTbcAAL-Ej.jpg"
+      ]
+    },
     {
       "id": "77244280bf0f99213538c3ab99bf9acb5e0ac16b21ae73454c3fd840a3e5ab85",
       "anime": "blackclover",
@@ -490,19 +505,17 @@
       ]
     },
     {
-      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "id": "d56f1d1070fd9a93eb967eaa45caf887c5e9b29b13146b68845dae90beaf34a4",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
-      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
-      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
-      "date": "Fri, 08 May 2026 04:54:10 GMT",
+      "title": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "text": "RT @OkizemeSD: #SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale…",
+      "url": "https://nitter.net/PacemanOP/status/2052615430968316057#m",
+      "date": "Fri, 08 May 2026 05:03:49 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
@@ -513,19 +526,6 @@
       "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
       "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
       "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "179952fae917e92de30ceea641ee2d6840edda2e684dbb9d22253541e904fa33",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "text": "Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry",
-      "url": "https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "date": "Sat, 02 May 2026 07:07:10 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
