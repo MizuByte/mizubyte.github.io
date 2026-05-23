@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T19:52:47.474Z",
+  "generatedAt": "2026-05-23T20:42:31.629Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,6 +34,100 @@
     }
   ],
   "misc": [
+    {
+      "id": "e38789c2a828fa98a6d87d257e1a1856703d69eb22203ea2257af86504f33450",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【新商品】フィギュア S.H.Figuarts トニートニー・チョッパー -ドラム島- 4,400円(税込) 好評発売中！ #麦わらストア #ONEPIECE",
+      "text": "【新商品】フィギュア S.H.Figuarts トニートニー・チョッパー -ドラム島- 4,400円(税込) 好評発売中！ #麦わらストア #ONEPIECE",
+      "url": "https://nitter.net/mugistore_ike/status/2058032906136948918#m",
+      "date": "Sat, 23 May 2026 03:50:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-ZK3VbQAERa9C.jpg",
+        "https://nitter.net/pic/media%2FHI-ZLLVboAABsF5.jpg"
+      ]
+    },
+    {
+      "id": "95dee45e458f5c51246cd4529c590559e9e012602fdb556ec165510647694db0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【新商品】フィギュア S.H.Figuarts 宴セット -麦わらの一味- 5,280円(税込) 好評発売中！ ※若干数の入荷です。お品切れの場合もございます。予めご了承ください。 #麦わらストア #ONEPIECE",
+      "text": "【新商品】フィギュア S.H.Figuarts 宴セット -麦わらの一味- 5,280円(税込) 好評発売中！ ※若干数の入荷です。お品切れの場合もございます。予めご了承ください。 #麦わらストア #ONEPIECE",
+      "url": "https://nitter.net/mugistore_ike/status/2058033561555648674#m",
+      "date": "Sat, 23 May 2026 03:53:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-aW1bbwAAvTpY.jpg",
+        "https://nitter.net/pic/media%2FHI-aXIVa0AAys9e.jpg"
+      ]
+    },
+    {
+      "id": "7f4ef584b5d9575aad5de0d9686fc8674815c3d3c3d863a1cbc2045b8b47fb5d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Madrid es un sitio muy extraño : los corruptos se manifiestan contra la corrupción",
+      "text": "Madrid es un sitio muy extraño : los corruptos se manifiestan contra la corrupción",
+      "url": "https://nitter.net/anluma99/status/2058199036029460561#m",
+      "date": "Sat, 23 May 2026 14:51:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJAxHMsXkAA_NSR.jpg"
+      ]
+    },
+    {
+      "id": "b4585ce8df5d4c87ca5e9e110a48f28e26894b385be6d5631da4bd99d6ec6af5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "😂",
+      "text": "😂",
+      "url": "https://nitter.net/Torren__/status/2058253106069082375#m",
+      "date": "Sat, 23 May 2026 18:25:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBiSd5WIAAW0G9.jpg"
+      ]
+    },
+    {
+      "id": "04d7fc621c88df1195bfe03f39364cc32c29d281957a82a0c39de36d91455182",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡¡Que lo han llamado Marcha por la dignidad!!!",
+      "text": "¡¡¡Que lo han llamado Marcha por la dignidad!!!",
+      "url": "https://nitter.net/oscar_puente_/status/2058231860669419658#m",
+      "date": "Sat, 23 May 2026 17:01:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBO913XoAAA4nc.jpg",
+        "https://nitter.net/pic/media%2FHJBO914XsAAoPen.jpg",
+        "https://nitter.net/pic/media%2FHJBO913WEAAwU0D.jpg"
+      ]
+    },
+    {
+      "id": "6768c4d4036eaf9a65cba870862bb1fe5d23efb6ea4c1fae9b158bd3a109cf5f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
+      "text": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
+      "url": "https://nitter.net/UWCL/status/2058246936688230888#m",
+      "date": "Sat, 23 May 2026 18:01:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBcY2eWcAAO-tG.jpg"
+      ]
+    },
     {
       "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
       "anime": "boruto",
@@ -207,6 +301,100 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
+      ]
+    },
+    {
+      "id": "e38789c2a828fa98a6d87d257e1a1856703d69eb22203ea2257af86504f33450",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【新商品】フィギュア S.H.Figuarts トニートニー・チョッパー -ドラム島- 4,400円(税込) 好評発売中！ #麦わらストア #ONEPIECE",
+      "text": "【新商品】フィギュア S.H.Figuarts トニートニー・チョッパー -ドラム島- 4,400円(税込) 好評発売中！ #麦わらストア #ONEPIECE",
+      "url": "https://nitter.net/mugistore_ike/status/2058032906136948918#m",
+      "date": "Sat, 23 May 2026 03:50:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-ZK3VbQAERa9C.jpg",
+        "https://nitter.net/pic/media%2FHI-ZLLVboAABsF5.jpg"
+      ]
+    },
+    {
+      "id": "95dee45e458f5c51246cd4529c590559e9e012602fdb556ec165510647694db0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【新商品】フィギュア S.H.Figuarts 宴セット -麦わらの一味- 5,280円(税込) 好評発売中！ ※若干数の入荷です。お品切れの場合もございます。予めご了承ください。 #麦わらストア #ONEPIECE",
+      "text": "【新商品】フィギュア S.H.Figuarts 宴セット -麦わらの一味- 5,280円(税込) 好評発売中！ ※若干数の入荷です。お品切れの場合もございます。予めご了承ください。 #麦わらストア #ONEPIECE",
+      "url": "https://nitter.net/mugistore_ike/status/2058033561555648674#m",
+      "date": "Sat, 23 May 2026 03:53:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-aW1bbwAAvTpY.jpg",
+        "https://nitter.net/pic/media%2FHI-aXIVa0AAys9e.jpg"
+      ]
+    },
+    {
+      "id": "7f4ef584b5d9575aad5de0d9686fc8674815c3d3c3d863a1cbc2045b8b47fb5d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Madrid es un sitio muy extraño : los corruptos se manifiestan contra la corrupción",
+      "text": "Madrid es un sitio muy extraño : los corruptos se manifiestan contra la corrupción",
+      "url": "https://nitter.net/anluma99/status/2058199036029460561#m",
+      "date": "Sat, 23 May 2026 14:51:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJAxHMsXkAA_NSR.jpg"
+      ]
+    },
+    {
+      "id": "b4585ce8df5d4c87ca5e9e110a48f28e26894b385be6d5631da4bd99d6ec6af5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "😂",
+      "text": "😂",
+      "url": "https://nitter.net/Torren__/status/2058253106069082375#m",
+      "date": "Sat, 23 May 2026 18:25:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBiSd5WIAAW0G9.jpg"
+      ]
+    },
+    {
+      "id": "04d7fc621c88df1195bfe03f39364cc32c29d281957a82a0c39de36d91455182",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡¡Que lo han llamado Marcha por la dignidad!!!",
+      "text": "¡¡¡Que lo han llamado Marcha por la dignidad!!!",
+      "url": "https://nitter.net/oscar_puente_/status/2058231860669419658#m",
+      "date": "Sat, 23 May 2026 17:01:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBO913XoAAA4nc.jpg",
+        "https://nitter.net/pic/media%2FHJBO914XsAAoPen.jpg",
+        "https://nitter.net/pic/media%2FHJBO913WEAAwU0D.jpg"
+      ]
+    },
+    {
+      "id": "6768c4d4036eaf9a65cba870862bb1fe5d23efb6ea4c1fae9b158bd3a109cf5f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
+      "text": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
+      "url": "https://nitter.net/UWCL/status/2058246936688230888#m",
+      "date": "Sat, 23 May 2026 18:01:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBcY2eWcAAO-tG.jpg"
       ]
     },
     {
