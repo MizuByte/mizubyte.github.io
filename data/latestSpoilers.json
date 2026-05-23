@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:38:09.860Z",
+  "generatedAt": "2026-05-23T23:42:58.355Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,6 +34,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "b7b5759065aa06410fb0da36adb55c2e1ccbcfcb1225b86a09596b0e5d72eb85",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "This is the Way. Star Wars: The Mandalorian and Grogu is now playing only in theaters and IMAX. Illustrated by @SzarkaArt. #TheMandalorianAndGrogu",
+      "text": "This is the Way. Star Wars: The Mandalorian and Grogu is now playing only in theaters and IMAX. Illustrated by @SzarkaArt. #TheMandalorianAndGrogu",
+      "url": "https://nitter.net/starwars/status/2058268346404290706#m",
+      "date": "Sat, 23 May 2026 19:26:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBwJu7bEAAc3nU.jpg"
+      ]
+    },
     {
       "id": "e38789c2a828fa98a6d87d257e1a1856703d69eb22203ea2257af86504f33450",
       "anime": "onepiece",
@@ -111,21 +126,6 @@
         "https://nitter.net/pic/media%2FHJBO913XoAAA4nc.jpg",
         "https://nitter.net/pic/media%2FHJBO914XsAAoPen.jpg",
         "https://nitter.net/pic/media%2FHJBO913WEAAwU0D.jpg"
-      ]
-    },
-    {
-      "id": "6768c4d4036eaf9a65cba870862bb1fe5d23efb6ea4c1fae9b158bd3a109cf5f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
-      "text": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
-      "url": "https://nitter.net/UWCL/status/2058246936688230888#m",
-      "date": "Sat, 23 May 2026 18:01:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJBcY2eWcAAO-tG.jpg"
       ]
     },
     {
@@ -304,6 +304,21 @@
       ]
     },
     {
+      "id": "b7b5759065aa06410fb0da36adb55c2e1ccbcfcb1225b86a09596b0e5d72eb85",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "This is the Way. Star Wars: The Mandalorian and Grogu is now playing only in theaters and IMAX. Illustrated by @SzarkaArt. #TheMandalorianAndGrogu",
+      "text": "This is the Way. Star Wars: The Mandalorian and Grogu is now playing only in theaters and IMAX. Illustrated by @SzarkaArt. #TheMandalorianAndGrogu",
+      "url": "https://nitter.net/starwars/status/2058268346404290706#m",
+      "date": "Sat, 23 May 2026 19:26:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJBwJu7bEAAc3nU.jpg"
+      ]
+    },
+    {
       "id": "e38789c2a828fa98a6d87d257e1a1856703d69eb22203ea2257af86504f33450",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -380,21 +395,6 @@
         "https://nitter.net/pic/media%2FHJBO913XoAAA4nc.jpg",
         "https://nitter.net/pic/media%2FHJBO914XsAAoPen.jpg",
         "https://nitter.net/pic/media%2FHJBO913WEAAwU0D.jpg"
-      ]
-    },
-    {
-      "id": "6768c4d4036eaf9a65cba870862bb1fe5d23efb6ea4c1fae9b158bd3a109cf5f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
-      "text": "🔵🔴 Barcelona are #UWCL champions for a fourth time 👏 #UWCLfinal || @FCBfemeni",
-      "url": "https://nitter.net/UWCL/status/2058246936688230888#m",
-      "date": "Sat, 23 May 2026 18:01:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJBcY2eWcAAO-tG.jpg"
       ]
     },
     {
