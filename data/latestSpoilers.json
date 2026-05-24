@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T20:48:30.788Z",
+  "generatedAt": "2026-05-24T21:41:52.501Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -49,6 +49,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "23b1d62f7efc702bd7526d5abacb6f22b3c6dbf8303cc6a748f3eda4e30c7a94",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Mf really lost champions league seat to Como, everyone responsible must resign. What kind of performance was that in the end, anyway? It’s unacceptable...",
+      "text": "Mf really lost champions league seat to Como, everyone responsible must resign. What kind of performance was that in the end, anyway? It’s unacceptable...",
+      "url": "https://nitter.net/WorstGenHQ/status/2058658198194659718#m",
+      "date": "Sun, 24 May 2026 21:15:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJHSs0kWYAAY6sG.jpg"
+      ]
+    },
     {
       "id": "8ef6aca5420f8ffc227095982837dc2c98422df6dadad2fb0ce1ebe325cfec7e",
       "anime": "onepiece",
@@ -120,19 +135,6 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2058455995089620993%2Fimg%2F3CBLYivpPQoXwLqJ.jpg"
       ]
-    },
-    {
-      "id": "df26e56323a341bfc72ee31269029ef1766fab3a692ccd7f6050629e08f1d509",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "text": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "url": "https://nitter.net/WorstGenHQ/status/2058198956329332750#m",
-      "date": "Sat, 23 May 2026 14:50:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "eb57f4add853a563678ea8cc92851c77be75468e22459b75508247aad4ae662c",
@@ -389,6 +391,21 @@
       ]
     },
     {
+      "id": "23b1d62f7efc702bd7526d5abacb6f22b3c6dbf8303cc6a748f3eda4e30c7a94",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Mf really lost champions league seat to Como, everyone responsible must resign. What kind of performance was that in the end, anyway? It’s unacceptable...",
+      "text": "Mf really lost champions league seat to Como, everyone responsible must resign. What kind of performance was that in the end, anyway? It’s unacceptable...",
+      "url": "https://nitter.net/WorstGenHQ/status/2058658198194659718#m",
+      "date": "Sun, 24 May 2026 21:15:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJHSs0kWYAAY6sG.jpg"
+      ]
+    },
+    {
       "id": "8ef6aca5420f8ffc227095982837dc2c98422df6dadad2fb0ce1ebe325cfec7e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -459,19 +476,6 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2058455995089620993%2Fimg%2F3CBLYivpPQoXwLqJ.jpg"
       ]
-    },
-    {
-      "id": "df26e56323a341bfc72ee31269029ef1766fab3a692ccd7f6050629e08f1d509",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "text": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "url": "https://nitter.net/WorstGenHQ/status/2058198956329332750#m",
-      "date": "Sat, 23 May 2026 14:50:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "eb57f4add853a563678ea8cc92851c77be75468e22459b75508247aad4ae662c",
