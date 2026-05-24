@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-05-24T16:43:49.550Z",
+  "generatedAt": "2026-05-24T17:43:14.116Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
-      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
-      "date": "Sun, 24 May 2026 11:16:29 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
-      ]
-    },
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
@@ -45,98 +30,26 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
+      ]
+    },
+    {
+      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
+      "date": "Sun, 24 May 2026 11:16:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
       ]
     }
   ],
   "misc": [
     {
-      "id": "e72574286e6b71d9ce498c5123e53c36e661969d4b2087a2c3d8e13d7890f554",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you wa",
-      "text": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you want. :) (I can easily imagine Oda doing the same.)",
-      "url": "https://nitter.net/WorstGenHQ/status/2058584257363075389#m",
-      "date": "Sun, 24 May 2026 16:21:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "47d0a25a407eb72f72ad701bdf12899a07bf4c4dda3f9700cacd10a923d6aff2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
-      "text": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
-      "url": "https://nitter.net/crmbelediyesi/status/2058456234894692407#m",
-      "date": "Sun, 24 May 2026 07:53:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2058455995089620993%2Fimg%2F3CBLYivpPQoXwLqJ.jpg"
-      ]
-    },
-    {
-      "id": "df26e56323a341bfc72ee31269029ef1766fab3a692ccd7f6050629e08f1d509",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "text": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "url": "https://nitter.net/WorstGenHQ/status/2058198956329332750#m",
-      "date": "Sat, 23 May 2026 14:50:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c0664c3897533fd84d3171a8019f65dad8c2b99e32eebbfd59aceaaee800bd9a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
-      "text": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
-      "url": "https://nitter.net/pewpiece/status/2058148218228105613#m",
-      "date": "Sat, 23 May 2026 11:29:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJAC4xAXoAA_Y5g.jpg"
-      ]
-    },
-    {
-      "id": "36730e98799b2532bb8a299debfd6a88399a6f8475c1e2d8907a63417ec1e9b9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same c",
-      "text": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same castle as we see in Thriller Bark!",
-      "url": "https://nitter.net/3SkullJoe/status/2058043365984210962#m",
-      "date": "Sat, 23 May 2026 04:32:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHI-iimkXoAACdFx.png",
-        "https://nitter.net/pic/media%2FHI-hlxPWQAE2kx3.png",
-        "https://nitter.net/pic/media%2FHI-iYVSWIAAUVj7.png",
-        "https://nitter.net/pic/media%2FHI-jNCQXcAMUvAB.png"
-      ]
-    },
-    {
-      "id": "9ba7111a69b2ada4a19d3778a65ba2b0d040fad5f22ad35ad101fcb67582790d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 My brother just came up with the idea that Thriller Bark could be the remnants of the Esperia Kingdom. We are actually discussing it right now, and he's putting some ideas together about",
-      "text": "#ONEPIECE1183 My brother just came up with the idea that Thriller Bark could be the remnants of the Esperia Kingdom. We are actually discussing it right now, and he's putting some ideas together about it. What do you guys think? What are the chances of this being true?",
-      "url": "https://nitter.net/WorstGenHQ/status/2058145672268853459#m",
-      "date": "Sat, 23 May 2026 11:19:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "904f375f81591bcf2e1c4a422c9f6f9eaae68e9284da3e052fb40b64e6fc7310",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -228,74 +141,94 @@
       ]
     },
     {
-      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
-      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
-      "date": "Sun, 24 May 2026 11:18:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
-      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
-      "date": "Thu, 21 May 2026 18:08:14 GMT",
+      "id": "1c7c85b1a9ecb9aafb2a10ace2afd08a451ddafb594dddc4558c858ed1156294",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#OnePiece #OnePiece1183 Attention span of a hamster Brody Hody (@brody_hody) Ironically the people who usually complain about Odas paneling haven’t complained about the spread at the end of the chapte",
+      "text": "#OnePiece #OnePiece1183 Attention span of a hamster Brody Hody (@brody_hody) Ironically the people who usually complain about Odas paneling haven’t complained about the spread at the end of the chapter. It’s funny cause the paneling here is truly….😶😭😭 Genuinely “random bullshit go!” as paneling ✌️😭 #ONEPIECE1183 — https://nitter.net/brody_hody/status/2058263700692140439#m",
+      "url": "https://nitter.net/writingpanini/status/2058514421907947946#m",
+      "date": "Sun, 24 May 2026 11:44:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
-        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+        "https://nitter.net/pic/media%2FHJFP7tfXMAA4yUF.jpg",
+        "https://nitter.net/pic/media%2FHJBr7SpWsAA7sbz.jpg"
       ]
     },
     {
-      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
-      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
-      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "id": "e72574286e6b71d9ce498c5123e53c36e661969d4b2087a2c3d8e13d7890f554",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you wa",
+      "text": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you want. :) (I can easily imagine Oda doing the same.)",
+      "url": "https://nitter.net/WorstGenHQ/status/2058584257363075389#m",
+      "date": "Sun, 24 May 2026 16:21:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "47d0a25a407eb72f72ad701bdf12899a07bf4c4dda3f9700cacd10a923d6aff2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
+      "text": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
+      "url": "https://nitter.net/crmbelediyesi/status/2058456234894692407#m",
+      "date": "Sun, 24 May 2026 07:53:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2058455995089620993%2Fimg%2F3CBLYivpPQoXwLqJ.jpg"
       ]
     },
     {
-      "id": "9df9ce1466977f1d546d3ba3ee6dca476798641c88cf9dc1dbc6dc69cbfc4f18",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Ikemoto really has to slap his meat and slam his balls on the table and start putting some emotions into the story or instead Boruto TBV won’t get any huge reactions from outside the Manga fanbase… An",
-      "text": "Ikemoto really has to slap his meat and slam his balls on the table and start putting some emotions into the story or instead Boruto TBV won’t get any huge reactions from outside the Manga fanbase… And I don’t think that this is his or Kishimoto’s goal for Boruto TBV…🤷🏻‍♂️",
-      "url": "https://nitter.net/SchmurfiV1/status/2057394490726338845#m",
-      "date": "Thu, 21 May 2026 09:34:05 GMT",
+      "id": "df26e56323a341bfc72ee31269029ef1766fab3a692ccd7f6050629e08f1d509",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
+      "text": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058198956329332750#m",
+      "date": "Sat, 23 May 2026 14:50:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "6d129494692532daea7ee7701916ab27c9f7b66609a236264cc4668f4e2054ef",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You would think every child there is the son or daughter of Goku, Vegeta or Saber? But instead those are children of some random characters we don’t know (Sumire and her parents) and fucking InoShikaC",
-      "text": "You would think every child there is the son or daughter of Goku, Vegeta or Saber? But instead those are children of some random characters we don’t know (Sumire and her parents) and fucking InoShikaCho😭😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2057394488184623244#m",
-      "date": "Thu, 21 May 2026 09:34:05 GMT",
+      "id": "c0664c3897533fd84d3171a8019f65dad8c2b99e32eebbfd59aceaaee800bd9a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
+      "text": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
+      "url": "https://nitter.net/pewpiece/status/2058148218228105613#m",
+      "date": "Sat, 23 May 2026 11:29:08 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJAC4xAXoAA_Y5g.jpg"
+      ]
+    },
+    {
+      "id": "36730e98799b2532bb8a299debfd6a88399a6f8475c1e2d8907a63417ec1e9b9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same c",
+      "text": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same castle as we see in Thriller Bark!",
+      "url": "https://nitter.net/3SkullJoe/status/2058043365984210962#m",
+      "date": "Sat, 23 May 2026 04:32:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-iimkXoAACdFx.png",
+        "https://nitter.net/pic/media%2FHI-hlxPWQAE2kx3.png",
+        "https://nitter.net/pic/media%2FHI-iYVSWIAAUVj7.png",
+        "https://nitter.net/pic/media%2FHI-jNCQXcAMUvAB.png"
+      ]
     },
     {
       "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
@@ -341,24 +274,84 @@
         "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
         "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
       ]
-    }
-  ],
-  "items": [
+    },
     {
-      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
+      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
+      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
+      "date": "Fri, 08 May 2026 04:54:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
+      ]
+    },
+    {
+      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
       "anime": "boruto",
       "handle": "schmurfiv1",
       "sourceLabel": "Boruto",
-      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
-      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
-      "date": "Sun, 24 May 2026 11:16:29 GMT",
-      "isSpoiler": true,
+      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
+      "date": "Sun, 24 May 2026 11:18:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
+      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
+      "date": "Thu, 21 May 2026 18:08:14 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
+        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
+        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
       ]
     },
+    {
+      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
+      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+      ]
+    },
+    {
+      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
+      "date": "Thu, 21 May 2026 09:34:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
+        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
+      ]
+    }
+  ],
+  "items": [
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
@@ -390,91 +383,19 @@
       ]
     },
     {
-      "id": "e72574286e6b71d9ce498c5123e53c36e661969d4b2087a2c3d8e13d7890f554",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you wa",
-      "text": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you want. :) (I can easily imagine Oda doing the same.)",
-      "url": "https://nitter.net/WorstGenHQ/status/2058584257363075389#m",
-      "date": "Sun, 24 May 2026 16:21:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "47d0a25a407eb72f72ad701bdf12899a07bf4c4dda3f9700cacd10a923d6aff2",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
-      "text": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
-      "url": "https://nitter.net/crmbelediyesi/status/2058456234894692407#m",
-      "date": "Sun, 24 May 2026 07:53:05 GMT",
-      "isSpoiler": false,
+      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
+      "date": "Sun, 24 May 2026 11:16:29 GMT",
+      "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2058455995089620993%2Fimg%2F3CBLYivpPQoXwLqJ.jpg"
+        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
       ]
-    },
-    {
-      "id": "df26e56323a341bfc72ee31269029ef1766fab3a692ccd7f6050629e08f1d509",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "text": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
-      "url": "https://nitter.net/WorstGenHQ/status/2058198956329332750#m",
-      "date": "Sat, 23 May 2026 14:50:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c0664c3897533fd84d3171a8019f65dad8c2b99e32eebbfd59aceaaee800bd9a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
-      "text": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
-      "url": "https://nitter.net/pewpiece/status/2058148218228105613#m",
-      "date": "Sat, 23 May 2026 11:29:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJAC4xAXoAA_Y5g.jpg"
-      ]
-    },
-    {
-      "id": "36730e98799b2532bb8a299debfd6a88399a6f8475c1e2d8907a63417ec1e9b9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same c",
-      "text": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same castle as we see in Thriller Bark!",
-      "url": "https://nitter.net/3SkullJoe/status/2058043365984210962#m",
-      "date": "Sat, 23 May 2026 04:32:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHI-iimkXoAACdFx.png",
-        "https://nitter.net/pic/media%2FHI-hlxPWQAE2kx3.png",
-        "https://nitter.net/pic/media%2FHI-iYVSWIAAUVj7.png",
-        "https://nitter.net/pic/media%2FHI-jNCQXcAMUvAB.png"
-      ]
-    },
-    {
-      "id": "9ba7111a69b2ada4a19d3778a65ba2b0d040fad5f22ad35ad101fcb67582790d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 My brother just came up with the idea that Thriller Bark could be the remnants of the Esperia Kingdom. We are actually discussing it right now, and he's putting some ideas together about",
-      "text": "#ONEPIECE1183 My brother just came up with the idea that Thriller Bark could be the remnants of the Esperia Kingdom. We are actually discussing it right now, and he's putting some ideas together about it. What do you guys think? What are the chances of this being true?",
-      "url": "https://nitter.net/WorstGenHQ/status/2058145672268853459#m",
-      "date": "Sat, 23 May 2026 11:19:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "904f375f81591bcf2e1c4a422c9f6f9eaae68e9284da3e052fb40b64e6fc7310",
@@ -568,74 +489,94 @@
       ]
     },
     {
-      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
-      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
-      "date": "Sun, 24 May 2026 11:18:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
-      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
-      "date": "Thu, 21 May 2026 18:08:14 GMT",
+      "id": "1c7c85b1a9ecb9aafb2a10ace2afd08a451ddafb594dddc4558c858ed1156294",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#OnePiece #OnePiece1183 Attention span of a hamster Brody Hody (@brody_hody) Ironically the people who usually complain about Odas paneling haven’t complained about the spread at the end of the chapte",
+      "text": "#OnePiece #OnePiece1183 Attention span of a hamster Brody Hody (@brody_hody) Ironically the people who usually complain about Odas paneling haven’t complained about the spread at the end of the chapter. It’s funny cause the paneling here is truly….😶😭😭 Genuinely “random bullshit go!” as paneling ✌️😭 #ONEPIECE1183 — https://nitter.net/brody_hody/status/2058263700692140439#m",
+      "url": "https://nitter.net/writingpanini/status/2058514421907947946#m",
+      "date": "Sun, 24 May 2026 11:44:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
-        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+        "https://nitter.net/pic/media%2FHJFP7tfXMAA4yUF.jpg",
+        "https://nitter.net/pic/media%2FHJBr7SpWsAA7sbz.jpg"
       ]
     },
     {
-      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
-      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
-      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "id": "e72574286e6b71d9ce498c5123e53c36e661969d4b2087a2c3d8e13d7890f554",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you wa",
+      "text": "For the good of all manga artists: Don't create an official social media account here and don't interact with the fans, it can only be detrimental. Instead, create a private account and do what you want. :) (I can easily imagine Oda doing the same.)",
+      "url": "https://nitter.net/WorstGenHQ/status/2058584257363075389#m",
+      "date": "Sun, 24 May 2026 16:21:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "47d0a25a407eb72f72ad701bdf12899a07bf4c4dda3f9700cacd10a923d6aff2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
+      "text": "Konya yolundayız 🚌 Kupayı alıp geliyoruz ♥️🖤 #Son90 #HefefSüperLig #ArcaÇorumFK Video",
+      "url": "https://nitter.net/crmbelediyesi/status/2058456234894692407#m",
+      "date": "Sun, 24 May 2026 07:53:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2058455995089620993%2Fimg%2F3CBLYivpPQoXwLqJ.jpg"
       ]
     },
     {
-      "id": "9df9ce1466977f1d546d3ba3ee6dca476798641c88cf9dc1dbc6dc69cbfc4f18",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Ikemoto really has to slap his meat and slam his balls on the table and start putting some emotions into the story or instead Boruto TBV won’t get any huge reactions from outside the Manga fanbase… An",
-      "text": "Ikemoto really has to slap his meat and slam his balls on the table and start putting some emotions into the story or instead Boruto TBV won’t get any huge reactions from outside the Manga fanbase… And I don’t think that this is his or Kishimoto’s goal for Boruto TBV…🤷🏻‍♂️",
-      "url": "https://nitter.net/SchmurfiV1/status/2057394490726338845#m",
-      "date": "Thu, 21 May 2026 09:34:05 GMT",
+      "id": "df26e56323a341bfc72ee31269029ef1766fab3a692ccd7f6050629e08f1d509",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
+      "text": "Wer ist oder war heute alles beim Japan Tag in Düsseldorf? Hier ist es echt schon überall richtig voll.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058198956329332750#m",
+      "date": "Sat, 23 May 2026 14:50:45 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "6d129494692532daea7ee7701916ab27c9f7b66609a236264cc4668f4e2054ef",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "You would think every child there is the son or daughter of Goku, Vegeta or Saber? But instead those are children of some random characters we don’t know (Sumire and her parents) and fucking InoShikaC",
-      "text": "You would think every child there is the son or daughter of Goku, Vegeta or Saber? But instead those are children of some random characters we don’t know (Sumire and her parents) and fucking InoShikaCho😭😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2057394488184623244#m",
-      "date": "Thu, 21 May 2026 09:34:05 GMT",
+      "id": "c0664c3897533fd84d3171a8019f65dad8c2b99e32eebbfd59aceaaee800bd9a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
+      "text": "One Piece former anime director Tatsuya Nagamine won the Global Impact Award He passed away in August 2025 due to illness.",
+      "url": "https://nitter.net/pewpiece/status/2058148218228105613#m",
+      "date": "Sat, 23 May 2026 11:29:08 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJAC4xAXoAA_Y5g.jpg"
+      ]
+    },
+    {
+      "id": "36730e98799b2532bb8a299debfd6a88399a6f8475c1e2d8907a63417ec1e9b9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same c",
+      "text": "#ONEPIECE1183 Something that we've all been overlooking. Brook said back in Thriller Bark arc that Thriller Bark is an island originating from his homeland. The castle of Esperia kingdom is the same castle as we see in Thriller Bark!",
+      "url": "https://nitter.net/3SkullJoe/status/2058043365984210962#m",
+      "date": "Sat, 23 May 2026 04:32:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI-iimkXoAACdFx.png",
+        "https://nitter.net/pic/media%2FHI-hlxPWQAE2kx3.png",
+        "https://nitter.net/pic/media%2FHI-iYVSWIAAUVj7.png",
+        "https://nitter.net/pic/media%2FHI-jNCQXcAMUvAB.png"
+      ]
     },
     {
       "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
@@ -680,6 +621,81 @@
         "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
         "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
         "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+      ]
+    },
+    {
+      "id": "ca264c0c56ecb098854e71473cbc1ab05bc4a4c2c7afcad158bf61d7dd61c5b0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. ",
+      "text": "#SD258 #SAKAMOTODAYS258 suzuki fucking delivered this chapter I’m really really convinced this fight has been a big upscale from gozu vs shishiba and it seems like tenkyu is still the same as before. the choreography just went straight up at the end thanks suzuki ; )",
+      "url": "https://nitter.net/OkizemeSD/status/2052613004118618258#m",
+      "date": "Fri, 08 May 2026 04:54:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
+      ]
+    },
+    {
+      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
+      "date": "Sun, 24 May 2026 11:18:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
+      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
+      "date": "Thu, 21 May 2026 18:08:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
+        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+      ]
+    },
+    {
+      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
+      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+      ]
+    },
+    {
+      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
+      "date": "Thu, 21 May 2026 09:34:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
+        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
       ]
     }
   ]
