@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T16:35:58.295Z",
+  "generatedAt": "2026-05-26T19:09:42.535Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -61,6 +61,19 @@
   ],
   "misc": [
     {
+      "id": "fe347d11a25b479181873e9fe5021e75ccb552c5a24536d32f91389235ea5de8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Was hot today in germany, swimming was the best choice...😭",
+      "text": "Was hot today in germany, swimming was the best choice...😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2059350879950565730#m",
+      "date": "Tue, 26 May 2026 19:08:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "06252bccf68b220f88575865dbdd1f1479addf84d44915342cf896c4ec723233",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -104,21 +117,96 @@
       ]
     },
     {
-      "id": "1fac9d2ba408bb13d082eb27f907f24a2e8ba4d2622056a4916e3641c0ea17ee",
+      "id": "48099fe93436d35df7d994a17e8fd2d9e9a91ccd4af44e596fb72993d83cdb99",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Candelle could be doing the same thing Garling did at God Valley. After gaining influence in the kingdom, she may have recommended Esperia for the next hunting games to the Gorosei, and after it ended",
-      "text": "Candelle could be doing the same thing Garling did at God Valley. After gaining influence in the kingdom, she may have recommended Esperia for the next hunting games to the Gorosei, and after it ended, took Gunko to Marijoa and turned her into a Holy Knight? #ONEPIECE1183",
-      "url": "https://nitter.net/RomPieceG5/status/2058764930631815369#m",
-      "date": "Mon, 25 May 2026 04:19:44 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No.421、原稿完成。 仮歯割れました。",
+      "text": "No.421、原稿完成。 仮歯割れました。",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2059299316800569524#m",
+      "date": "Tue, 26 May 2026 15:43:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJIzSElWQAABVaz.jpg",
-        "https://nitter.net/pic/media%2FHJIzTpEWcAAjm2H.jpg",
-        "https://nitter.net/pic/media%2FHJIzVCNXsAA6rWc.jpg",
-        "https://nitter.net/pic/media%2FHJIzV8uW4AERDat.jpg"
+        "https://nitter.net/pic/media%2FHJQZz02a4AAuXBE.jpg"
+      ]
+    },
+    {
+      "id": "d4babcaf6a37f96a96fca7a129f9e77602db55933537668595b8642ea2d1de98",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
+      "text": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
+      "url": "https://nitter.net/Pixar/status/2059303689987428498#m",
+      "date": "Tue, 26 May 2026 16:00:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQaGHqakAABio8.jpg"
+      ]
+    },
+    {
+      "id": "f75cc680236ca705e86aa1bf2b109333856a4dc572275786b4c4951503a7224d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcci",
+      "text": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcciones en nuestra web), Amazon o en nuestra tienda online La Comiquería.",
+      "url": "https://nitter.net/Ivrea/status/2059295564282421339#m",
+      "date": "Tue, 26 May 2026 15:28:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQWYTbXsAAQoYJ.jpg"
+      ]
+    },
+    {
+      "id": "df5fe10cb4b0a5b49b522d3f94516196b965a7df21546aa0d094c87b496797c7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in",
+      "text": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in Japan!",
+      "url": "https://nitter.net/DragonQuest/status/2059288719258247248#m",
+      "date": "Tue, 26 May 2026 15:01:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQP8mvagAAnMvh.jpg",
+        "https://nitter.net/pic/media%2FHJQP8nUbMAAtJWd.jpg",
+        "https://nitter.net/pic/media%2FHJQP8o4bUAAQqQe.jpg",
+        "https://nitter.net/pic/media%2FHJQP8nLboAAcceo.jpg"
+      ]
+    },
+    {
+      "id": "92fb085fea2f846a7ff6bbdf9e39622a0a948a8d192708234ba9a46e32ca41a1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
+      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
+      "url": "https://nitter.net/GrandMaster2048/status/2059289034594427300#m",
+      "date": "Tue, 26 May 2026 15:02:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2059288973189808128%2Fimg%2FoZCdDPlXRj7Hb3_I.jpg"
+      ]
+    },
+    {
+      "id": "32bc54a5e37c08d8f66c630b8eb279a6cc64f1c93db145a3b0f3d728ea9091e9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
+      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
+      "url": "https://nitter.net/GrandMaster2048/status/2059289111819911429#m",
+      "date": "Tue, 26 May 2026 15:02:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQQiHebQAAhdah.jpg"
       ]
     },
     {
@@ -210,21 +298,6 @@
       ]
     },
     {
-      "id": "042c2a59a40e5cfb6043d540c42fcac7834392ca36ea96a9341425cfc307ac1f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Reply to this tweet with a GIF from your favorite anime Video",
-      "text": "Reply to this tweet with a GIF from your favorite anime Video",
-      "url": "https://nitter.net/daily_berserk/status/2059023954292166663#m",
-      "date": "Mon, 25 May 2026 21:29:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2058543154844897280%2Fimg%2FIUrirFmi4euPkEMk.jpg"
-      ]
-    },
-    {
       "id": "d3a77bb221085824a98143d08f373c9b26c9ced9bb28c434b33142b07cf88114",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -266,6 +339,23 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "0eb8b02b6aba48cbc81a229d4ea66e15fa61c1617e46f8269dc2c3909701ebda",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill:",
+      "text": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill: Shinji Ikari (Evangelion)",
+      "url": "https://nitter.net/daily_berserk/status/2058629102907580868#m",
+      "date": "Sun, 24 May 2026 19:20:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJG2LbvXkAAt30C.jpg",
+        "https://nitter.net/pic/media%2FHJG2Lb1WoAACmhx.jpg",
+        "https://nitter.net/pic/media%2FHJG2LbtW0AAU-cU.jpg"
+      ]
     }
   ],
   "items": [
@@ -326,6 +416,19 @@
       ]
     },
     {
+      "id": "fe347d11a25b479181873e9fe5021e75ccb552c5a24536d32f91389235ea5de8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Was hot today in germany, swimming was the best choice...😭",
+      "text": "Was hot today in germany, swimming was the best choice...😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2059350879950565730#m",
+      "date": "Tue, 26 May 2026 19:08:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "06252bccf68b220f88575865dbdd1f1479addf84d44915342cf896c4ec723233",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -369,21 +472,96 @@
       ]
     },
     {
-      "id": "1fac9d2ba408bb13d082eb27f907f24a2e8ba4d2622056a4916e3641c0ea17ee",
+      "id": "48099fe93436d35df7d994a17e8fd2d9e9a91ccd4af44e596fb72993d83cdb99",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Candelle could be doing the same thing Garling did at God Valley. After gaining influence in the kingdom, she may have recommended Esperia for the next hunting games to the Gorosei, and after it ended",
-      "text": "Candelle could be doing the same thing Garling did at God Valley. After gaining influence in the kingdom, she may have recommended Esperia for the next hunting games to the Gorosei, and after it ended, took Gunko to Marijoa and turned her into a Holy Knight? #ONEPIECE1183",
-      "url": "https://nitter.net/RomPieceG5/status/2058764930631815369#m",
-      "date": "Mon, 25 May 2026 04:19:44 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "No.421、原稿完成。 仮歯割れました。",
+      "text": "No.421、原稿完成。 仮歯割れました。",
+      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2059299316800569524#m",
+      "date": "Tue, 26 May 2026 15:43:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJIzSElWQAABVaz.jpg",
-        "https://nitter.net/pic/media%2FHJIzTpEWcAAjm2H.jpg",
-        "https://nitter.net/pic/media%2FHJIzVCNXsAA6rWc.jpg",
-        "https://nitter.net/pic/media%2FHJIzV8uW4AERDat.jpg"
+        "https://nitter.net/pic/media%2FHJQZz02a4AAuXBE.jpg"
+      ]
+    },
+    {
+      "id": "d4babcaf6a37f96a96fca7a129f9e77602db55933537668595b8642ea2d1de98",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
+      "text": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
+      "url": "https://nitter.net/Pixar/status/2059303689987428498#m",
+      "date": "Tue, 26 May 2026 16:00:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQaGHqakAABio8.jpg"
+      ]
+    },
+    {
+      "id": "f75cc680236ca705e86aa1bf2b109333856a4dc572275786b4c4951503a7224d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcci",
+      "text": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcciones en nuestra web), Amazon o en nuestra tienda online La Comiquería.",
+      "url": "https://nitter.net/Ivrea/status/2059295564282421339#m",
+      "date": "Tue, 26 May 2026 15:28:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQWYTbXsAAQoYJ.jpg"
+      ]
+    },
+    {
+      "id": "df5fe10cb4b0a5b49b522d3f94516196b965a7df21546aa0d094c87b496797c7",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in",
+      "text": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in Japan!",
+      "url": "https://nitter.net/DragonQuest/status/2059288719258247248#m",
+      "date": "Tue, 26 May 2026 15:01:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQP8mvagAAnMvh.jpg",
+        "https://nitter.net/pic/media%2FHJQP8nUbMAAtJWd.jpg",
+        "https://nitter.net/pic/media%2FHJQP8o4bUAAQqQe.jpg",
+        "https://nitter.net/pic/media%2FHJQP8nLboAAcceo.jpg"
+      ]
+    },
+    {
+      "id": "92fb085fea2f846a7ff6bbdf9e39622a0a948a8d192708234ba9a46e32ca41a1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
+      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
+      "url": "https://nitter.net/GrandMaster2048/status/2059289034594427300#m",
+      "date": "Tue, 26 May 2026 15:02:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2059288973189808128%2Fimg%2FoZCdDPlXRj7Hb3_I.jpg"
+      ]
+    },
+    {
+      "id": "32bc54a5e37c08d8f66c630b8eb279a6cc64f1c93db145a3b0f3d728ea9091e9",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
+      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
+      "url": "https://nitter.net/GrandMaster2048/status/2059289111819911429#m",
+      "date": "Tue, 26 May 2026 15:02:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQQiHebQAAhdah.jpg"
       ]
     },
     {
@@ -475,21 +653,6 @@
       ]
     },
     {
-      "id": "042c2a59a40e5cfb6043d540c42fcac7834392ca36ea96a9341425cfc307ac1f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Reply to this tweet with a GIF from your favorite anime Video",
-      "text": "Reply to this tweet with a GIF from your favorite anime Video",
-      "url": "https://nitter.net/daily_berserk/status/2059023954292166663#m",
-      "date": "Mon, 25 May 2026 21:29:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2058543154844897280%2Fimg%2FIUrirFmi4euPkEMk.jpg"
-      ]
-    },
-    {
       "id": "d3a77bb221085824a98143d08f373c9b26c9ced9bb28c434b33142b07cf88114",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -531,6 +694,23 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "0eb8b02b6aba48cbc81a229d4ea66e15fa61c1617e46f8269dc2c3909701ebda",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill:",
+      "text": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill: Shinji Ikari (Evangelion)",
+      "url": "https://nitter.net/daily_berserk/status/2058629102907580868#m",
+      "date": "Sun, 24 May 2026 19:20:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJG2LbvXkAAt30C.jpg",
+        "https://nitter.net/pic/media%2FHJG2Lb1WoAACmhx.jpg",
+        "https://nitter.net/pic/media%2FHJG2LbtW0AAU-cU.jpg"
+      ]
     }
   ]
 }
