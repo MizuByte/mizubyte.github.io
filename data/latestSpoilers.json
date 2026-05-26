@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:09:42.535Z",
+  "generatedAt": "2026-05-26T21:02:06.500Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -27,6 +27,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "8d9bde3e62905cf65f68d055f254ed3d743d72bcc722a0d1b6aa46bcdae0f279",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/naiivememe/status/2059318620304605345#m",
+      "date": "Tue, 26 May 2026 16:59:54 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQrXSAagAA3Ph-.jpg"
+      ]
     },
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
@@ -117,97 +132,77 @@
       ]
     },
     {
-      "id": "48099fe93436d35df7d994a17e8fd2d9e9a91ccd4af44e596fb72993d83cdb99",
+      "id": "e01e63c00d5f742837d60c5fdb26e22fd9434b32bea24deb8190abb32adbe937",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "No.421、原稿完成。 仮歯割れました。",
-      "text": "No.421、原稿完成。 仮歯割れました。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2059299316800569524#m",
-      "date": "Tue, 26 May 2026 15:43:11 GMT",
+      "title": "ドラクエ40周年おめでとうございます！！ ずっとワクワクさせてくれてありがとう！ ストーリーも音楽も大好きだけどやっぱりキャラとパッケージイラストが大好きすぎて。 #ドラクエの日 #DQ40th",
+      "text": "ドラクエ40周年おめでとうございます！！ ずっとワクワクさせてくれてありがとう！ ストーリーも音楽も大好きだけどやっぱりキャラとパッケージイラストが大好きすぎて。 #ドラクエの日 #DQ40th",
+      "url": "https://nitter.net/bykillt/status/2059319488315867210#m",
+      "date": "Tue, 26 May 2026 17:03:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQZz02a4AAuXBE.jpg"
+        "https://nitter.net/pic/media%2FHJQsKFGawAAKHjF.jpg"
       ]
     },
     {
-      "id": "d4babcaf6a37f96a96fca7a129f9e77602db55933537668595b8642ea2d1de98",
+      "id": "3fd3fd2cd6aa4331aab1473b8ff78b885d8fd91642ddc7351c8792487a1c9602",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
-      "text": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
-      "url": "https://nitter.net/Pixar/status/2059303689987428498#m",
-      "date": "Tue, 26 May 2026 16:00:34 GMT",
+      "title": "来るぞ。 #ドラクエの日 #DQ40th",
+      "text": "来るぞ。 #ドラクエの日 #DQ40th",
+      "url": "https://nitter.net/yuto___sakurai/status/2059297081169436723#m",
+      "date": "Tue, 26 May 2026 15:34:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQaGHqakAABio8.jpg"
+        "https://nitter.net/pic/media%2FHJQXx3CaAAAA1Pd.jpg"
       ]
     },
     {
-      "id": "f75cc680236ca705e86aa1bf2b109333856a4dc572275786b4c4951503a7224d",
+      "id": "87403ba2e176ff9d8e2d8cd3ca44c8819eb842a3318caecd7e574c8067220deb",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcci",
-      "text": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcciones en nuestra web), Amazon o en nuestra tienda online La Comiquería.",
-      "url": "https://nitter.net/Ivrea/status/2059295564282421339#m",
-      "date": "Tue, 26 May 2026 15:28:17 GMT",
+      "title": "明日より、新イベントと新たな装備ふくびきが期間限定で登場予定です。 続報をお待ちください。 #DQウォーク #ドラクエウォーク",
+      "text": "明日より、新イベントと新たな装備ふくびきが期間限定で登場予定です。 続報をお待ちください。 #DQウォーク #ドラクエウォーク",
+      "url": "https://nitter.net/DQWalk/status/2059167654074532212#m",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQWYTbXsAAQoYJ.jpg"
+        "https://nitter.net/pic/media%2FHJKdkWvaIAAMSuy.jpg"
       ]
     },
     {
-      "id": "df5fe10cb4b0a5b49b522d3f94516196b965a7df21546aa0d094c87b496797c7",
+      "id": "c156511e4deedb1768aaadf5354d133af22b4d1b88da947fdd3b5c2233d3c5de",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in",
-      "text": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in Japan!",
-      "url": "https://nitter.net/DragonQuest/status/2059288719258247248#m",
-      "date": "Tue, 26 May 2026 15:01:05 GMT",
+      "title": "Pero por favor, que están acusando a la mujer del presidente de pagar un registro con una cuenta compartida con su marido, por un valor de 206 €. El circo que tienen montado resulta ya patético. Europ",
+      "text": "Pero por favor, que están acusando a la mujer del presidente de pagar un registro con una cuenta compartida con su marido, por un valor de 206 €. El circo que tienen montado resulta ya patético. Europa Press (@europapress) 🔴 La UCO constata que Begoña Gómez pagó el registro del 'software' de la cátedra de la Complutense desde una cuenta bancaria compartida con Pedro Sánchez europapress.es/nacional/noti… — https://nitter.net/europapress/status/2058890551039050192#m",
+      "url": "https://nitter.net/Apu_elrojo/status/2059347386162405644#m",
+      "date": "Tue, 26 May 2026 18:54:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQP8mvagAAnMvh.jpg",
-        "https://nitter.net/pic/media%2FHJQP8nUbMAAtJWd.jpg",
-        "https://nitter.net/pic/media%2FHJQP8o4bUAAQqQe.jpg",
-        "https://nitter.net/pic/media%2FHJQP8nLboAAcceo.jpg"
+        "https://nitter.net/pic/card_img%2F2058890368477753344%2FVz_wHyQY%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
-      "id": "92fb085fea2f846a7ff6bbdf9e39622a0a948a8d192708234ba9a46e32ca41a1",
+      "id": "d35269b5784fe0abe642aebf2eb62cf3fab539c363ba02b9afe20d2e326368d9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
-      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
-      "url": "https://nitter.net/GrandMaster2048/status/2059289034594427300#m",
-      "date": "Tue, 26 May 2026 15:02:20 GMT",
+      "title": "El juez Peinado ve \"riesgo de fuga\" en la MUJER DEL PRESIDENTE DEL GOBIERNO. Con dos cojones. RTVE Noticias (@rtvenoticias) El juez Peinado ve \"riesgo de fuga\" y obliga a Begoña Gómez a acudir a la au",
+      "text": "El juez Peinado ve \"riesgo de fuga\" en la MUJER DEL PRESIDENTE DEL GOBIERNO. Con dos cojones. RTVE Noticias (@rtvenoticias) El juez Peinado ve \"riesgo de fuga\" y obliga a Begoña Gómez a acudir a la audiencia \"bajo amenaza de fuerza pública\" — https://nitter.net/rtvenoticias/status/2059196844551393454#m",
+      "url": "https://nitter.net/SarahPerezSanta/status/2059214485181657189#m",
+      "date": "Tue, 26 May 2026 10:06:06 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2059288973189808128%2Fimg%2FoZCdDPlXRj7Hb3_I.jpg"
-      ]
-    },
-    {
-      "id": "32bc54a5e37c08d8f66c630b8eb279a6cc64f1c93db145a3b0f3d728ea9091e9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
-      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
-      "url": "https://nitter.net/GrandMaster2048/status/2059289111819911429#m",
-      "date": "Tue, 26 May 2026 15:02:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJQQiHebQAAhdah.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
@@ -267,6 +262,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
+      ]
+    },
+    {
+      "id": "1ad2f2004cad70af70f247d23afa57fa50ce461eefdd181a5323a43f206e2c1b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "¿Cuál es el peor final de anime que has visto?",
+      "text": "¿Cuál es el peor final de anime que has visto?",
+      "url": "https://nitter.net/daily_berserk/status/2059373004275274108#m",
+      "date": "Tue, 26 May 2026 20:36:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFps-zWgAEHKb3.jpg"
       ]
     },
     {
@@ -339,23 +349,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "0eb8b02b6aba48cbc81a229d4ea66e15fa61c1617e46f8269dc2c3909701ebda",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill:",
-      "text": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill: Shinji Ikari (Evangelion)",
-      "url": "https://nitter.net/daily_berserk/status/2058629102907580868#m",
-      "date": "Sun, 24 May 2026 19:20:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJG2LbvXkAAt30C.jpg",
-        "https://nitter.net/pic/media%2FHJG2Lb1WoAACmhx.jpg",
-        "https://nitter.net/pic/media%2FHJG2LbtW0AAU-cU.jpg"
-      ]
     }
   ],
   "items": [
@@ -384,6 +377,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "8d9bde3e62905cf65f68d055f254ed3d743d72bcc722a0d1b6aa46bcdae0f279",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/naiivememe/status/2059318620304605345#m",
+      "date": "Tue, 26 May 2026 16:59:54 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJQrXSAagAA3Ph-.jpg"
+      ]
     },
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
@@ -472,97 +480,77 @@
       ]
     },
     {
-      "id": "48099fe93436d35df7d994a17e8fd2d9e9a91ccd4af44e596fb72993d83cdb99",
+      "id": "e01e63c00d5f742837d60c5fdb26e22fd9434b32bea24deb8190abb32adbe937",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "No.421、原稿完成。 仮歯割れました。",
-      "text": "No.421、原稿完成。 仮歯割れました。",
-      "url": "https://nitter.net/Un4v5s8bgsVk9Xp/status/2059299316800569524#m",
-      "date": "Tue, 26 May 2026 15:43:11 GMT",
+      "title": "ドラクエ40周年おめでとうございます！！ ずっとワクワクさせてくれてありがとう！ ストーリーも音楽も大好きだけどやっぱりキャラとパッケージイラストが大好きすぎて。 #ドラクエの日 #DQ40th",
+      "text": "ドラクエ40周年おめでとうございます！！ ずっとワクワクさせてくれてありがとう！ ストーリーも音楽も大好きだけどやっぱりキャラとパッケージイラストが大好きすぎて。 #ドラクエの日 #DQ40th",
+      "url": "https://nitter.net/bykillt/status/2059319488315867210#m",
+      "date": "Tue, 26 May 2026 17:03:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQZz02a4AAuXBE.jpg"
+        "https://nitter.net/pic/media%2FHJQsKFGawAAKHjF.jpg"
       ]
     },
     {
-      "id": "d4babcaf6a37f96a96fca7a129f9e77602db55933537668595b8642ea2d1de98",
+      "id": "3fd3fd2cd6aa4331aab1473b8ff78b885d8fd91642ddc7351c8792487a1c9602",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
-      "text": "the battle for playtime begins Get your tickets NOW for #ToyStory5, only in theaters June 19 Video",
-      "url": "https://nitter.net/Pixar/status/2059303689987428498#m",
-      "date": "Tue, 26 May 2026 16:00:34 GMT",
+      "title": "来るぞ。 #ドラクエの日 #DQ40th",
+      "text": "来るぞ。 #ドラクエの日 #DQ40th",
+      "url": "https://nitter.net/yuto___sakurai/status/2059297081169436723#m",
+      "date": "Tue, 26 May 2026 15:34:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQaGHqakAABio8.jpg"
+        "https://nitter.net/pic/media%2FHJQXx3CaAAAA1Pd.jpg"
       ]
     },
     {
-      "id": "f75cc680236ca705e86aa1bf2b109333856a4dc572275786b4c4951503a7224d",
+      "id": "87403ba2e176ff9d8e2d8cd3ca44c8819eb842a3318caecd7e574c8067220deb",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcci",
-      "text": "🔥 ¡AYAKASHI TRIANGLE, la obra más reciente de Kentaro Yabuki, ya está completa! 📚 Hazte con los 16 TOMOS de esta divertidísima comedia en Fnac, librerías especializadas (puedes consultar las direcciones en nuestra web), Amazon o en nuestra tienda online La Comiquería.",
-      "url": "https://nitter.net/Ivrea/status/2059295564282421339#m",
-      "date": "Tue, 26 May 2026 15:28:17 GMT",
+      "title": "明日より、新イベントと新たな装備ふくびきが期間限定で登場予定です。 続報をお待ちください。 #DQウォーク #ドラクエウォーク",
+      "text": "明日より、新イベントと新たな装備ふくびきが期間限定で登場予定です。 続報をお待ちください。 #DQウォーク #ドラクエウォーク",
+      "url": "https://nitter.net/DQWalk/status/2059167654074532212#m",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQWYTbXsAAQoYJ.jpg"
+        "https://nitter.net/pic/media%2FHJKdkWvaIAAMSuy.jpg"
       ]
     },
     {
-      "id": "df5fe10cb4b0a5b49b522d3f94516196b965a7df21546aa0d094c87b496797c7",
+      "id": "c156511e4deedb1768aaadf5354d133af22b4d1b88da947fdd3b5c2233d3c5de",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in",
-      "text": "It's now May 27 in Japan, which means it's #DragonQuestDay! 40 years ago today, the first Dragon Quest game was released. Its easy-to-understand command-based system helped popularize the RPG genre in Japan!",
-      "url": "https://nitter.net/DragonQuest/status/2059288719258247248#m",
-      "date": "Tue, 26 May 2026 15:01:05 GMT",
+      "title": "Pero por favor, que están acusando a la mujer del presidente de pagar un registro con una cuenta compartida con su marido, por un valor de 206 €. El circo que tienen montado resulta ya patético. Europ",
+      "text": "Pero por favor, que están acusando a la mujer del presidente de pagar un registro con una cuenta compartida con su marido, por un valor de 206 €. El circo que tienen montado resulta ya patético. Europa Press (@europapress) 🔴 La UCO constata que Begoña Gómez pagó el registro del 'software' de la cátedra de la Complutense desde una cuenta bancaria compartida con Pedro Sánchez europapress.es/nacional/noti… — https://nitter.net/europapress/status/2058890551039050192#m",
+      "url": "https://nitter.net/Apu_elrojo/status/2059347386162405644#m",
+      "date": "Tue, 26 May 2026 18:54:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJQP8mvagAAnMvh.jpg",
-        "https://nitter.net/pic/media%2FHJQP8nUbMAAtJWd.jpg",
-        "https://nitter.net/pic/media%2FHJQP8o4bUAAQqQe.jpg",
-        "https://nitter.net/pic/media%2FHJQP8nLboAAcceo.jpg"
+        "https://nitter.net/pic/card_img%2F2058890368477753344%2FVz_wHyQY%3Fformat%3Djpg%26name%3D800x419"
       ]
     },
     {
-      "id": "92fb085fea2f846a7ff6bbdf9e39622a0a948a8d192708234ba9a46e32ca41a1",
+      "id": "d35269b5784fe0abe642aebf2eb62cf3fab539c363ba02b9afe20d2e326368d9",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
-      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年 Video",
-      "url": "https://nitter.net/GrandMaster2048/status/2059289034594427300#m",
-      "date": "Tue, 26 May 2026 15:02:20 GMT",
+      "title": "El juez Peinado ve \"riesgo de fuga\" en la MUJER DEL PRESIDENTE DEL GOBIERNO. Con dos cojones. RTVE Noticias (@rtvenoticias) El juez Peinado ve \"riesgo de fuga\" y obliga a Begoña Gómez a acudir a la au",
+      "text": "El juez Peinado ve \"riesgo de fuga\" en la MUJER DEL PRESIDENTE DEL GOBIERNO. Con dos cojones. RTVE Noticias (@rtvenoticias) El juez Peinado ve \"riesgo de fuga\" y obliga a Begoña Gómez a acudir a la audiencia \"bajo amenaza de fuerza pública\" — https://nitter.net/rtvenoticias/status/2059196844551393454#m",
+      "url": "https://nitter.net/SarahPerezSanta/status/2059214485181657189#m",
+      "date": "Tue, 26 May 2026 10:06:06 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2059288973189808128%2Fimg%2FoZCdDPlXRj7Hb3_I.jpg"
-      ]
-    },
-    {
-      "id": "32bc54a5e37c08d8f66c630b8eb279a6cc64f1c93db145a3b0f3d728ea9091e9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
-      "text": "1986年5月27日発売 「ドラゴンクエスト」 #本日発売 #ドラクエの日 #ドラクエ40周年",
-      "url": "https://nitter.net/GrandMaster2048/status/2059289111819911429#m",
-      "date": "Tue, 26 May 2026 15:02:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJQQiHebQAAhdah.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
@@ -622,6 +610,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
+      ]
+    },
+    {
+      "id": "1ad2f2004cad70af70f247d23afa57fa50ce461eefdd181a5323a43f206e2c1b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "¿Cuál es el peor final de anime que has visto?",
+      "text": "¿Cuál es el peor final de anime que has visto?",
+      "url": "https://nitter.net/daily_berserk/status/2059373004275274108#m",
+      "date": "Tue, 26 May 2026 20:36:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFps-zWgAEHKb3.jpg"
       ]
     },
     {
@@ -694,23 +697,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "0eb8b02b6aba48cbc81a229d4ea66e15fa61c1617e46f8269dc2c3909701ebda",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill:",
-      "text": "Let's play a game where we kill, have sex, and get married with anime characters. I'll go first: Have sex with: Shizuka Marikawa (Highschool of the Dead) Get married to: Marin (Sono Bisque Doll) Kill: Shinji Ikari (Evangelion)",
-      "url": "https://nitter.net/daily_berserk/status/2058629102907580868#m",
-      "date": "Sun, 24 May 2026 19:20:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJG2LbvXkAAt30C.jpg",
-        "https://nitter.net/pic/media%2FHJG2Lb1WoAACmhx.jpg",
-        "https://nitter.net/pic/media%2FHJG2LbtW0AAU-cU.jpg"
-      ]
     }
   ]
 }
