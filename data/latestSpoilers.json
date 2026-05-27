@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-05-27T14:27:36.697Z",
+  "generatedAt": "2026-05-27T17:45:33.354Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "7ea8c0825403e88a740b520450fb90d455acbe996375bb928fd88f8c95df8acc",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
+      "text": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
+      "url": "https://nitter.net/WorstGenHQ/status/2059665871941808326#m",
+      "date": "Wed, 27 May 2026 15:59:45 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVnBotWoAUwOqc.png"
+      ]
+    },
+    {
+      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
+      "date": "Sun, 24 May 2026 11:16:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
+      ]
+    },
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
@@ -31,112 +61,22 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
       ]
-    },
-    {
-      "id": "258df0fb620b4ef98c7260aba9e36e42acc3658a5afc5fe65dee957f153e8173",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "text": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "url": "https://nitter.net/daily_berserk/status/2059637246198796426#m",
-      "date": "Wed, 27 May 2026 14:06:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
     {
-      "id": "bf7579ad43791857292e17ac64b2d801816046385f22e354dcf87b0f6080c128",
+      "id": "3a2380b4ec18aced9e6333251a3d2ed27ca766893c2f3a43288f3e61eb461020",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dra",
-      "text": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA — https://nitter.net/DragonQuest/status/2059626200151237072#m",
-      "url": "https://nitter.net/DragonQuest/status/2059635831439290368#m",
-      "date": "Wed, 27 May 2026 14:00:23 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
+      "text": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2059605539575804173#m",
+      "date": "Wed, 27 May 2026 12:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
-        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
-      ]
-    },
-    {
-      "id": "8f36a11bcef0ab0423aeec0b3e92869fc56cd47c6819fff7becf55466031f883",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "∗✦⋆ Nintendo Switch™ 2版 『ドラゴンクエストXI 過ぎ去りし時を求めて S』 2026年9月24日(木)発売決定！ ∗✦⋆ 本日より順次予約開始！ 「勇者」とは何なのか。 その答えを求める冒険へー #DQ11S",
-      "text": "∗✦⋆ Nintendo Switch™ 2版 『ドラゴンクエストXI 過ぎ去りし時を求めて S』 2026年9月24日(木)発売決定！ ∗✦⋆ 本日より順次予約開始！ 「勇者」とは何なのか。 その答えを求める冒険へー #DQ11S",
-      "url": "https://nitter.net/DQ_PR/status/2059631961174351941#m",
-      "date": "Wed, 27 May 2026 13:45:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "41f0de7cf3e5f87e1c5f7ded63d08de1e604b5476a8229a5e2a26248451957fd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "今度の主役は、このふたり！ 『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』がNintendo Switch™ 2／Nintendo Switch™／PlayStation®5／Xbox Series X|S／Steam®／Microsoft Store on Windowsで発売決定🎊 続報をお楽しみに💫 #DQM4",
-      "text": "今度の主役は、このふたり！ 『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』がNintendo Switch™ 2／Nintendo Switch™／PlayStation®5／Xbox Series X|S／Steam®／Microsoft Store on Windowsで発売決定🎊 続報をお楽しみに💫 #DQM4",
-      "url": "https://nitter.net/DQ_PR/status/2059634225708437945#m",
-      "date": "Wed, 27 May 2026 13:54:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "196a7ab22dccaed335700e63c84372b40082d2877ba5993fb8db606a449cde6d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA",
-      "text": "We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA",
-      "url": "https://nitter.net/DragonQuest/status/2059626200151237072#m",
-      "date": "Wed, 27 May 2026 13:22:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
-        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
-      ]
-    },
-    {
-      "id": "6bcf9fbe6956e1188cc005560fb0bde022087f443e2ed94c6ea4fcfe04eb67d8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Get ready to make the whole world bloom! 🌼 Dragon Quest Monsters: The Withered World is coming soon for Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam and Window",
-      "text": "Get ready to make the whole world bloom! 🌼 Dragon Quest Monsters: The Withered World is coming soon for Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam and Windows! Video",
-      "url": "https://nitter.net/DragonQuest/status/2059628288952488149#m",
-      "date": "Wed, 27 May 2026 13:30:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2059628191913070592%2Fimg%2F4j-rESP-CMMDPQ7K.jpg"
-      ]
-    },
-    {
-      "id": "d44ff0b6456277f0b58c953a4b409dfe6a1e9240b3bbed8057eee22285ea0dd8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🐉『ドラゴンクエストXII 夢の彼方へ』発表🐉 堀井雄二さん、齊藤陽介からのお知らせ映像はこちら👇 piped.video/nRKyyK7S-Zw #DQ40th",
-      "text": "🐉『ドラゴンクエストXII 夢の彼方へ』発表🐉 堀井雄二さん、齊藤陽介からのお知らせ映像はこちら👇 piped.video/nRKyyK7S-Zw #DQ40th",
-      "url": "https://nitter.net/DQ_PR/status/2059626035805855970#m",
-      "date": "Wed, 27 May 2026 13:21:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVC9mgbgAAbMYp.jpg"
+        "https://nitter.net/pic/media%2FHJTB3DeXAAELSF9.jpg"
       ]
     },
     {
@@ -194,31 +134,171 @@
       ]
     },
     {
-      "id": "ee303f5e1a01745ea0e1bfffa46bad8a102150d34ed2ee8c065dae03ef2f3344",
+      "id": "867f2960ce48bfbdcc2d9ba5d428928a4c4b38559c74063f6dc72433fd84eba2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
-      "text": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2058994043061719185#m",
-      "date": "Mon, 25 May 2026 19:30:08 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "url": "https://nitter.net/MarvelStudios/status/2059665954565771367#m",
+      "date": "Wed, 27 May 2026 16:00:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
+      ]
+    },
+    {
+      "id": "04651459d6f041479cbb680239011434a6cc2a38955cf52055a44ca87fd9663f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
+      "text": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
+      "url": "https://nitter.net/MarvelStudios/status/2059667242049282348#m",
+      "date": "Wed, 27 May 2026 16:05:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVoOUObgAAY84v.jpg"
+      ]
+    },
+    {
+      "id": "b2fb8492a6651914a63782c8ecfdf192f216fb786c850b6c35967d4dd5d50fc8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "url": "https://nitter.net/Marvel/status/2059666166919110752#m",
+      "date": "Wed, 27 May 2026 16:00:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
+      ]
+    },
+    {
+      "id": "179bf752bfd6df2959e09fbfb070bb29c01afb47eceba76f728e6422a5c09e82",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero",
+      "text": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero Edición: RVD (yo ;D) Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #tenkaihen #saintseiyatenkaihen @murielkawaii",
+      "url": "https://nitter.net/CesarinCool/status/2059652638136803595#m",
+      "date": "Wed, 27 May 2026 15:07:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVbH2rWgAAq4dj.jpg"
+      ]
+    },
+    {
+      "id": "44a3fa68f05d7896af7c24c0d1165dce2087e71e23d1a977086691ad422ab7dc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2059651379422003492#m",
+      "date": "Wed, 27 May 2026 15:02:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2056650054534918144%2FaLhRKa72%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "bf7579ad43791857292e17ac64b2d801816046385f22e354dcf87b0f6080c128",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dra",
+      "text": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA — https://nitter.net/DragonQuest/status/2059626200151237072#m",
+      "url": "https://nitter.net/DragonQuest/status/2059635831439290368#m",
+      "date": "Wed, 27 May 2026 14:00:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
+        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
+        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
+        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
+      ]
+    },
+    {
+      "id": "8bdd9fd793dbbaa434079e1bdac641d1e6450792e40d5fda796792dcd118f49e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "text": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "url": "https://nitter.net/SchmurfiV1/status/2058764412568089068#m",
+      "date": "Mon, 25 May 2026 04:17:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJIzUjiXoAAurrt.jpg"
+      ]
+    },
+    {
+      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
+      "date": "Sun, 24 May 2026 11:18:07 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "78442954ca34119eacbfc25ea0463b1f0020e2a1976b72dcae05386a0a341f36",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appe",
-      "text": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appears far too late, perhaps it should have come even before the Loki flashback.",
-      "url": "https://nitter.net/WorstGenHQ/status/2058992363301716150#m",
-      "date": "Mon, 25 May 2026 19:23:28 GMT",
+      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
+      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
+      "date": "Thu, 21 May 2026 18:08:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJMCl0FW4AA0gLk.jpg"
+        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
+        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+      ]
+    },
+    {
+      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
+      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+      ]
+    },
+    {
+      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
+      "date": "Thu, 21 May 2026 09:34:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
+        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
       ]
     },
     {
@@ -279,72 +359,41 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
-    },
-    {
-      "id": "e1d7067fee3f045a8bcff4e6181168e14520067172aeb775e59e4bc3b1c2c221",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Modern anime fans would never survive 90s manga",
-      "text": "Modern anime fans would never survive 90s manga",
-      "url": "https://nitter.net/daily_berserk/status/2059576596718096734#m",
-      "date": "Wed, 27 May 2026 10:05:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c0284122b3705852a96ad545897f8770be2f5820deae85ac7be2954fda4bec39",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Why is there this trend of drawing girls with huge breasts in anime? Is it some kind of complex on the part of the Japanese?",
-      "text": "Why is there this trend of drawing girls with huge breasts in anime? Is it some kind of complex on the part of the Japanese?",
-      "url": "https://nitter.net/daily_berserk/status/2059491032002121875#m",
-      "date": "Wed, 27 May 2026 04:25:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJK3mZBXsAARM4X.jpg",
-        "https://nitter.net/pic/media%2FHJK3mZAWgAAnxgZ.jpg",
-        "https://nitter.net/pic/media%2FHJK3mZHXIAApS_B.jpg"
-      ]
-    },
-    {
-      "id": "ffd4a811fcb60804767bd82853d500db86a7a724d138959714442684b8200722",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Quién ganaría en un duelo a muerte entre Guts y Femto?",
-      "text": "¿Quién ganaría en un duelo a muerte entre Guts y Femto?",
-      "url": "https://nitter.net/daily_berserk/status/2059422832623546695#m",
-      "date": "Tue, 26 May 2026 23:54:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFts2EXgAAzJ1J.jpg",
-        "https://nitter.net/pic/media%2FHJFts2NW8AEbZQM.jpg"
-      ]
-    },
-    {
-      "id": "1ad2f2004cad70af70f247d23afa57fa50ce461eefdd181a5323a43f206e2c1b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Cuál es el peor final de anime que has visto?",
-      "text": "¿Cuál es el peor final de anime que has visto?",
-      "url": "https://nitter.net/daily_berserk/status/2059373004275274108#m",
-      "date": "Tue, 26 May 2026 20:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFps-zWgAEHKb3.jpg"
       ]
     }
   ],
   "items": [
     {
+      "id": "7ea8c0825403e88a740b520450fb90d455acbe996375bb928fd88f8c95df8acc",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
+      "text": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
+      "url": "https://nitter.net/WorstGenHQ/status/2059665871941808326#m",
+      "date": "Wed, 27 May 2026 15:59:45 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVnBotWoAUwOqc.png"
+      ]
+    },
+    {
+      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
+      "date": "Sun, 24 May 2026 11:16:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
+      ]
+    },
+    {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -375,108 +424,18 @@
       ]
     },
     {
-      "id": "258df0fb620b4ef98c7260aba9e36e42acc3658a5afc5fe65dee957f153e8173",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "text": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "url": "https://nitter.net/daily_berserk/status/2059637246198796426#m",
-      "date": "Wed, 27 May 2026 14:06:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bf7579ad43791857292e17ac64b2d801816046385f22e354dcf87b0f6080c128",
+      "id": "3a2380b4ec18aced9e6333251a3d2ed27ca766893c2f3a43288f3e61eb461020",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dra",
-      "text": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA — https://nitter.net/DragonQuest/status/2059626200151237072#m",
-      "url": "https://nitter.net/DragonQuest/status/2059635831439290368#m",
-      "date": "Wed, 27 May 2026 14:00:23 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
+      "text": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
+      "url": "https://nitter.net/onepiecenetflix/status/2059605539575804173#m",
+      "date": "Wed, 27 May 2026 12:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
-        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
-      ]
-    },
-    {
-      "id": "8f36a11bcef0ab0423aeec0b3e92869fc56cd47c6819fff7becf55466031f883",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "∗✦⋆ Nintendo Switch™ 2版 『ドラゴンクエストXI 過ぎ去りし時を求めて S』 2026年9月24日(木)発売決定！ ∗✦⋆ 本日より順次予約開始！ 「勇者」とは何なのか。 その答えを求める冒険へー #DQ11S",
-      "text": "∗✦⋆ Nintendo Switch™ 2版 『ドラゴンクエストXI 過ぎ去りし時を求めて S』 2026年9月24日(木)発売決定！ ∗✦⋆ 本日より順次予約開始！ 「勇者」とは何なのか。 その答えを求める冒険へー #DQ11S",
-      "url": "https://nitter.net/DQ_PR/status/2059631961174351941#m",
-      "date": "Wed, 27 May 2026 13:45:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "41f0de7cf3e5f87e1c5f7ded63d08de1e604b5476a8229a5e2a26248451957fd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "今度の主役は、このふたり！ 『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』がNintendo Switch™ 2／Nintendo Switch™／PlayStation®5／Xbox Series X|S／Steam®／Microsoft Store on Windowsで発売決定🎊 続報をお楽しみに💫 #DQM4",
-      "text": "今度の主役は、このふたり！ 『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』がNintendo Switch™ 2／Nintendo Switch™／PlayStation®5／Xbox Series X|S／Steam®／Microsoft Store on Windowsで発売決定🎊 続報をお楽しみに💫 #DQM4",
-      "url": "https://nitter.net/DQ_PR/status/2059634225708437945#m",
-      "date": "Wed, 27 May 2026 13:54:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "196a7ab22dccaed335700e63c84372b40082d2877ba5993fb8db606a449cde6d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA",
-      "text": "We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA",
-      "url": "https://nitter.net/DragonQuest/status/2059626200151237072#m",
-      "date": "Wed, 27 May 2026 13:22:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
-        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
-      ]
-    },
-    {
-      "id": "6bcf9fbe6956e1188cc005560fb0bde022087f443e2ed94c6ea4fcfe04eb67d8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Get ready to make the whole world bloom! 🌼 Dragon Quest Monsters: The Withered World is coming soon for Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam and Window",
-      "text": "Get ready to make the whole world bloom! 🌼 Dragon Quest Monsters: The Withered World is coming soon for Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam and Windows! Video",
-      "url": "https://nitter.net/DragonQuest/status/2059628288952488149#m",
-      "date": "Wed, 27 May 2026 13:30:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2059628191913070592%2Fimg%2F4j-rESP-CMMDPQ7K.jpg"
-      ]
-    },
-    {
-      "id": "d44ff0b6456277f0b58c953a4b409dfe6a1e9240b3bbed8057eee22285ea0dd8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🐉『ドラゴンクエストXII 夢の彼方へ』発表🐉 堀井雄二さん、齊藤陽介からのお知らせ映像はこちら👇 piped.video/nRKyyK7S-Zw #DQ40th",
-      "text": "🐉『ドラゴンクエストXII 夢の彼方へ』発表🐉 堀井雄二さん、齊藤陽介からのお知らせ映像はこちら👇 piped.video/nRKyyK7S-Zw #DQ40th",
-      "url": "https://nitter.net/DQ_PR/status/2059626035805855970#m",
-      "date": "Wed, 27 May 2026 13:21:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVC9mgbgAAbMYp.jpg"
+        "https://nitter.net/pic/media%2FHJTB3DeXAAELSF9.jpg"
       ]
     },
     {
@@ -534,31 +493,171 @@
       ]
     },
     {
-      "id": "ee303f5e1a01745ea0e1bfffa46bad8a102150d34ed2ee8c065dae03ef2f3344",
+      "id": "867f2960ce48bfbdcc2d9ba5d428928a4c4b38559c74063f6dc72433fd84eba2",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
-      "text": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
-      "url": "https://nitter.net/WorstGenHQ/status/2058994043061719185#m",
-      "date": "Mon, 25 May 2026 19:30:08 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "url": "https://nitter.net/MarvelStudios/status/2059665954565771367#m",
+      "date": "Wed, 27 May 2026 16:00:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
+      ]
+    },
+    {
+      "id": "04651459d6f041479cbb680239011434a6cc2a38955cf52055a44ca87fd9663f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
+      "text": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
+      "url": "https://nitter.net/MarvelStudios/status/2059667242049282348#m",
+      "date": "Wed, 27 May 2026 16:05:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVoOUObgAAY84v.jpg"
+      ]
+    },
+    {
+      "id": "b2fb8492a6651914a63782c8ecfdf192f216fb786c850b6c35967d4dd5d50fc8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
+      "url": "https://nitter.net/Marvel/status/2059666166919110752#m",
+      "date": "Wed, 27 May 2026 16:00:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
+      ]
+    },
+    {
+      "id": "179bf752bfd6df2959e09fbfb070bb29c01afb47eceba76f728e6422a5c09e82",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero",
+      "text": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero Edición: RVD (yo ;D) Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #tenkaihen #saintseiyatenkaihen @murielkawaii",
+      "url": "https://nitter.net/CesarinCool/status/2059652638136803595#m",
+      "date": "Wed, 27 May 2026 15:07:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVbH2rWgAAq4dj.jpg"
+      ]
+    },
+    {
+      "id": "44a3fa68f05d7896af7c24c0d1165dce2087e71e23d1a977086691ad422ab7dc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2059651379422003492#m",
+      "date": "Wed, 27 May 2026 15:02:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2056650054534918144%2FaLhRKa72%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "bf7579ad43791857292e17ac64b2d801816046385f22e354dcf87b0f6080c128",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dra",
+      "text": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA — https://nitter.net/DragonQuest/status/2059626200151237072#m",
+      "url": "https://nitter.net/DragonQuest/status/2059635831439290368#m",
+      "date": "Wed, 27 May 2026 14:00:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
+        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
+        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
+        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
+      ]
+    },
+    {
+      "id": "8bdd9fd793dbbaa434079e1bdac641d1e6450792e40d5fda796792dcd118f49e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "text": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "url": "https://nitter.net/SchmurfiV1/status/2058764412568089068#m",
+      "date": "Mon, 25 May 2026 04:17:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJIzUjiXoAAurrt.jpg"
+      ]
+    },
+    {
+      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
+      "date": "Sun, 24 May 2026 11:18:07 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "78442954ca34119eacbfc25ea0463b1f0020e2a1976b72dcae05386a0a341f36",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appe",
-      "text": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appears far too late, perhaps it should have come even before the Loki flashback.",
-      "url": "https://nitter.net/WorstGenHQ/status/2058992363301716150#m",
-      "date": "Mon, 25 May 2026 19:23:28 GMT",
+      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
+      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
+      "date": "Thu, 21 May 2026 18:08:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJMCl0FW4AA0gLk.jpg"
+        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
+        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+      ]
+    },
+    {
+      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
+      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+      ]
+    },
+    {
+      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
+      "date": "Thu, 21 May 2026 09:34:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
+        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
       ]
     },
     {
@@ -619,67 +718,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
-    },
-    {
-      "id": "e1d7067fee3f045a8bcff4e6181168e14520067172aeb775e59e4bc3b1c2c221",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Modern anime fans would never survive 90s manga",
-      "text": "Modern anime fans would never survive 90s manga",
-      "url": "https://nitter.net/daily_berserk/status/2059576596718096734#m",
-      "date": "Wed, 27 May 2026 10:05:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c0284122b3705852a96ad545897f8770be2f5820deae85ac7be2954fda4bec39",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Why is there this trend of drawing girls with huge breasts in anime? Is it some kind of complex on the part of the Japanese?",
-      "text": "Why is there this trend of drawing girls with huge breasts in anime? Is it some kind of complex on the part of the Japanese?",
-      "url": "https://nitter.net/daily_berserk/status/2059491032002121875#m",
-      "date": "Wed, 27 May 2026 04:25:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJK3mZBXsAARM4X.jpg",
-        "https://nitter.net/pic/media%2FHJK3mZAWgAAnxgZ.jpg",
-        "https://nitter.net/pic/media%2FHJK3mZHXIAApS_B.jpg"
-      ]
-    },
-    {
-      "id": "ffd4a811fcb60804767bd82853d500db86a7a724d138959714442684b8200722",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Quién ganaría en un duelo a muerte entre Guts y Femto?",
-      "text": "¿Quién ganaría en un duelo a muerte entre Guts y Femto?",
-      "url": "https://nitter.net/daily_berserk/status/2059422832623546695#m",
-      "date": "Tue, 26 May 2026 23:54:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFts2EXgAAzJ1J.jpg",
-        "https://nitter.net/pic/media%2FHJFts2NW8AEbZQM.jpg"
-      ]
-    },
-    {
-      "id": "1ad2f2004cad70af70f247d23afa57fa50ce461eefdd181a5323a43f206e2c1b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Cuál es el peor final de anime que has visto?",
-      "text": "¿Cuál es el peor final de anime que has visto?",
-      "url": "https://nitter.net/daily_berserk/status/2059373004275274108#m",
-      "date": "Tue, 26 May 2026 20:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFps-zWgAEHKb3.jpg"
       ]
     }
   ]
