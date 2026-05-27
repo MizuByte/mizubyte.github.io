@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T17:45:33.354Z",
+  "generatedAt": "2026-05-27T19:50:27.940Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,6 +65,49 @@
   ],
   "misc": [
     {
+      "id": "794308b1a15a0298accd15ddf93305238d393d42e652033d0cc85a30909a318b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "(February, 2027) 7 episodes 300 minutes each 42 minutes episode. What are your expectings?? #ONEPIECE〜",
+      "text": "(February, 2027) 7 episodes 300 minutes each 42 minutes episode. What are your expectings?? #ONEPIECE〜",
+      "url": "https://nitter.net/gigiconlaG/status/2059626188792820016#m",
+      "date": "Wed, 27 May 2026 13:22:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVCi2RW0AIazQH.jpg"
+      ]
+    },
+    {
+      "id": "4b65595b1f595623fbc1dd2c5b335931850faa070523f71a7d5dc4e1970c9d61",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Nor is this an attempt to refute people's criticism; I can certainly understand why people are critical of the timing. However speaking just for myself I believe that this flashback will play a major ",
+      "text": "Nor is this an attempt to refute people's criticism; I can certainly understand why people are critical of the timing. However speaking just for myself I believe that this flashback will play a major role and was deliberately chosen by Oda for this specific moment or at least, that is what I am hoping for.",
+      "url": "https://nitter.net/WorstGenHQ/status/2059705052772577361#m",
+      "date": "Wed, 27 May 2026 18:35:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5c6752316eb11f4d6aeb8ac0b53f20de720b1063524287c7f72a0acfdc33ec0a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 People might criticize the timing of the flashback, whether you agree with that or not is a matter of opinion. For my part: I simply think this flashback will play a huge role down the l",
+      "text": "#ONEPIECE1184 People might criticize the timing of the flashback, whether you agree with that or not is a matter of opinion. For my part: I simply think this flashback will play a huge role down the line; I’d expect a major plot reveal linked to Imu in general.",
+      "url": "https://nitter.net/WorstGenHQ/status/2059704930605179075#m",
+      "date": "Wed, 27 May 2026 18:34:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJWKehcXYAQxPvW.jpg"
+      ]
+    },
+    {
       "id": "3a2380b4ec18aced9e6333251a3d2ed27ca766893c2f3a43288f3e61eb461020",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -93,137 +136,18 @@
       "attachments": []
     },
     {
-      "id": "ce2691f73502d4a87416fae4fdd6d1625a910ed29f695e8039df40dcf547721e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Eid Mubarak to everyone who celebrate it. Wish you can enjoy the time with you family and stay safe(wish this overall to my entire community)!",
-      "text": "Eid Mubarak to everyone who celebrate it. Wish you can enjoy the time with you family and stay safe(wish this overall to my entire community)!",
-      "url": "https://nitter.net/WorstGenHQ/status/2059501369497727433#m",
-      "date": "Wed, 27 May 2026 05:06:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "fe347d11a25b479181873e9fe5021e75ccb552c5a24536d32f91389235ea5de8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Was hot today in germany, swimming was the best choice...😭",
-      "text": "Was hot today in germany, swimming was the best choice...😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2059350879950565730#m",
-      "date": "Tue, 26 May 2026 19:08:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "06252bccf68b220f88575865dbdd1f1479addf84d44915342cf896c4ec723233",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "url": "https://nitter.net/pewpiece/status/2059268564234694810#m",
-      "date": "Tue, 26 May 2026 13:40:59 GMT",
+      "id": "5a074787304535566451768dc714acf6635652879e8c82095af449fce0879bc6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "“Naruto, your parents are dead won’t you be lonely?” “No, the 4th Hokage looks after me.” #NARUTO Video",
+      "text": "“Naruto, your parents are dead won’t you be lonely?” “No, the 4th Hokage looks after me.” #NARUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2059703241248497673#m",
+      "date": "Wed, 27 May 2026 18:28:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJP8XihWUAAtkAk.jpg"
-      ]
-    },
-    {
-      "id": "867f2960ce48bfbdcc2d9ba5d428928a4c4b38559c74063f6dc72433fd84eba2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "url": "https://nitter.net/MarvelStudios/status/2059665954565771367#m",
-      "date": "Wed, 27 May 2026 16:00:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
-      ]
-    },
-    {
-      "id": "04651459d6f041479cbb680239011434a6cc2a38955cf52055a44ca87fd9663f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
-      "text": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
-      "url": "https://nitter.net/MarvelStudios/status/2059667242049282348#m",
-      "date": "Wed, 27 May 2026 16:05:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVoOUObgAAY84v.jpg"
-      ]
-    },
-    {
-      "id": "b2fb8492a6651914a63782c8ecfdf192f216fb786c850b6c35967d4dd5d50fc8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "url": "https://nitter.net/Marvel/status/2059666166919110752#m",
-      "date": "Wed, 27 May 2026 16:00:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
-      ]
-    },
-    {
-      "id": "179bf752bfd6df2959e09fbfb070bb29c01afb47eceba76f728e6422a5c09e82",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero",
-      "text": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero Edición: RVD (yo ;D) Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #tenkaihen #saintseiyatenkaihen @murielkawaii",
-      "url": "https://nitter.net/CesarinCool/status/2059652638136803595#m",
-      "date": "Wed, 27 May 2026 15:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVbH2rWgAAq4dj.jpg"
-      ]
-    },
-    {
-      "id": "44a3fa68f05d7896af7c24c0d1165dce2087e71e23d1a977086691ad422ab7dc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2059651379422003492#m",
-      "date": "Wed, 27 May 2026 15:02:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2056650054534918144%2FaLhRKa72%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "bf7579ad43791857292e17ac64b2d801816046385f22e354dcf87b0f6080c128",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dra",
-      "text": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA — https://nitter.net/DragonQuest/status/2059626200151237072#m",
-      "url": "https://nitter.net/DragonQuest/status/2059635831439290368#m",
-      "date": "Wed, 27 May 2026 14:00:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
-        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2059703138810990596%2Fimg%2FxxWqN5_Bt-a8uErV.jpg"
       ]
     },
     {
@@ -283,22 +207,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
-      ]
-    },
-    {
-      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
-      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
-      "date": "Thu, 21 May 2026 09:34:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
-        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
       ]
     },
     {
@@ -424,6 +332,49 @@
       ]
     },
     {
+      "id": "794308b1a15a0298accd15ddf93305238d393d42e652033d0cc85a30909a318b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "(February, 2027) 7 episodes 300 minutes each 42 minutes episode. What are your expectings?? #ONEPIECE〜",
+      "text": "(February, 2027) 7 episodes 300 minutes each 42 minutes episode. What are your expectings?? #ONEPIECE〜",
+      "url": "https://nitter.net/gigiconlaG/status/2059626188792820016#m",
+      "date": "Wed, 27 May 2026 13:22:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJVCi2RW0AIazQH.jpg"
+      ]
+    },
+    {
+      "id": "4b65595b1f595623fbc1dd2c5b335931850faa070523f71a7d5dc4e1970c9d61",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Nor is this an attempt to refute people's criticism; I can certainly understand why people are critical of the timing. However speaking just for myself I believe that this flashback will play a major ",
+      "text": "Nor is this an attempt to refute people's criticism; I can certainly understand why people are critical of the timing. However speaking just for myself I believe that this flashback will play a major role and was deliberately chosen by Oda for this specific moment or at least, that is what I am hoping for.",
+      "url": "https://nitter.net/WorstGenHQ/status/2059705052772577361#m",
+      "date": "Wed, 27 May 2026 18:35:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5c6752316eb11f4d6aeb8ac0b53f20de720b1063524287c7f72a0acfdc33ec0a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 People might criticize the timing of the flashback, whether you agree with that or not is a matter of opinion. For my part: I simply think this flashback will play a huge role down the l",
+      "text": "#ONEPIECE1184 People might criticize the timing of the flashback, whether you agree with that or not is a matter of opinion. For my part: I simply think this flashback will play a huge role down the line; I’d expect a major plot reveal linked to Imu in general.",
+      "url": "https://nitter.net/WorstGenHQ/status/2059704930605179075#m",
+      "date": "Wed, 27 May 2026 18:34:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJWKehcXYAQxPvW.jpg"
+      ]
+    },
+    {
       "id": "3a2380b4ec18aced9e6333251a3d2ed27ca766893c2f3a43288f3e61eb461020",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -452,137 +403,18 @@
       "attachments": []
     },
     {
-      "id": "ce2691f73502d4a87416fae4fdd6d1625a910ed29f695e8039df40dcf547721e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Eid Mubarak to everyone who celebrate it. Wish you can enjoy the time with you family and stay safe(wish this overall to my entire community)!",
-      "text": "Eid Mubarak to everyone who celebrate it. Wish you can enjoy the time with you family and stay safe(wish this overall to my entire community)!",
-      "url": "https://nitter.net/WorstGenHQ/status/2059501369497727433#m",
-      "date": "Wed, 27 May 2026 05:06:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "fe347d11a25b479181873e9fe5021e75ccb552c5a24536d32f91389235ea5de8",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Was hot today in germany, swimming was the best choice...😭",
-      "text": "Was hot today in germany, swimming was the best choice...😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2059350879950565730#m",
-      "date": "Tue, 26 May 2026 19:08:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "06252bccf68b220f88575865dbdd1f1479addf84d44915342cf896c4ec723233",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
-      "url": "https://nitter.net/pewpiece/status/2059268564234694810#m",
-      "date": "Tue, 26 May 2026 13:40:59 GMT",
+      "id": "5a074787304535566451768dc714acf6635652879e8c82095af449fce0879bc6",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "“Naruto, your parents are dead won’t you be lonely?” “No, the 4th Hokage looks after me.” #NARUTO Video",
+      "text": "“Naruto, your parents are dead won’t you be lonely?” “No, the 4th Hokage looks after me.” #NARUTO Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2059703241248497673#m",
+      "date": "Wed, 27 May 2026 18:28:14 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJP8XihWUAAtkAk.jpg"
-      ]
-    },
-    {
-      "id": "867f2960ce48bfbdcc2d9ba5d428928a4c4b38559c74063f6dc72433fd84eba2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "url": "https://nitter.net/MarvelStudios/status/2059665954565771367#m",
-      "date": "Wed, 27 May 2026 16:00:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
-      ]
-    },
-    {
-      "id": "04651459d6f041479cbb680239011434a6cc2a38955cf52055a44ca87fd9663f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
-      "text": "We’re back, baby. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+.",
-      "url": "https://nitter.net/MarvelStudios/status/2059667242049282348#m",
-      "date": "Wed, 27 May 2026 16:05:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVoOUObgAAY84v.jpg"
-      ]
-    },
-    {
-      "id": "b2fb8492a6651914a63782c8ecfdf192f216fb786c850b6c35967d4dd5d50fc8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "text": "Time to get the X-Men back to the 90s. Marvel Animation’s #XMen97 Season 2 streams July 1, only on Disney+. Video",
-      "url": "https://nitter.net/Marvel/status/2059666166919110752#m",
-      "date": "Wed, 27 May 2026 16:00:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVekznXoAEVEc4.jpg"
-      ]
-    },
-    {
-      "id": "179bf752bfd6df2959e09fbfb070bb29c01afb47eceba76f728e6422a5c09e82",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero",
-      "text": "🔴SAINT SEIYA TENKAI-HEN FASE 3🔴 ¡Muchachos! Acá les dejo la versión canónica en español del capítulo 3 del nuevo manga Saint Seiya Tenkai-Hen ;D facebook.com/share/p/18XFZaP… Traducción: Gatito-Zero Edición: RVD (yo ;D) Saludos #saintseiya #seiya #knightsofthezodiac #kotz #loscaballerosdelzodiaco #masamikurumada #聖闘士星矢 #nextdimension #ssnextdimension #saintseiyanextdimension #saintseiyathen #tenkaihen #saintseiyatenkaihen @murielkawaii",
-      "url": "https://nitter.net/CesarinCool/status/2059652638136803595#m",
-      "date": "Wed, 27 May 2026 15:07:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVbH2rWgAAq4dj.jpg"
-      ]
-    },
-    {
-      "id": "44a3fa68f05d7896af7c24c0d1165dce2087e71e23d1a977086691ad422ab7dc",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "text": "The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
-      "url": "https://nitter.net/Mugiwara_23/status/2059651379422003492#m",
-      "date": "Wed, 27 May 2026 15:02:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2056650054534918144%2FaLhRKa72%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "bf7579ad43791857292e17ac64b2d801816046385f22e354dcf87b0f6080c128",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dra",
-      "text": "Woven with characters by Akira Toriyama and music by Koichi Sugiyama, this title tells the story of a protagonist who sees mysterious dreams.💭 DRAGON QUEST (@DragonQuest) We are proud to announce Dragon Quest XII: Beyond Dreams! Get your first look at #DQ12 with messages from game designer, Yuji Horii and executive producer, Yosuke Saito here: piped.video/QsYz_CVdowA — https://nitter.net/DragonQuest/status/2059626200151237072#m",
-      "url": "https://nitter.net/DragonQuest/status/2059635831439290368#m",
-      "date": "Wed, 27 May 2026 14:00:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVDGxgbEAAUGuL.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DakAAcBhg.jpg",
-        "https://nitter.net/pic/media%2FHJVDG0DacAACr1z.jpg",
-        "https://nitter.net/pic/media%2FHJVDGy9bMAAaARX.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2059703138810990596%2Fimg%2FxxWqN5_Bt-a8uErV.jpg"
       ]
     },
     {
@@ -642,22 +474,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
-      ]
-    },
-    {
-      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
-      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
-      "date": "Thu, 21 May 2026 09:34:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
-        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
       ]
     },
     {
