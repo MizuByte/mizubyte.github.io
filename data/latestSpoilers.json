@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-05-26T23:49:49.877Z",
+  "generatedAt": "2026-05-27T02:50:56.642Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "e71243a2ef45ef2e89a092390bb42039426b251886af27b3d75ac6bce0c5b8af",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I’m saying this because the spoilers themselves are going to disappoint people, but the chapter itself will actually be better. That’s why I’m issuing a clear warning: you should wait for the full cha",
+      "text": "I’m saying this because the spoilers themselves are going to disappoint people, but the chapter itself will actually be better. That’s why I’m issuing a clear warning: you should wait for the full chapter before passing judgment. I can’t really say anything more than that.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058991160886972649#m",
+      "date": "Mon, 25 May 2026 19:18:41 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "abe5d95e6a39057daa45920d6b76a2110fea2f3d9a6c0d821c6d26d6e7b10925",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 This might be a chapter where you just skip straight to the scanlation and skip the spoilers (though not because it’s so damn good). Might be better, a chapter where the chapter itself i",
+      "text": "#ONEPIECE1184 This might be a chapter where you just skip straight to the scanlation and skip the spoilers (though not because it’s so damn good). Might be better, a chapter where the chapter itself is more important,there’s no point in starting to post hints or anything, sorry.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058991079819518366#m",
+      "date": "Mon, 25 May 2026 19:18:22 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
+      "date": "Sun, 24 May 2026 11:16:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
+      ]
+    },
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
@@ -35,6 +76,62 @@
   ],
   "misc": [
     {
+      "id": "fe347d11a25b479181873e9fe5021e75ccb552c5a24536d32f91389235ea5de8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Was hot today in germany, swimming was the best choice...😭",
+      "text": "Was hot today in germany, swimming was the best choice...😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2059350879950565730#m",
+      "date": "Tue, 26 May 2026 19:08:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "06252bccf68b220f88575865dbdd1f1479addf84d44915342cf896c4ec723233",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "url": "https://nitter.net/pewpiece/status/2059268564234694810#m",
+      "date": "Tue, 26 May 2026 13:40:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJP8XihWUAAtkAk.jpg"
+      ]
+    },
+    {
+      "id": "ee303f5e1a01745ea0e1bfffa46bad8a102150d34ed2ee8c065dae03ef2f3344",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
+      "text": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
+      "url": "https://nitter.net/WorstGenHQ/status/2058994043061719185#m",
+      "date": "Mon, 25 May 2026 19:30:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "78442954ca34119eacbfc25ea0463b1f0020e2a1976b72dcae05386a0a341f36",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appe",
+      "text": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appears far too late, perhaps it should have come even before the Loki flashback.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058992363301716150#m",
+      "date": "Mon, 25 May 2026 19:23:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJMCl0FW4AA0gLk.jpg"
+      ]
+    },
+    {
       "id": "fdee70f13da126d57b7861c40c3643e0e30899078946dd5748f76780c89e07e6",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -125,6 +222,81 @@
       ]
     },
     {
+      "id": "8bdd9fd793dbbaa434079e1bdac641d1e6450792e40d5fda796792dcd118f49e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "text": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "url": "https://nitter.net/SchmurfiV1/status/2058764412568089068#m",
+      "date": "Mon, 25 May 2026 04:17:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJIzUjiXoAAurrt.jpg"
+      ]
+    },
+    {
+      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
+      "date": "Sun, 24 May 2026 11:18:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
+      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
+      "date": "Thu, 21 May 2026 18:08:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
+        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+      ]
+    },
+    {
+      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
+      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+      ]
+    },
+    {
+      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
+      "date": "Thu, 21 May 2026 09:34:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
+        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
+      ]
+    },
+    {
       "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -183,95 +355,50 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
       ]
-    },
-    {
-      "id": "1ad2f2004cad70af70f247d23afa57fa50ce461eefdd181a5323a43f206e2c1b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Cuál es el peor final de anime que has visto?",
-      "text": "¿Cuál es el peor final de anime que has visto?",
-      "url": "https://nitter.net/daily_berserk/status/2059373004275274108#m",
-      "date": "Tue, 26 May 2026 20:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFps-zWgAEHKb3.jpg"
-      ]
-    },
-    {
-      "id": "41a47a439088e21d5e2104b1ebb52ed8be2486c322c4f849ef8adc5d0323e3f6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "If you could only save one manga, which one would it be? I know exactly which one...",
-      "text": "If you could only save one manga, which one would it be? I know exactly which one...",
-      "url": "https://nitter.net/daily_berserk/status/2059304553737040078#m",
-      "date": "Tue, 26 May 2026 16:04:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "27706ed972d34f69b750c6dcbd0224ab40d666c205b708946554d1ca15371fa3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Qué anime está extremadamente infravalorado para ti?",
-      "text": "¿Qué anime está extremadamente infravalorado para ti?",
-      "url": "https://nitter.net/daily_berserk/status/2059251957144203627#m",
-      "date": "Tue, 26 May 2026 12:35:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJHg8rfWEAAA7ju.jpg"
-      ]
-    },
-    {
-      "id": "d3a77bb221085824a98143d08f373c9b26c9ced9bb28c434b33142b07cf88114",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Solo puedes salvar un Big 3. ¿Cuál eliges y por qué?",
-      "text": "Solo puedes salvar un Big 3. ¿Cuál eliges y por qué?",
-      "url": "https://nitter.net/daily_berserk/status/2059085610783019224#m",
-      "date": "Tue, 26 May 2026 01:34:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJHhBMJX0AAgzPk.jpg"
-      ]
-    },
-    {
-      "id": "49716d6e8446e81d64c84ccbc545eb638c1ea0a0267b63cd0121b7caaca1a973",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "NUEVA INFORMACIÓN DEL ANIME CYBERPUNK: EDGERUNNERS 2 SERÁ REVELADA ESTE 3 DE JULIO. ✨",
-      "text": "NUEVA INFORMACIÓN DEL ANIME CYBERPUNK: EDGERUNNERS 2 SERÁ REVELADA ESTE 3 DE JULIO. ✨",
-      "url": "https://nitter.net/daily_berserk/status/2059152370357948806#m",
-      "date": "Tue, 26 May 2026 05:59:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJOUKqwXUAAz4sk.jpg"
-      ]
-    },
-    {
-      "id": "26502c58ac017a53b570c9b7101275bd473755868d3f80da5960153b83c79c8f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Suelta una opinión polémica de anime y no la expliques 🔥",
-      "text": "Suelta una opinión polémica de anime y no la expliques 🔥",
-      "url": "https://nitter.net/daily_berserk/status/2059146008685412611#m",
-      "date": "Tue, 26 May 2026 05:34:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
+    {
+      "id": "e71243a2ef45ef2e89a092390bb42039426b251886af27b3d75ac6bce0c5b8af",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I’m saying this because the spoilers themselves are going to disappoint people, but the chapter itself will actually be better. That’s why I’m issuing a clear warning: you should wait for the full cha",
+      "text": "I’m saying this because the spoilers themselves are going to disappoint people, but the chapter itself will actually be better. That’s why I’m issuing a clear warning: you should wait for the full chapter before passing judgment. I can’t really say anything more than that.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058991160886972649#m",
+      "date": "Mon, 25 May 2026 19:18:41 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "abe5d95e6a39057daa45920d6b76a2110fea2f3d9a6c0d821c6d26d6e7b10925",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 This might be a chapter where you just skip straight to the scanlation and skip the spoilers (though not because it’s so damn good). Might be better, a chapter where the chapter itself i",
+      "text": "#ONEPIECE1184 This might be a chapter where you just skip straight to the scanlation and skip the spoilers (though not because it’s so damn good). Might be better, a chapter where the chapter itself is more important,there’s no point in starting to post hints or anything, sorry.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058991079819518366#m",
+      "date": "Mon, 25 May 2026 19:18:22 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "text": "Btw Ikemoto needs to work on his art for drawing emotions… The smiling faces of Sakura and Sarada look like they are forced… And if you deny that, then I can’t help you… #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507424932172223#m",
+      "date": "Sun, 24 May 2026 11:16:29 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJFJlXoXUAAF9RT.jpg"
+      ]
+    },
     {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
@@ -303,6 +430,62 @@
       ]
     },
     {
+      "id": "fe347d11a25b479181873e9fe5021e75ccb552c5a24536d32f91389235ea5de8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Was hot today in germany, swimming was the best choice...😭",
+      "text": "Was hot today in germany, swimming was the best choice...😭",
+      "url": "https://nitter.net/WorstGenHQ/status/2059350879950565730#m",
+      "date": "Tue, 26 May 2026 19:08:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "06252bccf68b220f88575865dbdd1f1479addf84d44915342cf896c4ec723233",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "text": "ONEPIECE MANGA WILL BE ON BREAK NEXT WEEK",
+      "url": "https://nitter.net/pewpiece/status/2059268564234694810#m",
+      "date": "Tue, 26 May 2026 13:40:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJP8XihWUAAtkAk.jpg"
+      ]
+    },
+    {
+      "id": "ee303f5e1a01745ea0e1bfffa46bad8a102150d34ed2ee8c065dae03ef2f3344",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
+      "text": "#ONEPIECE1184 For Brook fans, you gonna love this chapter.^^",
+      "url": "https://nitter.net/WorstGenHQ/status/2058994043061719185#m",
+      "date": "Mon, 25 May 2026 19:30:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "78442954ca34119eacbfc25ea0463b1f0020e2a1976b72dcae05386a0a341f36",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appe",
+      "text": "#ONEPIECE1183 I’m probably one of the few people who are genuinely interested in Brook’s backstory and Gunko’s past. However, I can understand the criticism from users who feel that the flashback appears far too late, perhaps it should have come even before the Loki flashback.",
+      "url": "https://nitter.net/WorstGenHQ/status/2058992363301716150#m",
+      "date": "Mon, 25 May 2026 19:23:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJMCl0FW4AA0gLk.jpg"
+      ]
+    },
+    {
       "id": "fdee70f13da126d57b7861c40c3643e0e30899078946dd5748f76780c89e07e6",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -393,6 +576,81 @@
       ]
     },
     {
+      "id": "8bdd9fd793dbbaa434079e1bdac641d1e6450792e40d5fda796792dcd118f49e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "text": "Your ex fiancée and your ex best friend have been laughing at you for years now I can’t breathe",
+      "url": "https://nitter.net/SchmurfiV1/status/2058764412568089068#m",
+      "date": "Mon, 25 May 2026 04:17:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJIzUjiXoAAurrt.jpg"
+      ]
+    },
+    {
+      "id": "9fce1de2e00a446ec6683a95d1f0816de162fb79263788e89a39e7f575a0c139",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "text": "Sakura looks like she got insulted by someone but still has to put a smile on her face to maintain her professional appearance…😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2058507833050587416#m",
+      "date": "Sun, 24 May 2026 11:18:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8217d4096eda29e30c5d140a628a9f5a46a5c54a4de9288f2a2d165955a57dda",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.n",
+      "text": "I actually forgot that this irrelevant character actually died lmao. Now Ikemoto has to start killing off the main side cast (Rest in Peace Shikadai) #BORUTO daily yodo (@yododaily) — https://nitter.net/yododaily/status/1924846298768752859#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2057523879719862618#m",
+      "date": "Thu, 21 May 2026 18:08:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FGrZtbrJXoAACXnN.jpg",
+        "https://nitter.net/pic/media%2FGrZtefnXoAAx6oM.jpg"
+      ]
+    },
+    {
+      "id": "0330271efe66a0db1f0efa8bb98e5569681d7c0db6f83809e2ff9c2ec6ea81bb",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "text": "Sumire to Boruto whenever Sarada isn’t around: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057497724669300829#m",
+      "date": "Thu, 21 May 2026 16:24:18 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI2zRlDWIAEuUZB.jpg"
+      ]
+    },
+    {
+      "id": "85f72afd7f13c371901bf28b52254f8986dec86d3cea0e42e422957fe6734d66",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "text": "My serious issue with Boruto TBV right: Don’t get me wrong, I am a huge fan of Boruto TBV and it won’t change that fast… But… (A thread 🧵) #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2057394477195534627#m",
+      "date": "Thu, 21 May 2026 09:34:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI1VXsyW0AA_-3V.jpg",
+        "https://nitter.net/pic/media%2FHI1VXs3WQAEJZnL.jpg"
+      ]
+    },
+    {
       "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -451,92 +709,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
       ]
-    },
-    {
-      "id": "1ad2f2004cad70af70f247d23afa57fa50ce461eefdd181a5323a43f206e2c1b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Cuál es el peor final de anime que has visto?",
-      "text": "¿Cuál es el peor final de anime que has visto?",
-      "url": "https://nitter.net/daily_berserk/status/2059373004275274108#m",
-      "date": "Tue, 26 May 2026 20:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJFps-zWgAEHKb3.jpg"
-      ]
-    },
-    {
-      "id": "41a47a439088e21d5e2104b1ebb52ed8be2486c322c4f849ef8adc5d0323e3f6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "If you could only save one manga, which one would it be? I know exactly which one...",
-      "text": "If you could only save one manga, which one would it be? I know exactly which one...",
-      "url": "https://nitter.net/daily_berserk/status/2059304553737040078#m",
-      "date": "Tue, 26 May 2026 16:04:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "27706ed972d34f69b750c6dcbd0224ab40d666c205b708946554d1ca15371fa3",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "¿Qué anime está extremadamente infravalorado para ti?",
-      "text": "¿Qué anime está extremadamente infravalorado para ti?",
-      "url": "https://nitter.net/daily_berserk/status/2059251957144203627#m",
-      "date": "Tue, 26 May 2026 12:35:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJHg8rfWEAAA7ju.jpg"
-      ]
-    },
-    {
-      "id": "d3a77bb221085824a98143d08f373c9b26c9ced9bb28c434b33142b07cf88114",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Solo puedes salvar un Big 3. ¿Cuál eliges y por qué?",
-      "text": "Solo puedes salvar un Big 3. ¿Cuál eliges y por qué?",
-      "url": "https://nitter.net/daily_berserk/status/2059085610783019224#m",
-      "date": "Tue, 26 May 2026 01:34:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJHhBMJX0AAgzPk.jpg"
-      ]
-    },
-    {
-      "id": "49716d6e8446e81d64c84ccbc545eb638c1ea0a0267b63cd0121b7caaca1a973",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "NUEVA INFORMACIÓN DEL ANIME CYBERPUNK: EDGERUNNERS 2 SERÁ REVELADA ESTE 3 DE JULIO. ✨",
-      "text": "NUEVA INFORMACIÓN DEL ANIME CYBERPUNK: EDGERUNNERS 2 SERÁ REVELADA ESTE 3 DE JULIO. ✨",
-      "url": "https://nitter.net/daily_berserk/status/2059152370357948806#m",
-      "date": "Tue, 26 May 2026 05:59:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJOUKqwXUAAz4sk.jpg"
-      ]
-    },
-    {
-      "id": "26502c58ac017a53b570c9b7101275bd473755868d3f80da5960153b83c79c8f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Suelta una opinión polémica de anime y no la expliques 🔥",
-      "text": "Suelta una opinión polémica de anime y no la expliques 🔥",
-      "url": "https://nitter.net/daily_berserk/status/2059146008685412611#m",
-      "date": "Tue, 26 May 2026 05:34:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ]
 }
