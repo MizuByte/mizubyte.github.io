@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T00:17:11.150Z",
+  "generatedAt": "2026-05-28T04:46:15.539Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -379,18 +379,21 @@
       ]
     },
     {
-      "id": "f5623c784e151e90c5457470e1bc0276b8858095620d19673f627ce42bcdec25",
+      "id": "958f005540fda29656a33b50c852f3d20ced126f211c78dbf0b3f82e022d2f48",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#Berserk",
-      "text": "#Berserk",
-      "url": "https://nitter.net/daily_berserk/status/2059729352489603075#m",
-      "date": "Wed, 27 May 2026 20:12:00 GMT",
+      "title": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "text": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "url": "https://nitter.net/daily_berserk/status/2059796545105797370#m",
+      "date": "Thu, 28 May 2026 00:39:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJLJHidWYAAM77J.jpg"
+        "https://nitter.net/pic/media%2FHJL4lWCWkAEWAVz.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWDXsAA7uAj.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWFXQAAjsjd.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWEXQAAOYMQ.jpg"
       ]
     }
   ],
@@ -770,18 +773,21 @@
       ]
     },
     {
-      "id": "f5623c784e151e90c5457470e1bc0276b8858095620d19673f627ce42bcdec25",
+      "id": "958f005540fda29656a33b50c852f3d20ced126f211c78dbf0b3f82e022d2f48",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#Berserk",
-      "text": "#Berserk",
-      "url": "https://nitter.net/daily_berserk/status/2059729352489603075#m",
-      "date": "Wed, 27 May 2026 20:12:00 GMT",
+      "title": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "text": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "url": "https://nitter.net/daily_berserk/status/2059796545105797370#m",
+      "date": "Thu, 28 May 2026 00:39:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHJLJHidWYAAM77J.jpg"
+        "https://nitter.net/pic/media%2FHJL4lWCWkAEWAVz.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWDXsAA7uAj.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWFXQAAjsjd.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWEXQAAOYMQ.jpg"
       ]
     }
   ]
