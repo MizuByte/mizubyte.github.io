@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-05-28T04:46:15.539Z",
+  "generatedAt": "2026-05-28T08:34:52.109Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "7ea8c0825403e88a740b520450fb90d455acbe996375bb928fd88f8c95df8acc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
-      "text": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
-      "url": "https://nitter.net/WorstGenHQ/status/2059665871941808326#m",
-      "date": "Wed, 27 May 2026 15:59:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVnBotWoAUwOqc.png"
-      ]
-    },
-    {
-      "id": "c7db3b6af09d6a7edb9d23aa4db7c65a108a42dd4fec62c6c9c4f2eed3f33768",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Sony/status/2059658212266147931#m",
-      "date": "Wed, 27 May 2026 15:29:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVgNmnW8AQyThD.jpg"
-      ]
-    },
     {
       "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
       "anime": "boruto",
@@ -76,22 +46,55 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
       ]
-    },
-    {
-      "id": "258df0fb620b4ef98c7260aba9e36e42acc3658a5afc5fe65dee957f153e8173",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "text": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "url": "https://nitter.net/daily_berserk/status/2059637246198796426#m",
-      "date": "Wed, 27 May 2026 14:06:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
+    {
+      "id": "15e41e497c564966f14f0a5a2af317244168844039807fef3fd4b185a8f88943",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Best time to invest in goathawk stocks 📈📈📈 - agendamarket.com",
+      "text": "Best time to invest in goathawk stocks 📈📈📈 - agendamarket.com",
+      "url": "https://nitter.net/kevinultimate11/status/2059901508628717772#m",
+      "date": "Thu, 28 May 2026 07:36:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJY9gDgbIAAqJr7.jpg"
+      ]
+    },
+    {
+      "id": "98151e2b240fb94e38e9b8070456b17312d09306aaa651f4f03e2dd0c56b2621",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 If the theory involving Candle and Mihawk holds true, she is 100% a Holy Knight. I doubt that Candle gave birth to a child in her late 60s or 70s,unless, of course, she is a Holy Knight,",
+      "text": "#ONEPIECE1184 If the theory involving Candle and Mihawk holds true, she is 100% a Holy Knight. I doubt that Candle gave birth to a child in her late 60s or 70s,unless, of course, she is a Holy Knight, in which case she would be immortal. Damn Mihawk and Gunko siblings?",
+      "url": "https://nitter.net/WorstGenHQ/status/2059901346392731877#m",
+      "date": "Thu, 28 May 2026 07:35:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJY9W87WUAEeETJ.jpg"
+      ]
+    },
+    {
+      "id": "bf851ddf3a7685d00169ea49c37aec5be9c7e303563b13bb164612a53e605633",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE #ONEPIECE1184 iirc, Candel is the 2nd character to appear with a costum SFX design 1st being Mihawk Interesting how they're the same design👀",
+      "text": "#ONEPIECE #ONEPIECE1184 iirc, Candel is the 2nd character to appear with a costum SFX design 1st being Mihawk Interesting how they're the same design👀",
+      "url": "https://nitter.net/OgHumanTripod/status/2059854814926762253#m",
+      "date": "Thu, 28 May 2026 04:30:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJYTCSFXkAUqnrK.jpg",
+        "https://nitter.net/pic/media%2FHJYTCSNWQAIZTbb.jpg"
+      ]
+    },
     {
       "id": "794308b1a15a0298accd15ddf93305238d393d42e652033d0cc85a30909a318b",
       "anime": "onepiece",
@@ -133,115 +136,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHJWKehcXYAQxPvW.jpg"
-      ]
-    },
-    {
-      "id": "3a2380b4ec18aced9e6333251a3d2ed27ca766893c2f3a43288f3e61eb461020",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
-      "text": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
-      "url": "https://nitter.net/onepiecenetflix/status/2059605539575804173#m",
-      "date": "Wed, 27 May 2026 12:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJTB3DeXAAELSF9.jpg"
-      ]
-    },
-    {
-      "id": "d1659227d4b9ee1174a62e74a7d0f57aae77aa89a23f54f1f646ef0dc0350122",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1184 A short chapter(12-14pages at best). We see how Brook grow up and how/why he start following the King.",
-      "text": "#ONEPIECE1184 A short chapter(12-14pages at best). We see how Brook grow up and how/why he start following the King.",
-      "url": "https://nitter.net/WorstGenHQ/status/2059504000295207047#m",
-      "date": "Wed, 27 May 2026 05:16:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bf19040ebd05fa15191696aaa4738e7ae65a05fe8efdcadedaa0e82bbc9eb78b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2万か… 駿河屋札幌ノルベサ店 (@suruga_norbesa) 1階のレジ横にて、ジャンプバックナンバー特集のエリアが出来ました‼️ 1980年代や2026年ものもございますので、ご来店お待ちしております‼️‼️ #ジャンプ #駿河屋札幌ノルベサ店 — https://nitter.net/suruga_norbesa/status/2059547724144636252#m",
-      "text": "2万か… 駿河屋札幌ノルベサ店 (@suruga_norbesa) 1階のレジ横にて、ジャンプバックナンバー特集のエリアが出来ました‼️ 1980年代や2026年ものもございますので、ご来店お待ちしております‼️‼️ #ジャンプ #駿河屋札幌ノルベサ店 — https://nitter.net/suruga_norbesa/status/2059547724144636252#m",
-      "url": "https://nitter.net/jump_goods/status/2059633377129779365#m",
-      "date": "Wed, 27 May 2026 13:50:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVJpGZbkAAqHk_.jpg",
-        "https://nitter.net/pic/media%2FHJT7vGNa4AAICxz.jpg",
-        "https://nitter.net/pic/media%2FHJT7vGNagAAflwB.jpg",
-        "https://nitter.net/pic/media%2FHJT7vGPbMAAE9a0.jpg"
-      ]
-    },
-    {
-      "id": "42654debd97cb5fcfdc2f0352cc669ee9d4aa04cfb6c790dac81a218241693d2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "先日10年展の最終日に行ってきたけど、本当に素晴らしかった…！！ ハンカチなしじゃ歩いて回られなかったよ…🥹",
-      "text": "先日10年展の最終日に行ってきたけど、本当に素晴らしかった…！！ ハンカチなしじゃ歩いて回られなかったよ…🥹",
-      "url": "https://nitter.net/yumeko252525/status/2059615167193952681#m",
-      "date": "Wed, 27 May 2026 12:38:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJU5E0ea0AAukHg.jpg",
-        "https://nitter.net/pic/media%2FHJU5E0dacAA0wEI.jpg",
-        "https://nitter.net/pic/media%2FHJU5E0nakAEle-x.jpg",
-        "https://nitter.net/pic/media%2FHJU5E0maQAAd5TL.jpg"
-      ]
-    },
-    {
-      "id": "34e91c19f665b9bbfdfdee45ba62b2ba1195a3f1ff7b898c941ac2670f7b47a0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "tia que hay audios de tu marido conspirando con la derecha mediática para inventarse noticias de que coño hablas Ana Pastor 🇪🇸 (@_anapastor_) Están siendo semanas y meses muy claros…Un retrato muy p",
-      "text": "tia que hay audios de tu marido conspirando con la derecha mediática para inventarse noticias de que coño hablas Ana Pastor 🇪🇸 (@_anapastor_) Están siendo semanas y meses muy claros…Un retrato muy preciso de quienes han tapado, justificado lo injustificable y defendido lo indefendible. Es una suerte trabajar en @laSextaTV donde no hemos hecho genuflexiones aunque nos llamen fachas por hablar de los casos de corrupción de la izquierda. #OrgulloSexta — https://nitter.net/_anapastor_/status/2059668434888114290#m",
-      "url": "https://nitter.net/lajuliabarish/status/2059686824314875923#m",
-      "date": "Wed, 27 May 2026 17:23:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0eaf90a78bf54484b23c2a5b0f1bc662a37f3108fc1dfeca9951c7044a1c537c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🇪🇸 ¡Tenemos el placer de dar la bienvenida a @emilysteaparty que se une al ya confirmado @InakiGodoy, a San Diego Comic-Con®️ Málaga💛! 🇬🇧 We are pleased to welcome Emily Rudd who joins the alread",
-      "text": "🇪🇸 ¡Tenemos el placer de dar la bienvenida a @emilysteaparty que se une al ya confirmado @InakiGodoy, a San Diego Comic-Con®️ Málaga💛! 🇬🇧 We are pleased to welcome Emily Rudd who joins the already confirmed Iñaki Godoy, to #SDCCMálaga 💛!",
-      "url": "https://nitter.net/comicconmalaga/status/2059630326880637426#m",
-      "date": "Wed, 27 May 2026 13:38:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVG1gdWkAUn5ci.jpg",
-        "https://nitter.net/pic/media%2FHJVG1geWAAEgnyu.jpg",
-        "https://nitter.net/pic/media%2FHJVG1gdXkAA-gRH.jpg"
-      ]
-    },
-    {
-      "id": "117d77abb6098e33873f38af05dfcf144932f13b3e823555c40a0d5607eac79f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "／ HD-2D版 #ロト三部作 ㊗全世界400万本突破✨ ＼ HD-2D版『ドラゴンクエストIII そして伝説へ…』 と『ドラゴンクエストI＆II』の 全世界出荷・ダウンロード販売本数の合計が、400万本を突破しました🎊 ロトの物語をともに見届けてくれた皆さま、ありがとうございます💐",
-      "text": "／ HD-2D版 #ロト三部作 ㊗全世界400万本突破✨ ＼ HD-2D版『ドラゴンクエストIII そして伝説へ…』 と『ドラゴンクエストI＆II』の 全世界出荷・ダウンロード販売本数の合計が、400万本を突破しました🎊 ロトの物語をともに見届けてくれた皆さま、ありがとうございます💐",
-      "url": "https://nitter.net/DQ_PR/status/2059516824052773333#m",
-      "date": "Wed, 27 May 2026 06:07:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJTfoG3asAAk7BD.jpg"
       ]
     },
     {
@@ -376,59 +270,11 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
-    },
-    {
-      "id": "958f005540fda29656a33b50c852f3d20ced126f211c78dbf0b3f82e022d2f48",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "In your opinion, who is the most powerful Apostle in Berserk?",
-      "text": "In your opinion, who is the most powerful Apostle in Berserk?",
-      "url": "https://nitter.net/daily_berserk/status/2059796545105797370#m",
-      "date": "Thu, 28 May 2026 00:39:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJL4lWCWkAEWAVz.jpg",
-        "https://nitter.net/pic/media%2FHJL4lWDXsAA7uAj.jpg",
-        "https://nitter.net/pic/media%2FHJL4lWFXQAAjsjd.jpg",
-        "https://nitter.net/pic/media%2FHJL4lWEXQAAOYMQ.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "7ea8c0825403e88a740b520450fb90d455acbe996375bb928fd88f8c95df8acc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
-      "text": "#ONEPIECE1184 Better version of my previous spoiler: Source: Worstgenhq.",
-      "url": "https://nitter.net/WorstGenHQ/status/2059665871941808326#m",
-      "date": "Wed, 27 May 2026 15:59:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVnBotWoAUwOqc.png"
-      ]
-    },
-    {
-      "id": "c7db3b6af09d6a7edb9d23aa4db7c65a108a42dd4fec62c6c9c4f2eed3f33768",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/Sony/status/2059658212266147931#m",
-      "date": "Wed, 27 May 2026 15:29:19 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVgNmnW8AQyThD.jpg"
-      ]
-    },
-    {
       "id": "0ef4f7496d649aaafaa898512515ecec26824c79d5878b5204f5916627ed6e8e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -474,17 +320,50 @@
       ]
     },
     {
-      "id": "258df0fb620b4ef98c7260aba9e36e42acc3658a5afc5fe65dee957f153e8173",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "text": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "url": "https://nitter.net/daily_berserk/status/2059637246198796426#m",
-      "date": "Wed, 27 May 2026 14:06:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "id": "15e41e497c564966f14f0a5a2af317244168844039807fef3fd4b185a8f88943",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Best time to invest in goathawk stocks 📈📈📈 - agendamarket.com",
+      "text": "Best time to invest in goathawk stocks 📈📈📈 - agendamarket.com",
+      "url": "https://nitter.net/kevinultimate11/status/2059901508628717772#m",
+      "date": "Thu, 28 May 2026 07:36:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJY9gDgbIAAqJr7.jpg"
+      ]
+    },
+    {
+      "id": "98151e2b240fb94e38e9b8070456b17312d09306aaa651f4f03e2dd0c56b2621",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1184 If the theory involving Candle and Mihawk holds true, she is 100% a Holy Knight. I doubt that Candle gave birth to a child in her late 60s or 70s,unless, of course, she is a Holy Knight,",
+      "text": "#ONEPIECE1184 If the theory involving Candle and Mihawk holds true, she is 100% a Holy Knight. I doubt that Candle gave birth to a child in her late 60s or 70s,unless, of course, she is a Holy Knight, in which case she would be immortal. Damn Mihawk and Gunko siblings?",
+      "url": "https://nitter.net/WorstGenHQ/status/2059901346392731877#m",
+      "date": "Thu, 28 May 2026 07:35:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJY9W87WUAEeETJ.jpg"
+      ]
+    },
+    {
+      "id": "bf851ddf3a7685d00169ea49c37aec5be9c7e303563b13bb164612a53e605633",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE #ONEPIECE1184 iirc, Candel is the 2nd character to appear with a costum SFX design 1st being Mihawk Interesting how they're the same design👀",
+      "text": "#ONEPIECE #ONEPIECE1184 iirc, Candel is the 2nd character to appear with a costum SFX design 1st being Mihawk Interesting how they're the same design👀",
+      "url": "https://nitter.net/OgHumanTripod/status/2059854814926762253#m",
+      "date": "Thu, 28 May 2026 04:30:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJYTCSFXkAUqnrK.jpg",
+        "https://nitter.net/pic/media%2FHJYTCSNWQAIZTbb.jpg"
+      ]
     },
     {
       "id": "794308b1a15a0298accd15ddf93305238d393d42e652033d0cc85a30909a318b",
@@ -527,115 +406,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHJWKehcXYAQxPvW.jpg"
-      ]
-    },
-    {
-      "id": "3a2380b4ec18aced9e6333251a3d2ed27ca766893c2f3a43288f3e61eb461020",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
-      "text": "From manga panels to a real desert kingdom. Oda-sensei witnessing it all. The Battle of Alabasta begins. 🏜️ Video",
-      "url": "https://nitter.net/onepiecenetflix/status/2059605539575804173#m",
-      "date": "Wed, 27 May 2026 12:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJTB3DeXAAELSF9.jpg"
-      ]
-    },
-    {
-      "id": "d1659227d4b9ee1174a62e74a7d0f57aae77aa89a23f54f1f646ef0dc0350122",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1184 A short chapter(12-14pages at best). We see how Brook grow up and how/why he start following the King.",
-      "text": "#ONEPIECE1184 A short chapter(12-14pages at best). We see how Brook grow up and how/why he start following the King.",
-      "url": "https://nitter.net/WorstGenHQ/status/2059504000295207047#m",
-      "date": "Wed, 27 May 2026 05:16:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bf19040ebd05fa15191696aaa4738e7ae65a05fe8efdcadedaa0e82bbc9eb78b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "2万か… 駿河屋札幌ノルベサ店 (@suruga_norbesa) 1階のレジ横にて、ジャンプバックナンバー特集のエリアが出来ました‼️ 1980年代や2026年ものもございますので、ご来店お待ちしております‼️‼️ #ジャンプ #駿河屋札幌ノルベサ店 — https://nitter.net/suruga_norbesa/status/2059547724144636252#m",
-      "text": "2万か… 駿河屋札幌ノルベサ店 (@suruga_norbesa) 1階のレジ横にて、ジャンプバックナンバー特集のエリアが出来ました‼️ 1980年代や2026年ものもございますので、ご来店お待ちしております‼️‼️ #ジャンプ #駿河屋札幌ノルベサ店 — https://nitter.net/suruga_norbesa/status/2059547724144636252#m",
-      "url": "https://nitter.net/jump_goods/status/2059633377129779365#m",
-      "date": "Wed, 27 May 2026 13:50:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVJpGZbkAAqHk_.jpg",
-        "https://nitter.net/pic/media%2FHJT7vGNa4AAICxz.jpg",
-        "https://nitter.net/pic/media%2FHJT7vGNagAAflwB.jpg",
-        "https://nitter.net/pic/media%2FHJT7vGPbMAAE9a0.jpg"
-      ]
-    },
-    {
-      "id": "42654debd97cb5fcfdc2f0352cc669ee9d4aa04cfb6c790dac81a218241693d2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "先日10年展の最終日に行ってきたけど、本当に素晴らしかった…！！ ハンカチなしじゃ歩いて回られなかったよ…🥹",
-      "text": "先日10年展の最終日に行ってきたけど、本当に素晴らしかった…！！ ハンカチなしじゃ歩いて回られなかったよ…🥹",
-      "url": "https://nitter.net/yumeko252525/status/2059615167193952681#m",
-      "date": "Wed, 27 May 2026 12:38:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJU5E0ea0AAukHg.jpg",
-        "https://nitter.net/pic/media%2FHJU5E0dacAA0wEI.jpg",
-        "https://nitter.net/pic/media%2FHJU5E0nakAEle-x.jpg",
-        "https://nitter.net/pic/media%2FHJU5E0maQAAd5TL.jpg"
-      ]
-    },
-    {
-      "id": "34e91c19f665b9bbfdfdee45ba62b2ba1195a3f1ff7b898c941ac2670f7b47a0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "tia que hay audios de tu marido conspirando con la derecha mediática para inventarse noticias de que coño hablas Ana Pastor 🇪🇸 (@_anapastor_) Están siendo semanas y meses muy claros…Un retrato muy p",
-      "text": "tia que hay audios de tu marido conspirando con la derecha mediática para inventarse noticias de que coño hablas Ana Pastor 🇪🇸 (@_anapastor_) Están siendo semanas y meses muy claros…Un retrato muy preciso de quienes han tapado, justificado lo injustificable y defendido lo indefendible. Es una suerte trabajar en @laSextaTV donde no hemos hecho genuflexiones aunque nos llamen fachas por hablar de los casos de corrupción de la izquierda. #OrgulloSexta — https://nitter.net/_anapastor_/status/2059668434888114290#m",
-      "url": "https://nitter.net/lajuliabarish/status/2059686824314875923#m",
-      "date": "Wed, 27 May 2026 17:23:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0eaf90a78bf54484b23c2a5b0f1bc662a37f3108fc1dfeca9951c7044a1c537c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🇪🇸 ¡Tenemos el placer de dar la bienvenida a @emilysteaparty que se une al ya confirmado @InakiGodoy, a San Diego Comic-Con®️ Málaga💛! 🇬🇧 We are pleased to welcome Emily Rudd who joins the alread",
-      "text": "🇪🇸 ¡Tenemos el placer de dar la bienvenida a @emilysteaparty que se une al ya confirmado @InakiGodoy, a San Diego Comic-Con®️ Málaga💛! 🇬🇧 We are pleased to welcome Emily Rudd who joins the already confirmed Iñaki Godoy, to #SDCCMálaga 💛!",
-      "url": "https://nitter.net/comicconmalaga/status/2059630326880637426#m",
-      "date": "Wed, 27 May 2026 13:38:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJVG1gdWkAUn5ci.jpg",
-        "https://nitter.net/pic/media%2FHJVG1geWAAEgnyu.jpg",
-        "https://nitter.net/pic/media%2FHJVG1gdXkAA-gRH.jpg"
-      ]
-    },
-    {
-      "id": "117d77abb6098e33873f38af05dfcf144932f13b3e823555c40a0d5607eac79f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "／ HD-2D版 #ロト三部作 ㊗全世界400万本突破✨ ＼ HD-2D版『ドラゴンクエストIII そして伝説へ…』 と『ドラゴンクエストI＆II』の 全世界出荷・ダウンロード販売本数の合計が、400万本を突破しました🎊 ロトの物語をともに見届けてくれた皆さま、ありがとうございます💐",
-      "text": "／ HD-2D版 #ロト三部作 ㊗全世界400万本突破✨ ＼ HD-2D版『ドラゴンクエストIII そして伝説へ…』 と『ドラゴンクエストI＆II』の 全世界出荷・ダウンロード販売本数の合計が、400万本を突破しました🎊 ロトの物語をともに見届けてくれた皆さま、ありがとうございます💐",
-      "url": "https://nitter.net/DQ_PR/status/2059516824052773333#m",
-      "date": "Wed, 27 May 2026 06:07:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJTfoG3asAAk7BD.jpg"
       ]
     },
     {
@@ -770,24 +540,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHHxYphnWIAIsWc3.jpg"
-      ]
-    },
-    {
-      "id": "958f005540fda29656a33b50c852f3d20ced126f211c78dbf0b3f82e022d2f48",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "In your opinion, who is the most powerful Apostle in Berserk?",
-      "text": "In your opinion, who is the most powerful Apostle in Berserk?",
-      "url": "https://nitter.net/daily_berserk/status/2059796545105797370#m",
-      "date": "Thu, 28 May 2026 00:39:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJL4lWCWkAEWAVz.jpg",
-        "https://nitter.net/pic/media%2FHJL4lWDXsAA7uAj.jpg",
-        "https://nitter.net/pic/media%2FHJL4lWFXQAAjsjd.jpg",
-        "https://nitter.net/pic/media%2FHJL4lWEXQAAOYMQ.jpg"
       ]
     }
   ]
