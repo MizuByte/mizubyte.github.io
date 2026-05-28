@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T19:26:36.524Z",
+  "generatedAt": "2026-05-28T21:35:27.549Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -46,19 +46,6 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
       ]
-    },
-    {
-      "id": "258df0fb620b4ef98c7260aba9e36e42acc3658a5afc5fe65dee957f153e8173",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "text": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "url": "https://nitter.net/daily_berserk/status/2059637246198796426#m",
-      "date": "Wed, 27 May 2026 14:06:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
@@ -243,6 +230,24 @@
       ]
     },
     {
+      "id": "958f005540fda29656a33b50c852f3d20ced126f211c78dbf0b3f82e022d2f48",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "text": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "url": "https://nitter.net/daily_berserk/status/2059796545105797370#m",
+      "date": "Thu, 28 May 2026 00:39:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJL4lWCWkAEWAVz.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWDXsAA7uAj.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWFXQAAjsjd.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWEXQAAOYMQ.jpg"
+      ]
+    },
+    {
       "id": "f5623c784e151e90c5457470e1bc0276b8858095620d19673f627ce42bcdec25",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -318,19 +323,6 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
       ]
-    },
-    {
-      "id": "258df0fb620b4ef98c7260aba9e36e42acc3658a5afc5fe65dee957f153e8173",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "text": "Name a character who is mentally stronger than Guts. Spoiler: There isn't one.",
-      "url": "https://nitter.net/daily_berserk/status/2059637246198796426#m",
-      "date": "Wed, 27 May 2026 14:06:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5a074787304535566451768dc714acf6635652879e8c82095af449fce0879bc6",
@@ -510,6 +502,24 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHJL465fXoAA_cvf.jpg"
+      ]
+    },
+    {
+      "id": "958f005540fda29656a33b50c852f3d20ced126f211c78dbf0b3f82e022d2f48",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "text": "In your opinion, who is the most powerful Apostle in Berserk?",
+      "url": "https://nitter.net/daily_berserk/status/2059796545105797370#m",
+      "date": "Thu, 28 May 2026 00:39:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJL4lWCWkAEWAVz.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWDXsAA7uAj.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWFXQAAjsjd.jpg",
+        "https://nitter.net/pic/media%2FHJL4lWEXQAAOYMQ.jpg"
       ]
     },
     {
