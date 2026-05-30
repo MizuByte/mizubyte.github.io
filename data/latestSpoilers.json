@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:58:55.509Z",
+  "generatedAt": "2026-05-30T21:01:24.286Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -128,17 +128,21 @@
       ]
     },
     {
-      "id": "d782f4de440c4c77cb3caa2c388873a2efd96ea0ec691e1b574c515c0e482a47",
+      "id": "9e00c7815350d17b8b1c49b766c24cda7b56f3c6e2b244b1af8f86978ad16ba8",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @TADANOKATSUO: 【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワ…",
-      "text": "RT @TADANOKATSUO: 【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワ…",
-      "url": "https://nitter.net/Mugiwara_23/status/2060810925234393411#m",
-      "date": "Sat, 30 May 2026 19:49:47 GMT",
+      "title": "【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワンピースカード",
+      "text": "【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワンピースカード",
+      "url": "https://nitter.net/TADANOKATSUO/status/2060645821125922868#m",
+      "date": "Sat, 30 May 2026 08:53:43 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJjic60aUAAQY0q.jpg",
+        "https://nitter.net/pic/media%2FHJjic6za0AAJQBn.jpg",
+        "https://nitter.net/pic/media%2FHJjic62akAA2nXr.jpg"
+      ]
     },
     {
       "id": "a2a94feb895ff92c475ee5682179679a1c13f7cbb1489b83a7a9c2356e23ae10",
@@ -270,103 +274,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "f5b974be9c462357f2ce1e92f582e9dc4e4e879ec99da8edd6cc105f13a8743b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Do you think the Memorial Edition of the Berserk anime is a good adaptation?",
-      "text": "Do you think the Memorial Edition of the Berserk anime is a good adaptation?",
-      "url": "https://nitter.net/daily_berserk/status/2060730171120914527#m",
-      "date": "Sat, 30 May 2026 14:28:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJkvKpZXUAM5TyI.jpg"
-      ]
-    },
-    {
-      "id": "77bc0d3fc1bd3a56e6ff539fe713cff7ca6d26860ea5853b137585dcab67c30d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk fans, I have a challenge for you ⚔️ Can you get this tweet to have the EXACT same number of ❤️ Likes, 🔁 Reposts and 💬 Replies? If you succeed, I’ll give away Volume 1 of the Berserk Deluxe E",
-      "text": "Berserk fans, I have a challenge for you ⚔️ Can you get this tweet to have the EXACT same number of ❤️ Likes, 🔁 Reposts and 💬 Replies? If you succeed, I’ll give away Volume 1 of the Berserk Deluxe Edition to one of the participants. Let’s see if the Berserk community can pull this off",
-      "url": "https://nitter.net/daily_berserk/status/2060651344784949611#m",
-      "date": "Sat, 30 May 2026 09:15:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJjnefFWgAQGN6i.jpg"
-      ]
-    },
-    {
-      "id": "129ffafbd8fc91da78030752f2f8374d1a0642e6e198d65a78625d7cb8a68ddb",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Which of these characters is the best supporting character in the anime?",
-      "text": "Which of these characters is the best supporting character in the anime?",
-      "url": "https://nitter.net/daily_berserk/status/2060592791772880916#m",
-      "date": "Sat, 30 May 2026 05:23:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJf4C2BW4AM3pmv.jpg",
-        "https://nitter.net/pic/media%2FHJf4C2AXgAQo2Mw.jpg",
-        "https://nitter.net/pic/media%2FHJf4C2HXEAI60bd.jpg",
-        "https://nitter.net/pic/media%2FHJf4C2AWcAMYF-o.jpg"
-      ]
-    },
-    {
-      "id": "e5ddd231c8c37df400b5a47e31ae8954661917becc095a5c12f4d52d1fb097c6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "The Golden Age Arc isn’t just Berserk’s best arc—it’s the foundation of the entire story. It makes you care about the Band of the Hawk, understand Griffith, connect with Guts and Casca, and when the E",
-      "text": "The Golden Age Arc isn’t just Berserk’s best arc—it’s the foundation of the entire story. It makes you care about the Band of the Hawk, understand Griffith, connect with Guts and Casca, and when the Eclipse finally happens, it hits like a truck because you’ve lived through their journey alongside them. Without Golden Age, Berserk would still be great. Because of Golden Age, it’s a masterpiece.",
-      "url": "https://nitter.net/daily_berserk/status/2060536696802841055#m",
-      "date": "Sat, 30 May 2026 01:40:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "58357650f27b59d5422923818b29e3a26a5887bb215e5c86cf498e80cd701fc2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Let’s end this debate once and for all. What is the greatest Berserk arc of all time? ⚔️ Golden Age 🌑 Conviction 🧚 Falcon of the Millennium Empire 🏰 Fantasia Defend your choice.",
-      "text": "Let’s end this debate once and for all. What is the greatest Berserk arc of all time? ⚔️ Golden Age 🌑 Conviction 🧚 Falcon of the Millennium Empire 🏰 Fantasia Defend your choice.",
-      "url": "https://nitter.net/daily_berserk/status/2060535903781597427#m",
-      "date": "Sat, 30 May 2026 01:36:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJh-e7wXkAUC-5A.jpg",
-        "https://nitter.net/pic/media%2FHJh-e7uW4AYd36e.jpg",
-        "https://nitter.net/pic/media%2FHJh-e7wXEAQXkIg.jpg",
-        "https://nitter.net/pic/media%2FHJh-e7zXgAE8uwT.jpg"
-      ]
-    },
-    {
-      "id": "81190a7319b738c533535f960b6736bd21db19c87269b18d1c4613c24bf77cca",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "PRÉCOMMANDE : Lancement de notre précommande pour notre statue résine de Guts de la licence Berserk Disponible en précommande sur notre site : kitsunestatue.com/produit/gu… Date estimée de sortie : S1",
-      "text": "PRÉCOMMANDE : Lancement de notre précommande pour notre statue résine de Guts de la licence Berserk Disponible en précommande sur notre site : kitsunestatue.com/produit/gu… Date estimée de sortie : S1 2027 Echelle : 1/6 Prix : 332,50€ HT Matière : Résine, PVC & PU Dimensions : H 38cm x L 26cm x P 26cm Nous espérons que vous apprécierez ce choix artistique ! Vous pourrez également retrouver cette précommande chez nos autres partenaires (magasins showrooms) 😁 ! ——————————————————— Pre-orders are now open for our resin statue of Guts from the Berserk licence ! Available for pre-order on our website: kitsunestatue.com/produit/gu… Estimated release date: S1 2027 Scale: 1/6 Price: 332,50€ (excluding VAT) Material: Resin, PVC & PU Dimensions: H 38cm x W 26cm x D 26cm We hope you enjoy this artistic choice! This pre-order is also available at our other partner stores and showrooms! 😁",
-      "url": "https://nitter.net/daily_berserk/status/2060390711099265317#m",
-      "date": "Fri, 29 May 2026 16:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJf4PToWkAM6V53.jpg",
-        "https://nitter.net/pic/media%2FHJf4PSAWcAIRDrU.jpg",
-        "https://nitter.net/pic/media%2FHJf4PSJW0AQv4-q.jpg",
-        "https://nitter.net/pic/media%2FHJf4PUIXYAAedTF.jpg"
-      ]
     }
   ],
   "items": [
@@ -494,17 +401,21 @@
       ]
     },
     {
-      "id": "d782f4de440c4c77cb3caa2c388873a2efd96ea0ec691e1b574c515c0e482a47",
+      "id": "9e00c7815350d17b8b1c49b766c24cda7b56f3c6e2b244b1af8f86978ad16ba8",
       "anime": "onepiece",
       "handle": "mugiwara_23",
       "sourceLabel": "One Piece γ",
-      "title": "RT @TADANOKATSUO: 【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワ…",
-      "text": "RT @TADANOKATSUO: 【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワ…",
-      "url": "https://nitter.net/Mugiwara_23/status/2060810925234393411#m",
-      "date": "Sat, 30 May 2026 19:49:47 GMT",
+      "title": "【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワンピースカード",
+      "text": "【告知】本日発売のONE PIECE カードゲーム ブースターパック 【決戦の刻(OP-16)】にて ベン・ベックマン カタクリ バーソロミュー・クマ を担当させていただいております。 よろしくお願いいたします！ #ONEPIECE #ワンピースカード",
+      "url": "https://nitter.net/TADANOKATSUO/status/2060645821125922868#m",
+      "date": "Sat, 30 May 2026 08:53:43 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJjic60aUAAQY0q.jpg",
+        "https://nitter.net/pic/media%2FHJjic6za0AAJQBn.jpg",
+        "https://nitter.net/pic/media%2FHJjic62akAA2nXr.jpg"
+      ]
     },
     {
       "id": "a2a94feb895ff92c475ee5682179679a1c13f7cbb1489b83a7a9c2356e23ae10",
@@ -636,103 +547,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "f5b974be9c462357f2ce1e92f582e9dc4e4e879ec99da8edd6cc105f13a8743b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Do you think the Memorial Edition of the Berserk anime is a good adaptation?",
-      "text": "Do you think the Memorial Edition of the Berserk anime is a good adaptation?",
-      "url": "https://nitter.net/daily_berserk/status/2060730171120914527#m",
-      "date": "Sat, 30 May 2026 14:28:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJkvKpZXUAM5TyI.jpg"
-      ]
-    },
-    {
-      "id": "77bc0d3fc1bd3a56e6ff539fe713cff7ca6d26860ea5853b137585dcab67c30d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk fans, I have a challenge for you ⚔️ Can you get this tweet to have the EXACT same number of ❤️ Likes, 🔁 Reposts and 💬 Replies? If you succeed, I’ll give away Volume 1 of the Berserk Deluxe E",
-      "text": "Berserk fans, I have a challenge for you ⚔️ Can you get this tweet to have the EXACT same number of ❤️ Likes, 🔁 Reposts and 💬 Replies? If you succeed, I’ll give away Volume 1 of the Berserk Deluxe Edition to one of the participants. Let’s see if the Berserk community can pull this off",
-      "url": "https://nitter.net/daily_berserk/status/2060651344784949611#m",
-      "date": "Sat, 30 May 2026 09:15:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJjnefFWgAQGN6i.jpg"
-      ]
-    },
-    {
-      "id": "129ffafbd8fc91da78030752f2f8374d1a0642e6e198d65a78625d7cb8a68ddb",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Which of these characters is the best supporting character in the anime?",
-      "text": "Which of these characters is the best supporting character in the anime?",
-      "url": "https://nitter.net/daily_berserk/status/2060592791772880916#m",
-      "date": "Sat, 30 May 2026 05:23:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJf4C2BW4AM3pmv.jpg",
-        "https://nitter.net/pic/media%2FHJf4C2AXgAQo2Mw.jpg",
-        "https://nitter.net/pic/media%2FHJf4C2HXEAI60bd.jpg",
-        "https://nitter.net/pic/media%2FHJf4C2AWcAMYF-o.jpg"
-      ]
-    },
-    {
-      "id": "e5ddd231c8c37df400b5a47e31ae8954661917becc095a5c12f4d52d1fb097c6",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "The Golden Age Arc isn’t just Berserk’s best arc—it’s the foundation of the entire story. It makes you care about the Band of the Hawk, understand Griffith, connect with Guts and Casca, and when the E",
-      "text": "The Golden Age Arc isn’t just Berserk’s best arc—it’s the foundation of the entire story. It makes you care about the Band of the Hawk, understand Griffith, connect with Guts and Casca, and when the Eclipse finally happens, it hits like a truck because you’ve lived through their journey alongside them. Without Golden Age, Berserk would still be great. Because of Golden Age, it’s a masterpiece.",
-      "url": "https://nitter.net/daily_berserk/status/2060536696802841055#m",
-      "date": "Sat, 30 May 2026 01:40:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "58357650f27b59d5422923818b29e3a26a5887bb215e5c86cf498e80cd701fc2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Let’s end this debate once and for all. What is the greatest Berserk arc of all time? ⚔️ Golden Age 🌑 Conviction 🧚 Falcon of the Millennium Empire 🏰 Fantasia Defend your choice.",
-      "text": "Let’s end this debate once and for all. What is the greatest Berserk arc of all time? ⚔️ Golden Age 🌑 Conviction 🧚 Falcon of the Millennium Empire 🏰 Fantasia Defend your choice.",
-      "url": "https://nitter.net/daily_berserk/status/2060535903781597427#m",
-      "date": "Sat, 30 May 2026 01:36:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJh-e7wXkAUC-5A.jpg",
-        "https://nitter.net/pic/media%2FHJh-e7uW4AYd36e.jpg",
-        "https://nitter.net/pic/media%2FHJh-e7wXEAQXkIg.jpg",
-        "https://nitter.net/pic/media%2FHJh-e7zXgAE8uwT.jpg"
-      ]
-    },
-    {
-      "id": "81190a7319b738c533535f960b6736bd21db19c87269b18d1c4613c24bf77cca",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "PRÉCOMMANDE : Lancement de notre précommande pour notre statue résine de Guts de la licence Berserk Disponible en précommande sur notre site : kitsunestatue.com/produit/gu… Date estimée de sortie : S1",
-      "text": "PRÉCOMMANDE : Lancement de notre précommande pour notre statue résine de Guts de la licence Berserk Disponible en précommande sur notre site : kitsunestatue.com/produit/gu… Date estimée de sortie : S1 2027 Echelle : 1/6 Prix : 332,50€ HT Matière : Résine, PVC & PU Dimensions : H 38cm x L 26cm x P 26cm Nous espérons que vous apprécierez ce choix artistique ! Vous pourrez également retrouver cette précommande chez nos autres partenaires (magasins showrooms) 😁 ! ——————————————————— Pre-orders are now open for our resin statue of Guts from the Berserk licence ! Available for pre-order on our website: kitsunestatue.com/produit/gu… Estimated release date: S1 2027 Scale: 1/6 Price: 332,50€ (excluding VAT) Material: Resin, PVC & PU Dimensions: H 38cm x W 26cm x D 26cm We hope you enjoy this artistic choice! This pre-order is also available at our other partner stores and showrooms! 😁",
-      "url": "https://nitter.net/daily_berserk/status/2060390711099265317#m",
-      "date": "Fri, 29 May 2026 16:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJf4PToWkAM6V53.jpg",
-        "https://nitter.net/pic/media%2FHJf4PSAWcAIRDrU.jpg",
-        "https://nitter.net/pic/media%2FHJf4PSJW0AQv4-q.jpg",
-        "https://nitter.net/pic/media%2FHJf4PUIXYAAedTF.jpg"
-      ]
     }
   ]
 }
