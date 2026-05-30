@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T06:04:13.630Z",
+  "generatedAt": "2026-05-30T08:42:31.780Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -49,6 +49,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "0aac86825254c719f8e4f14030d7fcf7b32b0398e123cc014d9d9ffcd552427e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This is how One Piece characters sees Loki in his dragon form size:",
+      "text": "This is how One Piece characters sees Loki in his dragon form size:",
+      "url": "https://nitter.net/WorstGenHQ/status/2060633010727272713#m",
+      "date": "Sat, 30 May 2026 08:02:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJjWwmEWcAAEP1l.png"
+      ]
+    },
     {
       "id": "5b58cae7853d43925090b60a5c495a8d431c03cc62d70469871bc26ecf742df0",
       "anime": "onepiece",
@@ -124,21 +139,6 @@
         "https://nitter.net/pic/media%2FHJfcRmLW8AQ4nl5.jpg",
         "https://nitter.net/pic/media%2FHJfcRmJXYAMTJ8k.jpg",
         "https://nitter.net/pic/media%2FHJfcRowW0AQ7Mj2.jpg"
-      ]
-    },
-    {
-      "id": "fddd0b1386cdad760b10944746acf52f35d3bdc4d020e78cbc33ba9ad7c2dc54",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "SHAMROCK ANIME VERSION😭🔥 Video",
-      "text": "SHAMROCK ANIME VERSION😭🔥 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2060366439031226575#m",
-      "date": "Fri, 29 May 2026 14:23:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2060366417782788097%2Fpu%2Fimg%2FvLBclLwosIpnWb7v.jpg"
       ]
     },
     {
@@ -321,6 +321,21 @@
       ]
     },
     {
+      "id": "0aac86825254c719f8e4f14030d7fcf7b32b0398e123cc014d9d9ffcd552427e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "This is how One Piece characters sees Loki in his dragon form size:",
+      "text": "This is how One Piece characters sees Loki in his dragon form size:",
+      "url": "https://nitter.net/WorstGenHQ/status/2060633010727272713#m",
+      "date": "Sat, 30 May 2026 08:02:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJjWwmEWcAAEP1l.png"
+      ]
+    },
+    {
       "id": "5b58cae7853d43925090b60a5c495a8d431c03cc62d70469871bc26ecf742df0",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -395,21 +410,6 @@
         "https://nitter.net/pic/media%2FHJfcRmLW8AQ4nl5.jpg",
         "https://nitter.net/pic/media%2FHJfcRmJXYAMTJ8k.jpg",
         "https://nitter.net/pic/media%2FHJfcRowW0AQ7Mj2.jpg"
-      ]
-    },
-    {
-      "id": "fddd0b1386cdad760b10944746acf52f35d3bdc4d020e78cbc33ba9ad7c2dc54",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "SHAMROCK ANIME VERSION😭🔥 Video",
-      "text": "SHAMROCK ANIME VERSION😭🔥 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2060366439031226575#m",
-      "date": "Fri, 29 May 2026 14:23:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2060366417782788097%2Fpu%2Fimg%2FvLBclLwosIpnWb7v.jpg"
       ]
     },
     {
