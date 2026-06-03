@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T10:25:18.012Z",
+  "generatedAt": "2026-06-03T15:21:01.127Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,6 +65,83 @@
   ],
   "misc": [
     {
+      "id": "0d42eb050cf03654a84049ab60ef0b3b505afd860dd34705f6fd270fcff99326",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "となジャン版ワンパンマン、最新話更新されました！是非→[第277話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ]",
+      "text": "となジャン版ワンパンマン、最新話更新されました！是非→[第277話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ]",
+      "url": "https://nitter.net/NEBU_KURO/status/2062189997172851022#m",
+      "date": "Wed, 03 Jun 2026 15:09:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2062187891586211840%2FfrcLBr-p%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "8fa54be9d898c922f93c8bdde614e0f8957eda8a57b7446f274cfe07c3afd184",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "アニメ「テニスの王子様」シリーズ25周年！皆川純子、置鮎龍太郎ら出演の特別番組 natalie.mu/comic/news/674665 #テニプリ",
+      "text": "アニメ「テニスの王子様」シリーズ25周年！皆川純子、置鮎龍太郎ら出演の特別番組 natalie.mu/comic/news/674665 #テニプリ",
+      "url": "https://nitter.net/comic_natalie/status/2062187619463946571#m",
+      "date": "Wed, 03 Jun 2026 15:00:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5ctgKagAAU2JH.jpg"
+      ]
+    },
+    {
+      "id": "6a8866c9067a6f34a7a6671cafa92882d8e2ea33ecba2c27df08fc2301cd8e03",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "NateTheHate says there is a General Nintendo Direct next week. piped.video/watch?v=EIppCTA2…",
+      "text": "NateTheHate says there is a General Nintendo Direct next week. piped.video/watch?v=EIppCTA2…",
+      "url": "https://nitter.net/Stealth40k/status/2062173251959189614#m",
+      "date": "Wed, 03 Jun 2026 14:03:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5PcaQWEAENPFB.jpg"
+      ]
+    },
+    {
+      "id": "f37fd784a55be3cc3376811829f6938fe8ce4dacab2d5a60d4dd308254dd3be6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy tenemos la “edición de lujo” del CD “ONE PIECE COVER SONGS: Símbolo de Nakama×” que celebra los 30 años de carrera de Hiroshi Kitadani 😍😍😍😍😍 Lo tenía pendien",
+      "text": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy tenemos la “edición de lujo” del CD “ONE PIECE COVER SONGS: Símbolo de Nakama×” que celebra los 30 años de carrera de Hiroshi Kitadani 😍😍😍😍😍 Lo tenía pendiente desde 2025, y ahora que estaba rebajado un 45% en Amazon Japón, ha caído 😁",
+      "url": "https://nitter.net/Mugiwara_23/status/2062156239019131265#m",
+      "date": "Wed, 03 Jun 2026 12:55:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ4_VnSXMAAtTlj.jpg",
+        "https://nitter.net/pic/media%2FHJ4_VnSXMAEX03N.jpg",
+        "https://nitter.net/pic/media%2FHJ4_VnWXgAA-XtJ.jpg"
+      ]
+    },
+    {
+      "id": "8dceaf24a8b9c8a003c42c44ad08c03aec82e35fd688785036e41f8827cf181a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Luffy is mentioned in English textbook for Japanese students.🥺🥺",
+      "text": "Luffy is mentioned in English textbook for Japanese students.🥺🥺",
+      "url": "https://nitter.net/sandman_AP/status/2062142274570793440#m",
+      "date": "Wed, 03 Jun 2026 12:00:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ4zeIFasAAZD9l.jpg"
+      ]
+    },
+    {
       "id": "bb873718b5a7bbc734a455c9cd6335b7699ca59d894c330de22b15a138230691",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -77,86 +154,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2061738858027319296%2Fimg%2Fihv1C7eHi2zHnx0N.jpg"
-      ]
-    },
-    {
-      "id": "407f09f5f83b3c9e7963a649d0a3339b92d90e2921a3d607225d6a73b877bbed",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "以下の公式ツイートの引用欄で、ONE PIECEとサッカー日本代表コラボが非常に激しく批判されています😥😥。引用リツイートのなかには作者である尾田さんの交友関係、たとえば和月さんや島袋さんとの交流に言及するものも存在します。批判される事情自体は理解できます。サッカー日本代表の佐野海舟選手には2024年に不同意性交容疑で逮捕され、その後不起訴になった重大な経緯があります。不起訴といっても、無罪判",
-      "text": "以下の公式ツイートの引用欄で、ONE PIECEとサッカー日本代表コラボが非常に激しく批判されています😥😥。引用リツイートのなかには作者である尾田さんの交友関係、たとえば和月さんや島袋さんとの交流に言及するものも存在します。批判される事情自体は理解できます。サッカー日本代表の佐野海舟選手には2024年に不同意性交容疑で逮捕され、その後不起訴になった重大な経緯があります。不起訴といっても、無罪判決と同じという意味ではありません。ゆえに、この件を単なる佐野選手による「ミス」と表現して擁護した森保監督の倫理観が非難されたのも当然でしょう。 そのうえで、ONE PIECEや集英社側への批判を切り分けることも必要ではないでしょうか。サッカー日本代表のメンバー発表は今年5月15日。一方で、このONE PIECEコラボは5月27日に発表されました。今回のような大型コラボがわずか12日で、企画、契約、ビジュアル制作、広報まで完了するとは考えにくいのではないでしょうか。つまり、代表選手の最終的な選出が確定する前から、水面下でコラボ自体は進んでいたと考えるのが妥当だと思います。 その場合「佐野選手を含む代表だと分かったうえで新規にコラボを組んだ」のか、「既に進んでいた代表全体とのコラボ企画が、後から佐野選手を含む結果になった」のかでは、責任の質が違います。 もちろん、公表時点や継続時点での判断責任は依然として残るので、一定の批判は避けられないでしょう。ただ、企画決定責任と事後対応責任を混同して、ONE PIECEや集英社側、あまつさえ作者である尾田さん本人が最初から佐野選手の行動を積極的に肯定したかのように断じるのは危ういと思います。批判するなら、外形としての問題と、意思決定過程の評価は分けるべきなのではないかと💡 ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) 『ONE PIECE』から サッカー日本代表SAMURAI BLUEに 青い麦わら帽子をお贈りしました🏴‍☠️ さぁ、いこう!! おれたちの最高地点へ #ONEPIECE #SAMURAIBLUE #サッカー日本代表 #おれたちの最高地点へ — https://nitter.net/Eiichiro_Staff/status/2060194955449299244#m",
-      "url": "https://nitter.net/sandman_AP/status/2062016185819156542#m",
-      "date": "Wed, 03 Jun 2026 03:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJdIWNVbkAAPMtu.jpg",
-        "https://nitter.net/pic/media%2FHJdIWNUawAAXiXb.jpg",
-        "https://nitter.net/pic/media%2FHJdIWNUaYAAdyrg.jpg"
-      ]
-    },
-    {
-      "id": "34836fad3a4cdce991666790cd5297705b1de314fdc7be8ab5099c948c6566f9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Le sacó 250 puntos a Bezzecchi corriendo 4 carreras menos pero sí, tuvo suerte Márquez de que Martín no corriera, sí MOTOSAN.ES (@Motosan_es) 💬 Pernat: «Quizás en 2025 también fue una suerte para Mar",
-      "text": "Le sacó 250 puntos a Bezzecchi corriendo 4 carreras menos pero sí, tuvo suerte Márquez de que Martín no corriera, sí MOTOSAN.ES (@Motosan_es) 💬 Pernat: «Quizás en 2025 también fue una suerte para Marc Márquez correr sin Martín en la pista» motosan.es/motogp/pernat-qui… — https://nitter.net/Motosan_es/status/2061766317586239783#m",
-      "url": "https://nitter.net/Alberto1373693/status/2061877440817795384#m",
-      "date": "Tue, 02 Jun 2026 18:27:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJzdijnXAAAG-W8.jpg"
-      ]
-    },
-    {
-      "id": "4cf000aa0e04a5ab4222309ccf416119d1366f3418c2e845e1446b1c5e0fb6e4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Mayoría absoluta del PP. Le echarán la culpa a Pedro Sánchez. Los bomberos de la región cobrando 1200€ y el Consorcio en mínimos históricos ☈ Meteosureste (@meteo_sureste) Los vecinos tratan con sus m",
-      "text": "Mayoría absoluta del PP. Le echarán la culpa a Pedro Sánchez. Los bomberos de la región cobrando 1200€ y el Consorcio en mínimos históricos ☈ Meteosureste (@meteo_sureste) Los vecinos tratan con sus medios de extinguir el incendio #losgarres #incendioforestal #regiondemurcia Video — https://nitter.net/meteo_sureste/status/2061851097979838888#m",
-      "url": "https://nitter.net/martagg82/status/2061894255501525221#m",
-      "date": "Tue, 02 Jun 2026 19:34:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2061850999015301121%2Fpu%2Fimg%2FbIUtoOzSy9oPuwN3.jpg"
-      ]
-    },
-    {
-      "id": "180d782a4cfae4b79c9a042bd717386aadc6f72e2cc8470410b6710c9c1d67b2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Jeff Grubb says he heard a Nintendo Direct is coming on June 9th. Assumes it will be a general Nintendo Direct. We'll see what NateTheHate says tomorrow on his podcast. piped.video/watch?v=EUx41o1u…",
-      "text": "Jeff Grubb says he heard a Nintendo Direct is coming on June 9th. Assumes it will be a general Nintendo Direct. We'll see what NateTheHate says tomorrow on his podcast. piped.video/watch?v=EUx41o1u…",
-      "url": "https://nitter.net/Stealth40k/status/2062001294290640923#m",
-      "date": "Wed, 03 Jun 2026 02:39:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJ2v0TvWYAEKoWd.jpg"
-      ]
-    },
-    {
-      "id": "4267f5db6f3d4f9ffde66ca816cf6c1288c37fc8abf0ef11e0c435aeac0d8161",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "DRAGON BALL AUCTION Short Episode 42 #DBZ #SuperBattleCollection #SuperSaiyan #Bandai #超戦士大全 Toutes les descriptions détaillées sur dbauction.ddns.net Retrouvez ces lots dans notre vente aux enchères ",
-      "text": "DRAGON BALL AUCTION Short Episode 42 #DBZ #SuperBattleCollection #SuperSaiyan #Bandai #超戦士大全 Toutes les descriptions détaillées sur dbauction.ddns.net Retrouvez ces lots dans notre vente aux enchères #DragonBall #ドラゴンボール du 13 juin 2026 à Rennes avec @BS4352DBZ Video",
-      "url": "https://nitter.net/OssOraGenki/status/2061811480211661215#m",
-      "date": "Tue, 02 Jun 2026 14:05:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2061811205589606400%2Fimg%2FHsZ_acQW9t_VGuGT.jpg",
-        "https://nitter.net/pic/media%2FHJ0Gi_gXsAAAnup.jpg",
-        "https://nitter.net/pic/media%2FHJ0Gi_OXkAEAmB5.jpg",
-        "https://nitter.net/pic/media%2FHJ0Gi_QXYAItAbW.jpg"
       ]
     },
     {
@@ -432,6 +429,83 @@
       ]
     },
     {
+      "id": "0d42eb050cf03654a84049ab60ef0b3b505afd860dd34705f6fd270fcff99326",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "となジャン版ワンパンマン、最新話更新されました！是非→[第277話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ]",
+      "text": "となジャン版ワンパンマン、最新話更新されました！是非→[第277話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ]",
+      "url": "https://nitter.net/NEBU_KURO/status/2062189997172851022#m",
+      "date": "Wed, 03 Jun 2026 15:09:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2062187891586211840%2FfrcLBr-p%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "8fa54be9d898c922f93c8bdde614e0f8957eda8a57b7446f274cfe07c3afd184",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "アニメ「テニスの王子様」シリーズ25周年！皆川純子、置鮎龍太郎ら出演の特別番組 natalie.mu/comic/news/674665 #テニプリ",
+      "text": "アニメ「テニスの王子様」シリーズ25周年！皆川純子、置鮎龍太郎ら出演の特別番組 natalie.mu/comic/news/674665 #テニプリ",
+      "url": "https://nitter.net/comic_natalie/status/2062187619463946571#m",
+      "date": "Wed, 03 Jun 2026 15:00:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5ctgKagAAU2JH.jpg"
+      ]
+    },
+    {
+      "id": "6a8866c9067a6f34a7a6671cafa92882d8e2ea33ecba2c27df08fc2301cd8e03",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "NateTheHate says there is a General Nintendo Direct next week. piped.video/watch?v=EIppCTA2…",
+      "text": "NateTheHate says there is a General Nintendo Direct next week. piped.video/watch?v=EIppCTA2…",
+      "url": "https://nitter.net/Stealth40k/status/2062173251959189614#m",
+      "date": "Wed, 03 Jun 2026 14:03:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5PcaQWEAENPFB.jpg"
+      ]
+    },
+    {
+      "id": "f37fd784a55be3cc3376811829f6938fe8ce4dacab2d5a60d4dd308254dd3be6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy tenemos la “edición de lujo” del CD “ONE PIECE COVER SONGS: Símbolo de Nakama×” que celebra los 30 años de carrera de Hiroshi Kitadani 😍😍😍😍😍 Lo tenía pendien",
+      "text": "¡¡Nuevo pedido desde Japón 🇯🇵!! Hoy tenemos la “edición de lujo” del CD “ONE PIECE COVER SONGS: Símbolo de Nakama×” que celebra los 30 años de carrera de Hiroshi Kitadani 😍😍😍😍😍 Lo tenía pendiente desde 2025, y ahora que estaba rebajado un 45% en Amazon Japón, ha caído 😁",
+      "url": "https://nitter.net/Mugiwara_23/status/2062156239019131265#m",
+      "date": "Wed, 03 Jun 2026 12:55:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ4_VnSXMAAtTlj.jpg",
+        "https://nitter.net/pic/media%2FHJ4_VnSXMAEX03N.jpg",
+        "https://nitter.net/pic/media%2FHJ4_VnWXgAA-XtJ.jpg"
+      ]
+    },
+    {
+      "id": "8dceaf24a8b9c8a003c42c44ad08c03aec82e35fd688785036e41f8827cf181a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Luffy is mentioned in English textbook for Japanese students.🥺🥺",
+      "text": "Luffy is mentioned in English textbook for Japanese students.🥺🥺",
+      "url": "https://nitter.net/sandman_AP/status/2062142274570793440#m",
+      "date": "Wed, 03 Jun 2026 12:00:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ4zeIFasAAZD9l.jpg"
+      ]
+    },
+    {
       "id": "bb873718b5a7bbc734a455c9cd6335b7699ca59d894c330de22b15a138230691",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -444,86 +518,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2061738858027319296%2Fimg%2Fihv1C7eHi2zHnx0N.jpg"
-      ]
-    },
-    {
-      "id": "407f09f5f83b3c9e7963a649d0a3339b92d90e2921a3d607225d6a73b877bbed",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "以下の公式ツイートの引用欄で、ONE PIECEとサッカー日本代表コラボが非常に激しく批判されています😥😥。引用リツイートのなかには作者である尾田さんの交友関係、たとえば和月さんや島袋さんとの交流に言及するものも存在します。批判される事情自体は理解できます。サッカー日本代表の佐野海舟選手には2024年に不同意性交容疑で逮捕され、その後不起訴になった重大な経緯があります。不起訴といっても、無罪判",
-      "text": "以下の公式ツイートの引用欄で、ONE PIECEとサッカー日本代表コラボが非常に激しく批判されています😥😥。引用リツイートのなかには作者である尾田さんの交友関係、たとえば和月さんや島袋さんとの交流に言及するものも存在します。批判される事情自体は理解できます。サッカー日本代表の佐野海舟選手には2024年に不同意性交容疑で逮捕され、その後不起訴になった重大な経緯があります。不起訴といっても、無罪判決と同じという意味ではありません。ゆえに、この件を単なる佐野選手による「ミス」と表現して擁護した森保監督の倫理観が非難されたのも当然でしょう。 そのうえで、ONE PIECEや集英社側への批判を切り分けることも必要ではないでしょうか。サッカー日本代表のメンバー発表は今年5月15日。一方で、このONE PIECEコラボは5月27日に発表されました。今回のような大型コラボがわずか12日で、企画、契約、ビジュアル制作、広報まで完了するとは考えにくいのではないでしょうか。つまり、代表選手の最終的な選出が確定する前から、水面下でコラボ自体は進んでいたと考えるのが妥当だと思います。 その場合「佐野選手を含む代表だと分かったうえで新規にコラボを組んだ」のか、「既に進んでいた代表全体とのコラボ企画が、後から佐野選手を含む結果になった」のかでは、責任の質が違います。 もちろん、公表時点や継続時点での判断責任は依然として残るので、一定の批判は避けられないでしょう。ただ、企画決定責任と事後対応責任を混同して、ONE PIECEや集英社側、あまつさえ作者である尾田さん本人が最初から佐野選手の行動を積極的に肯定したかのように断じるのは危ういと思います。批判するなら、外形としての問題と、意思決定過程の評価は分けるべきなのではないかと💡 ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) 『ONE PIECE』から サッカー日本代表SAMURAI BLUEに 青い麦わら帽子をお贈りしました🏴‍☠️ さぁ、いこう!! おれたちの最高地点へ #ONEPIECE #SAMURAIBLUE #サッカー日本代表 #おれたちの最高地点へ — https://nitter.net/Eiichiro_Staff/status/2060194955449299244#m",
-      "url": "https://nitter.net/sandman_AP/status/2062016185819156542#m",
-      "date": "Wed, 03 Jun 2026 03:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJdIWNVbkAAPMtu.jpg",
-        "https://nitter.net/pic/media%2FHJdIWNUawAAXiXb.jpg",
-        "https://nitter.net/pic/media%2FHJdIWNUaYAAdyrg.jpg"
-      ]
-    },
-    {
-      "id": "34836fad3a4cdce991666790cd5297705b1de314fdc7be8ab5099c948c6566f9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Le sacó 250 puntos a Bezzecchi corriendo 4 carreras menos pero sí, tuvo suerte Márquez de que Martín no corriera, sí MOTOSAN.ES (@Motosan_es) 💬 Pernat: «Quizás en 2025 también fue una suerte para Mar",
-      "text": "Le sacó 250 puntos a Bezzecchi corriendo 4 carreras menos pero sí, tuvo suerte Márquez de que Martín no corriera, sí MOTOSAN.ES (@Motosan_es) 💬 Pernat: «Quizás en 2025 también fue una suerte para Marc Márquez correr sin Martín en la pista» motosan.es/motogp/pernat-qui… — https://nitter.net/Motosan_es/status/2061766317586239783#m",
-      "url": "https://nitter.net/Alberto1373693/status/2061877440817795384#m",
-      "date": "Tue, 02 Jun 2026 18:27:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJzdijnXAAAG-W8.jpg"
-      ]
-    },
-    {
-      "id": "4cf000aa0e04a5ab4222309ccf416119d1366f3418c2e845e1446b1c5e0fb6e4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Mayoría absoluta del PP. Le echarán la culpa a Pedro Sánchez. Los bomberos de la región cobrando 1200€ y el Consorcio en mínimos históricos ☈ Meteosureste (@meteo_sureste) Los vecinos tratan con sus m",
-      "text": "Mayoría absoluta del PP. Le echarán la culpa a Pedro Sánchez. Los bomberos de la región cobrando 1200€ y el Consorcio en mínimos históricos ☈ Meteosureste (@meteo_sureste) Los vecinos tratan con sus medios de extinguir el incendio #losgarres #incendioforestal #regiondemurcia Video — https://nitter.net/meteo_sureste/status/2061851097979838888#m",
-      "url": "https://nitter.net/martagg82/status/2061894255501525221#m",
-      "date": "Tue, 02 Jun 2026 19:34:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2061850999015301121%2Fpu%2Fimg%2FbIUtoOzSy9oPuwN3.jpg"
-      ]
-    },
-    {
-      "id": "180d782a4cfae4b79c9a042bd717386aadc6f72e2cc8470410b6710c9c1d67b2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Jeff Grubb says he heard a Nintendo Direct is coming on June 9th. Assumes it will be a general Nintendo Direct. We'll see what NateTheHate says tomorrow on his podcast. piped.video/watch?v=EUx41o1u…",
-      "text": "Jeff Grubb says he heard a Nintendo Direct is coming on June 9th. Assumes it will be a general Nintendo Direct. We'll see what NateTheHate says tomorrow on his podcast. piped.video/watch?v=EUx41o1u…",
-      "url": "https://nitter.net/Stealth40k/status/2062001294290640923#m",
-      "date": "Wed, 03 Jun 2026 02:39:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJ2v0TvWYAEKoWd.jpg"
-      ]
-    },
-    {
-      "id": "4267f5db6f3d4f9ffde66ca816cf6c1288c37fc8abf0ef11e0c435aeac0d8161",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "DRAGON BALL AUCTION Short Episode 42 #DBZ #SuperBattleCollection #SuperSaiyan #Bandai #超戦士大全 Toutes les descriptions détaillées sur dbauction.ddns.net Retrouvez ces lots dans notre vente aux enchères ",
-      "text": "DRAGON BALL AUCTION Short Episode 42 #DBZ #SuperBattleCollection #SuperSaiyan #Bandai #超戦士大全 Toutes les descriptions détaillées sur dbauction.ddns.net Retrouvez ces lots dans notre vente aux enchères #DragonBall #ドラゴンボール du 13 juin 2026 à Rennes avec @BS4352DBZ Video",
-      "url": "https://nitter.net/OssOraGenki/status/2061811480211661215#m",
-      "date": "Tue, 02 Jun 2026 14:05:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2061811205589606400%2Fimg%2FHsZ_acQW9t_VGuGT.jpg",
-        "https://nitter.net/pic/media%2FHJ0Gi_gXsAAAnup.jpg",
-        "https://nitter.net/pic/media%2FHJ0Gi_OXkAEAmB5.jpg",
-        "https://nitter.net/pic/media%2FHJ0Gi_QXYAItAbW.jpg"
       ]
     },
     {
