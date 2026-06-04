@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T22:07:49.536Z",
+  "generatedAt": "2026-06-04T00:08:58.934Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -15,21 +15,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2060652024522240004%2Fimg%2F_tmAumCje2Rip_aV.jpg"
-      ]
-    },
-    {
-      "id": "95ad218e67cd2c25d8c85b5628b61702422727999c70d1f267e5f7b1cc91f18e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of s",
-      "text": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of spoilers",
-      "url": "https://nitter.net/daily_berserk/status/2061747182831558814#m",
-      "date": "Tue, 02 Jun 2026 09:50:08 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJzMIa9XEAAz873.jpg"
       ]
     },
     {
@@ -61,9 +46,116 @@
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
       ]
+    },
+    {
+      "id": "95ad218e67cd2c25d8c85b5628b61702422727999c70d1f267e5f7b1cc91f18e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of s",
+      "text": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of spoilers",
+      "url": "https://nitter.net/daily_berserk/status/2061747182831558814#m",
+      "date": "Tue, 02 Jun 2026 09:50:08 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJzMIa9XEAAz873.jpg"
+      ]
     }
   ],
   "misc": [
+    {
+      "id": "0e1d6fa0b84fe14588b65baff552a7d38cf301e776645dc7738a4dd0508750e3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Get tickets now and tag who you're bringing to see #Supergirl - only in theaters and @IMAX June 26. fandan.co/supergirl Video",
+      "text": "Get tickets now and tag who you're bringing to see #Supergirl - only in theaters and @IMAX June 26. fandan.co/supergirl Video",
+      "url": "https://nitter.net/JamesGunn/status/2062203395495116896#m",
+      "date": "Wed, 03 Jun 2026 16:02:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2062203233951481856%2Fimg%2FT6FFGCk5O34EsVxi.jpg"
+      ]
+    },
+    {
+      "id": "ef5526dad39524b7a42f34c800871d443b86ad3c0fc4ef866b88b05c0bc5ad63",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Compra ya tus entradas y menciona a las personas con las que irás al cine a ver #Supergirl - 26 de junio solo en cines. Video",
+      "text": "Compra ya tus entradas y menciona a las personas con las que irás al cine a ver #Supergirl - 26 de junio solo en cines. Video",
+      "url": "https://nitter.net/WarnerBrosSpain/status/2062203908370645053#m",
+      "date": "Wed, 03 Jun 2026 16:05:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5djdDagAAgxM8.jpg"
+      ]
+    },
+    {
+      "id": "82def005fd488efc728a6b5fbe76a786ca490b6fd190014c117e6873db7a73eb",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Ya ha llegado #Kiyoshi a la oficina! 🔴 El exorcista más poderoso de la historia (y el que peor lo lleva). ¡En tu librería favorita a partir de mañana! 📚 bit.ly/4dJU2Qm",
+      "text": "¡Ya ha llegado #Kiyoshi a la oficina! 🔴 El exorcista más poderoso de la historia (y el que peor lo lleva). ¡En tu librería favorita a partir de mañana! 📚 bit.ly/4dJU2Qm",
+      "url": "https://nitter.net/distritomangaED/status/2062182036220059864#m",
+      "date": "Wed, 03 Jun 2026 14:38:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5Wgw8WAAAD7BL.jpg",
+        "https://nitter.net/pic/media%2FHJ5Wgw8WMAAXIz4.jpg"
+      ]
+    },
+    {
+      "id": "08abc9e3c62b522812cdd21138263f27eb58a420b59b0c4581b81f0639098b22",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Florentino Pérez: “Mourinho es un imbecil, anormal, malcriado, con un ego terrible.” Video Florentino 2026 (@Florentino2026_) MOUcha historia por hacer. Video — https://nitter.net/Florentino2026_/stat",
+      "text": "Florentino Pérez: “Mourinho es un imbecil, anormal, malcriado, con un ego terrible.” Video Florentino 2026 (@Florentino2026_) MOUcha historia por hacer. Video — https://nitter.net/Florentino2026_/status/2062263406686568460#m",
+      "url": "https://nitter.net/MartinMinan_/status/2062276033890418858#m",
+      "date": "Wed, 03 Jun 2026 20:51:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2055536727528230912%2Fimg%2Fe4LYz6_Yr-E3brmL.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2062259787291672579%2Fimg%2FHfykkeQrbRp8PwKG.jpg"
+      ]
+    },
+    {
+      "id": "14df1a2c553fcba16960c1b03443f1ae2a4ff9d888f51630abae3097ccd6ce15",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【5/31発売】ONEPIECEカードゲーム ブースターパック『決戦の刻【OP-16】』 にてボア・ハンコックSRイラスト担当しました、姫様それが噂に聞く結婚です。よろしくお願いします。 #ワンピカード #ONEPIECEカードゲーム #ONEPIECE #BoaHancock",
+      "text": "【5/31発売】ONEPIECEカードゲーム ブースターパック『決戦の刻【OP-16】』 にてボア・ハンコックSRイラスト担当しました、姫様それが噂に聞く結婚です。よろしくお願いします。 #ワンピカード #ONEPIECEカードゲーム #ONEPIECE #BoaHancock",
+      "url": "https://nitter.net/nanaharasie/status/2062118200335327569#m",
+      "date": "Wed, 03 Jun 2026 10:24:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ4bqfrbsAANe5T.jpg"
+      ]
+    },
+    {
+      "id": "97a95d57ba0cf8b47ca3cde4c2a4485bd362e231654b6ea6fce7cbf7c593e0b2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "👒 𝙊𝙣𝙚 𝙋𝙞𝙚𝙘𝙚 'anime' a Japón para el Mundial. 📹 @jfa_samuraiblue #LaCasaDelFútbol Video",
+      "text": "👒 𝙊𝙣𝙚 𝙋𝙞𝙚𝙘𝙚 'anime' a Japón para el Mundial. 📹 @jfa_samuraiblue #LaCasaDelFútbol Video",
+      "url": "https://nitter.net/MPlusDeportes/status/2062154172074545285#m",
+      "date": "Wed, 03 Jun 2026 12:47:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2062154104919429120%2Fimg%2FgI3Lga2fp4SgzvjC.jpg"
+      ]
+    },
     {
       "id": "514135fe07283d71c2e8fa12cb06f1a68049386f6bb6ba960731060d14a9ec2b",
       "anime": "boruto",
@@ -140,6 +232,64 @@
       ]
     },
     {
+      "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "YOOOOOOOOOOOOOOOO",
+      "text": "YOOOOOOOOOOOOOOOO",
+      "url": "https://nitter.net/d0nut2x/status/2058117171083870236#m",
+      "date": "Sat, 23 May 2026 09:25:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI_mpGeWEAArDrY.jpg"
+      ]
+    },
+    {
+      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
+      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
+      "date": "Sun, 10 May 2026 18:16:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
+      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
+      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
+      "date": "Fri, 08 May 2026 17:20:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
+        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
+        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+      ]
+    },
+    {
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "92da7730a8c45b151160982b3026194a03456f34025a89f855b382e943ca2b11",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -214,64 +364,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHJyhjUxWQAAXgwY.jpg"
       ]
-    },
-    {
-      "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "YOOOOOOOOOOOOOOOO",
-      "text": "YOOOOOOOOOOOOOOOO",
-      "url": "https://nitter.net/d0nut2x/status/2058117171083870236#m",
-      "date": "Sat, 23 May 2026 09:25:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHI_mpGeWEAArDrY.jpg"
-      ]
-    },
-    {
-      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
-      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
-      "date": "Sun, 10 May 2026 18:16:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
-      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
-      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
-      "date": "Fri, 08 May 2026 17:20:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
-        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
-        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
@@ -291,21 +383,6 @@
       ]
     },
     {
-      "id": "95ad218e67cd2c25d8c85b5628b61702422727999c70d1f267e5f7b1cc91f18e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of s",
-      "text": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of spoilers",
-      "url": "https://nitter.net/daily_berserk/status/2061747182831558814#m",
-      "date": "Tue, 02 Jun 2026 09:50:08 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHJzMIa9XEAAz873.jpg"
-      ]
-    },
-    {
       "id": "3f7856dec50a7605073b614a3f0e948b161a087b185e599383bf26add6245ab2",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -333,6 +410,113 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/ext_tw_video_thumb%2F2054549935920705536%2Fpu%2Fimg%2FTS4vTWND0acKl05I.jpg"
+      ]
+    },
+    {
+      "id": "95ad218e67cd2c25d8c85b5628b61702422727999c70d1f267e5f7b1cc91f18e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of s",
+      "text": "🚨 ATTENTION #BERSERK FANS! 🚨 The full #BERSERK #ベルセルク Chapter 384 has leaked. 👀🔥 If you want to read it before everyone else, leave a comment and I’ll send you the link via DM. ⚔️🖤 ⚠️ Beware of spoilers",
+      "url": "https://nitter.net/daily_berserk/status/2061747182831558814#m",
+      "date": "Tue, 02 Jun 2026 09:50:08 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJzMIa9XEAAz873.jpg"
+      ]
+    },
+    {
+      "id": "0e1d6fa0b84fe14588b65baff552a7d38cf301e776645dc7738a4dd0508750e3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Get tickets now and tag who you're bringing to see #Supergirl - only in theaters and @IMAX June 26. fandan.co/supergirl Video",
+      "text": "Get tickets now and tag who you're bringing to see #Supergirl - only in theaters and @IMAX June 26. fandan.co/supergirl Video",
+      "url": "https://nitter.net/JamesGunn/status/2062203395495116896#m",
+      "date": "Wed, 03 Jun 2026 16:02:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2062203233951481856%2Fimg%2FT6FFGCk5O34EsVxi.jpg"
+      ]
+    },
+    {
+      "id": "ef5526dad39524b7a42f34c800871d443b86ad3c0fc4ef866b88b05c0bc5ad63",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Compra ya tus entradas y menciona a las personas con las que irás al cine a ver #Supergirl - 26 de junio solo en cines. Video",
+      "text": "Compra ya tus entradas y menciona a las personas con las que irás al cine a ver #Supergirl - 26 de junio solo en cines. Video",
+      "url": "https://nitter.net/WarnerBrosSpain/status/2062203908370645053#m",
+      "date": "Wed, 03 Jun 2026 16:05:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5djdDagAAgxM8.jpg"
+      ]
+    },
+    {
+      "id": "82def005fd488efc728a6b5fbe76a786ca490b6fd190014c117e6873db7a73eb",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Ya ha llegado #Kiyoshi a la oficina! 🔴 El exorcista más poderoso de la historia (y el que peor lo lleva). ¡En tu librería favorita a partir de mañana! 📚 bit.ly/4dJU2Qm",
+      "text": "¡Ya ha llegado #Kiyoshi a la oficina! 🔴 El exorcista más poderoso de la historia (y el que peor lo lleva). ¡En tu librería favorita a partir de mañana! 📚 bit.ly/4dJU2Qm",
+      "url": "https://nitter.net/distritomangaED/status/2062182036220059864#m",
+      "date": "Wed, 03 Jun 2026 14:38:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ5Wgw8WAAAD7BL.jpg",
+        "https://nitter.net/pic/media%2FHJ5Wgw8WMAAXIz4.jpg"
+      ]
+    },
+    {
+      "id": "08abc9e3c62b522812cdd21138263f27eb58a420b59b0c4581b81f0639098b22",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Florentino Pérez: “Mourinho es un imbecil, anormal, malcriado, con un ego terrible.” Video Florentino 2026 (@Florentino2026_) MOUcha historia por hacer. Video — https://nitter.net/Florentino2026_/stat",
+      "text": "Florentino Pérez: “Mourinho es un imbecil, anormal, malcriado, con un ego terrible.” Video Florentino 2026 (@Florentino2026_) MOUcha historia por hacer. Video — https://nitter.net/Florentino2026_/status/2062263406686568460#m",
+      "url": "https://nitter.net/MartinMinan_/status/2062276033890418858#m",
+      "date": "Wed, 03 Jun 2026 20:51:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2055536727528230912%2Fimg%2Fe4LYz6_Yr-E3brmL.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2062259787291672579%2Fimg%2FHfykkeQrbRp8PwKG.jpg"
+      ]
+    },
+    {
+      "id": "14df1a2c553fcba16960c1b03443f1ae2a4ff9d888f51630abae3097ccd6ce15",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【5/31発売】ONEPIECEカードゲーム ブースターパック『決戦の刻【OP-16】』 にてボア・ハンコックSRイラスト担当しました、姫様それが噂に聞く結婚です。よろしくお願いします。 #ワンピカード #ONEPIECEカードゲーム #ONEPIECE #BoaHancock",
+      "text": "【5/31発売】ONEPIECEカードゲーム ブースターパック『決戦の刻【OP-16】』 にてボア・ハンコックSRイラスト担当しました、姫様それが噂に聞く結婚です。よろしくお願いします。 #ワンピカード #ONEPIECEカードゲーム #ONEPIECE #BoaHancock",
+      "url": "https://nitter.net/nanaharasie/status/2062118200335327569#m",
+      "date": "Wed, 03 Jun 2026 10:24:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHJ4bqfrbsAANe5T.jpg"
+      ]
+    },
+    {
+      "id": "97a95d57ba0cf8b47ca3cde4c2a4485bd362e231654b6ea6fce7cbf7c593e0b2",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "👒 𝙊𝙣𝙚 𝙋𝙞𝙚𝙘𝙚 'anime' a Japón para el Mundial. 📹 @jfa_samuraiblue #LaCasaDelFútbol Video",
+      "text": "👒 𝙊𝙣𝙚 𝙋𝙞𝙚𝙘𝙚 'anime' a Japón para el Mundial. 📹 @jfa_samuraiblue #LaCasaDelFútbol Video",
+      "url": "https://nitter.net/MPlusDeportes/status/2062154172074545285#m",
+      "date": "Wed, 03 Jun 2026 12:47:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2062154104919429120%2Fimg%2FgI3Lga2fp4SgzvjC.jpg"
       ]
     },
     {
@@ -411,6 +595,64 @@
       ]
     },
     {
+      "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "YOOOOOOOOOOOOOOOO",
+      "text": "YOOOOOOOOOOOOOOOO",
+      "url": "https://nitter.net/d0nut2x/status/2058117171083870236#m",
+      "date": "Sat, 23 May 2026 09:25:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHI_mpGeWEAArDrY.jpg"
+      ]
+    },
+    {
+      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
+      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
+      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
+      "date": "Sun, 10 May 2026 18:16:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
+      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
+      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
+      "date": "Fri, 08 May 2026 17:20:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
+        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
+        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
+      ]
+    },
+    {
+      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
+      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
+      "date": "Fri, 01 May 2026 09:47:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "92da7730a8c45b151160982b3026194a03456f34025a89f855b382e943ca2b11",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -485,64 +727,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHJyhjUxWQAAXgwY.jpg"
       ]
-    },
-    {
-      "id": "e7de4abcdaf9bc5153e3822f95b8a9b353dc87c1c355e7a56a5d5337fcb778f2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "YOOOOOOOOOOOOOOOO",
-      "text": "YOOOOOOOOOOOOOOOO",
-      "url": "https://nitter.net/d0nut2x/status/2058117171083870236#m",
-      "date": "Sat, 23 May 2026 09:25:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHI_mpGeWEAArDrY.jpg"
-      ]
-    },
-    {
-      "id": "0b97d24236b0319393ef0410cf5066500eeebdbf7d2585409c4c2502c1fb80cc",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil ",
-      "text": "Devil May Cry S2 remaining 4 EP titles and Length The Garden of Deadly Sins — 31m Purgatorio — 37m Into the City of Woe — 35m Vexilla Regis Prodeunt Inferni — 31m #Devilmaycry Pace (@PacemanOP) Devil May Cry S2 first 4 EP titles and length The Fallen — 37m Shades — 31m The Panther, The Lion, The Wolf — 29m A Pit of Serpents — 37m #devilmaycry — https://nitter.net/PacemanOP/status/2050472148855361852#m",
-      "url": "https://nitter.net/PacemanOP/status/2053539680214503638#m",
-      "date": "Sun, 10 May 2026 18:16:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3f7e9ad6f81ba75a83d805e547b1ac1fdea346014b9a26d12e88acc92bfe5063",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfor",
-      "text": "Found him. Please report and block this sick mf. 𝑯𝒊𝒌𝒂𝒓𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 ♣️🍀♦️❤️♠️🌕 (@HikariSuzuki14) There’s an account that attached my pfp to a video of a women being graped and beheaded. Unfortunately I cannot find the account. If you encounter the account please block and report it immediately! — https://nitter.net/HikariSuzuki14/status/2052749375114252633#m",
-      "url": "https://nitter.net/HikariSuzuki14/status/2052800940558749974#m",
-      "date": "Fri, 08 May 2026 17:20:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHH0DkEkXYAMW1ng.jpg",
-        "https://nitter.net/pic/media%2FHH0Dkk1XwAIstmq.jpg",
-        "https://nitter.net/pic/media%2FHH0Dk75XoAA79sG.jpg"
-      ]
-    },
-    {
-      "id": "1a43105817d8d82e8a72d43b8f3154df69a8e70a6a61bf53fdd20e4d888f4e91",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "text": "Just a reminder I am available for 2nd Key Animation! Open to work! 念のためお知らせしますが、私は第2キーアニメーションに対応可能です！仕事に前向きです！ #二原 #アニメーター #原画 #作画",
-      "url": "https://nitter.net/plasm0nic/status/2050150066233438265#m",
-      "date": "Fri, 01 May 2026 09:47:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ]
 }
