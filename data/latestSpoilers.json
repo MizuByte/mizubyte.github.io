@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T23:04:23.698Z",
+  "generatedAt": "2026-06-09T00:17:52.592Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -46,19 +46,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHKTSlocXYAA0i82.jpg"
       ]
-    },
-    {
-      "id": "e1d3a45a9147d58320d03f83a5a7af2f00212b8a94f0f015b557b1c8943e5bd5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 #OPSPOILERS",
-      "text": "#ONEPIECE1185 #OPSPOILERS",
-      "url": "https://nitter.net/AniKing/status/2064002346988843370#m",
-      "date": "Mon, 08 Jun 2026 15:11:21 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
@@ -238,6 +225,21 @@
       "attachments": []
     },
     {
+      "id": "a8a832affe3a104f26c559aa3864a2e0ec92059c3feed342823266d3be445ab8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 Pew (@pewpiece) SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185 — https://nitter.net/pewpiece/status/2064004036450292139#m",
+      "text": "#ONEPIECE1185 Pew (@pewpiece) SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185 — https://nitter.net/pewpiece/status/2064004036450292139#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2064005012137676948#m",
+      "date": "Mon, 08 Jun 2026 15:21:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKTQkOLXUAATBh2.jpg"
+      ]
+    },
+    {
       "id": "1c37c55b53ee70a55d18847e000feab427bbf3aa52e4f380475ed840e661de7a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -399,21 +401,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHKHz5LaWYAAKiCO.jpg"
       ]
-    },
-    {
-      "id": "6f31b482c32922ed33ff29a199c8b1753a32a49bbb19cabb6d89bdf48d8ee52a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2063575445346406639#m",
-      "date": "Sun, 07 Jun 2026 10:55:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKHzrTqXQAA3ltI.jpg"
-      ]
     }
   ],
   "items": [
@@ -461,19 +448,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHKTSlocXYAA0i82.jpg"
       ]
-    },
-    {
-      "id": "e1d3a45a9147d58320d03f83a5a7af2f00212b8a94f0f015b557b1c8943e5bd5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 #OPSPOILERS",
-      "text": "#ONEPIECE1185 #OPSPOILERS",
-      "url": "https://nitter.net/AniKing/status/2064002346988843370#m",
-      "date": "Mon, 08 Jun 2026 15:11:21 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
@@ -651,6 +625,21 @@
       "attachments": []
     },
     {
+      "id": "a8a832affe3a104f26c559aa3864a2e0ec92059c3feed342823266d3be445ab8",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 Pew (@pewpiece) SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185 — https://nitter.net/pewpiece/status/2064004036450292139#m",
+      "text": "#ONEPIECE1185 Pew (@pewpiece) SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185 — https://nitter.net/pewpiece/status/2064004036450292139#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2064005012137676948#m",
+      "date": "Mon, 08 Jun 2026 15:21:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKTQkOLXUAATBh2.jpg"
+      ]
+    },
+    {
       "id": "1c37c55b53ee70a55d18847e000feab427bbf3aa52e4f380475ed840e661de7a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -811,21 +800,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKHz5LaWYAAKiCO.jpg"
-      ]
-    },
-    {
-      "id": "6f31b482c32922ed33ff29a199c8b1753a32a49bbb19cabb6d89bdf48d8ee52a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2063575445346406639#m",
-      "date": "Sun, 07 Jun 2026 10:55:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKHzrTqXQAA3ltI.jpg"
       ]
     }
   ]
