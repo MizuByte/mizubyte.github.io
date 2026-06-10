@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T00:07:16.664Z",
+  "generatedAt": "2026-06-10T04:53:02.381Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -30,21 +30,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKTXg3TXoAACjXV.jpg"
-      ]
-    },
-    {
-      "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for ONLY Boruto/Naruto content and leaks Video",
-      "text": "Follow me for ONLY Boruto/Naruto content and leaks Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2060652037675593923#m",
-      "date": "Sat, 30 May 2026 09:18:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2060652024522240004%2Fimg%2F_tmAumCje2Rip_aV.jpg"
       ]
     },
     {
@@ -87,6 +72,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Follow me for ONLY Boruto/Naruto content and leaks Video",
+      "text": "Follow me for ONLY Boruto/Naruto content and leaks Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2060652037675593923#m",
+      "date": "Sat, 30 May 2026 09:18:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2060652024522240004%2Fimg%2F_tmAumCje2Rip_aV.jpg"
+      ]
     }
   ],
   "misc": [
@@ -234,6 +234,49 @@
       ]
     },
     {
+      "id": "4400f7cdf720d913dc1ef034d02c17b21e4f72684a6a847e9e89a6bef7b068b0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem p",
+      "text": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock — https://nitter.net/PacemanOP/status/2063923964255363145#m",
+      "url": "https://nitter.net/PacemanOP/status/2064011458351186195#m",
+      "date": "Mon, 08 Jun 2026 15:47:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKTXe5hbMAAs0SH.jpg"
+      ]
+    },
+    {
+      "id": "800558cdd69984dcd80d701fcd0bcab765c965115661f655076d4c3050770123",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surro",
+      "text": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock",
+      "url": "https://nitter.net/PacemanOP/status/2063923964255363145#m",
+      "date": "Mon, 08 Jun 2026 09:59:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "19bc1c7af20c7282257ad96a8f40ed1b61fdaa519184d1495bf2503414481f9c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Rahhhhh",
+      "text": "Rahhhhh",
+      "url": "https://nitter.net/PacemanOP/status/2063091977357525436#m",
+      "date": "Sat, 06 Jun 2026 02:53:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKGTOCuaMAAI83-.jpg"
+      ]
+    },
+    {
       "id": "1c37c55b53ee70a55d18847e000feab427bbf3aa52e4f380475ed840e661de7a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -309,49 +352,6 @@
       ]
     },
     {
-      "id": "4400f7cdf720d913dc1ef034d02c17b21e4f72684a6a847e9e89a6bef7b068b0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem p",
-      "text": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock — https://nitter.net/PacemanOP/status/2063923964255363145#m",
-      "url": "https://nitter.net/PacemanOP/status/2064011458351186195#m",
-      "date": "Mon, 08 Jun 2026 15:47:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKTXe5hbMAAs0SH.jpg"
-      ]
-    },
-    {
-      "id": "800558cdd69984dcd80d701fcd0bcab765c965115661f655076d4c3050770123",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surro",
-      "text": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock",
-      "url": "https://nitter.net/PacemanOP/status/2063923964255363145#m",
-      "date": "Mon, 08 Jun 2026 09:59:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "19bc1c7af20c7282257ad96a8f40ed1b61fdaa519184d1495bf2503414481f9c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Rahhhhh",
-      "text": "Rahhhhh",
-      "url": "https://nitter.net/PacemanOP/status/2063091977357525436#m",
-      "date": "Sat, 06 Jun 2026 02:53:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKGTOCuaMAAI83-.jpg"
-      ]
-    },
-    {
       "id": "17dba9108dd93bcc5f3431298bb9dc9e955cc848330f1be042bb95bd53105795",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -414,21 +414,6 @@
       ]
     },
     {
-      "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Follow me for ONLY Boruto/Naruto content and leaks Video",
-      "text": "Follow me for ONLY Boruto/Naruto content and leaks Video",
-      "url": "https://nitter.net/SchmurfiV1/status/2060652037675593923#m",
-      "date": "Sat, 30 May 2026 09:18:25 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2060652024522240004%2Fimg%2F_tmAumCje2Rip_aV.jpg"
-      ]
-    },
-    {
       "id": "1ceee2a9b975f6f376f0aa6a7496f01db1f94525c659f4a081825d5c3df16cbe",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -468,6 +453,21 @@
       "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Follow me for ONLY Boruto/Naruto content and leaks Video",
+      "text": "Follow me for ONLY Boruto/Naruto content and leaks Video",
+      "url": "https://nitter.net/SchmurfiV1/status/2060652037675593923#m",
+      "date": "Sat, 30 May 2026 09:18:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2060652024522240004%2Fimg%2F_tmAumCje2Rip_aV.jpg"
+      ]
     },
     {
       "id": "6ec4c7e5d15ff33d7103aafccf023d8b66fcb5be197cabc99f324720635b382c",
@@ -613,6 +613,49 @@
       ]
     },
     {
+      "id": "4400f7cdf720d913dc1ef034d02c17b21e4f72684a6a847e9e89a6bef7b068b0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem p",
+      "text": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock — https://nitter.net/PacemanOP/status/2063923964255363145#m",
+      "url": "https://nitter.net/PacemanOP/status/2064011458351186195#m",
+      "date": "Mon, 08 Jun 2026 15:47:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKTXe5hbMAAs0SH.jpg"
+      ]
+    },
+    {
+      "id": "800558cdd69984dcd80d701fcd0bcab765c965115661f655076d4c3050770123",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surro",
+      "text": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock",
+      "url": "https://nitter.net/PacemanOP/status/2063923964255363145#m",
+      "date": "Mon, 08 Jun 2026 09:59:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "19bc1c7af20c7282257ad96a8f40ed1b61fdaa519184d1495bf2503414481f9c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Rahhhhh",
+      "text": "Rahhhhh",
+      "url": "https://nitter.net/PacemanOP/status/2063091977357525436#m",
+      "date": "Sat, 06 Jun 2026 02:53:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKGTOCuaMAAI83-.jpg"
+      ]
+    },
+    {
       "id": "1c37c55b53ee70a55d18847e000feab427bbf3aa52e4f380475ed840e661de7a",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -685,49 +728,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHJjn-NNXcAUL8j2.jpg"
-      ]
-    },
-    {
-      "id": "4400f7cdf720d913dc1ef034d02c17b21e4f72684a6a847e9e89a6bef7b068b0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem p",
-      "text": "Pace (@PacemanOP) Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock — https://nitter.net/PacemanOP/status/2063923964255363145#m",
-      "url": "https://nitter.net/PacemanOP/status/2064011458351186195#m",
-      "date": "Mon, 08 Jun 2026 15:47:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKTXe5hbMAAs0SH.jpg"
-      ]
-    },
-    {
-      "id": "800558cdd69984dcd80d701fcd0bcab765c965115661f655076d4c3050770123",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surro",
-      "text": "Upcoming Blue Lock KV featuring Isagi & Kaiser. Isagi sits with the ball and a confident grin, while Kaiser stands behind him with his trademark smug look. Neo Egoist League emblem puzzle pieces surround them, with green and purple auras representing Isagi and Kaiser. #BlueLock",
-      "url": "https://nitter.net/PacemanOP/status/2063923964255363145#m",
-      "date": "Mon, 08 Jun 2026 09:59:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "19bc1c7af20c7282257ad96a8f40ed1b61fdaa519184d1495bf2503414481f9c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Rahhhhh",
-      "text": "Rahhhhh",
-      "url": "https://nitter.net/PacemanOP/status/2063091977357525436#m",
-      "date": "Sat, 06 Jun 2026 02:53:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKGTOCuaMAAI83-.jpg"
       ]
     },
     {
