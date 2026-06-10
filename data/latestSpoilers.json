@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-06-10T12:01:44.561Z",
+  "generatedAt": "2026-06-10T16:11:31.664Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "2edd2cdfbb7145d3b7964004da1d1481e8c849ed6a0f5e501bb7fc9be11f7875",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1185 More spoilers for onepiece chapter 1185.",
-      "text": "#ONEPIECE1185 More spoilers for onepiece chapter 1185.",
-      "url": "https://nitter.net/pewpiece/status/2064024264190149046#m",
-      "date": "Mon, 08 Jun 2026 16:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKThBYxWsAASAKI.jpg"
-      ]
-    },
-    {
-      "id": "c2b560b666d50bff163a6956451f0ba94363a8ce2641c849e9414738e777d50f",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1185 Brief spoilers for onepeice chapter 1185 (Thanks to Alexis2282AE from WorstgenHQ)",
-      "text": "#ONEPIECE1185 Brief spoilers for onepeice chapter 1185 (Thanks to Alexis2282AE from WorstgenHQ)",
-      "url": "https://nitter.net/pewpiece/status/2064012051828121623#m",
-      "date": "Mon, 08 Jun 2026 15:49:55 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKTXg3TXoAACjXV.jpg"
-      ]
-    },
     {
       "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
       "anime": "boruto",
@@ -91,61 +61,185 @@
   ],
   "misc": [
     {
-      "id": "6ec4c7e5d15ff33d7103aafccf023d8b66fcb5be197cabc99f324720635b382c",
+      "id": "8eb6825c7ceff846c6fdceda5e17a778cb4ae8a81d5a31de74e553ff528b1263",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "A new onepiece game Sea Gourmet Restaurant has been announced The Nintendo Switch 2 version launches on October 22 2026 Steam and mobile launch on October 23 nitter.net/Buggy/status/206435353…",
-      "text": "A new onepiece game Sea Gourmet Restaurant has been announced The Nintendo Switch 2 version launches on October 22 2026 Steam and mobile launch on October 23 nitter.net/Buggy/status/206435353…",
-      "url": "https://nitter.net/pewpiece/status/2064354971567431889#m",
-      "date": "Tue, 09 Jun 2026 14:32:33 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 I really want to know why all this effort for \"such\" a country(Esperia)? Why having Gorosei and Imu involved into Reuven and Candle kingdom and being there personal solving the problems?",
+      "text": "#ONEPIECE1185 I really want to know why all this effort for \"such\" a country(Esperia)? Why having Gorosei and Imu involved into Reuven and Candle kingdom and being there personal solving the problems?",
+      "url": "https://nitter.net/WorstGenHQ/status/2064741601004405060#m",
+      "date": "Wed, 10 Jun 2026 16:08:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKdvib6WoAAREZM.jpg"
+      ]
+    },
+    {
+      "id": "89282fbc373b9e47552d37645b6e0427340dca30e58951ebf46398831ec66794",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 Gorosei(not all) are infront of Reuven during the incident!!!!",
+      "text": "#ONEPIECE1185 Gorosei(not all) are infront of Reuven during the incident!!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2064740906964517246#m",
+      "date": "Wed, 10 Jun 2026 16:06:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKdu6cOWEAAwDym.jpg"
+      ]
+    },
+    {
+      "id": "808bd5fda666218581cb71baa7790e9b3cc1d2819e1def0ad97f3bb77e7338bd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Xenoblade Genesis, a new beginning for the series, is coming exclusively to Nintendo Switch 2 in 2027. #NintendoDirect Video",
+      "text": "Xenoblade Genesis, a new beginning for the series, is coming exclusively to Nintendo Switch 2 in 2027. #NintendoDirect Video",
+      "url": "https://nitter.net/NintendoAmerica/status/2064355280284954774#m",
+      "date": "Tue, 09 Jun 2026 14:33:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKYQMAEXIAAVaQL.jpg"
+      ]
+    },
+    {
+      "id": "c371a55768d76f33ab770eb08825004af406def9740c91f356a1c9d2b76b2fb9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 🔥",
+      "text": "#ONEPIECE1185 🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2064423624216355272#m",
+      "date": "Tue, 09 Jun 2026 19:05:21 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "2bf929c47cb9c38f868b8b5ec4101c469074701005917d13e94792e1b1f76cf2",
+      "id": "1b17dd75dd8e9db69b45ee8a8ac30788f36f5ce44ce1cbc56594097a6d0c99c7",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185",
-      "text": "SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185",
-      "url": "https://nitter.net/pewpiece/status/2064004036450292139#m",
-      "date": "Mon, 08 Jun 2026 15:18:04 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Wario64 (@Wario64) The Legend of Zelda: Ocarina of Time (remake) announced, coming 2026 — https://nitter.net/Wario64/status/2064360569705255106#m",
+      "text": "Wario64 (@Wario64) The Legend of Zelda: Ocarina of Time (remake) announced, coming 2026 — https://nitter.net/Wario64/status/2064360569705255106#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2064361809113391236#m",
+      "date": "Tue, 09 Jun 2026 14:59:43 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHKTQkOLXUAATBh2.jpg"
+        "https://nitter.net/pic/media%2FHKYU3D4bsAAqfPp.jpg",
+        "https://nitter.net/pic/media%2FHKYU6MzbAAAtdLZ.jpg",
+        "https://nitter.net/pic/media%2FHKYU8d-bUAAfdB_.jpg",
+        "https://nitter.net/pic/media%2FHKYU-5GbYAAmsDE.jpg"
       ]
     },
     {
-      "id": "ae5b5a797ba21896fc091ecd307cd8d42d9c50ad44725dd6d249ee67f282794d",
+      "id": "b44fc4a40de2276adb46140b0ed7b90bd94a57555d2a907a1f2fdc240235a207",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "text": "OFFICIAL 🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "url": "https://nitter.net/pewpiece/status/2063640051867664714#m",
-      "date": "Sun, 07 Jun 2026 15:11:43 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ITS VOMING OMGMMGMGMGMGM 2026!!!! DO YOU ALL SEE THE STYLE!???? 😭😭😭😭 WE ARE WINNING OMG!!",
+      "text": "ITS VOMING OMGMMGMGMGMGM 2026!!!! DO YOU ALL SEE THE STYLE!???? 😭😭😭😭 WE ARE WINNING OMG!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2064360753893646654#m",
+      "date": "Tue, 09 Jun 2026 14:55:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e6a92c433f27b1eb956f1bd0d64b36308e24bf6c96dd7b7a8c3c5d7294df10b8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡El Tomo 15 de la edición 3 en 1 de One Piece saldrá a la venta en Septiembre de 2026 😍😍😍😍😍!! @PlanetadComic ha elegido como portada provisional la del Tomo 44 japonés. ¿Os gusta? ¿O preferís la",
+      "text": "¡¡El Tomo 15 de la edición 3 en 1 de One Piece saldrá a la venta en Septiembre de 2026 😍😍😍😍😍!! @PlanetadComic ha elegido como portada provisional la del Tomo 44 japonés. ¿Os gusta? ¿O preferís las portadas de los Tomos 43 o 45? Yo me hubiese quedado con la del Tomo 45 😁😁😁 Planeta Cómic (@PlanetadComic) 🏴‍☠️¡En septiembre llegará a librerías el volumen nº 15 de la nueva edición de #OnePiece! ¡¡Continúa esta historia de piratas que buscan el gran tesoro, el One Piece!! Cubierta provisional. #manga #shonen — https://nitter.net/PlanetadComic/status/2064723281488289991#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2064732734820397160#m",
+      "date": "Wed, 10 Jun 2026 15:33:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHKOFrTDXEAAYRuj.jpg"
+        "https://nitter.net/pic/media%2FHKdnK40WwAAXX1f.jpg",
+        "https://nitter.net/pic/media%2FHKdnM9HWwAAoVKt.jpg",
+        "https://nitter.net/pic/media%2FHKdnNoZWAAAE_aP.jpg",
+        "https://nitter.net/pic/media%2FHKde4G3XEAAEeqp.jpg"
       ]
     },
     {
-      "id": "d3cc8243e50ff08c8ff4141223b3926608d7b4dc6a069820838459cd203ea078",
+      "id": "9202c19b00289a1c87b45738adaeb178df02c2df02fc33b5301e28fe3f06ec5e",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW 1166 Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW 1166 Video",
-      "url": "https://nitter.net/pewpiece/status/2063633208965542216#m",
-      "date": "Sun, 07 Jun 2026 14:44:32 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Último día de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece 🏴‍☠️🏴‍☠️🏴‍☠️!! Y por supuesto mi último voto es para... The 2nd Global ONE PIECE Character Popularity Co",
+      "text": "¡¡Último día de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece 🏴‍☠️🏴‍☠️🏴‍☠️!! Y por supuesto mi último voto es para... The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2064730847660372065#m",
+      "date": "Wed, 10 Jun 2026 15:26:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2063633143823753216%2Fimg%2FD25Yh9U3FvANa3G4.jpg"
+        "https://nitter.net/pic/card_img%2F2061583527062470656%2Fb31tLyM9%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "c51ea9b3c1b54f26f3861f5a87b1f5ef5df8b353a0ed4b7bd8cc2ebcd5f9d971",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔔 ¡En septiembre llegará el tomo nº 17 de #HajimeNoIppo! 🥊 ¡La emoción del boxeo alcanza su punto más dramático con la dura decisión de Kimura tras un combate al límite! Cubierta provisional. #manga",
+      "text": "🔔 ¡En septiembre llegará el tomo nº 17 de #HajimeNoIppo! 🥊 ¡La emoción del boxeo alcanza su punto más dramático con la dura decisión de Kimura tras un combate al límite! Cubierta provisional. #manga #shonen",
+      "url": "https://nitter.net/PlanetadComic/status/2064723456076173720#m",
+      "date": "Wed, 10 Jun 2026 14:56:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKdfCKKW4AAYr3W.jpg"
+      ]
+    },
+    {
+      "id": "b9388bdaf225b59e4f0fdcb8766c02a400d6c510c5eca910e842b2ecc2efbcf6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🏈 ¡En septiembre llegará a librerías el undécimo tomo de la edición 3 en 1 de #Eyeshield21! Creado por Riichiro Inagaki y Yūsuke Murata, este #shonen de fútbol americano cuenta con un extravagante el",
+      "text": "🏈 ¡En septiembre llegará a librerías el undécimo tomo de la edición 3 en 1 de #Eyeshield21! Creado por Riichiro Inagaki y Yūsuke Murata, este #shonen de fútbol americano cuenta con un extravagante elenco de personajes y una combinación magistral de acción y comedia que te atrapará. Cubierta provisional. #manga",
+      "url": "https://nitter.net/PlanetadComic/status/2064723406298251688#m",
+      "date": "Wed, 10 Jun 2026 14:56:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKde_LeXIAE7N6c.jpg"
+      ]
+    },
+    {
+      "id": "ff76a5c360f68017f81a2345051f4b5c23dfb12c0d0be2c43d82f9d3c3a98f0e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔎 ¡Fans de #DetectiveConan! En septiembre llegará el volumen nº 53 de #DetectiveConan, ¡la aclamada serie creada por Gosho Aoyama! Cubierta provisional. #manga #shonen",
+      "text": "🔎 ¡Fans de #DetectiveConan! En septiembre llegará el volumen nº 53 de #DetectiveConan, ¡la aclamada serie creada por Gosho Aoyama! Cubierta provisional. #manga #shonen",
+      "url": "https://nitter.net/PlanetadComic/status/2064723379135950997#m",
+      "date": "Wed, 10 Jun 2026 14:56:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKde9sWXIAAwRNL.jpg"
+      ]
+    },
+    {
+      "id": "b534434e5920f14094d24f9b221c0713d5b8c9db05b04ce330f1331a45e72b72",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "⚔️ ¡En septiembre llegará a librerías el décimo volumen de #DragonQuest #TheAdventureOfDai! ¡Siguen las míticas aventuras de Dai en este nuevo volumen! #shonen",
+      "text": "⚔️ ¡En septiembre llegará a librerías el décimo volumen de #DragonQuest #TheAdventureOfDai! ¡Siguen las míticas aventuras de Dai en este nuevo volumen! #shonen",
+      "url": "https://nitter.net/PlanetadComic/status/2064723363235328258#m",
+      "date": "Wed, 10 Jun 2026 14:56:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKde81HXwAAjQ64.jpg"
       ]
     },
     {
@@ -265,129 +359,9 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHKGTOCuaMAAI83-.jpg"
       ]
-    },
-    {
-      "id": "db52f913349028e4f84dd7e2a0028ca32077a4a36e41b15cc8561671931c0ce2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2064589855351308546#m",
-      "date": "Wed, 10 Jun 2026 06:05:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKblh3DXwAAEb5C.jpg"
-      ]
-    },
-    {
-      "id": "17dba9108dd93bcc5f3431298bb9dc9e955cc848330f1be042bb95bd53105795",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2064461110451810597#m",
-      "date": "Tue, 09 Jun 2026 21:34:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKZwcAAXkAA40Ey.jpg"
-      ]
-    },
-    {
-      "id": "b34c1c16c5d7373af4fe28347bf0eabcada5e9da58cff2faf05e9d694b43662c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2064231053699461365#m",
-      "date": "Tue, 09 Jun 2026 06:20:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKWfM0fWYAAftNM.jpg"
-      ]
-    },
-    {
-      "id": "7a08d4b09d95b79a41236892e1fb1619b1a84c1873a8c57dd0bfcb9520be67d4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2064087728698896871#m",
-      "date": "Mon, 08 Jun 2026 20:50:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKUc2T0XkAA6-eV.jpg"
-      ]
-    },
-    {
-      "id": "b8c4e62323c8d9aa22841c378baff5c0ad9d2ed9c6b55c0cd1d2995d01481dd0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2064001333506580753#m",
-      "date": "Mon, 08 Jun 2026 15:07:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKTORfXXoAA3tHq.jpg"
-      ]
-    },
-    {
-      "id": "ea35fa3bea3d79ca65975bffa053a75f13f49fc0f55d52d6fc0e31dc702f9e86",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2063859917019050025#m",
-      "date": "Mon, 08 Jun 2026 05:45:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKRNp_HXgAE7h6d.jpg"
-      ]
     }
   ],
   "items": [
-    {
-      "id": "2edd2cdfbb7145d3b7964004da1d1481e8c849ed6a0f5e501bb7fc9be11f7875",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1185 More spoilers for onepiece chapter 1185.",
-      "text": "#ONEPIECE1185 More spoilers for onepiece chapter 1185.",
-      "url": "https://nitter.net/pewpiece/status/2064024264190149046#m",
-      "date": "Mon, 08 Jun 2026 16:38:26 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKThBYxWsAASAKI.jpg"
-      ]
-    },
-    {
-      "id": "c2b560b666d50bff163a6956451f0ba94363a8ce2641c849e9414738e777d50f",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1185 Brief spoilers for onepeice chapter 1185 (Thanks to Alexis2282AE from WorstgenHQ)",
-      "text": "#ONEPIECE1185 Brief spoilers for onepeice chapter 1185 (Thanks to Alexis2282AE from WorstgenHQ)",
-      "url": "https://nitter.net/pewpiece/status/2064012051828121623#m",
-      "date": "Mon, 08 Jun 2026 15:49:55 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKTXg3TXoAACjXV.jpg"
-      ]
-    },
     {
       "id": "925078578eea8c3cf1c32deb35da822e8db5b42d709f534e167f9d99bb956ffa",
       "anime": "boruto",
@@ -445,61 +419,185 @@
       "attachments": []
     },
     {
-      "id": "6ec4c7e5d15ff33d7103aafccf023d8b66fcb5be197cabc99f324720635b382c",
+      "id": "8eb6825c7ceff846c6fdceda5e17a778cb4ae8a81d5a31de74e553ff528b1263",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "A new onepiece game Sea Gourmet Restaurant has been announced The Nintendo Switch 2 version launches on October 22 2026 Steam and mobile launch on October 23 nitter.net/Buggy/status/206435353…",
-      "text": "A new onepiece game Sea Gourmet Restaurant has been announced The Nintendo Switch 2 version launches on October 22 2026 Steam and mobile launch on October 23 nitter.net/Buggy/status/206435353…",
-      "url": "https://nitter.net/pewpiece/status/2064354971567431889#m",
-      "date": "Tue, 09 Jun 2026 14:32:33 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 I really want to know why all this effort for \"such\" a country(Esperia)? Why having Gorosei and Imu involved into Reuven and Candle kingdom and being there personal solving the problems?",
+      "text": "#ONEPIECE1185 I really want to know why all this effort for \"such\" a country(Esperia)? Why having Gorosei and Imu involved into Reuven and Candle kingdom and being there personal solving the problems?",
+      "url": "https://nitter.net/WorstGenHQ/status/2064741601004405060#m",
+      "date": "Wed, 10 Jun 2026 16:08:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKdvib6WoAAREZM.jpg"
+      ]
+    },
+    {
+      "id": "89282fbc373b9e47552d37645b6e0427340dca30e58951ebf46398831ec66794",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 Gorosei(not all) are infront of Reuven during the incident!!!!",
+      "text": "#ONEPIECE1185 Gorosei(not all) are infront of Reuven during the incident!!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2064740906964517246#m",
+      "date": "Wed, 10 Jun 2026 16:06:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKdu6cOWEAAwDym.jpg"
+      ]
+    },
+    {
+      "id": "808bd5fda666218581cb71baa7790e9b3cc1d2819e1def0ad97f3bb77e7338bd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Xenoblade Genesis, a new beginning for the series, is coming exclusively to Nintendo Switch 2 in 2027. #NintendoDirect Video",
+      "text": "Xenoblade Genesis, a new beginning for the series, is coming exclusively to Nintendo Switch 2 in 2027. #NintendoDirect Video",
+      "url": "https://nitter.net/NintendoAmerica/status/2064355280284954774#m",
+      "date": "Tue, 09 Jun 2026 14:33:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKYQMAEXIAAVaQL.jpg"
+      ]
+    },
+    {
+      "id": "c371a55768d76f33ab770eb08825004af406def9740c91f356a1c9d2b76b2fb9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 🔥",
+      "text": "#ONEPIECE1185 🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2064423624216355272#m",
+      "date": "Tue, 09 Jun 2026 19:05:21 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "2bf929c47cb9c38f868b8b5ec4101c469074701005917d13e94792e1b1f76cf2",
+      "id": "1b17dd75dd8e9db69b45ee8a8ac30788f36f5ce44ce1cbc56594097a6d0c99c7",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185",
-      "text": "SADLY 🚨🚨 THERE WILL A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1185",
-      "url": "https://nitter.net/pewpiece/status/2064004036450292139#m",
-      "date": "Mon, 08 Jun 2026 15:18:04 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Wario64 (@Wario64) The Legend of Zelda: Ocarina of Time (remake) announced, coming 2026 — https://nitter.net/Wario64/status/2064360569705255106#m",
+      "text": "Wario64 (@Wario64) The Legend of Zelda: Ocarina of Time (remake) announced, coming 2026 — https://nitter.net/Wario64/status/2064360569705255106#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2064361809113391236#m",
+      "date": "Tue, 09 Jun 2026 14:59:43 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHKTQkOLXUAATBh2.jpg"
+        "https://nitter.net/pic/media%2FHKYU3D4bsAAqfPp.jpg",
+        "https://nitter.net/pic/media%2FHKYU6MzbAAAtdLZ.jpg",
+        "https://nitter.net/pic/media%2FHKYU8d-bUAAfdB_.jpg",
+        "https://nitter.net/pic/media%2FHKYU-5GbYAAmsDE.jpg"
       ]
     },
     {
-      "id": "ae5b5a797ba21896fc091ecd307cd8d42d9c50ad44725dd6d249ee67f282794d",
+      "id": "b44fc4a40de2276adb46140b0ed7b90bd94a57555d2a907a1f2fdc240235a207",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "OFFICIAL 🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "text": "OFFICIAL 🚨 THE BREAK IS OFFICIALLY OVER ONEPIECE MANGA IS BACK THIS WEEK",
-      "url": "https://nitter.net/pewpiece/status/2063640051867664714#m",
-      "date": "Sun, 07 Jun 2026 15:11:43 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "ITS VOMING OMGMMGMGMGMGM 2026!!!! DO YOU ALL SEE THE STYLE!???? 😭😭😭😭 WE ARE WINNING OMG!!",
+      "text": "ITS VOMING OMGMMGMGMGMGM 2026!!!! DO YOU ALL SEE THE STYLE!???? 😭😭😭😭 WE ARE WINNING OMG!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2064360753893646654#m",
+      "date": "Tue, 09 Jun 2026 14:55:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e6a92c433f27b1eb956f1bd0d64b36308e24bf6c96dd7b7a8c3c5d7294df10b8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡El Tomo 15 de la edición 3 en 1 de One Piece saldrá a la venta en Septiembre de 2026 😍😍😍😍😍!! @PlanetadComic ha elegido como portada provisional la del Tomo 44 japonés. ¿Os gusta? ¿O preferís la",
+      "text": "¡¡El Tomo 15 de la edición 3 en 1 de One Piece saldrá a la venta en Septiembre de 2026 😍😍😍😍😍!! @PlanetadComic ha elegido como portada provisional la del Tomo 44 japonés. ¿Os gusta? ¿O preferís las portadas de los Tomos 43 o 45? Yo me hubiese quedado con la del Tomo 45 😁😁😁 Planeta Cómic (@PlanetadComic) 🏴‍☠️¡En septiembre llegará a librerías el volumen nº 15 de la nueva edición de #OnePiece! ¡¡Continúa esta historia de piratas que buscan el gran tesoro, el One Piece!! Cubierta provisional. #manga #shonen — https://nitter.net/PlanetadComic/status/2064723281488289991#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2064732734820397160#m",
+      "date": "Wed, 10 Jun 2026 15:33:39 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHKOFrTDXEAAYRuj.jpg"
+        "https://nitter.net/pic/media%2FHKdnK40WwAAXX1f.jpg",
+        "https://nitter.net/pic/media%2FHKdnM9HWwAAoVKt.jpg",
+        "https://nitter.net/pic/media%2FHKdnNoZWAAAE_aP.jpg",
+        "https://nitter.net/pic/media%2FHKde4G3XEAAEeqp.jpg"
       ]
     },
     {
-      "id": "d3cc8243e50ff08c8ff4141223b3926608d7b4dc6a069820838459cd203ea078",
+      "id": "9202c19b00289a1c87b45738adaeb178df02c2df02fc33b5301e28fe3f06ec5e",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW 1166 Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW 1166 Video",
-      "url": "https://nitter.net/pewpiece/status/2063633208965542216#m",
-      "date": "Sun, 07 Jun 2026 14:44:32 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Último día de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece 🏴‍☠️🏴‍☠️🏴‍☠️!! Y por supuesto mi último voto es para... The 2nd Global ONE PIECE Character Popularity Co",
+      "text": "¡¡Último día de la votación del 2º Ranking Mundial de Popularidad de personajes de One Piece 🏴‍☠️🏴‍☠️🏴‍☠️!! Y por supuesto mi último voto es para... The 2nd Global ONE PIECE Character Popularity Contest I voted for “MONKEY D. LUFFY”! onepiecewt100-2026.com/en/vo… #ONEPIECE #ONEPIECE_WT100",
+      "url": "https://nitter.net/Mugiwara_23/status/2064730847660372065#m",
+      "date": "Wed, 10 Jun 2026 15:26:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2063633143823753216%2Fimg%2FD25Yh9U3FvANa3G4.jpg"
+        "https://nitter.net/pic/card_img%2F2061583527062470656%2Fb31tLyM9%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
+    {
+      "id": "c51ea9b3c1b54f26f3861f5a87b1f5ef5df8b353a0ed4b7bd8cc2ebcd5f9d971",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔔 ¡En septiembre llegará el tomo nº 17 de #HajimeNoIppo! 🥊 ¡La emoción del boxeo alcanza su punto más dramático con la dura decisión de Kimura tras un combate al límite! Cubierta provisional. #manga",
+      "text": "🔔 ¡En septiembre llegará el tomo nº 17 de #HajimeNoIppo! 🥊 ¡La emoción del boxeo alcanza su punto más dramático con la dura decisión de Kimura tras un combate al límite! Cubierta provisional. #manga #shonen",
+      "url": "https://nitter.net/PlanetadComic/status/2064723456076173720#m",
+      "date": "Wed, 10 Jun 2026 14:56:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKdfCKKW4AAYr3W.jpg"
+      ]
+    },
+    {
+      "id": "b9388bdaf225b59e4f0fdcb8766c02a400d6c510c5eca910e842b2ecc2efbcf6",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🏈 ¡En septiembre llegará a librerías el undécimo tomo de la edición 3 en 1 de #Eyeshield21! Creado por Riichiro Inagaki y Yūsuke Murata, este #shonen de fútbol americano cuenta con un extravagante el",
+      "text": "🏈 ¡En septiembre llegará a librerías el undécimo tomo de la edición 3 en 1 de #Eyeshield21! Creado por Riichiro Inagaki y Yūsuke Murata, este #shonen de fútbol americano cuenta con un extravagante elenco de personajes y una combinación magistral de acción y comedia que te atrapará. Cubierta provisional. #manga",
+      "url": "https://nitter.net/PlanetadComic/status/2064723406298251688#m",
+      "date": "Wed, 10 Jun 2026 14:56:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKde_LeXIAE7N6c.jpg"
+      ]
+    },
+    {
+      "id": "ff76a5c360f68017f81a2345051f4b5c23dfb12c0d0be2c43d82f9d3c3a98f0e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🔎 ¡Fans de #DetectiveConan! En septiembre llegará el volumen nº 53 de #DetectiveConan, ¡la aclamada serie creada por Gosho Aoyama! Cubierta provisional. #manga #shonen",
+      "text": "🔎 ¡Fans de #DetectiveConan! En septiembre llegará el volumen nº 53 de #DetectiveConan, ¡la aclamada serie creada por Gosho Aoyama! Cubierta provisional. #manga #shonen",
+      "url": "https://nitter.net/PlanetadComic/status/2064723379135950997#m",
+      "date": "Wed, 10 Jun 2026 14:56:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKde9sWXIAAwRNL.jpg"
+      ]
+    },
+    {
+      "id": "b534434e5920f14094d24f9b221c0713d5b8c9db05b04ce330f1331a45e72b72",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "⚔️ ¡En septiembre llegará a librerías el décimo volumen de #DragonQuest #TheAdventureOfDai! ¡Siguen las míticas aventuras de Dai en este nuevo volumen! #shonen",
+      "text": "⚔️ ¡En septiembre llegará a librerías el décimo volumen de #DragonQuest #TheAdventureOfDai! ¡Siguen las míticas aventuras de Dai en este nuevo volumen! #shonen",
+      "url": "https://nitter.net/PlanetadComic/status/2064723363235328258#m",
+      "date": "Wed, 10 Jun 2026 14:56:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKde81HXwAAjQ64.jpg"
       ]
     },
     {
@@ -618,96 +716,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKGTOCuaMAAI83-.jpg"
-      ]
-    },
-    {
-      "id": "db52f913349028e4f84dd7e2a0028ca32077a4a36e41b15cc8561671931c0ce2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2064589855351308546#m",
-      "date": "Wed, 10 Jun 2026 06:05:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKblh3DXwAAEb5C.jpg"
-      ]
-    },
-    {
-      "id": "17dba9108dd93bcc5f3431298bb9dc9e955cc848330f1be042bb95bd53105795",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2064461110451810597#m",
-      "date": "Tue, 09 Jun 2026 21:34:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKZwcAAXkAA40Ey.jpg"
-      ]
-    },
-    {
-      "id": "b34c1c16c5d7373af4fe28347bf0eabcada5e9da58cff2faf05e9d694b43662c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2064231053699461365#m",
-      "date": "Tue, 09 Jun 2026 06:20:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKWfM0fWYAAftNM.jpg"
-      ]
-    },
-    {
-      "id": "7a08d4b09d95b79a41236892e1fb1619b1a84c1873a8c57dd0bfcb9520be67d4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2064087728698896871#m",
-      "date": "Mon, 08 Jun 2026 20:50:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKUc2T0XkAA6-eV.jpg"
-      ]
-    },
-    {
-      "id": "b8c4e62323c8d9aa22841c378baff5c0ad9d2ed9c6b55c0cd1d2995d01481dd0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2064001333506580753#m",
-      "date": "Mon, 08 Jun 2026 15:07:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKTORfXXoAA3tHq.jpg"
-      ]
-    },
-    {
-      "id": "ea35fa3bea3d79ca65975bffa053a75f13f49fc0f55d52d6fc0e31dc702f9e86",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2063859917019050025#m",
-      "date": "Mon, 08 Jun 2026 05:45:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKRNp_HXgAE7h6d.jpg"
       ]
     }
   ]
