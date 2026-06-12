@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-06-12T17:28:44.573Z",
+  "generatedAt": "2026-06-12T19:35:21.517Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "053a05c9cd42dd9a0d2fa9f818bfe81a4c04917ca35632289d07e4bb4d056d68",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 Interesting about the line Brook used for his song, it feels like a flashback to the places the Strawhats have visited in recent arcs. The final lines are also interesting; they might pr",
-      "text": "#ONEPIECE1185 Interesting about the line Brook used for his song, it feels like a flashback to the places the Strawhats have visited in recent arcs. The final lines are also interesting; they might predict that Elbaf could be completely destroyed, forcing everyone to flee.",
-      "url": "https://nitter.net/WorstGenHQ/status/2065348687321022836#m",
-      "date": "Fri, 12 Jun 2026 08:21:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKmXrgeXYAAyzZT.png"
-      ]
-    },
     {
       "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
       "anime": "blackclover",
@@ -75,80 +60,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "918fd6ad9fd6646ed6a044d6309d2d4e73dc8dc46e04b839859df84d83617677",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "text": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "url": "https://nitter.net/maldiidown/status/2065163635958206890#m",
-      "date": "Thu, 11 Jun 2026 20:05:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2065163624822259713%2Fimg%2Fv91_EQUgoT35KCuf.jpg"
-      ]
-    },
-    {
-      "id": "051b6ca00d2ce6aa7d16f9b4c2558a3cbb84b2274dc4fe409f57e04d3f6df290",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 I’d bet anything that this guy with Mars is the reason for the toxic fog that has afflicted the kingdom. The details in that panel might be a clue. Maybe he’s a Logia user, perhaps he ev",
-      "text": "#ONEPIECE1185 I’d bet anything that this guy with Mars is the reason for the toxic fog that has afflicted the kingdom. The details in that panel might be a clue. Maybe he’s a Logia user, perhaps he even had Smoker’s fruit in the past?",
-      "url": "https://nitter.net/WorstGenHQ/status/2065349117845373121#m",
-      "date": "Fri, 12 Jun 2026 08:22:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKmYDAcXAAA52W_.png",
-        "https://nitter.net/pic/media%2FHKmYEfoXcAAT8Gi.jpg"
-      ]
-    },
-    {
-      "id": "449f0bcaa28cbebd61319713381a2fd951bf2943c63be316be904b08c883bb7d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 Wholesome part on Shuri and Brook one, Brook was a mentor for her and both grow up together, liked that part in the flashback...",
-      "text": "#ONEPIECE1185 Wholesome part on Shuri and Brook one, Brook was a mentor for her and both grow up together, liked that part in the flashback...",
-      "url": "https://nitter.net/WorstGenHQ/status/2065347212515651645#m",
-      "date": "Fri, 12 Jun 2026 08:15:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKmWVyCXEAACwAK.png"
-      ]
-    },
-    {
-      "id": "dbe96860a6e464fd843fd38c83e0bc3b844dce59d33cea55949e0950d109dafc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imu 👀",
-      "text": "Imu 👀",
-      "url": "https://nitter.net/Leleo2211/status/2065261808043409822#m",
-      "date": "Fri, 12 Jun 2026 02:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKlIpg9bsAAGfbF.png"
-      ]
-    },
-    {
-      "id": "211a68a9b8a4c0454ae32113520389d528daea74237dc5bbce6f14b3e122f5cc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Mexico 2:0!! Should be over now, was pretty clear to begin that Mexico would win this.",
-      "text": "Mexico 2:0!! Should be over now, was pretty clear to begin that Mexico would win this.",
-      "url": "https://nitter.net/WorstGenHQ/status/2065170781865197645#m",
-      "date": "Thu, 11 Jun 2026 20:34:18 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
     {
       "id": "f1686efd8fa44b93cb3311e12c887893c7bd9da74ce4b5d23f145209dc02148a",
       "anime": "boruto",
@@ -275,21 +186,6 @@
   ],
   "items": [
     {
-      "id": "053a05c9cd42dd9a0d2fa9f818bfe81a4c04917ca35632289d07e4bb4d056d68",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 Interesting about the line Brook used for his song, it feels like a flashback to the places the Strawhats have visited in recent arcs. The final lines are also interesting; they might pr",
-      "text": "#ONEPIECE1185 Interesting about the line Brook used for his song, it feels like a flashback to the places the Strawhats have visited in recent arcs. The final lines are also interesting; they might predict that Elbaf could be completely destroyed, forcing everyone to flee.",
-      "url": "https://nitter.net/WorstGenHQ/status/2065348687321022836#m",
-      "date": "Fri, 12 Jun 2026 08:21:14 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKmXrgeXYAAyzZT.png"
-      ]
-    },
-    {
       "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -342,80 +238,6 @@
       "url": "https://nitter.net/PacemanOP/status/2064912383773216984#m",
       "date": "Thu, 11 Jun 2026 03:27:31 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "918fd6ad9fd6646ed6a044d6309d2d4e73dc8dc46e04b839859df84d83617677",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "text": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "url": "https://nitter.net/maldiidown/status/2065163635958206890#m",
-      "date": "Thu, 11 Jun 2026 20:05:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2065163624822259713%2Fimg%2Fv91_EQUgoT35KCuf.jpg"
-      ]
-    },
-    {
-      "id": "051b6ca00d2ce6aa7d16f9b4c2558a3cbb84b2274dc4fe409f57e04d3f6df290",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 I’d bet anything that this guy with Mars is the reason for the toxic fog that has afflicted the kingdom. The details in that panel might be a clue. Maybe he’s a Logia user, perhaps he ev",
-      "text": "#ONEPIECE1185 I’d bet anything that this guy with Mars is the reason for the toxic fog that has afflicted the kingdom. The details in that panel might be a clue. Maybe he’s a Logia user, perhaps he even had Smoker’s fruit in the past?",
-      "url": "https://nitter.net/WorstGenHQ/status/2065349117845373121#m",
-      "date": "Fri, 12 Jun 2026 08:22:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKmYDAcXAAA52W_.png",
-        "https://nitter.net/pic/media%2FHKmYEfoXcAAT8Gi.jpg"
-      ]
-    },
-    {
-      "id": "449f0bcaa28cbebd61319713381a2fd951bf2943c63be316be904b08c883bb7d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1185 Wholesome part on Shuri and Brook one, Brook was a mentor for her and both grow up together, liked that part in the flashback...",
-      "text": "#ONEPIECE1185 Wholesome part on Shuri and Brook one, Brook was a mentor for her and both grow up together, liked that part in the flashback...",
-      "url": "https://nitter.net/WorstGenHQ/status/2065347212515651645#m",
-      "date": "Fri, 12 Jun 2026 08:15:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKmWVyCXEAACwAK.png"
-      ]
-    },
-    {
-      "id": "dbe96860a6e464fd843fd38c83e0bc3b844dce59d33cea55949e0950d109dafc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imu 👀",
-      "text": "Imu 👀",
-      "url": "https://nitter.net/Leleo2211/status/2065261808043409822#m",
-      "date": "Fri, 12 Jun 2026 02:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKlIpg9bsAAGfbF.png"
-      ]
-    },
-    {
-      "id": "211a68a9b8a4c0454ae32113520389d528daea74237dc5bbce6f14b3e122f5cc",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Mexico 2:0!! Should be over now, was pretty clear to begin that Mexico would win this.",
-      "text": "Mexico 2:0!! Should be over now, was pretty clear to begin that Mexico would win this.",
-      "url": "https://nitter.net/WorstGenHQ/status/2065170781865197645#m",
-      "date": "Thu, 11 Jun 2026 20:34:18 GMT",
-      "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
