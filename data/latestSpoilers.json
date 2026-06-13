@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T21:52:00.182Z",
+  "generatedAt": "2026-06-13T22:59:10.457Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -74,6 +74,19 @@
   ],
   "misc": [
     {
+      "id": "a99fea4758d8beb5ac1842ed1bc165b5cd3e32ba72a522da25316769646664cd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Morocco Goal!!!",
+      "text": "Morocco Goal!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2065923673547018292#m",
+      "date": "Sat, 13 Jun 2026 22:26:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "9c46a53d2dcf68f456afc7bc6d4a380eb1896426a0755443d6b81e97167439ae",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -130,19 +143,6 @@
         "https://nitter.net/pic/media%2FHKshAo5XoAAyLB5.jpg",
         "https://nitter.net/pic/media%2FHKshBvGX0AAkSIa.jpg"
       ]
-    },
-    {
-      "id": "9a405b713b78ee3cf63c31460d39ceeafbc6ab2cb395e03cc57b905466c3751b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "BOSNIA GOAL!!",
-      "text": "BOSNIA GOAL!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2065515486197014815#m",
-      "date": "Fri, 12 Jun 2026 19:24:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "f1686efd8fa44b93cb3311e12c887893c7bd9da74ce4b5d23f145209dc02148a",
@@ -339,6 +339,19 @@
       "attachments": []
     },
     {
+      "id": "a99fea4758d8beb5ac1842ed1bc165b5cd3e32ba72a522da25316769646664cd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Morocco Goal!!!",
+      "text": "Morocco Goal!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2065923673547018292#m",
+      "date": "Sat, 13 Jun 2026 22:26:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "9c46a53d2dcf68f456afc7bc6d4a380eb1896426a0755443d6b81e97167439ae",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -395,19 +408,6 @@
         "https://nitter.net/pic/media%2FHKshAo5XoAAyLB5.jpg",
         "https://nitter.net/pic/media%2FHKshBvGX0AAkSIa.jpg"
       ]
-    },
-    {
-      "id": "9a405b713b78ee3cf63c31460d39ceeafbc6ab2cb395e03cc57b905466c3751b",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "BOSNIA GOAL!!",
-      "text": "BOSNIA GOAL!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2065515486197014815#m",
-      "date": "Fri, 12 Jun 2026 19:24:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "f1686efd8fa44b93cb3311e12c887893c7bd9da74ce4b5d23f145209dc02148a",
