@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T14:32:38.514Z",
+  "generatedAt": "2026-06-13T16:05:58.862Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -74,6 +74,21 @@
   ],
   "misc": [
     {
+      "id": "7e44145494eebde4972b52d8f3f1e1e61a8f506d5cb116981f7405e1a0e1e525",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 It all makes sense now. This guy is a God's Knight, which explains how Brook knew about them, he'll likely learn about them here. We can also expect him to get the deep scar on his foreh",
+      "text": "#ONEPIECE1185 It all makes sense now. This guy is a God's Knight, which explains how Brook knew about them, he'll likely learn about them here. We can also expect him to get the deep scar on his forehead around this time",
+      "url": "https://nitter.net/seanynr/status/2065811439927877885#m",
+      "date": "Sat, 13 Jun 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKslAHDWEAA1Kg6.jpg"
+      ]
+    },
+    {
       "id": "9b58276c022aaf68c5cf1a6efe34ff86b28d4c6c9749e8a27578f373581dbfa3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -131,21 +146,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKoO6yIXoAAGt-n.jpg"
-      ]
-    },
-    {
-      "id": "918fd6ad9fd6646ed6a044d6309d2d4e73dc8dc46e04b839859df84d83617677",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "text": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "url": "https://nitter.net/maldiidown/status/2065163635958206890#m",
-      "date": "Thu, 11 Jun 2026 20:05:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2065163624822259713%2Fimg%2Fv91_EQUgoT35KCuf.jpg"
       ]
     },
     {
@@ -343,6 +343,21 @@
       "attachments": []
     },
     {
+      "id": "7e44145494eebde4972b52d8f3f1e1e61a8f506d5cb116981f7405e1a0e1e525",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1185 It all makes sense now. This guy is a God's Knight, which explains how Brook knew about them, he'll likely learn about them here. We can also expect him to get the deep scar on his foreh",
+      "text": "#ONEPIECE1185 It all makes sense now. This guy is a God's Knight, which explains how Brook knew about them, he'll likely learn about them here. We can also expect him to get the deep scar on his forehead around this time",
+      "url": "https://nitter.net/seanynr/status/2065811439927877885#m",
+      "date": "Sat, 13 Jun 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKslAHDWEAA1Kg6.jpg"
+      ]
+    },
+    {
       "id": "9b58276c022aaf68c5cf1a6efe34ff86b28d4c6c9749e8a27578f373581dbfa3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -400,21 +415,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKoO6yIXoAAGt-n.jpg"
-      ]
-    },
-    {
-      "id": "918fd6ad9fd6646ed6a044d6309d2d4e73dc8dc46e04b839859df84d83617677",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "text": "Fabrizio Romano cuando su mujer esté embarazada y el médico sepa el género del bebé antes que él Video",
-      "url": "https://nitter.net/maldiidown/status/2065163635958206890#m",
-      "date": "Thu, 11 Jun 2026 20:05:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2065163624822259713%2Fimg%2Fv91_EQUgoT35KCuf.jpg"
       ]
     },
     {
