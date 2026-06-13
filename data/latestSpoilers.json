@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T19:01:28.980Z",
+  "generatedAt": "2026-06-13T20:43:32.326Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -74,6 +74,19 @@
   ],
   "misc": [
     {
+      "id": "4ee6e4e1bc54d2449f1c9bd8588331adebc96b963d2670c80771e605ce3225b5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Me waiting for that Brazil vs Morocco game...",
+      "text": "Me waiting for that Brazil vs Morocco game...",
+      "url": "https://nitter.net/WorstGenHQ/status/2065891535615410580#m",
+      "date": "Sat, 13 Jun 2026 20:18:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "7e44145494eebde4972b52d8f3f1e1e61a8f506d5cb116981f7405e1a0e1e525",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -131,21 +144,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKoe_J4WIAAFcBu.jpg"
-      ]
-    },
-    {
-      "id": "51d7cb1f726f2eb920b08cef827eb2d73089227046d749cfc5da0eb464148a27",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🚨🇬🇭 Thomas Partey, denied access to Canada and not available for Ghana opening game at the World Cup — reports @Dan_Sheldon_.",
-      "text": "🚨🇬🇭 Thomas Partey, denied access to Canada and not available for Ghana opening game at the World Cup — reports @Dan_Sheldon_.",
-      "url": "https://nitter.net/FabrizioRomano/status/2065479786869268636#m",
-      "date": "Fri, 12 Jun 2026 17:02:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKoO6yIXoAAGt-n.jpg"
       ]
     },
     {
@@ -343,6 +341,19 @@
       "attachments": []
     },
     {
+      "id": "4ee6e4e1bc54d2449f1c9bd8588331adebc96b963d2670c80771e605ce3225b5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Me waiting for that Brazil vs Morocco game...",
+      "text": "Me waiting for that Brazil vs Morocco game...",
+      "url": "https://nitter.net/WorstGenHQ/status/2065891535615410580#m",
+      "date": "Sat, 13 Jun 2026 20:18:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "7e44145494eebde4972b52d8f3f1e1e61a8f506d5cb116981f7405e1a0e1e525",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -400,21 +411,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKoe_J4WIAAFcBu.jpg"
-      ]
-    },
-    {
-      "id": "51d7cb1f726f2eb920b08cef827eb2d73089227046d749cfc5da0eb464148a27",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🚨🇬🇭 Thomas Partey, denied access to Canada and not available for Ghana opening game at the World Cup — reports @Dan_Sheldon_.",
-      "text": "🚨🇬🇭 Thomas Partey, denied access to Canada and not available for Ghana opening game at the World Cup — reports @Dan_Sheldon_.",
-      "url": "https://nitter.net/FabrizioRomano/status/2065479786869268636#m",
-      "date": "Fri, 12 Jun 2026 17:02:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKoO6yIXoAAGt-n.jpg"
       ]
     },
     {
