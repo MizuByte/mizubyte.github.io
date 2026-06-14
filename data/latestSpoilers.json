@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T05:13:06.329Z",
+  "generatedAt": "2026-06-14T08:52:21.408Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -107,21 +107,6 @@
       ]
     },
     {
-      "id": "42577c0e050989a81ea658eee0bece92fde9a0b2ea9d8d6c3ba35be69d5e343d",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
-      "text": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
-      "url": "https://nitter.net/SchmurfiV1/status/2064814789310746675#m",
-      "date": "Wed, 10 Jun 2026 20:59:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKeyG02WkAAGO39.jpg"
-      ]
-    },
-    {
       "id": "a4d5c6057ae7ff961c5f2c7a67c4e0119f0f218d18a6d7f6b325b6e9b16ab741",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -134,6 +119,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKYCXv5bQAA9E5l.jpg"
+      ]
+    },
+    {
+      "id": "42577c0e050989a81ea658eee0bece92fde9a0b2ea9d8d6c3ba35be69d5e343d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
+      "text": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
+      "url": "https://nitter.net/SchmurfiV1/status/2064814789310746675#m",
+      "date": "Wed, 10 Jun 2026 20:59:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKeyG02WkAAGO39.jpg"
       ]
     },
     {
@@ -288,21 +288,6 @@
       ]
     },
     {
-      "id": "42577c0e050989a81ea658eee0bece92fde9a0b2ea9d8d6c3ba35be69d5e343d",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
-      "text": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
-      "url": "https://nitter.net/SchmurfiV1/status/2064814789310746675#m",
-      "date": "Wed, 10 Jun 2026 20:59:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKeyG02WkAAGO39.jpg"
-      ]
-    },
-    {
       "id": "a4d5c6057ae7ff961c5f2c7a67c4e0119f0f218d18a6d7f6b325b6e9b16ab741",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -315,6 +300,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKYCXv5bQAA9E5l.jpg"
+      ]
+    },
+    {
+      "id": "42577c0e050989a81ea658eee0bece92fde9a0b2ea9d8d6c3ba35be69d5e343d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
+      "text": "Just gonna leave this here. I swear Naruto fans don’t even understand their own Manga plot",
+      "url": "https://nitter.net/SchmurfiV1/status/2064814789310746675#m",
+      "date": "Wed, 10 Jun 2026 20:59:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKeyG02WkAAGO39.jpg"
       ]
     },
     {
