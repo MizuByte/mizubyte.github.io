@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T19:24:17.915Z",
+  "generatedAt": "2026-06-16T21:58:25.254Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -60,6 +60,87 @@
     }
   ],
   "misc": [
+    {
+      "id": "008f33306b0f64f3eccd81be25c5f3c92e6dc4c4586871f03b16e5d8da9d4031",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Studio Ghibli classic Kiki's Delivery Service is being turned into a live-action TV series The BBC are adapting it into 10 half-hour episodes",
+      "text": "Studio Ghibli classic Kiki's Delivery Service is being turned into a live-action TV series The BBC are adapting it into 10 half-hour episodes",
+      "url": "https://nitter.net/screentime/status/2066929062967124463#m",
+      "date": "Tue, 16 Jun 2026 17:01:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHK81BuIXEAAQzFt.jpg",
+        "https://nitter.net/pic/media%2FHK81B5gWUAANYE-.jpg"
+      ]
+    },
+    {
+      "id": "2fdd0051f4ee6ff64e0f7f1f0fef9c502b22f6e8b02887e77fab692b5981fdc4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "World Cup Mbappe is build different...",
+      "text": "World Cup Mbappe is build different...",
+      "url": "https://nitter.net/WorstGenHQ/status/2066992548581654763#m",
+      "date": "Tue, 16 Jun 2026 21:13:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bb76d447550f400cf41577cefd8f034ee94c2280022ccb0fe5a1692ad6e4748f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "OMG MBAPPE WHAT A GOAL... Damn....",
+      "text": "OMG MBAPPE WHAT A GOAL... Damn....",
+      "url": "https://nitter.net/WorstGenHQ/status/2066989420784361480#m",
+      "date": "Tue, 16 Jun 2026 21:00:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "803b42f85d9ac0c19beb55a8293e698d5f93214be557ed6801e47f90df908d4f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Senegal, what a goal. 3mins left!",
+      "text": "Senegal, what a goal. 3mins left!",
+      "url": "https://nitter.net/WorstGenHQ/status/2066989133306683441#m",
+      "date": "Tue, 16 Jun 2026 20:59:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a0182bca86b43b76ac5df51504e7e8a6e833015d6330eed54feca5c1f4df5ad2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Mbappe GOAL!! Great pass of Olise..",
+      "text": "Mbappe GOAL!! Great pass of Olise..",
+      "url": "https://nitter.net/WorstGenHQ/status/2066981847754473763#m",
+      "date": "Tue, 16 Jun 2026 20:30:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b00bfe1257dbbb27e95895744dca69a8f1f9390fecc72e25ad47095282804c5a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Olise with a insane pass, Mbappe messed it up xD...",
+      "text": "Olise with a insane pass, Mbappe messed it up xD...",
+      "url": "https://nitter.net/WorstGenHQ/status/2066981374586687839#m",
+      "date": "Tue, 16 Jun 2026 20:28:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "57970c10bb718b789f5698d55d316d4801968f02152967a42107f2d3495e2ee7",
       "anime": "boruto",
@@ -237,6 +318,87 @@
       "url": "https://nitter.net/PacemanOP/status/2064912383773216984#m",
       "date": "Thu, 11 Jun 2026 03:27:31 GMT",
       "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "008f33306b0f64f3eccd81be25c5f3c92e6dc4c4586871f03b16e5d8da9d4031",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Studio Ghibli classic Kiki's Delivery Service is being turned into a live-action TV series The BBC are adapting it into 10 half-hour episodes",
+      "text": "Studio Ghibli classic Kiki's Delivery Service is being turned into a live-action TV series The BBC are adapting it into 10 half-hour episodes",
+      "url": "https://nitter.net/screentime/status/2066929062967124463#m",
+      "date": "Tue, 16 Jun 2026 17:01:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHK81BuIXEAAQzFt.jpg",
+        "https://nitter.net/pic/media%2FHK81B5gWUAANYE-.jpg"
+      ]
+    },
+    {
+      "id": "2fdd0051f4ee6ff64e0f7f1f0fef9c502b22f6e8b02887e77fab692b5981fdc4",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "World Cup Mbappe is build different...",
+      "text": "World Cup Mbappe is build different...",
+      "url": "https://nitter.net/WorstGenHQ/status/2066992548581654763#m",
+      "date": "Tue, 16 Jun 2026 21:13:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bb76d447550f400cf41577cefd8f034ee94c2280022ccb0fe5a1692ad6e4748f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "OMG MBAPPE WHAT A GOAL... Damn....",
+      "text": "OMG MBAPPE WHAT A GOAL... Damn....",
+      "url": "https://nitter.net/WorstGenHQ/status/2066989420784361480#m",
+      "date": "Tue, 16 Jun 2026 21:00:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "803b42f85d9ac0c19beb55a8293e698d5f93214be557ed6801e47f90df908d4f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Senegal, what a goal. 3mins left!",
+      "text": "Senegal, what a goal. 3mins left!",
+      "url": "https://nitter.net/WorstGenHQ/status/2066989133306683441#m",
+      "date": "Tue, 16 Jun 2026 20:59:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a0182bca86b43b76ac5df51504e7e8a6e833015d6330eed54feca5c1f4df5ad2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Mbappe GOAL!! Great pass of Olise..",
+      "text": "Mbappe GOAL!! Great pass of Olise..",
+      "url": "https://nitter.net/WorstGenHQ/status/2066981847754473763#m",
+      "date": "Tue, 16 Jun 2026 20:30:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b00bfe1257dbbb27e95895744dca69a8f1f9390fecc72e25ad47095282804c5a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Olise with a insane pass, Mbappe messed it up xD...",
+      "text": "Olise with a insane pass, Mbappe messed it up xD...",
+      "url": "https://nitter.net/WorstGenHQ/status/2066981374586687839#m",
+      "date": "Tue, 16 Jun 2026 20:28:57 GMT",
+      "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
