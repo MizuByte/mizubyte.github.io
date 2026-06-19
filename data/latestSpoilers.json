@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T19:12:57.455Z",
+  "generatedAt": "2026-06-19T20:49:43.960Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "misc": [
+    {
+      "id": "4fdef3f42f70262dd66bc56e7b676c40a40ef76758984a2673b7adce180880e6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "US Goal. Right choice, the Australia player above leg was the reason why it wasn´t a offside.",
+      "text": "US Goal. Right choice, the Australia player above leg was the reason why it wasn´t a offside.",
+      "url": "https://nitter.net/WorstGenHQ/status/2068057793341366368#m",
+      "date": "Fri, 19 Jun 2026 19:46:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "dd716f3648501a59cb48f2d2eececc7def06e91b67dae833d161e57f95c1dc7c",
       "anime": "onepiece",
@@ -133,21 +146,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLFs5uyXwAE-wk7.jpg"
-      ]
-    },
-    {
-      "id": "85dd84f038ad6ca60a2a9b8f09d43be94005490a4fc09eafd7e579b0ce1bde74",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Cristiano Ronaldo ayudando a Portugal Video",
-      "text": "Cristiano Ronaldo ayudando a Portugal Video",
-      "url": "https://nitter.net/zerep_dalb/status/2067300460248072681#m",
-      "date": "Wed, 17 Jun 2026 17:36:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1893345144532819968%2Fpu%2Fimg%2FrxlKJCHXeCUkl-TR.jpg"
       ]
     },
     {
@@ -331,6 +329,19 @@
       "attachments": []
     },
     {
+      "id": "4fdef3f42f70262dd66bc56e7b676c40a40ef76758984a2673b7adce180880e6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "US Goal. Right choice, the Australia player above leg was the reason why it wasn´t a offside.",
+      "text": "US Goal. Right choice, the Australia player above leg was the reason why it wasn´t a offside.",
+      "url": "https://nitter.net/WorstGenHQ/status/2068057793341366368#m",
+      "date": "Fri, 19 Jun 2026 19:46:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "dd716f3648501a59cb48f2d2eececc7def06e91b67dae833d161e57f95c1dc7c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -403,21 +414,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLFs5uyXwAE-wk7.jpg"
-      ]
-    },
-    {
-      "id": "85dd84f038ad6ca60a2a9b8f09d43be94005490a4fc09eafd7e579b0ce1bde74",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Cristiano Ronaldo ayudando a Portugal Video",
-      "text": "Cristiano Ronaldo ayudando a Portugal Video",
-      "url": "https://nitter.net/zerep_dalb/status/2067300460248072681#m",
-      "date": "Wed, 17 Jun 2026 17:36:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1893345144532819968%2Fpu%2Fimg%2FrxlKJCHXeCUkl-TR.jpg"
       ]
     },
     {
