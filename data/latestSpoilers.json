@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T20:21:25.168Z",
+  "generatedAt": "2026-06-21T21:47:43.723Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -154,34 +154,6 @@
       ]
     },
     {
-      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
-      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
-      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
-      ]
-    },
-    {
       "id": "19f08933d8201cf6a0ba59a24444365f9ef362f00c6f62a8c2cd5d2bb95d8113",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -269,6 +241,34 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLBmLFnW0AAKpcr.jpg"
+      ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
       ]
     }
   ],
@@ -423,34 +423,6 @@
       ]
     },
     {
-      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
-      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
-      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
-      ]
-    },
-    {
       "id": "19f08933d8201cf6a0ba59a24444365f9ef362f00c6f62a8c2cd5d2bb95d8113",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -538,6 +510,34 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLBmLFnW0AAKpcr.jpg"
+      ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
       ]
     }
   ]
