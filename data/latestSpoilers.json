@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T15:39:53.414Z",
+  "generatedAt": "2026-06-23T17:30:27.845Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -78,6 +78,19 @@
   ],
   "misc": [
     {
+      "id": "432b7f47cb96466aa9cb1d28fed14c1661d421028cecb41b330cd95fe35e82d6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RONALDO GOOOOOOOLLL!!!",
+      "text": "RONALDO GOOOOOOOLLL!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2069467129972191281#m",
+      "date": "Tue, 23 Jun 2026 17:06:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "bf740d5d8198d18f34cfe82f82df4db032ba5502f628914a98eb2e23c7553d57",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -118,21 +131,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLgAbtYXEAAMv0f.jpg"
-      ]
-    },
-    {
-      "id": "8747b84a25e45a4f13f3cb14b5f87fef57464e3efb8efb5c99c8f32cad788f93",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1186 🔥🔥🔥",
-      "text": "#ONEPIECE1186 🔥🔥🔥",
-      "url": "https://nitter.net/gigiconlaG/status/2069337501307716012#m",
-      "date": "Tue, 23 Jun 2026 08:31:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLfDcPhaQAEGvH4.jpg"
       ]
     },
     {
@@ -272,6 +270,21 @@
       ]
     },
     {
+      "id": "7d9a250badb176fc55ab68d90d8545d2185f374c5bf6b9415f40dee0af215f73",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2069457391163166960#m",
+      "date": "Tue, 23 Jun 2026 16:27:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLgwhx1bgAAO7mF.jpg"
+      ]
+    },
+    {
       "id": "9731d339a9c063cbd15fe41d142cb63740717156a412708cde9a1621605c23e1",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -346,21 +359,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLWEchKXsAERfDq.jpg"
-      ]
-    },
-    {
-      "id": "77e682a1916466103ef8b25c690af6a4888e3740cd926bd09075f7229279c6da",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2068689586805424351#m",
-      "date": "Sun, 21 Jun 2026 13:36:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLV2NZsWEAAzvx9.jpg"
       ]
     }
   ],
@@ -439,6 +437,19 @@
       "attachments": []
     },
     {
+      "id": "432b7f47cb96466aa9cb1d28fed14c1661d421028cecb41b330cd95fe35e82d6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RONALDO GOOOOOOOLLL!!!",
+      "text": "RONALDO GOOOOOOOLLL!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2069467129972191281#m",
+      "date": "Tue, 23 Jun 2026 17:06:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "bf740d5d8198d18f34cfe82f82df4db032ba5502f628914a98eb2e23c7553d57",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -479,21 +490,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLgAbtYXEAAMv0f.jpg"
-      ]
-    },
-    {
-      "id": "8747b84a25e45a4f13f3cb14b5f87fef57464e3efb8efb5c99c8f32cad788f93",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1186 🔥🔥🔥",
-      "text": "#ONEPIECE1186 🔥🔥🔥",
-      "url": "https://nitter.net/gigiconlaG/status/2069337501307716012#m",
-      "date": "Tue, 23 Jun 2026 08:31:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLfDcPhaQAEGvH4.jpg"
       ]
     },
     {
@@ -633,6 +629,21 @@
       ]
     },
     {
+      "id": "7d9a250badb176fc55ab68d90d8545d2185f374c5bf6b9415f40dee0af215f73",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2069457391163166960#m",
+      "date": "Tue, 23 Jun 2026 16:27:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLgwhx1bgAAO7mF.jpg"
+      ]
+    },
+    {
       "id": "9731d339a9c063cbd15fe41d142cb63740717156a412708cde9a1621605c23e1",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -707,21 +718,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLWEchKXsAERfDq.jpg"
-      ]
-    },
-    {
-      "id": "77e682a1916466103ef8b25c690af6a4888e3740cd926bd09075f7229279c6da",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2068689586805424351#m",
-      "date": "Sun, 21 Jun 2026 13:36:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLV2NZsWEAAzvx9.jpg"
       ]
     }
   ]
