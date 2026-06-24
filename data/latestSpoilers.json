@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T16:13:30.083Z",
+  "generatedAt": "2026-06-24T18:14:38.765Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -65,6 +65,111 @@
   ],
   "misc": [
     {
+      "id": "ec60e885afac03d46c97abf00506c55e8765c870191269d97ccfe45ec7c954c9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
+      "text": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2069843383355330755#m",
+      "date": "Wed, 24 Jun 2026 18:01:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLmPeZjXYAAWOZZ.png"
+      ]
+    },
+    {
+      "id": "50cabcee7f00462a4755b7ed2bef6ea1ba6ca30f9c6e38fef0bb6dbf616ebd4b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
+      "text": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
+      "url": "https://nitter.net/pewpiece/status/2069772846138593483#m",
+      "date": "Wed, 24 Jun 2026 13:21:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLlPYwAWsAAGhlW.jpg"
+      ]
+    },
+    {
+      "id": "00e4f10b7ad90e74ab6443079cf0f59016cab7a332f5bb4e6da69547ba4d64e6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
+      "text": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
+      "url": "https://nitter.net/pewpiece/status/2069768460276498744#m",
+      "date": "Wed, 24 Jun 2026 13:03:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLlLUlxXcAERMDG.jpg"
+      ]
+    },
+    {
+      "id": "eab6e7a58e0ea93b63445ad8ef3269618f038ffda7b1ed2045141cca85c5f549",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
+      "text": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
+      "url": "https://nitter.net/pewpiece/status/2069767676201742624#m",
+      "date": "Wed, 24 Jun 2026 13:00:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2069763741760339968%2Fpu%2Fimg%2F5cSGW_-eem2GcgKx.jpg"
+      ]
+    },
+    {
+      "id": "8d60b3915285c09923da9d4a8f93d33d1436b9e442d8a65cb4f6d9e6768115f3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONEPIECE TRAILER IS COMING TOMORROW",
+      "text": "THE ONEPIECE TRAILER IS COMING TOMORROW",
+      "url": "https://nitter.net/pewpiece/status/2069443095226147297#m",
+      "date": "Tue, 23 Jun 2026 15:30:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLgje0hW8AAvofw.jpg"
+      ]
+    },
+    {
+      "id": "9376f0a17cc3463dbb0ab9c21a90b0edb6f854d75074d7302b27e9cf48cd9bfe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's signed illustration message for One Piece novel ZORO volume has arrived! Oda: \"Take a sneak peek!!\" Zoro: \"Who told you to talk?\"",
+      "text": "Eiichiro Oda's signed illustration message for One Piece novel ZORO volume has arrived! Oda: \"Take a sneak peek!!\" Zoro: \"Who told you to talk?\"",
+      "url": "https://nitter.net/pewpiece/status/2069442624650412508#m",
+      "date": "Tue, 23 Jun 2026 15:29:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLgixAabIAAZmYf.png"
+      ]
+    },
+    {
+      "id": "ce235db07775627d7882bed4c6559f0d6e796345466ed99173c3d1e92de1af97",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "📢 COMUNICADO: SOBRE EL LANZAMIENTO DE GTA VI 🚨 Comunicado de Impact Game sobre el lanzamiento de GTA VI en formato digital, sin disco interior en el formato físico.",
+      "text": "📢 COMUNICADO: SOBRE EL LANZAMIENTO DE GTA VI 🚨 Comunicado de Impact Game sobre el lanzamiento de GTA VI en formato digital, sin disco interior en el formato físico.",
+      "url": "https://nitter.net/ImpactGame_es/status/2069828953196347577#m",
+      "date": "Wed, 24 Jun 2026 17:04:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLmCIwlWMAAUTrK.png"
+      ]
+    },
+    {
       "id": "bdab06770586ebf4a79505b11605b5e675daedb06b49f600628710113573d385",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -123,24 +228,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKBG2ambsAAsi2G.jpg"
-      ]
-    },
-    {
-      "id": "407e65d94f6e640e7ff710135b91652bbc5aebe7514c8fdf441f6ff9b73a39f4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "WIT Studio presents, THE ONE PIECE! Experience the classic tale through the lens of modern production technology. #THEONEPIECE premieres exclusively on Netflix, February 2027.",
-      "text": "WIT Studio presents, THE ONE PIECE! Experience the classic tale through the lens of modern production technology. #THEONEPIECE premieres exclusively on Netflix, February 2027.",
-      "url": "https://nitter.net/onepiecenetflix/status/2069782598037934390#m",
-      "date": "Wed, 24 Jun 2026 14:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLisiPtWwAAamUm.jpg",
-        "https://nitter.net/pic/media%2FHLisih2WYAEDSLL.jpg",
-        "https://nitter.net/pic/media%2FHLisi0hWMAARQ-q.jpg",
-        "https://nitter.net/pic/media%2FHLisjHnWUAAjIGX.jpg"
       ]
     },
     {
@@ -277,96 +364,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
-      ]
-    },
-    {
-      "id": "d6189fd2417f7898333060643896669741a53201eaa2cb190d167f208f172254",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069802781863510314#m",
-      "date": "Wed, 24 Jun 2026 15:20:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLlqqQtXIAAhmAE.jpg"
-      ]
-    },
-    {
-      "id": "49821f12a8f5eb82c877f03bcff9678a5172cfcdf071a485e2363593db91b31d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069483115945320956#m",
-      "date": "Tue, 23 Jun 2026 18:09:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLhH67XXIAATfMz.jpg"
-      ]
-    },
-    {
-      "id": "7d9a250badb176fc55ab68d90d8545d2185f374c5bf6b9415f40dee0af215f73",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069457391163166960#m",
-      "date": "Tue, 23 Jun 2026 16:27:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLgwhx1bgAAO7mF.jpg"
-      ]
-    },
-    {
-      "id": "9731d339a9c063cbd15fe41d142cb63740717156a412708cde9a1621605c23e1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2069173585512431939#m",
-      "date": "Mon, 22 Jun 2026 21:40:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLcuaGjbAAAny0Z.jpg"
-      ]
-    },
-    {
-      "id": "d6c385004872f85f73efb9d7e99ab0886a4badbe9c010ad85c73c35d39b68d51",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069092673974051122#m",
-      "date": "Mon, 22 Jun 2026 16:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLbk0b1WkAAuTEd.jpg"
-      ]
-    },
-    {
-      "id": "4040aa9bb62f161fb5c3e2c264e396b036a06d4f11be94205f7752ebc9c3f745",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "link to buy: orzgk.com/product/67891527-2… Link Guts First Appearance Berserk Figure | 1/4 Scale Epic Guts 1/4 scale Berserk figure with base, tavern door panel, extra head sculpt and nameplate envelo",
-      "text": "link to buy: orzgk.com/product/67891527-2… Link Guts First Appearance Berserk Figure | 1/4 Scale Epic Guts 1/4 scale Berserk figure with base, tavern door panel, extra head sculpt and nameplate envelope. See the full display details now. orzgk.com",
-      "url": "https://nitter.net/daily_berserk/status/2068991756893307037#m",
-      "date": "Mon, 22 Jun 2026 09:37:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2068977183037829120%2FWTZ2S-9z%3Fformat%3Djpg%26name%3D800x419"
       ]
     }
   ],
@@ -432,6 +429,111 @@
       "attachments": []
     },
     {
+      "id": "ec60e885afac03d46c97abf00506c55e8765c870191269d97ccfe45ec7c954c9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
+      "text": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
+      "url": "https://nitter.net/pewpiece/status/2069843383355330755#m",
+      "date": "Wed, 24 Jun 2026 18:01:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLmPeZjXYAAWOZZ.png"
+      ]
+    },
+    {
+      "id": "50cabcee7f00462a4755b7ed2bef6ea1ba6ca30f9c6e38fef0bb6dbf616ebd4b",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
+      "text": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
+      "url": "https://nitter.net/pewpiece/status/2069772846138593483#m",
+      "date": "Wed, 24 Jun 2026 13:21:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLlPYwAWsAAGhlW.jpg"
+      ]
+    },
+    {
+      "id": "00e4f10b7ad90e74ab6443079cf0f59016cab7a332f5bb4e6da69547ba4d64e6",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
+      "text": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
+      "url": "https://nitter.net/pewpiece/status/2069768460276498744#m",
+      "date": "Wed, 24 Jun 2026 13:03:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLlLUlxXcAERMDG.jpg"
+      ]
+    },
+    {
+      "id": "eab6e7a58e0ea93b63445ad8ef3269618f038ffda7b1ed2045141cca85c5f549",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
+      "text": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
+      "url": "https://nitter.net/pewpiece/status/2069767676201742624#m",
+      "date": "Wed, 24 Jun 2026 13:00:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2069763741760339968%2Fpu%2Fimg%2F5cSGW_-eem2GcgKx.jpg"
+      ]
+    },
+    {
+      "id": "8d60b3915285c09923da9d4a8f93d33d1436b9e442d8a65cb4f6d9e6768115f3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "THE ONEPIECE TRAILER IS COMING TOMORROW",
+      "text": "THE ONEPIECE TRAILER IS COMING TOMORROW",
+      "url": "https://nitter.net/pewpiece/status/2069443095226147297#m",
+      "date": "Tue, 23 Jun 2026 15:30:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLgje0hW8AAvofw.jpg"
+      ]
+    },
+    {
+      "id": "9376f0a17cc3463dbb0ab9c21a90b0edb6f854d75074d7302b27e9cf48cd9bfe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's signed illustration message for One Piece novel ZORO volume has arrived! Oda: \"Take a sneak peek!!\" Zoro: \"Who told you to talk?\"",
+      "text": "Eiichiro Oda's signed illustration message for One Piece novel ZORO volume has arrived! Oda: \"Take a sneak peek!!\" Zoro: \"Who told you to talk?\"",
+      "url": "https://nitter.net/pewpiece/status/2069442624650412508#m",
+      "date": "Tue, 23 Jun 2026 15:29:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLgixAabIAAZmYf.png"
+      ]
+    },
+    {
+      "id": "ce235db07775627d7882bed4c6559f0d6e796345466ed99173c3d1e92de1af97",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "📢 COMUNICADO: SOBRE EL LANZAMIENTO DE GTA VI 🚨 Comunicado de Impact Game sobre el lanzamiento de GTA VI en formato digital, sin disco interior en el formato físico.",
+      "text": "📢 COMUNICADO: SOBRE EL LANZAMIENTO DE GTA VI 🚨 Comunicado de Impact Game sobre el lanzamiento de GTA VI en formato digital, sin disco interior en el formato físico.",
+      "url": "https://nitter.net/ImpactGame_es/status/2069828953196347577#m",
+      "date": "Wed, 24 Jun 2026 17:04:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLmCIwlWMAAUTrK.png"
+      ]
+    },
+    {
       "id": "bdab06770586ebf4a79505b11605b5e675daedb06b49f600628710113573d385",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -490,24 +592,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHKBG2ambsAAsi2G.jpg"
-      ]
-    },
-    {
-      "id": "407e65d94f6e640e7ff710135b91652bbc5aebe7514c8fdf441f6ff9b73a39f4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "WIT Studio presents, THE ONE PIECE! Experience the classic tale through the lens of modern production technology. #THEONEPIECE premieres exclusively on Netflix, February 2027.",
-      "text": "WIT Studio presents, THE ONE PIECE! Experience the classic tale through the lens of modern production technology. #THEONEPIECE premieres exclusively on Netflix, February 2027.",
-      "url": "https://nitter.net/onepiecenetflix/status/2069782598037934390#m",
-      "date": "Wed, 24 Jun 2026 14:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLisiPtWwAAamUm.jpg",
-        "https://nitter.net/pic/media%2FHLisih2WYAEDSLL.jpg",
-        "https://nitter.net/pic/media%2FHLisi0hWMAARQ-q.jpg",
-        "https://nitter.net/pic/media%2FHLisjHnWUAAjIGX.jpg"
       ]
     },
     {
@@ -644,96 +728,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
-      ]
-    },
-    {
-      "id": "d6189fd2417f7898333060643896669741a53201eaa2cb190d167f208f172254",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069802781863510314#m",
-      "date": "Wed, 24 Jun 2026 15:20:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLlqqQtXIAAhmAE.jpg"
-      ]
-    },
-    {
-      "id": "49821f12a8f5eb82c877f03bcff9678a5172cfcdf071a485e2363593db91b31d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069483115945320956#m",
-      "date": "Tue, 23 Jun 2026 18:09:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLhH67XXIAATfMz.jpg"
-      ]
-    },
-    {
-      "id": "7d9a250badb176fc55ab68d90d8545d2185f374c5bf6b9415f40dee0af215f73",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069457391163166960#m",
-      "date": "Tue, 23 Jun 2026 16:27:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLgwhx1bgAAO7mF.jpg"
-      ]
-    },
-    {
-      "id": "9731d339a9c063cbd15fe41d142cb63740717156a412708cde9a1621605c23e1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2069173585512431939#m",
-      "date": "Mon, 22 Jun 2026 21:40:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLcuaGjbAAAny0Z.jpg"
-      ]
-    },
-    {
-      "id": "d6c385004872f85f73efb9d7e99ab0886a4badbe9c010ad85c73c35d39b68d51",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2069092673974051122#m",
-      "date": "Mon, 22 Jun 2026 16:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLbk0b1WkAAuTEd.jpg"
-      ]
-    },
-    {
-      "id": "4040aa9bb62f161fb5c3e2c264e396b036a06d4f11be94205f7752ebc9c3f745",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "link to buy: orzgk.com/product/67891527-2… Link Guts First Appearance Berserk Figure | 1/4 Scale Epic Guts 1/4 scale Berserk figure with base, tavern door panel, extra head sculpt and nameplate envelo",
-      "text": "link to buy: orzgk.com/product/67891527-2… Link Guts First Appearance Berserk Figure | 1/4 Scale Epic Guts 1/4 scale Berserk figure with base, tavern door panel, extra head sculpt and nameplate envelope. See the full display details now. orzgk.com",
-      "url": "https://nitter.net/daily_berserk/status/2068991756893307037#m",
-      "date": "Mon, 22 Jun 2026 09:37:29 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2068977183037829120%2FWTZ2S-9z%3Fformat%3Djpg%26name%3D800x419"
       ]
     }
   ]
