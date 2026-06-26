@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T12:08:07.267Z",
+  "generatedAt": "2026-06-26T15:06:02.139Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -35,97 +35,6 @@
   ],
   "misc": [
     {
-      "id": "e3689a5b1e812ccd61e1c046636c4546b9883d77b93feb02d013216bee45ef3d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's comment this week : \"I'm sure everyone else enjoyed it as well. I walked around so much at Pokémon GO Fest in Tokyo Kaihin Park that my legs got worn out.\"",
-      "text": "Eiichiro Oda's comment this week : \"I'm sure everyone else enjoyed it as well. I walked around so much at Pokémon GO Fest in Tokyo Kaihin Park that my legs got worn out.\"",
-      "url": "https://nitter.net/pewpiece/status/2070131479212884131#m",
-      "date": "Thu, 25 Jun 2026 13:06:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLqVdrAXQAA18G0.png",
-        "https://nitter.net/pic/media%2FHLqVmohWwAEDav7.jpg"
-      ]
-    },
-    {
-      "id": "ec60e885afac03d46c97abf00506c55e8765c870191269d97ccfe45ec7c954c9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
-      "text": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2069843383355330755#m",
-      "date": "Wed, 24 Jun 2026 18:01:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLmPeZjXYAAWOZZ.png"
-      ]
-    },
-    {
-      "id": "50cabcee7f00462a4755b7ed2bef6ea1ba6ca30f9c6e38fef0bb6dbf616ebd4b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
-      "text": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
-      "url": "https://nitter.net/pewpiece/status/2069772846138593483#m",
-      "date": "Wed, 24 Jun 2026 13:21:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLlPYwAWsAAGhlW.jpg"
-      ]
-    },
-    {
-      "id": "00e4f10b7ad90e74ab6443079cf0f59016cab7a332f5bb4e6da69547ba4d64e6",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
-      "text": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
-      "url": "https://nitter.net/pewpiece/status/2069768460276498744#m",
-      "date": "Wed, 24 Jun 2026 13:03:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLlLUlxXcAERMDG.jpg"
-      ]
-    },
-    {
-      "id": "eab6e7a58e0ea93b63445ad8ef3269618f038ffda7b1ed2045141cca85c5f549",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
-      "text": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
-      "url": "https://nitter.net/pewpiece/status/2069767676201742624#m",
-      "date": "Wed, 24 Jun 2026 13:00:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2069763741760339968%2Fpu%2Fimg%2F5cSGW_-eem2GcgKx.jpg"
-      ]
-    },
-    {
-      "id": "8d60b3915285c09923da9d4a8f93d33d1436b9e442d8a65cb4f6d9e6768115f3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "THE ONEPIECE TRAILER IS COMING TOMORROW",
-      "text": "THE ONEPIECE TRAILER IS COMING TOMORROW",
-      "url": "https://nitter.net/pewpiece/status/2069443095226147297#m",
-      "date": "Tue, 23 Jun 2026 15:30:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLgje0hW8AAvofw.jpg"
-      ]
-    },
-    {
       "id": "92232bb53d04b0580b9514f870d708c1e924b7eac171eee1176b469db5ad9031",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -335,6 +244,95 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
+      ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
+      ]
+    },
+    {
+      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク #berserk385",
+      "text": "#BERSERK #ベルセルク #berserk385",
+      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
+      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
+      ]
+    },
+    {
+      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
+      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
+      ]
+    },
+    {
+      "id": "f64ccbf637f9ec5e4f99db9d9be7080a5f4fca9dcda5086f60aff9c342cb42d4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2070035490711994729#m",
+      "date": "Thu, 25 Jun 2026 06:44:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLo-Ts9WUAAGolC.jpg",
+        "https://nitter.net/pic/media%2FHLo-Ts6WoAAn7Pc.jpg"
+      ]
+    },
+    {
+      "id": "d6189fd2417f7898333060643896669741a53201eaa2cb190d167f208f172254",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2069802781863510314#m",
+      "date": "Wed, 24 Jun 2026 15:20:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLlqqQtXIAAhmAE.jpg"
       ]
     }
   ],
@@ -370,97 +368,6 @@
       ]
     },
     {
-      "id": "e3689a5b1e812ccd61e1c046636c4546b9883d77b93feb02d013216bee45ef3d",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's comment this week : \"I'm sure everyone else enjoyed it as well. I walked around so much at Pokémon GO Fest in Tokyo Kaihin Park that my legs got worn out.\"",
-      "text": "Eiichiro Oda's comment this week : \"I'm sure everyone else enjoyed it as well. I walked around so much at Pokémon GO Fest in Tokyo Kaihin Park that my legs got worn out.\"",
-      "url": "https://nitter.net/pewpiece/status/2070131479212884131#m",
-      "date": "Thu, 25 Jun 2026 13:06:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLqVdrAXQAA18G0.png",
-        "https://nitter.net/pic/media%2FHLqVmohWwAEDav7.jpg"
-      ]
-    },
-    {
-      "id": "ec60e885afac03d46c97abf00506c55e8765c870191269d97ccfe45ec7c954c9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
-      "text": "#ONEPIECE1186 MORE DETAILES FOR ONEPIECE CHAPTER 1186 (By @Mugiwara_23 )",
-      "url": "https://nitter.net/pewpiece/status/2069843383355330755#m",
-      "date": "Wed, 24 Jun 2026 18:01:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLmPeZjXYAAWOZZ.png"
-      ]
-    },
-    {
-      "id": "50cabcee7f00462a4755b7ed2bef6ea1ba6ca30f9c6e38fef0bb6dbf616ebd4b",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
-      "text": "THE ONEPIECE REMAKE BY WIT DIRECTOR MESSAGE",
-      "url": "https://nitter.net/pewpiece/status/2069772846138593483#m",
-      "date": "Wed, 24 Jun 2026 13:21:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLlPYwAWsAAGhlW.jpg"
-      ]
-    },
-    {
-      "id": "00e4f10b7ad90e74ab6443079cf0f59016cab7a332f5bb4e6da69547ba4d64e6",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
-      "text": "Luffy voice actrees Mayumi tanaka will voice Luffy again in onepiece remake by wit",
-      "url": "https://nitter.net/pewpiece/status/2069768460276498744#m",
-      "date": "Wed, 24 Jun 2026 13:03:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLlLUlxXcAERMDG.jpg"
-      ]
-    },
-    {
-      "id": "eab6e7a58e0ea93b63445ad8ef3269618f038ffda7b1ed2045141cca85c5f549",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
-      "text": "🚨OFFICIAL ONEPEICE REMAKE BY WIT TRAILER Video",
-      "url": "https://nitter.net/pewpiece/status/2069767676201742624#m",
-      "date": "Wed, 24 Jun 2026 13:00:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2069763741760339968%2Fpu%2Fimg%2F5cSGW_-eem2GcgKx.jpg"
-      ]
-    },
-    {
-      "id": "8d60b3915285c09923da9d4a8f93d33d1436b9e442d8a65cb4f6d9e6768115f3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "THE ONEPIECE TRAILER IS COMING TOMORROW",
-      "text": "THE ONEPIECE TRAILER IS COMING TOMORROW",
-      "url": "https://nitter.net/pewpiece/status/2069443095226147297#m",
-      "date": "Tue, 23 Jun 2026 15:30:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLgje0hW8AAvofw.jpg"
-      ]
-    },
-    {
       "id": "92232bb53d04b0580b9514f870d708c1e924b7eac171eee1176b469db5ad9031",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -670,6 +577,95 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
+      ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
+      ]
+    },
+    {
+      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク #berserk385",
+      "text": "#BERSERK #ベルセルク #berserk385",
+      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
+      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
+      ]
+    },
+    {
+      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
+      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
+      ]
+    },
+    {
+      "id": "f64ccbf637f9ec5e4f99db9d9be7080a5f4fca9dcda5086f60aff9c342cb42d4",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2070035490711994729#m",
+      "date": "Thu, 25 Jun 2026 06:44:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLo-Ts9WUAAGolC.jpg",
+        "https://nitter.net/pic/media%2FHLo-Ts6WoAAn7Pc.jpg"
+      ]
+    },
+    {
+      "id": "d6189fd2417f7898333060643896669741a53201eaa2cb190d167f208f172254",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2069802781863510314#m",
+      "date": "Wed, 24 Jun 2026 15:20:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLlqqQtXIAAhmAE.jpg"
       ]
     }
   ]
