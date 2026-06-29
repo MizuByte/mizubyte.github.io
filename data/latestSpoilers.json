@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:08:09.911Z",
+  "generatedAt": "2026-06-29T21:47:13.557Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -16,33 +16,85 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLrBskGakAEpTvL.jpg"
       ]
-    },
-    {
-      "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "text": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2065407009605013752#m",
-      "date": "Fri, 12 Jun 2026 12:12:59 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKnMuhvbkAEsSv5.jpg"
-      ]
     }
   ],
   "misc": [
     {
+      "id": "2d89c450f69625b4904d30d332529113298717cf3aaab2b60958bb9af55ec8cd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Paraguay gol...",
+      "text": "Paraguay gol...",
+      "url": "https://nitter.net/WorstGenHQ/status/2071703638163038211#m",
+      "date": "Mon, 29 Jun 2026 21:13:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "59e1aa75a41a4934cb1d29704ccb814d4375a185853405da4137a0541c0326e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
+      "text": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2071686315775525279#m",
+      "date": "Mon, 29 Jun 2026 20:04:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c4ec74051e3b900a473fa785825e8d4f5322d53fcfb2754a58c61a5edd365d4c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Yooo Germany masterclass in 20mins. We are ready!!!",
+      "text": "Yooo Germany masterclass in 20mins. We are ready!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2071680150056448075#m",
+      "date": "Mon, 29 Jun 2026 19:40:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bb306ded2925258fdffaec481c84d1b7718478e226693b7a159214d61187d34c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
+      "text": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
+      "url": "https://nitter.net/WorstGenHQ/status/2071679990198923338#m",
+      "date": "Mon, 29 Jun 2026 19:39:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMASq04XcAAMNmu.jpg"
+      ]
+    },
+    {
       "id": "959bd169b3f7afe0ab41a2db2c4623efa7e4793a9dce6727283aca4858c53940",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "WANJI",
       "text": "WANJI",
       "url": "https://nitter.net/pewpiece/status/2071672566444417217#m",
       "date": "Mon, 29 Jun 2026 19:10:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "546fc95e155a781cbb593d9f67d083fde0dcfd6f415a47211c8a3d1e3ea38e4c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
+      "text": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
+      "url": "https://nitter.net/WorstGenHQ/status/2071672336533631353#m",
+      "date": "Mon, 29 Jun 2026 19:09:09 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -123,84 +175,19 @@
       ]
     },
     {
-      "id": "59e1aa75a41a4934cb1d29704ccb814d4375a185853405da4137a0541c0326e1",
+      "id": "2724049b0b220f702f5b15ee83e6f804917517ba587dbbfda6050791fe3e64d4",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
-      "text": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2071686315775525279#m",
-      "date": "Mon, 29 Jun 2026 20:04:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c4ec74051e3b900a473fa785825e8d4f5322d53fcfb2754a58c61a5edd365d4c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Yooo Germany masterclass in 20mins. We are ready!!!",
-      "text": "Yooo Germany masterclass in 20mins. We are ready!!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2071680150056448075#m",
-      "date": "Mon, 29 Jun 2026 19:40:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bb306ded2925258fdffaec481c84d1b7718478e226693b7a159214d61187d34c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
-      "text": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
-      "url": "https://nitter.net/WorstGenHQ/status/2071679990198923338#m",
-      "date": "Mon, 29 Jun 2026 19:39:34 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "A SNEEK PEAK FROM TOMORROW'S ONEPIECE EPISODE Video",
+      "text": "A SNEEK PEAK FROM TOMORROW'S ONEPIECE EPISODE Video",
+      "url": "https://nitter.net/pewpiece/status/2070889056469205280#m",
+      "date": "Sat, 27 Jun 2026 15:16:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMASq04XcAAMNmu.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2070888994460610561%2Fimg%2F8lUyf4PtqykVH3Be.jpg"
       ]
-    },
-    {
-      "id": "546fc95e155a781cbb593d9f67d083fde0dcfd6f415a47211c8a3d1e3ea38e4c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
-      "text": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
-      "url": "https://nitter.net/WorstGenHQ/status/2071672336533631353#m",
-      "date": "Mon, 29 Jun 2026 19:09:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "5468d4782d9a2af7b06477e2db49313dd88bed86db3b2d18d423c6d8c8eb7f5f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Germany, you are now my last hope to go into the bed with a smile, don´t disappoint me. One side the one piece chapter is gold, but Japan losing hurts me...",
-      "text": "Germany, you are now my last hope to go into the bed with a smile, don´t disappoint me. One side the one piece chapter is gold, but Japan losing hurts me...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071670018941608306#m",
-      "date": "Mon, 29 Jun 2026 18:59:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "cf56befdd7609ca02cf8e8a7c6b8e7aa2c7c37e6956b2c8068e68889cfd4e919",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Brazil 2:1 in the last minute.... Still respect to Japan, they played well, this might be the chance to build up a great team for the other tournaments...",
-      "text": "Brazil 2:1 in the last minute.... Still respect to Japan, they played well, this might be the chance to build up a great team for the other tournaments...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071669456510554500#m",
-      "date": "Mon, 29 Jun 2026 18:57:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "9506ebd1055f10e01d5a4fd584f63d2f60c3c501c60579cecdb4c075f1160349",
@@ -287,6 +274,21 @@
       ]
     },
     {
+      "id": "1792c2c4896f519c7113da8cd75929b4448dcd4fb04921eb08868a200b96c6b7",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "text": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "url": "https://nitter.net/PacemanOP/status/2070211093788811559#m",
+      "date": "Thu, 25 Jun 2026 18:22:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLreAywa8AAHPuQ.jpg"
+      ]
+    },
+    {
       "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -298,21 +300,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "83586246de368ccd54d3999cef5db3256461a293968e558465a437b2fca4420a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "text": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "url": "https://nitter.net/AniKing/status/2069162876607009227#m",
-      "date": "Mon, 22 Jun 2026 20:57:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
-      ]
     }
   ],
   "items": [
@@ -332,29 +319,81 @@
       ]
     },
     {
-      "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "text": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2065407009605013752#m",
-      "date": "Fri, 12 Jun 2026 12:12:59 GMT",
-      "isSpoiler": true,
+      "id": "2d89c450f69625b4904d30d332529113298717cf3aaab2b60958bb9af55ec8cd",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Paraguay gol...",
+      "text": "Paraguay gol...",
+      "url": "https://nitter.net/WorstGenHQ/status/2071703638163038211#m",
+      "date": "Mon, 29 Jun 2026 21:13:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "59e1aa75a41a4934cb1d29704ccb814d4375a185853405da4137a0541c0326e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
+      "text": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2071686315775525279#m",
+      "date": "Mon, 29 Jun 2026 20:04:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c4ec74051e3b900a473fa785825e8d4f5322d53fcfb2754a58c61a5edd365d4c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Yooo Germany masterclass in 20mins. We are ready!!!",
+      "text": "Yooo Germany masterclass in 20mins. We are ready!!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2071680150056448075#m",
+      "date": "Mon, 29 Jun 2026 19:40:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bb306ded2925258fdffaec481c84d1b7718478e226693b7a159214d61187d34c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
+      "text": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
+      "url": "https://nitter.net/WorstGenHQ/status/2071679990198923338#m",
+      "date": "Mon, 29 Jun 2026 19:39:34 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHKnMuhvbkAEsSv5.jpg"
+        "https://nitter.net/pic/media%2FHMASq04XcAAMNmu.jpg"
       ]
     },
     {
       "id": "959bd169b3f7afe0ab41a2db2c4623efa7e4793a9dce6727283aca4858c53940",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
       "title": "WANJI",
       "text": "WANJI",
       "url": "https://nitter.net/pewpiece/status/2071672566444417217#m",
       "date": "Mon, 29 Jun 2026 19:10:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "546fc95e155a781cbb593d9f67d083fde0dcfd6f415a47211c8a3d1e3ea38e4c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
+      "text": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
+      "url": "https://nitter.net/WorstGenHQ/status/2071672336533631353#m",
+      "date": "Mon, 29 Jun 2026 19:09:09 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -435,84 +474,19 @@
       ]
     },
     {
-      "id": "59e1aa75a41a4934cb1d29704ccb814d4375a185853405da4137a0541c0326e1",
+      "id": "2724049b0b220f702f5b15ee83e6f804917517ba587dbbfda6050791fe3e64d4",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
-      "text": "#ONEPIECE1187 PEAK🙌 Sergio (redon) (@Mugiwara_23) — https://nitter.net/Mugiwara_23/status/2071685777596047369#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2071686315775525279#m",
-      "date": "Mon, 29 Jun 2026 20:04:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c4ec74051e3b900a473fa785825e8d4f5322d53fcfb2754a58c61a5edd365d4c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Yooo Germany masterclass in 20mins. We are ready!!!",
-      "text": "Yooo Germany masterclass in 20mins. We are ready!!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2071680150056448075#m",
-      "date": "Mon, 29 Jun 2026 19:40:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "bb306ded2925258fdffaec481c84d1b7718478e226693b7a159214d61187d34c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
-      "text": "#ONEPIECE1187 🔥🔥🔥 @FwSanjipiece , @X_VIR3",
-      "url": "https://nitter.net/WorstGenHQ/status/2071679990198923338#m",
-      "date": "Mon, 29 Jun 2026 19:39:34 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "A SNEEK PEAK FROM TOMORROW'S ONEPIECE EPISODE Video",
+      "text": "A SNEEK PEAK FROM TOMORROW'S ONEPIECE EPISODE Video",
+      "url": "https://nitter.net/pewpiece/status/2070889056469205280#m",
+      "date": "Sat, 27 Jun 2026 15:16:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMASq04XcAAMNmu.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2070888994460610561%2Fimg%2F8lUyf4PtqykVH3Be.jpg"
       ]
-    },
-    {
-      "id": "546fc95e155a781cbb593d9f67d083fde0dcfd6f415a47211c8a3d1e3ea38e4c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
-      "text": "#ONEPIECE1187 ITS HAPPENING!!! @X_VIR3",
-      "url": "https://nitter.net/WorstGenHQ/status/2071672336533631353#m",
-      "date": "Mon, 29 Jun 2026 19:09:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "5468d4782d9a2af7b06477e2db49313dd88bed86db3b2d18d423c6d8c8eb7f5f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Germany, you are now my last hope to go into the bed with a smile, don´t disappoint me. One side the one piece chapter is gold, but Japan losing hurts me...",
-      "text": "Germany, you are now my last hope to go into the bed with a smile, don´t disappoint me. One side the one piece chapter is gold, but Japan losing hurts me...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071670018941608306#m",
-      "date": "Mon, 29 Jun 2026 18:59:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "cf56befdd7609ca02cf8e8a7c6b8e7aa2c7c37e6956b2c8068e68889cfd4e919",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Brazil 2:1 in the last minute.... Still respect to Japan, they played well, this might be the chance to build up a great team for the other tournaments...",
-      "text": "Brazil 2:1 in the last minute.... Still respect to Japan, they played well, this might be the chance to build up a great team for the other tournaments...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071669456510554500#m",
-      "date": "Mon, 29 Jun 2026 18:57:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "9506ebd1055f10e01d5a4fd584f63d2f60c3c501c60579cecdb4c075f1160349",
@@ -599,6 +573,21 @@
       ]
     },
     {
+      "id": "1792c2c4896f519c7113da8cd75929b4448dcd4fb04921eb08868a200b96c6b7",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "text": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "url": "https://nitter.net/PacemanOP/status/2070211093788811559#m",
+      "date": "Thu, 25 Jun 2026 18:22:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLreAywa8AAHPuQ.jpg"
+      ]
+    },
+    {
       "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -610,21 +599,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "83586246de368ccd54d3999cef5db3256461a293968e558465a437b2fca4420a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "text": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "url": "https://nitter.net/AniKing/status/2069162876607009227#m",
-      "date": "Mon, 22 Jun 2026 20:57:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
-      ]
     }
   ]
 }
