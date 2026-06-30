@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T06:06:08.909Z",
+  "generatedAt": "2026-06-30T10:04:23.123Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -30,6 +30,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLrBskGakAEpTvL.jpg"
+      ]
+    },
+    {
+      "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
+      "text": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2065407009605013752#m",
+      "date": "Fri, 12 Jun 2026 12:12:59 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKnMuhvbkAEsSv5.jpg"
       ]
     }
   ],
@@ -123,6 +138,21 @@
       ]
     },
     {
+      "id": "61fa3cd593ad0024d6d4a3c704c20c15162e6de928eb11421eba6b8c037a16c2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1187 🔥🔥🔥🔥",
+      "url": "https://nitter.net/gigiconlaG/status/2071838591391518855#m",
+      "date": "Tue, 30 Jun 2026 06:09:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMCmNzsX0AAvi7s.jpg"
+      ]
+    },
+    {
       "id": "be39a649e88e95288ba2cf9a0b84a92bc09386db20a4517ca0d3d9e0ae49100b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -192,17 +222,64 @@
       ]
     },
     {
-      "id": "2d89c450f69625b4904d30d332529113298717cf3aaab2b60958bb9af55ec8cd",
+      "id": "82ccc84acff9b60daf2c8b99fe89b657f2c06f62d3442245ada763a0ce3652b5",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Paraguay gol...",
-      "text": "Paraguay gol...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071703638163038211#m",
-      "date": "Mon, 29 Jun 2026 21:13:32 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "「S.H.Figuarts」より 「ニコ・ロビン -エニエス・ロビー-」が新登場！ 明日7月1日(水)16:00より ネットショップ、家電量販店、 ホビーショップなどで予約受付開始！ #ONEPIECE ▼詳細はこちら one-piece.com/news/80372/ind…",
+      "text": "「S.H.Figuarts」より 「ニコ・ロビン -エニエス・ロビー-」が新登場！ 明日7月1日(水)16:00より ネットショップ、家電量販店、 ホビーショップなどで予約受付開始！ #ONEPIECE ▼詳細はこちら one-piece.com/news/80372/ind…",
+      "url": "https://nitter.net/OPcom_info/status/2071730798789902666#m",
+      "date": "Mon, 29 Jun 2026 23:01:27 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMBELqOawAAhXwV.jpg"
+      ]
+    },
+    {
+      "id": "083d0e31e7340019af8a01f6c3d9e71ca9665c5794b9515fd9fe4dbc30c7ed48",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "／ プレゼント企画✨ ＼ 『#悪祓士のキヨシくん』 少年ジャンプ31号表紙イラストポスター(B2サイズ)を 抽選で3名様に🎁 1⃣@jump_henshubuをフォロー 2⃣この投稿をリポストで応募完了 ※7/12(日)まで 現役最強VS史上最強まさかの大激突❗️ 連載2周年突破記念❗️ 表紙&巻頭カラーの本誌もぜひ‼️",
+      "text": "／ プレゼント企画✨ ＼ 『#悪祓士のキヨシくん』 少年ジャンプ31号表紙イラストポスター(B2サイズ)を 抽選で3名様に🎁 1⃣@jump_henshubuをフォロー 2⃣この投稿をリポストで応募完了 ※7/12(日)まで 現役最強VS史上最強まさかの大激突❗️ 連載2周年突破記念❗️ 表紙&巻頭カラーの本誌もぜひ‼️",
+      "url": "https://nitter.net/jump_henshubu/status/2071798187539767343#m",
+      "date": "Tue, 30 Jun 2026 03:29:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMCBeA_boAAL_QU.jpg"
+      ]
+    },
+    {
+      "id": "f91b7d1ff26300603b94297c3fa53a59a00eca5a0cac86082e2659a31d6db03b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
+      "text": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
+      "url": "https://nitter.net/t_features/status/2071776002720842027#m",
+      "date": "Tue, 30 Jun 2026 02:01:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMBVYc3bgAAm2Xm.jpg"
+      ]
+    },
+    {
+      "id": "0f6f21e238c0b43eecb21e50f5a56856f88edde3e9433ffc2ac127370af2caf8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
+      "text": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
+      "url": "https://nitter.net/FireEmblemJP/status/2071790896136519758#m",
+      "date": "Tue, 30 Jun 2026 03:00:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_NInhbsAAmPIM.jpg"
+      ]
     },
     {
       "id": "9f53761ad293e84f33c4cb0aa5aa10234b010ca5bc0751326bcf44837a77096e",
@@ -217,89 +294,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHL_xmw4a8AAteRk.jpg"
-      ]
-    },
-    {
-      "id": "b823aaa371a764708089cc9f3f5f5e5d94a45c7640f133933c48d81c57e51f6b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda co",
-      "text": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda collection. Zelda has always been my favorite Nintendo franchise, and it’s right there with Final Fantasy as one of my favorite series of all time. My love for Zelda goes way back to watching my mom play the original NES game when I was little. I was too young to fully understand what was happening, but the sound effects and especially the music all stuck with me. Then my cousin got an SNES with A Link to the Past and I spent so many weekends at his house completely blown away by that game. That was probably the moment I went from liking video games to being a video game fan for life. That’s why physical media still matters so much to me. Digital can’t really replace the feeling of holding something that carries that many memories. This collection is more than just games to me. It’s a tribute to my childhood, my family, my friendships, and all the memories that made me fall in love with gaming in the first place. My goal was to finish it in time for Zelda’s 40th anniversary year, and I pulled it off.",
-      "url": "https://nitter.net/RickyWinsKO/status/2071609643378659797#m",
-      "date": "Mon, 29 Jun 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_FjW0XUAA0wvZ.jpg"
-      ]
-    },
-    {
-      "id": "52d54f5c599909183c43612cf41779476914a910e207a4181a498f2ccea53677",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
-      "text": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
-      "url": "https://nitter.net/TheHxHSource/status/2071616350737383826#m",
-      "date": "Mon, 29 Jun 2026 15:26:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_cFalW4AEIoAO.jpg",
-        "https://nitter.net/pic/media%2FHL_cF2RXgAEhS-m.jpg"
-      ]
-    },
-    {
-      "id": "1426449fb0f53478534e06f2037601b1987c28a16272d197bf98b1b87f017020",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria",
-      "text": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria por las obras ejecutadas. Otra genialidad del abogado del estadio @AlmeidaPP_",
-      "url": "https://nitter.net/RuidoBernabeu/status/2071683150368194701#m",
-      "date": "Mon, 29 Jun 2026 19:52:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMAY2HdXMAAUesT.jpg"
-      ]
-    },
-    {
-      "id": "508d2809a6f4befc09d33622e33cdbd24055e7029eec5182d443892560eea0a3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin”",
-      "text": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin” issue also contains chapter 2 of “Steel Ball Run” TheMangaAddict ²³ CR: Golden Kamuy (@Th3MangaAddict) Day 439: #12, 2021. “Undead Unluck” Cover & Lead Color Pages to Celebrate the 1st Year Anniversary. Other Color Pages go to “Dr. Stone”, “Nine Dragons' Ball Parade” & a one shot called “Chou Nouryoku Inou-san” — https://nitter.net/Th3MangaAddict/status/2071263411523232048#m",
-      "url": "https://nitter.net/Th3MangaAddict/status/2071627398060384612#m",
-      "date": "Mon, 29 Jun 2026 16:10:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_mFjpbUAAJUq9.jpg",
-        "https://nitter.net/pic/media%2FHL_mFjlb0AAMKmz.jpg",
-        "https://nitter.net/pic/media%2FHL_mFjmaoAAVQon.jpg",
-        "https://nitter.net/pic/media%2FHL_mFjmbsAAktwC.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnIaYAA797j.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnNawAACutU.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnJboAABXzo.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnLakAAz-vm.jpg"
-      ]
-    },
-    {
-      "id": "1792c2c4896f519c7113da8cd75929b4448dcd4fb04921eb08868a200b96c6b7",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Damn \"Blue Box\" Got Spicy #Bluebox",
-      "text": "Damn \"Blue Box\" Got Spicy #Bluebox",
-      "url": "https://nitter.net/PacemanOP/status/2070211093788811559#m",
-      "date": "Thu, 25 Jun 2026 18:22:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLreAywa8AAHPuQ.jpg"
       ]
     },
     {
@@ -329,6 +323,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
       ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
@@ -360,6 +367,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLrBskGakAEpTvL.jpg"
+      ]
+    },
+    {
+      "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
+      "text": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2065407009605013752#m",
+      "date": "Fri, 12 Jun 2026 12:12:59 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHKnMuhvbkAEsSv5.jpg"
       ]
     },
     {
@@ -451,6 +473,21 @@
       ]
     },
     {
+      "id": "61fa3cd593ad0024d6d4a3c704c20c15162e6de928eb11421eba6b8c037a16c2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 🔥🔥🔥🔥",
+      "text": "#ONEPIECE1187 🔥🔥🔥🔥",
+      "url": "https://nitter.net/gigiconlaG/status/2071838591391518855#m",
+      "date": "Tue, 30 Jun 2026 06:09:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMCmNzsX0AAvi7s.jpg"
+      ]
+    },
+    {
       "id": "be39a649e88e95288ba2cf9a0b84a92bc09386db20a4517ca0d3d9e0ae49100b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -520,17 +557,64 @@
       ]
     },
     {
-      "id": "2d89c450f69625b4904d30d332529113298717cf3aaab2b60958bb9af55ec8cd",
+      "id": "82ccc84acff9b60daf2c8b99fe89b657f2c06f62d3442245ada763a0ce3652b5",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Paraguay gol...",
-      "text": "Paraguay gol...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071703638163038211#m",
-      "date": "Mon, 29 Jun 2026 21:13:32 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "「S.H.Figuarts」より 「ニコ・ロビン -エニエス・ロビー-」が新登場！ 明日7月1日(水)16:00より ネットショップ、家電量販店、 ホビーショップなどで予約受付開始！ #ONEPIECE ▼詳細はこちら one-piece.com/news/80372/ind…",
+      "text": "「S.H.Figuarts」より 「ニコ・ロビン -エニエス・ロビー-」が新登場！ 明日7月1日(水)16:00より ネットショップ、家電量販店、 ホビーショップなどで予約受付開始！ #ONEPIECE ▼詳細はこちら one-piece.com/news/80372/ind…",
+      "url": "https://nitter.net/OPcom_info/status/2071730798789902666#m",
+      "date": "Mon, 29 Jun 2026 23:01:27 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMBELqOawAAhXwV.jpg"
+      ]
+    },
+    {
+      "id": "083d0e31e7340019af8a01f6c3d9e71ca9665c5794b9515fd9fe4dbc30c7ed48",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "／ プレゼント企画✨ ＼ 『#悪祓士のキヨシくん』 少年ジャンプ31号表紙イラストポスター(B2サイズ)を 抽選で3名様に🎁 1⃣@jump_henshubuをフォロー 2⃣この投稿をリポストで応募完了 ※7/12(日)まで 現役最強VS史上最強まさかの大激突❗️ 連載2周年突破記念❗️ 表紙&巻頭カラーの本誌もぜひ‼️",
+      "text": "／ プレゼント企画✨ ＼ 『#悪祓士のキヨシくん』 少年ジャンプ31号表紙イラストポスター(B2サイズ)を 抽選で3名様に🎁 1⃣@jump_henshubuをフォロー 2⃣この投稿をリポストで応募完了 ※7/12(日)まで 現役最強VS史上最強まさかの大激突❗️ 連載2周年突破記念❗️ 表紙&巻頭カラーの本誌もぜひ‼️",
+      "url": "https://nitter.net/jump_henshubu/status/2071798187539767343#m",
+      "date": "Tue, 30 Jun 2026 03:29:14 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMCBeA_boAAL_QU.jpg"
+      ]
+    },
+    {
+      "id": "f91b7d1ff26300603b94297c3fa53a59a00eca5a0cac86082e2659a31d6db03b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
+      "text": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
+      "url": "https://nitter.net/t_features/status/2071776002720842027#m",
+      "date": "Tue, 30 Jun 2026 02:01:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMBVYc3bgAAm2Xm.jpg"
+      ]
+    },
+    {
+      "id": "0f6f21e238c0b43eecb21e50f5a56856f88edde3e9433ffc2ac127370af2caf8",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
+      "text": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
+      "url": "https://nitter.net/FireEmblemJP/status/2071790896136519758#m",
+      "date": "Tue, 30 Jun 2026 03:00:16 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_NInhbsAAmPIM.jpg"
+      ]
     },
     {
       "id": "9f53761ad293e84f33c4cb0aa5aa10234b010ca5bc0751326bcf44837a77096e",
@@ -545,89 +629,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHL_xmw4a8AAteRk.jpg"
-      ]
-    },
-    {
-      "id": "b823aaa371a764708089cc9f3f5f5e5d94a45c7640f133933c48d81c57e51f6b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda co",
-      "text": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda collection. Zelda has always been my favorite Nintendo franchise, and it’s right there with Final Fantasy as one of my favorite series of all time. My love for Zelda goes way back to watching my mom play the original NES game when I was little. I was too young to fully understand what was happening, but the sound effects and especially the music all stuck with me. Then my cousin got an SNES with A Link to the Past and I spent so many weekends at his house completely blown away by that game. That was probably the moment I went from liking video games to being a video game fan for life. That’s why physical media still matters so much to me. Digital can’t really replace the feeling of holding something that carries that many memories. This collection is more than just games to me. It’s a tribute to my childhood, my family, my friendships, and all the memories that made me fall in love with gaming in the first place. My goal was to finish it in time for Zelda’s 40th anniversary year, and I pulled it off.",
-      "url": "https://nitter.net/RickyWinsKO/status/2071609643378659797#m",
-      "date": "Mon, 29 Jun 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_FjW0XUAA0wvZ.jpg"
-      ]
-    },
-    {
-      "id": "52d54f5c599909183c43612cf41779476914a910e207a4181a498f2ccea53677",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
-      "text": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
-      "url": "https://nitter.net/TheHxHSource/status/2071616350737383826#m",
-      "date": "Mon, 29 Jun 2026 15:26:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_cFalW4AEIoAO.jpg",
-        "https://nitter.net/pic/media%2FHL_cF2RXgAEhS-m.jpg"
-      ]
-    },
-    {
-      "id": "1426449fb0f53478534e06f2037601b1987c28a16272d197bf98b1b87f017020",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria",
-      "text": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria por las obras ejecutadas. Otra genialidad del abogado del estadio @AlmeidaPP_",
-      "url": "https://nitter.net/RuidoBernabeu/status/2071683150368194701#m",
-      "date": "Mon, 29 Jun 2026 19:52:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMAY2HdXMAAUesT.jpg"
-      ]
-    },
-    {
-      "id": "508d2809a6f4befc09d33622e33cdbd24055e7029eec5182d443892560eea0a3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin”",
-      "text": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin” issue also contains chapter 2 of “Steel Ball Run” TheMangaAddict ²³ CR: Golden Kamuy (@Th3MangaAddict) Day 439: #12, 2021. “Undead Unluck” Cover & Lead Color Pages to Celebrate the 1st Year Anniversary. Other Color Pages go to “Dr. Stone”, “Nine Dragons' Ball Parade” & a one shot called “Chou Nouryoku Inou-san” — https://nitter.net/Th3MangaAddict/status/2071263411523232048#m",
-      "url": "https://nitter.net/Th3MangaAddict/status/2071627398060384612#m",
-      "date": "Mon, 29 Jun 2026 16:10:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_mFjpbUAAJUq9.jpg",
-        "https://nitter.net/pic/media%2FHL_mFjlb0AAMKmz.jpg",
-        "https://nitter.net/pic/media%2FHL_mFjmaoAAVQon.jpg",
-        "https://nitter.net/pic/media%2FHL_mFjmbsAAktwC.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnIaYAA797j.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnNawAACutU.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnJboAABXzo.jpg",
-        "https://nitter.net/pic/media%2FHL6bFnLakAAz-vm.jpg"
-      ]
-    },
-    {
-      "id": "1792c2c4896f519c7113da8cd75929b4448dcd4fb04921eb08868a200b96c6b7",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Damn \"Blue Box\" Got Spicy #Bluebox",
-      "text": "Damn \"Blue Box\" Got Spicy #Bluebox",
-      "url": "https://nitter.net/PacemanOP/status/2070211093788811559#m",
-      "date": "Thu, 25 Jun 2026 18:22:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLreAywa8AAHPuQ.jpg"
       ]
     },
     {
@@ -657,6 +658,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
       ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
