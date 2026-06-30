@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-06-29T23:42:41.641Z",
+  "generatedAt": "2026-06-30T01:50:34.784Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "f56db04e6d436ff7cb21f1cb6feb3ea9d593dd06d90262398d22f387d73c3d70",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/MarcaScroll/status/2071534420377440640#m",
+      "date": "Mon, 29 Jun 2026 10:01:07 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL-Rk9QXMAAmdFU.jpg"
+      ]
+    },
     {
       "id": "c7913ac10de7e6e5057c7da165839e7848138600227e2fbb9dde15c02eebc999",
       "anime": "blackclover",
@@ -15,21 +30,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLrBskGakAEpTvL.jpg"
-      ]
-    },
-    {
-      "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "text": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2065407009605013752#m",
-      "date": "Fri, 12 Jun 2026 12:12:59 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKnMuhvbkAEsSv5.jpg"
       ]
     }
   ],
@@ -203,6 +203,104 @@
       "attachments": []
     },
     {
+      "id": "9f53761ad293e84f33c4cb0aa5aa10234b010ca5bc0751326bcf44837a77096e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
+      "text": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
+      "url": "https://nitter.net/t_features/status/2071730477522919898#m",
+      "date": "Mon, 29 Jun 2026 23:00:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_xmw4a8AAteRk.jpg"
+      ]
+    },
+    {
+      "id": "b823aaa371a764708089cc9f3f5f5e5d94a45c7640f133933c48d81c57e51f6b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda co",
+      "text": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda collection. Zelda has always been my favorite Nintendo franchise, and it’s right there with Final Fantasy as one of my favorite series of all time. My love for Zelda goes way back to watching my mom play the original NES game when I was little. I was too young to fully understand what was happening, but the sound effects and especially the music all stuck with me. Then my cousin got an SNES with A Link to the Past and I spent so many weekends at his house completely blown away by that game. That was probably the moment I went from liking video games to being a video game fan for life. That’s why physical media still matters so much to me. Digital can’t really replace the feeling of holding something that carries that many memories. This collection is more than just games to me. It’s a tribute to my childhood, my family, my friendships, and all the memories that made me fall in love with gaming in the first place. My goal was to finish it in time for Zelda’s 40th anniversary year, and I pulled it off.",
+      "url": "https://nitter.net/RickyWinsKO/status/2071609643378659797#m",
+      "date": "Mon, 29 Jun 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_FjW0XUAA0wvZ.jpg"
+      ]
+    },
+    {
+      "id": "52d54f5c599909183c43612cf41779476914a910e207a4181a498f2ccea53677",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
+      "text": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
+      "url": "https://nitter.net/TheHxHSource/status/2071616350737383826#m",
+      "date": "Mon, 29 Jun 2026 15:26:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_cFalW4AEIoAO.jpg",
+        "https://nitter.net/pic/media%2FHL_cF2RXgAEhS-m.jpg"
+      ]
+    },
+    {
+      "id": "1426449fb0f53478534e06f2037601b1987c28a16272d197bf98b1b87f017020",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria",
+      "text": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria por las obras ejecutadas. Otra genialidad del abogado del estadio @AlmeidaPP_",
+      "url": "https://nitter.net/RuidoBernabeu/status/2071683150368194701#m",
+      "date": "Mon, 29 Jun 2026 19:52:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMAY2HdXMAAUesT.jpg"
+      ]
+    },
+    {
+      "id": "508d2809a6f4befc09d33622e33cdbd24055e7029eec5182d443892560eea0a3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin”",
+      "text": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin” issue also contains chapter 2 of “Steel Ball Run” TheMangaAddict ²³ CR: Golden Kamuy (@Th3MangaAddict) Day 439: #12, 2021. “Undead Unluck” Cover & Lead Color Pages to Celebrate the 1st Year Anniversary. Other Color Pages go to “Dr. Stone”, “Nine Dragons' Ball Parade” & a one shot called “Chou Nouryoku Inou-san” — https://nitter.net/Th3MangaAddict/status/2071263411523232048#m",
+      "url": "https://nitter.net/Th3MangaAddict/status/2071627398060384612#m",
+      "date": "Mon, 29 Jun 2026 16:10:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_mFjpbUAAJUq9.jpg",
+        "https://nitter.net/pic/media%2FHL_mFjlb0AAMKmz.jpg",
+        "https://nitter.net/pic/media%2FHL_mFjmaoAAVQon.jpg",
+        "https://nitter.net/pic/media%2FHL_mFjmbsAAktwC.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnIaYAA797j.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnNawAACutU.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnJboAABXzo.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnLakAAz-vm.jpg"
+      ]
+    },
+    {
+      "id": "1792c2c4896f519c7113da8cd75929b4448dcd4fb04921eb08868a200b96c6b7",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "text": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "url": "https://nitter.net/PacemanOP/status/2070211093788811559#m",
+      "date": "Thu, 25 Jun 2026 18:22:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLreAywa8AAHPuQ.jpg"
+      ]
+    },
+    {
       "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -229,97 +327,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
       ]
-    },
-    {
-      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
-      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
-      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
-      ]
-    },
-    {
-      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
-      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
-      ]
-    },
-    {
-      "id": "0a3e746a6fff4e294d448e6f639da213d5836be092eeeaf6d9c852a79af19e72",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2070728769514463516#m",
-      "date": "Sat, 27 Jun 2026 04:39:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLy01yqXsAELNIj.jpg"
-      ]
-    },
-    {
-      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク #berserk385",
-      "text": "#BERSERK #ベルセルク #berserk385",
-      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
-      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
-      ]
-    },
-    {
-      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
-      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
-      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
-      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "f56db04e6d436ff7cb21f1cb6feb3ea9d593dd06d90262398d22f387d73c3d70",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/MarcaScroll/status/2071534420377440640#m",
+      "date": "Mon, 29 Jun 2026 10:01:07 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL-Rk9QXMAAmdFU.jpg"
+      ]
+    },
     {
       "id": "c7913ac10de7e6e5057c7da165839e7848138600227e2fbb9dde15c02eebc999",
       "anime": "blackclover",
@@ -333,21 +358,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLrBskGakAEpTvL.jpg"
-      ]
-    },
-    {
-      "id": "47ad60a6163555d627fdabdf80fee5dbfcc08899a4975c038b4d765ad039d406",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "text": "Ayataka Tanemura's Illustration for Black Clover S2 HQ and Cleaned #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2065407009605013752#m",
-      "date": "Fri, 12 Jun 2026 12:12:59 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHKnMuhvbkAEsSv5.jpg"
       ]
     },
     {
@@ -519,6 +529,104 @@
       "attachments": []
     },
     {
+      "id": "9f53761ad293e84f33c4cb0aa5aa10234b010ca5bc0751326bcf44837a77096e",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
+      "text": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
+      "url": "https://nitter.net/t_features/status/2071730477522919898#m",
+      "date": "Mon, 29 Jun 2026 23:00:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_xmw4a8AAteRk.jpg"
+      ]
+    },
+    {
+      "id": "b823aaa371a764708089cc9f3f5f5e5d94a45c7640f133933c48d81c57e51f6b",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda co",
+      "text": "I finally did it. After years of hunting, rebuilding, replacing missing pieces, selling extras, trading, and slowly piecing everything back together, I completed my 100% CIB Nintendo produced Zelda collection. Zelda has always been my favorite Nintendo franchise, and it’s right there with Final Fantasy as one of my favorite series of all time. My love for Zelda goes way back to watching my mom play the original NES game when I was little. I was too young to fully understand what was happening, but the sound effects and especially the music all stuck with me. Then my cousin got an SNES with A Link to the Past and I spent so many weekends at his house completely blown away by that game. That was probably the moment I went from liking video games to being a video game fan for life. That’s why physical media still matters so much to me. Digital can’t really replace the feeling of holding something that carries that many memories. This collection is more than just games to me. It’s a tribute to my childhood, my family, my friendships, and all the memories that made me fall in love with gaming in the first place. My goal was to finish it in time for Zelda’s 40th anniversary year, and I pulled it off.",
+      "url": "https://nitter.net/RickyWinsKO/status/2071609643378659797#m",
+      "date": "Mon, 29 Jun 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_FjW0XUAA0wvZ.jpg"
+      ]
+    },
+    {
+      "id": "52d54f5c599909183c43612cf41779476914a910e207a4181a498f2ccea53677",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
+      "text": "Throwback to Hunter x Hunter obi with announcements of surpassing 23 million to 31 million copies in sale with today's 100 million obi",
+      "url": "https://nitter.net/TheHxHSource/status/2071616350737383826#m",
+      "date": "Mon, 29 Jun 2026 15:26:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_cFalW4AEIoAO.jpg",
+        "https://nitter.net/pic/media%2FHL_cF2RXgAEhS-m.jpg"
+      ]
+    },
+    {
+      "id": "1426449fb0f53478534e06f2037601b1987c28a16272d197bf98b1b87f017020",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria",
+      "text": "¡Cacicada parada! Pretendían meter 1.000 coches a la hora en un barrio saturado, pagado por todos los vecinos a beneficio exclusivo del estadio. Ahora, además, nos costará una indemnización millonaria por las obras ejecutadas. Otra genialidad del abogado del estadio @AlmeidaPP_",
+      "url": "https://nitter.net/RuidoBernabeu/status/2071683150368194701#m",
+      "date": "Mon, 29 Jun 2026 19:52:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMAY2HdXMAAUesT.jpg"
+      ]
+    },
+    {
+      "id": "508d2809a6f4befc09d33622e33cdbd24055e7029eec5182d443892560eea0a3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin”",
+      "text": "Day 340: #9, 2004. “Eyeshield 21” Cover & Lead Color Pages (don’t know celebration) LCP also has a “where’s Waldo” mini game where you have to find the Devil Bat. Other Color Pages go to “Buso Renkin” issue also contains chapter 2 of “Steel Ball Run” TheMangaAddict ²³ CR: Golden Kamuy (@Th3MangaAddict) Day 439: #12, 2021. “Undead Unluck” Cover & Lead Color Pages to Celebrate the 1st Year Anniversary. Other Color Pages go to “Dr. Stone”, “Nine Dragons' Ball Parade” & a one shot called “Chou Nouryoku Inou-san” — https://nitter.net/Th3MangaAddict/status/2071263411523232048#m",
+      "url": "https://nitter.net/Th3MangaAddict/status/2071627398060384612#m",
+      "date": "Mon, 29 Jun 2026 16:10:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL_mFjpbUAAJUq9.jpg",
+        "https://nitter.net/pic/media%2FHL_mFjlb0AAMKmz.jpg",
+        "https://nitter.net/pic/media%2FHL_mFjmaoAAVQon.jpg",
+        "https://nitter.net/pic/media%2FHL_mFjmbsAAktwC.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnIaYAA797j.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnNawAACutU.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnJboAABXzo.jpg",
+        "https://nitter.net/pic/media%2FHL6bFnLakAAz-vm.jpg"
+      ]
+    },
+    {
+      "id": "1792c2c4896f519c7113da8cd75929b4448dcd4fb04921eb08868a200b96c6b7",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "text": "Damn \"Blue Box\" Got Spicy #Bluebox",
+      "url": "https://nitter.net/PacemanOP/status/2070211093788811559#m",
+      "date": "Thu, 25 Jun 2026 18:22:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLreAywa8AAHPuQ.jpg"
+      ]
+    },
+    {
       "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -544,94 +652,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
-      ]
-    },
-    {
-      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
-      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
-      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
-      ]
-    },
-    {
-      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
-      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
-      ]
-    },
-    {
-      "id": "0a3e746a6fff4e294d448e6f639da213d5836be092eeeaf6d9c852a79af19e72",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2070728769514463516#m",
-      "date": "Sat, 27 Jun 2026 04:39:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLy01yqXsAELNIj.jpg"
-      ]
-    },
-    {
-      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク #berserk385",
-      "text": "#BERSERK #ベルセルク #berserk385",
-      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
-      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
-      ]
-    },
-    {
-      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
-      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
-      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
-      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
       ]
     }
   ]
