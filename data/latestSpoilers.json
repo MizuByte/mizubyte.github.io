@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-06-30T10:04:23.123Z",
+  "generatedAt": "2026-06-30T12:26:26.050Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "f56db04e6d436ff7cb21f1cb6feb3ea9d593dd06d90262398d22f387d73c3d70",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/MarcaScroll/status/2071534420377440640#m",
-      "date": "Mon, 29 Jun 2026 10:01:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL-Rk9QXMAAmdFU.jpg"
-      ]
-    },
     {
       "id": "c7913ac10de7e6e5057c7da165839e7848138600227e2fbb9dde15c02eebc999",
       "anime": "blackclover",
@@ -50,6 +35,21 @@
   ],
   "misc": [
     {
+      "id": "b33e8cf795ffa18881235231c971c9aab1549ccb877f1e5a88367a07a60f28e8",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL: ONEPIECE LIVE ACTION SEASON 3 HAS OFFICIALLY WRAPPED PRODUCTION",
+      "text": "OFFICIAL: ONEPIECE LIVE ACTION SEASON 3 HAS OFFICIALLY WRAPPED PRODUCTION",
+      "url": "https://nitter.net/pewpiece/status/2071927016480264266#m",
+      "date": "Tue, 30 Jun 2026 12:01:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMD2dM9XsAARuO4.jpg"
+      ]
+    },
+    {
       "id": "959bd169b3f7afe0ab41a2db2c4623efa7e4793a9dce6727283aca4858c53940",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -123,102 +123,63 @@
       ]
     },
     {
-      "id": "bd1a4e84a36700157d3157162a2a720fb61a849a3242cb77229aae8267f5d1fc",
+      "id": "4c01d375d5d27b27e926ff5936a675af420b0348a8762bc496c2422abe5bcf68",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Shamrock's Cerberus Video",
-      "text": "Shamrock's Cerberus Video",
-      "url": "https://nitter.net/pewpiece/status/2071239318312521871#m",
-      "date": "Sun, 28 Jun 2026 14:28:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Terminó el rodaje de la 3ª Temporada del Live-Action de One Piece 😍😍😍!! Si las anteriores temporadas se estrenaron 1 año después de finalizar sus rodajes creo la Temporada 3 se estrenará en Veran",
+      "text": "¡¡Terminó el rodaje de la 3ª Temporada del Live-Action de One Piece 😍😍😍!! Si las anteriores temporadas se estrenaron 1 año después de finalizar sus rodajes creo la Temporada 3 se estrenará en Verano de 2027. Justamente cuando One Piece esté celebrando su 30º aniversario 🥳🎉🍾 ONE PIECE(ワンピース) Netflix (@onepiecenetflix) The cameras have stopped rolling, but the journey is far from over. ONE PIECE Season 3 has officially wrapped production. 🏴‍☠️ No further questions about the wall behind us. — https://nitter.net/onepiecenetflix/status/2071926726519566689#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2071932809271239167#m",
+      "date": "Tue, 30 Jun 2026 12:24:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2071239116318982144%2Fimg%2F_azDB3-Icd7Pdb7f.jpg"
+        "https://nitter.net/pic/media%2FHMAkJonWQAArhoU.jpg"
       ]
     },
     {
-      "id": "61fa3cd593ad0024d6d4a3c704c20c15162e6de928eb11421eba6b8c037a16c2",
+      "id": "ad71fd9ce4410b4a6916b722cc18ca6d63467950981c60d3a1218b2306e4070c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 🔥🔥🔥🔥",
-      "text": "#ONEPIECE1187 🔥🔥🔥🔥",
-      "url": "https://nitter.net/gigiconlaG/status/2071838591391518855#m",
-      "date": "Tue, 30 Jun 2026 06:09:47 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "戦闘では、戦技で仲間のステータスを底上げしたり、魔法でピンチの味方を回復するなど、戦況を整えるサポート役として優れた力を発揮します。#FE万紫千紅 Video",
+      "text": "戦闘では、戦技で仲間のステータスを底上げしたり、魔法でピンチの味方を回復するなど、戦況を整えるサポート役として優れた力を発揮します。#FE万紫千紅 Video",
+      "url": "https://nitter.net/FireEmblemJP/status/2071896562175967473#m",
+      "date": "Tue, 30 Jun 2026 10:00:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMCmNzsX0AAvi7s.jpg"
+        "https://nitter.net/pic/media%2FHMDa7HuawAAboT8.jpg"
       ]
     },
     {
-      "id": "be39a649e88e95288ba2cf9a0b84a92bc09386db20a4517ca0d3d9e0ae49100b",
+      "id": "cbe666df01b9379c61cf55327fe992a6d9c2d27fab9847bfc836b0c8b1d73e08",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "\"Dad – how were the World Cup matches on Monday, June 29, 2026?\" Can't believe it.. Japan, Germany and now Netherland....",
-      "text": "\"Dad – how were the World Cup matches on Monday, June 29, 2026?\" Can't believe it.. Japan, Germany and now Netherland....",
-      "url": "https://nitter.net/WorstGenHQ/status/2071827398182445260#m",
-      "date": "Tue, 30 Jun 2026 05:25:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "04c87955f677b91a382f92f7eafd42840cca0717f0d49836f5ec6d0fb62f5dcf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Morocco WON!! Netherland and Germany just out😂 Respect to Morocco...",
-      "text": "Morocco WON!! Netherland and Germany just out😂 Respect to Morocco...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071804806675448054#m",
-      "date": "Tue, 30 Jun 2026 03:55:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e31f9799bc3ebc9b573bd8e9e849a5f3e90ce7ad043ad85ef1827161cffed6a5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Japan out. Germany out(fuck you Nagelsmann) People mocking right and left... At least we have a One Piece chapter I guess...😭 Video",
-      "text": "Japan out. Germany out(fuck you Nagelsmann) People mocking right and left... At least we have a One Piece chapter I guess...😭 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2071792213160329691#m",
-      "date": "Tue, 30 Jun 2026 03:05:30 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🏴‍☠️ El rodaje ha llegado a puerto nakamas, pero nuestro rumbo sigue apuntando a la Grand Line. La temporada 3 de 'ONE PIECE' ha terminado oficialmente su rodaje.",
+      "text": "🏴‍☠️ El rodaje ha llegado a puerto nakamas, pero nuestro rumbo sigue apuntando a la Grand Line. La temporada 3 de 'ONE PIECE' ha terminado oficialmente su rodaje.",
+      "url": "https://nitter.net/NetflixES/status/2071926726083363184#m",
+      "date": "Tue, 30 Jun 2026 12:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2071792189533810688%2Fpu%2Fimg%2FUur5M5H6Td8BP3Vv.jpg"
+        "https://nitter.net/pic/media%2FHMDKhhiWIAAQxcn.jpg"
       ]
     },
     {
-      "id": "284b097cc5544c87e96a284234c90d27b1747aee4ef624c704df13c0493e1c3f",
+      "id": "96391f99f39009a66042b279eeb41ce0e09a465cb3b848080cc74eb98ac7caf0",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I woke up, and the sadness hit me. It’s not even the loss that hurts most. It’s knowing I won’t get to watch this team again.😔 I love this team and these players. They showed everything I love about ",
-      "text": "I woke up, and the sadness hit me. It’s not even the loss that hurts most. It’s knowing I won’t get to watch this team again.😔 I love this team and these players. They showed everything I love about Japanese football. I just hope they come back even stronger.🇯🇵 #SAMURAIBLUE",
-      "url": "https://nitter.net/SReminal/status/2071730129236275396#m",
-      "date": "Mon, 29 Jun 2026 22:58:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "5ab6cb8b33264aff0c8e4e708be32f54cc6fd323917dec0c412d66b2589789ac",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE] Theory Title: “𝐓𝐡𝐞 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐓𝐫𝐢𝐨 𝐁𝐚𝐭𝐭𝐥𝐞𝐬 𝐂𝐨𝐦𝐦𝐞𝐧𝐜𝐞!” Lets begin.",
-      "text": "[#ONEPIECE] Theory Title: “𝐓𝐡𝐞 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐓𝐫𝐢𝐨 𝐁𝐚𝐭𝐭𝐥𝐞𝐬 𝐂𝐨𝐦𝐦𝐞𝐧𝐜𝐞!” Lets begin.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2071737198953607184#m",
-      "date": "Mon, 29 Jun 2026 23:26:53 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The cameras have stopped rolling, but the journey is far from over. ONE PIECE Season 3 has officially wrapped production. 🏴‍☠️ No further questions about the wall behind us.",
+      "text": "The cameras have stopped rolling, but the journey is far from over. ONE PIECE Season 3 has officially wrapped production. 🏴‍☠️ No further questions about the wall behind us.",
+      "url": "https://nitter.net/onepiecenetflix/status/2071926726519566689#m",
+      "date": "Tue, 30 Jun 2026 12:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMBKAFyW4AA6Epr.jpg"
+        "https://nitter.net/pic/media%2FHMAkJonWQAArhoU.jpg"
       ]
     },
     {
@@ -249,51 +210,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMCBeA_boAAL_QU.jpg"
-      ]
-    },
-    {
-      "id": "f91b7d1ff26300603b94297c3fa53a59a00eca5a0cac86082e2659a31d6db03b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
-      "text": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
-      "url": "https://nitter.net/t_features/status/2071776002720842027#m",
-      "date": "Tue, 30 Jun 2026 02:01:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMBVYc3bgAAm2Xm.jpg"
-      ]
-    },
-    {
-      "id": "0f6f21e238c0b43eecb21e50f5a56856f88edde3e9433ffc2ac127370af2caf8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
-      "text": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
-      "url": "https://nitter.net/FireEmblemJP/status/2071790896136519758#m",
-      "date": "Tue, 30 Jun 2026 03:00:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_NInhbsAAmPIM.jpg"
-      ]
-    },
-    {
-      "id": "9f53761ad293e84f33c4cb0aa5aa10234b010ca5bc0751326bcf44837a77096e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
-      "text": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
-      "url": "https://nitter.net/t_features/status/2071730477522919898#m",
-      "date": "Mon, 29 Jun 2026 23:00:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_xmw4a8AAteRk.jpg"
       ]
     },
     {
@@ -336,24 +252,84 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
+      ]
+    },
+    {
+      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
+      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
+      ]
+    },
+    {
+      "id": "0a3e746a6fff4e294d448e6f639da213d5836be092eeeaf6d9c852a79af19e72",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2070728769514463516#m",
+      "date": "Sat, 27 Jun 2026 04:39:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLy01yqXsAELNIj.jpg"
+      ]
+    },
+    {
+      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク #berserk385",
+      "text": "#BERSERK #ベルセルク #berserk385",
+      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
+      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
+      ]
+    },
+    {
+      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
+      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "f56db04e6d436ff7cb21f1cb6feb3ea9d593dd06d90262398d22f387d73c3d70",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/MarcaScroll/status/2071534420377440640#m",
-      "date": "Mon, 29 Jun 2026 10:01:07 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL-Rk9QXMAAmdFU.jpg"
-      ]
-    },
     {
       "id": "c7913ac10de7e6e5057c7da165839e7848138600227e2fbb9dde15c02eebc999",
       "anime": "blackclover",
@@ -385,6 +361,21 @@
       ]
     },
     {
+      "id": "b33e8cf795ffa18881235231c971c9aab1549ccb877f1e5a88367a07a60f28e8",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "OFFICIAL: ONEPIECE LIVE ACTION SEASON 3 HAS OFFICIALLY WRAPPED PRODUCTION",
+      "text": "OFFICIAL: ONEPIECE LIVE ACTION SEASON 3 HAS OFFICIALLY WRAPPED PRODUCTION",
+      "url": "https://nitter.net/pewpiece/status/2071927016480264266#m",
+      "date": "Tue, 30 Jun 2026 12:01:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMD2dM9XsAARuO4.jpg"
+      ]
+    },
+    {
       "id": "959bd169b3f7afe0ab41a2db2c4623efa7e4793a9dce6727283aca4858c53940",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -458,102 +449,63 @@
       ]
     },
     {
-      "id": "bd1a4e84a36700157d3157162a2a720fb61a849a3242cb77229aae8267f5d1fc",
+      "id": "4c01d375d5d27b27e926ff5936a675af420b0348a8762bc496c2422abe5bcf68",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Shamrock's Cerberus Video",
-      "text": "Shamrock's Cerberus Video",
-      "url": "https://nitter.net/pewpiece/status/2071239318312521871#m",
-      "date": "Sun, 28 Jun 2026 14:28:29 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Terminó el rodaje de la 3ª Temporada del Live-Action de One Piece 😍😍😍!! Si las anteriores temporadas se estrenaron 1 año después de finalizar sus rodajes creo la Temporada 3 se estrenará en Veran",
+      "text": "¡¡Terminó el rodaje de la 3ª Temporada del Live-Action de One Piece 😍😍😍!! Si las anteriores temporadas se estrenaron 1 año después de finalizar sus rodajes creo la Temporada 3 se estrenará en Verano de 2027. Justamente cuando One Piece esté celebrando su 30º aniversario 🥳🎉🍾 ONE PIECE(ワンピース) Netflix (@onepiecenetflix) The cameras have stopped rolling, but the journey is far from over. ONE PIECE Season 3 has officially wrapped production. 🏴‍☠️ No further questions about the wall behind us. — https://nitter.net/onepiecenetflix/status/2071926726519566689#m",
+      "url": "https://nitter.net/Mugiwara_23/status/2071932809271239167#m",
+      "date": "Tue, 30 Jun 2026 12:24:11 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2071239116318982144%2Fimg%2F_azDB3-Icd7Pdb7f.jpg"
+        "https://nitter.net/pic/media%2FHMAkJonWQAArhoU.jpg"
       ]
     },
     {
-      "id": "61fa3cd593ad0024d6d4a3c704c20c15162e6de928eb11421eba6b8c037a16c2",
+      "id": "ad71fd9ce4410b4a6916b722cc18ca6d63467950981c60d3a1218b2306e4070c",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187 🔥🔥🔥🔥",
-      "text": "#ONEPIECE1187 🔥🔥🔥🔥",
-      "url": "https://nitter.net/gigiconlaG/status/2071838591391518855#m",
-      "date": "Tue, 30 Jun 2026 06:09:47 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "戦闘では、戦技で仲間のステータスを底上げしたり、魔法でピンチの味方を回復するなど、戦況を整えるサポート役として優れた力を発揮します。#FE万紫千紅 Video",
+      "text": "戦闘では、戦技で仲間のステータスを底上げしたり、魔法でピンチの味方を回復するなど、戦況を整えるサポート役として優れた力を発揮します。#FE万紫千紅 Video",
+      "url": "https://nitter.net/FireEmblemJP/status/2071896562175967473#m",
+      "date": "Tue, 30 Jun 2026 10:00:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMCmNzsX0AAvi7s.jpg"
+        "https://nitter.net/pic/media%2FHMDa7HuawAAboT8.jpg"
       ]
     },
     {
-      "id": "be39a649e88e95288ba2cf9a0b84a92bc09386db20a4517ca0d3d9e0ae49100b",
+      "id": "cbe666df01b9379c61cf55327fe992a6d9c2d27fab9847bfc836b0c8b1d73e08",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "\"Dad – how were the World Cup matches on Monday, June 29, 2026?\" Can't believe it.. Japan, Germany and now Netherland....",
-      "text": "\"Dad – how were the World Cup matches on Monday, June 29, 2026?\" Can't believe it.. Japan, Germany and now Netherland....",
-      "url": "https://nitter.net/WorstGenHQ/status/2071827398182445260#m",
-      "date": "Tue, 30 Jun 2026 05:25:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "04c87955f677b91a382f92f7eafd42840cca0717f0d49836f5ec6d0fb62f5dcf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Morocco WON!! Netherland and Germany just out😂 Respect to Morocco...",
-      "text": "Morocco WON!! Netherland and Germany just out😂 Respect to Morocco...",
-      "url": "https://nitter.net/WorstGenHQ/status/2071804806675448054#m",
-      "date": "Tue, 30 Jun 2026 03:55:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e31f9799bc3ebc9b573bd8e9e849a5f3e90ce7ad043ad85ef1827161cffed6a5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Japan out. Germany out(fuck you Nagelsmann) People mocking right and left... At least we have a One Piece chapter I guess...😭 Video",
-      "text": "Japan out. Germany out(fuck you Nagelsmann) People mocking right and left... At least we have a One Piece chapter I guess...😭 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2071792213160329691#m",
-      "date": "Tue, 30 Jun 2026 03:05:30 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🏴‍☠️ El rodaje ha llegado a puerto nakamas, pero nuestro rumbo sigue apuntando a la Grand Line. La temporada 3 de 'ONE PIECE' ha terminado oficialmente su rodaje.",
+      "text": "🏴‍☠️ El rodaje ha llegado a puerto nakamas, pero nuestro rumbo sigue apuntando a la Grand Line. La temporada 3 de 'ONE PIECE' ha terminado oficialmente su rodaje.",
+      "url": "https://nitter.net/NetflixES/status/2071926726083363184#m",
+      "date": "Tue, 30 Jun 2026 12:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F2071792189533810688%2Fpu%2Fimg%2FUur5M5H6Td8BP3Vv.jpg"
+        "https://nitter.net/pic/media%2FHMDKhhiWIAAQxcn.jpg"
       ]
     },
     {
-      "id": "284b097cc5544c87e96a284234c90d27b1747aee4ef624c704df13c0493e1c3f",
+      "id": "96391f99f39009a66042b279eeb41ce0e09a465cb3b848080cc74eb98ac7caf0",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "I woke up, and the sadness hit me. It’s not even the loss that hurts most. It’s knowing I won’t get to watch this team again.😔 I love this team and these players. They showed everything I love about ",
-      "text": "I woke up, and the sadness hit me. It’s not even the loss that hurts most. It’s knowing I won’t get to watch this team again.😔 I love this team and these players. They showed everything I love about Japanese football. I just hope they come back even stronger.🇯🇵 #SAMURAIBLUE",
-      "url": "https://nitter.net/SReminal/status/2071730129236275396#m",
-      "date": "Mon, 29 Jun 2026 22:58:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "5ab6cb8b33264aff0c8e4e708be32f54cc6fd323917dec0c412d66b2589789ac",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE] Theory Title: “𝐓𝐡𝐞 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐓𝐫𝐢𝐨 𝐁𝐚𝐭𝐭𝐥𝐞𝐬 𝐂𝐨𝐦𝐦𝐞𝐧𝐜𝐞!” Lets begin.",
-      "text": "[#ONEPIECE] Theory Title: “𝐓𝐡𝐞 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐓𝐫𝐢𝐨 𝐁𝐚𝐭𝐭𝐥𝐞𝐬 𝐂𝐨𝐦𝐦𝐞𝐧𝐜𝐞!” Lets begin.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2071737198953607184#m",
-      "date": "Mon, 29 Jun 2026 23:26:53 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The cameras have stopped rolling, but the journey is far from over. ONE PIECE Season 3 has officially wrapped production. 🏴‍☠️ No further questions about the wall behind us.",
+      "text": "The cameras have stopped rolling, but the journey is far from over. ONE PIECE Season 3 has officially wrapped production. 🏴‍☠️ No further questions about the wall behind us.",
+      "url": "https://nitter.net/onepiecenetflix/status/2071926726519566689#m",
+      "date": "Tue, 30 Jun 2026 12:00:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMBKAFyW4AA6Epr.jpg"
+        "https://nitter.net/pic/media%2FHMAkJonWQAArhoU.jpg"
       ]
     },
     {
@@ -584,51 +536,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMCBeA_boAAL_QU.jpg"
-      ]
-    },
-    {
-      "id": "f91b7d1ff26300603b94297c3fa53a59a00eca5a0cac86082e2659a31d6db03b",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
-      "text": "【商品情報公開】 『ONE PIECE』より 「フィギュアーツZERO [STARTune]モンキー・D・ルフィ-新世界への船出-」が商品化決定！ 📌tamashiiweb.com/item/15908/ 新世界への船出シーンをイメージし立体化！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #ONEPIECE #フィギュアーツZERO #STARTune",
-      "url": "https://nitter.net/t_features/status/2071776002720842027#m",
-      "date": "Tue, 30 Jun 2026 02:01:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMBVYc3bgAAm2Xm.jpg"
-      ]
-    },
-    {
-      "id": "0f6f21e238c0b43eecb21e50f5a56856f88edde3e9433ffc2ac127370af2caf8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
-      "text": "【キャラクター】ティアラ（CV：河瀬茉希） 主人公カイの幼なじみ。熱心な読書家で、15歳ながら多彩な知識を身につけている。 ともに暮らす祖父は元軍師で、孫のティアラにも類まれなる”軍略の才”が受け継がれている。 ●好きなもの：書庫、恋の話題、おじいさま、盤上遊戯 #FE万紫千紅",
-      "url": "https://nitter.net/FireEmblemJP/status/2071790896136519758#m",
-      "date": "Tue, 30 Jun 2026 03:00:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_NInhbsAAmPIM.jpg"
-      ]
-    },
-    {
-      "id": "9f53761ad293e84f33c4cb0aa5aa10234b010ca5bc0751326bcf44837a77096e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
-      "text": "【商品情報公開】 TVアニメ『ONE PIECE』より 「S.H.Figuarts ニコ・ロビン -エニエス・ロビー-」の詳細公開！ 📌tamashiiweb.com/item/15906/ エニエス・ロビー編の衣装の「ニコ・ロビン」が新規造形で登場！ 一般店頭にて2026年7月1日予約開始、12月発売予定！ #t_shf #ワンピース #ONEPIECE",
-      "url": "https://nitter.net/t_features/status/2071730477522919898#m",
-      "date": "Mon, 29 Jun 2026 23:00:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL_xmw4a8AAteRk.jpg"
       ]
     },
     {
@@ -671,6 +578,81 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
+      ]
+    },
+    {
+      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
+      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
+      ]
+    },
+    {
+      "id": "0a3e746a6fff4e294d448e6f639da213d5836be092eeeaf6d9c852a79af19e72",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2070728769514463516#m",
+      "date": "Sat, 27 Jun 2026 04:39:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLy01yqXsAELNIj.jpg"
+      ]
+    },
+    {
+      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク #berserk385",
+      "text": "#BERSERK #ベルセルク #berserk385",
+      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
+      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
+      ]
+    },
+    {
+      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
+      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
+      ]
     }
   ]
 }
