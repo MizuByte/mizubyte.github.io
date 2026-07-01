@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T02:53:10.640Z",
+  "generatedAt": "2026-07-01T07:07:28.608Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -123,59 +123,18 @@
       ]
     },
     {
-      "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "I'll Post HQ Soonish",
-      "text": "I'll Post HQ Soonish",
-      "url": "https://nitter.net/PacemanOP/status/2070180899933876637#m",
-      "date": "Thu, 25 Jun 2026 16:22:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "83586246de368ccd54d3999cef5db3256461a293968e558465a437b2fca4420a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "text": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "url": "https://nitter.net/AniKing/status/2069162876607009227#m",
-      "date": "Mon, 22 Jun 2026 20:57:27 GMT",
+      "id": "abec94525f4fd6ebc16cebc5e5c88edd2189e2331de04df37706f52bf6de40e8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "10 days to #berserk386",
+      "text": "10 days to #berserk386",
+      "url": "https://nitter.net/daily_berserk/status/2072199730071732298#m",
+      "date": "Wed, 01 Jul 2026 06:04:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
-      ]
-    },
-    {
-      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
-      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
-      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
+        "https://nitter.net/pic/media%2FHMHuq-nWgAABDpc.jpg"
       ]
     },
     {
@@ -254,19 +213,59 @@
       ]
     },
     {
-      "id": "f64ccbf637f9ec5e4f99db9d9be7080a5f4fca9dcda5086f60aff9c342cb42d4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2070035490711994729#m",
-      "date": "Thu, 25 Jun 2026 06:44:55 GMT",
+      "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "I'll Post HQ Soonish",
+      "text": "I'll Post HQ Soonish",
+      "url": "https://nitter.net/PacemanOP/status/2070180899933876637#m",
+      "date": "Thu, 25 Jun 2026 16:22:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "83586246de368ccd54d3999cef5db3256461a293968e558465a437b2fca4420a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
+      "text": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
+      "url": "https://nitter.net/AniKing/status/2069162876607009227#m",
+      "date": "Mon, 22 Jun 2026 20:57:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHLo-Ts9WUAAGolC.jpg",
-        "https://nitter.net/pic/media%2FHLo-Ts6WoAAn7Pc.jpg"
+        "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
+      ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
       ]
     }
   ],
@@ -390,59 +389,18 @@
       ]
     },
     {
-      "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "I'll Post HQ Soonish",
-      "text": "I'll Post HQ Soonish",
-      "url": "https://nitter.net/PacemanOP/status/2070180899933876637#m",
-      "date": "Thu, 25 Jun 2026 16:22:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "83586246de368ccd54d3999cef5db3256461a293968e558465a437b2fca4420a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "text": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
-      "url": "https://nitter.net/AniKing/status/2069162876607009227#m",
-      "date": "Mon, 22 Jun 2026 20:57:27 GMT",
+      "id": "abec94525f4fd6ebc16cebc5e5c88edd2189e2331de04df37706f52bf6de40e8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "10 days to #berserk386",
+      "text": "10 days to #berserk386",
+      "url": "https://nitter.net/daily_berserk/status/2072199730071732298#m",
+      "date": "Wed, 01 Jul 2026 06:04:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
-      ]
-    },
-    {
-      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
-      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
-      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
-      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
+        "https://nitter.net/pic/media%2FHMHuq-nWgAABDpc.jpg"
       ]
     },
     {
@@ -521,19 +479,59 @@
       ]
     },
     {
-      "id": "f64ccbf637f9ec5e4f99db9d9be7080a5f4fca9dcda5086f60aff9c342cb42d4",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2070035490711994729#m",
-      "date": "Thu, 25 Jun 2026 06:44:55 GMT",
+      "id": "da9404151a7f1916c92aae349652e2307b0dfc5a57ce9a5ab22a748d3ed46843",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "I'll Post HQ Soonish",
+      "text": "I'll Post HQ Soonish",
+      "url": "https://nitter.net/PacemanOP/status/2070180899933876637#m",
+      "date": "Thu, 25 Jun 2026 16:22:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "83586246de368ccd54d3999cef5db3256461a293968e558465a437b2fca4420a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
+      "text": "🚨 THE ONE PIECE – New Key Visual for Episode 1 is going to be revealed. A teaser trailer is set to premiere tomorrow at the Annecy Festival 2026 #ONEPIECE",
+      "url": "https://nitter.net/AniKing/status/2069162876607009227#m",
+      "date": "Mon, 22 Jun 2026 20:57:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHLo-Ts9WUAAGolC.jpg",
-        "https://nitter.net/pic/media%2FHLo-Ts6WoAAn7Pc.jpg"
+        "https://nitter.net/pic/media%2FHLcklfsWAAAildx.jpg"
+      ]
+    },
+    {
+      "id": "3a0e224fb10a8d420353737936f56d78662b26d3e3cab7909de208ce8bd75542",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "text": "BLACK CLOVER ANIME RESUMES HUNTER × HUNTER MANGA RETURNS BLEACH ANIME & MANGA RETURNING WE ARE SO BACK! 🔥🔥🔥",
+      "url": "https://nitter.net/PacemanOP/status/2068409939023061018#m",
+      "date": "Sat, 20 Jun 2026 19:05:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "1014023abb3772f7ee16cd073948791e9634e1fce4658756b38a0034eea0faf2",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "text": "The Bleach \"Hell Arc\" manga is reportedly set to begin serialization in Weekly Shonen Jump after Sakamoto Days ends. An official announcement is expected within the next few weeks. #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2068391563957522654#m",
+      "date": "Sat, 20 Jun 2026 17:52:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRnKVrbEAAcZrL.jpg"
       ]
     }
   ]
