@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:32:19.516Z",
+  "generatedAt": "2026-07-01T16:11:18.584Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -209,21 +209,6 @@
       ]
     },
     {
-      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
-      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
-      ]
-    },
-    {
       "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -266,6 +251,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
+      ]
+    },
+    {
+      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
+      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
       ]
     }
   ],
@@ -475,21 +475,6 @@
       ]
     },
     {
-      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
-      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
-      ]
-    },
-    {
       "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -532,6 +517,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
+      ]
+    },
+    {
+      "id": "f4644f4830f11323503bef099b6265df2a22abaab9f98950ec4f5b4f610fcf45",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "text": "#berserk385 🚨🚨The cahpter 385 of Berserk is out!!!🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2070144432716779989#m",
+      "date": "Thu, 25 Jun 2026 13:57:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLqhYbUWwAA9tlP.jpg"
       ]
     }
   ]
