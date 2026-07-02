@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T23:07:58.323Z",
+  "generatedAt": "2026-07-02T01:28:08.019Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -121,19 +121,6 @@
       ]
     },
     {
-      "id": "b12eca50a64de2385e5436a2c3b15542691b6eeb3d75f8912a2ef1e4b1d2d9ed",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "If they ever gets that feat, they offical reach Yonkou lvl...",
-      "text": "If they ever gets that feat, they offical reach Yonkou lvl...",
-      "url": "https://nitter.net/WorstGenHQ/status/2072396733204611163#m",
-      "date": "Wed, 01 Jul 2026 19:07:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "191839af1ad76b5be774f72b770e50d209d244dd560798d5315b3dbef13ad897",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -147,6 +134,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMKhZ0tXwAAV0K0.jpg"
       ]
+    },
+    {
+      "id": "b12eca50a64de2385e5436a2c3b15542691b6eeb3d75f8912a2ef1e4b1d2d9ed",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "If they ever gets that feat, they offical reach Yonkou lvl...",
+      "text": "If they ever gets that feat, they offical reach Yonkou lvl...",
+      "url": "https://nitter.net/WorstGenHQ/status/2072396733204611163#m",
+      "date": "Wed, 01 Jul 2026 19:07:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f9271efdc4d1d045cdd3e0a071148a75e2c77b8d800bdc1bac5ceaa2707213d0",
@@ -293,6 +293,21 @@
       ]
     },
     {
+      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
+      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
+      ]
+    },
+    {
       "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -320,21 +335,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLy01yqXsAELNIj.jpg"
-      ]
-    },
-    {
-      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク #berserk385",
-      "text": "#BERSERK #ベルセルク #berserk385",
-      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
-      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
       ]
     }
   ],
@@ -456,19 +456,6 @@
       ]
     },
     {
-      "id": "b12eca50a64de2385e5436a2c3b15542691b6eeb3d75f8912a2ef1e4b1d2d9ed",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "If they ever gets that feat, they offical reach Yonkou lvl...",
-      "text": "If they ever gets that feat, they offical reach Yonkou lvl...",
-      "url": "https://nitter.net/WorstGenHQ/status/2072396733204611163#m",
-      "date": "Wed, 01 Jul 2026 19:07:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "191839af1ad76b5be774f72b770e50d209d244dd560798d5315b3dbef13ad897",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -482,6 +469,19 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMKhZ0tXwAAV0K0.jpg"
       ]
+    },
+    {
+      "id": "b12eca50a64de2385e5436a2c3b15542691b6eeb3d75f8912a2ef1e4b1d2d9ed",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "If they ever gets that feat, they offical reach Yonkou lvl...",
+      "text": "If they ever gets that feat, they offical reach Yonkou lvl...",
+      "url": "https://nitter.net/WorstGenHQ/status/2072396733204611163#m",
+      "date": "Wed, 01 Jul 2026 19:07:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "f9271efdc4d1d045cdd3e0a071148a75e2c77b8d800bdc1bac5ceaa2707213d0",
@@ -628,6 +628,21 @@
       ]
     },
     {
+      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
+      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
+      ]
+    },
+    {
       "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -655,21 +670,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLy01yqXsAELNIj.jpg"
-      ]
-    },
-    {
-      "id": "2795ca2a3f173571437af129829a6eb14edd50ea93d70476e88d9e9daf3e9fea",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク #berserk385",
-      "text": "#BERSERK #ベルセルク #berserk385",
-      "url": "https://nitter.net/daily_berserk/status/2070439563454034058#m",
-      "date": "Fri, 26 Jun 2026 09:30:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLutzwGWIAACHVP.jpg"
       ]
     }
   ]
