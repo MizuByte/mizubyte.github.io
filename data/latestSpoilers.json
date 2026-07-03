@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T17:05:03.302Z",
+  "generatedAt": "2026-07-03T18:42:10.245Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,6 +18,93 @@
   ],
   "misc": [
     {
+      "id": "706cd35c459419b17a26bd593e88d4f4434d6c35e2a19c45d0a7d1ddd5740e6e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Egypt great goool... Game already started pretty good.",
+      "text": "Egypt great goool... Game already started pretty good.",
+      "url": "https://nitter.net/WorstGenHQ/status/2073108367174767079#m",
+      "date": "Fri, 03 Jul 2026 18:15:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8d484ec10571652715069a1ed81d1eeb6cd7961efe5a966631d8d92bc20d322a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1187] Oda paying homage to Dragon Ball Z with this part!!! Imu Dark Flames being sentient & actually talking with each other on the direction they should attack. It’s just like Gotenks with ",
+      "text": "[#ONEPIECE1187] Oda paying homage to Dragon Ball Z with this part!!! Imu Dark Flames being sentient & actually talking with each other on the direction they should attack. It’s just like Gotenks with super kamikaze ghosts, when fighting Majin Buu. Video",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2073105282796806476#m",
+      "date": "Fri, 03 Jul 2026 18:03:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMUmL_cW8AA1Env.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2073105190937346048%2Fimg%2FDkHhDGpBt_WMf9tx.jpg"
+      ]
+    },
+    {
+      "id": "1d2f16e74038d79a9237602d23b8ab4b2de99e54d8b88506fb62c6e30d5a1468",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecin",
+      "text": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımımıza katılacaktır. Kamuoyunun bilgisine sunarız.",
+      "url": "https://nitter.net/Fenerbahce/status/2073054081220768241#m",
+      "date": "Fri, 03 Jul 2026 14:39:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMT3H9MXIAAuiL3.jpg"
+      ]
+    },
+    {
+      "id": "e822f635bb80a7795ba32119aea18d5b98de6f105b841575dc337ce9b9549676",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
+      "text": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
+      "url": "https://nitter.net/MilanNewsit/status/2073030414554239200#m",
+      "date": "Fri, 03 Jul 2026 13:05:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMTiLA5W4AA1-E4.jpg"
+      ]
+    },
+    {
+      "id": "4ef79e5a07c9c3242047185b0bbe17cc90e97d410576fab2a3f7043f38bd7243",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, g",
+      "text": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, gave up my seat on the train. Paid for my coworkers lunch Oda changed me man 😭",
+      "url": "https://nitter.net/ZillerCritic/status/2072811215462752270#m",
+      "date": "Thu, 02 Jul 2026 22:34:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "81bb0505192dbaca1a6365cd15a095fa35c70abd34ad804aeec5e872e764f255",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187",
+      "text": "#ONEPIECE1187",
+      "url": "https://nitter.net/Toadgashi/status/2073026328572420310#m",
+      "date": "Fri, 03 Jul 2026 12:49:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMTeddQWAAAC6s8.jpg"
+      ]
+    },
+    {
       "id": "518d0b77cbe237cd460a5c4fa4f8727a98aa7d0660a55944aa4f07ca3124fb3e",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -166,18 +253,18 @@
       ]
     },
     {
-      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
+      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
-      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
+      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
+        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
       ]
     }
   ],
@@ -196,6 +283,93 @@
       "attachments": []
     },
     {
+      "id": "706cd35c459419b17a26bd593e88d4f4434d6c35e2a19c45d0a7d1ddd5740e6e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Egypt great goool... Game already started pretty good.",
+      "text": "Egypt great goool... Game already started pretty good.",
+      "url": "https://nitter.net/WorstGenHQ/status/2073108367174767079#m",
+      "date": "Fri, 03 Jul 2026 18:15:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8d484ec10571652715069a1ed81d1eeb6cd7961efe5a966631d8d92bc20d322a",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1187] Oda paying homage to Dragon Ball Z with this part!!! Imu Dark Flames being sentient & actually talking with each other on the direction they should attack. It’s just like Gotenks with ",
+      "text": "[#ONEPIECE1187] Oda paying homage to Dragon Ball Z with this part!!! Imu Dark Flames being sentient & actually talking with each other on the direction they should attack. It’s just like Gotenks with super kamikaze ghosts, when fighting Majin Buu. Video",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2073105282796806476#m",
+      "date": "Fri, 03 Jul 2026 18:03:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMUmL_cW8AA1Env.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2073105190937346048%2Fimg%2FDkHhDGpBt_WMf9tx.jpg"
+      ]
+    },
+    {
+      "id": "1d2f16e74038d79a9237602d23b8ab4b2de99e54d8b88506fb62c6e30d5a1468",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecin",
+      "text": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımımıza katılacaktır. Kamuoyunun bilgisine sunarız.",
+      "url": "https://nitter.net/Fenerbahce/status/2073054081220768241#m",
+      "date": "Fri, 03 Jul 2026 14:39:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMT3H9MXIAAuiL3.jpg"
+      ]
+    },
+    {
+      "id": "e822f635bb80a7795ba32119aea18d5b98de6f105b841575dc337ce9b9549676",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
+      "text": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
+      "url": "https://nitter.net/MilanNewsit/status/2073030414554239200#m",
+      "date": "Fri, 03 Jul 2026 13:05:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMTiLA5W4AA1-E4.jpg"
+      ]
+    },
+    {
+      "id": "4ef79e5a07c9c3242047185b0bbe17cc90e97d410576fab2a3f7043f38bd7243",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, g",
+      "text": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, gave up my seat on the train. Paid for my coworkers lunch Oda changed me man 😭",
+      "url": "https://nitter.net/ZillerCritic/status/2072811215462752270#m",
+      "date": "Thu, 02 Jul 2026 22:34:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "81bb0505192dbaca1a6365cd15a095fa35c70abd34ad804aeec5e872e764f255",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187",
+      "text": "#ONEPIECE1187",
+      "url": "https://nitter.net/Toadgashi/status/2073026328572420310#m",
+      "date": "Fri, 03 Jul 2026 12:49:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMTeddQWAAAC6s8.jpg"
+      ]
+    },
+    {
       "id": "518d0b77cbe237cd460a5c4fa4f8727a98aa7d0660a55944aa4f07ca3124fb3e",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -344,18 +518,18 @@
       ]
     },
     {
-      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
+      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
-      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
+      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
+        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
       ]
     }
   ]
