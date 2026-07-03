@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T18:42:10.245Z",
+  "generatedAt": "2026-07-03T20:03:51.125Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -17,6 +17,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "ae02136458bcf940067aee181ea13bc149cc11c171ad4234819c7ccdb6da7393",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 Crazy how Loki survived this. Any other character would be dead after that attack.. Imu powers really gives me the vibe how Big Mom use his soul power... Imu clearly can use soul manipul",
+      "text": "#ONEPIECE1187 Crazy how Loki survived this. Any other character would be dead after that attack.. Imu powers really gives me the vibe how Big Mom use his soul power... Imu clearly can use soul manipulation...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073135403356315795#m",
+      "date": "Fri, 03 Jul 2026 20:02:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMUldJ0WMAA5ug0.png"
+      ]
+    },
     {
       "id": "706cd35c459419b17a26bd593e88d4f4434d6c35e2a19c45d0a7d1ddd5740e6e",
       "anime": "onepiece",
@@ -88,21 +103,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "81bb0505192dbaca1a6365cd15a095fa35c70abd34ad804aeec5e872e764f255",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187",
-      "text": "#ONEPIECE1187",
-      "url": "https://nitter.net/Toadgashi/status/2073026328572420310#m",
-      "date": "Fri, 03 Jul 2026 12:49:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMTeddQWAAAC6s8.jpg"
-      ]
     },
     {
       "id": "518d0b77cbe237cd460a5c4fa4f8727a98aa7d0660a55944aa4f07ca3124fb3e",
@@ -283,6 +283,21 @@
       "attachments": []
     },
     {
+      "id": "ae02136458bcf940067aee181ea13bc149cc11c171ad4234819c7ccdb6da7393",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 Crazy how Loki survived this. Any other character would be dead after that attack.. Imu powers really gives me the vibe how Big Mom use his soul power... Imu clearly can use soul manipul",
+      "text": "#ONEPIECE1187 Crazy how Loki survived this. Any other character would be dead after that attack.. Imu powers really gives me the vibe how Big Mom use his soul power... Imu clearly can use soul manipulation...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073135403356315795#m",
+      "date": "Fri, 03 Jul 2026 20:02:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMUldJ0WMAA5ug0.png"
+      ]
+    },
+    {
       "id": "706cd35c459419b17a26bd593e88d4f4434d6c35e2a19c45d0a7d1ddd5740e6e",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -353,21 +368,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "81bb0505192dbaca1a6365cd15a095fa35c70abd34ad804aeec5e872e764f255",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1187",
-      "text": "#ONEPIECE1187",
-      "url": "https://nitter.net/Toadgashi/status/2073026328572420310#m",
-      "date": "Fri, 03 Jul 2026 12:49:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMTeddQWAAAC6s8.jpg"
-      ]
     },
     {
       "id": "518d0b77cbe237cd460a5c4fa4f8727a98aa7d0660a55944aa4f07ca3124fb3e",
