@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T20:03:51.125Z",
+  "generatedAt": "2026-07-03T21:35:43.834Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -253,18 +253,18 @@
       ]
     },
     {
-      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
+      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
-      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
+      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
+        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
       ]
     }
   ],
@@ -518,18 +518,18 @@
       ]
     },
     {
-      "id": "4345f4e2e953e802a982e226c5c4e7e2bd6e7c34f7053ded66365f455b69fadc",
+      "id": "47ea18c122714b3d2a7ca2a7c5586c5424651f174ba256d4480e6573f8b36b30",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2071496561360597000#m",
-      "date": "Mon, 29 Jun 2026 07:30:41 GMT",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2071831723403334090#m",
+      "date": "Tue, 30 Jun 2026 05:42:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHL9vJK7WoAAc-aN.jpg"
+        "https://nitter.net/pic/media%2FHMCf9_1WYAAreh0.jpg"
       ]
     }
   ]
