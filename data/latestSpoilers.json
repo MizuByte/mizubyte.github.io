@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T23:43:56.448Z",
+  "generatedAt": "2026-07-04T01:17:59.277Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -108,6 +108,47 @@
       ]
     },
     {
+      "id": "ca45b30453d5a7dc76a70a4840821bb5d09b24a869dd98f40ff3b9ee566099e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "\"Dad tell me about Cape Verde in the world cup 2026\"...",
+      "text": "\"Dad tell me about Cape Verde in the world cup 2026\"...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073209477814194327#m",
+      "date": "Sat, 04 Jul 2026 00:57:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5d42f39b1f3ce3e34f83a8c6071475c994ecd3e445b57d23fa0bdf6f5668a5fe",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Cab Verde, mad respect.. That was like Usopp fighting Kaido to a extrem high diff...",
+      "text": "Cab Verde, mad respect.. That was like Usopp fighting Kaido to a extrem high diff...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073207547670983134#m",
+      "date": "Sat, 04 Jul 2026 00:49:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c6fa7a6813e19c1960739d77bad4ad472c243001a312e992f4fff834176ec6d6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "SOLO LEVELING MOVIE OFFICIALLY ANNOUNCED",
+      "text": "SOLO LEVELING MOVIE OFFICIALLY ANNOUNCED",
+      "url": "https://nitter.net/gigiconlaG/status/2073171215695433996#m",
+      "date": "Fri, 03 Jul 2026 22:25:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMViOxcXQAA95mm.jpg"
+      ]
+    },
+    {
       "id": "ae02136458bcf940067aee181ea13bc149cc11c171ad4234819c7ccdb6da7393",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -150,49 +191,6 @@
         "https://nitter.net/pic/media%2FHMUmL_cW8AA1Env.jpg",
         "https://nitter.net/pic/amplify_video_thumb%2F2073105190937346048%2Fimg%2FDkHhDGpBt_WMf9tx.jpg"
       ]
-    },
-    {
-      "id": "1d2f16e74038d79a9237602d23b8ab4b2de99e54d8b88506fb62c6e30d5a1468",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecin",
-      "text": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımımıza katılacaktır. Kamuoyunun bilgisine sunarız.",
-      "url": "https://nitter.net/Fenerbahce/status/2073054081220768241#m",
-      "date": "Fri, 03 Jul 2026 14:39:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMT3H9MXIAAuiL3.jpg"
-      ]
-    },
-    {
-      "id": "e822f635bb80a7795ba32119aea18d5b98de6f105b841575dc337ce9b9549676",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
-      "text": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
-      "url": "https://nitter.net/MilanNewsit/status/2073030414554239200#m",
-      "date": "Fri, 03 Jul 2026 13:05:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMTiLA5W4AA1-E4.jpg"
-      ]
-    },
-    {
-      "id": "4ef79e5a07c9c3242047185b0bbe17cc90e97d410576fab2a3f7043f38bd7243",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, g",
-      "text": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, gave up my seat on the train. Paid for my coworkers lunch Oda changed me man 😭",
-      "url": "https://nitter.net/ZillerCritic/status/2072811215462752270#m",
-      "date": "Thu, 02 Jul 2026 22:34:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "518d0b77cbe237cd460a5c4fa4f8727a98aa7d0660a55944aa4f07ca3124fb3e",
@@ -433,6 +431,47 @@
       ]
     },
     {
+      "id": "ca45b30453d5a7dc76a70a4840821bb5d09b24a869dd98f40ff3b9ee566099e1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "\"Dad tell me about Cape Verde in the world cup 2026\"...",
+      "text": "\"Dad tell me about Cape Verde in the world cup 2026\"...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073209477814194327#m",
+      "date": "Sat, 04 Jul 2026 00:57:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5d42f39b1f3ce3e34f83a8c6071475c994ecd3e445b57d23fa0bdf6f5668a5fe",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Cab Verde, mad respect.. That was like Usopp fighting Kaido to a extrem high diff...",
+      "text": "Cab Verde, mad respect.. That was like Usopp fighting Kaido to a extrem high diff...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073207547670983134#m",
+      "date": "Sat, 04 Jul 2026 00:49:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c6fa7a6813e19c1960739d77bad4ad472c243001a312e992f4fff834176ec6d6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "SOLO LEVELING MOVIE OFFICIALLY ANNOUNCED",
+      "text": "SOLO LEVELING MOVIE OFFICIALLY ANNOUNCED",
+      "url": "https://nitter.net/gigiconlaG/status/2073171215695433996#m",
+      "date": "Fri, 03 Jul 2026 22:25:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMViOxcXQAA95mm.jpg"
+      ]
+    },
+    {
       "id": "ae02136458bcf940067aee181ea13bc149cc11c171ad4234819c7ccdb6da7393",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -475,49 +514,6 @@
         "https://nitter.net/pic/media%2FHMUmL_cW8AA1Env.jpg",
         "https://nitter.net/pic/amplify_video_thumb%2F2073105190937346048%2Fimg%2FDkHhDGpBt_WMf9tx.jpg"
       ]
-    },
-    {
-      "id": "1d2f16e74038d79a9237602d23b8ab4b2de99e54d8b88506fb62c6e30d5a1468",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecin",
-      "text": "Transfer Bilgilendirmesi Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımımıza katılacaktır. Kamuoyunun bilgisine sunarız.",
-      "url": "https://nitter.net/Fenerbahce/status/2073054081220768241#m",
-      "date": "Fri, 03 Jul 2026 14:39:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMT3H9MXIAAuiL3.jpg"
-      ]
-    },
-    {
-      "id": "e822f635bb80a7795ba32119aea18d5b98de6f105b841575dc337ce9b9549676",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
-      "text": "🔴⚫️ Il nuovo numero 9️⃣ del #Milan: Gonçalo #Ramos",
-      "url": "https://nitter.net/MilanNewsit/status/2073030414554239200#m",
-      "date": "Fri, 03 Jul 2026 13:05:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMTiLA5W4AA1-E4.jpg"
-      ]
-    },
-    {
-      "id": "4ef79e5a07c9c3242047185b0bbe17cc90e97d410576fab2a3f7043f38bd7243",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, g",
-      "text": "Sanji getting CoC literally changed my life. Woke up this morning, greeted my neighbors, waved and smiled at random pedestrians, gave the homeless man 5$ dollars, helped an old lady carry groceries, gave up my seat on the train. Paid for my coworkers lunch Oda changed me man 😭",
-      "url": "https://nitter.net/ZillerCritic/status/2072811215462752270#m",
-      "date": "Thu, 02 Jul 2026 22:34:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "518d0b77cbe237cd460a5c4fa4f8727a98aa7d0660a55944aa4f07ca3124fb3e",
