@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:54:21.292Z",
+  "generatedAt": "2026-07-04T22:53:44.306Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -91,6 +91,21 @@
       "attachments": []
     },
     {
+      "id": "578c2b22b61298174a4e291c4ad4dcc74cc5e6c56ba51c771211860adce7268a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "text": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "url": "https://nitter.net/daily_berserk/status/2073528436971192397#m",
+      "date": "Sat, 04 Jul 2026 22:04:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHManH7FWcAE_E5o.jpg"
+      ]
+    },
+    {
       "id": "e17c120d86479056ccafa081b0be8bb3e1a23b7765bdccd0469b4aaa4c8c930f",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -163,21 +178,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMNaBp4XMAAP4jX.jpg"
-      ]
-    },
-    {
-      "id": "abec94525f4fd6ebc16cebc5e5c88edd2189e2331de04df37706f52bf6de40e8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "10 days to #berserk386",
-      "text": "10 days to #berserk386",
-      "url": "https://nitter.net/daily_berserk/status/2072199730071732298#m",
-      "date": "Wed, 01 Jul 2026 06:04:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMHuq-nWgAABDpc.jpg"
       ]
     }
   ],
@@ -269,6 +269,21 @@
       "attachments": []
     },
     {
+      "id": "578c2b22b61298174a4e291c4ad4dcc74cc5e6c56ba51c771211860adce7268a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "text": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "url": "https://nitter.net/daily_berserk/status/2073528436971192397#m",
+      "date": "Sat, 04 Jul 2026 22:04:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHManH7FWcAE_E5o.jpg"
+      ]
+    },
+    {
       "id": "e17c120d86479056ccafa081b0be8bb3e1a23b7765bdccd0469b4aaa4c8c930f",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -341,21 +356,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMNaBp4XMAAP4jX.jpg"
-      ]
-    },
-    {
-      "id": "abec94525f4fd6ebc16cebc5e5c88edd2189e2331de04df37706f52bf6de40e8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "10 days to #berserk386",
-      "text": "10 days to #berserk386",
-      "url": "https://nitter.net/daily_berserk/status/2072199730071732298#m",
-      "date": "Wed, 01 Jul 2026 06:04:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMHuq-nWgAABDpc.jpg"
       ]
     }
   ]
