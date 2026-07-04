@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-07-04T17:46:23.029Z",
+  "generatedAt": "2026-07-04T18:44:03.173Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "b1099ac1f8473f6f1704ef718c74eaf78118d711ee6ad949b290703490aa4185",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Y'all wondering why the Leak Room server link wasn't working? The previous server was taken down, so we had to start fresh. Spoiler Central launches tonight! See you all there! Will. Upload the full B",
+      "text": "Y'all wondering why the Leak Room server link wasn't working? The previous server was taken down, so we had to start fresh. Spoiler Central launches tonight! See you all there! Will. Upload the full Black Clover Stage here #BCSpoilers discord.gg/Zy4djeEyZk Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 15 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2073475028579233930#m",
+      "date": "Sat, 04 Jul 2026 18:32:24 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "8b48f0c907b9b46db6dd00a7a2892b5dbb7a7cbd917b46b543304ffe0fbb8e49",
       "anime": "blackclover",
@@ -73,21 +86,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMMRggFbQAA7xdh.jpg"
-      ]
-    },
-    {
-      "id": "24c4aaba68170f12f914503026f7757ed6123d058bbb90e2d9a020d19058b065",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Record of Ragnarok Volume 28 cover #shuumatsunovalkyrie #recordofragnarok #終末のワルキューレ",
-      "text": "Record of Ragnarok Volume 28 cover #shuumatsunovalkyrie #recordofragnarok #終末のワルキューレ",
-      "url": "https://nitter.net/SnV_Nakimov/status/2072232214155198937#m",
-      "date": "Wed, 01 Jul 2026 08:13:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMIMN9QWYAAdDHY.jpg"
       ]
     },
     {
@@ -183,6 +181,19 @@
   ],
   "items": [
     {
+      "id": "b1099ac1f8473f6f1704ef718c74eaf78118d711ee6ad949b290703490aa4185",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Y'all wondering why the Leak Room server link wasn't working? The previous server was taken down, so we had to start fresh. Spoiler Central launches tonight! See you all there! Will. Upload the full B",
+      "text": "Y'all wondering why the Leak Room server link wasn't working? The previous server was taken down, so we had to start fresh. Spoiler Central launches tonight! See you all there! Will. Upload the full Black Clover Stage here #BCSpoilers discord.gg/Zy4djeEyZk Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 15 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2073475028579233930#m",
+      "date": "Sat, 04 Jul 2026 18:32:24 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "8b48f0c907b9b46db6dd00a7a2892b5dbb7a7cbd917b46b543304ffe0fbb8e49",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -251,21 +262,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMMRggFbQAA7xdh.jpg"
-      ]
-    },
-    {
-      "id": "24c4aaba68170f12f914503026f7757ed6123d058bbb90e2d9a020d19058b065",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Record of Ragnarok Volume 28 cover #shuumatsunovalkyrie #recordofragnarok #終末のワルキューレ",
-      "text": "Record of Ragnarok Volume 28 cover #shuumatsunovalkyrie #recordofragnarok #終末のワルキューレ",
-      "url": "https://nitter.net/SnV_Nakimov/status/2072232214155198937#m",
-      "date": "Wed, 01 Jul 2026 08:13:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMIMN9QWYAAdDHY.jpg"
       ]
     },
     {
