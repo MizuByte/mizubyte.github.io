@@ -1,8 +1,93 @@
 {
-  "generatedAt": "2026-07-05T06:27:30.761Z",
+  "generatedAt": "2026-07-05T09:32:09.931Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "a88807e4d1cd77dcaf853313690def3b18a25290067d742529ad84f15c044cdb",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "More ep Clips are up Join to watch #BlackClover Pace (@PacemanOP) discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central",
+      "text": "More ep Clips are up Join to watch #BlackClover Pace (@PacemanOP) discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy free voice and text chat. discord.com — https://nitter.net/PacemanOP/status/2073520349258698898#m",
+      "url": "https://nitter.net/PacemanOP/status/2073665708760723485#m",
+      "date": "Sun, 05 Jul 2026 07:10:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9503bfb8898768ccc977c2fb215523cf1f408854a0b7e5bba39aa22ba7417dca",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
+      "text": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2073525580528767415#m",
+      "date": "Sat, 04 Jul 2026 21:53:17 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMakhSYbMAAicqF.jpg"
+      ]
+    },
+    {
+      "id": "878224bd4c8883d5e3a7a3b144e3958899180c33121d2f38aa531771e29d787f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy ",
+      "text": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2073520349258698898#m",
+      "date": "Sat, 04 Jul 2026 21:32:30 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
+      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
+      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
+      ]
+    }
+  ],
   "misc": [
+    {
+      "id": "62378a1275beed65fa7bcdb8625b85c626cce8ab815d18c906f437879194c000",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 Can we talk about how crazy Luffy punches are? Two arcs ago he was fighting Kaido on par, now he send a monster like Imu with a punch so far.. Current Luffy is already far stronger than ",
+      "text": "#ONEPIECE1187 Can we talk about how crazy Luffy punches are? Two arcs ago he was fighting Kaido on par, now he send a monster like Imu with a punch so far.. Current Luffy is already far stronger than his wano version, everyone who think he lose to Kaido/Big Mom is coping...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073698714347081916#m",
+      "date": "Sun, 05 Jul 2026 09:21:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMdB49nXIAAiFUB.png"
+      ]
+    },
+    {
+      "id": "03e7d3926b14b50447132299f3457b1adba3618df3bd8e69ecfee688e8ccb8c9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FEARLUFFY",
+      "text": "#FEARLUFFY",
+      "url": "https://nitter.net/WorstGenHQ/status/2073698810065264753#m",
+      "date": "Sun, 05 Jul 2026 09:21:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "c0cf7e843f0fb6925bfad682744c3f35cd2cf9c5225817693d564bc45bb98fc1",
       "anime": "onepiece",
@@ -56,34 +141,123 @@
       "attachments": []
     },
     {
-      "id": "ad31030e58e8058101f2b649fc7101d20f393d2e63bdc80ce39538e54f8ece2b",
+      "id": "3d0fe27343ece85283f40d4107b69bd976e6f626dcba485e160a2a8f4dcfe916",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imagine if Nintendo played this epic soundtrack in the 1st Zelda Switch 2 trailer! 👀 Video",
-      "text": "Imagine if Nintendo played this epic soundtrack in the 1st Zelda Switch 2 trailer! 👀 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2073460106876825716#m",
-      "date": "Sat, 04 Jul 2026 17:33:07 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ TVアニメ最終クール #BLEACH 千年血戦篇-禍進譚- ファイナルPV解禁 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 混沌の禍を進んだ先に待つのは 絶望か希望か—— ついにTVアニメ完結🔥 ✦7/25㊏23:00テレ東系列ほかにて放送 ✦7/26㊐12:00順次配信 #BLEACH_anime Video",
+      "text": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ TVアニメ最終クール #BLEACH 千年血戦篇-禍進譚- ファイナルPV解禁 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 混沌の禍を進んだ先に待つのは 絶望か希望か—— ついにTVアニメ完結🔥 ✦7/25㊏23:00テレ東系列ほかにて放送 ✦7/26㊐12:00順次配信 #BLEACH_anime Video",
+      "url": "https://nitter.net/BLEACHanimation/status/2073573324123254796#m",
+      "date": "Sun, 05 Jul 2026 01:03:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073459400803594240%2Fimg%2Fe1GbTn-2ZDr88D8j.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2073565603152220160%2Fimg%2F5nAPd3Y6q2uYLly9.jpg"
       ]
     },
     {
-      "id": "d9528ac5acf3ef2a18a67e1cb983e9cb6d1c2c3c459fc186bc30987ee7fc63f8",
+      "id": "a151e953f69115e520b362f85e7f7de39a63384863c540c892ff17a0649cfd59",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Ultimately, we see striking parallels, especially in how the awakening of Conqueror's Haki was set up for the \"Wings.\" Zoro and Sanji went through similar experiences to awaken their Conqueror's Haki;",
-      "text": "Ultimately, we see striking parallels, especially in how the awakening of Conqueror's Haki was set up for the \"Wings.\" Zoro and Sanji went through similar experiences to awaken their Conqueror's Haki; factors like trust, facing strong opponents, and internal conflict played out exactly the same way for both of them. Oda is clearly emphasizing once again just how similar Zoro and Sanji are and that they will remain eternal rivals, always facing opponents of comparable strength. This deliberately highlights the bond between Zoro and Sanji as the crew's \"Wings.\" Zoro got his power-up, \"King of Hell\"against King. Sanji will eventually get his power-up (Conqueror's Haki) to defeat Kilingham. I find the parallels in how Oda developed this for both of them fascinating.",
-      "url": "https://nitter.net/WorstGenHQ/status/2073352590591480230#m",
-      "date": "Sat, 04 Jul 2026 10:25:53 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "大切な記事の 内容チェック中👀 語ったことを文字で読むと いろいろとっ散らかってて…💦 しっかり赤入れねば✒️",
+      "text": "大切な記事の 内容チェック中👀 語ったことを文字で読むと いろいろとっ散らかってて…💦 しっかり赤入れねば✒️",
+      "url": "https://nitter.net/yabuki_side/status/2073572142634119334#m",
+      "date": "Sun, 05 Jul 2026 00:58:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMYDGYvXwAAb5Im.png",
-        "https://nitter.net/pic/media%2FHMYDHc3WkAA-ZoG.jpg"
+        "https://nitter.net/pic/media%2FHMbO3WjbYAAr2-Y.jpg"
+      ]
+    },
+    {
+      "id": "feab600e43b7fb8924505023d8d02813e4e90f211960eb8ec24c5eaffab79ac3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ONE PIECE lit up the sky with a one-of-a-kind drone show at the end of ONE PIECE Night with the Los Angeles Dodgers! 🏴‍☠️🌟💥 If you were there for the full show, tell us your favorite moment! #ONEPI",
+      "text": "ONE PIECE lit up the sky with a one-of-a-kind drone show at the end of ONE PIECE Night with the Los Angeles Dodgers! 🏴‍☠️🌟💥 If you were there for the full show, tell us your favorite moment! #ONEPIECE #Dodgers @dodgers Video",
+      "url": "https://nitter.net/ToeiAnimation/status/2073591905427005848#m",
+      "date": "Sun, 05 Jul 2026 02:16:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073591719145406464%2Fimg%2F_HmYRmJQirXDM-4P.jpg"
+      ]
+    },
+    {
+      "id": "7c1d459de5e06fdd59de7c612213144902e2b65ffa32d5a4ee65ea82fdcb6910",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "como de corta tienes que ser para considerar al xokas una persona culta☠️ Terreno Viral (@terrenoviral) Marta Díaz se declara la fan número 1 del Xokas. “Me pasó, por ejemplo, con Xokas en la grabació",
+      "text": "como de corta tienes que ser para considerar al xokas una persona culta☠️ Terreno Viral (@terrenoviral) Marta Díaz se declara la fan número 1 del Xokas. “Me pasó, por ejemplo, con Xokas en la grabación del spot publicitario, que yo le dije Xokas, me voy a comportar bien, pero que sepas que soy muy fan tuya y me encantaría hablar contigo toda la tarde. Pero me voy a comportar normal y corriente, voy a hacer como que no soy tu mega fan de la leche. Me encanta, tío, porque es una persona súper culta, que sabe de todo. A mí eso me encanta. O sea, imagínate una conversación, una cena con Xokas. Sabe de todo, yo estaría solamente comiendo.” Video — https://nitter.net/terrenoviral/status/2073159528099541498#m",
+      "url": "https://nitter.net/ireegleez/status/2073174413944529263#m",
+      "date": "Fri, 03 Jul 2026 22:37:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073159447233388544%2Fimg%2FMmufR6a7Us6j3DQt.jpg"
+      ]
+    },
+    {
+      "id": "bfb36fd41c421429f456aaf5980c42a56c5a6d272dde2f8b34ce7f077077fc97",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◇━━━━━━━━━━━━━━━◇ TVアニメ『#魔法騎士レイアース』 メインPV解禁 ◇━━━━━━━━━━━━━━━◇ 🔥放送開始日決定🔥 10月7日(水)より、毎週水曜夜11時45分～ テレビ朝日系全国ネット “Imanimation W”枠にて放送開始⚔️ ＊一部地域を除く #MagicKnightRayearth Video",
+      "text": "◇━━━━━━━━━━━━━━━◇ TVアニメ『#魔法騎士レイアース』 メインPV解禁 ◇━━━━━━━━━━━━━━━◇ 🔥放送開始日決定🔥 10月7日(水)より、毎週水曜夜11時45分～ テレビ朝日系全国ネット “Imanimation W”枠にて放送開始⚔️ ＊一部地域を除く #MagicKnightRayearth Video",
+      "url": "https://nitter.net/rayearth_info/status/2073504621088162140#m",
+      "date": "Sat, 04 Jul 2026 20:30:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073364964463763456%2Fimg%2FQhnJ2PK7-VQTOb9y.jpg"
+      ]
+    },
+    {
+      "id": "d551226c05a8b4e3720795338c6d2a04f5152d58934488e1678db4be263863d1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ #ダンジョン飯 第2期 2027年10月より放送決定 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 『ダンジョン飯 Season2』 ウルトラティザービジュアル解禁 ファリンを救うためのライオスたちの旅路は いよいよ物語の核心へ—— 🍄delicious-in-dungeon.com/",
+      "text": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ #ダンジョン飯 第2期 2027年10月より放送決定 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 『ダンジョン飯 Season2』 ウルトラティザービジュアル解禁 ファリンを救うためのライオスたちの旅路は いよいよ物語の核心へ—— 🍄delicious-in-dungeon.com/",
+      "url": "https://nitter.net/dun_meshi_anime/status/2073527270900129974#m",
+      "date": "Sat, 04 Jul 2026 22:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMZruftbkAAw7Jz.jpg"
+      ]
+    },
+    {
+      "id": "08ef902d3cc42feb6f618f17b367bfda0a984aae85824d931a8564b9a630535c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Aight! Lets talk about it The premiere genuinely felt like watching an episode that came out just a week after #170. Recaps were tastefully placed in the middle of dialogues and not used for padding. ",
+      "text": "Aight! Lets talk about it The premiere genuinely felt like watching an episode that came out just a week after #170. Recaps were tastefully placed in the middle of dialogues and not used for padding. Isaac Kis 🍀 (@kis_isaac) As soon as I get home I promise I'll write about my thoughts regarding the episode — https://nitter.net/kis_isaac/status/2073562044826288430#m",
+      "url": "https://nitter.net/kis_isaac/status/2073638924623515852#m",
+      "date": "Sun, 05 Jul 2026 05:23:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMbyjIra8AA32P4.jpg"
+      ]
+    },
+    {
+      "id": "806202f47ea0f26dca9e37699235f53833f97e782e25dbaf418e69c13f3ede7e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Episodes gonna be such a banger Potential AOTY Loading..... #BlackClover Video",
+      "text": "The Episodes gonna be such a banger Potential AOTY Loading..... #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2073642771919827020#m",
+      "date": "Sun, 05 Jul 2026 05:38:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073409519087173632%2Fimg%2F1HGVilFrn-gKN4u9.jpg"
       ]
     },
     {
@@ -179,6 +353,90 @@
   ],
   "items": [
     {
+      "id": "a88807e4d1cd77dcaf853313690def3b18a25290067d742529ad84f15c044cdb",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "More ep Clips are up Join to watch #BlackClover Pace (@PacemanOP) discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central",
+      "text": "More ep Clips are up Join to watch #BlackClover Pace (@PacemanOP) discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy free voice and text chat. discord.com — https://nitter.net/PacemanOP/status/2073520349258698898#m",
+      "url": "https://nitter.net/PacemanOP/status/2073665708760723485#m",
+      "date": "Sun, 05 Jul 2026 07:10:06 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "9503bfb8898768ccc977c2fb215523cf1f408854a0b7e5bba39aa22ba7417dca",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
+      "text": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2073525580528767415#m",
+      "date": "Sat, 04 Jul 2026 21:53:17 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMakhSYbMAAicqF.jpg"
+      ]
+    },
+    {
+      "id": "878224bd4c8883d5e3a7a3b144e3958899180c33121d2f38aa531771e29d787f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy ",
+      "text": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2073520349258698898#m",
+      "date": "Sat, 04 Jul 2026 21:32:30 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
+      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
+      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
+      ]
+    },
+    {
+      "id": "62378a1275beed65fa7bcdb8625b85c626cce8ab815d18c906f437879194c000",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1187 Can we talk about how crazy Luffy punches are? Two arcs ago he was fighting Kaido on par, now he send a monster like Imu with a punch so far.. Current Luffy is already far stronger than ",
+      "text": "#ONEPIECE1187 Can we talk about how crazy Luffy punches are? Two arcs ago he was fighting Kaido on par, now he send a monster like Imu with a punch so far.. Current Luffy is already far stronger than his wano version, everyone who think he lose to Kaido/Big Mom is coping...",
+      "url": "https://nitter.net/WorstGenHQ/status/2073698714347081916#m",
+      "date": "Sun, 05 Jul 2026 09:21:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMdB49nXIAAiFUB.png"
+      ]
+    },
+    {
+      "id": "03e7d3926b14b50447132299f3457b1adba3618df3bd8e69ecfee688e8ccb8c9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FEARLUFFY",
+      "text": "#FEARLUFFY",
+      "url": "https://nitter.net/WorstGenHQ/status/2073698810065264753#m",
+      "date": "Sun, 05 Jul 2026 09:21:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "c0cf7e843f0fb6925bfad682744c3f35cd2cf9c5225817693d564bc45bb98fc1",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -231,34 +489,123 @@
       "attachments": []
     },
     {
-      "id": "ad31030e58e8058101f2b649fc7101d20f393d2e63bdc80ce39538e54f8ece2b",
+      "id": "3d0fe27343ece85283f40d4107b69bd976e6f626dcba485e160a2a8f4dcfe916",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Imagine if Nintendo played this epic soundtrack in the 1st Zelda Switch 2 trailer! 👀 Video",
-      "text": "Imagine if Nintendo played this epic soundtrack in the 1st Zelda Switch 2 trailer! 👀 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2073460106876825716#m",
-      "date": "Sat, 04 Jul 2026 17:33:07 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ TVアニメ最終クール #BLEACH 千年血戦篇-禍進譚- ファイナルPV解禁 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 混沌の禍を進んだ先に待つのは 絶望か希望か—— ついにTVアニメ完結🔥 ✦7/25㊏23:00テレ東系列ほかにて放送 ✦7/26㊐12:00順次配信 #BLEACH_anime Video",
+      "text": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ TVアニメ最終クール #BLEACH 千年血戦篇-禍進譚- ファイナルPV解禁 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 混沌の禍を進んだ先に待つのは 絶望か希望か—— ついにTVアニメ完結🔥 ✦7/25㊏23:00テレ東系列ほかにて放送 ✦7/26㊐12:00順次配信 #BLEACH_anime Video",
+      "url": "https://nitter.net/BLEACHanimation/status/2073573324123254796#m",
+      "date": "Sun, 05 Jul 2026 01:03:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073459400803594240%2Fimg%2Fe1GbTn-2ZDr88D8j.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2073565603152220160%2Fimg%2F5nAPd3Y6q2uYLly9.jpg"
       ]
     },
     {
-      "id": "d9528ac5acf3ef2a18a67e1cb983e9cb6d1c2c3c459fc186bc30987ee7fc63f8",
+      "id": "a151e953f69115e520b362f85e7f7de39a63384863c540c892ff17a0649cfd59",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Ultimately, we see striking parallels, especially in how the awakening of Conqueror's Haki was set up for the \"Wings.\" Zoro and Sanji went through similar experiences to awaken their Conqueror's Haki;",
-      "text": "Ultimately, we see striking parallels, especially in how the awakening of Conqueror's Haki was set up for the \"Wings.\" Zoro and Sanji went through similar experiences to awaken their Conqueror's Haki; factors like trust, facing strong opponents, and internal conflict played out exactly the same way for both of them. Oda is clearly emphasizing once again just how similar Zoro and Sanji are and that they will remain eternal rivals, always facing opponents of comparable strength. This deliberately highlights the bond between Zoro and Sanji as the crew's \"Wings.\" Zoro got his power-up, \"King of Hell\"against King. Sanji will eventually get his power-up (Conqueror's Haki) to defeat Kilingham. I find the parallels in how Oda developed this for both of them fascinating.",
-      "url": "https://nitter.net/WorstGenHQ/status/2073352590591480230#m",
-      "date": "Sat, 04 Jul 2026 10:25:53 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "大切な記事の 内容チェック中👀 語ったことを文字で読むと いろいろとっ散らかってて…💦 しっかり赤入れねば✒️",
+      "text": "大切な記事の 内容チェック中👀 語ったことを文字で読むと いろいろとっ散らかってて…💦 しっかり赤入れねば✒️",
+      "url": "https://nitter.net/yabuki_side/status/2073572142634119334#m",
+      "date": "Sun, 05 Jul 2026 00:58:18 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMYDGYvXwAAb5Im.png",
-        "https://nitter.net/pic/media%2FHMYDHc3WkAA-ZoG.jpg"
+        "https://nitter.net/pic/media%2FHMbO3WjbYAAr2-Y.jpg"
+      ]
+    },
+    {
+      "id": "feab600e43b7fb8924505023d8d02813e4e90f211960eb8ec24c5eaffab79ac3",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "ONE PIECE lit up the sky with a one-of-a-kind drone show at the end of ONE PIECE Night with the Los Angeles Dodgers! 🏴‍☠️🌟💥 If you were there for the full show, tell us your favorite moment! #ONEPI",
+      "text": "ONE PIECE lit up the sky with a one-of-a-kind drone show at the end of ONE PIECE Night with the Los Angeles Dodgers! 🏴‍☠️🌟💥 If you were there for the full show, tell us your favorite moment! #ONEPIECE #Dodgers @dodgers Video",
+      "url": "https://nitter.net/ToeiAnimation/status/2073591905427005848#m",
+      "date": "Sun, 05 Jul 2026 02:16:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073591719145406464%2Fimg%2F_HmYRmJQirXDM-4P.jpg"
+      ]
+    },
+    {
+      "id": "7c1d459de5e06fdd59de7c612213144902e2b65ffa32d5a4ee65ea82fdcb6910",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "como de corta tienes que ser para considerar al xokas una persona culta☠️ Terreno Viral (@terrenoviral) Marta Díaz se declara la fan número 1 del Xokas. “Me pasó, por ejemplo, con Xokas en la grabació",
+      "text": "como de corta tienes que ser para considerar al xokas una persona culta☠️ Terreno Viral (@terrenoviral) Marta Díaz se declara la fan número 1 del Xokas. “Me pasó, por ejemplo, con Xokas en la grabación del spot publicitario, que yo le dije Xokas, me voy a comportar bien, pero que sepas que soy muy fan tuya y me encantaría hablar contigo toda la tarde. Pero me voy a comportar normal y corriente, voy a hacer como que no soy tu mega fan de la leche. Me encanta, tío, porque es una persona súper culta, que sabe de todo. A mí eso me encanta. O sea, imagínate una conversación, una cena con Xokas. Sabe de todo, yo estaría solamente comiendo.” Video — https://nitter.net/terrenoviral/status/2073159528099541498#m",
+      "url": "https://nitter.net/ireegleez/status/2073174413944529263#m",
+      "date": "Fri, 03 Jul 2026 22:37:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073159447233388544%2Fimg%2FMmufR6a7Us6j3DQt.jpg"
+      ]
+    },
+    {
+      "id": "bfb36fd41c421429f456aaf5980c42a56c5a6d272dde2f8b34ce7f077077fc97",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◇━━━━━━━━━━━━━━━◇ TVアニメ『#魔法騎士レイアース』 メインPV解禁 ◇━━━━━━━━━━━━━━━◇ 🔥放送開始日決定🔥 10月7日(水)より、毎週水曜夜11時45分～ テレビ朝日系全国ネット “Imanimation W”枠にて放送開始⚔️ ＊一部地域を除く #MagicKnightRayearth Video",
+      "text": "◇━━━━━━━━━━━━━━━◇ TVアニメ『#魔法騎士レイアース』 メインPV解禁 ◇━━━━━━━━━━━━━━━◇ 🔥放送開始日決定🔥 10月7日(水)より、毎週水曜夜11時45分～ テレビ朝日系全国ネット “Imanimation W”枠にて放送開始⚔️ ＊一部地域を除く #MagicKnightRayearth Video",
+      "url": "https://nitter.net/rayearth_info/status/2073504621088162140#m",
+      "date": "Sat, 04 Jul 2026 20:30:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073364964463763456%2Fimg%2FQhnJ2PK7-VQTOb9y.jpg"
+      ]
+    },
+    {
+      "id": "d551226c05a8b4e3720795338c6d2a04f5152d58934488e1678db4be263863d1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ #ダンジョン飯 第2期 2027年10月より放送決定 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 『ダンジョン飯 Season2』 ウルトラティザービジュアル解禁 ファリンを救うためのライオスたちの旅路は いよいよ物語の核心へ—— 🍄delicious-in-dungeon.com/",
+      "text": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣◥ #ダンジョン飯 第2期 2027年10月より放送決定 ◣＿＿＿＿＿＿＿＿＿＿＿＿＿◢ 『ダンジョン飯 Season2』 ウルトラティザービジュアル解禁 ファリンを救うためのライオスたちの旅路は いよいよ物語の核心へ—— 🍄delicious-in-dungeon.com/",
+      "url": "https://nitter.net/dun_meshi_anime/status/2073527270900129974#m",
+      "date": "Sat, 04 Jul 2026 22:00:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMZruftbkAAw7Jz.jpg"
+      ]
+    },
+    {
+      "id": "08ef902d3cc42feb6f618f17b367bfda0a984aae85824d931a8564b9a630535c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Aight! Lets talk about it The premiere genuinely felt like watching an episode that came out just a week after #170. Recaps were tastefully placed in the middle of dialogues and not used for padding. ",
+      "text": "Aight! Lets talk about it The premiere genuinely felt like watching an episode that came out just a week after #170. Recaps were tastefully placed in the middle of dialogues and not used for padding. Isaac Kis 🍀 (@kis_isaac) As soon as I get home I promise I'll write about my thoughts regarding the episode — https://nitter.net/kis_isaac/status/2073562044826288430#m",
+      "url": "https://nitter.net/kis_isaac/status/2073638924623515852#m",
+      "date": "Sun, 05 Jul 2026 05:23:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMbyjIra8AA32P4.jpg"
+      ]
+    },
+    {
+      "id": "806202f47ea0f26dca9e37699235f53833f97e782e25dbaf418e69c13f3ede7e",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "The Episodes gonna be such a banger Potential AOTY Loading..... #BlackClover Video",
+      "text": "The Episodes gonna be such a banger Potential AOTY Loading..... #BlackClover Video",
+      "url": "https://nitter.net/PacemanOP/status/2073642771919827020#m",
+      "date": "Sun, 05 Jul 2026 05:38:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073409519087173632%2Fimg%2F1HGVilFrn-gKN4u9.jpg"
       ]
     },
     {
