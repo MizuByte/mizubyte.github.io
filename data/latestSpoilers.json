@@ -1,66 +1,7 @@
 {
-  "generatedAt": "2026-07-05T02:45:54.570Z",
+  "generatedAt": "2026-07-05T06:27:30.761Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "9503bfb8898768ccc977c2fb215523cf1f408854a0b7e5bba39aa22ba7417dca",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073525580528767415#m",
-      "date": "Sat, 04 Jul 2026 21:53:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMakhSYbMAAicqF.jpg"
-      ]
-    },
-    {
-      "id": "878224bd4c8883d5e3a7a3b144e3958899180c33121d2f38aa531771e29d787f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy ",
-      "text": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2073520349258698898#m",
-      "date": "Sat, 04 Jul 2026 21:32:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
-      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
-      ]
-    },
-    {
-      "id": "69c5f282e04ff8f9fed64e40e0c7c945e8e268f0d9447db943c0228cd01fa4ad",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "My Queeen #BCSpoiler",
-      "text": "My Queeen #BCSpoiler",
-      "url": "https://nitter.net/PacemanOP/status/2073511178148732953#m",
-      "date": "Sat, 04 Jul 2026 20:56:03 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMaXbI9bsAAkSme.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
       "id": "c0cf7e843f0fb6925bfad682744c3f35cd2cf9c5225817693d564bc45bb98fc1",
@@ -144,34 +85,6 @@
         "https://nitter.net/pic/media%2FHMYDGYvXwAAb5Im.png",
         "https://nitter.net/pic/media%2FHMYDHc3WkAA-ZoG.jpg"
       ]
-    },
-    {
-      "id": "b032d344c5e0a2d1d948e065b5cbcfe604d8b0422dda638638bd1b1f90878048",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BlackClover",
-      "text": "#BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2073517108949045490#m",
-      "date": "Sat, 04 Jul 2026 21:19:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMac0agaIAAEVVu.jpg"
-      ]
-    },
-    {
-      "id": "79dfe570a228c55b0e4bf6fdb59ba3269c5dd784f8aaad0202ca3a199e404484",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No OP Ed in Episode #BlackClover",
-      "text": "No OP Ed in Episode #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2073516568412319821#m",
-      "date": "Sat, 04 Jul 2026 21:17:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "578c2b22b61298174a4e291c4ad4dcc74cc5e6c56ba51c771211860adce7268a",
@@ -266,64 +179,6 @@
   ],
   "items": [
     {
-      "id": "9503bfb8898768ccc977c2fb215523cf1f408854a0b7e5bba39aa22ba7417dca",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073525580528767415#m",
-      "date": "Sat, 04 Jul 2026 21:53:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMakhSYbMAAicqF.jpg"
-      ]
-    },
-    {
-      "id": "878224bd4c8883d5e3a7a3b144e3958899180c33121d2f38aa531771e29d787f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy ",
-      "text": "discord.gg/nnQCWt5dx Join my server for clips #BlackClover Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 758 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2073520349258698898#m",
-      "date": "Sat, 04 Jul 2026 21:32:30 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
-      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
-      ]
-    },
-    {
-      "id": "69c5f282e04ff8f9fed64e40e0c7c945e8e268f0d9447db943c0228cd01fa4ad",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "My Queeen #BCSpoiler",
-      "text": "My Queeen #BCSpoiler",
-      "url": "https://nitter.net/PacemanOP/status/2073511178148732953#m",
-      "date": "Sat, 04 Jul 2026 20:56:03 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMaXbI9bsAAkSme.jpg"
-      ]
-    },
-    {
       "id": "c0cf7e843f0fb6925bfad682744c3f35cd2cf9c5225817693d564bc45bb98fc1",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -405,34 +260,6 @@
         "https://nitter.net/pic/media%2FHMYDGYvXwAAb5Im.png",
         "https://nitter.net/pic/media%2FHMYDHc3WkAA-ZoG.jpg"
       ]
-    },
-    {
-      "id": "b032d344c5e0a2d1d948e065b5cbcfe604d8b0422dda638638bd1b1f90878048",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BlackClover",
-      "text": "#BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2073517108949045490#m",
-      "date": "Sat, 04 Jul 2026 21:19:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMac0agaIAAEVVu.jpg"
-      ]
-    },
-    {
-      "id": "79dfe570a228c55b0e4bf6fdb59ba3269c5dd784f8aaad0202ca3a199e404484",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "No OP Ed in Episode #BlackClover",
-      "text": "No OP Ed in Episode #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2073516568412319821#m",
-      "date": "Sat, 04 Jul 2026 21:17:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "578c2b22b61298174a4e291c4ad4dcc74cc5e6c56ba51c771211860adce7268a",
