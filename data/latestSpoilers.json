@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:44:33.782Z",
+  "generatedAt": "2026-07-05T14:21:27.410Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -107,6 +107,19 @@
       ]
     },
     {
+      "id": "03e7d3926b14b50447132299f3457b1adba3618df3bd8e69ecfee688e8ccb8c9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FEARLUFFY",
+      "text": "#FEARLUFFY",
+      "url": "https://nitter.net/WorstGenHQ/status/2073698810065264753#m",
+      "date": "Sun, 05 Jul 2026 09:21:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "62378a1275beed65fa7bcdb8625b85c626cce8ab815d18c906f437879194c000",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -120,19 +133,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMdB49nXIAAiFUB.png"
       ]
-    },
-    {
-      "id": "03e7d3926b14b50447132299f3457b1adba3618df3bd8e69ecfee688e8ccb8c9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#FEARLUFFY",
-      "text": "#FEARLUFFY",
-      "url": "https://nitter.net/WorstGenHQ/status/2073698810065264753#m",
-      "date": "Sun, 05 Jul 2026 09:21:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "c0cf7e843f0fb6925bfad682744c3f35cd2cf9c5225817693d564bc45bb98fc1",
@@ -462,6 +462,19 @@
       ]
     },
     {
+      "id": "03e7d3926b14b50447132299f3457b1adba3618df3bd8e69ecfee688e8ccb8c9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FEARLUFFY",
+      "text": "#FEARLUFFY",
+      "url": "https://nitter.net/WorstGenHQ/status/2073698810065264753#m",
+      "date": "Sun, 05 Jul 2026 09:21:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "62378a1275beed65fa7bcdb8625b85c626cce8ab815d18c906f437879194c000",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -475,19 +488,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMdB49nXIAAiFUB.png"
       ]
-    },
-    {
-      "id": "03e7d3926b14b50447132299f3457b1adba3618df3bd8e69ecfee688e8ccb8c9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#FEARLUFFY",
-      "text": "#FEARLUFFY",
-      "url": "https://nitter.net/WorstGenHQ/status/2073698810065264753#m",
-      "date": "Sun, 05 Jul 2026 09:21:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "c0cf7e843f0fb6925bfad682744c3f35cd2cf9c5225817693d564bc45bb98fc1",
