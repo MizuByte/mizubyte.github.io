@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:34:14.297Z",
+  "generatedAt": "2026-07-07T23:38:10.446Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -75,6 +75,85 @@
     }
   ],
   "misc": [
+    {
+      "id": "1351a647fbed63cf352bb9cd1e0269e76ea7bddde400c36d2a8811eb9831bfb4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
+      "text": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
+      "url": "https://nitter.net/pewpiece/status/2074092223617008055#m",
+      "date": "Mon, 06 Jul 2026 11:24:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMikyVEWAAAxt20.jpg"
+      ]
+    },
+    {
+      "id": "e8a60577c0a0108fa2455e7318a8b72bd790174b12a9a75b7dd8a668cc2f65ed",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
+      "text": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
+      "url": "https://nitter.net/pewpiece/status/2074078608709030368#m",
+      "date": "Mon, 06 Jul 2026 10:30:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMibZBhWsAAKstg.jpg",
+        "https://nitter.net/pic/media%2FHMibe0HXsAAOT9q.jpg"
+      ]
+    },
+    {
+      "id": "afcdb962dac321d4cc1c1081a49cdd4d92ed8a5771724fc73c3794748631f4d9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy in onepiece heroines Video",
+      "text": "Luffy in onepiece heroines Video",
+      "url": "https://nitter.net/pewpiece/status/2073782800029728939#m",
+      "date": "Sun, 05 Jul 2026 14:55:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073782688574480384%2Fimg%2FclwbONcDiYCSTh9l.jpg"
+      ]
+    },
+    {
+      "id": "7f3541d1873342d19219c32b499b6672b5af507f757a821c60585f4d316025f1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
+      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
+      "url": "https://nitter.net/pewpiece/status/2073781151093629077#m",
+      "date": "Sun, 05 Jul 2026 14:48:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073781088829206528%2Fimg%2F3fgqQHfya68urGwI.jpg"
+      ]
+    },
+    {
+      "id": "c8889d0bc172e43c086d4d3412e793c525d2fce8cf67379c49df24e21db4b93c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE HEROINES TOMRROW",
+      "text": "ONEPIECE HEROINES TOMRROW",
+      "url": "https://nitter.net/pewpiece/status/2073376773174092177#m",
+      "date": "Sat, 04 Jul 2026 12:01:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMYc7RmWgAEC01a.jpg",
+        "https://nitter.net/pic/media%2FHMYc7RnX0AETtIg.jpg",
+        "https://nitter.net/pic/media%2FHMYc7XnWwAAd5VW.jpg",
+        "https://nitter.net/pic/media%2FHMYc7RmW4AA4jrB.jpg"
+      ]
+    },
     {
       "id": "1e8ff6168f7258a6fba30ea6019e273fe3b12d61886905ca258f97ca9425b6e2",
       "anime": "onepiece",
@@ -154,85 +233,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "1351a647fbed63cf352bb9cd1e0269e76ea7bddde400c36d2a8811eb9831bfb4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "text": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "url": "https://nitter.net/pewpiece/status/2074092223617008055#m",
-      "date": "Mon, 06 Jul 2026 11:24:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMikyVEWAAAxt20.jpg"
-      ]
-    },
-    {
-      "id": "e8a60577c0a0108fa2455e7318a8b72bd790174b12a9a75b7dd8a668cc2f65ed",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "text": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "url": "https://nitter.net/pewpiece/status/2074078608709030368#m",
-      "date": "Mon, 06 Jul 2026 10:30:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMibZBhWsAAKstg.jpg",
-        "https://nitter.net/pic/media%2FHMibe0HXsAAOT9q.jpg"
-      ]
-    },
-    {
-      "id": "afcdb962dac321d4cc1c1081a49cdd4d92ed8a5771724fc73c3794748631f4d9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy in onepiece heroines Video",
-      "text": "Luffy in onepiece heroines Video",
-      "url": "https://nitter.net/pewpiece/status/2073782800029728939#m",
-      "date": "Sun, 05 Jul 2026 14:55:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073782688574480384%2Fimg%2FclwbONcDiYCSTh9l.jpg"
-      ]
-    },
-    {
-      "id": "7f3541d1873342d19219c32b499b6672b5af507f757a821c60585f4d316025f1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "url": "https://nitter.net/pewpiece/status/2073781151093629077#m",
-      "date": "Sun, 05 Jul 2026 14:48:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073781088829206528%2Fimg%2F3fgqQHfya68urGwI.jpg"
-      ]
-    },
-    {
-      "id": "c8889d0bc172e43c086d4d3412e793c525d2fce8cf67379c49df24e21db4b93c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE HEROINES TOMRROW",
-      "text": "ONEPIECE HEROINES TOMRROW",
-      "url": "https://nitter.net/pewpiece/status/2073376773174092177#m",
-      "date": "Sat, 04 Jul 2026 12:01:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMYc7RmWgAEC01a.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RnX0AETtIg.jpg",
-        "https://nitter.net/pic/media%2FHMYc7XnWwAAd5VW.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RmW4AA4jrB.jpg"
-      ]
     },
     {
       "id": "08ef902d3cc42feb6f618f17b367bfda0a984aae85824d931a8564b9a630535c",
@@ -428,6 +428,85 @@
       "attachments": []
     },
     {
+      "id": "1351a647fbed63cf352bb9cd1e0269e76ea7bddde400c36d2a8811eb9831bfb4",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
+      "text": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
+      "url": "https://nitter.net/pewpiece/status/2074092223617008055#m",
+      "date": "Mon, 06 Jul 2026 11:24:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMikyVEWAAAxt20.jpg"
+      ]
+    },
+    {
+      "id": "e8a60577c0a0108fa2455e7318a8b72bd790174b12a9a75b7dd8a668cc2f65ed",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
+      "text": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
+      "url": "https://nitter.net/pewpiece/status/2074078608709030368#m",
+      "date": "Mon, 06 Jul 2026 10:30:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMibZBhWsAAKstg.jpg",
+        "https://nitter.net/pic/media%2FHMibe0HXsAAOT9q.jpg"
+      ]
+    },
+    {
+      "id": "afcdb962dac321d4cc1c1081a49cdd4d92ed8a5771724fc73c3794748631f4d9",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Luffy in onepiece heroines Video",
+      "text": "Luffy in onepiece heroines Video",
+      "url": "https://nitter.net/pewpiece/status/2073782800029728939#m",
+      "date": "Sun, 05 Jul 2026 14:55:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073782688574480384%2Fimg%2FclwbONcDiYCSTh9l.jpg"
+      ]
+    },
+    {
+      "id": "7f3541d1873342d19219c32b499b6672b5af507f757a821c60585f4d316025f1",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
+      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
+      "url": "https://nitter.net/pewpiece/status/2073781151093629077#m",
+      "date": "Sun, 05 Jul 2026 14:48:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2073781088829206528%2Fimg%2F3fgqQHfya68urGwI.jpg"
+      ]
+    },
+    {
+      "id": "c8889d0bc172e43c086d4d3412e793c525d2fce8cf67379c49df24e21db4b93c",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONEPIECE HEROINES TOMRROW",
+      "text": "ONEPIECE HEROINES TOMRROW",
+      "url": "https://nitter.net/pewpiece/status/2073376773174092177#m",
+      "date": "Sat, 04 Jul 2026 12:01:58 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMYc7RmWgAEC01a.jpg",
+        "https://nitter.net/pic/media%2FHMYc7RnX0AETtIg.jpg",
+        "https://nitter.net/pic/media%2FHMYc7XnWwAAd5VW.jpg",
+        "https://nitter.net/pic/media%2FHMYc7RmW4AA4jrB.jpg"
+      ]
+    },
+    {
       "id": "1e8ff6168f7258a6fba30ea6019e273fe3b12d61886905ca258f97ca9425b6e2",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -506,85 +585,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "1351a647fbed63cf352bb9cd1e0269e76ea7bddde400c36d2a8811eb9831bfb4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "text": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "url": "https://nitter.net/pewpiece/status/2074092223617008055#m",
-      "date": "Mon, 06 Jul 2026 11:24:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMikyVEWAAAxt20.jpg"
-      ]
-    },
-    {
-      "id": "e8a60577c0a0108fa2455e7318a8b72bd790174b12a9a75b7dd8a668cc2f65ed",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "text": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "url": "https://nitter.net/pewpiece/status/2074078608709030368#m",
-      "date": "Mon, 06 Jul 2026 10:30:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMibZBhWsAAKstg.jpg",
-        "https://nitter.net/pic/media%2FHMibe0HXsAAOT9q.jpg"
-      ]
-    },
-    {
-      "id": "afcdb962dac321d4cc1c1081a49cdd4d92ed8a5771724fc73c3794748631f4d9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy in onepiece heroines Video",
-      "text": "Luffy in onepiece heroines Video",
-      "url": "https://nitter.net/pewpiece/status/2073782800029728939#m",
-      "date": "Sun, 05 Jul 2026 14:55:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073782688574480384%2Fimg%2FclwbONcDiYCSTh9l.jpg"
-      ]
-    },
-    {
-      "id": "7f3541d1873342d19219c32b499b6672b5af507f757a821c60585f4d316025f1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "url": "https://nitter.net/pewpiece/status/2073781151093629077#m",
-      "date": "Sun, 05 Jul 2026 14:48:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073781088829206528%2Fimg%2F3fgqQHfya68urGwI.jpg"
-      ]
-    },
-    {
-      "id": "c8889d0bc172e43c086d4d3412e793c525d2fce8cf67379c49df24e21db4b93c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE HEROINES TOMRROW",
-      "text": "ONEPIECE HEROINES TOMRROW",
-      "url": "https://nitter.net/pewpiece/status/2073376773174092177#m",
-      "date": "Sat, 04 Jul 2026 12:01:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMYc7RmWgAEC01a.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RnX0AETtIg.jpg",
-        "https://nitter.net/pic/media%2FHMYc7XnWwAAd5VW.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RmW4AA4jrB.jpg"
-      ]
     },
     {
       "id": "08ef902d3cc42feb6f618f17b367bfda0a984aae85824d931a8564b9a630535c",
