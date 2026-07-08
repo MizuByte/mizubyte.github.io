@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-07-08T09:41:51.782Z",
+  "generatedAt": "2026-07-08T11:31:53.603Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "d6217ba9c01a928e7361245fbcd541c8b6bfa641c8835e4b7167e35763bd2fd4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1188 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1188",
-      "text": "#ONEPIECE1188 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1188",
-      "url": "https://nitter.net/pewpiece/status/2074482356107284666#m",
-      "date": "Tue, 07 Jul 2026 13:15:10 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMoGhvTWIAAO64S.jpg"
-      ]
-    },
     {
       "id": "dd09300fd7956f72e2652e487a26e9dd4e5f0380ac59c6bcfb469209a23c6f07",
       "anime": "blackclover",
@@ -76,85 +61,6 @@
   ],
   "misc": [
     {
-      "id": "1351a647fbed63cf352bb9cd1e0269e76ea7bddde400c36d2a8811eb9831bfb4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "text": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "url": "https://nitter.net/pewpiece/status/2074092223617008055#m",
-      "date": "Mon, 06 Jul 2026 11:24:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMikyVEWAAAxt20.jpg"
-      ]
-    },
-    {
-      "id": "e8a60577c0a0108fa2455e7318a8b72bd790174b12a9a75b7dd8a668cc2f65ed",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "text": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "url": "https://nitter.net/pewpiece/status/2074078608709030368#m",
-      "date": "Mon, 06 Jul 2026 10:30:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMibZBhWsAAKstg.jpg",
-        "https://nitter.net/pic/media%2FHMibe0HXsAAOT9q.jpg"
-      ]
-    },
-    {
-      "id": "afcdb962dac321d4cc1c1081a49cdd4d92ed8a5771724fc73c3794748631f4d9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy in onepiece heroines Video",
-      "text": "Luffy in onepiece heroines Video",
-      "url": "https://nitter.net/pewpiece/status/2073782800029728939#m",
-      "date": "Sun, 05 Jul 2026 14:55:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073782688574480384%2Fimg%2FclwbONcDiYCSTh9l.jpg"
-      ]
-    },
-    {
-      "id": "7f3541d1873342d19219c32b499b6672b5af507f757a821c60585f4d316025f1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "url": "https://nitter.net/pewpiece/status/2073781151093629077#m",
-      "date": "Sun, 05 Jul 2026 14:48:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073781088829206528%2Fimg%2F3fgqQHfya68urGwI.jpg"
-      ]
-    },
-    {
-      "id": "c8889d0bc172e43c086d4d3412e793c525d2fce8cf67379c49df24e21db4b93c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE HEROINES TOMRROW",
-      "text": "ONEPIECE HEROINES TOMRROW",
-      "url": "https://nitter.net/pewpiece/status/2073376773174092177#m",
-      "date": "Sat, 04 Jul 2026 12:01:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMYc7RmWgAEC01a.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RnX0AETtIg.jpg",
-        "https://nitter.net/pic/media%2FHMYc7XnWwAAd5VW.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RmW4AA4jrB.jpg"
-      ]
-    },
-    {
       "id": "3c4f2f4035a9c91c78d3484cec829317d406bde99eb98cc544ee514707f007b2",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -244,6 +150,36 @@
       ]
     },
     {
+      "id": "543d3c2d109f7b16834234755422af020d41efc5645b387969b0447106ce23f4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "戦闘では、剣と魔法を使い分けてさまざまな敵に対応。 智将らしく、戦技で仲間の能力を上昇させることもできます。#FE万紫千紅 Video",
+      "text": "戦闘では、剣と魔法を使い分けてさまざまな敵に対応。 智将らしく、戦技で仲間の能力を上昇させることもできます。#FE万紫千紅 Video",
+      "url": "https://nitter.net/FireEmblemJP/status/2074795659316891758#m",
+      "date": "Wed, 08 Jul 2026 10:00:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMsnpEMbEAATr33.jpg"
+      ]
+    },
+    {
+      "id": "692a76744e46e9c55e8708534d3a01676ac10575d9332f9c7dd5eff60fed8792",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "サラミスの王都メガエラでのワンシーン。 先代王の頃から国を支えてきたボナパルテだからこそ、その言葉には確かな重みと説得力があります。#FE万紫千紅 Video",
+      "text": "サラミスの王都メガエラでのワンシーン。 先代王の頃から国を支えてきたボナパルテだからこそ、その言葉には確かな重みと説得力があります。#FE万紫千紅 Video",
+      "url": "https://nitter.net/FireEmblemJP/status/2074742808515338357#m",
+      "date": "Wed, 08 Jul 2026 06:30:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMr3kmKaoAA2KOy.jpg"
+      ]
+    },
+    {
       "id": "b7cca44a806c59d7397ecb2377376614e0b57ee59ca6e6f7378bed211173a242",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -305,37 +241,6 @@
       ]
     },
     {
-      "id": "ff0e5ce5d7190bb33800f8872c21479f3c43c8832aaf35d7b7b29660c39741f3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Shohei Ohtani is the FIRST Japanese-born player to hit 300 MLB home runs! 🇯🇵 MLB (@MLB) SHOHEI OHTANI'S 300th MLB HOME RUN! Video — https://nitter.net/MLB/status/2074679752724480119#m",
-      "text": "Shohei Ohtani is the FIRST Japanese-born player to hit 300 MLB home runs! 🇯🇵 MLB (@MLB) SHOHEI OHTANI'S 300th MLB HOME RUN! Video — https://nitter.net/MLB/status/2074679752724480119#m",
-      "url": "https://nitter.net/MLB/status/2074680175241973961#m",
-      "date": "Wed, 08 Jul 2026 02:21:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMq-k7gXAAAl8Fl.jpg",
-        "https://nitter.net/pic/amplify_video_thumb%2F2074679692330713088%2Fimg%2F35kf7iVecw7B2A95.jpg"
-      ]
-    },
-    {
-      "id": "9d878ea3dfc94e2f01d3b71b26e0ebacde32b10d1673a886e4d68e12c7adbe11",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【キャラクター】ボナパルテ（CV：鶴岡聡） 主人公セオドラの右腕として、今もなお前線で活躍するサラミス王国の賢将。 文字の使用を禁止されている王国の中にあって、サラミスの歴史と知恵のすべてを記憶している。 ●好きなもの：知識の記憶、賢者との問答、詩吟 #FE万紫千紅",
-      "text": "【キャラクター】ボナパルテ（CV：鶴岡聡） 主人公セオドラの右腕として、今もなお前線で活躍するサラミス王国の賢将。 文字の使用を禁止されている王国の中にあって、サラミスの歴史と知恵のすべてを記憶している。 ●好きなもの：知識の記憶、賢者との問答、詩吟 #FE万紫千紅",
-      "url": "https://nitter.net/FireEmblemJP/status/2074693878586933504#m",
-      "date": "Wed, 08 Jul 2026 03:15:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMmZ4JebUAAuWci.jpg"
-      ]
-    },
-    {
       "id": "08ef902d3cc42feb6f618f17b367bfda0a984aae85824d931a8564b9a630535c",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -379,24 +284,84 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMr19PGXMAAHuHY.jpg"
       ]
+    },
+    {
+      "id": "93123c1d0276a5674c548a7eacbfd860b24d6c865cc5a7f515c9ee76a30e90ae",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2074464084234227751#m",
+      "date": "Tue, 07 Jul 2026 12:02:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMn6Fm2WQAAYajd.jpg"
+      ]
+    },
+    {
+      "id": "073f10839478012d5369583c0a258d05d35188e5544b1614542e43226244d5ee",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Power up is here!!",
+      "text": "Power up is here!!",
+      "url": "https://nitter.net/daily_berserk/status/2074185742809436260#m",
+      "date": "Mon, 06 Jul 2026 17:36:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMj88BsWgAAZGL_.jpg"
+      ]
+    },
+    {
+      "id": "08a13e207b1ca9d0a8da72616c5ecd92fffce1073cfeb64c0a4ae26f8cfdfbf1",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "5 days…",
+      "text": "5 days…",
+      "url": "https://nitter.net/daily_berserk/status/2074026093695164530#m",
+      "date": "Mon, 06 Jul 2026 07:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMhrvVJWwAApexZ.jpg"
+      ]
+    },
+    {
+      "id": "4a2707f0f2c7807a1e15bec9b6ddc3d1da00a1b0b06103560a897d250adfee78",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2073804321863459024#m",
+      "date": "Sun, 05 Jul 2026 16:20:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMeiCeZXcAEJQf5.jpg"
+      ]
+    },
+    {
+      "id": "578c2b22b61298174a4e291c4ad4dcc74cc5e6c56ba51c771211860adce7268a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "text": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "url": "https://nitter.net/daily_berserk/status/2073528436971192397#m",
+      "date": "Sat, 04 Jul 2026 22:04:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHManH7FWcAE_E5o.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "d6217ba9c01a928e7361245fbcd541c8b6bfa641c8835e4b7167e35763bd2fd4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1188 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1188",
-      "text": "#ONEPIECE1188 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1188",
-      "url": "https://nitter.net/pewpiece/status/2074482356107284666#m",
-      "date": "Tue, 07 Jul 2026 13:15:10 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMoGhvTWIAAO64S.jpg"
-      ]
-    },
     {
       "id": "dd09300fd7956f72e2652e487a26e9dd4e5f0380ac59c6bcfb469209a23c6f07",
       "anime": "blackclover",
@@ -454,85 +419,6 @@
       "attachments": []
     },
     {
-      "id": "1351a647fbed63cf352bb9cd1e0269e76ea7bddde400c36d2a8811eb9831bfb4",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "text": "BREAKING 🚨🚨🚨 THERE WILL BE A BREAK NEXT WEEK FOR ONEPIECE MANGA",
-      "url": "https://nitter.net/pewpiece/status/2074092223617008055#m",
-      "date": "Mon, 06 Jul 2026 11:24:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMikyVEWAAAxt20.jpg"
-      ]
-    },
-    {
-      "id": "e8a60577c0a0108fa2455e7318a8b72bd790174b12a9a75b7dd8a668cc2f65ed",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "text": "Vincent Chansard \"I’d really love to work on the God Valley arc in OnePiece and help make as many episodes as possible. It’s something I’ve had on my mind for a long time.\"",
-      "url": "https://nitter.net/pewpiece/status/2074078608709030368#m",
-      "date": "Mon, 06 Jul 2026 10:30:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMibZBhWsAAKstg.jpg",
-        "https://nitter.net/pic/media%2FHMibe0HXsAAOT9q.jpg"
-      ]
-    },
-    {
-      "id": "afcdb962dac321d4cc1c1081a49cdd4d92ed8a5771724fc73c3794748631f4d9",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Luffy in onepiece heroines Video",
-      "text": "Luffy in onepiece heroines Video",
-      "url": "https://nitter.net/pewpiece/status/2073782800029728939#m",
-      "date": "Sun, 05 Jul 2026 14:55:23 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073782688574480384%2Fimg%2FclwbONcDiYCSTh9l.jpg"
-      ]
-    },
-    {
-      "id": "7f3541d1873342d19219c32b499b6672b5af507f757a821c60585f4d316025f1",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "text": "NEXT ONEPIECE ANIME EPISODE PREVIEW GABAN IS HERE Video",
-      "url": "https://nitter.net/pewpiece/status/2073781151093629077#m",
-      "date": "Sun, 05 Jul 2026 14:48:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2073781088829206528%2Fimg%2F3fgqQHfya68urGwI.jpg"
-      ]
-    },
-    {
-      "id": "c8889d0bc172e43c086d4d3412e793c525d2fce8cf67379c49df24e21db4b93c",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONEPIECE HEROINES TOMRROW",
-      "text": "ONEPIECE HEROINES TOMRROW",
-      "url": "https://nitter.net/pewpiece/status/2073376773174092177#m",
-      "date": "Sat, 04 Jul 2026 12:01:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMYc7RmWgAEC01a.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RnX0AETtIg.jpg",
-        "https://nitter.net/pic/media%2FHMYc7XnWwAAd5VW.jpg",
-        "https://nitter.net/pic/media%2FHMYc7RmW4AA4jrB.jpg"
-      ]
-    },
-    {
       "id": "3c4f2f4035a9c91c78d3484cec829317d406bde99eb98cc544ee514707f007b2",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -622,6 +508,36 @@
       ]
     },
     {
+      "id": "543d3c2d109f7b16834234755422af020d41efc5645b387969b0447106ce23f4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "戦闘では、剣と魔法を使い分けてさまざまな敵に対応。 智将らしく、戦技で仲間の能力を上昇させることもできます。#FE万紫千紅 Video",
+      "text": "戦闘では、剣と魔法を使い分けてさまざまな敵に対応。 智将らしく、戦技で仲間の能力を上昇させることもできます。#FE万紫千紅 Video",
+      "url": "https://nitter.net/FireEmblemJP/status/2074795659316891758#m",
+      "date": "Wed, 08 Jul 2026 10:00:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMsnpEMbEAATr33.jpg"
+      ]
+    },
+    {
+      "id": "692a76744e46e9c55e8708534d3a01676ac10575d9332f9c7dd5eff60fed8792",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "サラミスの王都メガエラでのワンシーン。 先代王の頃から国を支えてきたボナパルテだからこそ、その言葉には確かな重みと説得力があります。#FE万紫千紅 Video",
+      "text": "サラミスの王都メガエラでのワンシーン。 先代王の頃から国を支えてきたボナパルテだからこそ、その言葉には確かな重みと説得力があります。#FE万紫千紅 Video",
+      "url": "https://nitter.net/FireEmblemJP/status/2074742808515338357#m",
+      "date": "Wed, 08 Jul 2026 06:30:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMr3kmKaoAA2KOy.jpg"
+      ]
+    },
+    {
       "id": "b7cca44a806c59d7397ecb2377376614e0b57ee59ca6e6f7378bed211173a242",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -683,37 +599,6 @@
       ]
     },
     {
-      "id": "ff0e5ce5d7190bb33800f8872c21479f3c43c8832aaf35d7b7b29660c39741f3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Shohei Ohtani is the FIRST Japanese-born player to hit 300 MLB home runs! 🇯🇵 MLB (@MLB) SHOHEI OHTANI'S 300th MLB HOME RUN! Video — https://nitter.net/MLB/status/2074679752724480119#m",
-      "text": "Shohei Ohtani is the FIRST Japanese-born player to hit 300 MLB home runs! 🇯🇵 MLB (@MLB) SHOHEI OHTANI'S 300th MLB HOME RUN! Video — https://nitter.net/MLB/status/2074679752724480119#m",
-      "url": "https://nitter.net/MLB/status/2074680175241973961#m",
-      "date": "Wed, 08 Jul 2026 02:21:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMq-k7gXAAAl8Fl.jpg",
-        "https://nitter.net/pic/amplify_video_thumb%2F2074679692330713088%2Fimg%2F35kf7iVecw7B2A95.jpg"
-      ]
-    },
-    {
-      "id": "9d878ea3dfc94e2f01d3b71b26e0ebacde32b10d1673a886e4d68e12c7adbe11",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【キャラクター】ボナパルテ（CV：鶴岡聡） 主人公セオドラの右腕として、今もなお前線で活躍するサラミス王国の賢将。 文字の使用を禁止されている王国の中にあって、サラミスの歴史と知恵のすべてを記憶している。 ●好きなもの：知識の記憶、賢者との問答、詩吟 #FE万紫千紅",
-      "text": "【キャラクター】ボナパルテ（CV：鶴岡聡） 主人公セオドラの右腕として、今もなお前線で活躍するサラミス王国の賢将。 文字の使用を禁止されている王国の中にあって、サラミスの歴史と知恵のすべてを記憶している。 ●好きなもの：知識の記憶、賢者との問答、詩吟 #FE万紫千紅",
-      "url": "https://nitter.net/FireEmblemJP/status/2074693878586933504#m",
-      "date": "Wed, 08 Jul 2026 03:15:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMmZ4JebUAAuWci.jpg"
-      ]
-    },
-    {
       "id": "08ef902d3cc42feb6f618f17b367bfda0a984aae85824d931a8564b9a630535c",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -756,6 +641,81 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMr19PGXMAAHuHY.jpg"
+      ]
+    },
+    {
+      "id": "93123c1d0276a5674c548a7eacbfd860b24d6c865cc5a7f515c9ee76a30e90ae",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2074464084234227751#m",
+      "date": "Tue, 07 Jul 2026 12:02:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMn6Fm2WQAAYajd.jpg"
+      ]
+    },
+    {
+      "id": "073f10839478012d5369583c0a258d05d35188e5544b1614542e43226244d5ee",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Power up is here!!",
+      "text": "Power up is here!!",
+      "url": "https://nitter.net/daily_berserk/status/2074185742809436260#m",
+      "date": "Mon, 06 Jul 2026 17:36:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMj88BsWgAAZGL_.jpg"
+      ]
+    },
+    {
+      "id": "08a13e207b1ca9d0a8da72616c5ecd92fffce1073cfeb64c0a4ae26f8cfdfbf1",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "5 days…",
+      "text": "5 days…",
+      "url": "https://nitter.net/daily_berserk/status/2074026093695164530#m",
+      "date": "Mon, 06 Jul 2026 07:02:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMhrvVJWwAApexZ.jpg"
+      ]
+    },
+    {
+      "id": "4a2707f0f2c7807a1e15bec9b6ddc3d1da00a1b0b06103560a897d250adfee78",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2073804321863459024#m",
+      "date": "Sun, 05 Jul 2026 16:20:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHMeiCeZXcAEJQf5.jpg"
+      ]
+    },
+    {
+      "id": "578c2b22b61298174a4e291c4ad4dcc74cc5e6c56ba51c771211860adce7268a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "text": "Are You ready guys? ##BERSERK #ベルセルク #berserk386",
+      "url": "https://nitter.net/daily_berserk/status/2073528436971192397#m",
+      "date": "Sat, 04 Jul 2026 22:04:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHManH7FWcAE_E5o.jpg"
       ]
     }
   ]
