@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-07-10T19:56:32.106Z",
+  "generatedAt": "2026-07-10T21:02:49.553Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
+    {
+      "id": "cbc30a23b61f5452dbc9b4e76619768e30dbd629516e60c58eed95f5aa5c708f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What a mistake of the Goalkeeper, goal for Spain...",
+      "text": "What a mistake of the Goalkeeper, goal for Spain...",
+      "url": "https://nitter.net/WorstGenHQ/status/2075684131837522299#m",
+      "date": "Fri, 10 Jul 2026 20:50:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "5934c6ab483ec6f81e222bd244a9ff499cd077941003fc5e3493d7a0dde2806d",
       "anime": "onepiece",
@@ -75,21 +88,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHM4O9bnXkAAIOhh.jpg"
-      ]
-    },
-    {
-      "id": "9e213d0cc11734ed10fda82e96926827a71c5457e56ed6232cbd48b201507da3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1188 Toad||🌊 (@Toadgashi) #ONEPIECE1188 — https://nitter.net/Toadgashi/status/2075587492590280765#m",
-      "text": "#ONEPIECE1188 Toad||🌊 (@Toadgashi) #ONEPIECE1188 — https://nitter.net/Toadgashi/status/2075587492590280765#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2075607325843308776#m",
-      "date": "Fri, 10 Jul 2026 15:45:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM330nAXgAAItUw.jpg"
       ]
     },
     {
@@ -185,6 +183,19 @@
   ],
   "items": [
     {
+      "id": "cbc30a23b61f5452dbc9b4e76619768e30dbd629516e60c58eed95f5aa5c708f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What a mistake of the Goalkeeper, goal for Spain...",
+      "text": "What a mistake of the Goalkeeper, goal for Spain...",
+      "url": "https://nitter.net/WorstGenHQ/status/2075684131837522299#m",
+      "date": "Fri, 10 Jul 2026 20:50:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "5934c6ab483ec6f81e222bd244a9ff499cd077941003fc5e3493d7a0dde2806d",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -256,21 +267,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHM4O9bnXkAAIOhh.jpg"
-      ]
-    },
-    {
-      "id": "9e213d0cc11734ed10fda82e96926827a71c5457e56ed6232cbd48b201507da3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1188 Toad||🌊 (@Toadgashi) #ONEPIECE1188 — https://nitter.net/Toadgashi/status/2075587492590280765#m",
-      "text": "#ONEPIECE1188 Toad||🌊 (@Toadgashi) #ONEPIECE1188 — https://nitter.net/Toadgashi/status/2075587492590280765#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2075607325843308776#m",
-      "date": "Fri, 10 Jul 2026 15:45:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM330nAXgAAItUw.jpg"
       ]
     },
     {
