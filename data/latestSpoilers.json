@@ -1,68 +1,39 @@
 {
-  "generatedAt": "2026-07-10T16:07:40.275Z",
+  "generatedAt": "2026-07-10T18:05:09.361Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "2ba9de5e21116bda2f622d724f83b3c8d8ed8ed40a1f84b46ee1ee8fb158e8bf",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil Union Asta first Character design 🔥⭐ #BlackClover #BCSpoiler",
-      "text": "Devil Union Asta first Character design 🔥⭐ #BlackClover #BCSpoiler",
-      "url": "https://nitter.net/PacemanOP/status/2075103337293439402#m",
-      "date": "Thu, 09 Jul 2026 06:22:43 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMw_edhbAAA6GaR.jpg",
-        "https://nitter.net/pic/media%2FHMw_fBIaEAATOPT.jpg"
-      ]
-    },
-    {
-      "id": "dd09300fd7956f72e2652e487a26e9dd4e5f0380ac59c6bcfb469209a23c6f07",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "text": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073509771337179350#m",
-      "date": "Sat, 04 Jul 2026 20:50:28 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
-      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
-      ]
-    },
-    {
-      "id": "9503bfb8898768ccc977c2fb215523cf1f408854a0b7e5bba39aa22ba7417dca",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073525580528767415#m",
-      "date": "Sat, 04 Jul 2026 21:53:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMakhSYbMAAicqF.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
+    {
+      "id": "ebfdc90c94caf799f62557ecdfd7eae083fac2de1c8a00f7e48c5716eb2e1d96",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1188 Imu's speed is something else, man. We know how fast Luffy actually is in Gear 5, yet even though Luffy knew Imu was watching him, he didn't see the attack coming and got speedblitzed, t",
+      "text": "#ONEPIECE1188 Imu's speed is something else, man. We know how fast Luffy actually is in Gear 5, yet even though Luffy knew Imu was watching him, he didn't see the attack coming and got speedblitzed, that's how fast Imu was. For someone so big, Imu is incredibly fast...",
+      "url": "https://nitter.net/WorstGenHQ/status/2075626304339091803#m",
+      "date": "Fri, 10 Jul 2026 17:00:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHM4bGHjX0AAhUJ8.jpg",
+        "https://nitter.net/pic/media%2FHM4bHP4XwAAcot1.jpg"
+      ]
+    },
+    {
+      "id": "3244bf68831ab53156b4f706668f6302b27ee959b00e829cdbd449adeea83fc0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Analyse du chapitre 1188 de One Piece : \"Joy boy, lui, n'était pas aussi faible.\" #ONEPIECE1188 Thread 🧵",
+      "text": "Analyse du chapitre 1188 de One Piece : \"Joy boy, lui, n'était pas aussi faible.\" #ONEPIECE1188 Thread 🧵",
+      "url": "https://nitter.net/HdoPlus/status/2075613022563848199#m",
+      "date": "Fri, 10 Jul 2026 16:08:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHM4O9bnXkAAIOhh.jpg"
+      ]
+    },
     {
       "id": "9e213d0cc11734ed10fda82e96926827a71c5457e56ed6232cbd48b201507da3",
       "anime": "onepiece",
@@ -125,60 +96,6 @@
         "https://nitter.net/pic/media%2FHM3KFX6XkAAMX5p.jpg",
         "https://nitter.net/pic/media%2FHM3K0MjWoAA5kU6.jpg"
       ]
-    },
-    {
-      "id": "2c2bf0a331076ac8f4fde52a8d6b4bf284ea2ebfa89689a74d7018e753b91e6a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1188 Looks amazing too:",
-      "text": "#ONEPIECE1188 Looks amazing too:",
-      "url": "https://nitter.net/WorstGenHQ/status/2075522237315047873#m",
-      "date": "Fri, 10 Jul 2026 10:07:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM28d4uXEAA0Mmm.jpg"
-      ]
-    },
-    {
-      "id": "630cbe18289342832130fc8f914b56f5ab76817aafc3d77c9bd7f33b5ef9753a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Greenwood transferi için hakkı teslim etmek gerekir. Bize yakışan Fenerbahçe’nin menfaatine olanı tebrik etmek, aleyhine yapılanı eleştirmektir. Greenwood transferi için çabalayan Aziz Yıldırım ve tra",
-      "text": "Greenwood transferi için hakkı teslim etmek gerekir. Bize yakışan Fenerbahçe’nin menfaatine olanı tebrik etmek, aleyhine yapılanı eleştirmektir. Greenwood transferi için çabalayan Aziz Yıldırım ve transfer sürecinde rol alan yöneticilerimize teşekkür ederiz. Yolun sonu şampiyonluk olsun.",
-      "url": "https://nitter.net/gizemlax/status/2075505233833144792#m",
-      "date": "Fri, 10 Jul 2026 08:59:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "82622cb7c12fe5f081fec18edaefa4248b6cb9239b7b8661f0500777ad703c04",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 3 Full Staff SB: Romanov Higa ED: Keita Nakano CAD: Tomoyuki Abe AD: Shiori Kono Eco-Animation Key Animation: Keiko Ishii, Nanako Arima, Miharu Honda, Ayana Suzuma, Yuuno Umemura, Shun N",
-      "text": "Grand Blue Ep 3 Full Staff SB: Romanov Higa ED: Keita Nakano CAD: Tomoyuki Abe AD: Shiori Kono Eco-Animation Key Animation: Keiko Ishii, Nanako Arima, Miharu Honda, Ayana Suzuma, Yuuno Umemura, Shun Narui, Ayane Hayashi, Tomoyuki Abe #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075504757930623364#m",
-      "date": "Fri, 10 Jul 2026 08:57:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
-      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
-      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5bf38ec848b63d42765550ed57ef86206d49d09e7fd4b39db3bdd9eb7f6cf811",
@@ -273,62 +190,34 @@
   ],
   "items": [
     {
-      "id": "2ba9de5e21116bda2f622d724f83b3c8d8ed8ed40a1f84b46ee1ee8fb158e8bf",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Devil Union Asta first Character design 🔥⭐ #BlackClover #BCSpoiler",
-      "text": "Devil Union Asta first Character design 🔥⭐ #BlackClover #BCSpoiler",
-      "url": "https://nitter.net/PacemanOP/status/2075103337293439402#m",
-      "date": "Thu, 09 Jul 2026 06:22:43 GMT",
-      "isSpoiler": true,
+      "id": "ebfdc90c94caf799f62557ecdfd7eae083fac2de1c8a00f7e48c5716eb2e1d96",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1188 Imu's speed is something else, man. We know how fast Luffy actually is in Gear 5, yet even though Luffy knew Imu was watching him, he didn't see the attack coming and got speedblitzed, t",
+      "text": "#ONEPIECE1188 Imu's speed is something else, man. We know how fast Luffy actually is in Gear 5, yet even though Luffy knew Imu was watching him, he didn't see the attack coming and got speedblitzed, that's how fast Imu was. For someone so big, Imu is incredibly fast...",
+      "url": "https://nitter.net/WorstGenHQ/status/2075626304339091803#m",
+      "date": "Fri, 10 Jul 2026 17:00:48 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMw_edhbAAA6GaR.jpg",
-        "https://nitter.net/pic/media%2FHMw_fBIaEAATOPT.jpg"
+        "https://nitter.net/pic/media%2FHM4bGHjX0AAhUJ8.jpg",
+        "https://nitter.net/pic/media%2FHM4bHP4XwAAcot1.jpg"
       ]
     },
     {
-      "id": "dd09300fd7956f72e2652e487a26e9dd4e5f0380ac59c6bcfb469209a23c6f07",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "text": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073509771337179350#m",
-      "date": "Sat, 04 Jul 2026 20:50:28 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
-      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
-      "isSpoiler": true,
+      "id": "3244bf68831ab53156b4f706668f6302b27ee959b00e829cdbd449adeea83fc0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Analyse du chapitre 1188 de One Piece : \"Joy boy, lui, n'était pas aussi faible.\" #ONEPIECE1188 Thread 🧵",
+      "text": "Analyse du chapitre 1188 de One Piece : \"Joy boy, lui, n'était pas aussi faible.\" #ONEPIECE1188 Thread 🧵",
+      "url": "https://nitter.net/HdoPlus/status/2075613022563848199#m",
+      "date": "Fri, 10 Jul 2026 16:08:02 GMT",
+      "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
-      ]
-    },
-    {
-      "id": "9503bfb8898768ccc977c2fb215523cf1f408854a0b7e5bba39aa22ba7417dca",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 summary #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073525580528767415#m",
-      "date": "Sat, 04 Jul 2026 21:53:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMakhSYbMAAicqF.jpg"
+        "https://nitter.net/pic/media%2FHM4O9bnXkAAIOhh.jpg"
       ]
     },
     {
@@ -393,60 +282,6 @@
         "https://nitter.net/pic/media%2FHM3KFX6XkAAMX5p.jpg",
         "https://nitter.net/pic/media%2FHM3K0MjWoAA5kU6.jpg"
       ]
-    },
-    {
-      "id": "2c2bf0a331076ac8f4fde52a8d6b4bf284ea2ebfa89689a74d7018e753b91e6a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1188 Looks amazing too:",
-      "text": "#ONEPIECE1188 Looks amazing too:",
-      "url": "https://nitter.net/WorstGenHQ/status/2075522237315047873#m",
-      "date": "Fri, 10 Jul 2026 10:07:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM28d4uXEAA0Mmm.jpg"
-      ]
-    },
-    {
-      "id": "630cbe18289342832130fc8f914b56f5ab76817aafc3d77c9bd7f33b5ef9753a",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Greenwood transferi için hakkı teslim etmek gerekir. Bize yakışan Fenerbahçe’nin menfaatine olanı tebrik etmek, aleyhine yapılanı eleştirmektir. Greenwood transferi için çabalayan Aziz Yıldırım ve tra",
-      "text": "Greenwood transferi için hakkı teslim etmek gerekir. Bize yakışan Fenerbahçe’nin menfaatine olanı tebrik etmek, aleyhine yapılanı eleştirmektir. Greenwood transferi için çabalayan Aziz Yıldırım ve transfer sürecinde rol alan yöneticilerimize teşekkür ederiz. Yolun sonu şampiyonluk olsun.",
-      "url": "https://nitter.net/gizemlax/status/2075505233833144792#m",
-      "date": "Fri, 10 Jul 2026 08:59:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "82622cb7c12fe5f081fec18edaefa4248b6cb9239b7b8661f0500777ad703c04",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 3 Full Staff SB: Romanov Higa ED: Keita Nakano CAD: Tomoyuki Abe AD: Shiori Kono Eco-Animation Key Animation: Keiko Ishii, Nanako Arima, Miharu Honda, Ayana Suzuma, Yuuno Umemura, Shun N",
-      "text": "Grand Blue Ep 3 Full Staff SB: Romanov Higa ED: Keita Nakano CAD: Tomoyuki Abe AD: Shiori Kono Eco-Animation Key Animation: Keiko Ishii, Nanako Arima, Miharu Honda, Ayana Suzuma, Yuuno Umemura, Shun Narui, Ayane Hayashi, Tomoyuki Abe #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075504757930623364#m",
-      "date": "Fri, 10 Jul 2026 08:57:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
-      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
-      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "5bf38ec848b63d42765550ed57ef86206d49d09e7fd4b39db3bdd9eb7f6cf811",
