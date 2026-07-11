@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T14:12:27.025Z",
+  "generatedAt": "2026-07-11T15:27:51.347Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -32,21 +32,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHM8BWQiWQAAxZjw.jpg"
-      ]
-    },
-    {
-      "id": "d55cea070e4eac3cbb58d0e0418d314c930047198c4aeadf851140c16777f540",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Accidentally paused Fairy Tail",
-      "text": "Accidentally paused Fairy Tail",
-      "url": "https://nitter.net/EtherionMaster/status/2075728778970505409#m",
-      "date": "Fri, 10 Jul 2026 23:48:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM54U0SW0AAyf6G.jpg"
       ]
     },
     {
@@ -91,6 +76,34 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "5934c6ab483ec6f81e222bd244a9ff499cd077941003fc5e3493d7a0dde2806d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "SPAIN GOOOOOL 1:0",
+      "text": "SPAIN GOOOOOL 1:0",
+      "url": "https://nitter.net/WorstGenHQ/status/2075663945520549986#m",
+      "date": "Fri, 10 Jul 2026 19:30:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f0268d90aa5546e012b216d2ba0f0102d2c8784e7d5790207ca2137263558385",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2075962356631236826#m",
+      "date": "Sat, 11 Jul 2026 15:16:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHM9MwibXMAAeHdL.jpg"
+      ]
     },
     {
       "id": "5bf38ec848b63d42765550ed57ef86206d49d09e7fd4b39db3bdd9eb7f6cf811",
@@ -165,21 +178,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMn6Fm2WQAAYajd.jpg"
-      ]
-    },
-    {
-      "id": "073f10839478012d5369583c0a258d05d35188e5544b1614542e43226244d5ee",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Power up is here!!",
-      "text": "Power up is here!!",
-      "url": "https://nitter.net/daily_berserk/status/2074185742809436260#m",
-      "date": "Mon, 06 Jul 2026 17:36:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMj88BsWgAAZGL_.jpg"
       ]
     }
   ],
@@ -216,21 +214,6 @@
       ]
     },
     {
-      "id": "d55cea070e4eac3cbb58d0e0418d314c930047198c4aeadf851140c16777f540",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Accidentally paused Fairy Tail",
-      "text": "Accidentally paused Fairy Tail",
-      "url": "https://nitter.net/EtherionMaster/status/2075728778970505409#m",
-      "date": "Fri, 10 Jul 2026 23:48:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM54U0SW0AAyf6G.jpg"
-      ]
-    },
-    {
       "id": "fc88ef55d28d95e93d2eb4ad11a0c949ea473c2165427b21cbf8b8147da9d436",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -272,6 +255,34 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "5934c6ab483ec6f81e222bd244a9ff499cd077941003fc5e3493d7a0dde2806d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "SPAIN GOOOOOL 1:0",
+      "text": "SPAIN GOOOOOL 1:0",
+      "url": "https://nitter.net/WorstGenHQ/status/2075663945520549986#m",
+      "date": "Fri, 10 Jul 2026 19:30:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f0268d90aa5546e012b216d2ba0f0102d2c8784e7d5790207ca2137263558385",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2075962356631236826#m",
+      "date": "Sat, 11 Jul 2026 15:16:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHM9MwibXMAAeHdL.jpg"
+      ]
     },
     {
       "id": "5bf38ec848b63d42765550ed57ef86206d49d09e7fd4b39db3bdd9eb7f6cf811",
@@ -346,21 +357,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHMn6Fm2WQAAYajd.jpg"
-      ]
-    },
-    {
-      "id": "073f10839478012d5369583c0a258d05d35188e5544b1614542e43226244d5ee",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Power up is here!!",
-      "text": "Power up is here!!",
-      "url": "https://nitter.net/daily_berserk/status/2074185742809436260#m",
-      "date": "Mon, 06 Jul 2026 17:36:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMj88BsWgAAZGL_.jpg"
       ]
     }
   ]
