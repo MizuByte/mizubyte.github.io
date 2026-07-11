@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T10:11:40.071Z",
+  "generatedAt": "2026-07-11T11:28:36.924Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -32,21 +32,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHM8BWQiWQAAxZjw.jpg"
-      ]
-    },
-    {
-      "id": "d55cea070e4eac3cbb58d0e0418d314c930047198c4aeadf851140c16777f540",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Accidentally paused Fairy Tail",
-      "text": "Accidentally paused Fairy Tail",
-      "url": "https://nitter.net/EtherionMaster/status/2075728778970505409#m",
-      "date": "Fri, 10 Jul 2026 23:48:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM54U0SW0AAyf6G.jpg"
       ]
     },
     {
@@ -88,6 +73,19 @@
       "text": "What a mistake of the Goalkeeper, goal for Spain...",
       "url": "https://nitter.net/WorstGenHQ/status/2075684131837522299#m",
       "date": "Fri, 10 Jul 2026 20:50:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5934c6ab483ec6f81e222bd244a9ff499cd077941003fc5e3493d7a0dde2806d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "SPAIN GOOOOOL 1:0",
+      "text": "SPAIN GOOOOOL 1:0",
+      "url": "https://nitter.net/WorstGenHQ/status/2075663945520549986#m",
+      "date": "Fri, 10 Jul 2026 19:30:23 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
@@ -216,21 +214,6 @@
       ]
     },
     {
-      "id": "d55cea070e4eac3cbb58d0e0418d314c930047198c4aeadf851140c16777f540",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Accidentally paused Fairy Tail",
-      "text": "Accidentally paused Fairy Tail",
-      "url": "https://nitter.net/EtherionMaster/status/2075728778970505409#m",
-      "date": "Fri, 10 Jul 2026 23:48:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM54U0SW0AAyf6G.jpg"
-      ]
-    },
-    {
       "id": "fc88ef55d28d95e93d2eb4ad11a0c949ea473c2165427b21cbf8b8147da9d436",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -269,6 +252,19 @@
       "text": "What a mistake of the Goalkeeper, goal for Spain...",
       "url": "https://nitter.net/WorstGenHQ/status/2075684131837522299#m",
       "date": "Fri, 10 Jul 2026 20:50:36 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "5934c6ab483ec6f81e222bd244a9ff499cd077941003fc5e3493d7a0dde2806d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "SPAIN GOOOOOL 1:0",
+      "text": "SPAIN GOOOOOL 1:0",
+      "url": "https://nitter.net/WorstGenHQ/status/2075663945520549986#m",
+      "date": "Fri, 10 Jul 2026 19:30:23 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
