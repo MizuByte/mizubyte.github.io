@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-07-12T18:39:12.957Z",
+  "generatedAt": "2026-07-12T19:52:28.704Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "8db99668b1527aa0fc5600b9a2e97c0cb9d6694e14dc4a0e89cb65738f91c392",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoiler",
+      "text": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2076392918731104488#m",
+      "date": "Sun, 12 Jul 2026 19:47:03 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDUWSDaAAAf_By.jpg"
+      ]
+    },
     {
       "id": "f6b8869050e64ee0be8fa8e443664c9e6ad2752a0cc7c0854d1678b7ea35ddc7",
       "anime": "blackclover",
@@ -31,34 +46,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMw_edhbAAA6GaR.jpg",
         "https://nitter.net/pic/media%2FHMw_fBIaEAATOPT.jpg"
-      ]
-    },
-    {
-      "id": "dd09300fd7956f72e2652e487a26e9dd4e5f0380ac59c6bcfb469209a23c6f07",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "text": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073509771337179350#m",
-      "date": "Sat, 04 Jul 2026 20:50:28 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
-      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
       ]
     }
   ],
@@ -156,6 +143,51 @@
       ]
     },
     {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
+      ]
+    },
+    {
+      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
+      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
+      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
+      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "d8da8d489ba8701f195a6cb430ed6f55047a8427a7e410ab3bbf4cd1cbb3c171",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -244,39 +276,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHM3EvapW8AAaEFZ.jpg"
       ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
-      ]
-    },
-    {
-      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
-      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
-      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
+    {
+      "id": "8db99668b1527aa0fc5600b9a2e97c0cb9d6694e14dc4a0e89cb65738f91c392",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoiler",
+      "text": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2076392918731104488#m",
+      "date": "Sun, 12 Jul 2026 19:47:03 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDUWSDaAAAf_By.jpg"
+      ]
+    },
     {
       "id": "f6b8869050e64ee0be8fa8e443664c9e6ad2752a0cc7c0854d1678b7ea35ddc7",
       "anime": "blackclover",
@@ -306,34 +323,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHMw_edhbAAA6GaR.jpg",
         "https://nitter.net/pic/media%2FHMw_fBIaEAATOPT.jpg"
-      ]
-    },
-    {
-      "id": "dd09300fd7956f72e2652e487a26e9dd4e5f0380ac59c6bcfb469209a23c6f07",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "text": "Black Clover S2 Opening Theme WANIMA- \"Kienai Riyuu\" #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073509771337179350#m",
-      "date": "Sat, 04 Jul 2026 20:50:28 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "a94046b78bf8911cb333c361d1cad8e5a43947a7cb90f1bc45327bd8f23b5f59",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "text": "Black Clover S2 Ep 1 ends here Just as I Said #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2073517919104033031#m",
-      "date": "Sat, 04 Jul 2026 21:22:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHMadjfHaoAAaDTX.jpg"
       ]
     },
     {
@@ -429,6 +418,51 @@
       ]
     },
     {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
+      ]
+    },
+    {
+      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
+      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
+      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
+      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "d8da8d489ba8701f195a6cb430ed6f55047a8427a7e410ab3bbf4cd1cbb3c171",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -517,36 +551,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHM3EvapW8AAaEFZ.jpg"
       ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
-      ]
-    },
-    {
-      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
-      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
-      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ]
 }
