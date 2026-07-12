@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-07-12T10:48:35.580Z",
+  "generatedAt": "2026-07-12T11:47:00.068Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
+    {
+      "id": "243ab3a68a72396106f4ba921263fa595f1b700229d4a0294042214841f0babf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1188 I hope Oda eventually shows us Loki's version of Hakoku/Hakai; with Ragnir, that could turn into an insanely powerful attack. I’d also really love it if Oda highlighted the mechanics beh",
+      "text": "#ONEPIECE1188 I hope Oda eventually shows us Loki's version of Hakoku/Hakai; with Ragnir, that could turn into an insanely powerful attack. I’d also really love it if Oda highlighted the mechanics behind the attack(just like he did with the background of Ryou back in Wano).",
+      "url": "https://nitter.net/WorstGenHQ/status/2076264100741386253#m",
+      "date": "Sun, 12 Jul 2026 11:15:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNBeblwXoAEY65t.jpg",
+        "https://nitter.net/pic/media%2FHNBec_kWEAALix8.jpg"
+      ]
+    },
     {
       "id": "abae060bc7632bee99885f91be6047b8e4138b212c48998e1f6796bfc3210533",
       "anime": "onepiece",
@@ -73,22 +89,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2075977883005157376%2Fimg%2F1PjQKulH-A3ZsAbS.jpg"
-      ]
-    },
-    {
-      "id": "7ef18c8802af2940105a31c74cdb6cfee26faa0b6116c7d758601028ce44556c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1188 The fact that Imu's attacks can change course midway, much like Snakeman's attacks, is a nightmare scenario, even for users of CoO (Future Sight). Especially since Imu likely possesses F",
-      "text": "#ONEPIECE1188 The fact that Imu's attacks can change course midway, much like Snakeman's attacks, is a nightmare scenario, even for users of CoO (Future Sight). Especially since Imu likely possesses Future Sight as well, making it impossible for anyone to dodge those attacks.",
-      "url": "https://nitter.net/WorstGenHQ/status/2075882556675768779#m",
-      "date": "Sat, 11 Jul 2026 09:59:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM8DqRzWwAACAGf.jpg",
-        "https://nitter.net/pic/media%2FHM8DrfpXIAAF1Qt.jpg"
       ]
     },
     {
@@ -184,6 +184,22 @@
   ],
   "items": [
     {
+      "id": "243ab3a68a72396106f4ba921263fa595f1b700229d4a0294042214841f0babf",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1188 I hope Oda eventually shows us Loki's version of Hakoku/Hakai; with Ragnir, that could turn into an insanely powerful attack. I’d also really love it if Oda highlighted the mechanics beh",
+      "text": "#ONEPIECE1188 I hope Oda eventually shows us Loki's version of Hakoku/Hakai; with Ragnir, that could turn into an insanely powerful attack. I’d also really love it if Oda highlighted the mechanics behind the attack(just like he did with the background of Ryou back in Wano).",
+      "url": "https://nitter.net/WorstGenHQ/status/2076264100741386253#m",
+      "date": "Sun, 12 Jul 2026 11:15:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNBeblwXoAEY65t.jpg",
+        "https://nitter.net/pic/media%2FHNBec_kWEAALix8.jpg"
+      ]
+    },
+    {
       "id": "abae060bc7632bee99885f91be6047b8e4138b212c48998e1f6796bfc3210533",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -253,22 +269,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2075977883005157376%2Fimg%2F1PjQKulH-A3ZsAbS.jpg"
-      ]
-    },
-    {
-      "id": "7ef18c8802af2940105a31c74cdb6cfee26faa0b6116c7d758601028ce44556c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1188 The fact that Imu's attacks can change course midway, much like Snakeman's attacks, is a nightmare scenario, even for users of CoO (Future Sight). Especially since Imu likely possesses F",
-      "text": "#ONEPIECE1188 The fact that Imu's attacks can change course midway, much like Snakeman's attacks, is a nightmare scenario, even for users of CoO (Future Sight). Especially since Imu likely possesses Future Sight as well, making it impossible for anyone to dodge those attacks.",
-      "url": "https://nitter.net/WorstGenHQ/status/2075882556675768779#m",
-      "date": "Sat, 11 Jul 2026 09:59:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHM8DqRzWwAACAGf.jpg",
-        "https://nitter.net/pic/media%2FHM8DrfpXIAAF1Qt.jpg"
       ]
     },
     {
