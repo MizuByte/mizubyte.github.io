@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:11:04.041Z",
+  "generatedAt": "2026-07-15T18:34:29.297Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -34,6 +34,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "29d853cd0ed51e9fec5ca19b98aac392a7d3c5595990414b24f37d442efa79a3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Ready for Argentina GREATNESS vs England? Messi in the 99Min with the leading goal🙌🙌🙌 Video",
+      "text": "Ready for Argentina GREATNESS vs England? Messi in the 99Min with the leading goal🙌🙌🙌 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2077452401443831817#m",
+      "date": "Wed, 15 Jul 2026 17:57:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2077452370351448064%2Fpu%2Fimg%2F6jR38yEPQvUFxcaU.jpg"
+      ]
+    },
     {
       "id": "65c7223802d231399eb2b24609da75f5bcc2c3e8fce8c84e6e0055f3b0e4a6b5",
       "anime": "onepiece",
@@ -107,21 +122,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNKyVOFXYAARxLL.jpg"
-      ]
-    },
-    {
-      "id": "f85867d24dd44d8b775de2c6a4e34a69aa144eb779651b7b3db6290c5f85ff82",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Paris right now... Congrats Spain :)",
-      "text": "Paris right now... Congrats Spain :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2077135180150567177#m",
-      "date": "Tue, 14 Jul 2026 20:56:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNN3cHDWIAEfqhL.jpg"
       ]
     },
     {
@@ -366,6 +366,21 @@
       ]
     },
     {
+      "id": "29d853cd0ed51e9fec5ca19b98aac392a7d3c5595990414b24f37d442efa79a3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Ready for Argentina GREATNESS vs England? Messi in the 99Min with the leading goal🙌🙌🙌 Video",
+      "text": "Ready for Argentina GREATNESS vs England? Messi in the 99Min with the leading goal🙌🙌🙌 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2077452401443831817#m",
+      "date": "Wed, 15 Jul 2026 17:57:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/ext_tw_video_thumb%2F2077452370351448064%2Fpu%2Fimg%2F6jR38yEPQvUFxcaU.jpg"
+      ]
+    },
+    {
       "id": "65c7223802d231399eb2b24609da75f5bcc2c3e8fce8c84e6e0055f3b0e4a6b5",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -438,21 +453,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNKyVOFXYAARxLL.jpg"
-      ]
-    },
-    {
-      "id": "f85867d24dd44d8b775de2c6a4e34a69aa144eb779651b7b3db6290c5f85ff82",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Paris right now... Congrats Spain :)",
-      "text": "Paris right now... Congrats Spain :)",
-      "url": "https://nitter.net/WorstGenHQ/status/2077135180150567177#m",
-      "date": "Tue, 14 Jul 2026 20:56:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNN3cHDWIAEfqhL.jpg"
       ]
     },
     {
