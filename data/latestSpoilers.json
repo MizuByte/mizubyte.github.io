@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:45:55.778Z",
+  "generatedAt": "2026-07-16T17:54:20.390Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -128,64 +128,6 @@
       ]
     },
     {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
-      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
-      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
-      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
-      ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
-      ]
-    },
-    {
-      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
-      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
-      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -272,6 +214,64 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHK7YqXsWAAAP5ed.jpg"
       ]
+    },
+    {
+      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
+      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
+      ]
+    },
+    {
+      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
+      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
+      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
+      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
@@ -399,64 +399,6 @@
       ]
     },
     {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
-      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
-      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
-      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
-      ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
-      ]
-    },
-    {
-      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
-      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
-      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
-      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -543,6 +485,64 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHK7YqXsWAAAP5ed.jpg"
       ]
+    },
+    {
+      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
+      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
+      ]
+    },
+    {
+      "id": "3a371ae78255fa419018152bebdc2a524cfe75cfad8222ae6def852bd4bc5515",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suz",
+      "text": "Grand Blue Ep 2 Full Staff SB: Katsuhiko Nishijima ED: Takashi Asami CAD: Tomoyuki Abe AD: Shiori Kouno Key Animation AD Cooperation: Keiko Ishii, Nanako Arima KA: Keiko Ishii, Nanako Arima, Ayana Suzuma, Miharu Honda, Yuuno Umemura, Jun Narui, Ayane Hayashi #GrandBlue",
+      "url": "https://nitter.net/PacemanOP/status/2075503067840266247#m",
+      "date": "Fri, 10 Jul 2026 08:51:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
