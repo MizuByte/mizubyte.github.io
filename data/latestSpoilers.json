@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-07-16T07:33:52.691Z",
+  "generatedAt": "2026-07-16T09:49:55.967Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "a3a81a83bd609d74208d2d5bbbf06ea6f983d90a0f74f2f07cc84c5649512e7e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#hxhspoilers Gon is back!! And Killua too!!",
-      "text": "#hxhspoilers Gon is back!! And Killua too!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2077649598407938198#m",
-      "date": "Thu, 16 Jul 2026 07:00:39 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNVLSkqWAAA-gIf.jpg"
-      ]
-    },
     {
       "id": "8db99668b1527aa0fc5600b9a2e97c0cb9d6694e14dc4a0e89cb65738f91c392",
       "anime": "blackclover",
@@ -50,75 +35,70 @@
   ],
   "misc": [
     {
-      "id": "37377b09900b3647e9d3f84e19b7a15cee4e290df0c9664d4acbd62edbf998b3",
+      "id": "63e82378bbfccc5a849480049390218b836d670a877aec380fa95d073b6c4c08",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Einfach das WM-Finale",
-      "text": "Einfach das WM-Finale",
-      "url": "https://nitter.net/Raafey17/status/2077499239731487112#m",
-      "date": "Wed, 15 Jul 2026 21:03:11 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Here's info on the Heroes in the Forging Bonds: Mutual Love event. #FEHeroes Heroes appearing in each story: ・ Alear ♂: Lute, Kris ♂ ・ Alear ♀: Framme, Clanne ・ Jade: Diamant, Alfonse ・ Boucheron: Alf",
+      "text": "Here's info on the Heroes in the Forging Bonds: Mutual Love event. #FEHeroes Heroes appearing in each story: ・ Alear ♂: Lute, Kris ♂ ・ Alear ♀: Framme, Clanne ・ Jade: Diamant, Alfonse ・ Boucheron: Alfred, Etie",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2077679886630785528#m",
+      "date": "Thu, 16 Jul 2026 09:01:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNTCi-MXEAM4BUm.jpg"
+        "https://nitter.net/pic/media%2FHNQ6Ik_bYAAaoZj.jpg",
+        "https://nitter.net/pic/media%2FHNQ6CjyakAA9J6-.jpg",
+        "https://nitter.net/pic/media%2FHNQ5_c4aIAABVmx.jpg",
+        "https://nitter.net/pic/media%2FHNQ6IJnaYAA6ReW.jpg"
       ]
     },
     {
-      "id": "82034780ede0089fbb2a8d0dc0926ecced2f8d280d7f698d76feea0ff639afdd",
+      "id": "24682486cf1c23aa1bb8954a27e614c26e1f02c6d4607b0db054b386f790b109",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Sunday will be very interesting :) Video",
-      "text": "Sunday will be very interesting :) Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2077500058417692729#m",
-      "date": "Wed, 15 Jul 2026 21:06:26 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#ForgingBonds: Mutual Love begins tomorrow! Jade, a royal knight of Brodia, and Boucheron, a royal knight of Firene, are carrying out their first mission as members of the Order of Heroes. As they bra",
+      "text": "#ForgingBonds: Mutual Love begins tomorrow! Jade, a royal knight of Brodia, and Boucheron, a royal knight of Firene, are carrying out their first mission as members of the Order of Heroes. As they brace themselves for their next enemy, a surprising Hero appears before them... Note: The following post features other Heroes in the story.",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2077679648390177213#m",
+      "date": "Thu, 16 Jul 2026 09:00:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2077499964414926848%2Fimg%2FZlE0MHJn5VjOjJ8D.jpg"
+        "https://nitter.net/pic/media%2FHNQ6K6abwAAJdjC.jpg",
+        "https://nitter.net/pic/media%2FHNRIXfMbIAAyHBy.jpg",
+        "https://nitter.net/pic/media%2FHNRIXF6bMAAabUf.jpg",
+        "https://nitter.net/pic/media%2FHNRIX6mbsAAk8Um.jpg"
       ]
     },
     {
-      "id": "a596a4fe41799741789626c3930aa16fc1805bcfd720d6bda4233fa9241e94e7",
+      "id": "cc4e0eb09a0ff751085a4aa95954b9ca2fffc8e3ebb16bcb5a83e02482ebc9c9",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Bought vol. 1-5. What is your opinion about this manga?",
-      "text": "Bought vol. 1-5. What is your opinion about this manga?",
-      "url": "https://nitter.net/gigiconlaG/status/2077497507400052908#m",
-      "date": "Wed, 15 Jul 2026 20:56:18 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "／ 『キングダムmagazine2026』 カバーデザイン解禁！！ ＼ キングダムを楽しみ尽くす1冊‼︎‼︎! 『キングダムmagazine2026』8/19（水）発売です！ カバーイラストは原泰久先生描き下ろし！ 豪華な特別企画も目白押しです！ 是非お見逃しなく！！ #キングダム",
+      "text": "／ 『キングダムmagazine2026』 カバーデザイン解禁！！ ＼ キングダムを楽しみ尽くす1冊‼︎‼︎! 『キングダムmagazine2026』8/19（水）発売です！ カバーイラストは原泰久先生描き下ろし！ 豪華な特別企画も目白押しです！ 是非お見逃しなく！！ #キングダム",
+      "url": "https://nitter.net/kingdom_yj/status/2077664404083278109#m",
+      "date": "Thu, 16 Jul 2026 07:59:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNTA-JbXMAAEV0y.jpg"
+        "https://nitter.net/pic/media%2FHNVYw0dbIAApGQR.jpg"
       ]
     },
     {
-      "id": "53744f4bb5cf5c8f42710e62445f9a4d295014bf4c1febab65293515e49e12c9",
+      "id": "5a4052b7421e75f0cfd4de5b74a1387698021388bd9d7105af3c4a375d57c1f0",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Tuchel lost this with his own hands... Watched how his team was pressed for like 20mins without doing anything. Coach difference made it in the end here...",
-      "text": "Tuchel lost this with his own hands... Watched how his team was pressed for like 20mins without doing anything. Coach difference made it in the end here...",
-      "url": "https://nitter.net/WorstGenHQ/status/2077497258606551118#m",
-      "date": "Wed, 15 Jul 2026 20:55:19 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★お知らせ★ ONE PIECE DAY'26開催記念商品 「ONE PIECEカードゲーム プレミアムカードコレクション -ONE PIECE DAY'26-」が 8月22日（土）からプレミアムバンダイにて抽選販売決定！ 詳細情報は後日更新！お楽しみに！ ※本商品につきましてはONE PIECE DAY'26会場での販売はございません。 #ワンピカード #ONEPIECE #ONEPIECEDA",
+      "text": "★お知らせ★ ONE PIECE DAY'26開催記念商品 「ONE PIECEカードゲーム プレミアムカードコレクション -ONE PIECE DAY'26-」が 8月22日（土）からプレミアムバンダイにて抽選販売決定！ 詳細情報は後日更新！お楽しみに！ ※本商品につきましてはONE PIECE DAY'26会場での販売はございません。 #ワンピカード #ONEPIECE #ONEPIECEDAY",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2077664534039339167#m",
+      "date": "Thu, 16 Jul 2026 08:00:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "25e640acf86b97c839acb6ca8db3560743f0ca4deaae12c85bd4ce6ed6d383e6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Argentina 2:1 GOOOOALLL",
-      "text": "Argentina 2:1 GOOOOALLL",
-      "url": "https://nitter.net/WorstGenHQ/status/2077496670737117222#m",
-      "date": "Wed, 15 Jul 2026 20:52:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNVD8ckagAEpF0n.jpg"
+      ]
     },
     {
       "id": "aaacfbb50ccd4d531b7e86fef72e6055b3341d3db67db983245ec5a042a0edca",
@@ -148,67 +128,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNTqjdrb0AAefUn.jpg"
-      ]
-    },
-    {
-      "id": "cbb615ddf6c7030227ca5ce2b214a396a314271c454771ecbb4604921e0eced6",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【Blu-ray / DVD情報】 ⠀ 8.5(水)発売 『21stシーズン エッグヘッド編 piece.25』の ジャケットが公開されました📀 ⠀ 〝自由な未来〟の姿のボニーが目印！ ⠀ #ONEPIECE",
-      "text": "【Blu-ray / DVD情報】 ⠀ 8.5(水)発売 『21stシーズン エッグヘッド編 piece.25』の ジャケットが公開されました📀 ⠀ 〝自由な未来〟の姿のボニーが目印！ ⠀ #ONEPIECE",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2077613193506222301#m",
-      "date": "Thu, 16 Jul 2026 04:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNUqL99a4AAhi-y.jpg"
-      ]
-    },
-    {
-      "id": "3ea994a5072973903790001a367306e86a194d9590581857a6ed18b4e628bc83",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「ONE PIECE DAY’26」会場にて きただにひろしと大槻マキのCDが LPサイズジャケット仕様パッケージと なった数量限定生産盤を先行発売！ さらに会場では お2人の握手会も開催決定!! #ONEPIECE ▼詳細はこちら one-piece.com/news/81027/ind…",
-      "text": "「ONE PIECE DAY’26」会場にて きただにひろしと大槻マキのCDが LPサイズジャケット仕様パッケージと なった数量限定生産盤を先行発売！ さらに会場では お2人の握手会も開催決定!! #ONEPIECE ▼詳細はこちら one-piece.com/news/81027/ind…",
-      "url": "https://nitter.net/OPcom_info/status/2077559464417538206#m",
-      "date": "Thu, 16 Jul 2026 01:02:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNT5UpvaIAANSYX.jpg"
-      ]
-    },
-    {
-      "id": "c5fc5ec155dd98a7ed0a59a52ff4802b42cd56907d4a445bf66817a9d8ad2da5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "となジャン版ワンパンマン、最新話更新されました！是非→[第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ] Link [第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ 平熱系最強ヒーロー“サイタマ”の日常ノックアウトコミック‼ tonarinoyj.jp",
-      "text": "となジャン版ワンパンマン、最新話更新されました！是非→[第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ] Link [第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ 平熱系最強ヒーロー“サイタマ”の日常ノックアウトコミック‼ tonarinoyj.jp",
-      "url": "https://nitter.net/NEBU_KURO/status/2077540192630833543#m",
-      "date": "Wed, 15 Jul 2026 23:45:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2077408143504785408%2F9pWP1-_T%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "cfc00070666be9facdfd20f84f6023b1b8db082c36c609a7961426d5efed91ca",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「あの島の海音荘」2巻本日発売です。 よろしくお願いします！ 紙版には初版特典で女神のカフェテラスの イラストカードも付いてます⭐️",
-      "text": "「あの島の海音荘」2巻本日発売です。 よろしくお願いします！ 紙版には初版特典で女神のカフェテラスの イラストカードも付いてます⭐️",
-      "url": "https://nitter.net/seokouji/status/2077533203381076393#m",
-      "date": "Wed, 15 Jul 2026 23:18:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNThb-VbsAEnQXG.jpg",
-        "https://nitter.net/pic/media%2FHNThb-fbwAALYcU.jpg"
       ]
     },
     {
@@ -343,24 +262,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHM-g1CNWIAIbdR5.jpg"
       ]
+    },
+    {
+      "id": "260597997ed48c065a74b62219bf3f3bfd87d9ce211cb82c76d8aa7dd6c920dd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2076041858958930098#m",
+      "date": "Sat, 11 Jul 2026 20:32:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHM-VEHHWoAA9wUZ.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "a3a81a83bd609d74208d2d5bbbf06ea6f983d90a0f74f2f07cc84c5649512e7e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#hxhspoilers Gon is back!! And Killua too!!",
-      "text": "#hxhspoilers Gon is back!! And Killua too!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2077649598407938198#m",
-      "date": "Thu, 16 Jul 2026 07:00:39 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNVLSkqWAAA-gIf.jpg"
-      ]
-    },
     {
       "id": "8db99668b1527aa0fc5600b9a2e97c0cb9d6694e14dc4a0e89cb65738f91c392",
       "anime": "blackclover",
@@ -392,75 +311,70 @@
       ]
     },
     {
-      "id": "37377b09900b3647e9d3f84e19b7a15cee4e290df0c9664d4acbd62edbf998b3",
+      "id": "63e82378bbfccc5a849480049390218b836d670a877aec380fa95d073b6c4c08",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Einfach das WM-Finale",
-      "text": "Einfach das WM-Finale",
-      "url": "https://nitter.net/Raafey17/status/2077499239731487112#m",
-      "date": "Wed, 15 Jul 2026 21:03:11 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Here's info on the Heroes in the Forging Bonds: Mutual Love event. #FEHeroes Heroes appearing in each story: ・ Alear ♂: Lute, Kris ♂ ・ Alear ♀: Framme, Clanne ・ Jade: Diamant, Alfonse ・ Boucheron: Alf",
+      "text": "Here's info on the Heroes in the Forging Bonds: Mutual Love event. #FEHeroes Heroes appearing in each story: ・ Alear ♂: Lute, Kris ♂ ・ Alear ♀: Framme, Clanne ・ Jade: Diamant, Alfonse ・ Boucheron: Alfred, Etie",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2077679886630785528#m",
+      "date": "Thu, 16 Jul 2026 09:01:01 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNTCi-MXEAM4BUm.jpg"
+        "https://nitter.net/pic/media%2FHNQ6Ik_bYAAaoZj.jpg",
+        "https://nitter.net/pic/media%2FHNQ6CjyakAA9J6-.jpg",
+        "https://nitter.net/pic/media%2FHNQ5_c4aIAABVmx.jpg",
+        "https://nitter.net/pic/media%2FHNQ6IJnaYAA6ReW.jpg"
       ]
     },
     {
-      "id": "82034780ede0089fbb2a8d0dc0926ecced2f8d280d7f698d76feea0ff639afdd",
+      "id": "24682486cf1c23aa1bb8954a27e614c26e1f02c6d4607b0db054b386f790b109",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Sunday will be very interesting :) Video",
-      "text": "Sunday will be very interesting :) Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2077500058417692729#m",
-      "date": "Wed, 15 Jul 2026 21:06:26 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#ForgingBonds: Mutual Love begins tomorrow! Jade, a royal knight of Brodia, and Boucheron, a royal knight of Firene, are carrying out their first mission as members of the Order of Heroes. As they bra",
+      "text": "#ForgingBonds: Mutual Love begins tomorrow! Jade, a royal knight of Brodia, and Boucheron, a royal knight of Firene, are carrying out their first mission as members of the Order of Heroes. As they brace themselves for their next enemy, a surprising Hero appears before them... Note: The following post features other Heroes in the story.",
+      "url": "https://nitter.net/FE_Heroes_EN/status/2077679648390177213#m",
+      "date": "Thu, 16 Jul 2026 09:00:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2077499964414926848%2Fimg%2FZlE0MHJn5VjOjJ8D.jpg"
+        "https://nitter.net/pic/media%2FHNQ6K6abwAAJdjC.jpg",
+        "https://nitter.net/pic/media%2FHNRIXfMbIAAyHBy.jpg",
+        "https://nitter.net/pic/media%2FHNRIXF6bMAAabUf.jpg",
+        "https://nitter.net/pic/media%2FHNRIX6mbsAAk8Um.jpg"
       ]
     },
     {
-      "id": "a596a4fe41799741789626c3930aa16fc1805bcfd720d6bda4233fa9241e94e7",
+      "id": "cc4e0eb09a0ff751085a4aa95954b9ca2fffc8e3ebb16bcb5a83e02482ebc9c9",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Bought vol. 1-5. What is your opinion about this manga?",
-      "text": "Bought vol. 1-5. What is your opinion about this manga?",
-      "url": "https://nitter.net/gigiconlaG/status/2077497507400052908#m",
-      "date": "Wed, 15 Jul 2026 20:56:18 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "／ 『キングダムmagazine2026』 カバーデザイン解禁！！ ＼ キングダムを楽しみ尽くす1冊‼︎‼︎! 『キングダムmagazine2026』8/19（水）発売です！ カバーイラストは原泰久先生描き下ろし！ 豪華な特別企画も目白押しです！ 是非お見逃しなく！！ #キングダム",
+      "text": "／ 『キングダムmagazine2026』 カバーデザイン解禁！！ ＼ キングダムを楽しみ尽くす1冊‼︎‼︎! 『キングダムmagazine2026』8/19（水）発売です！ カバーイラストは原泰久先生描き下ろし！ 豪華な特別企画も目白押しです！ 是非お見逃しなく！！ #キングダム",
+      "url": "https://nitter.net/kingdom_yj/status/2077664404083278109#m",
+      "date": "Thu, 16 Jul 2026 07:59:29 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNTA-JbXMAAEV0y.jpg"
+        "https://nitter.net/pic/media%2FHNVYw0dbIAApGQR.jpg"
       ]
     },
     {
-      "id": "53744f4bb5cf5c8f42710e62445f9a4d295014bf4c1febab65293515e49e12c9",
+      "id": "5a4052b7421e75f0cfd4de5b74a1387698021388bd9d7105af3c4a375d57c1f0",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Tuchel lost this with his own hands... Watched how his team was pressed for like 20mins without doing anything. Coach difference made it in the end here...",
-      "text": "Tuchel lost this with his own hands... Watched how his team was pressed for like 20mins without doing anything. Coach difference made it in the end here...",
-      "url": "https://nitter.net/WorstGenHQ/status/2077497258606551118#m",
-      "date": "Wed, 15 Jul 2026 20:55:19 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "★お知らせ★ ONE PIECE DAY'26開催記念商品 「ONE PIECEカードゲーム プレミアムカードコレクション -ONE PIECE DAY'26-」が 8月22日（土）からプレミアムバンダイにて抽選販売決定！ 詳細情報は後日更新！お楽しみに！ ※本商品につきましてはONE PIECE DAY'26会場での販売はございません。 #ワンピカード #ONEPIECE #ONEPIECEDA",
+      "text": "★お知らせ★ ONE PIECE DAY'26開催記念商品 「ONE PIECEカードゲーム プレミアムカードコレクション -ONE PIECE DAY'26-」が 8月22日（土）からプレミアムバンダイにて抽選販売決定！ 詳細情報は後日更新！お楽しみに！ ※本商品につきましてはONE PIECE DAY'26会場での販売はございません。 #ワンピカード #ONEPIECE #ONEPIECEDAY",
+      "url": "https://nitter.net/ONEPIECE_tcg/status/2077664534039339167#m",
+      "date": "Thu, 16 Jul 2026 08:00:00 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "25e640acf86b97c839acb6ca8db3560743f0ca4deaae12c85bd4ce6ed6d383e6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Argentina 2:1 GOOOOALLL",
-      "text": "Argentina 2:1 GOOOOALLL",
-      "url": "https://nitter.net/WorstGenHQ/status/2077496670737117222#m",
-      "date": "Wed, 15 Jul 2026 20:52:58 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNVD8ckagAEpF0n.jpg"
+      ]
     },
     {
       "id": "aaacfbb50ccd4d531b7e86fef72e6055b3341d3db67db983245ec5a042a0edca",
@@ -490,67 +404,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNTqjdrb0AAefUn.jpg"
-      ]
-    },
-    {
-      "id": "cbb615ddf6c7030227ca5ce2b214a396a314271c454771ecbb4604921e0eced6",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【Blu-ray / DVD情報】 ⠀ 8.5(水)発売 『21stシーズン エッグヘッド編 piece.25』の ジャケットが公開されました📀 ⠀ 〝自由な未来〟の姿のボニーが目印！ ⠀ #ONEPIECE",
-      "text": "【Blu-ray / DVD情報】 ⠀ 8.5(水)発売 『21stシーズン エッグヘッド編 piece.25』の ジャケットが公開されました📀 ⠀ 〝自由な未来〟の姿のボニーが目印！ ⠀ #ONEPIECE",
-      "url": "https://nitter.net/Eiichiro_Staff/status/2077613193506222301#m",
-      "date": "Thu, 16 Jul 2026 04:36:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNUqL99a4AAhi-y.jpg"
-      ]
-    },
-    {
-      "id": "3ea994a5072973903790001a367306e86a194d9590581857a6ed18b4e628bc83",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「ONE PIECE DAY’26」会場にて きただにひろしと大槻マキのCDが LPサイズジャケット仕様パッケージと なった数量限定生産盤を先行発売！ さらに会場では お2人の握手会も開催決定!! #ONEPIECE ▼詳細はこちら one-piece.com/news/81027/ind…",
-      "text": "「ONE PIECE DAY’26」会場にて きただにひろしと大槻マキのCDが LPサイズジャケット仕様パッケージと なった数量限定生産盤を先行発売！ さらに会場では お2人の握手会も開催決定!! #ONEPIECE ▼詳細はこちら one-piece.com/news/81027/ind…",
-      "url": "https://nitter.net/OPcom_info/status/2077559464417538206#m",
-      "date": "Thu, 16 Jul 2026 01:02:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNT5UpvaIAANSYX.jpg"
-      ]
-    },
-    {
-      "id": "c5fc5ec155dd98a7ed0a59a52ff4802b42cd56907d4a445bf66817a9d8ad2da5",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "となジャン版ワンパンマン、最新話更新されました！是非→[第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ] Link [第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ 平熱系最強ヒーロー“サイタマ”の日常ノックアウトコミック‼ tonarinoyj.jp",
-      "text": "となジャン版ワンパンマン、最新話更新されました！是非→[第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ [ tonarinoyj.jp/episode/122074… ] Link [第280話] ワンパンマン - ＯＮＥ/村田雄介 | となりのヤングジャンプ 平熱系最強ヒーロー“サイタマ”の日常ノックアウトコミック‼ tonarinoyj.jp",
-      "url": "https://nitter.net/NEBU_KURO/status/2077540192630833543#m",
-      "date": "Wed, 15 Jul 2026 23:45:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2077408143504785408%2F9pWP1-_T%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "cfc00070666be9facdfd20f84f6023b1b8db082c36c609a7961426d5efed91ca",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「あの島の海音荘」2巻本日発売です。 よろしくお願いします！ 紙版には初版特典で女神のカフェテラスの イラストカードも付いてます⭐️",
-      "text": "「あの島の海音荘」2巻本日発売です。 よろしくお願いします！ 紙版には初版特典で女神のカフェテラスの イラストカードも付いてます⭐️",
-      "url": "https://nitter.net/seokouji/status/2077533203381076393#m",
-      "date": "Wed, 15 Jul 2026 23:18:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNThb-VbsAEnQXG.jpg",
-        "https://nitter.net/pic/media%2FHNThb-fbwAALYcU.jpg"
       ]
     },
     {
@@ -684,6 +537,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHM-g1CNWIAIbdR5.jpg"
+      ]
+    },
+    {
+      "id": "260597997ed48c065a74b62219bf3f3bfd87d9ce211cb82c76d8aa7dd6c920dd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2076041858958930098#m",
+      "date": "Sat, 11 Jul 2026 20:32:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHM-VEHHWoAA9wUZ.jpg"
       ]
     }
   ]
