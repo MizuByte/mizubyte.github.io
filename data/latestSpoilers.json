@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T09:11:50.317Z",
+  "generatedAt": "2026-07-18T10:43:55.000Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -50,6 +50,159 @@
   ],
   "misc": [
     {
+      "id": "6747dbdd404f8fe79805fbfc6ce1392145fccaaa1ca870162d16be7c03da533d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077858691311702442#m",
+      "date": "Thu, 16 Jul 2026 20:51:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNYJd3uXgAAVsuB.jpg"
+      ]
+    },
+    {
+      "id": "6400f65abefaec3e0a26561ff53adc674133b464980377949d3a3632ea8454ba",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
+      "text": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
+      "url": "https://nitter.net/daily_berserk/status/2077696303941697872#m",
+      "date": "Thu, 16 Jul 2026 10:06:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNV1vfYW8AAbLbt.jpg",
+        "https://nitter.net/pic/media%2FHNV1vfcX0AAu-6b.jpg",
+        "https://nitter.net/pic/media%2FHNV1vfYXYAAe8SF.jpg",
+        "https://nitter.net/pic/media%2FHNV1vfZWAAEmNrz.jpg"
+      ]
+    },
+    {
+      "id": "2ac1a17da3978104b5dac798e932a4fb4529c2d98b020410d7e2202a12a2655d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077473273227465040#m",
+      "date": "Wed, 15 Jul 2026 19:20:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
+      ]
+    },
+    {
+      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
+      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
+      ]
+    },
+    {
+      "id": "d8da8d489ba8701f195a6cb430ed6f55047a8427a7e410ab3bbf4cd1cbb3c171",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2076372970650337481#m",
+      "date": "Sun, 12 Jul 2026 18:27:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDCNZsWQAAAgPG.jpg"
+      ]
+    },
+    {
+      "id": "c653f396a3984dc49f8f25489b4666ec1daecbfdda8653bf656f3fe795dea054",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2076245885776736373#m",
+      "date": "Sun, 12 Jul 2026 10:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNBOoFOW8AAiFH9.jpg"
+      ]
+    },
+    {
+      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
+      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
+      ]
+    },
+    {
+      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kawaki during Boruto TBV: #BORUTO",
+      "text": "Kawaki during Boruto TBV: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
+      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+      ]
+    },
+    {
       "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -120,160 +273,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvPpuWYAETyRt.jpg"
-      ]
-    },
-    {
-      "id": "57970c10bb718b789f5698d55d316d4801968f02152967a42107f2d3495e2ee7",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Studio Pierrot easily is the Israel of the Animation Studios. They really scammed the entire world by making us belief they will give us anything like this: #NARUTO",
-      "text": "Studio Pierrot easily is the Israel of the Animation Studios. They really scammed the entire world by making us belief they will give us anything like this: #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2066827507064615338#m",
-      "date": "Tue, 16 Jun 2026 10:17:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHK7YqXsWAAAP5ed.jpg"
-      ]
-    },
-    {
-      "id": "e143c3667071570dd59985e2c7d837d7b67a887fff18569f9c4ea81e8846b13f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2078178113603678368#m",
-      "date": "Fri, 17 Jul 2026 18:00:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcr-psWsAAAo8d.jpg"
-      ]
-    },
-    {
-      "id": "4e38bd290ec0f404ba2f149607b2168cab445c97154f0b2148d01a180936b744",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2078012437064782098#m",
-      "date": "Fri, 17 Jul 2026 07:02:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNaVTFQWMAE-LIA.jpg",
-        "https://nitter.net/pic/media%2FHNaVTFOWMAAVhAw.jpg"
-      ]
-    },
-    {
-      "id": "6747dbdd404f8fe79805fbfc6ce1392145fccaaa1ca870162d16be7c03da533d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077858691311702442#m",
-      "date": "Thu, 16 Jul 2026 20:51:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNYJd3uXgAAVsuB.jpg"
-      ]
-    },
-    {
-      "id": "6400f65abefaec3e0a26561ff53adc674133b464980377949d3a3632ea8454ba",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
-      "text": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
-      "url": "https://nitter.net/daily_berserk/status/2077696303941697872#m",
-      "date": "Thu, 16 Jul 2026 10:06:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNV1vfYW8AAbLbt.jpg",
-        "https://nitter.net/pic/media%2FHNV1vfcX0AAu-6b.jpg",
-        "https://nitter.net/pic/media%2FHNV1vfYXYAAe8SF.jpg",
-        "https://nitter.net/pic/media%2FHNV1vfZWAAEmNrz.jpg"
-      ]
-    },
-    {
-      "id": "2ac1a17da3978104b5dac798e932a4fb4529c2d98b020410d7e2202a12a2655d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077473273227465040#m",
-      "date": "Wed, 15 Jul 2026 19:20:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
-      ]
-    },
-    {
-      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
-      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
-      ]
-    },
-    {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
-      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
-      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
-      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
-      ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
       ]
     }
   ],
@@ -324,6 +323,159 @@
       ]
     },
     {
+      "id": "6747dbdd404f8fe79805fbfc6ce1392145fccaaa1ca870162d16be7c03da533d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077858691311702442#m",
+      "date": "Thu, 16 Jul 2026 20:51:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNYJd3uXgAAVsuB.jpg"
+      ]
+    },
+    {
+      "id": "6400f65abefaec3e0a26561ff53adc674133b464980377949d3a3632ea8454ba",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
+      "text": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
+      "url": "https://nitter.net/daily_berserk/status/2077696303941697872#m",
+      "date": "Thu, 16 Jul 2026 10:06:15 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNV1vfYW8AAbLbt.jpg",
+        "https://nitter.net/pic/media%2FHNV1vfcX0AAu-6b.jpg",
+        "https://nitter.net/pic/media%2FHNV1vfYXYAAe8SF.jpg",
+        "https://nitter.net/pic/media%2FHNV1vfZWAAEmNrz.jpg"
+      ]
+    },
+    {
+      "id": "2ac1a17da3978104b5dac798e932a4fb4529c2d98b020410d7e2202a12a2655d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077473273227465040#m",
+      "date": "Wed, 15 Jul 2026 19:20:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
+      ]
+    },
+    {
+      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
+      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
+      ]
+    },
+    {
+      "id": "d8da8d489ba8701f195a6cb430ed6f55047a8427a7e410ab3bbf4cd1cbb3c171",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2076372970650337481#m",
+      "date": "Sun, 12 Jul 2026 18:27:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDCNZsWQAAAgPG.jpg"
+      ]
+    },
+    {
+      "id": "c653f396a3984dc49f8f25489b4666ec1daecbfdda8653bf656f3fe795dea054",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2076245885776736373#m",
+      "date": "Sun, 12 Jul 2026 10:02:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNBOoFOW8AAiFH9.jpg"
+      ]
+    },
+    {
+      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
+      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
+      ]
+    },
+    {
+      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kawaki during Boruto TBV: #BORUTO",
+      "text": "Kawaki during Boruto TBV: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
+      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+      ]
+    },
+    {
       "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -394,160 +546,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvPpuWYAETyRt.jpg"
-      ]
-    },
-    {
-      "id": "57970c10bb718b789f5698d55d316d4801968f02152967a42107f2d3495e2ee7",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Studio Pierrot easily is the Israel of the Animation Studios. They really scammed the entire world by making us belief they will give us anything like this: #NARUTO",
-      "text": "Studio Pierrot easily is the Israel of the Animation Studios. They really scammed the entire world by making us belief they will give us anything like this: #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2066827507064615338#m",
-      "date": "Tue, 16 Jun 2026 10:17:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHK7YqXsWAAAP5ed.jpg"
-      ]
-    },
-    {
-      "id": "e143c3667071570dd59985e2c7d837d7b67a887fff18569f9c4ea81e8846b13f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2078178113603678368#m",
-      "date": "Fri, 17 Jul 2026 18:00:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcr-psWsAAAo8d.jpg"
-      ]
-    },
-    {
-      "id": "4e38bd290ec0f404ba2f149607b2168cab445c97154f0b2148d01a180936b744",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2078012437064782098#m",
-      "date": "Fri, 17 Jul 2026 07:02:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNaVTFQWMAE-LIA.jpg",
-        "https://nitter.net/pic/media%2FHNaVTFOWMAAVhAw.jpg"
-      ]
-    },
-    {
-      "id": "6747dbdd404f8fe79805fbfc6ce1392145fccaaa1ca870162d16be7c03da533d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077858691311702442#m",
-      "date": "Thu, 16 Jul 2026 20:51:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNYJd3uXgAAVsuB.jpg"
-      ]
-    },
-    {
-      "id": "6400f65abefaec3e0a26561ff53adc674133b464980377949d3a3632ea8454ba",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
-      "text": "Wow, me acaba de llegar la Beherit limited Edition de #BERSERK y no puede ser más bonita 😍😍 @MangaPaniniEsp excelente trabajo chicos 😉",
-      "url": "https://nitter.net/daily_berserk/status/2077696303941697872#m",
-      "date": "Thu, 16 Jul 2026 10:06:15 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNV1vfYW8AAbLbt.jpg",
-        "https://nitter.net/pic/media%2FHNV1vfcX0AAu-6b.jpg",
-        "https://nitter.net/pic/media%2FHNV1vfYXYAAe8SF.jpg",
-        "https://nitter.net/pic/media%2FHNV1vfZWAAEmNrz.jpg"
-      ]
-    },
-    {
-      "id": "2ac1a17da3978104b5dac798e932a4fb4529c2d98b020410d7e2202a12a2655d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077473273227465040#m",
-      "date": "Wed, 15 Jul 2026 19:20:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
-      ]
-    },
-    {
-      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
-      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
-      ]
-    },
-    {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
-      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
-      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
-      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
-      ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
       ]
     }
   ]
