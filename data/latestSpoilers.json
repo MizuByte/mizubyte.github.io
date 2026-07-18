@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T21:34:59.299Z",
+  "generatedAt": "2026-07-18T22:33:16.434Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -50,6 +50,91 @@
   ],
   "misc": [
     {
+      "id": "37ea999fd2a4e515d1bcc8d15ea06dbc97f2aed1c3946614c3b951fcb55aa851",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "England with the 4 goal!!",
+      "text": "England with the 4 goal!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2078597627910688911#m",
+      "date": "Sat, 18 Jul 2026 21:47:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7756c5efcfe4e456f2f32cd1ad1840b46e83fe29d5a045966dfb337af9585708",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "England 3:0!!!!!!!!!!! France wtf....",
+      "text": "England 3:0!!!!!!!!!!! France wtf....",
+      "url": "https://nitter.net/WorstGenHQ/status/2078595277640872112#m",
+      "date": "Sat, 18 Jul 2026 21:38:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "93ff89384b2d9347ddaec1ebac41b6b13de25da50f8f276c4358e66c0abbbcf1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "England 2:0 against France... France not doing well",
+      "text": "England 2:0 against France... France not doing well",
+      "url": "https://nitter.net/WorstGenHQ/status/2078590425942704157#m",
+      "date": "Sat, 18 Jul 2026 21:19:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0b94321d07aaf19d460e54fa2d816ab9bc77e4c6c31c2a1c33bec52d64164f02",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Infantino has finally decided to put the ring on Messi’s finger after years of dating Fabrizio Romano (@FabrizioRomano) 🚨💍 OFFICIAL: FIFA to award the winners of the World Cup with championship ring",
+      "text": "Infantino has finally decided to put the ring on Messi’s finger after years of dating Fabrizio Romano (@FabrizioRomano) 🚨💍 OFFICIAL: FIFA to award the winners of the World Cup with championship rings. It’s the first time in history, following some of the American sports. 30 rings will be made available to the world champions, with a further 1,996 rings going on sale to fans. — https://nitter.net/FabrizioRomano/status/2078112901320085681#m",
+      "url": "https://nitter.net/gyaigyimii/status/2078138165185884432#m",
+      "date": "Fri, 17 Jul 2026 15:22:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNbwqyaWwAAWLC1.jpg"
+      ]
+    },
+    {
+      "id": "a90fe4e23167834ded8e5130371063098e2ea11b9e48051133f920bb85413285",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/",
+      "text": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2078182990908199400#m",
+      "date": "Fri, 17 Jul 2026 18:20:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNcwZLSXcAAWMvP.jpg",
+        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
+      ]
+    },
+    {
+      "id": "39a1ffc14c0f85422e2051569e8262479b9d65dedf4234cfba6529477477ee9c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
+      "text": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
+      "url": "https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
+      "date": "Fri, 17 Jul 2026 18:19:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
+      ]
+    },
+    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -183,6 +268,37 @@
       ]
     },
     {
+      "id": "e143c3667071570dd59985e2c7d837d7b67a887fff18569f9c4ea81e8846b13f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2078178113603678368#m",
+      "date": "Fri, 17 Jul 2026 18:00:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNcr-psWsAAAo8d.jpg"
+      ]
+    },
+    {
+      "id": "4e38bd290ec0f404ba2f149607b2168cab445c97154f0b2148d01a180936b744",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2078012437064782098#m",
+      "date": "Fri, 17 Jul 2026 07:02:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNaVTFQWMAE-LIA.jpg",
+        "https://nitter.net/pic/media%2FHNaVTFOWMAAVhAw.jpg"
+      ]
+    },
+    {
       "id": "6747dbdd404f8fe79805fbfc6ce1392145fccaaa1ca870162d16be7c03da533d",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -228,51 +344,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
-      ]
-    },
-    {
-      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
-      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
-      ]
-    },
-    {
-      "id": "d8da8d489ba8701f195a6cb430ed6f55047a8427a7e410ab3bbf4cd1cbb3c171",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2076372970650337481#m",
-      "date": "Sun, 12 Jul 2026 18:27:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDCNZsWQAAAgPG.jpg"
-      ]
-    },
-    {
-      "id": "c653f396a3984dc49f8f25489b4666ec1daecbfdda8653bf656f3fe795dea054",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2076245885776736373#m",
-      "date": "Sun, 12 Jul 2026 10:02:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNBOoFOW8AAiFH9.jpg"
       ]
     }
   ],
@@ -323,6 +394,91 @@
       ]
     },
     {
+      "id": "37ea999fd2a4e515d1bcc8d15ea06dbc97f2aed1c3946614c3b951fcb55aa851",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "England with the 4 goal!!",
+      "text": "England with the 4 goal!!",
+      "url": "https://nitter.net/WorstGenHQ/status/2078597627910688911#m",
+      "date": "Sat, 18 Jul 2026 21:47:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7756c5efcfe4e456f2f32cd1ad1840b46e83fe29d5a045966dfb337af9585708",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "England 3:0!!!!!!!!!!! France wtf....",
+      "text": "England 3:0!!!!!!!!!!! France wtf....",
+      "url": "https://nitter.net/WorstGenHQ/status/2078595277640872112#m",
+      "date": "Sat, 18 Jul 2026 21:38:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "93ff89384b2d9347ddaec1ebac41b6b13de25da50f8f276c4358e66c0abbbcf1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "England 2:0 against France... France not doing well",
+      "text": "England 2:0 against France... France not doing well",
+      "url": "https://nitter.net/WorstGenHQ/status/2078590425942704157#m",
+      "date": "Sat, 18 Jul 2026 21:19:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0b94321d07aaf19d460e54fa2d816ab9bc77e4c6c31c2a1c33bec52d64164f02",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Infantino has finally decided to put the ring on Messi’s finger after years of dating Fabrizio Romano (@FabrizioRomano) 🚨💍 OFFICIAL: FIFA to award the winners of the World Cup with championship ring",
+      "text": "Infantino has finally decided to put the ring on Messi’s finger after years of dating Fabrizio Romano (@FabrizioRomano) 🚨💍 OFFICIAL: FIFA to award the winners of the World Cup with championship rings. It’s the first time in history, following some of the American sports. 30 rings will be made available to the world champions, with a further 1,996 rings going on sale to fans. — https://nitter.net/FabrizioRomano/status/2078112901320085681#m",
+      "url": "https://nitter.net/gyaigyimii/status/2078138165185884432#m",
+      "date": "Fri, 17 Jul 2026 15:22:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNbwqyaWwAAWLC1.jpg"
+      ]
+    },
+    {
+      "id": "a90fe4e23167834ded8e5130371063098e2ea11b9e48051133f920bb85413285",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/",
+      "text": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2078182990908199400#m",
+      "date": "Fri, 17 Jul 2026 18:20:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNcwZLSXcAAWMvP.jpg",
+        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
+      ]
+    },
+    {
+      "id": "39a1ffc14c0f85422e2051569e8262479b9d65dedf4234cfba6529477477ee9c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
+      "text": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
+      "url": "https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
+      "date": "Fri, 17 Jul 2026 18:19:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
+      ]
+    },
+    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -456,6 +612,37 @@
       ]
     },
     {
+      "id": "e143c3667071570dd59985e2c7d837d7b67a887fff18569f9c4ea81e8846b13f",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2078178113603678368#m",
+      "date": "Fri, 17 Jul 2026 18:00:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNcr-psWsAAAo8d.jpg"
+      ]
+    },
+    {
+      "id": "4e38bd290ec0f404ba2f149607b2168cab445c97154f0b2148d01a180936b744",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2078012437064782098#m",
+      "date": "Fri, 17 Jul 2026 07:02:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNaVTFQWMAE-LIA.jpg",
+        "https://nitter.net/pic/media%2FHNaVTFOWMAAVhAw.jpg"
+      ]
+    },
+    {
       "id": "6747dbdd404f8fe79805fbfc6ce1392145fccaaa1ca870162d16be7c03da533d",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -501,51 +688,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
-      ]
-    },
-    {
-      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
-      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
-      ]
-    },
-    {
-      "id": "d8da8d489ba8701f195a6cb430ed6f55047a8427a7e410ab3bbf4cd1cbb3c171",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2076372970650337481#m",
-      "date": "Sun, 12 Jul 2026 18:27:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDCNZsWQAAAgPG.jpg"
-      ]
-    },
-    {
-      "id": "c653f396a3984dc49f8f25489b4666ec1daecbfdda8653bf656f3fe795dea054",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2076245885776736373#m",
-      "date": "Sun, 12 Jul 2026 10:02:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNBOoFOW8AAiFH9.jpg"
       ]
     }
   ]
