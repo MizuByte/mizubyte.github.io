@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T22:33:16.434Z",
+  "generatedAt": "2026-07-18T23:36:55.562Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -50,6 +50,34 @@
   ],
   "misc": [
     {
+      "id": "0785eecd9f66b78ca1401f619b72f845f691c34966cd3483d22982e29f47d124",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "People before the match: \"I'll probably skip the game; it'll be boring anyway.\" Meanwhile the France vs. England match:",
+      "text": "People before the match: \"I'll probably skip the game; it'll be boring anyway.\" Meanwhile the France vs. England match:",
+      "url": "https://nitter.net/WorstGenHQ/status/2078616449619210615#m",
+      "date": "Sat, 18 Jul 2026 23:02:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNi6pKoXEAADzWY.jpg"
+      ]
+    },
+    {
+      "id": "2facf8ff6f0a909ad2c2c5b3d7419eca3a56b20eb157743d35988c0cae58cac7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What the f... is happening guys!?? France 3:4 with Mbappe goal again",
+      "text": "What the f... is happening guys!?? France 3:4 with Mbappe goal again",
+      "url": "https://nitter.net/WorstGenHQ/status/2078608217945346066#m",
+      "date": "Sat, 18 Jul 2026 22:29:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "37ea999fd2a4e515d1bcc8d15ea06dbc97f2aed1c3946614c3b951fcb55aa851",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -101,37 +129,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNbwqyaWwAAWLC1.jpg"
-      ]
-    },
-    {
-      "id": "a90fe4e23167834ded8e5130371063098e2ea11b9e48051133f920bb85413285",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/",
-      "text": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2078182990908199400#m",
-      "date": "Fri, 17 Jul 2026 18:20:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcwZLSXcAAWMvP.jpg",
-        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
-      ]
-    },
-    {
-      "id": "39a1ffc14c0f85422e2051569e8262479b9d65dedf4234cfba6529477477ee9c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
-      "text": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
-      "url": "https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
-      "date": "Fri, 17 Jul 2026 18:19:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
       ]
     },
     {
@@ -268,34 +265,18 @@
       ]
     },
     {
-      "id": "e143c3667071570dd59985e2c7d837d7b67a887fff18569f9c4ea81e8846b13f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2078178113603678368#m",
-      "date": "Fri, 17 Jul 2026 18:00:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcr-psWsAAAo8d.jpg"
-      ]
-    },
-    {
-      "id": "4e38bd290ec0f404ba2f149607b2168cab445c97154f0b2148d01a180936b744",
+      "id": "28b4b0b202fdc3b2aa66854b8190c0d6a507e2a82b2469334a3af711464c6c3b",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "#BERSERK #ベルセルク",
       "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2078012437064782098#m",
-      "date": "Fri, 17 Jul 2026 07:02:27 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2078612340010852803#m",
+      "date": "Sat, 18 Jul 2026 22:46:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNaVTFQWMAE-LIA.jpg",
-        "https://nitter.net/pic/media%2FHNaVTFOWMAAVhAw.jpg"
+        "https://nitter.net/pic/media%2FHNi25_gWsAAXu8f.jpg"
       ]
     },
     {
@@ -344,6 +325,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
+      ]
+    },
+    {
+      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
+      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
       ]
     }
   ],
@@ -394,6 +390,34 @@
       ]
     },
     {
+      "id": "0785eecd9f66b78ca1401f619b72f845f691c34966cd3483d22982e29f47d124",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "People before the match: \"I'll probably skip the game; it'll be boring anyway.\" Meanwhile the France vs. England match:",
+      "text": "People before the match: \"I'll probably skip the game; it'll be boring anyway.\" Meanwhile the France vs. England match:",
+      "url": "https://nitter.net/WorstGenHQ/status/2078616449619210615#m",
+      "date": "Sat, 18 Jul 2026 23:02:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNi6pKoXEAADzWY.jpg"
+      ]
+    },
+    {
+      "id": "2facf8ff6f0a909ad2c2c5b3d7419eca3a56b20eb157743d35988c0cae58cac7",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "What the f... is happening guys!?? France 3:4 with Mbappe goal again",
+      "text": "What the f... is happening guys!?? France 3:4 with Mbappe goal again",
+      "url": "https://nitter.net/WorstGenHQ/status/2078608217945346066#m",
+      "date": "Sat, 18 Jul 2026 22:29:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "37ea999fd2a4e515d1bcc8d15ea06dbc97f2aed1c3946614c3b951fcb55aa851",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -445,37 +469,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNbwqyaWwAAWLC1.jpg"
-      ]
-    },
-    {
-      "id": "a90fe4e23167834ded8e5130371063098e2ea11b9e48051133f920bb85413285",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/",
-      "text": "....... WorstGenHQ (@WorstGenHQ) The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday.... — https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2078182990908199400#m",
-      "date": "Fri, 17 Jul 2026 18:20:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcwZLSXcAAWMvP.jpg",
-        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
-      ]
-    },
-    {
-      "id": "39a1ffc14c0f85422e2051569e8262479b9d65dedf4234cfba6529477477ee9c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
-      "text": "The Yamal/Messi and Luffy/Shanks memes are crazy right now hahaha Imagine Luffy vs Shanks next year, like Yamal vs Messi on Sunday....",
-      "url": "https://nitter.net/WorstGenHQ/status/2078182844610867601#m",
-      "date": "Fri, 17 Jul 2026 18:19:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcwOGKWQAARtCs.jpg"
       ]
     },
     {
@@ -612,34 +605,18 @@
       ]
     },
     {
-      "id": "e143c3667071570dd59985e2c7d837d7b67a887fff18569f9c4ea81e8846b13f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2078178113603678368#m",
-      "date": "Fri, 17 Jul 2026 18:00:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcr-psWsAAAo8d.jpg"
-      ]
-    },
-    {
-      "id": "4e38bd290ec0f404ba2f149607b2168cab445c97154f0b2148d01a180936b744",
+      "id": "28b4b0b202fdc3b2aa66854b8190c0d6a507e2a82b2469334a3af711464c6c3b",
       "anime": "berserk",
       "handle": "daily_berserk",
       "sourceLabel": "Berserk",
       "title": "#BERSERK #ベルセルク",
       "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2078012437064782098#m",
-      "date": "Fri, 17 Jul 2026 07:02:27 GMT",
+      "url": "https://nitter.net/daily_berserk/status/2078612340010852803#m",
+      "date": "Sat, 18 Jul 2026 22:46:15 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNaVTFQWMAE-LIA.jpg",
-        "https://nitter.net/pic/media%2FHNaVTFOWMAAVhAw.jpg"
+        "https://nitter.net/pic/media%2FHNi25_gWsAAXu8f.jpg"
       ]
     },
     {
@@ -688,6 +665,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
+      ]
+    },
+    {
+      "id": "b48da1a32ff86f580cd739ca1641eba3de80f77704d68a847ec86b1770b6a48b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2077280951634137256#m",
+      "date": "Wed, 15 Jul 2026 06:35:47 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNP8BCCXUAAA9Ch.jpg"
       ]
     }
   ]
