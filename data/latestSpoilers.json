@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:40:28.705Z",
+  "generatedAt": "2026-07-20T23:41:34.266Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -35,64 +35,6 @@
   ],
   "misc": [
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
-      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
-      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
-      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
-      ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
-      ]
-    },
-    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -271,6 +213,64 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
+      ]
+    },
+    {
+      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
+      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
+      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
       ]
     }
   ],
@@ -306,64 +306,6 @@
       ]
     },
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
-      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
-      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
-      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
-      ]
-    },
-    {
-      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
-      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
-        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
-        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
-      ]
-    },
-    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -542,6 +484,64 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNSq7P7WIAEvDhf.jpg"
+      ]
+    },
+    {
+      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
+      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
+      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
+      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e2d42870090b0d2dbca2ee24e6ffd3319a22b43f296539f23776bf9429e5381a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to prem",
+      "text": "TV Anime \"BLEACH: Thousand-Year Blood War - The Calamity -\" (Cour 4) is listed for ONLY 10 EPISODES in total ! The ‘Final Part’, directed by Hikaru Murata at Studio PIERROT FILMS, is scheduled to premiere July 25.",
+      "url": "https://nitter.net/SugoiLITE/status/2076376480104513660#m",
+      "date": "Sun, 12 Jul 2026 18:41:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNDFZebaYAATrO5.jpg"
+      ]
+    },
+    {
+      "id": "429ec377845be1f974261cf8a6aada2ce30baa86ae14790fdb2956c804e285c0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "text": "HQ Cleaned Versions of All Black Clover S2 KV until Now ⭐ #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2076354176892973287#m",
+      "date": "Sun, 12 Jul 2026 17:13:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNCxF_9aUAAOmHC.jpg",
+        "https://nitter.net/pic/media%2FHNCxG3mb0AAYzzk.jpg",
+        "https://nitter.net/pic/media%2FHNCxHZWaUAAhgaZ.jpg"
       ]
     }
   ]
