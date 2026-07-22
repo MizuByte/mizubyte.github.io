@@ -1,38 +1,7 @@
 {
-  "generatedAt": "2026-07-21T23:16:06.052Z",
+  "generatedAt": "2026-07-22T00:12:11.068Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "e772a58d65164473db3f09eca3f0cca1daaf82c2325c485a8a139bb36f0b9f96",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "text": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2078185111766573366#m",
-      "date": "Fri, 17 Jul 2026 18:28:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcyV6obsAA6LBM.jpg"
-      ]
-    },
-    {
-      "id": "8db99668b1527aa0fc5600b9a2e97c0cb9d6694e14dc4a0e89cb65738f91c392",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoiler",
-      "text": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2076392918731104488#m",
-      "date": "Sun, 12 Jul 2026 19:47:03 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDUWSDaAAAf_By.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
       "id": "eac20311792fea2d04f69139139243ec50dbb07d7309eadf76b03039d4a7c283",
@@ -271,21 +240,6 @@
       ]
     },
     {
-      "id": "0c10a2872a1546fb0fb6103df810f783a676aff080dec57d01d91e5ec055e68f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "That mf gay as hell😭😭",
-      "text": "That mf gay as hell😭😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2068400898645107171#m",
-      "date": "Sat, 20 Jun 2026 18:29:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
-      ]
-    },
-    {
       "id": "629dbe9099b23e15ce9021694a6813d56094622fbd8ec73edf3e10fed4abe00d",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -301,63 +255,52 @@
       ]
     },
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "id": "0c10a2872a1546fb0fb6103df810f783a676aff080dec57d01d91e5ec055e68f",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "That mf gay as hell😭😭",
+      "text": "That mf gay as hell😭😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2068400898645107171#m",
+      "date": "Sat, 20 Jun 2026 18:29:37 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
+      ]
     },
     {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "id": "8b01e9b340198ee43fa5238fa591de277dcdfeaf448d79606ff2ff9f297f92e2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2079557363132985634#m",
+      "date": "Tue, 21 Jul 2026 13:21:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNwSZnEXAAARDuM.jpg"
+      ]
+    },
+    {
+      "id": "dcceace320b9dc5bc41b7e9d768e9d0098a2e5610aaf760cc1ec03828be7b07c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2079448054055174255#m",
+      "date": "Tue, 21 Jul 2026 06:07:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNuu-ytW4AEaRF0.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "e772a58d65164473db3f09eca3f0cca1daaf82c2325c485a8a139bb36f0b9f96",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "text": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2078185111766573366#m",
-      "date": "Fri, 17 Jul 2026 18:28:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcyV6obsAA6LBM.jpg"
-      ]
-    },
-    {
-      "id": "8db99668b1527aa0fc5600b9a2e97c0cb9d6694e14dc4a0e89cb65738f91c392",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoiler",
-      "text": "From the first leak on July 3, 2025 to the October 2026 release... We've come a long way. Get ready. Black Clover Season 2 is about to be one of the most generational anime returns of 2026. #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2076392918731104488#m",
-      "date": "Sun, 12 Jul 2026 19:47:03 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNDUWSDaAAAf_By.jpg"
-      ]
-    },
     {
       "id": "eac20311792fea2d04f69139139243ec50dbb07d7309eadf76b03039d4a7c283",
       "anime": "onepiece",
@@ -595,21 +538,6 @@
       ]
     },
     {
-      "id": "0c10a2872a1546fb0fb6103df810f783a676aff080dec57d01d91e5ec055e68f",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "That mf gay as hell😭😭",
-      "text": "That mf gay as hell😭😭",
-      "url": "https://nitter.net/SchmurfiV1/status/2068400898645107171#m",
-      "date": "Sat, 20 Jun 2026 18:29:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
-      ]
-    },
-    {
       "id": "629dbe9099b23e15ce9021694a6813d56094622fbd8ec73edf3e10fed4abe00d",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -625,30 +553,49 @@
       ]
     },
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "id": "0c10a2872a1546fb0fb6103df810f783a676aff080dec57d01d91e5ec055e68f",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "That mf gay as hell😭😭",
+      "text": "That mf gay as hell😭😭",
+      "url": "https://nitter.net/SchmurfiV1/status/2068400898645107171#m",
+      "date": "Sat, 20 Jun 2026 18:29:37 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
+      ]
     },
     {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
+      "id": "8b01e9b340198ee43fa5238fa591de277dcdfeaf448d79606ff2ff9f297f92e2",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2079557363132985634#m",
+      "date": "Tue, 21 Jul 2026 13:21:26 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNwSZnEXAAARDuM.jpg"
+      ]
+    },
+    {
+      "id": "dcceace320b9dc5bc41b7e9d768e9d0098a2e5610aaf760cc1ec03828be7b07c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2079448054055174255#m",
+      "date": "Tue, 21 Jul 2026 06:07:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNuu-ytW4AEaRF0.jpg"
+      ]
     }
   ]
 }
