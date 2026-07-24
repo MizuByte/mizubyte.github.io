@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-07-24T18:22:15.128Z",
+  "generatedAt": "2026-07-24T19:52:07.647Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "026f211c3bcc1ec1adb01266e1d41b96effaa06862939f7f6ca8b0f65c96881e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1189 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1189 BY ME",
+      "text": "#ONEPIECE1189 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1189 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2079559537183342647#m",
+      "date": "Tue, 21 Jul 2026 13:30:04 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNwN1fHW0AE44e8.jpg"
+      ]
+    },
     {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
@@ -62,93 +77,109 @@
   ],
   "misc": [
     {
-      "id": "0cb86c4323ee4be8e098f223e6e3da095bf1549cfb6167f83c7279b0a21d4edc",
+      "id": "bd99228d810792e98551c6fd149ebdb31534a3219fdee2739f9f2ff04c59bb29",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 Beating your enemy is one thing, but making fun of his dead brother and calling them out is really curiel. Imu is truly the ragebaiter, let be honest, alone for this Luffy need to get ba",
-      "text": "#ONEPIECE1189 Beating your enemy is one thing, but making fun of his dead brother and calling them out is really curiel. Imu is truly the ragebaiter, let be honest, alone for this Luffy need to get back...",
-      "url": "https://nitter.net/WorstGenHQ/status/2080719413125197886#m",
-      "date": "Fri, 24 Jul 2026 18:19:00 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "text": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "url": "https://nitter.net/pewpiece/status/2080635765260787848#m",
+      "date": "Fri, 24 Jul 2026 12:46:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOAzPEaW0AArpfs.jpg"
+        "https://nitter.net/pic/media%2FHN_nEWIXMAIH0Ta.jpg",
+        "https://nitter.net/pic/media%2FHN_nI9TW8AAswd_.png"
       ]
     },
     {
-      "id": "1a24a90ec62c337e6291c760df5216c572d07e4b7f6713ba31739bd3bc1c8ec5",
+      "id": "8feed50077ef5673701bf99e76873762ef279fa99f3920ce0fb6a036c6d6aa64",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 \"Luffy after just one hit from Imu...?!\".... Even Narrator making it clear how Imu smoked Luffy... 😭😭",
-      "text": "#ONEPIECE1189 \"Luffy after just one hit from Imu...?!\".... Even Narrator making it clear how Imu smoked Luffy... 😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2080718080229908680#m",
-      "date": "Fri, 24 Jul 2026 18:13:42 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "text": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "url": "https://nitter.net/pewpiece/status/2079250282928599064#m",
+      "date": "Mon, 20 Jul 2026 17:01:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOAx39YWYAAwnMI.jpg"
+        "https://nitter.net/pic/media%2FHNq2aB5WEAA0_do.jpg"
       ]
     },
     {
-      "id": "d3f6873dce60ead4cc1882bc9c9860d6b4ecfd998b2068ef7c061039fe7986bf",
+      "id": "69d218ac8f0d4895a2ac47caa14c480e57164197a31733926aa1c2e7ef409eab",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 If this translation is legit. Shanks is saying Imu's strength is beyond comprehension and is shocked by by it. He also tells Loki if Imu's defeat was possible, someone would've done it b",
-      "text": "#ONEPIECE1189 If this translation is legit. Shanks is saying Imu's strength is beyond comprehension and is shocked by by it. He also tells Loki if Imu's defeat was possible, someone would've done it by now.",
-      "url": "https://nitter.net/KHDLuffy/status/2080447399894380968#m",
-      "date": "Fri, 24 Jul 2026 00:18:07 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official poster for the LEGO One Piece anime series!",
+      "text": "Official poster for the LEGO One Piece anime series!",
+      "url": "https://nitter.net/pewpiece/status/2079250005173453172#m",
+      "date": "Mon, 20 Jul 2026 17:00:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHN874Z3WoAAsPYm.jpg"
+        "https://nitter.net/pic/media%2FHNr6zWmW0AAz3TA.jpg"
       ]
     },
     {
-      "id": "0ddc34bad4b1976ff59392f046d1798444a310518f51a96356e048bcf7226e8c",
+      "id": "21765d41cad5978dd3c64652effd3166de5ad9c69dfa7957a47c54101e1afaba",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 Still shocked that the same move which defeat King(and his ultimate attack), was casually blocked by Sommers, no he even easily overpowered it... Omen and the legendary weapons are soo b",
-      "text": "#ONEPIECE1189 Still shocked that the same move which defeat King(and his ultimate attack), was casually blocked by Sommers, no he even easily overpowered it... Omen and the legendary weapons are soo broken. Shamrock with Omen would be hella broken...",
-      "url": "https://nitter.net/WorstGenHQ/status/2080694173204648334#m",
-      "date": "Fri, 24 Jul 2026 16:38:42 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "text": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "url": "https://nitter.net/pewpiece/status/2079187557128999238#m",
+      "date": "Mon, 20 Jul 2026 12:51:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOAb7VXXMAA8x7X.jpg"
+        "https://nitter.net/pic/media%2FHNrCDq8WsAEFwxh.jpg"
       ]
     },
     {
-      "id": "9d45f6bd3dc73d7ceaac941e956644621400bce157ec1ef8bcbfe4604c40e8f9",
+      "id": "d9ee43cc3aea317227c646366a523053546c28a388042c560bfe9d5686068910",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 Sex is good but have you ever scrolled through twitter/Youtube after Chapter 1189 and watching KoL tweets/videos? The next stream gonna end funny(same with Jay stream😂😂) Video Christop",
-      "text": "#ONEPIECE1189 Sex is good but have you ever scrolled through twitter/Youtube after Chapter 1189 and watching KoL tweets/videos? The next stream gonna end funny(same with Jay stream😂😂) Video Christopher aka T͟hē King Of Lightning (@KingOfLighting) Prime Roger over Imu but Imu over Prime Whitebeard. All fights would be extreme diff. — https://nitter.net/KingOfLighting/status/2073556558122807492#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2080678222748942705#m",
-      "date": "Fri, 24 Jul 2026 15:35:20 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "text": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "url": "https://nitter.net/pewpiece/status/2078966302178218077#m",
+      "date": "Sun, 19 Jul 2026 22:12:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2080678207674626048%2Fimg%2FZPensV5e4zLkrWjV.jpg"
+        "https://nitter.net/pic/media%2FHNn4zqQXQAAI1AI.jpg"
       ]
     },
     {
-      "id": "6612e4cd1cdf90706c0f4aef37d45df25211d2f5ceb97a117fd8716a03c40e2e",
+      "id": "8c1710323d8d3f835b6ab654d453bf8504a071fc78af47e75ba134124fbfecd5",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 You guys wanted to see a serious Imu against Luffy, well, there you have it... It’s just wild to me that Luffy stands absolutely no chance. This guy defeated Kaido just two arcs ago, yet",
-      "text": "#ONEPIECE1189 You guys wanted to see a serious Imu against Luffy, well, there you have it... It’s just wild to me that Luffy stands absolutely no chance. This guy defeated Kaido just two arcs ago, yet here he’s being treated like a schoolboy... #JusticeForLuffy 😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2080634867780296921#m",
-      "date": "Fri, 24 Jul 2026 12:43:03 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "De calentar el ambiente sabes mucho. Es de lo que vives. Ahora pides ayuda a ese gobierno al que te pasas la vida insultando y descalificando. Si hay una mamarracha en España, esa eres tú. Europa Pres",
+      "text": "De calentar el ambiente sabes mucho. Es de lo que vives. Ahora pides ayuda a ese gobierno al que te pasas la vida insultando y descalificando. Si hay una mamarracha en España, esa eres tú. Europa Press (@europapress) #EnDirecto | Ayuso afirma que la coordinación con el Gobierno está siendo \"buena\", pide dejarse de \"estupideces\" e ignora \"por completo\" a Puente: \"El primer mamarracho que se ponga por medio a calentar el ambiente, allá él\" shorturl.at/jb8nl Video — https://nitter.net/europapress/status/2080616181220745710#m",
+      "url": "https://nitter.net/oscar_puente_/status/2080623808889647221#m",
+      "date": "Fri, 24 Jul 2026 11:59:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHN_mYotWgAA748x.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2080615723723018240%2Fimg%2FmsnGjcX1Q600SWGS.jpg"
+      ]
+    },
+    {
+      "id": "b7e278d75d3f77ef037492cd94b70e34291df8d48d79973f9f9958297971e07d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios público",
+      "text": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios públicos y luego le piden al gobierno que les resuelva la papeleta. Bomberos Forestales CBCM (@bomberos_infoma) Los #BomberosForestalesCBCM queremos denunciar la no activación al #IFAlmorox deberíamos ser 62 fecetivos, pero la CM no contrata a todo el personal de extinción de incendios forestales. Estamos trabajando en nuestro centro de trabajo, pero no nos movilizan aunque lo solicitemos. Video — https://nitter.net/bomberos_infoma/status/2080038811644350756#m",
+      "url": "https://nitter.net/oscar_puente_/status/2080557393465729299#m",
+      "date": "Fri, 24 Jul 2026 07:35:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2080038787657199616%2Fimg%2FxHV0SUg0r9xfnQOb.jpg"
       ]
     },
     {
@@ -214,34 +245,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOAKh5BaUAAmdYl.jpg"
       ]
-    },
-    {
-      "id": "1b1084497dbb5226938087b9675f701e0c81b6f55248ac9f346247f472766a25",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "La muy cerda recorta en extinción de incendios para bajar impuestos a los multimillonarios, deja temblando a los bomberos, que llevan meses en huelga, y ahora pide que el Gobierno le saque las castaña",
-      "text": "La muy cerda recorta en extinción de incendios para bajar impuestos a los multimillonarios, deja temblando a los bomberos, que llevan meses en huelga, y ahora pide que el Gobierno le saque las castañas del fuego, con el dinero de todos los españoles. Es todo alucinante Público (@publico_es) 🔴ÚLTIMA HORA | Ayuso pide al Gobierno que tome el control de la situación y asuma el mando ante los incendios en la Comunidad de Madrid diario.publico.es/6ze0s2 Link Ayuso pide al Gobierno que tome el control de la situación y asuma el mando ante los incendios en... La Comunidad de Madrid solicita al Estado la declaración de la Situación Operativa 3 del Plan de Protección Civil contra Incendios Forestales en la Comunidad (Infoma), es decir, pide a La Moncloa q... publico.es — https://nitter.net/publico_es/status/2080396191515181436#m",
-      "url": "https://nitter.net/03690jul/status/2080405603449458977#m",
-      "date": "Thu, 23 Jul 2026 21:32:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2079172598454226945%2FErXM1hQt%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "c8f0ff7d9ce3dbf12efe9338546edeec1284997ca779ed31b1a6ed555216053c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Es pagar a Quirón o pagar a los bomberos todo a la vez no se puede. Gestionando.",
-      "text": "Es pagar a Quirón o pagar a los bomberos todo a la vez no se puede. Gestionando.",
-      "url": "https://nitter.net/Idiazaquso/status/2080570103721009417#m",
-      "date": "Fri, 24 Jul 2026 08:25:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -356,9 +359,39 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "0f6a0bdc881c4b817a17a3135fc82bc35133707b6cb0b85c2802c55aef249dc1",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2080556175876125065#m",
+      "date": "Fri, 24 Jul 2026 07:30:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHN-e0HAWgAA-gBO.jpg"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "026f211c3bcc1ec1adb01266e1d41b96effaa06862939f7f6ca8b0f65c96881e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1189 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1189 BY ME",
+      "text": "#ONEPIECE1189 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1189 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2079559537183342647#m",
+      "date": "Tue, 21 Jul 2026 13:30:04 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNwN1fHW0AE44e8.jpg"
+      ]
+    },
     {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
@@ -417,93 +450,109 @@
       ]
     },
     {
-      "id": "0cb86c4323ee4be8e098f223e6e3da095bf1549cfb6167f83c7279b0a21d4edc",
+      "id": "bd99228d810792e98551c6fd149ebdb31534a3219fdee2739f9f2ff04c59bb29",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 Beating your enemy is one thing, but making fun of his dead brother and calling them out is really curiel. Imu is truly the ragebaiter, let be honest, alone for this Luffy need to get ba",
-      "text": "#ONEPIECE1189 Beating your enemy is one thing, but making fun of his dead brother and calling them out is really curiel. Imu is truly the ragebaiter, let be honest, alone for this Luffy need to get back...",
-      "url": "https://nitter.net/WorstGenHQ/status/2080719413125197886#m",
-      "date": "Fri, 24 Jul 2026 18:19:00 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "text": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "url": "https://nitter.net/pewpiece/status/2080635765260787848#m",
+      "date": "Fri, 24 Jul 2026 12:46:37 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOAzPEaW0AArpfs.jpg"
+        "https://nitter.net/pic/media%2FHN_nEWIXMAIH0Ta.jpg",
+        "https://nitter.net/pic/media%2FHN_nI9TW8AAswd_.png"
       ]
     },
     {
-      "id": "1a24a90ec62c337e6291c760df5216c572d07e4b7f6713ba31739bd3bc1c8ec5",
+      "id": "8feed50077ef5673701bf99e76873762ef279fa99f3920ce0fb6a036c6d6aa64",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 \"Luffy after just one hit from Imu...?!\".... Even Narrator making it clear how Imu smoked Luffy... 😭😭",
-      "text": "#ONEPIECE1189 \"Luffy after just one hit from Imu...?!\".... Even Narrator making it clear how Imu smoked Luffy... 😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2080718080229908680#m",
-      "date": "Fri, 24 Jul 2026 18:13:42 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "text": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "url": "https://nitter.net/pewpiece/status/2079250282928599064#m",
+      "date": "Mon, 20 Jul 2026 17:01:12 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOAx39YWYAAwnMI.jpg"
+        "https://nitter.net/pic/media%2FHNq2aB5WEAA0_do.jpg"
       ]
     },
     {
-      "id": "d3f6873dce60ead4cc1882bc9c9860d6b4ecfd998b2068ef7c061039fe7986bf",
+      "id": "69d218ac8f0d4895a2ac47caa14c480e57164197a31733926aa1c2e7ef409eab",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 If this translation is legit. Shanks is saying Imu's strength is beyond comprehension and is shocked by by it. He also tells Loki if Imu's defeat was possible, someone would've done it b",
-      "text": "#ONEPIECE1189 If this translation is legit. Shanks is saying Imu's strength is beyond comprehension and is shocked by by it. He also tells Loki if Imu's defeat was possible, someone would've done it by now.",
-      "url": "https://nitter.net/KHDLuffy/status/2080447399894380968#m",
-      "date": "Fri, 24 Jul 2026 00:18:07 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official poster for the LEGO One Piece anime series!",
+      "text": "Official poster for the LEGO One Piece anime series!",
+      "url": "https://nitter.net/pewpiece/status/2079250005173453172#m",
+      "date": "Mon, 20 Jul 2026 17:00:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHN874Z3WoAAsPYm.jpg"
+        "https://nitter.net/pic/media%2FHNr6zWmW0AAz3TA.jpg"
       ]
     },
     {
-      "id": "0ddc34bad4b1976ff59392f046d1798444a310518f51a96356e048bcf7226e8c",
+      "id": "21765d41cad5978dd3c64652effd3166de5ad9c69dfa7957a47c54101e1afaba",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 Still shocked that the same move which defeat King(and his ultimate attack), was casually blocked by Sommers, no he even easily overpowered it... Omen and the legendary weapons are soo b",
-      "text": "#ONEPIECE1189 Still shocked that the same move which defeat King(and his ultimate attack), was casually blocked by Sommers, no he even easily overpowered it... Omen and the legendary weapons are soo broken. Shamrock with Omen would be hella broken...",
-      "url": "https://nitter.net/WorstGenHQ/status/2080694173204648334#m",
-      "date": "Fri, 24 Jul 2026 16:38:42 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "text": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "url": "https://nitter.net/pewpiece/status/2079187557128999238#m",
+      "date": "Mon, 20 Jul 2026 12:51:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOAb7VXXMAA8x7X.jpg"
+        "https://nitter.net/pic/media%2FHNrCDq8WsAEFwxh.jpg"
       ]
     },
     {
-      "id": "9d45f6bd3dc73d7ceaac941e956644621400bce157ec1ef8bcbfe4604c40e8f9",
+      "id": "d9ee43cc3aea317227c646366a523053546c28a388042c560bfe9d5686068910",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 Sex is good but have you ever scrolled through twitter/Youtube after Chapter 1189 and watching KoL tweets/videos? The next stream gonna end funny(same with Jay stream😂😂) Video Christop",
-      "text": "#ONEPIECE1189 Sex is good but have you ever scrolled through twitter/Youtube after Chapter 1189 and watching KoL tweets/videos? The next stream gonna end funny(same with Jay stream😂😂) Video Christopher aka T͟hē King Of Lightning (@KingOfLighting) Prime Roger over Imu but Imu over Prime Whitebeard. All fights would be extreme diff. — https://nitter.net/KingOfLighting/status/2073556558122807492#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2080678222748942705#m",
-      "date": "Fri, 24 Jul 2026 15:35:20 GMT",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "text": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "url": "https://nitter.net/pewpiece/status/2078966302178218077#m",
+      "date": "Sun, 19 Jul 2026 22:12:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2080678207674626048%2Fimg%2FZPensV5e4zLkrWjV.jpg"
+        "https://nitter.net/pic/media%2FHNn4zqQXQAAI1AI.jpg"
       ]
     },
     {
-      "id": "6612e4cd1cdf90706c0f4aef37d45df25211d2f5ceb97a117fd8716a03c40e2e",
+      "id": "8c1710323d8d3f835b6ab654d453bf8504a071fc78af47e75ba134124fbfecd5",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 You guys wanted to see a serious Imu against Luffy, well, there you have it... It’s just wild to me that Luffy stands absolutely no chance. This guy defeated Kaido just two arcs ago, yet",
-      "text": "#ONEPIECE1189 You guys wanted to see a serious Imu against Luffy, well, there you have it... It’s just wild to me that Luffy stands absolutely no chance. This guy defeated Kaido just two arcs ago, yet here he’s being treated like a schoolboy... #JusticeForLuffy 😭😭😭",
-      "url": "https://nitter.net/WorstGenHQ/status/2080634867780296921#m",
-      "date": "Fri, 24 Jul 2026 12:43:03 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "De calentar el ambiente sabes mucho. Es de lo que vives. Ahora pides ayuda a ese gobierno al que te pasas la vida insultando y descalificando. Si hay una mamarracha en España, esa eres tú. Europa Pres",
+      "text": "De calentar el ambiente sabes mucho. Es de lo que vives. Ahora pides ayuda a ese gobierno al que te pasas la vida insultando y descalificando. Si hay una mamarracha en España, esa eres tú. Europa Press (@europapress) #EnDirecto | Ayuso afirma que la coordinación con el Gobierno está siendo \"buena\", pide dejarse de \"estupideces\" e ignora \"por completo\" a Puente: \"El primer mamarracho que se ponga por medio a calentar el ambiente, allá él\" shorturl.at/jb8nl Video — https://nitter.net/europapress/status/2080616181220745710#m",
+      "url": "https://nitter.net/oscar_puente_/status/2080623808889647221#m",
+      "date": "Fri, 24 Jul 2026 11:59:06 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHN_mYotWgAA748x.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2080615723723018240%2Fimg%2FmsnGjcX1Q600SWGS.jpg"
+      ]
+    },
+    {
+      "id": "b7e278d75d3f77ef037492cd94b70e34291df8d48d79973f9f9958297971e07d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios público",
+      "text": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios públicos y luego le piden al gobierno que les resuelva la papeleta. Bomberos Forestales CBCM (@bomberos_infoma) Los #BomberosForestalesCBCM queremos denunciar la no activación al #IFAlmorox deberíamos ser 62 fecetivos, pero la CM no contrata a todo el personal de extinción de incendios forestales. Estamos trabajando en nuestro centro de trabajo, pero no nos movilizan aunque lo solicitemos. Video — https://nitter.net/bomberos_infoma/status/2080038811644350756#m",
+      "url": "https://nitter.net/oscar_puente_/status/2080557393465729299#m",
+      "date": "Fri, 24 Jul 2026 07:35:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2080038787657199616%2Fimg%2FxHV0SUg0r9xfnQOb.jpg"
       ]
     },
     {
@@ -569,34 +618,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOAKh5BaUAAmdYl.jpg"
       ]
-    },
-    {
-      "id": "1b1084497dbb5226938087b9675f701e0c81b6f55248ac9f346247f472766a25",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "La muy cerda recorta en extinción de incendios para bajar impuestos a los multimillonarios, deja temblando a los bomberos, que llevan meses en huelga, y ahora pide que el Gobierno le saque las castaña",
-      "text": "La muy cerda recorta en extinción de incendios para bajar impuestos a los multimillonarios, deja temblando a los bomberos, que llevan meses en huelga, y ahora pide que el Gobierno le saque las castañas del fuego, con el dinero de todos los españoles. Es todo alucinante Público (@publico_es) 🔴ÚLTIMA HORA | Ayuso pide al Gobierno que tome el control de la situación y asuma el mando ante los incendios en la Comunidad de Madrid diario.publico.es/6ze0s2 Link Ayuso pide al Gobierno que tome el control de la situación y asuma el mando ante los incendios en... La Comunidad de Madrid solicita al Estado la declaración de la Situación Operativa 3 del Plan de Protección Civil contra Incendios Forestales en la Comunidad (Infoma), es decir, pide a La Moncloa q... publico.es — https://nitter.net/publico_es/status/2080396191515181436#m",
-      "url": "https://nitter.net/03690jul/status/2080405603449458977#m",
-      "date": "Thu, 23 Jul 2026 21:32:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/card_img%2F2079172598454226945%2FErXM1hQt%3Fformat%3Djpg%26name%3D800x419"
-      ]
-    },
-    {
-      "id": "c8f0ff7d9ce3dbf12efe9338546edeec1284997ca779ed31b1a6ed555216053c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Es pagar a Quirón o pagar a los bomberos todo a la vez no se puede. Gestionando.",
-      "text": "Es pagar a Quirón o pagar a los bomberos todo a la vez no se puede. Gestionando.",
-      "url": "https://nitter.net/Idiazaquso/status/2080570103721009417#m",
-      "date": "Fri, 24 Jul 2026 08:25:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -711,6 +732,21 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "0f6a0bdc881c4b817a17a3135fc82bc35133707b6cb0b85c2802c55aef249dc1",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2080556175876125065#m",
+      "date": "Fri, 24 Jul 2026 07:30:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHN-e0HAWgAA-gBO.jpg"
+      ]
     }
   ]
 }
