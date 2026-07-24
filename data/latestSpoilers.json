@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:02:32.892Z",
+  "generatedAt": "2026-07-24T23:28:36.525Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -77,82 +77,6 @@
   ],
   "misc": [
     {
-      "id": "bd99228d810792e98551c6fd149ebdb31534a3219fdee2739f9f2ff04c59bb29",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
-      "text": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
-      "url": "https://nitter.net/pewpiece/status/2080635765260787848#m",
-      "date": "Fri, 24 Jul 2026 12:46:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN_nEWIXMAIH0Ta.jpg",
-        "https://nitter.net/pic/media%2FHN_nI9TW8AAswd_.png"
-      ]
-    },
-    {
-      "id": "8feed50077ef5673701bf99e76873762ef279fa99f3920ce0fb6a036c6d6aa64",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The official trailer for the LEGO OnePiece animated series is here! Video",
-      "text": "The official trailer for the LEGO OnePiece animated series is here! Video",
-      "url": "https://nitter.net/pewpiece/status/2079250282928599064#m",
-      "date": "Mon, 20 Jul 2026 17:01:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNq2aB5WEAA0_do.jpg"
-      ]
-    },
-    {
-      "id": "69d218ac8f0d4895a2ac47caa14c480e57164197a31733926aa1c2e7ef409eab",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official poster for the LEGO One Piece anime series!",
-      "text": "Official poster for the LEGO One Piece anime series!",
-      "url": "https://nitter.net/pewpiece/status/2079250005173453172#m",
-      "date": "Mon, 20 Jul 2026 17:00:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNr6zWmW0AAz3TA.jpg"
-      ]
-    },
-    {
-      "id": "21765d41cad5978dd3c64652effd3166de5ad9c69dfa7957a47c54101e1afaba",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
-      "text": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
-      "url": "https://nitter.net/pewpiece/status/2079187557128999238#m",
-      "date": "Mon, 20 Jul 2026 12:51:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNrCDq8WsAEFwxh.jpg"
-      ]
-    },
-    {
-      "id": "d9ee43cc3aea317227c646366a523053546c28a388042c560bfe9d5686068910",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
-      "text": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
-      "url": "https://nitter.net/pewpiece/status/2078966302178218077#m",
-      "date": "Sun, 19 Jul 2026 22:12:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNn4zqQXQAAI1AI.jpg"
-      ]
-    },
-    {
       "id": "544bf4bfd59e93a465db2680b8010d8cc2cde188331dfd0964a57c167df7f522",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -247,6 +171,145 @@
       ]
     },
     {
+      "id": "bd99228d810792e98551c6fd149ebdb31534a3219fdee2739f9f2ff04c59bb29",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "text": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "url": "https://nitter.net/pewpiece/status/2080635765260787848#m",
+      "date": "Fri, 24 Jul 2026 12:46:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHN_nEWIXMAIH0Ta.jpg",
+        "https://nitter.net/pic/media%2FHN_nI9TW8AAswd_.png"
+      ]
+    },
+    {
+      "id": "8feed50077ef5673701bf99e76873762ef279fa99f3920ce0fb6a036c6d6aa64",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "text": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "url": "https://nitter.net/pewpiece/status/2079250282928599064#m",
+      "date": "Mon, 20 Jul 2026 17:01:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNq2aB5WEAA0_do.jpg"
+      ]
+    },
+    {
+      "id": "69d218ac8f0d4895a2ac47caa14c480e57164197a31733926aa1c2e7ef409eab",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official poster for the LEGO One Piece anime series!",
+      "text": "Official poster for the LEGO One Piece anime series!",
+      "url": "https://nitter.net/pewpiece/status/2079250005173453172#m",
+      "date": "Mon, 20 Jul 2026 17:00:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNr6zWmW0AAz3TA.jpg"
+      ]
+    },
+    {
+      "id": "21765d41cad5978dd3c64652effd3166de5ad9c69dfa7957a47c54101e1afaba",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "text": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "url": "https://nitter.net/pewpiece/status/2079187557128999238#m",
+      "date": "Mon, 20 Jul 2026 12:51:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNrCDq8WsAEFwxh.jpg"
+      ]
+    },
+    {
+      "id": "d9ee43cc3aea317227c646366a523053546c28a388042c560bfe9d5686068910",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "text": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "url": "https://nitter.net/pewpiece/status/2078966302178218077#m",
+      "date": "Sun, 19 Jul 2026 22:12:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNn4zqQXQAAI1AI.jpg"
+      ]
+    },
+    {
+      "id": "895ed4b300481f35394ed51562d2dae8079e4a5bf960163f1ef77c2220337414",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Son implacables. Acabaran persiguiendo a los propios bomberos. Hay motivos para tener mucho miedo a esta gente. Comunidad de Madrid (@ComunidadMadrid) 🔴 La Comunidad de Madrid estudiará todas las vía",
+      "text": "Son implacables. Acabaran persiguiendo a los propios bomberos. Hay motivos para tener mucho miedo a esta gente. Comunidad de Madrid (@ComunidadMadrid) 🔴 La Comunidad de Madrid estudiará todas las vías administrativas y jurídicas contra la actuación de un reducido grupo de bomberos forestales, que han podido comprometer la actuación de los dispositivos de emergencia. #IFSierraOeste #INFOMA26 — https://nitter.net/ComunidadMadrid/status/2080713187767259141#m",
+      "url": "https://nitter.net/oscar_puente_/status/2080739325965222047#m",
+      "date": "Fri, 24 Jul 2026 19:38:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOAtnI-XcAA6nsZ.jpg"
+      ]
+    },
+    {
+      "id": "e35827cdc7710d198642ffbc7f380767c1629a7c7a93607efff9b20bc6bee7e1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Check out our S.H.Figuarts ONE PIECE -MARINEFORD- display at SDCC! See it yourself at the TAMASHII NATIONS booth 3329!",
+      "text": "Check out our S.H.Figuarts ONE PIECE -MARINEFORD- display at SDCC! See it yourself at the TAMASHII NATIONS booth 3329!",
+      "url": "https://nitter.net/TamashiiNations/status/2080699738647630326#m",
+      "date": "Fri, 24 Jul 2026 17:00:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOAhYirXYAE8nFq.jpg",
+        "https://nitter.net/pic/media%2FHOAhYiZXsAAhlez.jpg",
+        "https://nitter.net/pic/media%2FHOAhYiUW4AEFZ8G.jpg",
+        "https://nitter.net/pic/media%2FHOAhYiXWUAAsaVr.jpg"
+      ]
+    },
+    {
+      "id": "80f38b2d8683dc6f802c33be5ff3512dbacae2ea5f72f669aac16719a44adbb1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Now is the mighty hour. Watch the Official Teaser Trailer to The Lord of The Rings: The Rings of Power Season 3, streaming November 11 on Prime Video. Video",
+      "text": "Now is the mighty hour. Watch the Official Teaser Trailer to The Lord of The Rings: The Rings of Power Season 3, streaming November 11 on Prime Video. Video",
+      "url": "https://nitter.net/TheRingsofPower/status/2080722221392134554#m",
+      "date": "Fri, 24 Jul 2026 18:30:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOA11V3XUAAhZqn.png"
+      ]
+    },
+    {
+      "id": "e8af3961e034e6ab7a9108da1396631d30ff257162da423203393ddcef277dcc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ayuso amenazando a 61 bomberos forestales a los que no da medios para trabajar y que han cogido sus coches para ir a apagar el incendio que la inepta no ha querido gestionar. Comunidad de Madrid (@Com",
+      "text": "Ayuso amenazando a 61 bomberos forestales a los que no da medios para trabajar y que han cogido sus coches para ir a apagar el incendio que la inepta no ha querido gestionar. Comunidad de Madrid (@ComunidadMadrid) 🔴 La Comunidad de Madrid estudiará todas las vías administrativas y jurídicas contra la actuación de un reducido grupo de bomberos forestales, que han podido comprometer la actuación de los dispositivos de emergencia. #IFSierraOeste #INFOMA26 — https://nitter.net/ComunidadMadrid/status/2080713187767259141#m",
+      "url": "https://nitter.net/AntonioMaestre/status/2080739150387458291#m",
+      "date": "Fri, 24 Jul 2026 19:37:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOAtnI-XcAA6nsZ.jpg"
+      ]
+    },
+    {
       "id": "8311e602c80942acc8a375e4bd1f5796ad0f7572f84ff34a59d18ce803d29805",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -277,112 +340,46 @@
       ]
     },
     {
-      "id": "b7e278d75d3f77ef037492cd94b70e34291df8d48d79973f9f9958297971e07d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios público",
-      "text": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios públicos y luego le piden al gobierno que les resuelva la papeleta. Bomberos Forestales CBCM (@bomberos_infoma) Los #BomberosForestalesCBCM queremos denunciar la no activación al #IFAlmorox deberíamos ser 62 fecetivos, pero la CM no contrata a todo el personal de extinción de incendios forestales. Estamos trabajando en nuestro centro de trabajo, pero no nos movilizan aunque lo solicitemos. Video — https://nitter.net/bomberos_infoma/status/2080038811644350756#m",
-      "url": "https://nitter.net/oscar_puente_/status/2080557393465729299#m",
-      "date": "Fri, 24 Jul 2026 07:35:12 GMT",
+      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kawaki during Boruto TBV: #BORUTO",
+      "text": "Kawaki during Boruto TBV: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
+      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2080038787657199616%2Fimg%2FxHV0SUg0r9xfnQOb.jpg"
+        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
       ]
     },
     {
-      "id": "c462225d9125ca0364e7644cfa7af2a16de03a0a550eafbd18cabc2852c6a7cd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Esta es MOMO, una nueva Blade inusual que aparece en #XenobladeChronicles2 – #NintendoSwitch2 Edition. Alterna entre sus dos modos, real e imaginario, para cambiar su apariencia, así como su afinidad ",
-      "text": "Esta es MOMO, una nueva Blade inusual que aparece en #XenobladeChronicles2 – #NintendoSwitch2 Edition. Alterna entre sus dos modos, real e imaginario, para cambiar su apariencia, así como su afinidad elemental.",
-      "url": "https://nitter.net/NintendoES/status/2080578738585039130#m",
-      "date": "Fri, 24 Jul 2026 09:00:01 GMT",
+      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
+      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
+      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-fQiLXkAAKrdc.jpg",
-        "https://nitter.net/pic/media%2FHN-fQz8XEAA7G8q.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "23f58f52d27d9647404ebf7fd8ee11d5a20695efccb2fe3f1ab8d9297c5a6d6e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "En Madrid tenemos presidenta para que cuando vienen mal dadas se haga un book de fotos con chalequito y sea Pedro Sánchez el que tenga que gestionar las competencias autonómicas porque ella es incapaz",
-      "text": "En Madrid tenemos presidenta para que cuando vienen mal dadas se haga un book de fotos con chalequito y sea Pedro Sánchez el que tenga que gestionar las competencias autonómicas porque ella es incapaz. Es lo que tenemos en Madrid. Isabel Díaz Ayuso (@IdiazAyuso) #IFAlmorox- Villa del Prado: Perimetrado, pero no apagado. Afortunadamente no hay que lamentar daños personales a la espera de la evaluación, parcela a parcela, de los materiales que están realizando los #BomberosCM. Los vecinos recibirán esta información a lo largo de la tarde. Mientras tanto, el resto de servicios públicos regionales siguen a su disposición. Va a ser una tarde complicada de altas temperaturas y mucho viento. — https://nitter.net/IdiazAyuso/status/2080280033780769117#m",
-      "url": "https://nitter.net/AntonioMaestre/status/2080538243334815866#m",
-      "date": "Fri, 24 Jul 2026 06:19:06 GMT",
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHN6jqTZXcAADWxD.jpg",
-        "https://nitter.net/pic/media%2FHN6jqTWXQAAjnSk.jpg",
-        "https://nitter.net/pic/media%2FHN6jqTXXoAAKWAI.jpg",
-        "https://nitter.net/pic/media%2FHN6jqTbWgAA9GHj.jpg"
-      ]
-    },
-    {
-      "id": "ef80d5262dec8385061ca5a97a6f6106c0835b45540330ff54c037d3e2b65f5f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "La Lara Croft de aliexpress y con una pegatina donde pone bien grandre \"PRESIDENTA\" por si a alguien se le escapa 😅 Qué poca vergüenza tienen",
-      "text": "La Lara Croft de aliexpress y con una pegatina donde pone bien grandre \"PRESIDENTA\" por si a alguien se le escapa 😅 Qué poca vergüenza tienen",
-      "url": "https://nitter.net/monicacanitrot/status/2080573080334725394#m",
-      "date": "Fri, 24 Jul 2026 08:37:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-uL6WWIAAbERk.jpg"
-      ]
-    },
-    {
-      "id": "0f6a0bdc881c4b817a17a3135fc82bc35133707b6cb0b85c2802c55aef249dc1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080556175876125065#m",
-      "date": "Fri, 24 Jul 2026 07:30:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-e0HAWgAA-gBO.jpg"
-      ]
-    },
-    {
-      "id": "a8e7486e3723729ddae1b19a8cc3360c4058888af1389abb4a1a04aeb17d8d37",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Comment a better picture than this one (impossible)",
-      "text": "Comment a better picture than this one (impossible)",
-      "url": "https://nitter.net/daily_berserk/status/2080283800886542492#m",
-      "date": "Thu, 23 Jul 2026 13:28:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN6nFwJWcAA6Ypq.jpg"
-      ]
-    },
-    {
-      "id": "bf1ed58fdba82c209fcece8cf10fa6e03b36aea745d7f5bfc233b33264cf4e87",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2080180398919692428#m",
-      "date": "Thu, 23 Jul 2026 06:37:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN5JDD4WwAA_e6H.jpg"
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
       ]
     }
   ],
@@ -460,82 +457,6 @@
       ]
     },
     {
-      "id": "bd99228d810792e98551c6fd149ebdb31534a3219fdee2739f9f2ff04c59bb29",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
-      "text": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
-      "url": "https://nitter.net/pewpiece/status/2080635765260787848#m",
-      "date": "Fri, 24 Jul 2026 12:46:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN_nEWIXMAIH0Ta.jpg",
-        "https://nitter.net/pic/media%2FHN_nI9TW8AAswd_.png"
-      ]
-    },
-    {
-      "id": "8feed50077ef5673701bf99e76873762ef279fa99f3920ce0fb6a036c6d6aa64",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "The official trailer for the LEGO OnePiece animated series is here! Video",
-      "text": "The official trailer for the LEGO OnePiece animated series is here! Video",
-      "url": "https://nitter.net/pewpiece/status/2079250282928599064#m",
-      "date": "Mon, 20 Jul 2026 17:01:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNq2aB5WEAA0_do.jpg"
-      ]
-    },
-    {
-      "id": "69d218ac8f0d4895a2ac47caa14c480e57164197a31733926aa1c2e7ef409eab",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official poster for the LEGO One Piece anime series!",
-      "text": "Official poster for the LEGO One Piece anime series!",
-      "url": "https://nitter.net/pewpiece/status/2079250005173453172#m",
-      "date": "Mon, 20 Jul 2026 17:00:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNr6zWmW0AAz3TA.jpg"
-      ]
-    },
-    {
-      "id": "21765d41cad5978dd3c64652effd3166de5ad9c69dfa7957a47c54101e1afaba",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
-      "text": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
-      "url": "https://nitter.net/pewpiece/status/2079187557128999238#m",
-      "date": "Mon, 20 Jul 2026 12:51:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNrCDq8WsAEFwxh.jpg"
-      ]
-    },
-    {
-      "id": "d9ee43cc3aea317227c646366a523053546c28a388042c560bfe9d5686068910",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
-      "text": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
-      "url": "https://nitter.net/pewpiece/status/2078966302178218077#m",
-      "date": "Sun, 19 Jul 2026 22:12:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNn4zqQXQAAI1AI.jpg"
-      ]
-    },
-    {
       "id": "544bf4bfd59e93a465db2680b8010d8cc2cde188331dfd0964a57c167df7f522",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -630,6 +551,145 @@
       ]
     },
     {
+      "id": "bd99228d810792e98551c6fd149ebdb31534a3219fdee2739f9f2ff04c59bb29",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "text": "Eiichiro Oda's comment this week \"I watched OnePiece Heroines with my daughter, and she really loved it!! I’m so grateful that it can truly capture women’s hearts. Please make sure to watch it.\"",
+      "url": "https://nitter.net/pewpiece/status/2080635765260787848#m",
+      "date": "Fri, 24 Jul 2026 12:46:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHN_nEWIXMAIH0Ta.jpg",
+        "https://nitter.net/pic/media%2FHN_nI9TW8AAswd_.png"
+      ]
+    },
+    {
+      "id": "8feed50077ef5673701bf99e76873762ef279fa99f3920ce0fb6a036c6d6aa64",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "text": "The official trailer for the LEGO OnePiece animated series is here! Video",
+      "url": "https://nitter.net/pewpiece/status/2079250282928599064#m",
+      "date": "Mon, 20 Jul 2026 17:01:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNq2aB5WEAA0_do.jpg"
+      ]
+    },
+    {
+      "id": "69d218ac8f0d4895a2ac47caa14c480e57164197a31733926aa1c2e7ef409eab",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official poster for the LEGO One Piece anime series!",
+      "text": "Official poster for the LEGO One Piece anime series!",
+      "url": "https://nitter.net/pewpiece/status/2079250005173453172#m",
+      "date": "Mon, 20 Jul 2026 17:00:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNr6zWmW0AAz3TA.jpg"
+      ]
+    },
+    {
+      "id": "21765d41cad5978dd3c64652effd3166de5ad9c69dfa7957a47c54101e1afaba",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "text": "BREAKING NEWS 🚨🚨 ONEPIECE MANGA WILL BE ON A BREAK NEXT WEEK AFTER ONEPIECE CHAPTER 1189",
+      "url": "https://nitter.net/pewpiece/status/2079187557128999238#m",
+      "date": "Mon, 20 Jul 2026 12:51:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNrCDq8WsAEFwxh.jpg"
+      ]
+    },
+    {
+      "id": "d9ee43cc3aea317227c646366a523053546c28a388042c560bfe9d5686068910",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "text": "NEW OFFICIAL ONEPIECE ART FOR GUNKO",
+      "url": "https://nitter.net/pewpiece/status/2078966302178218077#m",
+      "date": "Sun, 19 Jul 2026 22:12:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHNn4zqQXQAAI1AI.jpg"
+      ]
+    },
+    {
+      "id": "895ed4b300481f35394ed51562d2dae8079e4a5bf960163f1ef77c2220337414",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Son implacables. Acabaran persiguiendo a los propios bomberos. Hay motivos para tener mucho miedo a esta gente. Comunidad de Madrid (@ComunidadMadrid) 🔴 La Comunidad de Madrid estudiará todas las vía",
+      "text": "Son implacables. Acabaran persiguiendo a los propios bomberos. Hay motivos para tener mucho miedo a esta gente. Comunidad de Madrid (@ComunidadMadrid) 🔴 La Comunidad de Madrid estudiará todas las vías administrativas y jurídicas contra la actuación de un reducido grupo de bomberos forestales, que han podido comprometer la actuación de los dispositivos de emergencia. #IFSierraOeste #INFOMA26 — https://nitter.net/ComunidadMadrid/status/2080713187767259141#m",
+      "url": "https://nitter.net/oscar_puente_/status/2080739325965222047#m",
+      "date": "Fri, 24 Jul 2026 19:38:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOAtnI-XcAA6nsZ.jpg"
+      ]
+    },
+    {
+      "id": "e35827cdc7710d198642ffbc7f380767c1629a7c7a93607efff9b20bc6bee7e1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Check out our S.H.Figuarts ONE PIECE -MARINEFORD- display at SDCC! See it yourself at the TAMASHII NATIONS booth 3329!",
+      "text": "Check out our S.H.Figuarts ONE PIECE -MARINEFORD- display at SDCC! See it yourself at the TAMASHII NATIONS booth 3329!",
+      "url": "https://nitter.net/TamashiiNations/status/2080699738647630326#m",
+      "date": "Fri, 24 Jul 2026 17:00:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOAhYirXYAE8nFq.jpg",
+        "https://nitter.net/pic/media%2FHOAhYiZXsAAhlez.jpg",
+        "https://nitter.net/pic/media%2FHOAhYiUW4AEFZ8G.jpg",
+        "https://nitter.net/pic/media%2FHOAhYiXWUAAsaVr.jpg"
+      ]
+    },
+    {
+      "id": "80f38b2d8683dc6f802c33be5ff3512dbacae2ea5f72f669aac16719a44adbb1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Now is the mighty hour. Watch the Official Teaser Trailer to The Lord of The Rings: The Rings of Power Season 3, streaming November 11 on Prime Video. Video",
+      "text": "Now is the mighty hour. Watch the Official Teaser Trailer to The Lord of The Rings: The Rings of Power Season 3, streaming November 11 on Prime Video. Video",
+      "url": "https://nitter.net/TheRingsofPower/status/2080722221392134554#m",
+      "date": "Fri, 24 Jul 2026 18:30:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOA11V3XUAAhZqn.png"
+      ]
+    },
+    {
+      "id": "e8af3961e034e6ab7a9108da1396631d30ff257162da423203393ddcef277dcc",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Ayuso amenazando a 61 bomberos forestales a los que no da medios para trabajar y que han cogido sus coches para ir a apagar el incendio que la inepta no ha querido gestionar. Comunidad de Madrid (@Com",
+      "text": "Ayuso amenazando a 61 bomberos forestales a los que no da medios para trabajar y que han cogido sus coches para ir a apagar el incendio que la inepta no ha querido gestionar. Comunidad de Madrid (@ComunidadMadrid) 🔴 La Comunidad de Madrid estudiará todas las vías administrativas y jurídicas contra la actuación de un reducido grupo de bomberos forestales, que han podido comprometer la actuación de los dispositivos de emergencia. #IFSierraOeste #INFOMA26 — https://nitter.net/ComunidadMadrid/status/2080713187767259141#m",
+      "url": "https://nitter.net/AntonioMaestre/status/2080739150387458291#m",
+      "date": "Fri, 24 Jul 2026 19:37:26 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOAtnI-XcAA6nsZ.jpg"
+      ]
+    },
+    {
       "id": "8311e602c80942acc8a375e4bd1f5796ad0f7572f84ff34a59d18ce803d29805",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -660,112 +720,46 @@
       ]
     },
     {
-      "id": "b7e278d75d3f77ef037492cd94b70e34291df8d48d79973f9f9958297971e07d",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios público",
-      "text": "Tenemos todos claro que la UME es ya el nuevo servicio de extinción de incendios de las comunidades autónomas gobernadas por el PP. Ellos reducen impuestos a los ricos, jibarizan los servicios públicos y luego le piden al gobierno que les resuelva la papeleta. Bomberos Forestales CBCM (@bomberos_infoma) Los #BomberosForestalesCBCM queremos denunciar la no activación al #IFAlmorox deberíamos ser 62 fecetivos, pero la CM no contrata a todo el personal de extinción de incendios forestales. Estamos trabajando en nuestro centro de trabajo, pero no nos movilizan aunque lo solicitemos. Video — https://nitter.net/bomberos_infoma/status/2080038811644350756#m",
-      "url": "https://nitter.net/oscar_puente_/status/2080557393465729299#m",
-      "date": "Fri, 24 Jul 2026 07:35:12 GMT",
+      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kawaki during Boruto TBV: #BORUTO",
+      "text": "Kawaki during Boruto TBV: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
+      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2080038787657199616%2Fimg%2FxHV0SUg0r9xfnQOb.jpg"
+        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
       ]
     },
     {
-      "id": "c462225d9125ca0364e7644cfa7af2a16de03a0a550eafbd18cabc2852c6a7cd",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Esta es MOMO, una nueva Blade inusual que aparece en #XenobladeChronicles2 – #NintendoSwitch2 Edition. Alterna entre sus dos modos, real e imaginario, para cambiar su apariencia, así como su afinidad ",
-      "text": "Esta es MOMO, una nueva Blade inusual que aparece en #XenobladeChronicles2 – #NintendoSwitch2 Edition. Alterna entre sus dos modos, real e imaginario, para cambiar su apariencia, así como su afinidad elemental.",
-      "url": "https://nitter.net/NintendoES/status/2080578738585039130#m",
-      "date": "Fri, 24 Jul 2026 09:00:01 GMT",
+      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
+      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
+      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-fQiLXkAAKrdc.jpg",
-        "https://nitter.net/pic/media%2FHN-fQz8XEAA7G8q.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "23f58f52d27d9647404ebf7fd8ee11d5a20695efccb2fe3f1ab8d9297c5a6d6e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "En Madrid tenemos presidenta para que cuando vienen mal dadas se haga un book de fotos con chalequito y sea Pedro Sánchez el que tenga que gestionar las competencias autonómicas porque ella es incapaz",
-      "text": "En Madrid tenemos presidenta para que cuando vienen mal dadas se haga un book de fotos con chalequito y sea Pedro Sánchez el que tenga que gestionar las competencias autonómicas porque ella es incapaz. Es lo que tenemos en Madrid. Isabel Díaz Ayuso (@IdiazAyuso) #IFAlmorox- Villa del Prado: Perimetrado, pero no apagado. Afortunadamente no hay que lamentar daños personales a la espera de la evaluación, parcela a parcela, de los materiales que están realizando los #BomberosCM. Los vecinos recibirán esta información a lo largo de la tarde. Mientras tanto, el resto de servicios públicos regionales siguen a su disposición. Va a ser una tarde complicada de altas temperaturas y mucho viento. — https://nitter.net/IdiazAyuso/status/2080280033780769117#m",
-      "url": "https://nitter.net/AntonioMaestre/status/2080538243334815866#m",
-      "date": "Fri, 24 Jul 2026 06:19:06 GMT",
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHN6jqTZXcAADWxD.jpg",
-        "https://nitter.net/pic/media%2FHN6jqTWXQAAjnSk.jpg",
-        "https://nitter.net/pic/media%2FHN6jqTXXoAAKWAI.jpg",
-        "https://nitter.net/pic/media%2FHN6jqTbWgAA9GHj.jpg"
-      ]
-    },
-    {
-      "id": "ef80d5262dec8385061ca5a97a6f6106c0835b45540330ff54c037d3e2b65f5f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "La Lara Croft de aliexpress y con una pegatina donde pone bien grandre \"PRESIDENTA\" por si a alguien se le escapa 😅 Qué poca vergüenza tienen",
-      "text": "La Lara Croft de aliexpress y con una pegatina donde pone bien grandre \"PRESIDENTA\" por si a alguien se le escapa 😅 Qué poca vergüenza tienen",
-      "url": "https://nitter.net/monicacanitrot/status/2080573080334725394#m",
-      "date": "Fri, 24 Jul 2026 08:37:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-uL6WWIAAbERk.jpg"
-      ]
-    },
-    {
-      "id": "0f6a0bdc881c4b817a17a3135fc82bc35133707b6cb0b85c2802c55aef249dc1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080556175876125065#m",
-      "date": "Fri, 24 Jul 2026 07:30:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-e0HAWgAA-gBO.jpg"
-      ]
-    },
-    {
-      "id": "a8e7486e3723729ddae1b19a8cc3360c4058888af1389abb4a1a04aeb17d8d37",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Comment a better picture than this one (impossible)",
-      "text": "Comment a better picture than this one (impossible)",
-      "url": "https://nitter.net/daily_berserk/status/2080283800886542492#m",
-      "date": "Thu, 23 Jul 2026 13:28:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN6nFwJWcAA6Ypq.jpg"
-      ]
-    },
-    {
-      "id": "bf1ed58fdba82c209fcece8cf10fa6e03b36aea745d7f5bfc233b33264cf4e87",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2080180398919692428#m",
-      "date": "Thu, 23 Jul 2026 06:37:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN5JDD4WwAA_e6H.jpg"
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
       ]
     }
   ]
