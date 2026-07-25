@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T13:11:28.192Z",
+  "generatedAt": "2026-07-25T14:43:53.654Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -155,6 +155,23 @@
       ]
     },
     {
+      "id": "188b4e89e69a7d03ad242b768f737853ff1453492dfdb1d531c7deff286d3207",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今日の収穫品💨✨ 未開封ファイナルファンタジー8💨✨ ポケットステーションのラベルが付いてる😆 #ファイナルファンタジー8",
+      "text": "今日の収穫品💨✨ 未開封ファイナルファンタジー8💨✨ ポケットステーションのラベルが付いてる😆 #ファイナルファンタジー8",
+      "url": "https://nitter.net/takatakakondo/status/2081014875791507909#m",
+      "date": "Sat, 25 Jul 2026 13:53:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOE__PVa4AA1yyz.jpg",
+        "https://nitter.net/pic/media%2FHOE__QSaQAAhwGq.jpg",
+        "https://nitter.net/pic/media%2FHOE__SuboAAJSfQ.jpg"
+      ]
+    },
+    {
       "id": "5e15688ed2321ff8cf63d010d0da624f81396e7f2667e0ee64db30105b6494fe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -220,21 +237,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "b8567026a2860610f3636363920bed2643ec55bc3e0dbc2e3e8e3bc4916ffd03",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Eiichiro Oda's message for his new Puppet Show",
-      "text": "Eiichiro Oda's message for his new Puppet Show",
-      "url": "https://nitter.net/pewpiece/status/2080822479874871455#m",
-      "date": "Sat, 25 Jul 2026 01:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOCQ9p2WMAA4spy.jpg"
-      ]
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -349,36 +351,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "a28d11a5dac65919ec109e9b00c6709c09b31245cc548af4d2abb695da00b0df",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080952790654804088#m",
-      "date": "Sat, 25 Jul 2026 09:46:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOEHiK6W0AAJebl.jpg"
-      ]
-    },
-    {
-      "id": "0f6a0bdc881c4b817a17a3135fc82bc35133707b6cb0b85c2802c55aef249dc1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080556175876125065#m",
-      "date": "Fri, 24 Jul 2026 07:30:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-e0HAWgAA-gBO.jpg"
-      ]
     }
   ],
   "items": [
@@ -533,6 +505,23 @@
       ]
     },
     {
+      "id": "188b4e89e69a7d03ad242b768f737853ff1453492dfdb1d531c7deff286d3207",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "今日の収穫品💨✨ 未開封ファイナルファンタジー8💨✨ ポケットステーションのラベルが付いてる😆 #ファイナルファンタジー8",
+      "text": "今日の収穫品💨✨ 未開封ファイナルファンタジー8💨✨ ポケットステーションのラベルが付いてる😆 #ファイナルファンタジー8",
+      "url": "https://nitter.net/takatakakondo/status/2081014875791507909#m",
+      "date": "Sat, 25 Jul 2026 13:53:04 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOE__PVa4AA1yyz.jpg",
+        "https://nitter.net/pic/media%2FHOE__QSaQAAhwGq.jpg",
+        "https://nitter.net/pic/media%2FHOE__SuboAAJSfQ.jpg"
+      ]
+    },
+    {
       "id": "5e15688ed2321ff8cf63d010d0da624f81396e7f2667e0ee64db30105b6494fe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -598,21 +587,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "b8567026a2860610f3636363920bed2643ec55bc3e0dbc2e3e8e3bc4916ffd03",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Eiichiro Oda's message for his new Puppet Show",
-      "text": "Eiichiro Oda's message for his new Puppet Show",
-      "url": "https://nitter.net/pewpiece/status/2080822479874871455#m",
-      "date": "Sat, 25 Jul 2026 01:08:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOCQ9p2WMAA4spy.jpg"
-      ]
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -727,36 +701,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "a28d11a5dac65919ec109e9b00c6709c09b31245cc548af4d2abb695da00b0df",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080952790654804088#m",
-      "date": "Sat, 25 Jul 2026 09:46:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOEHiK6W0AAJebl.jpg"
-      ]
-    },
-    {
-      "id": "0f6a0bdc881c4b817a17a3135fc82bc35133707b6cb0b85c2802c55aef249dc1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080556175876125065#m",
-      "date": "Fri, 24 Jul 2026 07:30:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-e0HAWgAA-gBO.jpg"
-      ]
     }
   ]
 }
