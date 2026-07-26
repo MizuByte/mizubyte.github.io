@@ -1,65 +1,7 @@
 {
-  "generatedAt": "2026-07-26T16:36:52.513Z",
+  "generatedAt": "2026-07-26T17:45:07.047Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "text": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2080634622594159095#m",
-      "date": "Fri, 24 Jul 2026 12:42:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN_mJH6awAAEYYq.jpg",
-        "https://nitter.net/pic/media%2FHN_mKGEbgAICfRx.jpg"
-      ]
-    },
-    {
-      "id": "aca98d362d41c89131d5c50c55a8878dd2530bc35ec1c12d052eb420159276e0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and ",
-      "text": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2080636576401604770#m",
-      "date": "Fri, 24 Jul 2026 12:49:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4471be0b114173937d70a4875a3f70195527f866802532583e281d8bad3b2f7e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "text": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "url": "https://nitter.net/nite_baron/status/2080635158793728228#m",
-      "date": "Fri, 24 Jul 2026 12:44:12 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e772a58d65164473db3f09eca3f0cca1daaf82c2325c485a8a139bb36f0b9f96",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "text": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2078185111766573366#m",
-      "date": "Fri, 17 Jul 2026 18:28:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcyV6obsAA6LBM.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
       "id": "c2478bf8b032f0304027deed81986654508322607625e4d69796a21a10f030d1",
@@ -239,32 +181,6 @@
       ]
     },
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -357,63 +273,6 @@
     }
   ],
   "items": [
-    {
-      "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "text": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2080634622594159095#m",
-      "date": "Fri, 24 Jul 2026 12:42:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN_mJH6awAAEYYq.jpg",
-        "https://nitter.net/pic/media%2FHN_mKGEbgAICfRx.jpg"
-      ]
-    },
-    {
-      "id": "aca98d362d41c89131d5c50c55a8878dd2530bc35ec1c12d052eb420159276e0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and ",
-      "text": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2080636576401604770#m",
-      "date": "Fri, 24 Jul 2026 12:49:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4471be0b114173937d70a4875a3f70195527f866802532583e281d8bad3b2f7e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "text": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "url": "https://nitter.net/nite_baron/status/2080635158793728228#m",
-      "date": "Fri, 24 Jul 2026 12:44:12 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "e772a58d65164473db3f09eca3f0cca1daaf82c2325c485a8a139bb36f0b9f96",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "text": "The latest information on the final Volume 38 and the long-awaited fanbook will be revealed next week(Thursday). Stay tuned! #BlackClover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2078185111766573366#m",
-      "date": "Fri, 17 Jul 2026 18:28:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNcyV6obsAA6LBM.jpg"
-      ]
-    },
     {
       "id": "c2478bf8b032f0304027deed81986654508322607625e4d69796a21a10f030d1",
       "anime": "onepiece",
@@ -590,32 +449,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
-    },
-    {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4ee352bdd0de722015a5bd87686a56103c01353c8e8948005b9d38b27c54ef55",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "text": "Medialink, regional distributor for Asia, has Bleach: TYBW - The Calamity listed for 10 Episodes.",
-      "url": "https://nitter.net/johnsmith5x/status/2077031819384406113#m",
-      "date": "Tue, 14 Jul 2026 14:05:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
