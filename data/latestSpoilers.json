@@ -1,101 +1,8 @@
 {
-  "generatedAt": "2026-07-26T11:10:40.800Z",
+  "generatedAt": "2026-07-26T12:34:24.355Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "6a87033501d5c132558407ff637c98a827cd8229f3c0b1aadccf41d4902dcfde",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/90sPKMN/status/2080820476725674238#m",
-      "date": "Sat, 25 Jul 2026 01:00:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOCPMhyWgAAXWCk.jpg"
-      ]
-    }
-  ],
+  "spoilers": [],
   "misc": [
-    {
-      "id": "0692878de4c9bf9a557268a92746e27580ebfd898ba78c4d50e60fb3cc72bb84",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "the effects and animation are fucking crazy in this scene holy I absolutely love Yoruichi in this form 😭 Video",
-      "text": "the effects and animation are fucking crazy in this scene holy I absolutely love Yoruichi in this form 😭 Video",
-      "url": "https://nitter.net/d0nutalt/status/2081043945245557193#m",
-      "date": "Sat, 25 Jul 2026 15:48:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2081041762223620096%2Fimg%2FTYz_8xNreMj5bxXh.jpg"
-      ]
-    },
-    {
-      "id": "2cccd642ed1c233d05be38324299060d8bbea1555fbb1c4a77b5b76dedd2a378",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#BLEACH ..........",
-      "text": "#BLEACH ..........",
-      "url": "https://nitter.net/WorstGenHQ/status/2081322694830641534#m",
-      "date": "Sun, 26 Jul 2026 10:16:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOJX7LUXgAArbUo.jpg",
-        "https://nitter.net/pic/media%2FHOJX8PDWMAAuUey.jpg"
-      ]
-    },
-    {
-      "id": "95b5c2e258ff051bc94c9ba7a09465b5bf0f261ec48b05b284501b7fc8c13bc4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "IS THIS PEAK OR IS THIS PEAK OR IS THIS PEAK??? Video",
-      "text": "IS THIS PEAK OR IS THIS PEAK OR IS THIS PEAK??? Video",
-      "url": "https://nitter.net/NoisyMedium/status/2081030348805423181#m",
-      "date": "Sat, 25 Jul 2026 14:54:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2081030110040494080%2Fimg%2FAKoknGy4sEoPeGjA.jpg"
-      ]
-    },
-    {
-      "id": "2ac61d750bfb24819af846ab85a16d8b6326bac0a659e557e7ffa23e0deee240",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 If those marks are foreshadowing the three of them are going to get stabbed, does that mean Nami's clothes are soaked in blood?? 😭",
-      "text": "#ONEPIECE1189 If those marks are foreshadowing the three of them are going to get stabbed, does that mean Nami's clothes are soaked in blood?? 😭",
-      "url": "https://nitter.net/NamiOrigins/status/2080830883506872786#m",
-      "date": "Sat, 25 Jul 2026 01:41:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOCW2mCWIAAQuuY.jpg",
-        "https://nitter.net/pic/media%2FHOCXMi9WoAAGYYo.jpg"
-      ]
-    },
-    {
-      "id": "27fab3690592d4ee03016812e0f9cd15dd96e9a1d33ea2e5907edf73e2edbede",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1189] Theory Title: “𝐈𝐦𝐮 𝐅𝐨𝐫𝐠𝐞𝐫 𝐎𝐟 𝐓𝐡𝐞 19 𝐊𝐢𝐧𝐠𝐬 𝐒𝐨𝐮𝐥𝐬 𝐈𝐧𝐭𝐨 𝐖𝐞𝐚𝐩𝐨𝐧𝐬” Lets begin.",
-      "text": "[#ONEPIECE1189] Theory Title: “𝐈𝐦𝐮 𝐅𝐨𝐫𝐠𝐞𝐫 𝐎𝐟 𝐓𝐡𝐞 19 𝐊𝐢𝐧𝐠𝐬 𝐒𝐨𝐮𝐥𝐬 𝐈𝐧𝐭𝐨 𝐖𝐞𝐚𝐩𝐨𝐧𝐬” Lets begin.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2081130895159791966#m",
-      "date": "Sat, 25 Jul 2026 21:34:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOGphKtXkAAHNKF.jpg"
-      ]
-    },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
@@ -185,6 +92,21 @@
       ]
     },
     {
+      "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso d",
+      "text": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso de la manera que se merece. 🩸⚔️ ¿Estamos listos para esto?",
+      "url": "https://nitter.net/daily_berserk/status/2081353512311468075#m",
+      "date": "Sun, 26 Jul 2026 12:18:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOJz_L6WAAAu7aW.jpg"
+      ]
+    },
+    {
       "id": "a28d11a5dac65919ec109e9b00c6709c09b31245cc548af4d2abb695da00b0df",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -258,118 +180,11 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHN0HDvIWoAAA-Bv.jpg",
         "https://nitter.net/pic/media%2FHN0HE1mXoAA78bE.jpg"
-      ]
-    },
-    {
-      "id": "8b01e9b340198ee43fa5238fa591de277dcdfeaf448d79606ff2ff9f297f92e2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2079557363132985634#m",
-      "date": "Tue, 21 Jul 2026 13:21:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNwSZnEXAAARDuM.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "6a87033501d5c132558407ff637c98a827cd8229f3c0b1aadccf41d4902dcfde",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/90sPKMN/status/2080820476725674238#m",
-      "date": "Sat, 25 Jul 2026 01:00:36 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOCPMhyWgAAXWCk.jpg"
-      ]
-    },
-    {
-      "id": "0692878de4c9bf9a557268a92746e27580ebfd898ba78c4d50e60fb3cc72bb84",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "the effects and animation are fucking crazy in this scene holy I absolutely love Yoruichi in this form 😭 Video",
-      "text": "the effects and animation are fucking crazy in this scene holy I absolutely love Yoruichi in this form 😭 Video",
-      "url": "https://nitter.net/d0nutalt/status/2081043945245557193#m",
-      "date": "Sat, 25 Jul 2026 15:48:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2081041762223620096%2Fimg%2FTYz_8xNreMj5bxXh.jpg"
-      ]
-    },
-    {
-      "id": "2cccd642ed1c233d05be38324299060d8bbea1555fbb1c4a77b5b76dedd2a378",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#BLEACH ..........",
-      "text": "#BLEACH ..........",
-      "url": "https://nitter.net/WorstGenHQ/status/2081322694830641534#m",
-      "date": "Sun, 26 Jul 2026 10:16:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOJX7LUXgAArbUo.jpg",
-        "https://nitter.net/pic/media%2FHOJX8PDWMAAuUey.jpg"
-      ]
-    },
-    {
-      "id": "95b5c2e258ff051bc94c9ba7a09465b5bf0f261ec48b05b284501b7fc8c13bc4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "IS THIS PEAK OR IS THIS PEAK OR IS THIS PEAK??? Video",
-      "text": "IS THIS PEAK OR IS THIS PEAK OR IS THIS PEAK??? Video",
-      "url": "https://nitter.net/NoisyMedium/status/2081030348805423181#m",
-      "date": "Sat, 25 Jul 2026 14:54:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2081030110040494080%2Fimg%2FAKoknGy4sEoPeGjA.jpg"
-      ]
-    },
-    {
-      "id": "2ac61d750bfb24819af846ab85a16d8b6326bac0a659e557e7ffa23e0deee240",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1189 If those marks are foreshadowing the three of them are going to get stabbed, does that mean Nami's clothes are soaked in blood?? 😭",
-      "text": "#ONEPIECE1189 If those marks are foreshadowing the three of them are going to get stabbed, does that mean Nami's clothes are soaked in blood?? 😭",
-      "url": "https://nitter.net/NamiOrigins/status/2080830883506872786#m",
-      "date": "Sat, 25 Jul 2026 01:41:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOCW2mCWIAAQuuY.jpg",
-        "https://nitter.net/pic/media%2FHOCXMi9WoAAGYYo.jpg"
-      ]
-    },
-    {
-      "id": "27fab3690592d4ee03016812e0f9cd15dd96e9a1d33ea2e5907edf73e2edbede",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1189] Theory Title: “𝐈𝐦𝐮 𝐅𝐨𝐫𝐠𝐞𝐫 𝐎𝐟 𝐓𝐡𝐞 19 𝐊𝐢𝐧𝐠𝐬 𝐒𝐨𝐮𝐥𝐬 𝐈𝐧𝐭𝐨 𝐖𝐞𝐚𝐩𝐨𝐧𝐬” Lets begin.",
-      "text": "[#ONEPIECE1189] Theory Title: “𝐈𝐦𝐮 𝐅𝐨𝐫𝐠𝐞𝐫 𝐎𝐟 𝐓𝐡𝐞 19 𝐊𝐢𝐧𝐠𝐬 𝐒𝐨𝐮𝐥𝐬 𝐈𝐧𝐭𝐨 𝐖𝐞𝐚𝐩𝐨𝐧𝐬” Lets begin.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2081130895159791966#m",
-      "date": "Sat, 25 Jul 2026 21:34:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOGphKtXkAAHNKF.jpg"
-      ]
-    },
-    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -458,6 +273,21 @@
       ]
     },
     {
+      "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso d",
+      "text": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso de la manera que se merece. 🩸⚔️ ¿Estamos listos para esto?",
+      "url": "https://nitter.net/daily_berserk/status/2081353512311468075#m",
+      "date": "Sun, 26 Jul 2026 12:18:41 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOJz_L6WAAAu7aW.jpg"
+      ]
+    },
+    {
       "id": "a28d11a5dac65919ec109e9b00c6709c09b31245cc548af4d2abb695da00b0df",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -531,21 +361,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHN0HDvIWoAAA-Bv.jpg",
         "https://nitter.net/pic/media%2FHN0HE1mXoAA78bE.jpg"
-      ]
-    },
-    {
-      "id": "8b01e9b340198ee43fa5238fa591de277dcdfeaf448d79606ff2ff9f297f92e2",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2079557363132985634#m",
-      "date": "Tue, 21 Jul 2026 13:21:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNwSZnEXAAARDuM.jpg"
       ]
     }
   ]
