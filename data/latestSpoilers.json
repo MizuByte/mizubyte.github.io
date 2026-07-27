@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-07-27T15:57:13.785Z",
+  "generatedAt": "2026-07-27T17:41:01.694Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "ce1ce38d45c23f942ae3d2ffe6f8ddd7fc7fb66ff1907fab4ee250cdbc4f3b87",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/90sPKMN/status/2081545253064970749#m",
+      "date": "Mon, 27 Jul 2026 01:00:36 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOMiYHdXAAACTIq.jpg"
+      ]
+    },
     {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
@@ -62,6 +77,21 @@
   ],
   "misc": [
     {
+      "id": "c4850ad10ab773e91c4322ed3c494fbab0503d0904ce8633381c1d033b3e6645",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 #ONEPIECE \"If Akainu were the protagonist, the story wouldn't last a year\" -Eiichiro Oda Video",
+      "text": "#ONEPIECE1189 #ONEPIECE \"If Akainu were the protagonist, the story wouldn't last a year\" -Eiichiro Oda Video",
+      "url": "https://nitter.net/GOD_SLAYER_67_/status/2081646099581022465#m",
+      "date": "Mon, 27 Jul 2026 07:41:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2081646064894087168%2Fimg%2FuUIpxW76lVZSpm_s.jpg"
+      ]
+    },
+    {
       "id": "a4a95b804fcf5a0567cba5ce638080a5e4a18aa8f5c7169b10950d32e33fd937",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -119,127 +149,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOOzc29XYAAeUCR.png"
-      ]
-    },
-    {
-      "id": "18ae4dd254fd1fcd75a208e89f4a49fb7f55e62b91b19101f18631ccf9af8f21",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Mihawk’s sword, Yoru, literally means “night” in Japanese. The Harley says, “The sun returns and brings a new morning.🌅” So Oda probably gave the name Yoru a deep significance. Do you think Yoru is m",
-      "text": "Mihawk’s sword, Yoru, literally means “night” in Japanese. The Harley says, “The sun returns and brings a new morning.🌅” So Oda probably gave the name Yoru a deep significance. Do you think Yoru is more powerful than Imu’s swords?🥰",
-      "url": "https://nitter.net/sandman_AP/status/2081618628127215636#m",
-      "date": "Mon, 27 Jul 2026 05:52:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHONlGh3b0AEeC0E.jpg",
-        "https://nitter.net/pic/media%2FHONlG93a4AAb4dR.jpg"
-      ]
-    },
-    {
-      "id": "2ff1cba97db6d75f35b49bab0c03f28588046c802efdd4ba501b247775cba228",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "久しぶりに描いてる。😊",
-      "text": "久しぶりに描いてる。😊",
-      "url": "https://nitter.net/U_MI031/status/2081640036622315592#m",
-      "date": "Mon, 27 Jul 2026 07:17:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHON4lEhaoAAvq8D.jpg"
-      ]
-    },
-    {
-      "id": "20b61f42c1dc4329f6917515c38915a14007c245aa03379e9669be0781ac869e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "￣￣￣￣￣￣￣￣￣￣ カバーデザイン 公開 ＿＿＿＿＿＿＿＿＿＿ 【８月４日（火）発売】 「ファイアーエムブレム エンゲージ」完結第８巻 ふたり並び立つマルスとリュールが表紙です 今巻も描き下ろし漫画やおまけページを収録。 各種書店で予約受付中です shueisha.co.jp/books/items/c… #FEエンゲージ",
-      "text": "￣￣￣￣￣￣￣￣￣￣ カバーデザイン 公開 ＿＿＿＿＿＿＿＿＿＿ 【８月４日（火）発売】 「ファイアーエムブレム エンゲージ」完結第８巻 ふたり並び立つマルスとリュールが表紙です 今巻も描き下ろし漫画やおまけページを収録。 各種書店で予約受付中です shueisha.co.jp/books/items/c… #FEエンゲージ",
-      "url": "https://nitter.net/SAIKYO_JUMP/status/2080563648616157426#m",
-      "date": "Fri, 24 Jul 2026 08:00:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-lm6Ka8AAgcgL.jpg"
-      ]
-    },
-    {
-      "id": "e3228fc4d74dc0349c263862f5eb7865d2eb78f667c1c0976520bf6e28a2e1b1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Hace 40 años, Javier Krahe ya tenía claro lo que iba a pasar: \"El franquismo se ha camuflado porque nos mira toda Europa, pero cuando media Europa vuelva a ser reaccionaria, el franquismo regresará y ",
-      "text": "Hace 40 años, Javier Krahe ya tenía claro lo que iba a pasar: \"El franquismo se ha camuflado porque nos mira toda Europa, pero cuando media Europa vuelva a ser reaccionaria, el franquismo regresará y entonces recordaremos cómo confundimos el perdón con la justicia. Espero estar muerto cuando eso suceda\".",
-      "url": "https://nitter.net/Errazkin/status/2081699705369600059#m",
-      "date": "Mon, 27 Jul 2026 11:14:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4a81c85c9f91516f93bf599cbf918df46a4c24acf30115e93ffc21ddc34febff",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "✨FINAL FANTASY XIV on Nintendo Switch™ 2 launches Tuesday, August 4✨ Stay tuned for details on the Lodestone shortly!",
-      "text": "✨FINAL FANTASY XIV on Nintendo Switch™ 2 launches Tuesday, August 4✨ Stay tuned for details on the Lodestone shortly!",
-      "url": "https://nitter.net/FF_XIV_EN/status/2080964578234532089#m",
-      "date": "Sat, 25 Jul 2026 10:33:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOESKDZXIAAAZXH.jpg"
-      ]
-    },
-    {
-      "id": "08d3323cbae61633a84ada5974312ee404c3873a71218510c1fd2075dcb1df94",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "That is one big pile of… dinosaurs (merged together). Read Dandadan, Ch. 242 in Shonen Jump for free! bit.ly/4c3Cjl9",
-      "text": "That is one big pile of… dinosaurs (merged together). Read Dandadan, Ch. 242 in Shonen Jump for free! bit.ly/4c3Cjl9",
-      "url": "https://nitter.net/shonenjump/status/2081757799248195764#m",
-      "date": "Mon, 27 Jul 2026 15:05:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOPjq4nW0AAa_wf.jpg"
-      ]
-    },
-    {
-      "id": "d86e4f1873e7c584263ba1f6d03a3a3cba179e6df017412c8cd1a2b10ff442b9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Cai es un bondadoso joven de la aldea de Ribeira. Se ha propuesto ganar en los Juegos Heroicos para cumplir su gran deseo: liberar a su cautivo padre. #FireEmblem",
-      "text": "Cai es un bondadoso joven de la aldea de Ribeira. Se ha propuesto ganar en los Juegos Heroicos para cumplir su gran deseo: liberar a su cautivo padre. #FireEmblem",
-      "url": "https://nitter.net/NintendoES/status/2081726300843118787#m",
-      "date": "Mon, 27 Jul 2026 13:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOOyCkFWoAAVRyo.jpg"
-      ]
-    },
-    {
-      "id": "5e10f93526d4b4cff417ce4c3acce33882ff4577e089258102a35809b555abb8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Childhood dreams, built brick by brick. 🥹🏴‍☠️ David Dastmalchian, Callum Kerr, and Julia Rehwald see their LEGO® ONE PIECE minifigures for the first time. Video Video Video",
-      "text": "Childhood dreams, built brick by brick. 🥹🏴‍☠️ David Dastmalchian, Callum Kerr, and Julia Rehwald see their LEGO® ONE PIECE minifigures for the first time. Video Video Video",
-      "url": "https://nitter.net/onepiecenetflix/status/2081726303967887665#m",
-      "date": "Mon, 27 Jul 2026 13:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOPIpssWYAA9bai.jpg",
-        "https://nitter.net/pic/media%2FHOPJVKCX0AA1Q-S.jpg",
-        "https://nitter.net/pic/media%2FHOPJqJWWQAAjnnJ.jpg"
       ]
     },
     {
@@ -359,6 +268,21 @@
   ],
   "items": [
     {
+      "id": "ce1ce38d45c23f942ae3d2ffe6f8ddd7fc7fb66ff1907fab4ee250cdbc4f3b87",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/90sPKMN/status/2081545253064970749#m",
+      "date": "Mon, 27 Jul 2026 01:00:36 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOMiYHdXAAACTIq.jpg"
+      ]
+    },
+    {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -413,6 +337,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNcyV6obsAA6LBM.jpg"
+      ]
+    },
+    {
+      "id": "c4850ad10ab773e91c4322ed3c494fbab0503d0904ce8633381c1d033b3e6645",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 #ONEPIECE \"If Akainu were the protagonist, the story wouldn't last a year\" -Eiichiro Oda Video",
+      "text": "#ONEPIECE1189 #ONEPIECE \"If Akainu were the protagonist, the story wouldn't last a year\" -Eiichiro Oda Video",
+      "url": "https://nitter.net/GOD_SLAYER_67_/status/2081646099581022465#m",
+      "date": "Mon, 27 Jul 2026 07:41:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2081646064894087168%2Fimg%2FuUIpxW76lVZSpm_s.jpg"
       ]
     },
     {
@@ -473,127 +412,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOOzc29XYAAeUCR.png"
-      ]
-    },
-    {
-      "id": "18ae4dd254fd1fcd75a208e89f4a49fb7f55e62b91b19101f18631ccf9af8f21",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Mihawk’s sword, Yoru, literally means “night” in Japanese. The Harley says, “The sun returns and brings a new morning.🌅” So Oda probably gave the name Yoru a deep significance. Do you think Yoru is m",
-      "text": "Mihawk’s sword, Yoru, literally means “night” in Japanese. The Harley says, “The sun returns and brings a new morning.🌅” So Oda probably gave the name Yoru a deep significance. Do you think Yoru is more powerful than Imu’s swords?🥰",
-      "url": "https://nitter.net/sandman_AP/status/2081618628127215636#m",
-      "date": "Mon, 27 Jul 2026 05:52:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHONlGh3b0AEeC0E.jpg",
-        "https://nitter.net/pic/media%2FHONlG93a4AAb4dR.jpg"
-      ]
-    },
-    {
-      "id": "2ff1cba97db6d75f35b49bab0c03f28588046c802efdd4ba501b247775cba228",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "久しぶりに描いてる。😊",
-      "text": "久しぶりに描いてる。😊",
-      "url": "https://nitter.net/U_MI031/status/2081640036622315592#m",
-      "date": "Mon, 27 Jul 2026 07:17:14 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHON4lEhaoAAvq8D.jpg"
-      ]
-    },
-    {
-      "id": "20b61f42c1dc4329f6917515c38915a14007c245aa03379e9669be0781ac869e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "￣￣￣￣￣￣￣￣￣￣ カバーデザイン 公開 ＿＿＿＿＿＿＿＿＿＿ 【８月４日（火）発売】 「ファイアーエムブレム エンゲージ」完結第８巻 ふたり並び立つマルスとリュールが表紙です 今巻も描き下ろし漫画やおまけページを収録。 各種書店で予約受付中です shueisha.co.jp/books/items/c… #FEエンゲージ",
-      "text": "￣￣￣￣￣￣￣￣￣￣ カバーデザイン 公開 ＿＿＿＿＿＿＿＿＿＿ 【８月４日（火）発売】 「ファイアーエムブレム エンゲージ」完結第８巻 ふたり並び立つマルスとリュールが表紙です 今巻も描き下ろし漫画やおまけページを収録。 各種書店で予約受付中です shueisha.co.jp/books/items/c… #FEエンゲージ",
-      "url": "https://nitter.net/SAIKYO_JUMP/status/2080563648616157426#m",
-      "date": "Fri, 24 Jul 2026 08:00:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN-lm6Ka8AAgcgL.jpg"
-      ]
-    },
-    {
-      "id": "e3228fc4d74dc0349c263862f5eb7865d2eb78f667c1c0976520bf6e28a2e1b1",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Hace 40 años, Javier Krahe ya tenía claro lo que iba a pasar: \"El franquismo se ha camuflado porque nos mira toda Europa, pero cuando media Europa vuelva a ser reaccionaria, el franquismo regresará y ",
-      "text": "Hace 40 años, Javier Krahe ya tenía claro lo que iba a pasar: \"El franquismo se ha camuflado porque nos mira toda Europa, pero cuando media Europa vuelva a ser reaccionaria, el franquismo regresará y entonces recordaremos cómo confundimos el perdón con la justicia. Espero estar muerto cuando eso suceda\".",
-      "url": "https://nitter.net/Errazkin/status/2081699705369600059#m",
-      "date": "Mon, 27 Jul 2026 11:14:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4a81c85c9f91516f93bf599cbf918df46a4c24acf30115e93ffc21ddc34febff",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "✨FINAL FANTASY XIV on Nintendo Switch™ 2 launches Tuesday, August 4✨ Stay tuned for details on the Lodestone shortly!",
-      "text": "✨FINAL FANTASY XIV on Nintendo Switch™ 2 launches Tuesday, August 4✨ Stay tuned for details on the Lodestone shortly!",
-      "url": "https://nitter.net/FF_XIV_EN/status/2080964578234532089#m",
-      "date": "Sat, 25 Jul 2026 10:33:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOESKDZXIAAAZXH.jpg"
-      ]
-    },
-    {
-      "id": "08d3323cbae61633a84ada5974312ee404c3873a71218510c1fd2075dcb1df94",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "That is one big pile of… dinosaurs (merged together). Read Dandadan, Ch. 242 in Shonen Jump for free! bit.ly/4c3Cjl9",
-      "text": "That is one big pile of… dinosaurs (merged together). Read Dandadan, Ch. 242 in Shonen Jump for free! bit.ly/4c3Cjl9",
-      "url": "https://nitter.net/shonenjump/status/2081757799248195764#m",
-      "date": "Mon, 27 Jul 2026 15:05:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOPjq4nW0AAa_wf.jpg"
-      ]
-    },
-    {
-      "id": "d86e4f1873e7c584263ba1f6d03a3a3cba179e6df017412c8cd1a2b10ff442b9",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Cai es un bondadoso joven de la aldea de Ribeira. Se ha propuesto ganar en los Juegos Heroicos para cumplir su gran deseo: liberar a su cautivo padre. #FireEmblem",
-      "text": "Cai es un bondadoso joven de la aldea de Ribeira. Se ha propuesto ganar en los Juegos Heroicos para cumplir su gran deseo: liberar a su cautivo padre. #FireEmblem",
-      "url": "https://nitter.net/NintendoES/status/2081726300843118787#m",
-      "date": "Mon, 27 Jul 2026 13:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOOyCkFWoAAVRyo.jpg"
-      ]
-    },
-    {
-      "id": "5e10f93526d4b4cff417ce4c3acce33882ff4577e089258102a35809b555abb8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Childhood dreams, built brick by brick. 🥹🏴‍☠️ David Dastmalchian, Callum Kerr, and Julia Rehwald see their LEGO® ONE PIECE minifigures for the first time. Video Video Video",
-      "text": "Childhood dreams, built brick by brick. 🥹🏴‍☠️ David Dastmalchian, Callum Kerr, and Julia Rehwald see their LEGO® ONE PIECE minifigures for the first time. Video Video Video",
-      "url": "https://nitter.net/onepiecenetflix/status/2081726303967887665#m",
-      "date": "Mon, 27 Jul 2026 13:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOPIpssWYAA9bai.jpg",
-        "https://nitter.net/pic/media%2FHOPJVKCX0AA1Q-S.jpg",
-        "https://nitter.net/pic/media%2FHOPJqJWWQAAjnnJ.jpg"
       ]
     },
     {
