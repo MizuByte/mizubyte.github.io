@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-07-29T14:58:24.106Z",
+  "generatedAt": "2026-07-29T16:22:06.307Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "797517edccda9fa9de99e1d06537089acd9194888a1cf7794144fda59f1fcee5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/downbadcomment/status/2082126839623860301#m",
+      "date": "Tue, 28 Jul 2026 15:31:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUzUyUW4AAIxSf.jpg"
+      ]
+    },
     {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
@@ -47,47 +62,80 @@
   ],
   "misc": [
     {
-      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol 38 Back Side #BlackClover",
-      "text": "Black Clover Vol 38 Back Side #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
-      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
+      "id": "4524833f9ebe6135a12deba71d570b7b427f86cdd5cf0b08308c447a9662ac8b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 The first round ended in disaster for both Luffy and Loki. However, we know Loki will return with his Awakening or hybrid form. As for Luffy, I can imagine his fruit getting an upgrade, ",
+      "text": "#ONEPIECE1189 The first round ended in disaster for both Luffy and Loki. However, we know Loki will return with his Awakening or hybrid form. As for Luffy, I can imagine his fruit getting an upgrade, or the \"Voice of All Things\" playing a role, as was already teased in Chapter 1151. The most important thing is that both of them fight TOGETHER, rather than making the mistake of fighting one-on-one like in the first round. They need to start the way they did against Gunko; I also think that once Gaban is defeated, Luffy and Loki will return together and both fight against Imu.",
+      "url": "https://nitter.net/WorstGenHQ/status/2082486642598691107#m",
+      "date": "Wed, 29 Jul 2026 15:21:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
+        "https://nitter.net/pic/media%2FHOZ6iugWgAAMode.png",
+        "https://nitter.net/pic/media%2FHOZ6ju7W8AAUdSR.jpg"
       ]
     },
     {
-      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Volume 38 Cover. #BlackClover",
-      "text": "Black Clover Volume 38 Cover. #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
-      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
+      "id": "8028d0ef1e6e8a3b2b45cbe0f828d1a178580731230cf96d9e32b079b3433235",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Further UEFA statement on FIFA plans: ⬇️",
+      "text": "Further UEFA statement on FIFA plans: ⬇️",
+      "url": "https://nitter.net/UEFA/status/2082462510339236090#m",
+      "date": "Wed, 29 Jul 2026 13:45:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
+        "https://nitter.net/pic/media%2FHOZkh4XWgAAaLRX.jpg"
       ]
     },
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "id": "ccc087899e9af1a52ae36a3871184548a746fa196d718e11f764d3393d1261f9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "My Bounty prediction for Xebec, Rayleigh, Gaban and Oden. What is your guys bounty prediction? Xebec: 5.122.032.300B",
+      "text": "My Bounty prediction for Xebec, Rayleigh, Gaban and Oden. What is your guys bounty prediction? Xebec: 5.122.032.300B",
+      "url": "https://nitter.net/WorstGenHQ/status/2082392730102071377#m",
+      "date": "Wed, 29 Jul 2026 09:08:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOYjm2eWcAIgUwP.jpg"
+      ]
+    },
+    {
+      "id": "d3682d80eea5175d71831964ac6f1ef1681b72640f774564300d0fa1df8c9f67",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Scopper Gaban: 3.750.000.000B",
+      "text": "Scopper Gaban: 3.750.000.000B",
+      "url": "https://nitter.net/WorstGenHQ/status/2082392735885984032#m",
+      "date": "Wed, 29 Jul 2026 09:08:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOYk-zsWYAEPXWg.jpg"
+      ]
+    },
+    {
+      "id": "0edd27f80d7953162c1fc64fba64c26ea77335137cdb1b84e45558b715af2687",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Kozuki Oden: 3.200.000.000B",
+      "text": "Kozuki Oden: 3.200.000.000B",
+      "url": "https://nitter.net/WorstGenHQ/status/2082392738671009941#m",
+      "date": "Wed, 29 Jul 2026 09:08:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOYlGT9XcAAPj13.jpg"
+      ]
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -176,6 +224,49 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
+    },
+    {
+      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Vol 38 Back Side #BlackClover",
+      "text": "Black Clover Vol 38 Back Side #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
+      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
+      ]
+    },
+    {
+      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Volume 38 Cover. #BlackClover",
+      "text": "Black Clover Volume 38 Cover. #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
+      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
+      ]
+    },
+    {
+      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
+      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "93635d7af4c05924b29107cfb57e23c1ff3509077ccb6ce5010951dd3a646e9f",
@@ -270,6 +361,21 @@
   ],
   "items": [
     {
+      "id": "797517edccda9fa9de99e1d06537089acd9194888a1cf7794144fda59f1fcee5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/downbadcomment/status/2082126839623860301#m",
+      "date": "Tue, 28 Jul 2026 15:31:37 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUzUyUW4AAIxSf.jpg"
+      ]
+    },
+    {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -312,47 +418,80 @@
       "attachments": []
     },
     {
-      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol 38 Back Side #BlackClover",
-      "text": "Black Clover Vol 38 Back Side #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
-      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
+      "id": "4524833f9ebe6135a12deba71d570b7b427f86cdd5cf0b08308c447a9662ac8b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 The first round ended in disaster for both Luffy and Loki. However, we know Loki will return with his Awakening or hybrid form. As for Luffy, I can imagine his fruit getting an upgrade, ",
+      "text": "#ONEPIECE1189 The first round ended in disaster for both Luffy and Loki. However, we know Loki will return with his Awakening or hybrid form. As for Luffy, I can imagine his fruit getting an upgrade, or the \"Voice of All Things\" playing a role, as was already teased in Chapter 1151. The most important thing is that both of them fight TOGETHER, rather than making the mistake of fighting one-on-one like in the first round. They need to start the way they did against Gunko; I also think that once Gaban is defeated, Luffy and Loki will return together and both fight against Imu.",
+      "url": "https://nitter.net/WorstGenHQ/status/2082486642598691107#m",
+      "date": "Wed, 29 Jul 2026 15:21:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
+        "https://nitter.net/pic/media%2FHOZ6iugWgAAMode.png",
+        "https://nitter.net/pic/media%2FHOZ6ju7W8AAUdSR.jpg"
       ]
     },
     {
-      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Volume 38 Cover. #BlackClover",
-      "text": "Black Clover Volume 38 Cover. #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
-      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
+      "id": "8028d0ef1e6e8a3b2b45cbe0f828d1a178580731230cf96d9e32b079b3433235",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Further UEFA statement on FIFA plans: ⬇️",
+      "text": "Further UEFA statement on FIFA plans: ⬇️",
+      "url": "https://nitter.net/UEFA/status/2082462510339236090#m",
+      "date": "Wed, 29 Jul 2026 13:45:27 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
+        "https://nitter.net/pic/media%2FHOZkh4XWgAAaLRX.jpg"
       ]
     },
     {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "id": "ccc087899e9af1a52ae36a3871184548a746fa196d718e11f764d3393d1261f9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "My Bounty prediction for Xebec, Rayleigh, Gaban and Oden. What is your guys bounty prediction? Xebec: 5.122.032.300B",
+      "text": "My Bounty prediction for Xebec, Rayleigh, Gaban and Oden. What is your guys bounty prediction? Xebec: 5.122.032.300B",
+      "url": "https://nitter.net/WorstGenHQ/status/2082392730102071377#m",
+      "date": "Wed, 29 Jul 2026 09:08:10 GMT",
       "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOYjm2eWcAIgUwP.jpg"
+      ]
+    },
+    {
+      "id": "d3682d80eea5175d71831964ac6f1ef1681b72640f774564300d0fa1df8c9f67",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Scopper Gaban: 3.750.000.000B",
+      "text": "Scopper Gaban: 3.750.000.000B",
+      "url": "https://nitter.net/WorstGenHQ/status/2082392735885984032#m",
+      "date": "Wed, 29 Jul 2026 09:08:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOYk-zsWYAEPXWg.jpg"
+      ]
+    },
+    {
+      "id": "0edd27f80d7953162c1fc64fba64c26ea77335137cdb1b84e45558b715af2687",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Kozuki Oden: 3.200.000.000B",
+      "text": "Kozuki Oden: 3.200.000.000B",
+      "url": "https://nitter.net/WorstGenHQ/status/2082392738671009941#m",
+      "date": "Wed, 29 Jul 2026 09:08:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOYlGT9XcAAPj13.jpg"
+      ]
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -441,6 +580,49 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
+    },
+    {
+      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Vol 38 Back Side #BlackClover",
+      "text": "Black Clover Vol 38 Back Side #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
+      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
+      ]
+    },
+    {
+      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Volume 38 Cover. #BlackClover",
+      "text": "Black Clover Volume 38 Cover. #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
+      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
+      ]
+    },
+    {
+      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
+      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
+      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "93635d7af4c05924b29107cfb57e23c1ff3509077ccb6ce5010951dd3a646e9f",
