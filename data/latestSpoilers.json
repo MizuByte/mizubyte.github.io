@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T07:07:40.826Z",
+  "generatedAt": "2026-07-30T09:47:08.318Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -15,6 +15,38 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOUzUyUW4AAIxSf.jpg"
+      ]
+    },
+    {
+      "id": "e913cf0778151659ddc29dd20cdb21281caf8f881c2d5ebcd0c6ee45a9437b7c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Zogratis siblings alive ??? #BCSpoilers",
+      "text": "Zogratis siblings alive ??? #BCSpoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082752905749344507#m",
+      "date": "Thu, 30 Jul 2026 08:59:23 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOdshCxaEAAyOcr.jpg",
+        "https://nitter.net/pic/media%2FHOdst9tbkAAgpga.jpg"
+      ]
+    },
+    {
+      "id": "8e2baa5ab539f2aa6d9eeaff3d2a4debdae7574a97dc3f1f8c1c1dfcabbcf48d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tabata's family stories from volume 38 #bcspoilers #blackclover",
+      "text": "Tabata's family stories from volume 38 #bcspoilers #blackclover",
+      "url": "https://nitter.net/WONPE4CE/status/2082752311978565682#m",
+      "date": "Thu, 30 Jul 2026 08:57:01 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOdsJg6boAASxXN.png",
+        "https://nitter.net/pic/media%2FHOdsLl0aYAAyHEs.png"
       ]
     },
     {
@@ -48,22 +80,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOcerSYWQAAVpy0.jpg"
-      ]
-    },
-    {
-      "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "text": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2080634622594159095#m",
-      "date": "Fri, 24 Jul 2026 12:42:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN_mJH6awAAEYYq.jpg",
-        "https://nitter.net/pic/media%2FHN_mKGEbgAICfRx.jpg"
       ]
     }
   ],
@@ -261,21 +277,6 @@
       ]
     },
     {
-      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Volume 38 Cover. #BlackClover",
-      "text": "Black Clover Volume 38 Cover. #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
-      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
-      ]
-    },
-    {
       "id": "4feb06338fc48e2ffa5f65036f5adbd47d1f5a5934be5cc1609f22bcb7b6b2a9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -383,6 +384,38 @@
       ]
     },
     {
+      "id": "e913cf0778151659ddc29dd20cdb21281caf8f881c2d5ebcd0c6ee45a9437b7c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Zogratis siblings alive ??? #BCSpoilers",
+      "text": "Zogratis siblings alive ??? #BCSpoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082752905749344507#m",
+      "date": "Thu, 30 Jul 2026 08:59:23 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOdshCxaEAAyOcr.jpg",
+        "https://nitter.net/pic/media%2FHOdst9tbkAAgpga.jpg"
+      ]
+    },
+    {
+      "id": "8e2baa5ab539f2aa6d9eeaff3d2a4debdae7574a97dc3f1f8c1c1dfcabbcf48d",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Tabata's family stories from volume 38 #bcspoilers #blackclover",
+      "text": "Tabata's family stories from volume 38 #bcspoilers #blackclover",
+      "url": "https://nitter.net/WONPE4CE/status/2082752311978565682#m",
+      "date": "Thu, 30 Jul 2026 08:57:01 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOdsJg6boAASxXN.png",
+        "https://nitter.net/pic/media%2FHOdsLl0aYAAyHEs.png"
+      ]
+    },
+    {
       "id": "9383d0369236550f29bd3597658d9233ffd5961678fc74e2ad00079c1f2ffdb8",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -413,22 +446,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOcerSYWQAAVpy0.jpg"
-      ]
-    },
-    {
-      "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "text": "Black Clover Vol Cover with Yuno at back and Guidebook Cover #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2080634622594159095#m",
-      "date": "Fri, 24 Jul 2026 12:42:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHN_mJH6awAAEYYq.jpg",
-        "https://nitter.net/pic/media%2FHN_mKGEbgAICfRx.jpg"
       ]
     },
     {
@@ -621,21 +638,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
-      ]
-    },
-    {
-      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Volume 38 Cover. #BlackClover",
-      "text": "Black Clover Volume 38 Cover. #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
-      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
       ]
     },
     {
