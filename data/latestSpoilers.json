@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T23:26:47.748Z",
+  "generatedAt": "2026-07-30T01:02:56.193Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -62,6 +62,21 @@
   ],
   "misc": [
     {
+      "id": "a0c0731cf4873cfd7cf28631e476c812c61ca6e5e1acfa73e1bde6e126dc20f2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE] Theory Title: 𝐓𝐡𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐒𝐡𝐚𝐧𝐤𝐬 𝐀𝐧𝐝 𝐃𝐫𝐚𝐠𝐨𝐧!! Lets begin.",
+      "text": "[#ONEPIECE] Theory Title: 𝐓𝐡𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐒𝐡𝐚𝐧𝐤𝐬 𝐀𝐧𝐝 𝐃𝐫𝐚𝐠𝐨𝐧!! Lets begin.",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2082611307832914251#m",
+      "date": "Wed, 29 Jul 2026 23:36:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHObr8jLWMAACgkr.jpg"
+      ]
+    },
+    {
       "id": "4524833f9ebe6135a12deba71d570b7b427f86cdd5cf0b08308c447a9662ac8b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -123,19 +138,90 @@
       ]
     },
     {
-      "id": "0edd27f80d7953162c1fc64fba64c26ea77335137cdb1b84e45558b715af2687",
+      "id": "4ada18a4d23c26ed58c3a06919cf4505bd8f58460e48077b28fdeb9bc8f42190",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Kozuki Oden: 3.200.000.000B",
-      "text": "Kozuki Oden: 3.200.000.000B",
-      "url": "https://nitter.net/WorstGenHQ/status/2082392738671009941#m",
-      "date": "Wed, 29 Jul 2026 09:08:12 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "FAIRY TAIL 20th Anniversary !!!!!!!真島ヒロ、帰還!!!!!!! 7月29日発売の週刊少年マガジン35号より 真島ヒロが描く完全新作『FAIRY TAIL RE:FANTASIA』 短期集中連載開始!! Video",
+      "text": "FAIRY TAIL 20th Anniversary !!!!!!!真島ヒロ、帰還!!!!!!! 7月29日発売の週刊少年マガジン35号より 真島ヒロが描く完全新作『FAIRY TAIL RE:FANTASIA』 短期集中連載開始!! Video",
+      "url": "https://nitter.net/mashima_tantou/status/2082413323640062186#m",
+      "date": "Wed, 29 Jul 2026 10:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOYlGT9XcAAPj13.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2082391624408317952%2Fimg%2FpVq-6rBgjbmReiAj.jpg"
       ]
+    },
+    {
+      "id": "a6ddc0cea76d1a69123fb739bee34162be41efe7668d8910322c9805e79ba30f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#onepunchman #garou #suiryu",
+      "text": "#onepunchman #garou #suiryu",
+      "url": "https://nitter.net/NEBU_KVRO/status/2082495306420396508#m",
+      "date": "Wed, 29 Jul 2026 15:55:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOaCY2AaEAAp-D5.jpg"
+      ]
+    },
+    {
+      "id": "9466d5eb318437b250fffce92bf1608fcdc7b610b071934560635dcab743f71d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『フェアリーテイル』新シリーズ連載記念で『ハンターハンター』の冨樫義博らがイラストを寄稿 famitsu.com/article/202607/8… 『はじめの一歩』森川ジョージ、『キン肉マン』ゆでたまご、『女神のカフェテラス』瀬尾公治など豪華作家陣が『FAIRY TAIL』キャラを描く。",
+      "text": "『フェアリーテイル』新シリーズ連載記念で『ハンターハンター』の冨樫義博らがイラストを寄稿 famitsu.com/article/202607/8… 『はじめの一歩』森川ジョージ、『キン肉マン』ゆでたまご、『女神のカフェテラス』瀬尾公治など豪華作家陣が『FAIRY TAIL』キャラを描く。",
+      "url": "https://nitter.net/famitsu/status/2082420976986501300#m",
+      "date": "Wed, 29 Jul 2026 11:00:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOY-13SaQAAXVDi.jpg"
+      ]
+    },
+    {
+      "id": "2a126c9756bceaf7a949d208ccfc9d551733023213e3722d24ee631be09b6109",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "「ゼノブレイド3」発売4周年おめでとうございます！",
+      "text": "「ゼノブレイド3」発売4周年おめでとうございます！",
+      "url": "https://nitter.net/_saitomasatsugu/status/2082474571643687177#m",
+      "date": "Wed, 29 Jul 2026 14:33:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOZvjIKbgAAhOiJ.jpg"
+      ]
+    },
+    {
+      "id": "084a72279911f550ed556fd1728cad59b1125e0329c556ed4fc4c42bfe1a894a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Imaginad por un momento que sale la noticia de que el gobierno ha comprado un piso de casi 500m² para que Pedro Sánchez trabaje y que no han informado a nadie. Arde España.",
+      "text": "Imaginad por un momento que sale la noticia de que el gobierno ha comprado un piso de casi 500m² para que Pedro Sánchez trabaje y que no han informado a nadie. Arde España.",
+      "url": "https://nitter.net/BenderOfuscado/status/2082470724648804592#m",
+      "date": "Wed, 29 Jul 2026 14:18:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f9a5698ecb1c5ae5cabf6864adf0a2e4890413958451a5096a8c539406f7871a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @estherpalomera: 29 de julio. La marquesa de Quirón compra un ático de lujo en Chamberí para uso “oficial” y no pasa nada, oiga . Ni ape…",
+      "text": "RT @estherpalomera: 29 de julio. La marquesa de Quirón compra un ático de lujo en Chamberí para uso “oficial” y no pasa nada, oiga . Ni ape…",
+      "url": "https://nitter.net/Mugiwara_23/status/2082610653169136120#m",
+      "date": "Wed, 29 Jul 2026 23:34:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -267,96 +353,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "93635d7af4c05924b29107cfb57e23c1ff3509077ccb6ce5010951dd3a646e9f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2082431698902430098#m",
-      "date": "Wed, 29 Jul 2026 11:43:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOZIl6_WgAAoryS.jpg"
-      ]
-    },
-    {
-      "id": "7196a8527e12b59f5a6880ae3806ab74d2293bf45fe5a02093baa340e0d71294",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2081993444952621142#m",
-      "date": "Tue, 28 Jul 2026 06:41:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOS6AIzXcAA5Zfv.jpg"
-      ]
-    },
-    {
-      "id": "7f6903eda68a1cc9100a7bf4cbdb703cad894f87be3859c353c34a1d64485ac8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2081847988524069310#m",
-      "date": "Mon, 27 Jul 2026 21:03:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOQ1tUfXMAAsLtX.jpg"
-      ]
-    },
-    {
-      "id": "c145976268fe929fb739378bb98d530d8769d4225c42654ad04a5872e8f8e409",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2081625222210289774#m",
-      "date": "Mon, 27 Jul 2026 06:18:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHONrGpZWUAEdc0V.jpg"
-      ]
-    },
-    {
-      "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso d",
-      "text": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso de la manera que se merece. 🩸⚔️ ¿Estamos listos para esto?",
-      "url": "https://nitter.net/daily_berserk/status/2081353512311468075#m",
-      "date": "Sun, 26 Jul 2026 12:18:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOJz_L6WAAAu7aW.jpg"
-      ]
-    },
-    {
-      "id": "a28d11a5dac65919ec109e9b00c6709c09b31245cc548af4d2abb695da00b0df",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080952790654804088#m",
-      "date": "Sat, 25 Jul 2026 09:46:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOEHiK6W0AAJebl.jpg"
-      ]
     }
   ],
   "items": [
@@ -418,6 +414,21 @@
       "attachments": []
     },
     {
+      "id": "a0c0731cf4873cfd7cf28631e476c812c61ca6e5e1acfa73e1bde6e126dc20f2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE] Theory Title: 𝐓𝐡𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐒𝐡𝐚𝐧𝐤𝐬 𝐀𝐧𝐝 𝐃𝐫𝐚𝐠𝐨𝐧!! Lets begin.",
+      "text": "[#ONEPIECE] Theory Title: 𝐓𝐡𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐒𝐡𝐚𝐧𝐤𝐬 𝐀𝐧𝐝 𝐃𝐫𝐚𝐠𝐨𝐧!! Lets begin.",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2082611307832914251#m",
+      "date": "Wed, 29 Jul 2026 23:36:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHObr8jLWMAACgkr.jpg"
+      ]
+    },
+    {
       "id": "4524833f9ebe6135a12deba71d570b7b427f86cdd5cf0b08308c447a9662ac8b",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -479,19 +490,90 @@
       ]
     },
     {
-      "id": "0edd27f80d7953162c1fc64fba64c26ea77335137cdb1b84e45558b715af2687",
+      "id": "4ada18a4d23c26ed58c3a06919cf4505bd8f58460e48077b28fdeb9bc8f42190",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Kozuki Oden: 3.200.000.000B",
-      "text": "Kozuki Oden: 3.200.000.000B",
-      "url": "https://nitter.net/WorstGenHQ/status/2082392738671009941#m",
-      "date": "Wed, 29 Jul 2026 09:08:12 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "FAIRY TAIL 20th Anniversary !!!!!!!真島ヒロ、帰還!!!!!!! 7月29日発売の週刊少年マガジン35号より 真島ヒロが描く完全新作『FAIRY TAIL RE:FANTASIA』 短期集中連載開始!! Video",
+      "text": "FAIRY TAIL 20th Anniversary !!!!!!!真島ヒロ、帰還!!!!!!! 7月29日発売の週刊少年マガジン35号より 真島ヒロが描く完全新作『FAIRY TAIL RE:FANTASIA』 短期集中連載開始!! Video",
+      "url": "https://nitter.net/mashima_tantou/status/2082413323640062186#m",
+      "date": "Wed, 29 Jul 2026 10:30:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOYlGT9XcAAPj13.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2082391624408317952%2Fimg%2FpVq-6rBgjbmReiAj.jpg"
       ]
+    },
+    {
+      "id": "a6ddc0cea76d1a69123fb739bee34162be41efe7668d8910322c9805e79ba30f",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#onepunchman #garou #suiryu",
+      "text": "#onepunchman #garou #suiryu",
+      "url": "https://nitter.net/NEBU_KVRO/status/2082495306420396508#m",
+      "date": "Wed, 29 Jul 2026 15:55:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOaCY2AaEAAp-D5.jpg"
+      ]
+    },
+    {
+      "id": "9466d5eb318437b250fffce92bf1608fcdc7b610b071934560635dcab743f71d",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『フェアリーテイル』新シリーズ連載記念で『ハンターハンター』の冨樫義博らがイラストを寄稿 famitsu.com/article/202607/8… 『はじめの一歩』森川ジョージ、『キン肉マン』ゆでたまご、『女神のカフェテラス』瀬尾公治など豪華作家陣が『FAIRY TAIL』キャラを描く。",
+      "text": "『フェアリーテイル』新シリーズ連載記念で『ハンターハンター』の冨樫義博らがイラストを寄稿 famitsu.com/article/202607/8… 『はじめの一歩』森川ジョージ、『キン肉マン』ゆでたまご、『女神のカフェテラス』瀬尾公治など豪華作家陣が『FAIRY TAIL』キャラを描く。",
+      "url": "https://nitter.net/famitsu/status/2082420976986501300#m",
+      "date": "Wed, 29 Jul 2026 11:00:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOY-13SaQAAXVDi.jpg"
+      ]
+    },
+    {
+      "id": "2a126c9756bceaf7a949d208ccfc9d551733023213e3722d24ee631be09b6109",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "「ゼノブレイド3」発売4周年おめでとうございます！",
+      "text": "「ゼノブレイド3」発売4周年おめでとうございます！",
+      "url": "https://nitter.net/_saitomasatsugu/status/2082474571643687177#m",
+      "date": "Wed, 29 Jul 2026 14:33:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOZvjIKbgAAhOiJ.jpg"
+      ]
+    },
+    {
+      "id": "084a72279911f550ed556fd1728cad59b1125e0329c556ed4fc4c42bfe1a894a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Imaginad por un momento que sale la noticia de que el gobierno ha comprado un piso de casi 500m² para que Pedro Sánchez trabaje y que no han informado a nadie. Arde España.",
+      "text": "Imaginad por un momento que sale la noticia de que el gobierno ha comprado un piso de casi 500m² para que Pedro Sánchez trabaje y que no han informado a nadie. Arde España.",
+      "url": "https://nitter.net/BenderOfuscado/status/2082470724648804592#m",
+      "date": "Wed, 29 Jul 2026 14:18:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f9a5698ecb1c5ae5cabf6864adf0a2e4890413958451a5096a8c539406f7871a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @estherpalomera: 29 de julio. La marquesa de Quirón compra un ático de lujo en Chamberí para uso “oficial” y no pasa nada, oiga . Ni ape…",
+      "text": "RT @estherpalomera: 29 de julio. La marquesa de Quirón compra un ático de lujo en Chamberí para uso “oficial” y no pasa nada, oiga . Ni ape…",
+      "url": "https://nitter.net/Mugiwara_23/status/2082610653169136120#m",
+      "date": "Wed, 29 Jul 2026 23:34:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -623,96 +705,6 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
-    },
-    {
-      "id": "93635d7af4c05924b29107cfb57e23c1ff3509077ccb6ce5010951dd3a646e9f",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2082431698902430098#m",
-      "date": "Wed, 29 Jul 2026 11:43:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOZIl6_WgAAoryS.jpg"
-      ]
-    },
-    {
-      "id": "7196a8527e12b59f5a6880ae3806ab74d2293bf45fe5a02093baa340e0d71294",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2081993444952621142#m",
-      "date": "Tue, 28 Jul 2026 06:41:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOS6AIzXcAA5Zfv.jpg"
-      ]
-    },
-    {
-      "id": "7f6903eda68a1cc9100a7bf4cbdb703cad894f87be3859c353c34a1d64485ac8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2081847988524069310#m",
-      "date": "Mon, 27 Jul 2026 21:03:33 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOQ1tUfXMAAsLtX.jpg"
-      ]
-    },
-    {
-      "id": "c145976268fe929fb739378bb98d530d8769d4225c42654ad04a5872e8f8e409",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2081625222210289774#m",
-      "date": "Mon, 27 Jul 2026 06:18:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHONrGpZWUAEdc0V.jpg"
-      ]
-    },
-    {
-      "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso d",
-      "text": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso de la manera que se merece. 🩸⚔️ ¿Estamos listos para esto?",
-      "url": "https://nitter.net/daily_berserk/status/2081353512311468075#m",
-      "date": "Sun, 26 Jul 2026 12:18:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOJz_L6WAAAu7aW.jpg"
-      ]
-    },
-    {
-      "id": "a28d11a5dac65919ec109e9b00c6709c09b31245cc548af4d2abb695da00b0df",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2080952790654804088#m",
-      "date": "Sat, 25 Jul 2026 09:46:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOEHiK6W0AAJebl.jpg"
-      ]
     }
   ]
 }
