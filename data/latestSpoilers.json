@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T01:02:56.193Z",
+  "generatedAt": "2026-07-30T04:24:28.557Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -18,6 +18,39 @@
       ]
     },
     {
+      "id": "9383d0369236550f29bd3597658d9233ffd5961678fc74e2ad00079c1f2ffdb8",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers From volume 38 Tabata-sensei autobiography about meeting his wife!",
+      "text": "#BCSpoilers From volume 38 Tabata-sensei autobiography about meeting his wife!",
+      "url": "https://nitter.net/SnV_Nakimov/status/2082668616357400721#m",
+      "date": "Thu, 30 Jul 2026 03:24:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOcgD1BWcAALMJ_.jpg",
+        "https://nitter.net/pic/media%2FHOcgEClWAAAJ-Xy.jpg",
+        "https://nitter.net/pic/media%2FHOcgEPsWgAA1M54.jpg",
+        "https://nitter.net/pic/media%2FHOcgEb-WUAAhb-V.jpg"
+      ]
+    },
+    {
+      "id": "f8ec04ed0dd6e9eb578685fbdf4ad1dd5fed1fe1a33b2f646c6a75f2f697c59c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Afterword by Tabata-sensei in the last volume of Black Clover #BCSpoilers",
+      "text": "Afterword by Tabata-sensei in the last volume of Black Clover #BCSpoilers",
+      "url": "https://nitter.net/nite_baron/status/2082667217703846246#m",
+      "date": "Thu, 30 Jul 2026 03:18:53 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOcerSYWQAAVpy0.jpg"
+      ]
+    },
+    {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -32,32 +65,6 @@
         "https://nitter.net/pic/media%2FHN_mJH6awAAEYYq.jpg",
         "https://nitter.net/pic/media%2FHN_mKGEbgAICfRx.jpg"
       ]
-    },
-    {
-      "id": "aca98d362d41c89131d5c50c55a8878dd2530bc35ec1c12d052eb420159276e0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and ",
-      "text": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2080636576401604770#m",
-      "date": "Fri, 24 Jul 2026 12:49:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4471be0b114173937d70a4875a3f70195527f866802532583e281d8bad3b2f7e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "text": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "url": "https://nitter.net/nite_baron/status/2080635158793728228#m",
-      "date": "Fri, 24 Jul 2026 12:44:12 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "misc": [
@@ -224,6 +231,49 @@
       "attachments": []
     },
     {
+      "id": "a3fa2b9eb285381d0747f8fdcd5743d4a4eb2728d8b48d657302aa7f2d60b69f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No guidebook yet. Hopefully soon.",
+      "text": "No guidebook yet. Hopefully soon.",
+      "url": "https://nitter.net/nite_baron/status/2082670640616669350#m",
+      "date": "Thu, 30 Jul 2026 03:32:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Vol 38 Back Side #BlackClover",
+      "text": "Black Clover Vol 38 Back Side #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
+      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
+      ]
+    },
+    {
+      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Volume 38 Cover. #BlackClover",
+      "text": "Black Clover Volume 38 Cover. #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
+      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
+      ]
+    },
+    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -310,49 +360,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
-    },
-    {
-      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol 38 Back Side #BlackClover",
-      "text": "Black Clover Vol 38 Back Side #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
-      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
-      ]
-    },
-    {
-      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Volume 38 Cover. #BlackClover",
-      "text": "Black Clover Volume 38 Cover. #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
-      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
-      ]
-    },
-    {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ],
   "items": [
@@ -372,6 +379,39 @@
       ]
     },
     {
+      "id": "9383d0369236550f29bd3597658d9233ffd5961678fc74e2ad00079c1f2ffdb8",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers From volume 38 Tabata-sensei autobiography about meeting his wife!",
+      "text": "#BCSpoilers From volume 38 Tabata-sensei autobiography about meeting his wife!",
+      "url": "https://nitter.net/SnV_Nakimov/status/2082668616357400721#m",
+      "date": "Thu, 30 Jul 2026 03:24:26 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOcgD1BWcAALMJ_.jpg",
+        "https://nitter.net/pic/media%2FHOcgEClWAAAJ-Xy.jpg",
+        "https://nitter.net/pic/media%2FHOcgEPsWgAA1M54.jpg",
+        "https://nitter.net/pic/media%2FHOcgEb-WUAAhb-V.jpg"
+      ]
+    },
+    {
+      "id": "f8ec04ed0dd6e9eb578685fbdf4ad1dd5fed1fe1a33b2f646c6a75f2f697c59c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Afterword by Tabata-sensei in the last volume of Black Clover #BCSpoilers",
+      "text": "Afterword by Tabata-sensei in the last volume of Black Clover #BCSpoilers",
+      "url": "https://nitter.net/nite_baron/status/2082667217703846246#m",
+      "date": "Thu, 30 Jul 2026 03:18:53 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOcerSYWQAAVpy0.jpg"
+      ]
+    },
+    {
       "id": "3ad145d6c6c77f55b473afec67b6ab0752abfa8324382379aaf043a71c654a01",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -386,32 +426,6 @@
         "https://nitter.net/pic/media%2FHN_mJH6awAAEYYq.jpg",
         "https://nitter.net/pic/media%2FHN_mKGEbgAICfRx.jpg"
       ]
-    },
-    {
-      "id": "aca98d362d41c89131d5c50c55a8878dd2530bc35ec1c12d052eb420159276e0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and ",
-      "text": "discord.gg/nnQCWt5dx Join my DC for more Animanga spoilers 👉👈 Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 5889 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2080636576401604770#m",
-      "date": "Fri, 24 Jul 2026 12:49:50 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "4471be0b114173937d70a4875a3f70195527f866802532583e281d8bad3b2f7e",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "text": "The 15-page \"epilogue\" chapter in the guidebook will be depicting Asta's coronation. #BCSpoilers",
-      "url": "https://nitter.net/nite_baron/status/2080635158793728228#m",
-      "date": "Fri, 24 Jul 2026 12:44:12 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "a0c0731cf4873cfd7cf28631e476c812c61ca6e5e1acfa73e1bde6e126dc20f2",
@@ -576,6 +590,49 @@
       "attachments": []
     },
     {
+      "id": "a3fa2b9eb285381d0747f8fdcd5743d4a4eb2728d8b48d657302aa7f2d60b69f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "No guidebook yet. Hopefully soon.",
+      "text": "No guidebook yet. Hopefully soon.",
+      "url": "https://nitter.net/nite_baron/status/2082670640616669350#m",
+      "date": "Thu, 30 Jul 2026 03:32:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Vol 38 Back Side #BlackClover",
+      "text": "Black Clover Vol 38 Back Side #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
+      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
+      ]
+    },
+    {
+      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Black Clover Volume 38 Cover. #BlackClover",
+      "text": "Black Clover Volume 38 Cover. #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
+      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
+      ]
+    },
+    {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -662,49 +719,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
-    },
-    {
-      "id": "a9e5a610bd00837e9be49ed11b9c68629627cab13893a6ec49608987c141ddd9",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Vol 38 Back Side #BlackClover",
-      "text": "Black Clover Vol 38 Back Side #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099794491871450#m",
-      "date": "Tue, 28 Jul 2026 13:44:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOUauUMawAAwMUH.jpg"
-      ]
-    },
-    {
-      "id": "149caed218100fc3cebef6e65df781dedbb9158f04eb636c07891fb400cb48c6",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Black Clover Volume 38 Cover. #BlackClover",
-      "text": "Black Clover Volume 38 Cover. #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2082099370892443756#m",
-      "date": "Tue, 28 Jul 2026 13:42:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOUaViebYAA696r.jpg"
-      ]
-    },
-    {
-      "id": "0732c1ebd650d6dc58a548422d677ad7947b98d2e7ba7f52bfb84d07bf276fdd",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "text": "VAMOSSSSSSSSSS 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸",
-      "url": "https://nitter.net/PacemanOP/status/2078959182284575054#m",
-      "date": "Sun, 19 Jul 2026 21:44:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     }
   ]
 }
