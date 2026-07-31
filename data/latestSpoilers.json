@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T04:48:09.611Z",
+  "generatedAt": "2026-07-31T07:38:29.094Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -270,6 +270,21 @@
       ]
     },
     {
+      "id": "0490a8c094da2906329bb875613a9ebd55ac184d4e2830848e476c5dec1de3fd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2083076195034226775#m",
+      "date": "Fri, 31 Jul 2026 06:24:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOiSwkhW4AAVfov.jpg"
+      ]
+    },
+    {
       "id": "4feb06338fc48e2ffa5f65036f5adbd47d1f5a5934be5cc1609f22bcb7b6b2a9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -342,21 +357,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHONrGpZWUAEdc0V.jpg"
-      ]
-    },
-    {
-      "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso d",
-      "text": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso de la manera que se merece. 🩸⚔️ ¿Estamos listos para esto?",
-      "url": "https://nitter.net/daily_berserk/status/2081353512311468075#m",
-      "date": "Sun, 26 Jul 2026 12:18:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOJz_L6WAAAu7aW.jpg"
       ]
     }
   ],
@@ -627,6 +627,21 @@
       ]
     },
     {
+      "id": "0490a8c094da2906329bb875613a9ebd55ac184d4e2830848e476c5dec1de3fd",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2083076195034226775#m",
+      "date": "Fri, 31 Jul 2026 06:24:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOiSwkhW4AAVfov.jpg"
+      ]
+    },
+    {
       "id": "4feb06338fc48e2ffa5f65036f5adbd47d1f5a5934be5cc1609f22bcb7b6b2a9",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -699,21 +714,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHONrGpZWUAEdc0V.jpg"
-      ]
-    },
-    {
-      "id": "997ba3626abfcca4924de0dd9a6519f8ed43f014148f97a565212181ddaa3bef",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso d",
-      "text": "Berserk finalmente tendrá una nueva adaptación anime por MAPPA 😳🔥 El anuncio se soltó hace apenas 1 hora, y los fans ya están perdiendo la cabeza. Después de todos estos años… Guts está de regreso de la manera que se merece. 🩸⚔️ ¿Estamos listos para esto?",
-      "url": "https://nitter.net/daily_berserk/status/2081353512311468075#m",
-      "date": "Sun, 26 Jul 2026 12:18:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOJz_L6WAAAu7aW.jpg"
       ]
     }
   ]
