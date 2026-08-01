@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T15:32:47.371Z",
+  "generatedAt": "2026-08-01T16:38:17.972Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -106,6 +106,19 @@
   ],
   "misc": [
     {
+      "id": "a4f82ac0da701e3f5a33eb8aac202caad7f5797869abd06fd1c7dcbcf98e0cf0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Yo soy Sánchez y envío a 50.000 cayetanos del barrio de Salamanca a invadir Rabat.",
+      "text": "Yo soy Sánchez y envío a 50.000 cayetanos del barrio de Salamanca a invadir Rabat.",
+      "url": "https://nitter.net/Apu_elrojo/status/2083239604191109248#m",
+      "date": "Fri, 31 Jul 2026 17:13:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "6ec03ade976f9bd4c47114da7eb0ee4e37efe770c655d4a9c6d78a9d7a638966",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -180,21 +193,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOoQFQZacAAHX6Q.jpg"
-      ]
-    },
-    {
-      "id": "359e1abe2ce5153c0042f50005d4f18d68f4eb197f68a12e8a8c3bdd1108201e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Está clavadita...",
-      "text": "Está clavadita...",
-      "url": "https://nitter.net/NintendoES/status/2083462740253737072#m",
-      "date": "Sat, 01 Aug 2026 08:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOjTXDWXUAAH4p7.jpg"
       ]
     },
     {
@@ -510,6 +508,19 @@
       ]
     },
     {
+      "id": "a4f82ac0da701e3f5a33eb8aac202caad7f5797869abd06fd1c7dcbcf98e0cf0",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Yo soy Sánchez y envío a 50.000 cayetanos del barrio de Salamanca a invadir Rabat.",
+      "text": "Yo soy Sánchez y envío a 50.000 cayetanos del barrio de Salamanca a invadir Rabat.",
+      "url": "https://nitter.net/Apu_elrojo/status/2083239604191109248#m",
+      "date": "Fri, 31 Jul 2026 17:13:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "6ec03ade976f9bd4c47114da7eb0ee4e37efe770c655d4a9c6d78a9d7a638966",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -584,21 +595,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOoQFQZacAAHX6Q.jpg"
-      ]
-    },
-    {
-      "id": "359e1abe2ce5153c0042f50005d4f18d68f4eb197f68a12e8a8c3bdd1108201e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Está clavadita...",
-      "text": "Está clavadita...",
-      "url": "https://nitter.net/NintendoES/status/2083462740253737072#m",
-      "date": "Sat, 01 Aug 2026 08:00:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOjTXDWXUAAH4p7.jpg"
       ]
     },
     {
