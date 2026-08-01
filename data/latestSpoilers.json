@@ -1,8 +1,186 @@
 {
-  "generatedAt": "2026-08-01T07:16:58.669Z",
+  "generatedAt": "2026-08-01T09:27:32.037Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "0a80c6432a3b9edbd30ec85aa2e52f4c541a911e73b071134b877f7cdb8bfd32",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#BCSpoilers",
+      "text": "#BCSpoilers",
+      "url": "https://nitter.net/KHDLuffy/status/2082828818381681001#m",
+      "date": "Thu, 30 Jul 2026 14:01:02 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOexvs7WoAEqnHW.jpg"
+      ]
+    },
+    {
+      "id": "61becbb10183f524b92c7d4a75444bee29cba85a792078126fe284cf8f35e0e0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "text": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "url": "https://nitter.net/PacemanOP/status/2082804540148199686#m",
+      "date": "Thu, 30 Jul 2026 12:24:33 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0bb926a0398ae1af63d3791e9a86c31ddef0f2c78dbdc9bf7593d093e1426aec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Our KING #BCSpoilers",
+      "text": "Our KING #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2082790109062304161#m",
+      "date": "Thu, 30 Jul 2026 11:27:13 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
+      ]
+    },
+    {
+      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
+      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
+      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
+      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bc877a26281676373b9e2f7fbd7d69d14890485cdf049ec154150b5408d2a592",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Asta getting crowned #bcspoilers",
+      "text": "Asta getting crowned #bcspoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082795912787861781#m",
+      "date": "Thu, 30 Jul 2026 11:50:16 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeT1IebgAEqv9-.png"
+      ]
+    },
+    {
+      "id": "d16b2d2607c6b3b4752d8d617d536737f47e156b78db3002d150b0632f2668a9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Charlotte reaction to Yami asking her out #bcspoilers",
+      "text": "Charlotte reaction to Yami asking her out #bcspoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082795056382246931#m",
+      "date": "Thu, 30 Jul 2026 11:46:52 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeTDtVbcAAUku_.png"
+      ]
+    },
+    {
+      "id": "6c5856049f4f140efdd5856722901cb38989aa317e3c2ea9a8d1b7c2f3fc3e5a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Licita napping #bcspoilers",
+      "text": "Licita napping #bcspoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082754595282182582#m",
+      "date": "Thu, 30 Jul 2026 09:06:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOduN4yboAAFufe.png"
+      ]
+    }
+  ],
   "misc": [
+    {
+      "id": "fa3a63accee22568072238bb3e9d0d748f4b61f85270073533e4eec09512b5d2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 The list of the 19 swords (belonging to the founders of the World Government) that we have seen by name and in action, including their mythological backgrounds.",
+      "text": "#ONEPIECE1189 The list of the 19 swords (belonging to the founders of the World Government) that we have seen by name and in action, including their mythological backgrounds.",
+      "url": "https://nitter.net/WorstGenHQ/status/2083481862635180168#m",
+      "date": "Sat, 01 Aug 2026 09:15:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOoDIXAXYAABRyN.png",
+        "https://nitter.net/pic/media%2FHOoDJZJXMAAylfY.png"
+      ]
+    },
+    {
+      "id": "e5f79454bbbe1e1952a39be6bde0a3950765933cb18be5119dbda94e64ee6be6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "LMAO😭 Video",
+      "text": "LMAO😭 Video",
+      "url": "https://nitter.net/unonumero_56/status/2083160113792135379#m",
+      "date": "Fri, 31 Jul 2026 11:57:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2083160087695130624%2Fimg%2F01YUg3ee3Jdppoa2.jpg"
+      ]
+    },
+    {
+      "id": "5f1b47b26940c42762316383e58b035db762c3d830271908af404b67f0ab01fe",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 \" القرصان صاحب رقعة العين الذي ذكره أودا هو لوفي ! \" أودن في الأساطير النوردية طُعن على شجرة تماماً كما حدث مع لوفي ونال لقاء ذلك المعرفة المطلقة والقوة وأسرار الكون و ايضا ضحّى بعينه ال",
+      "text": "#ONEPIECE1189 \" القرصان صاحب رقعة العين الذي ذكره أودا هو لوفي ! \" أودن في الأساطير النوردية طُعن على شجرة تماماً كما حدث مع لوفي ونال لقاء ذلك المعرفة المطلقة والقوة وأسرار الكون و ايضا ضحّى بعينه اليسرى في \" نبع ميمير \" مقابل الحصول على الحكمة والبصيرة وبما أن أودا جسّد أسطورة أودن مع لوفي من خلال حادثة طعن الشجرة، فمن الواضح أن الجزء الآخر من الأسطورة ( فقدان العين اليسرى ) سيحدث مع لوفي أيضاً لكن كيف سيفقد لوفي عينه ؟ - في نهاية الفصل رأينا لوفي يسقط نحو العالم السفلي في إلباف، وقد يفقد عينه نتيجة هذا السقوط ، أو بسبب تأثير أحد الأسلحة المغروسة في جسده ( سأُفصّل فيها في تغريدة منفصلة ) - قد يفقد لوفي عينه بسبب اوسوب كما رسم اودا في عام 2019 - قد يكون إيمو هو السبب المباشر في فقدان لوفي لعينه Art by : @iamosix2",
+      "url": "https://nitter.net/Riiezx/status/2082920455460229385#m",
+      "date": "Thu, 30 Jul 2026 20:05:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOgAGekWIAAN2Od.jpg"
+      ]
+    },
+    {
+      "id": "c45825619bc37e33b27f0aa14fd6adc42e3fe1d541f0ca3ffed084d299827bb5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Statement on behalf of UEFA and its 55 National Associations Link 🔗 Tap to read uefa.com",
+      "text": "Statement on behalf of UEFA and its 55 National Associations Link 🔗 Tap to read uefa.com",
+      "url": "https://nitter.net/UEFA/status/2082854732020760880#m",
+      "date": "Thu, 30 Jul 2026 15:44:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/pbs.twimg.com%2Fmedia%2FHOfIvHmXAAAHq_8.jpg"
+      ]
+    },
+    {
+      "id": "15fc31b6df91de249b62f1786359c1b9020401b6d11ec770441f3e24ea45d0a0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "When it come for the best laugh of single characters, One Piece is the king, nothing can top us on that genre 😂😂😂",
+      "text": "When it come for the best laugh of single characters, One Piece is the king, nothing can top us on that genre 😂😂😂",
+      "url": "https://nitter.net/WorstGenHQ/status/2082857199840182354#m",
+      "date": "Thu, 30 Jul 2026 15:53:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOfLlPBWAAAjJ_G.jpg"
+      ]
+    },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
@@ -183,6 +361,183 @@
     }
   ],
   "items": [
+    {
+      "id": "0a80c6432a3b9edbd30ec85aa2e52f4c541a911e73b071134b877f7cdb8bfd32",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#BCSpoilers",
+      "text": "#BCSpoilers",
+      "url": "https://nitter.net/KHDLuffy/status/2082828818381681001#m",
+      "date": "Thu, 30 Jul 2026 14:01:02 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOexvs7WoAEqnHW.jpg"
+      ]
+    },
+    {
+      "id": "61becbb10183f524b92c7d4a75444bee29cba85a792078126fe284cf8f35e0e0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "text": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "url": "https://nitter.net/PacemanOP/status/2082804540148199686#m",
+      "date": "Thu, 30 Jul 2026 12:24:33 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0bb926a0398ae1af63d3791e9a86c31ddef0f2c78dbdc9bf7593d093e1426aec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Our KING #BCSpoilers",
+      "text": "Our KING #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2082790109062304161#m",
+      "date": "Thu, 30 Jul 2026 11:27:13 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
+      ]
+    },
+    {
+      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
+      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
+      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
+      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bc877a26281676373b9e2f7fbd7d69d14890485cdf049ec154150b5408d2a592",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Asta getting crowned #bcspoilers",
+      "text": "Asta getting crowned #bcspoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082795912787861781#m",
+      "date": "Thu, 30 Jul 2026 11:50:16 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeT1IebgAEqv9-.png"
+      ]
+    },
+    {
+      "id": "d16b2d2607c6b3b4752d8d617d536737f47e156b78db3002d150b0632f2668a9",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Charlotte reaction to Yami asking her out #bcspoilers",
+      "text": "Charlotte reaction to Yami asking her out #bcspoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082795056382246931#m",
+      "date": "Thu, 30 Jul 2026 11:46:52 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeTDtVbcAAUku_.png"
+      ]
+    },
+    {
+      "id": "6c5856049f4f140efdd5856722901cb38989aa317e3c2ea9a8d1b7c2f3fc3e5a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Licita napping #bcspoilers",
+      "text": "Licita napping #bcspoilers",
+      "url": "https://nitter.net/WONPE4CE/status/2082754595282182582#m",
+      "date": "Thu, 30 Jul 2026 09:06:05 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOduN4yboAAFufe.png"
+      ]
+    },
+    {
+      "id": "fa3a63accee22568072238bb3e9d0d748f4b61f85270073533e4eec09512b5d2",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 The list of the 19 swords (belonging to the founders of the World Government) that we have seen by name and in action, including their mythological backgrounds.",
+      "text": "#ONEPIECE1189 The list of the 19 swords (belonging to the founders of the World Government) that we have seen by name and in action, including their mythological backgrounds.",
+      "url": "https://nitter.net/WorstGenHQ/status/2083481862635180168#m",
+      "date": "Sat, 01 Aug 2026 09:15:59 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOoDIXAXYAABRyN.png",
+        "https://nitter.net/pic/media%2FHOoDJZJXMAAylfY.png"
+      ]
+    },
+    {
+      "id": "e5f79454bbbe1e1952a39be6bde0a3950765933cb18be5119dbda94e64ee6be6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "LMAO😭 Video",
+      "text": "LMAO😭 Video",
+      "url": "https://nitter.net/unonumero_56/status/2083160113792135379#m",
+      "date": "Fri, 31 Jul 2026 11:57:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2083160087695130624%2Fimg%2F01YUg3ee3Jdppoa2.jpg"
+      ]
+    },
+    {
+      "id": "5f1b47b26940c42762316383e58b035db762c3d830271908af404b67f0ab01fe",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1189 \" القرصان صاحب رقعة العين الذي ذكره أودا هو لوفي ! \" أودن في الأساطير النوردية طُعن على شجرة تماماً كما حدث مع لوفي ونال لقاء ذلك المعرفة المطلقة والقوة وأسرار الكون و ايضا ضحّى بعينه ال",
+      "text": "#ONEPIECE1189 \" القرصان صاحب رقعة العين الذي ذكره أودا هو لوفي ! \" أودن في الأساطير النوردية طُعن على شجرة تماماً كما حدث مع لوفي ونال لقاء ذلك المعرفة المطلقة والقوة وأسرار الكون و ايضا ضحّى بعينه اليسرى في \" نبع ميمير \" مقابل الحصول على الحكمة والبصيرة وبما أن أودا جسّد أسطورة أودن مع لوفي من خلال حادثة طعن الشجرة، فمن الواضح أن الجزء الآخر من الأسطورة ( فقدان العين اليسرى ) سيحدث مع لوفي أيضاً لكن كيف سيفقد لوفي عينه ؟ - في نهاية الفصل رأينا لوفي يسقط نحو العالم السفلي في إلباف، وقد يفقد عينه نتيجة هذا السقوط ، أو بسبب تأثير أحد الأسلحة المغروسة في جسده ( سأُفصّل فيها في تغريدة منفصلة ) - قد يفقد لوفي عينه بسبب اوسوب كما رسم اودا في عام 2019 - قد يكون إيمو هو السبب المباشر في فقدان لوفي لعينه Art by : @iamosix2",
+      "url": "https://nitter.net/Riiezx/status/2082920455460229385#m",
+      "date": "Thu, 30 Jul 2026 20:05:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOgAGekWIAAN2Od.jpg"
+      ]
+    },
+    {
+      "id": "c45825619bc37e33b27f0aa14fd6adc42e3fe1d541f0ca3ffed084d299827bb5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Statement on behalf of UEFA and its 55 National Associations Link 🔗 Tap to read uefa.com",
+      "text": "Statement on behalf of UEFA and its 55 National Associations Link 🔗 Tap to read uefa.com",
+      "url": "https://nitter.net/UEFA/status/2082854732020760880#m",
+      "date": "Thu, 30 Jul 2026 15:44:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/pbs.twimg.com%2Fmedia%2FHOfIvHmXAAAHq_8.jpg"
+      ]
+    },
+    {
+      "id": "15fc31b6df91de249b62f1786359c1b9020401b6d11ec770441f3e24ea45d0a0",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "When it come for the best laugh of single characters, One Piece is the king, nothing can top us on that genre 😂😂😂",
+      "text": "When it come for the best laugh of single characters, One Piece is the king, nothing can top us on that genre 😂😂😂",
+      "url": "https://nitter.net/WorstGenHQ/status/2082857199840182354#m",
+      "date": "Thu, 30 Jul 2026 15:53:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOfLlPBWAAAjJ_G.jpg"
+      ]
+    },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
       "anime": "boruto",
