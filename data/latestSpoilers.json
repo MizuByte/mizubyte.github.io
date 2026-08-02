@@ -1,35 +1,21 @@
 {
-  "generatedAt": "2026-08-02T18:43:46.683Z",
+  "generatedAt": "2026-08-02T19:55:37.731Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "92915d164540819004eccf0cfc0bf830d8ef69a8e07dc869aa2e97b3844233c9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Behahahahaha this is Kaido drawn by Baki author, but I like it🤣🤣",
-      "text": "Behahahahaha this is Kaido drawn by Baki author, but I like it🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2083921026388197811#m",
-      "date": "Sun, 02 Aug 2026 14:21:04 GMT",
+      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
+      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOuTIHzXoAAT10d.jpg"
-      ]
-    },
-    {
-      "id": "8c1e04c4e85ca077d924b08ac4b191716d7f6c21c69e5dda0dd1c16f50d34fdf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "text": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "url": "https://nitter.net/pewpiece/status/2083891554406559958#m",
-      "date": "Sun, 02 Aug 2026 12:23:58 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOt4Qr7WwAApIYu.jpg"
+        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
+        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
       ]
     },
     {
@@ -101,87 +87,11 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOeTDtVbcAAUku_.png"
-      ]
-    },
-    {
-      "id": "6c5856049f4f140efdd5856722901cb38989aa317e3c2ea9a8d1b7c2f3fc3e5a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Licita napping #bcspoilers",
-      "text": "Licita napping #bcspoilers",
-      "url": "https://nitter.net/WONPE4CE/status/2082754595282182582#m",
-      "date": "Thu, 30 Jul 2026 09:06:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOduN4yboAAFufe.png"
       ]
     }
   ],
   "misc": [
     {
-      "id": "4f669ea14cfdbd43e40cda7d336b2e9b6419fc1f4cfb0d562232399d20075534",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 One Piece will go on hiatus after Chapter 1190 due to a holiday, causing Weekly Shonen Jump to take a break. Video",
-      "text": "#ONEPIECE1190 One Piece will go on hiatus after Chapter 1190 due to a holiday, causing Weekly Shonen Jump to take a break. Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2083984646233108927#m",
-      "date": "Sun, 02 Aug 2026 18:33:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083984530214387712%2Fimg%2F_Y4hgIR94CW_i0Mq.jpg"
-      ]
-    },
-    {
-      "id": "d17a778bf797f9090169370ca42b91b40166e37fa135e5576718fdc496a67557",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Welcome anime only watchers, now you guys maybe get the tag... #FEARLOKI WHAT A BEAST!! Video",
-      "text": "#ONEPIECE Welcome anime only watchers, now you guys maybe get the tag... #FEARLOKI WHAT A BEAST!! Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2083926849185353917#m",
-      "date": "Sun, 02 Aug 2026 14:44:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083926759792152576%2Fimg%2FzeoE2ASodUm-3VI9.jpg"
-      ]
-    },
-    {
-      "id": "e73a897a346170f7134393c749925f983938a862732a114848f0ff46ddd89107",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That is peak... Luffy and Xebec one...",
-      "text": "That is peak... Luffy and Xebec one...",
-      "url": "https://nitter.net/WorstGenHQ/status/2083921161415540973#m",
-      "date": "Sun, 02 Aug 2026 14:21:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuTPr3XAAArGZF.jpg",
-        "https://nitter.net/pic/media%2FHOuTQBLXcAAFLrU.jpg"
-      ]
-    },
-    {
-      "id": "61ad57d00408f8abb5e987adf52ca6c87c27648e2434f8054b9154186a199fcf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The biggest reveals in Elbaf",
-      "text": "The biggest reveals in Elbaf",
-      "url": "https://nitter.net/muginokaizoku/status/2083603533589365247#m",
-      "date": "Sat, 01 Aug 2026 17:19:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOpyWrDXUAADK3E.jpg"
-      ]
-    },
-    {
       "id": "c88274c232d0cbc35ec11be0840b0640d7413f45b8e67724365c560a7a2f7c61",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -355,97 +265,23 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
-    },
-    {
-      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
-      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
-      ]
-    },
-    {
-      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
-      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
-      ]
-    },
-    {
-      "id": "7f2e5f0cc25853edb0709dce030da7eef2df47ab3295dc004149895b649ee63d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083571003616113090#m",
-      "date": "Sat, 01 Aug 2026 15:10:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOpUyJFWMAAsFnM.jpg"
-      ]
-    },
-    {
-      "id": "9a6eefbd48163764814ae7c9ff31d06aa7d35dc8e43ffd80e7d35f10074e6c6a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083239818931110084#m",
-      "date": "Fri, 31 Jul 2026 17:14:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOknj6cWAAA9nOp.jpg"
-      ]
     }
   ],
   "items": [
     {
-      "id": "92915d164540819004eccf0cfc0bf830d8ef69a8e07dc869aa2e97b3844233c9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Behahahahaha this is Kaido drawn by Baki author, but I like it🤣🤣",
-      "text": "Behahahahaha this is Kaido drawn by Baki author, but I like it🤣🤣",
-      "url": "https://nitter.net/WorstGenHQ/status/2083921026388197811#m",
-      "date": "Sun, 02 Aug 2026 14:21:04 GMT",
+      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
+      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOuTIHzXoAAT10d.jpg"
-      ]
-    },
-    {
-      "id": "8c1e04c4e85ca077d924b08ac4b191716d7f6c21c69e5dda0dd1c16f50d34fdf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "text": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "url": "https://nitter.net/pewpiece/status/2083891554406559958#m",
-      "date": "Sun, 02 Aug 2026 12:23:58 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOt4Qr7WwAApIYu.jpg"
+        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
+        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
       ]
     },
     {
@@ -520,82 +356,6 @@
       ]
     },
     {
-      "id": "6c5856049f4f140efdd5856722901cb38989aa317e3c2ea9a8d1b7c2f3fc3e5a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Licita napping #bcspoilers",
-      "text": "Licita napping #bcspoilers",
-      "url": "https://nitter.net/WONPE4CE/status/2082754595282182582#m",
-      "date": "Thu, 30 Jul 2026 09:06:05 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOduN4yboAAFufe.png"
-      ]
-    },
-    {
-      "id": "4f669ea14cfdbd43e40cda7d336b2e9b6419fc1f4cfb0d562232399d20075534",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 One Piece will go on hiatus after Chapter 1190 due to a holiday, causing Weekly Shonen Jump to take a break. Video",
-      "text": "#ONEPIECE1190 One Piece will go on hiatus after Chapter 1190 due to a holiday, causing Weekly Shonen Jump to take a break. Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2083984646233108927#m",
-      "date": "Sun, 02 Aug 2026 18:33:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083984530214387712%2Fimg%2F_Y4hgIR94CW_i0Mq.jpg"
-      ]
-    },
-    {
-      "id": "d17a778bf797f9090169370ca42b91b40166e37fa135e5576718fdc496a67557",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Welcome anime only watchers, now you guys maybe get the tag... #FEARLOKI WHAT A BEAST!! Video",
-      "text": "#ONEPIECE Welcome anime only watchers, now you guys maybe get the tag... #FEARLOKI WHAT A BEAST!! Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2083926849185353917#m",
-      "date": "Sun, 02 Aug 2026 14:44:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083926759792152576%2Fimg%2FzeoE2ASodUm-3VI9.jpg"
-      ]
-    },
-    {
-      "id": "e73a897a346170f7134393c749925f983938a862732a114848f0ff46ddd89107",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "That is peak... Luffy and Xebec one...",
-      "text": "That is peak... Luffy and Xebec one...",
-      "url": "https://nitter.net/WorstGenHQ/status/2083921161415540973#m",
-      "date": "Sun, 02 Aug 2026 14:21:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuTPr3XAAArGZF.jpg",
-        "https://nitter.net/pic/media%2FHOuTQBLXcAAFLrU.jpg"
-      ]
-    },
-    {
-      "id": "61ad57d00408f8abb5e987adf52ca6c87c27648e2434f8054b9154186a199fcf",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "The biggest reveals in Elbaf",
-      "text": "The biggest reveals in Elbaf",
-      "url": "https://nitter.net/muginokaizoku/status/2083603533589365247#m",
-      "date": "Sat, 01 Aug 2026 17:19:28 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOpyWrDXUAADK3E.jpg"
-      ]
-    },
-    {
       "id": "c88274c232d0cbc35ec11be0840b0640d7413f45b8e67724365c560a7a2f7c61",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -768,66 +528,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
-      ]
-    },
-    {
-      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
-      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
-      ]
-    },
-    {
-      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
-      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
-      ]
-    },
-    {
-      "id": "7f2e5f0cc25853edb0709dce030da7eef2df47ab3295dc004149895b649ee63d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083571003616113090#m",
-      "date": "Sat, 01 Aug 2026 15:10:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOpUyJFWMAAsFnM.jpg"
-      ]
-    },
-    {
-      "id": "9a6eefbd48163764814ae7c9ff31d06aa7d35dc8e43ffd80e7d35f10074e6c6a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083239818931110084#m",
-      "date": "Fri, 31 Jul 2026 17:14:12 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOknj6cWAAA9nOp.jpg"
       ]
     }
   ]
