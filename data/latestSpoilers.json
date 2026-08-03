@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:35:16.278Z",
+  "generatedAt": "2026-08-03T22:41:59.674Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -93,6 +93,21 @@
   ],
   "misc": [
     {
+      "id": "702c1ddaa696ed3f91352b5f3017107ef2603e528b3b53ffb4219d9b502c6fc6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 How the Imu gauntlet going",
+      "text": "#ONEPIECE1190 How the Imu gauntlet going",
+      "url": "https://nitter.net/EtherionMaster/status/2084396421982122051#m",
+      "date": "Mon, 03 Aug 2026 21:50:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO1Df-yWQAIj4xW.jpg"
+      ]
+    },
+    {
       "id": "3681c296dea5d492689e35ad08c5e2410bb993a28130c25a0a2a1ea78baabe9f",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -164,111 +179,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOz9AhPXEAAcEf8.png"
-      ]
-    },
-    {
-      "id": "b50aee0aa1a8a4ff1bc0f7fbcd2a4eaa95b87c2f1d9ec2e0f15b50a1f8ef2137",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Don’t tell me Gaban > Luffy & Loki 😭 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084299761",
-      "text": "#ONEPIECE1190 Don’t tell me Gaban > Luffy & Loki 😭 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084299761729859860#m",
-      "url": "https://nitter.net/nikaboy___/status/2084301677708890166#m",
-      "date": "Mon, 03 Aug 2026 15:33:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzqXjrXEAEfW9X.jpg"
-      ]
-    },
-    {
-      "id": "56940203e885effffb4c17bd1383ebf524561cc352b980f252ac0502d2c46dfa",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
-      "text": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
-      "url": "https://nitter.net/TheCinesthetic/status/2084077538897166464#m",
-      "date": "Mon, 03 Aug 2026 00:43:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1663369461225914368%2Fpu%2Fimg%2FTWEcR4rzT-GCO98f.jpg"
-      ]
-    },
-    {
-      "id": "e6e6ad13d32e67a3631a12f7dbd93e447e6655d6a2aabbc08a12c2ad409493e0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Bajo mi punto de vista, esta versión de Manuel Rico sobre lo que pretendía Ayuso con el ático es la más acertada que he escuchado, él la conoce muy bien y sabe de sus ambiciones. Veamos: La CAM compra",
-      "text": "Bajo mi punto de vista, esta versión de Manuel Rico sobre lo que pretendía Ayuso con el ático es la más acertada que he escuchado, él la conoce muy bien y sabe de sus ambiciones. Veamos: La CAM compra el ático, gana las elecciones el año que viene y aprueban una norma para que la lideresa suprema tenga una vivienda oficial, como tiene Pedro Sánchez y los ministros, ella esto lo ha repetido hasta la saciedad. Pero yo apunto más allá, ese ático era un sueño suyo desde jovencita, vivía enfrente, el año pasado la CAM aprobó el estatuto de los expresidentes, podría vivir en ella 4 años después de ser presidenta. Pasado ese tiempo, podría acceder a su compra por un módico precio. Venga, madrileños que la votáis, para quien gobierna, ¿Para vosotros o para sus ambiciones personales? Esta os la sabéis, otra cosa es que no queráis verlo. Caerá por su ambición desmesurada, es muy bestia hasta para ella. Video",
-      "url": "https://nitter.net/josevico4/status/2084291596363653275#m",
-      "date": "Mon, 03 Aug 2026 14:53:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2084291437684740096%2Fimg%2FXMcLVC-LdAIEMXZX.jpg"
-      ]
-    },
-    {
-      "id": "3798f33ef9c9fc5f5bce7760f4021f503ca1727bca188595abd1f38488fb4318",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "No era una oficina. Era un ático de lujo. Por eso estas imágenes no las verás en la prensa comprada: la que calla el último escándalo de Ayuso a cambio de publicidad institucional de la Comunidad de M",
-      "text": "No era una oficina. Era un ático de lujo. Por eso estas imágenes no las verás en la prensa comprada: la que calla el último escándalo de Ayuso a cambio de publicidad institucional de la Comunidad de Madrid. Mañaneros 360 (@MananerosTVE) 🔵Exclusiva: Nuevas imágenes del ático de Ayuso Habitación de servicio, mármol avanzado, una terraza de 200 m²: así es el ático que compró la Comunidad de Madrid como oficina #Mañaneros3A rtve.es/directo/la-1 Video — https://nitter.net/MananerosTVE/status/2084236590566486249#m",
-      "url": "https://nitter.net/JoseMGarrido/status/2084288327205736716#m",
-      "date": "Mon, 03 Aug 2026 14:40:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2084236089200390144%2Fimg%2Fg20Va5njACu-mnJP.jpg"
-      ]
-    },
-    {
-      "id": "86483e0fb9f70119bf1e89efa84e5d08fddef20f568ad79e4f983cdf7c07ea85",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【電子コミックス最新刊発売🎉】 表紙は日向小次郎🔥 ジャンプコミックスDIGITAL 『キャプテン翼ライジングサンFINALS』 最新13巻が各電子書店で発売‼️ 「連載45周年」発表直後の4月3日発売の9巻から5か月連続刊行🎊 緊迫の展開続く怒涛のNo.61～65がイッキ読みできます🤩",
-      "text": "【電子コミックス最新刊発売🎉】 表紙は日向小次郎🔥 ジャンプコミックスDIGITAL 『キャプテン翼ライジングサンFINALS』 最新13巻が各電子書店で発売‼️ 「連載45周年」発表直後の4月3日発売の9巻から5か月連続刊行🎊 緊迫の展開続く怒涛のNo.61～65がイッキ読みできます🤩",
-      "url": "https://nitter.net/Tsubasa728world/status/2084293218762445114#m",
-      "date": "Mon, 03 Aug 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOyjjX5a4AAop0z.jpg"
-      ]
-    },
-    {
-      "id": "b5b8d6b2ec852bea32dfec848239676868373065c36fbae0299e3d72daf25481",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Nintendo España (@NintendoES) ¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrec",
-      "text": "Nintendo España (@NintendoES) ¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrecerá unos 20 minutos de nuevos detalles sobre el juego. Síguelo aquí: ntdo.com/60107zw3O — https://nitter.net/NintendoES/status/2084280849600508395#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2084281242418094192#m",
-      "date": "Mon, 03 Aug 2026 14:12:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzaYqQXQAAQY1L.jpg"
-      ]
-    },
-    {
-      "id": "eb6c0e11258d9e22482cd9a788cee8fccb0414013e7a8db580b01d31b6ef14c4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrecerá unos 20 minutos de nuevos ",
-      "text": "¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrecerá unos 20 minutos de nuevos detalles sobre el juego. Síguelo aquí: ntdo.com/60107zw3O",
-      "url": "https://nitter.net/NintendoES/status/2084280849600508395#m",
-      "date": "Mon, 03 Aug 2026 14:10:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzaYqQXQAAQY1L.jpg"
       ]
     },
     {
@@ -387,6 +297,66 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
+      ]
+    },
+    {
+      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
+      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
+    },
+    {
+      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
+      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
+      ]
+    },
+    {
+      "id": "7f2e5f0cc25853edb0709dce030da7eef2df47ab3295dc004149895b649ee63d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083571003616113090#m",
+      "date": "Sat, 01 Aug 2026 15:10:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOpUyJFWMAAsFnM.jpg"
+      ]
+    },
+    {
+      "id": "9a6eefbd48163764814ae7c9ff31d06aa7d35dc8e43ffd80e7d35f10074e6c6a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083239818931110084#m",
+      "date": "Fri, 31 Jul 2026 17:14:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOknj6cWAAA9nOp.jpg"
       ]
     }
   ],
@@ -480,6 +450,21 @@
       "attachments": []
     },
     {
+      "id": "702c1ddaa696ed3f91352b5f3017107ef2603e528b3b53ffb4219d9b502c6fc6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 How the Imu gauntlet going",
+      "text": "#ONEPIECE1190 How the Imu gauntlet going",
+      "url": "https://nitter.net/EtherionMaster/status/2084396421982122051#m",
+      "date": "Mon, 03 Aug 2026 21:50:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO1Df-yWQAIj4xW.jpg"
+      ]
+    },
+    {
       "id": "3681c296dea5d492689e35ad08c5e2410bb993a28130c25a0a2a1ea78baabe9f",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -551,111 +536,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOz9AhPXEAAcEf8.png"
-      ]
-    },
-    {
-      "id": "b50aee0aa1a8a4ff1bc0f7fbcd2a4eaa95b87c2f1d9ec2e0f15b50a1f8ef2137",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Don’t tell me Gaban > Luffy & Loki 😭 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084299761",
-      "text": "#ONEPIECE1190 Don’t tell me Gaban > Luffy & Loki 😭 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084299761729859860#m",
-      "url": "https://nitter.net/nikaboy___/status/2084301677708890166#m",
-      "date": "Mon, 03 Aug 2026 15:33:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzqXjrXEAEfW9X.jpg"
-      ]
-    },
-    {
-      "id": "56940203e885effffb4c17bd1383ebf524561cc352b980f252ac0502d2c46dfa",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
-      "text": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
-      "url": "https://nitter.net/TheCinesthetic/status/2084077538897166464#m",
-      "date": "Mon, 03 Aug 2026 00:43:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/ext_tw_video_thumb%2F1663369461225914368%2Fpu%2Fimg%2FTWEcR4rzT-GCO98f.jpg"
-      ]
-    },
-    {
-      "id": "e6e6ad13d32e67a3631a12f7dbd93e447e6655d6a2aabbc08a12c2ad409493e0",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Bajo mi punto de vista, esta versión de Manuel Rico sobre lo que pretendía Ayuso con el ático es la más acertada que he escuchado, él la conoce muy bien y sabe de sus ambiciones. Veamos: La CAM compra",
-      "text": "Bajo mi punto de vista, esta versión de Manuel Rico sobre lo que pretendía Ayuso con el ático es la más acertada que he escuchado, él la conoce muy bien y sabe de sus ambiciones. Veamos: La CAM compra el ático, gana las elecciones el año que viene y aprueban una norma para que la lideresa suprema tenga una vivienda oficial, como tiene Pedro Sánchez y los ministros, ella esto lo ha repetido hasta la saciedad. Pero yo apunto más allá, ese ático era un sueño suyo desde jovencita, vivía enfrente, el año pasado la CAM aprobó el estatuto de los expresidentes, podría vivir en ella 4 años después de ser presidenta. Pasado ese tiempo, podría acceder a su compra por un módico precio. Venga, madrileños que la votáis, para quien gobierna, ¿Para vosotros o para sus ambiciones personales? Esta os la sabéis, otra cosa es que no queráis verlo. Caerá por su ambición desmesurada, es muy bestia hasta para ella. Video",
-      "url": "https://nitter.net/josevico4/status/2084291596363653275#m",
-      "date": "Mon, 03 Aug 2026 14:53:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2084291437684740096%2Fimg%2FXMcLVC-LdAIEMXZX.jpg"
-      ]
-    },
-    {
-      "id": "3798f33ef9c9fc5f5bce7760f4021f503ca1727bca188595abd1f38488fb4318",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "No era una oficina. Era un ático de lujo. Por eso estas imágenes no las verás en la prensa comprada: la que calla el último escándalo de Ayuso a cambio de publicidad institucional de la Comunidad de M",
-      "text": "No era una oficina. Era un ático de lujo. Por eso estas imágenes no las verás en la prensa comprada: la que calla el último escándalo de Ayuso a cambio de publicidad institucional de la Comunidad de Madrid. Mañaneros 360 (@MananerosTVE) 🔵Exclusiva: Nuevas imágenes del ático de Ayuso Habitación de servicio, mármol avanzado, una terraza de 200 m²: así es el ático que compró la Comunidad de Madrid como oficina #Mañaneros3A rtve.es/directo/la-1 Video — https://nitter.net/MananerosTVE/status/2084236590566486249#m",
-      "url": "https://nitter.net/JoseMGarrido/status/2084288327205736716#m",
-      "date": "Mon, 03 Aug 2026 14:40:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2084236089200390144%2Fimg%2Fg20Va5njACu-mnJP.jpg"
-      ]
-    },
-    {
-      "id": "86483e0fb9f70119bf1e89efa84e5d08fddef20f568ad79e4f983cdf7c07ea85",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "【電子コミックス最新刊発売🎉】 表紙は日向小次郎🔥 ジャンプコミックスDIGITAL 『キャプテン翼ライジングサンFINALS』 最新13巻が各電子書店で発売‼️ 「連載45周年」発表直後の4月3日発売の9巻から5か月連続刊行🎊 緊迫の展開続く怒涛のNo.61～65がイッキ読みできます🤩",
-      "text": "【電子コミックス最新刊発売🎉】 表紙は日向小次郎🔥 ジャンプコミックスDIGITAL 『キャプテン翼ライジングサンFINALS』 最新13巻が各電子書店で発売‼️ 「連載45周年」発表直後の4月3日発売の9巻から5か月連続刊行🎊 緊迫の展開続く怒涛のNo.61～65がイッキ読みできます🤩",
-      "url": "https://nitter.net/Tsubasa728world/status/2084293218762445114#m",
-      "date": "Mon, 03 Aug 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOyjjX5a4AAop0z.jpg"
-      ]
-    },
-    {
-      "id": "b5b8d6b2ec852bea32dfec848239676868373065c36fbae0299e3d72daf25481",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Nintendo España (@NintendoES) ¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrec",
-      "text": "Nintendo España (@NintendoES) ¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrecerá unos 20 minutos de nuevos detalles sobre el juego. Síguelo aquí: ntdo.com/60107zw3O — https://nitter.net/NintendoES/status/2084280849600508395#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2084281242418094192#m",
-      "date": "Mon, 03 Aug 2026 14:12:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzaYqQXQAAQY1L.jpg"
-      ]
-    },
-    {
-      "id": "eb6c0e11258d9e22482cd9a788cee8fccb0414013e7a8db580b01d31b6ef14c4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrecerá unos 20 minutos de nuevos ",
-      "text": "¡Falta poco para que arranquen los Juegos Heroicos! Mañana, martes, 4 de agosto a las 16:00 (hora peninsular), se emitirá el #FireEmblem Fortune's Weave Direct, que ofrecerá unos 20 minutos de nuevos detalles sobre el juego. Síguelo aquí: ntdo.com/60107zw3O",
-      "url": "https://nitter.net/NintendoES/status/2084280849600508395#m",
-      "date": "Mon, 03 Aug 2026 14:10:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzaYqQXQAAQY1L.jpg"
       ]
     },
     {
@@ -774,6 +654,66 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
+      ]
+    },
+    {
+      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
+      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
+    },
+    {
+      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
+      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
+      ]
+    },
+    {
+      "id": "7f2e5f0cc25853edb0709dce030da7eef2df47ab3295dc004149895b649ee63d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083571003616113090#m",
+      "date": "Sat, 01 Aug 2026 15:10:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOpUyJFWMAAsFnM.jpg"
+      ]
+    },
+    {
+      "id": "9a6eefbd48163764814ae7c9ff31d06aa7d35dc8e43ffd80e7d35f10074e6c6a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083239818931110084#m",
+      "date": "Fri, 31 Jul 2026 17:14:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOknj6cWAAA9nOp.jpg"
       ]
     }
   ]
