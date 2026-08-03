@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T01:16:19.067Z",
+  "generatedAt": "2026-08-03T04:52:22.788Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -357,36 +357,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
       ]
-    },
-    {
-      "id": "e989aa0c6fcf12178540060e6e8d693314fec09aa383d0a1cb31d10a01ac45e8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Vi",
-      "text": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Video",
-      "url": "https://nitter.net/lol_es/status/2083965278161965516#m",
-      "date": "Sun, 02 Aug 2026 17:16:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
-      ]
-    },
-    {
-      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
-      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
-      ]
     }
   ],
   "items": [
@@ -742,36 +712,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvpwSXAAAoLAd.jpg"
-      ]
-    },
-    {
-      "id": "e989aa0c6fcf12178540060e6e8d693314fec09aa383d0a1cb31d10a01ac45e8",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Vi",
-      "text": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Video",
-      "url": "https://nitter.net/lol_es/status/2083965278161965516#m",
-      "date": "Sun, 02 Aug 2026 17:16:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
-      ]
-    },
-    {
-      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
-      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
       ]
     }
   ]
