@@ -1,8 +1,128 @@
 {
-  "generatedAt": "2026-08-03T20:23:07.100Z",
+  "generatedAt": "2026-08-03T21:35:16.278Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "089d967db2ef220d6487aeb963ccf079fda08ec7ac31b7e9727f3b184423de71",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Licht pages/spread from the guide book! #BCSpoilers",
+      "text": "Licht pages/spread from the guide book! #BCSpoilers",
+      "url": "https://nitter.net/SnV_Nakimov/status/2084313041361895890#m",
+      "date": "Mon, 03 Aug 2026 16:18:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOz3qdwW8AA6u7H.jpg"
+      ]
+    },
+    {
+      "id": "d0792ae33b4761f7a8594932295e89874f97b0119efea4e3172f16735782fc94",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
+      "text": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2084311740985311645#m",
+      "date": "Mon, 03 Aug 2026 16:13:38 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOz2b39aUAEp2f2.jpg",
+        "https://nitter.net/pic/media%2FHOz2dZiaQAAm7z-.jpg"
+      ]
+    },
+    {
+      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
+      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
+        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
+      ]
+    },
+    {
+      "id": "61becbb10183f524b92c7d4a75444bee29cba85a792078126fe284cf8f35e0e0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "text": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "url": "https://nitter.net/PacemanOP/status/2082804540148199686#m",
+      "date": "Thu, 30 Jul 2026 12:24:33 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0bb926a0398ae1af63d3791e9a86c31ddef0f2c78dbdc9bf7593d093e1426aec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Our KING #BCSpoilers",
+      "text": "Our KING #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2082790109062304161#m",
+      "date": "Thu, 30 Jul 2026 11:27:13 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
+      ]
+    },
+    {
+      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
+      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
+      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
+      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    }
+  ],
   "misc": [
+    {
+      "id": "3681c296dea5d492689e35ad08c5e2410bb993a28130c25a0a2a1ea78baabe9f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 💀💀💀",
+      "text": "#ONEPIECE1190 💀💀💀",
+      "url": "https://nitter.net/gigiconlaG/status/2084384540135493799#m",
+      "date": "Mon, 03 Aug 2026 21:02:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO04q5_X0AAHkqq.jpg"
+      ]
+    },
+    {
+      "id": "08d284cb073aaf7985a9b9a5f17dec8f5d1373071a1d836a26a314449ae777ef",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "質量 • • 最大質量 • • • • Oda sure put a lot of emphasis \"•\" on something that is \"not a fucking thing.\" You guys put out multiple trash theories consistently. Surely he's allowed one. chronic foolishness (",
+      "text": "質量 • • 最大質量 • • • • Oda sure put a lot of emphasis \"•\" on something that is \"not a fucking thing.\" You guys put out multiple trash theories consistently. Surely he's allowed one. chronic foolishness (@foolishmagici4n) CRITICAL MASS HAKI IS NOT A FUCKING THING Haki is energy. It can be spent. It can be recovered. It can be charged for a more potent attack. Powerscaling hypebeasts can't stop inventing new bullshit to hypebeast about. Y'all are fucking annoying — https://nitter.net/foolishmagici4n/status/2081456538858766586#m",
+      "url": "https://nitter.net/kwt_shanks/status/2084371321400463652#m",
+      "date": "Mon, 03 Aug 2026 20:10:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO0ptE4XMAA22iy.png",
+        "https://nitter.net/pic/media%2FHO0p8DzWsAAOIyO.png"
+      ]
+    },
     {
       "id": "2355c6223a93d43e301363f070808ab25ecedefd43a25d9496aa3ecd83dc0aee",
       "anime": "onepiece",
@@ -60,34 +180,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOzqXjrXEAEfW9X.jpg"
       ]
-    },
-    {
-      "id": "aaa89d631d7b3759b6033036637ae26c0a911a573b562cdbf9a472da025426c4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Lately everyone is talking about the Parrots and Imu🦜. But hidden in plain sight on a cover is the key to LAUGH TALE and the story. Mini thread⬇️ 🧵[1/8] #ONEPIECE",
-      "text": "Lately everyone is talking about the Parrots and Imu🦜. But hidden in plain sight on a cover is the key to LAUGH TALE and the story. Mini thread⬇️ 🧵[1/8] #ONEPIECE",
-      "url": "https://nitter.net/ZagrashX/status/2084301055060255034#m",
-      "date": "Mon, 03 Aug 2026 15:31:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzswpnWsAAl2a_.jpg"
-      ]
-    },
-    {
-      "id": "8aac61ad6d4e28503a7f1c6ee4744a35c63c69da19a427539ec51f3b77e57441",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gigabeard has his birthday today.🎂 Can´t wait until Oda show his masterplan. Oda is about to cook with this man...",
-      "text": "Gigabeard has his birthday today.🎂 Can´t wait until Oda show his masterplan. Oda is about to cook with this man...",
-      "url": "https://nitter.net/WorstGenHQ/status/2084308569365586183#m",
-      "date": "Mon, 03 Aug 2026 16:01:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "56940203e885effffb4c17bd1383ebf524561cc352b980f252ac0502d2c46dfa",
@@ -300,6 +392,125 @@
   ],
   "items": [
     {
+      "id": "089d967db2ef220d6487aeb963ccf079fda08ec7ac31b7e9727f3b184423de71",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Licht pages/spread from the guide book! #BCSpoilers",
+      "text": "Licht pages/spread from the guide book! #BCSpoilers",
+      "url": "https://nitter.net/SnV_Nakimov/status/2084313041361895890#m",
+      "date": "Mon, 03 Aug 2026 16:18:48 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOz3qdwW8AA6u7H.jpg"
+      ]
+    },
+    {
+      "id": "d0792ae33b4761f7a8594932295e89874f97b0119efea4e3172f16735782fc94",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
+      "text": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2084311740985311645#m",
+      "date": "Mon, 03 Aug 2026 16:13:38 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOz2b39aUAEp2f2.jpg",
+        "https://nitter.net/pic/media%2FHOz2dZiaQAAm7z-.jpg"
+      ]
+    },
+    {
+      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
+      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
+      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
+        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
+      ]
+    },
+    {
+      "id": "61becbb10183f524b92c7d4a75444bee29cba85a792078126fe284cf8f35e0e0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "text": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
+      "url": "https://nitter.net/PacemanOP/status/2082804540148199686#m",
+      "date": "Thu, 30 Jul 2026 12:24:33 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0bb926a0398ae1af63d3791e9a86c31ddef0f2c78dbdc9bf7593d093e1426aec",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Our KING #BCSpoilers",
+      "text": "Our KING #BCSpoilers",
+      "url": "https://nitter.net/PacemanOP/status/2082790109062304161#m",
+      "date": "Thu, 30 Jul 2026 11:27:13 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
+      ]
+    },
+    {
+      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
+      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
+      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
+      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3681c296dea5d492689e35ad08c5e2410bb993a28130c25a0a2a1ea78baabe9f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 💀💀💀",
+      "text": "#ONEPIECE1190 💀💀💀",
+      "url": "https://nitter.net/gigiconlaG/status/2084384540135493799#m",
+      "date": "Mon, 03 Aug 2026 21:02:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO04q5_X0AAHkqq.jpg"
+      ]
+    },
+    {
+      "id": "08d284cb073aaf7985a9b9a5f17dec8f5d1373071a1d836a26a314449ae777ef",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "質量 • • 最大質量 • • • • Oda sure put a lot of emphasis \"•\" on something that is \"not a fucking thing.\" You guys put out multiple trash theories consistently. Surely he's allowed one. chronic foolishness (",
+      "text": "質量 • • 最大質量 • • • • Oda sure put a lot of emphasis \"•\" on something that is \"not a fucking thing.\" You guys put out multiple trash theories consistently. Surely he's allowed one. chronic foolishness (@foolishmagici4n) CRITICAL MASS HAKI IS NOT A FUCKING THING Haki is energy. It can be spent. It can be recovered. It can be charged for a more potent attack. Powerscaling hypebeasts can't stop inventing new bullshit to hypebeast about. Y'all are fucking annoying — https://nitter.net/foolishmagici4n/status/2081456538858766586#m",
+      "url": "https://nitter.net/kwt_shanks/status/2084371321400463652#m",
+      "date": "Mon, 03 Aug 2026 20:10:23 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO0ptE4XMAA22iy.png",
+        "https://nitter.net/pic/media%2FHO0p8DzWsAAOIyO.png"
+      ]
+    },
+    {
       "id": "2355c6223a93d43e301363f070808ab25ecedefd43a25d9496aa3ecd83dc0aee",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -356,34 +567,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOzqXjrXEAEfW9X.jpg"
       ]
-    },
-    {
-      "id": "aaa89d631d7b3759b6033036637ae26c0a911a573b562cdbf9a472da025426c4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Lately everyone is talking about the Parrots and Imu🦜. But hidden in plain sight on a cover is the key to LAUGH TALE and the story. Mini thread⬇️ 🧵[1/8] #ONEPIECE",
-      "text": "Lately everyone is talking about the Parrots and Imu🦜. But hidden in plain sight on a cover is the key to LAUGH TALE and the story. Mini thread⬇️ 🧵[1/8] #ONEPIECE",
-      "url": "https://nitter.net/ZagrashX/status/2084301055060255034#m",
-      "date": "Mon, 03 Aug 2026 15:31:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOzswpnWsAAl2a_.jpg"
-      ]
-    },
-    {
-      "id": "8aac61ad6d4e28503a7f1c6ee4744a35c63c69da19a427539ec51f3b77e57441",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Gigabeard has his birthday today.🎂 Can´t wait until Oda show his masterplan. Oda is about to cook with this man...",
-      "text": "Gigabeard has his birthday today.🎂 Can´t wait until Oda show his masterplan. Oda is about to cook with this man...",
-      "url": "https://nitter.net/WorstGenHQ/status/2084308569365586183#m",
-      "date": "Mon, 03 Aug 2026 16:01:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "56940203e885effffb4c17bd1383ebf524561cc352b980f252ac0502d2c46dfa",
