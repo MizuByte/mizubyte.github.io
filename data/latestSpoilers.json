@@ -1,111 +1,34 @@
 {
-  "generatedAt": "2026-08-03T18:52:57.932Z",
+  "generatedAt": "2026-08-03T20:23:07.100Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [
-    {
-      "id": "089d967db2ef220d6487aeb963ccf079fda08ec7ac31b7e9727f3b184423de71",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Licht pages/spread from the guide book! #BCSpoilers",
-      "text": "Licht pages/spread from the guide book! #BCSpoilers",
-      "url": "https://nitter.net/SnV_Nakimov/status/2084313041361895890#m",
-      "date": "Mon, 03 Aug 2026 16:18:48 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOz3qdwW8AA6u7H.jpg"
-      ]
-    },
-    {
-      "id": "d0792ae33b4761f7a8594932295e89874f97b0119efea4e3172f16735782fc94",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
-      "text": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2084311740985311645#m",
-      "date": "Mon, 03 Aug 2026 16:13:38 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOz2b39aUAEp2f2.jpg",
-        "https://nitter.net/pic/media%2FHOz2dZiaQAAm7z-.jpg"
-      ]
-    },
-    {
-      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
-      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
-        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
-      ]
-    },
-    {
-      "id": "61becbb10183f524b92c7d4a75444bee29cba85a792078126fe284cf8f35e0e0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
-      "text": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
-      "url": "https://nitter.net/PacemanOP/status/2082804540148199686#m",
-      "date": "Thu, 30 Jul 2026 12:24:33 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0bb926a0398ae1af63d3791e9a86c31ddef0f2c78dbdc9bf7593d093e1426aec",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Our KING #BCSpoilers",
-      "text": "Our KING #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2082790109062304161#m",
-      "date": "Thu, 30 Jul 2026 11:27:13 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
-      ]
-    },
-    {
-      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
-      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
-      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
-      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    }
-  ],
+  "spoilers": [],
   "misc": [
     {
-      "id": "d416b3f44e037e1d9de011a53a6aa89c67c26447c9bb586d6a9204943b93adf9",
+      "id": "2355c6223a93d43e301363f070808ab25ecedefd43a25d9496aa3ecd83dc0aee",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Gaban writing on Ragnir's back the solution: WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 😭😭😭😭 — https://nitter.net/WorstGenHQ/status/2084324299142287580#m",
-      "text": "#ONEPIECE1190 Gaban writing on Ragnir's back the solution: WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 😭😭😭😭 — https://nitter.net/WorstGenHQ/status/2084324299142287580#m",
-      "url": "https://nitter.net/KHDLuffy/status/2084327390272995469#m",
-      "date": "Mon, 03 Aug 2026 17:15:49 GMT",
+      "title": "#ONEPIECE1190 🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1190 🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2084352151510249648#m",
+      "date": "Mon, 03 Aug 2026 18:54:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "319941cb17d398464a9d7c6d47fb30a3ea1d379f23bc9ad0a3a8c71d1fc68bba",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RT @KHDLuffy: #ONEPIECE1190 Gaban writing on Ragnir's back the solution:",
+      "text": "RT @KHDLuffy: #ONEPIECE1190 Gaban writing on Ragnir's back the solution:",
+      "url": "https://nitter.net/WorstGenHQ/status/2084342374185193653#m",
+      "date": "Mon, 03 Aug 2026 18:15:21 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHO0Etc_WgAAH3zx.jpg",
-        "https://nitter.net/pic/media%2FHOz9AhPXEAAcEf8.png"
+        "https://nitter.net/pic/media%2FHO0Etc_WgAAH3zx.jpg"
       ]
     },
     {
@@ -167,18 +90,18 @@
       "attachments": []
     },
     {
-      "id": "5ed42fee8721317e20d3dc39d9e59f6303add89445e65f07dc8b01b710505337",
+      "id": "56940203e885effffb4c17bd1383ebf524561cc352b980f252ac0502d2c46dfa",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2084299761729859860#m",
-      "date": "Mon, 03 Aug 2026 15:26:02 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
+      "text": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
+      "url": "https://nitter.net/TheCinesthetic/status/2084077538897166464#m",
+      "date": "Mon, 03 Aug 2026 00:43:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOzqXjrXEAEfW9X.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1663369461225914368%2Fpu%2Fimg%2FTWEcR4rzT-GCO98f.jpg"
       ]
     },
     {
@@ -255,19 +178,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOzaYqQXQAAQY1L.jpg"
       ]
-    },
-    {
-      "id": "f55d348ef3ee62708cce88eeaca5166384a881201b2bdc80acd4ab6336acf54e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "8月4日（火）23時より「ファイアーエムブレム 万紫千紅 Direct 2026.8.4」を配信します。 配信時間は約20分です。どうぞお楽しみに！ #FE万紫千紅 #NintendoDirectJP nintendo.com/jp/nintendo-dir… Link ファイアーエムブレム 万紫千紅 Direct 2026.8.4 | 任天堂 8月4日（火）23時より「ファイアーエムブレム 万紫",
-      "text": "8月4日（火）23時より「ファイアーエムブレム 万紫千紅 Direct 2026.8.4」を配信します。 配信時間は約20分です。どうぞお楽しみに！ #FE万紫千紅 #NintendoDirectJP nintendo.com/jp/nintendo-dir… Link ファイアーエムブレム 万紫千紅 Direct 2026.8.4 | 任天堂 8月4日（火）23時より「ファイアーエムブレム 万紫千紅 Direct 2026.8.4」を配信します。 nintendo.com",
-      "url": "https://nitter.net/FireEmblemJP/status/2084279370311753754#m",
-      "date": "Mon, 03 Aug 2026 14:05:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
@@ -390,107 +300,31 @@
   ],
   "items": [
     {
-      "id": "089d967db2ef220d6487aeb963ccf079fda08ec7ac31b7e9727f3b184423de71",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Licht pages/spread from the guide book! #BCSpoilers",
-      "text": "Licht pages/spread from the guide book! #BCSpoilers",
-      "url": "https://nitter.net/SnV_Nakimov/status/2084313041361895890#m",
-      "date": "Mon, 03 Aug 2026 16:18:48 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOz3qdwW8AA6u7H.jpg"
-      ]
-    },
-    {
-      "id": "d0792ae33b4761f7a8594932295e89874f97b0119efea4e3172f16735782fc94",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
-      "text": "Licita and Morgen Character PV from the guidebook #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2084311740985311645#m",
-      "date": "Mon, 03 Aug 2026 16:13:38 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOz2b39aUAEp2f2.jpg",
-        "https://nitter.net/pic/media%2FHOz2dZiaQAAm7z-.jpg"
-      ]
-    },
-    {
-      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
-      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
-        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
-      ]
-    },
-    {
-      "id": "61becbb10183f524b92c7d4a75444bee29cba85a792078126fe284cf8f35e0e0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
-      "text": "Ambitious ⭐👍 Impact 🖼️ #BCSpoilers #BlackCloverS2",
-      "url": "https://nitter.net/PacemanOP/status/2082804540148199686#m",
-      "date": "Thu, 30 Jul 2026 12:24:33 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0bb926a0398ae1af63d3791e9a86c31ddef0f2c78dbdc9bf7593d093e1426aec",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Our KING #BCSpoilers",
-      "text": "Our KING #BCSpoilers",
-      "url": "https://nitter.net/PacemanOP/status/2082790109062304161#m",
-      "date": "Thu, 30 Jul 2026 11:27:13 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
-      ]
-    },
-    {
-      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
-      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
-      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
-      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
-      "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d416b3f44e037e1d9de011a53a6aa89c67c26447c9bb586d6a9204943b93adf9",
+      "id": "2355c6223a93d43e301363f070808ab25ecedefd43a25d9496aa3ecd83dc0aee",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Gaban writing on Ragnir's back the solution: WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 😭😭😭😭 — https://nitter.net/WorstGenHQ/status/2084324299142287580#m",
-      "text": "#ONEPIECE1190 Gaban writing on Ragnir's back the solution: WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 😭😭😭😭 — https://nitter.net/WorstGenHQ/status/2084324299142287580#m",
-      "url": "https://nitter.net/KHDLuffy/status/2084327390272995469#m",
-      "date": "Mon, 03 Aug 2026 17:15:49 GMT",
+      "title": "#ONEPIECE1190 🔥🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1190 🔥🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2084352151510249648#m",
+      "date": "Mon, 03 Aug 2026 18:54:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "319941cb17d398464a9d7c6d47fb30a3ea1d379f23bc9ad0a3a8c71d1fc68bba",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "RT @KHDLuffy: #ONEPIECE1190 Gaban writing on Ragnir's back the solution:",
+      "text": "RT @KHDLuffy: #ONEPIECE1190 Gaban writing on Ragnir's back the solution:",
+      "url": "https://nitter.net/WorstGenHQ/status/2084342374185193653#m",
+      "date": "Mon, 03 Aug 2026 18:15:21 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHO0Etc_WgAAH3zx.jpg",
-        "https://nitter.net/pic/media%2FHOz9AhPXEAAcEf8.png"
+        "https://nitter.net/pic/media%2FHO0Etc_WgAAH3zx.jpg"
       ]
     },
     {
@@ -552,18 +386,18 @@
       "attachments": []
     },
     {
-      "id": "5ed42fee8721317e20d3dc39d9e59f6303add89445e65f07dc8b01b710505337",
+      "id": "56940203e885effffb4c17bd1383ebf524561cc352b980f252ac0502d2c46dfa",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1190 AAAAAAAHHHHHHHHHHHHHHHH WABAAN!!!!!!!!!!!!!!!!!! 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2084299761729859860#m",
-      "date": "Mon, 03 Aug 2026 15:26:02 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
+      "text": "The way PREDATOR (1987) rolls its end credits like a feel-good sitcom will never stop being funny. Video",
+      "url": "https://nitter.net/TheCinesthetic/status/2084077538897166464#m",
+      "date": "Mon, 03 Aug 2026 00:43:00 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOzqXjrXEAEfW9X.jpg"
+        "https://nitter.net/pic/ext_tw_video_thumb%2F1663369461225914368%2Fpu%2Fimg%2FTWEcR4rzT-GCO98f.jpg"
       ]
     },
     {
@@ -640,19 +474,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOzaYqQXQAAQY1L.jpg"
       ]
-    },
-    {
-      "id": "f55d348ef3ee62708cce88eeaca5166384a881201b2bdc80acd4ab6336acf54e",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "8月4日（火）23時より「ファイアーエムブレム 万紫千紅 Direct 2026.8.4」を配信します。 配信時間は約20分です。どうぞお楽しみに！ #FE万紫千紅 #NintendoDirectJP nintendo.com/jp/nintendo-dir… Link ファイアーエムブレム 万紫千紅 Direct 2026.8.4 | 任天堂 8月4日（火）23時より「ファイアーエムブレム 万紫",
-      "text": "8月4日（火）23時より「ファイアーエムブレム 万紫千紅 Direct 2026.8.4」を配信します。 配信時間は約20分です。どうぞお楽しみに！ #FE万紫千紅 #NintendoDirectJP nintendo.com/jp/nintendo-dir… Link ファイアーエムブレム 万紫千紅 Direct 2026.8.4 | 任天堂 8月4日（火）23時より「ファイアーエムブレム 万紫千紅 Direct 2026.8.4」を配信します。 nintendo.com",
-      "url": "https://nitter.net/FireEmblemJP/status/2084279370311753754#m",
-      "date": "Mon, 03 Aug 2026 14:05:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
