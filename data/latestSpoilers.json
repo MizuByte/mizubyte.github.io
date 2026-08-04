@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:57:14.064Z",
+  "generatedAt": "2026-08-04T23:00:16.772Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -122,9 +122,37 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHOeOjmlbYAAkPxy.jpg"
       ]
+    },
+    {
+      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
+      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
+      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
+      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "misc": [
+    {
+      "id": "b775dee2be3da35797f2b1b7a59b5f68db5be4d827deb66500c40ba55898666c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life.",
+      "text": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life. 3. Now Scopper protecting Luffy, has lost his arm & could lose his life.",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2084738847020089580#m",
+      "date": "Tue, 04 Aug 2026 20:30:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO567lMXUAAUKoq.jpg"
+      ]
+    },
     {
       "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
       "anime": "onepiece",
@@ -169,21 +197,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHO4xiS5XEAAEcD_.jpg",
         "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
-      ]
-    },
-    {
-      "id": "f6011aadc65b98aafaa22d0b7c26bbffeafdc14b46e819903d907ff7ae14047d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that ",
-      "text": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that happens in the next chapter, plus, they're in the underworld (symbolism??)",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656520109650075#m",
-      "date": "Tue, 04 Aug 2026 15:03:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
       ]
     },
     {
@@ -350,19 +363,6 @@
       ]
     },
     {
-      "id": "7383d86e15d660ff16fb96e707e34a1112d8a007c02b96e2b873ede4f6bccaf7",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "RT @nite_baron: I'm flipping through the #BlackClover volumes (out of nostalgia....) and also to compile some extra pages (will post later)…",
-      "text": "RT @nite_baron: I'm flipping through the #BlackClover volumes (out of nostalgia....) and also to compile some extra pages (will post later)…",
-      "url": "https://nitter.net/PacemanOP/status/2084588435122360369#m",
-      "date": "Tue, 04 Aug 2026 10:33:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "edb8b9c273c1b26fa7d3d4d1e9e0d94ccff46b5d53e367f8d8667d43d882a16a",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -420,6 +420,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
+    },
+    {
+      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
+      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
       ]
     }
   ],
@@ -546,6 +561,34 @@
       ]
     },
     {
+      "id": "51f44ff1974eb7e13f7031bbcec838bb584a072f00966e8ff9a7e27fc565f30c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grate",
+      "text": "#BCSpoilers Special One-Shot: The 29th Wizard King's Coronation Ceremony Happy crowd waiting for Asta's coronation. Lily congratulates Asta. Noelle: \"Today I'll praise you honestly, Bakasta!! Be grateful!\" Mimosa: \"You look ever so wonderful, Asta-san!\"",
+      "url": "https://nitter.net/nite_baron/status/2082790810660008211#m",
+      "date": "Thu, 30 Jul 2026 11:30:00 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "b775dee2be3da35797f2b1b7a59b5f68db5be4d827deb66500c40ba55898666c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life.",
+      "text": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life. 3. Now Scopper protecting Luffy, has lost his arm & could lose his life.",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2084738847020089580#m",
+      "date": "Tue, 04 Aug 2026 20:30:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO567lMXUAAUKoq.jpg"
+      ]
+    },
+    {
       "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -589,21 +632,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHO4xiS5XEAAEcD_.jpg",
         "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
-      ]
-    },
-    {
-      "id": "f6011aadc65b98aafaa22d0b7c26bbffeafdc14b46e819903d907ff7ae14047d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that ",
-      "text": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that happens in the next chapter, plus, they're in the underworld (symbolism??)",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656520109650075#m",
-      "date": "Tue, 04 Aug 2026 15:03:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
       ]
     },
     {
@@ -770,19 +798,6 @@
       ]
     },
     {
-      "id": "7383d86e15d660ff16fb96e707e34a1112d8a007c02b96e2b873ede4f6bccaf7",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "RT @nite_baron: I'm flipping through the #BlackClover volumes (out of nostalgia....) and also to compile some extra pages (will post later)…",
-      "text": "RT @nite_baron: I'm flipping through the #BlackClover volumes (out of nostalgia....) and also to compile some extra pages (will post later)…",
-      "url": "https://nitter.net/PacemanOP/status/2084588435122360369#m",
-      "date": "Tue, 04 Aug 2026 10:33:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "edb8b9c273c1b26fa7d3d4d1e9e0d94ccff46b5d53e367f8d8667d43d882a16a",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -840,6 +855,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
+    },
+    {
+      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
+      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
       ]
     }
   ]
