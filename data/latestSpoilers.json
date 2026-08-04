@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-08-04T18:59:04.535Z",
+  "generatedAt": "2026-08-04T20:26:37.515Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "53088c3f66dc6c5538e6b40fe13e1ab2e173671aee4329212a0aaaa66c657724",
+      "id": "db114a20f3ae0553f524ff1d79df2caffa8ede2ba9faeea37fa22333dc411c91",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "text": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2084645602428653676#m",
-      "date": "Tue, 04 Aug 2026 14:20:17 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FAIRYTAILSPOILER OMG Laxus and Mira together... So far I like the spin off... 😍",
+      "text": "#FAIRYTAILSPOILER OMG Laxus and Mira together... So far I like the spin off... 😍",
+      "url": "https://nitter.net/WorstGenHQ/status/2084727326856691991#m",
+      "date": "Tue, 04 Aug 2026 19:45:01 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHO4iuTIWUAAGoJX.jpg"
+        "https://nitter.net/pic/media%2FHO5wZ1lXYAAjftp.png",
+        "https://nitter.net/pic/media%2FHO5wa9KWAAAKIBl.png"
       ]
     },
     {
@@ -110,81 +111,6 @@
   ],
   "misc": [
     {
-      "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 one more line..",
-      "text": "#ONEPIECE1190 one more line..",
-      "url": "https://nitter.net/pewpiece/status/2084651514035867811#m",
-      "date": "Tue, 04 Aug 2026 14:43:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4rRSZXAAA2AEv.jpg"
-      ]
-    },
-    {
-      "id": "e9a7f3fc09741671477fd2bf68490e2d7f7fac2f85f341a9fa995a597ce242ae",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece c",
-      "text": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece chapter.",
-      "url": "https://nitter.net/pewpiece/status/2084143826873049535#m",
-      "date": "Mon, 03 Aug 2026 05:06:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOxbmwxXQAAroJs.jpg"
-      ]
-    },
-    {
-      "id": "7292eb90113823f4622fd76a3ff424aea212fae3f0ed27f91db91ee10c4edaad",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "text": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "url": "https://nitter.net/pewpiece/status/2083930832100577359#m",
-      "date": "Sun, 02 Aug 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
-      ]
-    },
-    {
-      "id": "3b250aaeb7c9f7b0c7377b2061962a205a412bfdf63f064c92f8b2f602f74d22",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "text": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "url": "https://nitter.net/pewpiece/status/2083926650278777311#m",
-      "date": "Sun, 02 Aug 2026 14:43:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuYAEMXUAA8soI.jpg"
-      ]
-    },
-    {
-      "id": "3a2e5db8d7f5302d2d7f6ecbbbd3aa062537694a35264a1e0fad097317979f46",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "LOKI IS A MONSTER Video",
-      "text": "LOKI IS A MONSTER Video",
-      "url": "https://nitter.net/pewpiece/status/2083924405067911531#m",
-      "date": "Sun, 02 Aug 2026 14:34:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083924141732667392%2Fimg%2FGRx7SBw4sSXmVnEw.jpg"
-      ]
-    },
-    {
       "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -244,19 +170,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
       ]
-    },
-    {
-      "id": "6e2613d9dcdd8ab86647558af532b1fc83bbb9c82109efa0f65a81526a22745e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Picture art: instagram.com/monviph/?hl=de",
-      "text": "Picture art: instagram.com/monviph/?hl=de",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656560198803778#m",
-      "date": "Tue, 04 Aug 2026 15:03:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
@@ -403,22 +316,68 @@
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
       ]
+    },
+    {
+      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
+      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
+    },
+    {
+      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
+      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
+      ]
+    },
+    {
+      "id": "7f2e5f0cc25853edb0709dce030da7eef2df47ab3295dc004149895b649ee63d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083571003616113090#m",
+      "date": "Sat, 01 Aug 2026 15:10:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOpUyJFWMAAsFnM.jpg"
+      ]
     }
   ],
   "items": [
     {
-      "id": "53088c3f66dc6c5538e6b40fe13e1ab2e173671aee4329212a0aaaa66c657724",
+      "id": "db114a20f3ae0553f524ff1d79df2caffa8ede2ba9faeea37fa22333dc411c91",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "text": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2084645602428653676#m",
-      "date": "Tue, 04 Aug 2026 14:20:17 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#FAIRYTAILSPOILER OMG Laxus and Mira together... So far I like the spin off... 😍",
+      "text": "#FAIRYTAILSPOILER OMG Laxus and Mira together... So far I like the spin off... 😍",
+      "url": "https://nitter.net/WorstGenHQ/status/2084727326856691991#m",
+      "date": "Tue, 04 Aug 2026 19:45:01 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHO4iuTIWUAAGoJX.jpg"
+        "https://nitter.net/pic/media%2FHO5wZ1lXYAAjftp.png",
+        "https://nitter.net/pic/media%2FHO5wa9KWAAAKIBl.png"
       ]
     },
     {
@@ -512,81 +471,6 @@
       ]
     },
     {
-      "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 one more line..",
-      "text": "#ONEPIECE1190 one more line..",
-      "url": "https://nitter.net/pewpiece/status/2084651514035867811#m",
-      "date": "Tue, 04 Aug 2026 14:43:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4rRSZXAAA2AEv.jpg"
-      ]
-    },
-    {
-      "id": "e9a7f3fc09741671477fd2bf68490e2d7f7fac2f85f341a9fa995a597ce242ae",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece c",
-      "text": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece chapter.",
-      "url": "https://nitter.net/pewpiece/status/2084143826873049535#m",
-      "date": "Mon, 03 Aug 2026 05:06:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOxbmwxXQAAroJs.jpg"
-      ]
-    },
-    {
-      "id": "7292eb90113823f4622fd76a3ff424aea212fae3f0ed27f91db91ee10c4edaad",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "text": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "url": "https://nitter.net/pewpiece/status/2083930832100577359#m",
-      "date": "Sun, 02 Aug 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
-      ]
-    },
-    {
-      "id": "3b250aaeb7c9f7b0c7377b2061962a205a412bfdf63f064c92f8b2f602f74d22",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "text": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "url": "https://nitter.net/pewpiece/status/2083926650278777311#m",
-      "date": "Sun, 02 Aug 2026 14:43:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuYAEMXUAA8soI.jpg"
-      ]
-    },
-    {
-      "id": "3a2e5db8d7f5302d2d7f6ecbbbd3aa062537694a35264a1e0fad097317979f46",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "LOKI IS A MONSTER Video",
-      "text": "LOKI IS A MONSTER Video",
-      "url": "https://nitter.net/pewpiece/status/2083924405067911531#m",
-      "date": "Sun, 02 Aug 2026 14:34:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2083924141732667392%2Fimg%2FGRx7SBw4sSXmVnEw.jpg"
-      ]
-    },
-    {
       "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -646,19 +530,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
       ]
-    },
-    {
-      "id": "6e2613d9dcdd8ab86647558af532b1fc83bbb9c82109efa0f65a81526a22745e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Picture art: instagram.com/monviph/?hl=de",
-      "text": "Picture art: instagram.com/monviph/?hl=de",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656560198803778#m",
-      "date": "Tue, 04 Aug 2026 15:03:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
@@ -804,6 +675,51 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
+      ]
+    },
+    {
+      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
+      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
+    },
+    {
+      "id": "4eb3406a7d61a68868850bd7a75c7b822613661952b97d5dbbabd6a7bf6fe4da",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083837312585081226#m",
+      "date": "Sun, 02 Aug 2026 08:48:25 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOtG_R-WMAATgJg.jpg"
+      ]
+    },
+    {
+      "id": "7f2e5f0cc25853edb0709dce030da7eef2df47ab3295dc004149895b649ee63d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083571003616113090#m",
+      "date": "Sat, 01 Aug 2026 15:10:12 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOpUyJFWMAAsFnM.jpg"
       ]
     }
   ]
