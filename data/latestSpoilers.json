@@ -1,20 +1,35 @@
 {
-  "generatedAt": "2026-08-04T15:09:49.268Z",
+  "generatedAt": "2026-08-04T17:09:06.916Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "8c1e04c4e85ca077d924b08ac4b191716d7f6c21c69e5dda0dd1c16f50d34fdf",
+      "id": "53088c3f66dc6c5538e6b40fe13e1ab2e173671aee4329212a0aaaa66c657724",
       "anime": "onepiece",
       "handle": "pewpiece",
       "sourceLabel": "One Piece α",
-      "title": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "text": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "url": "https://nitter.net/pewpiece/status/2083891554406559958#m",
-      "date": "Sun, 02 Aug 2026 12:23:58 GMT",
+      "title": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
+      "text": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2084645602428653676#m",
+      "date": "Tue, 04 Aug 2026 14:20:17 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOt4Qr7WwAApIYu.jpg"
+        "https://nitter.net/pic/media%2FHO4iuTIWUAAGoJX.jpg"
+      ]
+    },
+    {
+      "id": "06b15287d02120a034156405793ba14ff21dc535b72cb593a85702933a767452",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 PRIMEROS SPOILERS ¡¡Gaban vs. Imu!! 🔥 Gracias a Pew y WorstGen",
+      "text": "#ONEPIECE1190 PRIMEROS SPOILERS ¡¡Gaban vs. Imu!! 🔥 Gracias a Pew y WorstGen",
+      "url": "https://nitter.net/BigNewsOP/status/2084658283105632410#m",
+      "date": "Tue, 04 Aug 2026 15:10:40 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4xoPtWcAAgBAx.png"
       ]
     },
     {
@@ -108,185 +123,6 @@
   ],
   "misc": [
     {
-      "id": "14ec6e82248e4b71a9de65689cea88b9a8979507e59416722341c9307d42ad86",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "月刊コミック誌「最強ジャンプ」にて『ファイアーエムブレム 万紫千紅』の漫画連載が決定しました！ 物語の序章となるプロローグ（第0話）が、9/4（金）発売の「最強ジャンプ」10月号とマンガ誌アプリ「少年ジャンプ＋」に掲載されます。 作者は今日和老（きょう かずろう）さんです。#FE万紫千紅",
-      "text": "月刊コミック誌「最強ジャンプ」にて『ファイアーエムブレム 万紫千紅』の漫画連載が決定しました！ 物語の序章となるプロローグ（第0話）が、9/4（金）発売の「最強ジャンプ」10月号とマンガ誌アプリ「少年ジャンプ＋」に掲載されます。 作者は今日和老（きょう かずろう）さんです。#FE万紫千紅",
-      "url": "https://nitter.net/FireEmblemJP/status/2084648552589050362#m",
-      "date": "Tue, 04 Aug 2026 14:32:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO0BStRaIAAb2xY.jpg"
-      ]
-    },
-    {
-      "id": "16f2ce0b9dafe2ffbc9a372d64b3094e380313d8512930185ba01820dded5f16",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Veremos qué tal implementada está la idea, pero sin duda es uno de los grandes atractivos del juego y posiblemente una de las mayores mejoras en la saga Fire Emblem 😍😍😍 Nintendo España (@NintendoES",
-      "text": "Veremos qué tal implementada está la idea, pero sin duda es uno de los grandes atractivos del juego y posiblemente una de las mayores mejoras en la saga Fire Emblem 😍😍😍 Nintendo España (@NintendoES) Cuatro héroes y cuatro sendas del destino. Alterna a tu gusto entre las distintas tramas narrativas de #FireEmblem Fortune's Weave y disfruta de la aventura a tu propio ritmo. Video — https://nitter.net/NintendoES/status/2084647089405911331#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2084648064908702096#m",
-      "date": "Tue, 04 Aug 2026 14:30:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4nepMWkAA2-D7.jpg"
-      ]
-    },
-    {
-      "id": "bce5b0bfe72be6c420f7c8d3493e4761b2fbca90bb6b74921bc8d9401296ab67",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "In Fire Emblem Fortune's Weave, you can play all four stories in parallel. You can Swap between stories/main characters anytime you want. That's a major improvement over Three Houses.",
-      "text": "In Fire Emblem Fortune's Weave, you can play all four stories in parallel. You can Swap between stories/main characters anytime you want. That's a major improvement over Three Houses.",
-      "url": "https://nitter.net/Stealth40k/status/2084644486265610528#m",
-      "date": "Tue, 04 Aug 2026 14:15:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4k9aPXMAEFAG_.jpg"
-      ]
-    },
-    {
-      "id": "1f0580724d04657c0d7e91173bf38da0d14e8999cdf7d14327c24167492fc4c7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Cuatro héroes y cuatro sendas del destino. Alterna a tu gusto entre las distintas tramas narrativas de #FireEmblem Fortune's Weave y disfruta de la aventura a tu propio ritmo. Video",
-      "text": "Cuatro héroes y cuatro sendas del destino. Alterna a tu gusto entre las distintas tramas narrativas de #FireEmblem Fortune's Weave y disfruta de la aventura a tu propio ritmo. Video",
-      "url": "https://nitter.net/NintendoES/status/2084647089405911331#m",
-      "date": "Tue, 04 Aug 2026 14:26:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4nepMWkAA2-D7.jpg"
-      ]
-    },
-    {
-      "id": "7a5fa9295088d3ea9a095848bff7e687e3fbb2a2f7da6fc38ecfb18decdecbd7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🥳 ¡El 13 DE AGOSTO, JoJo's Bizarre Adventure se convierte en nuestra primera serie en alcanzar los 100 TOMOS... ¡y queremos celebrarlo con un regalo sorpresa!",
-      "text": "🥳 ¡El 13 DE AGOSTO, JoJo's Bizarre Adventure se convierte en nuestra primera serie en alcanzar los 100 TOMOS... ¡y queremos celebrarlo con un regalo sorpresa!",
-      "url": "https://nitter.net/Ivrea/status/2084638654866100331#m",
-      "date": "Tue, 04 Aug 2026 13:52:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4fynTWIAAOwmq.jpg"
-      ]
-    },
-    {
-      "id": "ce32f256e4d9325a21a84075f1d3aaa812df0adef173764db3a47cbbd54656a3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We'll never get tired of Inomata-sensei's artworks🌟 #TalesofEterniaRemastered #TOER",
-      "text": "We'll never get tired of Inomata-sensei's artworks🌟 #TalesofEterniaRemastered #TOER",
-      "url": "https://nitter.net/TalesofSeries/status/2084640629477310962#m",
-      "date": "Tue, 04 Aug 2026 14:00:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4hlsCWUAAl2Ce.jpg"
-      ]
-    },
-    {
-      "id": "f6011aadc65b98aafaa22d0b7c26bbffeafdc14b46e819903d907ff7ae14047d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that ",
-      "text": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that happens in the next chapter, plus, they're in the underworld (symbolism??)",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656520109650075#m",
-      "date": "Tue, 04 Aug 2026 15:03:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
-      ]
-    },
-    {
-      "id": "6e2613d9dcdd8ab86647558af532b1fc83bbb9c82109efa0f65a81526a22745e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Picture art: instagram.com/monviph/?hl=de",
-      "text": "Picture art: instagram.com/monviph/?hl=de",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656560198803778#m",
-      "date": "Tue, 04 Aug 2026 15:03:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "fa9a461d27fc2b2c82962315956280f1b3c54c87b3e23b60451a6de92fb88be4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 GABAN STOCKS JUST BROKE THE MARKET 😭🔥 IMU SHOULD BE THANKFUL THIS WASN’T PRIME GABAN 💀🔥 This chapter is CRAZY HYPE he did more than Luffy/Loki at 80yo....i'am confident Luffy is gett",
-      "text": "#ONEPIECE1190 GABAN STOCKS JUST BROKE THE MARKET 😭🔥 IMU SHOULD BE THANKFUL THIS WASN’T PRIME GABAN 💀🔥 This chapter is CRAZY HYPE he did more than Luffy/Loki at 80yo....i'am confident Luffy is getting a HUGE POWER UP 👀 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process. #FEARGABAN 🔥🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084650822026047878#m",
-      "url": "https://nitter.net/dengekivinsmoke/status/2084653879178736022#m",
-      "date": "Tue, 04 Aug 2026 14:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4tZAfXUAAPIfq.jpg",
-        "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
-      ]
-    },
-    {
-      "id": "c25d041332005808f9b5f8b532db719f691c0322c8fe7d8619a0aa4752f903ec",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0%",
-      "text": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0% — 0% — 0% — 0% — 0% — 0% — 9,227 votes • 1 day",
-      "url": "https://nitter.net/WorstGenHQ/status/2084525703790305413#m",
-      "date": "Tue, 04 Aug 2026 06:23:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net"
-      ]
-    },
-    {
-      "id": "95e6bc4fbe7e8f09971e31c0d595be47ca05ba2ce609809b08fc48e424fe85ef",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process",
-      "text": "#ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process. #FEARGABAN 🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2084650822026047878#m",
-      "date": "Tue, 04 Aug 2026 14:41:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
-      ]
-    },
-    {
-      "id": "5371f248e3afd11c7687ed28ecd431df71311a6b5fafc8250fa44257b1d9bcf3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 The clash between Gaban vs Imu is so insane that a part of the Adam tree(the one who Luffy was) got cut and destroyed, they end below in underworld.",
-      "text": "#ONEPIECE1190 The clash between Gaban vs Imu is so insane that a part of the Adam tree(the one who Luffy was) got cut and destroyed, they end below in underworld.",
-      "url": "https://nitter.net/WorstGenHQ/status/2084648726371455313#m",
-      "date": "Tue, 04 Aug 2026 14:32:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4o4FjWIAAba6L.jpg"
-      ]
-    },
-    {
       "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -362,6 +198,80 @@
       ]
     },
     {
+      "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against th",
+      "text": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against the strongest character in One Piece, is crazy..",
+      "url": "https://nitter.net/WorstGenHQ/status/2084686681634939038#m",
+      "date": "Tue, 04 Aug 2026 17:03:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5LfADXgAEwg_g.png"
+      ]
+    },
+    {
+      "id": "fbd51438101b564c537794fb0b12e6ba3342ee8e4a7c87e48dcda9a4fe3c0018",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126",
+      "text": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126494777528#m",
+      "url": "https://nitter.net/yagosabuncuoglu/status/2084681248933310720#m",
+      "date": "Tue, 04 Aug 2026 16:41:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5Gi9YWgAAGqvv.jpg"
+      ]
+    },
+    {
+      "id": "7dde54360e00a24a6202b64d8b4a08404d3d156bff13a71b3b39684b51246e5b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Gear 5 Luffy couldn’t touch Imu. Dragon Loki’s Direct AP on an off guard Imu couldn’t do any damage on Imu but an ‘OLD AND INJURED GABAN’ forced Imu to block with two weapons and still landed a massiv",
+      "text": "Gear 5 Luffy couldn’t touch Imu. Dragon Loki’s Direct AP on an off guard Imu couldn’t do any damage on Imu but an ‘OLD AND INJURED GABAN’ forced Imu to block with two weapons and still landed a massive wound on Imu. MOUNTAIN EATER WHO TF ARE YOU!! #ONEPIECE1190 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process. #FEARGABAN 🔥🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084650822026047878#m",
+      "url": "https://nitter.net/muginokaizoku/status/2084658162553008548#m",
+      "date": "Tue, 04 Aug 2026 15:10:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4xiS5XEAAEcD_.jpg",
+        "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
+      ]
+    },
+    {
+      "id": "f6011aadc65b98aafaa22d0b7c26bbffeafdc14b46e819903d907ff7ae14047d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that ",
+      "text": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that happens in the next chapter, plus, they're in the underworld (symbolism??)",
+      "url": "https://nitter.net/WorstGenHQ/status/2084656520109650075#m",
+      "date": "Tue, 04 Aug 2026 15:03:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
+      ]
+    },
+    {
+      "id": "6e2613d9dcdd8ab86647558af532b1fc83bbb9c82109efa0f65a81526a22745e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Picture art: instagram.com/monviph/?hl=de",
+      "text": "Picture art: instagram.com/monviph/?hl=de",
+      "url": "https://nitter.net/WorstGenHQ/status/2084656560198803778#m",
+      "date": "Tue, 04 Aug 2026 15:03:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -403,22 +313,142 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+      ]
+    },
+    {
+      "id": "691d87c12d2d11cfb04b1de1e17a49d366f2bff08bfc0cd151fa1ee2e96b7218",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "US Americans in the comments are like Boruto haters: They both have a basically non existent reading comprehension #BORUTO Pop Base (@PopBase) France recorded its hottest-ever day yesterday with an av",
+      "text": "US Americans in the comments are like Boruto haters: They both have a basically non existent reading comprehension #BORUTO Pop Base (@PopBase) France recorded its hottest-ever day yesterday with an average temperature of 29.8°C Around 40 people are confirmed to have drowned while swimming in efforts to cool down. (theguardian.com/world/2026/j…) Community note: The 29.8°C is France's national average of day and night temperatures across 30 weather stations; local highs reached 44.3°C. The 40 drownings occurred over the past week during the heatwave. apnews.com/article/heat-w… bbc.com/news/articles/… — https://nitter.net/PopBase/status/2069754874074398969#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2069902120459915562#m",
+      "date": "Wed, 24 Jun 2026 21:54:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLk_FcxWsAAaB9O.jpg"
+      ]
+    },
+    {
+      "id": "629dbe9099b23e15ce9021694a6813d56094622fbd8ec73edf3e10fed4abe00d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Good question Hidari - And I even have a better answer for that question: He‘s gay and in love with you🤭❤️ WE (YES WE) need to start the new Ship. Spam #JuDi (Jura x Hidari) on Boruto Twitter‼️ #BORU",
+      "text": "Good question Hidari - And I even have a better answer for that question: He‘s gay and in love with you🤭❤️ WE (YES WE) need to start the new Ship. Spam #JuDi (Jura x Hidari) on Boruto Twitter‼️ #BORUTO #BorutoTwoBlueVortexCh35",
+      "url": "https://nitter.net/SchmurfiV1/status/2068400449573532005#m",
+      "date": "Sat, 20 Jun 2026 18:27:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRvPpuWYAETyRt.jpg"
+      ]
+    },
+    {
+      "id": "edb8b9c273c1b26fa7d3d4d1e9e0d94ccff46b5d53e367f8d8667d43d882a16a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2084581271770935495#m",
+      "date": "Tue, 04 Aug 2026 10:04:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO3rnK_XsAETBYg.jpg"
+      ]
+    },
+    {
+      "id": "e63debeebaeedb5ca9b24d17585ba0802acaf8b8fba2a3fa5081a61f819b9235",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2084169604092350760#m",
+      "date": "Mon, 03 Aug 2026 06:48:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOx1J_aXIAAqa_9.jpg"
+      ]
+    },
+    {
+      "id": "e989aa0c6fcf12178540060e6e8d693314fec09aa383d0a1cb31d10a01ac45e8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Vi",
+      "text": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Video",
+      "url": "https://nitter.net/lol_es/status/2083965278161965516#m",
+      "date": "Sun, 02 Aug 2026 17:16:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
+      ]
+    },
+    {
+      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
+      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
     }
   ],
   "items": [
     {
-      "id": "8c1e04c4e85ca077d924b08ac4b191716d7f6c21c69e5dda0dd1c16f50d34fdf",
+      "id": "53088c3f66dc6c5538e6b40fe13e1ab2e173671aee4329212a0aaaa66c657724",
       "anime": "onepiece",
       "handle": "pewpiece",
       "sourceLabel": "One Piece α",
-      "title": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "text": "New One Piece Card Game art for Kaido drawn by the Baki author.",
-      "url": "https://nitter.net/pewpiece/status/2083891554406559958#m",
-      "date": "Sun, 02 Aug 2026 12:23:58 GMT",
+      "title": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
+      "text": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
+      "url": "https://nitter.net/pewpiece/status/2084645602428653676#m",
+      "date": "Tue, 04 Aug 2026 14:20:17 GMT",
       "isSpoiler": true,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOt4Qr7WwAApIYu.jpg"
+        "https://nitter.net/pic/media%2FHO4iuTIWUAAGoJX.jpg"
+      ]
+    },
+    {
+      "id": "06b15287d02120a034156405793ba14ff21dc535b72cb593a85702933a767452",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 PRIMEROS SPOILERS ¡¡Gaban vs. Imu!! 🔥 Gracias a Pew y WorstGen",
+      "text": "#ONEPIECE1190 PRIMEROS SPOILERS ¡¡Gaban vs. Imu!! 🔥 Gracias a Pew y WorstGen",
+      "url": "https://nitter.net/BigNewsOP/status/2084658283105632410#m",
+      "date": "Tue, 04 Aug 2026 15:10:40 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4xoPtWcAAgBAx.png"
       ]
     },
     {
@@ -510,185 +540,6 @@
       "attachments": []
     },
     {
-      "id": "14ec6e82248e4b71a9de65689cea88b9a8979507e59416722341c9307d42ad86",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "月刊コミック誌「最強ジャンプ」にて『ファイアーエムブレム 万紫千紅』の漫画連載が決定しました！ 物語の序章となるプロローグ（第0話）が、9/4（金）発売の「最強ジャンプ」10月号とマンガ誌アプリ「少年ジャンプ＋」に掲載されます。 作者は今日和老（きょう かずろう）さんです。#FE万紫千紅",
-      "text": "月刊コミック誌「最強ジャンプ」にて『ファイアーエムブレム 万紫千紅』の漫画連載が決定しました！ 物語の序章となるプロローグ（第0話）が、9/4（金）発売の「最強ジャンプ」10月号とマンガ誌アプリ「少年ジャンプ＋」に掲載されます。 作者は今日和老（きょう かずろう）さんです。#FE万紫千紅",
-      "url": "https://nitter.net/FireEmblemJP/status/2084648552589050362#m",
-      "date": "Tue, 04 Aug 2026 14:32:00 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO0BStRaIAAb2xY.jpg"
-      ]
-    },
-    {
-      "id": "16f2ce0b9dafe2ffbc9a372d64b3094e380313d8512930185ba01820dded5f16",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Veremos qué tal implementada está la idea, pero sin duda es uno de los grandes atractivos del juego y posiblemente una de las mayores mejoras en la saga Fire Emblem 😍😍😍 Nintendo España (@NintendoES",
-      "text": "Veremos qué tal implementada está la idea, pero sin duda es uno de los grandes atractivos del juego y posiblemente una de las mayores mejoras en la saga Fire Emblem 😍😍😍 Nintendo España (@NintendoES) Cuatro héroes y cuatro sendas del destino. Alterna a tu gusto entre las distintas tramas narrativas de #FireEmblem Fortune's Weave y disfruta de la aventura a tu propio ritmo. Video — https://nitter.net/NintendoES/status/2084647089405911331#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2084648064908702096#m",
-      "date": "Tue, 04 Aug 2026 14:30:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4nepMWkAA2-D7.jpg"
-      ]
-    },
-    {
-      "id": "bce5b0bfe72be6c420f7c8d3493e4761b2fbca90bb6b74921bc8d9401296ab67",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "In Fire Emblem Fortune's Weave, you can play all four stories in parallel. You can Swap between stories/main characters anytime you want. That's a major improvement over Three Houses.",
-      "text": "In Fire Emblem Fortune's Weave, you can play all four stories in parallel. You can Swap between stories/main characters anytime you want. That's a major improvement over Three Houses.",
-      "url": "https://nitter.net/Stealth40k/status/2084644486265610528#m",
-      "date": "Tue, 04 Aug 2026 14:15:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4k9aPXMAEFAG_.jpg"
-      ]
-    },
-    {
-      "id": "1f0580724d04657c0d7e91173bf38da0d14e8999cdf7d14327c24167492fc4c7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Cuatro héroes y cuatro sendas del destino. Alterna a tu gusto entre las distintas tramas narrativas de #FireEmblem Fortune's Weave y disfruta de la aventura a tu propio ritmo. Video",
-      "text": "Cuatro héroes y cuatro sendas del destino. Alterna a tu gusto entre las distintas tramas narrativas de #FireEmblem Fortune's Weave y disfruta de la aventura a tu propio ritmo. Video",
-      "url": "https://nitter.net/NintendoES/status/2084647089405911331#m",
-      "date": "Tue, 04 Aug 2026 14:26:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4nepMWkAA2-D7.jpg"
-      ]
-    },
-    {
-      "id": "7a5fa9295088d3ea9a095848bff7e687e3fbb2a2f7da6fc38ecfb18decdecbd7",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "🥳 ¡El 13 DE AGOSTO, JoJo's Bizarre Adventure se convierte en nuestra primera serie en alcanzar los 100 TOMOS... ¡y queremos celebrarlo con un regalo sorpresa!",
-      "text": "🥳 ¡El 13 DE AGOSTO, JoJo's Bizarre Adventure se convierte en nuestra primera serie en alcanzar los 100 TOMOS... ¡y queremos celebrarlo con un regalo sorpresa!",
-      "url": "https://nitter.net/Ivrea/status/2084638654866100331#m",
-      "date": "Tue, 04 Aug 2026 13:52:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4fynTWIAAOwmq.jpg"
-      ]
-    },
-    {
-      "id": "ce32f256e4d9325a21a84075f1d3aaa812df0adef173764db3a47cbbd54656a3",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "We'll never get tired of Inomata-sensei's artworks🌟 #TalesofEterniaRemastered #TOER",
-      "text": "We'll never get tired of Inomata-sensei's artworks🌟 #TalesofEterniaRemastered #TOER",
-      "url": "https://nitter.net/TalesofSeries/status/2084640629477310962#m",
-      "date": "Tue, 04 Aug 2026 14:00:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4hlsCWUAAl2Ce.jpg"
-      ]
-    },
-    {
-      "id": "f6011aadc65b98aafaa22d0b7c26bbffeafdc14b46e819903d907ff7ae14047d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that ",
-      "text": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that happens in the next chapter, plus, they're in the underworld (symbolism??)",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656520109650075#m",
-      "date": "Tue, 04 Aug 2026 15:03:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
-      ]
-    },
-    {
-      "id": "6e2613d9dcdd8ab86647558af532b1fc83bbb9c82109efa0f65a81526a22745e",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Picture art: instagram.com/monviph/?hl=de",
-      "text": "Picture art: instagram.com/monviph/?hl=de",
-      "url": "https://nitter.net/WorstGenHQ/status/2084656560198803778#m",
-      "date": "Tue, 04 Aug 2026 15:03:49 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "fa9a461d27fc2b2c82962315956280f1b3c54c87b3e23b60451a6de92fb88be4",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 GABAN STOCKS JUST BROKE THE MARKET 😭🔥 IMU SHOULD BE THANKFUL THIS WASN’T PRIME GABAN 💀🔥 This chapter is CRAZY HYPE he did more than Luffy/Loki at 80yo....i'am confident Luffy is gett",
-      "text": "#ONEPIECE1190 GABAN STOCKS JUST BROKE THE MARKET 😭🔥 IMU SHOULD BE THANKFUL THIS WASN’T PRIME GABAN 💀🔥 This chapter is CRAZY HYPE he did more than Luffy/Loki at 80yo....i'am confident Luffy is getting a HUGE POWER UP 👀 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process. #FEARGABAN 🔥🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084650822026047878#m",
-      "url": "https://nitter.net/dengekivinsmoke/status/2084653879178736022#m",
-      "date": "Tue, 04 Aug 2026 14:53:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4tZAfXUAAPIfq.jpg",
-        "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
-      ]
-    },
-    {
-      "id": "c25d041332005808f9b5f8b532db719f691c0322c8fe7d8619a0aa4752f903ec",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0%",
-      "text": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0% — 0% — 0% — 0% — 0% — 0% — 9,227 votes • 1 day",
-      "url": "https://nitter.net/WorstGenHQ/status/2084525703790305413#m",
-      "date": "Tue, 04 Aug 2026 06:23:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net"
-      ]
-    },
-    {
-      "id": "95e6bc4fbe7e8f09971e31c0d595be47ca05ba2ce609809b08fc48e424fe85ef",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process",
-      "text": "#ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process. #FEARGABAN 🔥🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2084650822026047878#m",
-      "date": "Tue, 04 Aug 2026 14:41:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
-      ]
-    },
-    {
-      "id": "5371f248e3afd11c7687ed28ecd431df71311a6b5fafc8250fa44257b1d9bcf3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 The clash between Gaban vs Imu is so insane that a part of the Adam tree(the one who Luffy was) got cut and destroyed, they end below in underworld.",
-      "text": "#ONEPIECE1190 The clash between Gaban vs Imu is so insane that a part of the Adam tree(the one who Luffy was) got cut and destroyed, they end below in underworld.",
-      "url": "https://nitter.net/WorstGenHQ/status/2084648726371455313#m",
-      "date": "Tue, 04 Aug 2026 14:32:41 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4o4FjWIAAba6L.jpg"
-      ]
-    },
-    {
       "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -764,6 +615,80 @@
       ]
     },
     {
+      "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against th",
+      "text": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against the strongest character in One Piece, is crazy..",
+      "url": "https://nitter.net/WorstGenHQ/status/2084686681634939038#m",
+      "date": "Tue, 04 Aug 2026 17:03:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5LfADXgAEwg_g.png"
+      ]
+    },
+    {
+      "id": "fbd51438101b564c537794fb0b12e6ba3342ee8e4a7c87e48dcda9a4fe3c0018",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126",
+      "text": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126494777528#m",
+      "url": "https://nitter.net/yagosabuncuoglu/status/2084681248933310720#m",
+      "date": "Tue, 04 Aug 2026 16:41:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5Gi9YWgAAGqvv.jpg"
+      ]
+    },
+    {
+      "id": "7dde54360e00a24a6202b64d8b4a08404d3d156bff13a71b3b39684b51246e5b",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Gear 5 Luffy couldn’t touch Imu. Dragon Loki’s Direct AP on an off guard Imu couldn’t do any damage on Imu but an ‘OLD AND INJURED GABAN’ forced Imu to block with two weapons and still landed a massiv",
+      "text": "Gear 5 Luffy couldn’t touch Imu. Dragon Loki’s Direct AP on an off guard Imu couldn’t do any damage on Imu but an ‘OLD AND INJURED GABAN’ forced Imu to block with two weapons and still landed a massive wound on Imu. MOUNTAIN EATER WHO TF ARE YOU!! #ONEPIECE1190 WorstGenHQ (@WorstGenHQ) #ONEPIECE1190 Gaban unleashes a fierce barrage of slashes; Imu counters with his axe and sword, resulting in an epic clash and Gaban manages to wound Imu!! However, Gaban loses his hand in the process. #FEARGABAN 🔥🔥🔥🔥🔥🔥 — https://nitter.net/WorstGenHQ/status/2084650822026047878#m",
+      "url": "https://nitter.net/muginokaizoku/status/2084658162553008548#m",
+      "date": "Tue, 04 Aug 2026 15:10:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4xiS5XEAAEcD_.jpg",
+        "https://nitter.net/pic/media%2FHO4qhPHWkAA6pp5.jpg"
+      ]
+    },
+    {
+      "id": "f6011aadc65b98aafaa22d0b7c26bbffeafdc14b46e819903d907ff7ae14047d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that ",
+      "text": "#ONEPIECE1190 \"Luffy is shocked to see the injured Gaban lying on the ground, missing an arm\" Oh man, are we in for a \"God of Destruction\" version of Nika Luffy!? I would totally lose my mind if that happens in the next chapter, plus, they're in the underworld (symbolism??)",
+      "url": "https://nitter.net/WorstGenHQ/status/2084656520109650075#m",
+      "date": "Tue, 04 Aug 2026 15:03:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4v3vFWkAApaXb.jpg"
+      ]
+    },
+    {
+      "id": "6e2613d9dcdd8ab86647558af532b1fc83bbb9c82109efa0f65a81526a22745e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Picture art: instagram.com/monviph/?hl=de",
+      "text": "Picture art: instagram.com/monviph/?hl=de",
+      "url": "https://nitter.net/WorstGenHQ/status/2084656560198803778#m",
+      "date": "Tue, 04 Aug 2026 15:03:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -805,6 +730,111 @@
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
+    },
+    {
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+      ]
+    },
+    {
+      "id": "691d87c12d2d11cfb04b1de1e17a49d366f2bff08bfc0cd151fa1ee2e96b7218",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "US Americans in the comments are like Boruto haters: They both have a basically non existent reading comprehension #BORUTO Pop Base (@PopBase) France recorded its hottest-ever day yesterday with an av",
+      "text": "US Americans in the comments are like Boruto haters: They both have a basically non existent reading comprehension #BORUTO Pop Base (@PopBase) France recorded its hottest-ever day yesterday with an average temperature of 29.8°C Around 40 people are confirmed to have drowned while swimming in efforts to cool down. (theguardian.com/world/2026/j…) Community note: The 29.8°C is France's national average of day and night temperatures across 30 weather stations; local highs reached 44.3°C. The 40 drownings occurred over the past week during the heatwave. apnews.com/article/heat-w… bbc.com/news/articles/… — https://nitter.net/PopBase/status/2069754874074398969#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2069902120459915562#m",
+      "date": "Wed, 24 Jun 2026 21:54:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLk_FcxWsAAaB9O.jpg"
+      ]
+    },
+    {
+      "id": "629dbe9099b23e15ce9021694a6813d56094622fbd8ec73edf3e10fed4abe00d",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Good question Hidari - And I even have a better answer for that question: He‘s gay and in love with you🤭❤️ WE (YES WE) need to start the new Ship. Spam #JuDi (Jura x Hidari) on Boruto Twitter‼️ #BORU",
+      "text": "Good question Hidari - And I even have a better answer for that question: He‘s gay and in love with you🤭❤️ WE (YES WE) need to start the new Ship. Spam #JuDi (Jura x Hidari) on Boruto Twitter‼️ #BORUTO #BorutoTwoBlueVortexCh35",
+      "url": "https://nitter.net/SchmurfiV1/status/2068400449573532005#m",
+      "date": "Sat, 20 Jun 2026 18:27:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHLRvPpuWYAETyRt.jpg"
+      ]
+    },
+    {
+      "id": "edb8b9c273c1b26fa7d3d4d1e9e0d94ccff46b5d53e367f8d8667d43d882a16a",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2084581271770935495#m",
+      "date": "Tue, 04 Aug 2026 10:04:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO3rnK_XsAETBYg.jpg"
+      ]
+    },
+    {
+      "id": "e63debeebaeedb5ca9b24d17585ba0802acaf8b8fba2a3fa5081a61f819b9235",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2084169604092350760#m",
+      "date": "Mon, 03 Aug 2026 06:48:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOx1J_aXIAAqa_9.jpg"
+      ]
+    },
+    {
+      "id": "e989aa0c6fcf12178540060e6e8d693314fec09aa383d0a1cb31d10a01ac45e8",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Vi",
+      "text": "Yo antes tenía un amigo - LoL Classic en la comunidad --- Cada uno contamos la historia a nuestra manera. Cada uno con su propia versión. Y aún así cuando nos juntamos, todas las versiones encajan. Video",
+      "url": "https://nitter.net/lol_es/status/2083965278161965516#m",
+      "date": "Sun, 02 Aug 2026 17:16:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2083964738292080640%2Fimg%2Fr5vXUGLjAjqhUA0J.jpg"
+      ]
+    },
+    {
+      "id": "877e9d1cb5376c417d95a0e6c84fe7599b06b794ccb2b8e05fbe68759058da5e",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2083907141694378085#m",
+      "date": "Sun, 02 Aug 2026 13:25:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuGf06WMAASWjy.jpg"
+      ]
     }
   ]
 }
