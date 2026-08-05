@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-08-05T11:33:15.682Z",
+  "generatedAt": "2026-08-05T13:22:15.645Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "53088c3f66dc6c5538e6b40fe13e1ab2e173671aee4329212a0aaaa66c657724",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "text": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2084645602428653676#m",
-      "date": "Tue, 04 Aug 2026 14:20:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4iuTIWUAAGoJX.jpg"
-      ]
-    },
     {
       "id": "db114a20f3ae0553f524ff1d79df2caffa8ede2ba9faeea37fa22333dc411c91",
       "anime": "onepiece",
@@ -31,6 +16,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHO5wZ1lXYAAjftp.png",
         "https://nitter.net/pic/media%2FHO5wa9KWAAAKIBl.png"
+      ]
+    },
+    {
+      "id": "8c1e04c4e85ca077d924b08ac4b191716d7f6c21c69e5dda0dd1c16f50d34fdf",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New One Piece Card Game art for Kaido drawn by the Baki author.",
+      "text": "New One Piece Card Game art for Kaido drawn by the Baki author.",
+      "url": "https://nitter.net/pewpiece/status/2083891554406559958#m",
+      "date": "Sun, 02 Aug 2026 12:23:58 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOt4Qr7WwAApIYu.jpg"
       ]
     },
     {
@@ -111,6 +111,88 @@
   ],
   "misc": [
     {
+      "id": "11396a2d5b5c3ede8242586110ff5b5cccd117b25fba5aa319d4aa6d0e97f9f6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu swo",
+      "text": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu sword collection became more and more scary... The Will of Marco (マルコの意志) (@TheWillOfMarco) #ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history. — https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2084872117112217766#m",
+      "date": "Wed, 05 Aug 2026 05:20:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO70I9lXAAA_lgA.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
+      ]
+    },
+    {
+      "id": "2c6bfd86d18d9dbbb0b55ca9f1deebff8b13b1ce26f060cd17aaa18952068927",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" o",
+      "text": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history.",
+      "url": "https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
+      "date": "Wed, 05 Aug 2026 00:18:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
+      ]
+    },
+    {
+      "id": "b775dee2be3da35797f2b1b7a59b5f68db5be4d827deb66500c40ba55898666c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life.",
+      "text": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life. 3. Now Scopper protecting Luffy, has lost his arm & could lose his life.",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2084738847020089580#m",
+      "date": "Tue, 04 Aug 2026 20:30:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO567lMXUAAUKoq.jpg"
+      ]
+    },
+    {
+      "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against th",
+      "text": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against the strongest character in One Piece, is crazy..",
+      "url": "https://nitter.net/WorstGenHQ/status/2084686681634939038#m",
+      "date": "Tue, 04 Aug 2026 17:03:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5LfADXgAEwg_g.png"
+      ]
+    },
+    {
+      "id": "fbd51438101b564c537794fb0b12e6ba3342ee8e4a7c87e48dcda9a4fe3c0018",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126",
+      "text": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126494777528#m",
+      "url": "https://nitter.net/yagosabuncuoglu/status/2084681248933310720#m",
+      "date": "Tue, 04 Aug 2026 16:41:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5Gi9YWgAAGqvv.jpg"
+      ]
+    },
+    {
       "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -183,88 +265,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2083924141732667392%2Fimg%2FGRx7SBw4sSXmVnEw.jpg"
-      ]
-    },
-    {
-      "id": "b2a7c318cac585b5e8e8c43c3dcdcb44a813ce8a3070985cfb1dc197fafd3e12",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 The significance of this is massive; Luffy is going to lose it... This is the second time a Roger Pirate has lost a hand because of him while protecting him. We aren't ready for Angry Lu",
-      "text": "#ONEPIECE1190 The significance of this is massive; Luffy is going to lose it... This is the second time a Roger Pirate has lost a hand because of him while protecting him. We aren't ready for Angry Luffy, it’s going to be huge, guys... Powerup incoming...",
-      "url": "https://nitter.net/WorstGenHQ/status/2084898102780030998#m",
-      "date": "Wed, 05 Aug 2026 07:03:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO8LVzMWcAEswQs.jpg"
-      ]
-    },
-    {
-      "id": "11396a2d5b5c3ede8242586110ff5b5cccd117b25fba5aa319d4aa6d0e97f9f6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu swo",
-      "text": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu sword collection became more and more scary... The Will of Marco (マルコの意志) (@TheWillOfMarco) #ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history. — https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2084872117112217766#m",
-      "date": "Wed, 05 Aug 2026 05:20:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO70I9lXAAA_lgA.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
-      ]
-    },
-    {
-      "id": "2c6bfd86d18d9dbbb0b55ca9f1deebff8b13b1ce26f060cd17aaa18952068927",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" o",
-      "text": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history.",
-      "url": "https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
-      "date": "Wed, 05 Aug 2026 00:18:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
-      ]
-    },
-    {
-      "id": "b775dee2be3da35797f2b1b7a59b5f68db5be4d827deb66500c40ba55898666c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life.",
-      "text": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life. 3. Now Scopper protecting Luffy, has lost his arm & could lose his life.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2084738847020089580#m",
-      "date": "Tue, 04 Aug 2026 20:30:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO567lMXUAAUKoq.jpg"
-      ]
-    },
-    {
-      "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against th",
-      "text": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against the strongest character in One Piece, is crazy..",
-      "url": "https://nitter.net/WorstGenHQ/status/2084686681634939038#m",
-      "date": "Tue, 04 Aug 2026 17:03:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO5LfADXgAEwg_g.png"
       ]
     },
     {
@@ -416,21 +416,6 @@
   ],
   "items": [
     {
-      "id": "53088c3f66dc6c5538e6b40fe13e1ab2e173671aee4329212a0aaaa66c657724",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "text": "#ONEPIECE1190 BRIEF SPOILERS FOR ONEPIECE CHAPTER 1190 BY ME",
-      "url": "https://nitter.net/pewpiece/status/2084645602428653676#m",
-      "date": "Tue, 04 Aug 2026 14:20:17 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4iuTIWUAAGoJX.jpg"
-      ]
-    },
-    {
       "id": "db114a20f3ae0553f524ff1d79df2caffa8ede2ba9faeea37fa22333dc411c91",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -444,6 +429,21 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHO5wZ1lXYAAjftp.png",
         "https://nitter.net/pic/media%2FHO5wa9KWAAAKIBl.png"
+      ]
+    },
+    {
+      "id": "8c1e04c4e85ca077d924b08ac4b191716d7f6c21c69e5dda0dd1c16f50d34fdf",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New One Piece Card Game art for Kaido drawn by the Baki author.",
+      "text": "New One Piece Card Game art for Kaido drawn by the Baki author.",
+      "url": "https://nitter.net/pewpiece/status/2083891554406559958#m",
+      "date": "Sun, 02 Aug 2026 12:23:58 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOt4Qr7WwAApIYu.jpg"
       ]
     },
     {
@@ -522,6 +522,88 @@
       ]
     },
     {
+      "id": "11396a2d5b5c3ede8242586110ff5b5cccd117b25fba5aa319d4aa6d0e97f9f6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu swo",
+      "text": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu sword collection became more and more scary... The Will of Marco (マルコの意志) (@TheWillOfMarco) #ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history. — https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2084872117112217766#m",
+      "date": "Wed, 05 Aug 2026 05:20:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO70I9lXAAA_lgA.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
+      ]
+    },
+    {
+      "id": "2c6bfd86d18d9dbbb0b55ca9f1deebff8b13b1ce26f060cd17aaa18952068927",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" o",
+      "text": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history.",
+      "url": "https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
+      "date": "Wed, 05 Aug 2026 00:18:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
+        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
+      ]
+    },
+    {
+      "id": "b775dee2be3da35797f2b1b7a59b5f68db5be4d827deb66500c40ba55898666c",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life.",
+      "text": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life. 3. Now Scopper protecting Luffy, has lost his arm & could lose his life.",
+      "url": "https://nitter.net/BlacktyonteXavi/status/2084738847020089580#m",
+      "date": "Tue, 04 Aug 2026 20:30:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO567lMXUAAUKoq.jpg"
+      ]
+    },
+    {
+      "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against th",
+      "text": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against the strongest character in One Piece, is crazy..",
+      "url": "https://nitter.net/WorstGenHQ/status/2084686681634939038#m",
+      "date": "Tue, 04 Aug 2026 17:03:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5LfADXgAEwg_g.png"
+      ]
+    },
+    {
+      "id": "fbd51438101b564c537794fb0b12e6ba3342ee8e4a7c87e48dcda9a4fe3c0018",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126",
+      "text": "🚨 Mohamed Salah yarın 12'de İstanbul'da olacak. Yağız Sabuncuoğlu (@yagosabuncuoglu) 🚨 Trabzonspor, Mohamed Salah ile 2 yıllık anlaşmaya vardı. — https://nitter.net/yagosabuncuoglu/status/2084632126494777528#m",
+      "url": "https://nitter.net/yagosabuncuoglu/status/2084681248933310720#m",
+      "date": "Tue, 04 Aug 2026 16:41:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO5Gi9YWgAAGqvv.jpg"
+      ]
+    },
+    {
       "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -594,88 +676,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2083924141732667392%2Fimg%2FGRx7SBw4sSXmVnEw.jpg"
-      ]
-    },
-    {
-      "id": "b2a7c318cac585b5e8e8c43c3dcdcb44a813ce8a3070985cfb1dc197fafd3e12",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 The significance of this is massive; Luffy is going to lose it... This is the second time a Roger Pirate has lost a hand because of him while protecting him. We aren't ready for Angry Lu",
-      "text": "#ONEPIECE1190 The significance of this is massive; Luffy is going to lose it... This is the second time a Roger Pirate has lost a hand because of him while protecting him. We aren't ready for Angry Luffy, it’s going to be huge, guys... Powerup incoming...",
-      "url": "https://nitter.net/WorstGenHQ/status/2084898102780030998#m",
-      "date": "Wed, 05 Aug 2026 07:03:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO8LVzMWcAEswQs.jpg"
-      ]
-    },
-    {
-      "id": "11396a2d5b5c3ede8242586110ff5b5cccd117b25fba5aa319d4aa6d0e97f9f6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu swo",
-      "text": "#ONEPIECE1190 No wonder why Gaban lost his arm. With a broken sword(and im sure it has a ability like that where Imu can cut anyone without touching them), every top tier would get problems... Imu sword collection became more and more scary... The Will of Marco (マルコの意志) (@TheWillOfMarco) #ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history. — https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2084872117112217766#m",
-      "date": "Wed, 05 Aug 2026 05:20:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO70I9lXAAA_lgA.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
-      ]
-    },
-    {
-      "id": "2c6bfd86d18d9dbbb0b55ca9f1deebff8b13b1ce26f060cd17aaa18952068927",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" o",
-      "text": "#ONEPIECE1190 Imu's new weapon is called Honebami (骨喰)—literally meaning \"Bone-Eater\" or \"Bone-Devourer.\" The name comes from 骨 (hone) meaning \"bone\" and 喰 (bami) meaning \"to eat,\" \"devour,\" \"bite,\" or \"consume.\" This is a homage to the legendary Japanese blade Honebami Tōshirō (骨喰藤四郎). It was forged by the master Japanese swordsmith Awataguchi Tōshirō Yoshimitsu (粟田口藤四郎吉光) during the Kamakura Period. \"Honebami Tōshirō\" essentially means \"Honebami, forged by Tōshirō.\" According to legend, Honebami was so extraordinarily sharp that merely pointing it at someone could shatter their bones, even before making contact—a mythical tale meant to emphasize its terrifying cutting power. Interestingly, the original Honebami was first forged as a naginata (polearm) before later being shortened into a wakizashi (short sword), while retaining its legendary name throughout history.",
-      "url": "https://nitter.net/TheWillOfMarco/status/2084796225057092031#m",
-      "date": "Wed, 05 Aug 2026 00:18:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO6sZ44aIAAOyn7.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ4-a4AA3MJR.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ49a8AAUfEz.jpg",
-        "https://nitter.net/pic/media%2FHO6sZ45aYAA1kXM.jpg"
-      ]
-    },
-    {
-      "id": "b775dee2be3da35797f2b1b7a59b5f68db5be4d827deb66500c40ba55898666c",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life.",
-      "text": "[#ONEPIECE1190] This really poetic yall, 3 people that protected luffy, during life & death situations lost something. 1. Shanks protected Luffy & lost his arm. 2. Ace protected Luffy & lost his life. 3. Now Scopper protecting Luffy, has lost his arm & could lose his life.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2084738847020089580#m",
-      "date": "Tue, 04 Aug 2026 20:30:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO567lMXUAAUKoq.jpg"
-      ]
-    },
-    {
-      "id": "842332f907a8b710875f06337d1309ed74482bdaaf45a3542025eb2bd0dbaea1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against th",
-      "text": "#ONEPIECE1190 The clash between Imu and Gaban is so crazy that these mfs just destroy one huge ass branch of the adam tree... He is beyond his Prime, Old and also injuried, but what he does against the strongest character in One Piece, is crazy..",
-      "url": "https://nitter.net/WorstGenHQ/status/2084686681634939038#m",
-      "date": "Tue, 04 Aug 2026 17:03:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO5LfADXgAEwg_g.png"
       ]
     },
     {
