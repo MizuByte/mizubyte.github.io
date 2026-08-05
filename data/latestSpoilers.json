@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:53:47.097Z",
+  "generatedAt": "2026-08-05T23:55:04.371Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,22 +47,6 @@
         "https://nitter.net/pic/media%2FHOz2b39aUAEp2f2.jpg",
         "https://nitter.net/pic/media%2FHOz2dZiaQAAm7z-.jpg"
       ]
-    },
-    {
-      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
-      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
-        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
-      ]
     }
   ],
   "misc": [
@@ -97,12 +81,12 @@
       ]
     },
     {
-      "id": "2daebc95d3f888b16f99ac737cf3a7ec01d57fc8d771f720cc2528d8b5f9cd27",
+      "id": "12b209f26ca6e91abc4089331bdcb531b77efea0adb47f4780f67587f2c63106",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
       "title": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0%",
-      "text": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0% — 0% — 0% — 0% — 0% — 0% — 11,434 votes • 7 hours",
+      "text": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0% — 0% — 0% — 0% — 0% — 0% — 11,458 votes • 6 hours",
       "url": "https://nitter.net/WorstGenHQ/status/2084525703790305413#m",
       "date": "Tue, 04 Aug 2026 06:23:51 GMT",
       "isSpoiler": false,
@@ -235,47 +219,6 @@
       ]
     },
     {
-      "id": "ea97a4d3966626404f7fd2c1840c1f7f40dfd820ed94f595ced8931e65a9dbb5",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ep 43 poem for Zaraki #Bleach",
-      "text": "Ep 43 poem for Zaraki #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2085048592033890434#m",
-      "date": "Wed, 05 Aug 2026 17:01:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO-Uo49a8AA2BsF.jpg"
-      ]
-    },
-    {
-      "id": "e8e3093d4e3dc5281a63c0315b85517c03dfb45372968abbef679e9599aa7952",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Adult Yachiru women voice",
-      "text": "Adult Yachiru women voice",
-      "url": "https://nitter.net/PacemanOP/status/2085049532979806693#m",
-      "date": "Wed, 05 Aug 2026 17:05:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0bd8c34514ef899cc194c4c7ac3ca16d0504e17de2b3d1240b5f0e7c11e677be",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
-      "text": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2085019723826348236#m",
-      "date": "Wed, 05 Aug 2026 15:06:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -362,6 +305,47 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvPpuWYAETyRt.jpg"
       ]
+    },
+    {
+      "id": "ea97a4d3966626404f7fd2c1840c1f7f40dfd820ed94f595ced8931e65a9dbb5",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ep 43 poem for Zaraki #Bleach",
+      "text": "Ep 43 poem for Zaraki #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2085048592033890434#m",
+      "date": "Wed, 05 Aug 2026 17:01:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO-Uo49a8AA2BsF.jpg"
+      ]
+    },
+    {
+      "id": "e8e3093d4e3dc5281a63c0315b85517c03dfb45372968abbef679e9599aa7952",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Adult Yachiru women voice",
+      "text": "Adult Yachiru women voice",
+      "url": "https://nitter.net/PacemanOP/status/2085049532979806693#m",
+      "date": "Wed, 05 Aug 2026 17:05:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0bd8c34514ef899cc194c4c7ac3ca16d0504e17de2b3d1240b5f0e7c11e677be",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
+      "text": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2085019723826348236#m",
+      "date": "Wed, 05 Aug 2026 15:06:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ],
   "items": [
@@ -412,22 +396,6 @@
       ]
     },
     {
-      "id": "b80dcbf78a7890774b3ef35784872bdc36f31c1b1856f9bbc20d916f348453ed",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "text": "Nacht Faust Details from the Guidebook #BCSpoilers #BlackClover",
-      "url": "https://nitter.net/PacemanOP/status/2083995637461475337#m",
-      "date": "Sun, 02 Aug 2026 19:17:33 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOvW-WoaYAA72jE.jpg",
-        "https://nitter.net/pic/media%2FHOvW--ibIAEzF9e.jpg"
-      ]
-    },
-    {
       "id": "90131b67bf560074ff40c986e219d915db408fb7b4bbaed1ba2f8f4020510e1c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -458,12 +426,12 @@
       ]
     },
     {
-      "id": "2daebc95d3f888b16f99ac737cf3a7ec01d57fc8d771f720cc2528d8b5f9cd27",
+      "id": "12b209f26ca6e91abc4089331bdcb531b77efea0adb47f4780f67587f2c63106",
       "anime": "onepiece",
       "handle": "worstgenhq",
       "sourceLabel": "One Piece β",
       "title": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0%",
-      "text": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0% — 0% — 0% — 0% — 0% — 0% — 11,434 votes • 7 hours",
+      "text": "#ONEPIECE1190 Honest opinion, are Prime Rayleigh and Prime Gaban over Yonkou like Kaido/Big Mom? Given how crazy Oda wanked both? Poll 68% — Yes, they are above them 32% — No,Yonkou duo are stronge 0% — 0% — 0% — 0% — 0% — 0% — 11,458 votes • 6 hours",
       "url": "https://nitter.net/WorstGenHQ/status/2084525703790305413#m",
       "date": "Tue, 04 Aug 2026 06:23:51 GMT",
       "isSpoiler": false,
@@ -596,47 +564,6 @@
       ]
     },
     {
-      "id": "ea97a4d3966626404f7fd2c1840c1f7f40dfd820ed94f595ced8931e65a9dbb5",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Ep 43 poem for Zaraki #Bleach",
-      "text": "Ep 43 poem for Zaraki #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2085048592033890434#m",
-      "date": "Wed, 05 Aug 2026 17:01:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO-Uo49a8AA2BsF.jpg"
-      ]
-    },
-    {
-      "id": "e8e3093d4e3dc5281a63c0315b85517c03dfb45372968abbef679e9599aa7952",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Adult Yachiru women voice",
-      "text": "Adult Yachiru women voice",
-      "url": "https://nitter.net/PacemanOP/status/2085049532979806693#m",
-      "date": "Wed, 05 Aug 2026 17:05:21 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "0bd8c34514ef899cc194c4c7ac3ca16d0504e17de2b3d1240b5f0e7c11e677be",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
-      "text": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2085019723826348236#m",
-      "date": "Wed, 05 Aug 2026 15:06:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -723,6 +650,47 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHLRvPpuWYAETyRt.jpg"
       ]
+    },
+    {
+      "id": "ea97a4d3966626404f7fd2c1840c1f7f40dfd820ed94f595ced8931e65a9dbb5",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Ep 43 poem for Zaraki #Bleach",
+      "text": "Ep 43 poem for Zaraki #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2085048592033890434#m",
+      "date": "Wed, 05 Aug 2026 17:01:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO-Uo49a8AA2BsF.jpg"
+      ]
+    },
+    {
+      "id": "e8e3093d4e3dc5281a63c0315b85517c03dfb45372968abbef679e9599aa7952",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Adult Yachiru women voice",
+      "text": "Adult Yachiru women voice",
+      "url": "https://nitter.net/PacemanOP/status/2085049532979806693#m",
+      "date": "Wed, 05 Aug 2026 17:05:21 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "0bd8c34514ef899cc194c4c7ac3ca16d0504e17de2b3d1240b5f0e7c11e677be",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
+      "text": "Bleach TYBW Final Arc Ep 44 Title - The Perfect Crimson #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2085019723826348236#m",
+      "date": "Wed, 05 Aug 2026 15:06:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
     }
   ]
 }
