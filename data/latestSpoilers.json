@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:54:13.630Z",
+  "generatedAt": "2026-08-08T15:23:20.303Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,21 @@
     }
   ],
   "misc": [
+    {
+      "id": "6d5f2d73aa129e88ea0abab0eed73130c9cf3f2f0e8deb98c765585f0e7858b5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "text": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2086106620132544830#m",
+      "date": "Sat, 08 Aug 2026 15:05:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPNW5QrW8AAysqr.jpg"
+      ]
+    },
     {
       "id": "ee5d43351d3ce2a1dc8e5054496e25b735025dd18e8b97525646308101c808dc",
       "anime": "onepiece",
@@ -77,21 +92,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
-      ]
-    },
-    {
-      "id": "3b250aaeb7c9f7b0c7377b2061962a205a412bfdf63f064c92f8b2f602f74d22",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "text": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "url": "https://nitter.net/pewpiece/status/2083926650278777311#m",
-      "date": "Sun, 02 Aug 2026 14:43:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuYAEMXUAA8soI.jpg"
       ]
     },
     {
@@ -341,6 +341,21 @@
       ]
     },
     {
+      "id": "6d5f2d73aa129e88ea0abab0eed73130c9cf3f2f0e8deb98c765585f0e7858b5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "text": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2086106620132544830#m",
+      "date": "Sat, 08 Aug 2026 15:05:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPNW5QrW8AAysqr.jpg"
+      ]
+    },
+    {
       "id": "ee5d43351d3ce2a1dc8e5054496e25b735025dd18e8b97525646308101c808dc",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -398,21 +413,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
-      ]
-    },
-    {
-      "id": "3b250aaeb7c9f7b0c7377b2061962a205a412bfdf63f064c92f8b2f602f74d22",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "text": "First Look at the Children of Elbaph's Greatest Fears in onepiece anime, Dream Monsters",
-      "url": "https://nitter.net/pewpiece/status/2083926650278777311#m",
-      "date": "Sun, 02 Aug 2026 14:43:25 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuYAEMXUAA8soI.jpg"
       ]
     },
     {
