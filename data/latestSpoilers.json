@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:20:34.484Z",
+  "generatedAt": "2026-08-09T14:56:48.780Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -19,6 +19,81 @@
     }
   ],
   "misc": [
+    {
+      "id": "6d5f2d73aa129e88ea0abab0eed73130c9cf3f2f0e8deb98c765585f0e7858b5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "text": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2086106620132544830#m",
+      "date": "Sat, 08 Aug 2026 15:05:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPNW5QrW8AAysqr.jpg"
+      ]
+    },
+    {
+      "id": "ee5d43351d3ce2a1dc8e5054496e25b735025dd18e8b97525646308101c808dc",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
+      "text": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2085744950956712302#m",
+      "date": "Fri, 07 Aug 2026 15:08:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPIN4gYW8AAqeu9.jpg"
+      ]
+    },
+    {
+      "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1190 one more line..",
+      "text": "#ONEPIECE1190 one more line..",
+      "url": "https://nitter.net/pewpiece/status/2084651514035867811#m",
+      "date": "Tue, 04 Aug 2026 14:43:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4rRSZXAAA2AEv.jpg"
+      ]
+    },
+    {
+      "id": "e9a7f3fc09741671477fd2bf68490e2d7f7fac2f85f341a9fa995a597ce242ae",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece c",
+      "text": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece chapter.",
+      "url": "https://nitter.net/pewpiece/status/2084143826873049535#m",
+      "date": "Mon, 03 Aug 2026 05:06:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOxbmwxXQAAroJs.jpg"
+      ]
+    },
+    {
+      "id": "7292eb90113823f4622fd76a3ff424aea212fae3f0ed27f91db91ee10c4edaad",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
+      "text": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
+      "url": "https://nitter.net/pewpiece/status/2083930832100577359#m",
+      "date": "Sun, 02 Aug 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
+      ]
+    },
     {
       "id": "d6c1cda2ce464d4afe93eb2aed078db21c2e52aacf59027aa25df2bd79f5918c",
       "anime": "onepiece",
@@ -112,81 +187,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPM38V-XAAAXxjA.jpg",
         "https://nitter.net/pic/media%2FHPG1qzTXcAAhEDp.png"
-      ]
-    },
-    {
-      "id": "6d5f2d73aa129e88ea0abab0eed73130c9cf3f2f0e8deb98c765585f0e7858b5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
-      "text": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
-      "url": "https://nitter.net/pewpiece/status/2086106620132544830#m",
-      "date": "Sat, 08 Aug 2026 15:05:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPNW5QrW8AAysqr.jpg"
-      ]
-    },
-    {
-      "id": "ee5d43351d3ce2a1dc8e5054496e25b735025dd18e8b97525646308101c808dc",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
-      "text": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
-      "url": "https://nitter.net/pewpiece/status/2085744950956712302#m",
-      "date": "Fri, 07 Aug 2026 15:08:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPIN4gYW8AAqeu9.jpg"
-      ]
-    },
-    {
-      "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 one more line..",
-      "text": "#ONEPIECE1190 one more line..",
-      "url": "https://nitter.net/pewpiece/status/2084651514035867811#m",
-      "date": "Tue, 04 Aug 2026 14:43:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4rRSZXAAA2AEv.jpg"
-      ]
-    },
-    {
-      "id": "e9a7f3fc09741671477fd2bf68490e2d7f7fac2f85f341a9fa995a597ce242ae",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece c",
-      "text": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece chapter.",
-      "url": "https://nitter.net/pewpiece/status/2084143826873049535#m",
-      "date": "Mon, 03 Aug 2026 05:06:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOxbmwxXQAAroJs.jpg"
-      ]
-    },
-    {
-      "id": "7292eb90113823f4622fd76a3ff424aea212fae3f0ed27f91db91ee10c4edaad",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "text": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "url": "https://nitter.net/pewpiece/status/2083930832100577359#m",
-      "date": "Sun, 02 Aug 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
       ]
     },
     {
@@ -340,6 +340,81 @@
       ]
     },
     {
+      "id": "6d5f2d73aa129e88ea0abab0eed73130c9cf3f2f0e8deb98c765585f0e7858b5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "text": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2086106620132544830#m",
+      "date": "Sat, 08 Aug 2026 15:05:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPNW5QrW8AAysqr.jpg"
+      ]
+    },
+    {
+      "id": "ee5d43351d3ce2a1dc8e5054496e25b735025dd18e8b97525646308101c808dc",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
+      "text": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
+      "url": "https://nitter.net/pewpiece/status/2085744950956712302#m",
+      "date": "Fri, 07 Aug 2026 15:08:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPIN4gYW8AAqeu9.jpg"
+      ]
+    },
+    {
+      "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#ONEPIECE1190 one more line..",
+      "text": "#ONEPIECE1190 one more line..",
+      "url": "https://nitter.net/pewpiece/status/2084651514035867811#m",
+      "date": "Tue, 04 Aug 2026 14:43:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHO4rRSZXAAA2AEv.jpg"
+      ]
+    },
+    {
+      "id": "e9a7f3fc09741671477fd2bf68490e2d7f7fac2f85f341a9fa995a597ce242ae",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece c",
+      "text": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece chapter.",
+      "url": "https://nitter.net/pewpiece/status/2084143826873049535#m",
+      "date": "Mon, 03 Aug 2026 05:06:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOxbmwxXQAAroJs.jpg"
+      ]
+    },
+    {
+      "id": "7292eb90113823f4622fd76a3ff424aea212fae3f0ed27f91db91ee10c4edaad",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
+      "text": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
+      "url": "https://nitter.net/pewpiece/status/2083930832100577359#m",
+      "date": "Sun, 02 Aug 2026 15:00:02 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
+      ]
+    },
+    {
       "id": "d6c1cda2ce464d4afe93eb2aed078db21c2e52aacf59027aa25df2bd79f5918c",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -432,81 +507,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPM38V-XAAAXxjA.jpg",
         "https://nitter.net/pic/media%2FHPG1qzTXcAAhEDp.png"
-      ]
-    },
-    {
-      "id": "6d5f2d73aa129e88ea0abab0eed73130c9cf3f2f0e8deb98c765585f0e7858b5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
-      "text": "NEW OFFICIAL ART FOR VEGAPUNK BIRTHDAY",
-      "url": "https://nitter.net/pewpiece/status/2086106620132544830#m",
-      "date": "Sat, 08 Aug 2026 15:05:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPNW5QrW8AAysqr.jpg"
-      ]
-    },
-    {
-      "id": "ee5d43351d3ce2a1dc8e5054496e25b735025dd18e8b97525646308101c808dc",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
-      "text": "NEW OFFICIAL ONEPIECE ART FOR BUGGY BIRTHDAY",
-      "url": "https://nitter.net/pewpiece/status/2085744950956712302#m",
-      "date": "Fri, 07 Aug 2026 15:08:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPIN4gYW8AAqeu9.jpg"
-      ]
-    },
-    {
-      "id": "f49a4d650afda34888446feb06c256c253a112a1e2cd4914df73c84c887532e3",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#ONEPIECE1190 one more line..",
-      "text": "#ONEPIECE1190 one more line..",
-      "url": "https://nitter.net/pewpiece/status/2084651514035867811#m",
-      "date": "Tue, 04 Aug 2026 14:43:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHO4rRSZXAAA2AEv.jpg"
-      ]
-    },
-    {
-      "id": "e9a7f3fc09741671477fd2bf68490e2d7f7fac2f85f341a9fa995a597ce242ae",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece c",
-      "text": "One Piece Chapter 1190 will be released this week. However it will be published in a double issue of Weekly Shonen Jump which means there will be no new issue next week and therefore no new OnePiece chapter.",
-      "url": "https://nitter.net/pewpiece/status/2084143826873049535#m",
-      "date": "Mon, 03 Aug 2026 05:06:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOxbmwxXQAAroJs.jpg"
-      ]
-    },
-    {
-      "id": "7292eb90113823f4622fd76a3ff424aea212fae3f0ed27f91db91ee10c4edaad",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "text": "ONE PIECE MANGA BREAK IS OFFICIALLY OVER! NEW ONE PIECE CHAPTER THIS WEEK!",
-      "url": "https://nitter.net/pewpiece/status/2083930832100577359#m",
-      "date": "Sun, 02 Aug 2026 15:00:02 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOuasHnWQAAnkwf.jpg"
       ]
     },
     {
