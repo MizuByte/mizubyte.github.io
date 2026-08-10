@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:52:39.946Z",
+  "generatedAt": "2026-08-10T11:02:29.243Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [],
   "misc": [
@@ -278,6 +278,21 @@
       ]
     },
     {
+      "id": "65ac769859593d310effa389c73f96df175328056bb992e291491215b13c21c6",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "text": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2086766633033351375#m",
+      "date": "Mon, 10 Aug 2026 10:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPWvMNtWgAAyhPD.jpg"
+      ]
+    },
+    {
       "id": "868a4a087bb7d1136b11be7e9b151a18224361323141605c7bf1c4493ca391d0",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -290,21 +305,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPWLg1zWkAAjE3m.jpg"
-      ]
-    },
-    {
-      "id": "22fdbbb412d97dbc13068d429d9505560052f32719d11dd8a1448806c76960d1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086565107815813176#m",
-      "date": "Sun, 09 Aug 2026 21:27:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPT36B1XMAAGhuQ.jpg"
       ]
     }
   ],
@@ -584,6 +584,21 @@
       ]
     },
     {
+      "id": "65ac769859593d310effa389c73f96df175328056bb992e291491215b13c21c6",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "text": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2086766633033351375#m",
+      "date": "Mon, 10 Aug 2026 10:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPWvMNtWgAAyhPD.jpg"
+      ]
+    },
+    {
       "id": "868a4a087bb7d1136b11be7e9b151a18224361323141605c7bf1c4493ca391d0",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -596,21 +611,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPWLg1zWkAAjE3m.jpg"
-      ]
-    },
-    {
-      "id": "22fdbbb412d97dbc13068d429d9505560052f32719d11dd8a1448806c76960d1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086565107815813176#m",
-      "date": "Sun, 09 Aug 2026 21:27:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPT36B1XMAAGhuQ.jpg"
       ]
     }
   ]
