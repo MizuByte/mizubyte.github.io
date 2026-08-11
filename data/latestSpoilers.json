@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-08-10T23:40:58.888Z",
+  "generatedAt": "2026-08-11T00:34:42.371Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "49fe25a087ed89ed2de0af1d7f72f320491e0c29aad8533a5de74fe059e83480",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/ankiiverse/status/2086684572226592909#m",
+      "date": "Mon, 10 Aug 2026 05:22:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPVkjotaIAAag5k.jpg"
+      ]
+    }
+  ],
   "misc": [
     {
       "id": "4c98c25b7eafb8ddf104b5e4bdc6e553085c5502f84e76f08762d24ba290072b",
@@ -97,6 +113,82 @@
       ]
     },
     {
+      "id": "694a7d5b5dcb9e5fcee3853e60682308427e0ba730c14e5a4771ada44a1ac8ef",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1998年8月11日発売 1998年37•38号掲載 第52話〝誓い〟 2003年8月11日発売 2003年37•38号掲載 第287話〝神殺し〟 2008年8月11日発売 2008年37•38号掲載 第510話〝麦わらの一味VS戦闘兵器〟 2014年8月11日発売 2014年37•38号掲載 第756話〝4段目〟 #ワンピース今日は何話の日",
+      "text": "1998年8月11日発売 1998年37•38号掲載 第52話〝誓い〟 2003年8月11日発売 2003年37•38号掲載 第287話〝神殺し〟 2008年8月11日発売 2008年37•38号掲載 第510話〝麦わらの一味VS戦闘兵器〟 2014年8月11日発売 2014年37•38号掲載 第756話〝4段目〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2086958411602944282#m",
+      "date": "Mon, 10 Aug 2026 23:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZdnJCawAAeHgI.jpg"
+      ]
+    },
+    {
+      "id": "63012742af88a483b2a2a1075b258eb4574bca60332a29d3d70214816cf04f61",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "結局セブンイレブンでジャンプ購入 クリアしおりもゲット そして久々に食べたくなったラムネ",
+      "text": "結局セブンイレブンでジャンプ購入 クリアしおりもゲット そして久々に食べたくなったラムネ",
+      "url": "https://nitter.net/araage_tarutaru/status/2086708279821185338#m",
+      "date": "Mon, 10 Aug 2026 06:56:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPV6HCdaoAAeElh.jpg",
+        "https://nitter.net/pic/media%2FHPV6HCaaQAA6w80.jpg",
+        "https://nitter.net/pic/media%2FHPV6HCZaAAALzyN.jpg"
+      ]
+    },
+    {
+      "id": "8644a6ea8e0d7715d58f35083b0b80982e5561e2d9d4c0046da30b81593a3aa1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 【エルバフ編関連話が無料開放中💨】 ⠀ ◆リトルガーデン ：13巻114話~15巻129話 ⠀ ◆ロビンとサウロの過去編 ：41巻391話~397話 ⠀ ◆エルバフ編 ：111巻1124話~112巻1143話 ⠀ BASEアプリで読む ▷…",
+      "text": "RT @Eiichiro_Staff: 【エルバフ編関連話が無料開放中💨】 ⠀ ◆リトルガーデン ：13巻114話~15巻129話 ⠀ ◆ロビンとサウロの過去編 ：41巻391話~397話 ⠀ ◆エルバフ編 ：111巻1124話~112巻1143話 ⠀ BASEアプリで読む ▷…",
+      "url": "https://nitter.net/Mugiwara_23/status/2086944660665065764#m",
+      "date": "Mon, 10 Aug 2026 22:35:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3e9e87c11279b7ba9f9592418c5817b2ed84b6a909619688a0dfe7b08a96c8f5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "A Post-apocalyptic Western written by Boichi! Marshall King Vol. 1 is available now.",
+      "text": "A Post-apocalyptic Western written by Boichi! Marshall King Vol. 1 is available now.",
+      "url": "https://nitter.net/VIZMedia/status/2086935694853763318#m",
+      "date": "Mon, 10 Aug 2026 22:00:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZI8DZWwAA_R22.jpg"
+      ]
+    },
+    {
+      "id": "965ac192efea0a338836798d327c0478d00b21af9a9500f3f5e55b2a708a742c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Schrodingers transfer window Madrid Zone (@theMadridZone) 🚨 BREAKING: Real Madrid's transfer window is NOT open. However, it is also NOT closed. @COPE — https://nitter.net/theMadridZone/status/208678",
+      "text": "Schrodingers transfer window Madrid Zone (@theMadridZone) 🚨 BREAKING: Real Madrid's transfer window is NOT open. However, it is also NOT closed. @COPE — https://nitter.net/theMadridZone/status/2086788538876493885#m",
+      "url": "https://nitter.net/globalwaffles/status/2086808445882159262#m",
+      "date": "Mon, 10 Aug 2026 13:34:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPXDDqlXQAANVnx.jpg",
+        "https://nitter.net/pic/media%2FHPXDHW_WkAAAwCK.jpg"
+      ]
+    },
+    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -185,6 +277,21 @@
       ]
     },
     {
+      "id": "a9d9ea475c6c201f35ec72b8877e5005c9bf54967c23b9d5e7f8d0770fde6759",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2086965014401863853#m",
+      "date": "Mon, 10 Aug 2026 23:56:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZjnqMWcAA2qcR.jpg"
+      ]
+    },
+    {
       "id": "888bf8657e4bd01ec30c2fed16e72337fe2450232477e7e8320402e0ff0aedf7",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -211,69 +318,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPWvMNtWgAAyhPD.jpg"
       ]
-    },
-    {
-      "id": "868a4a087bb7d1136b11be7e9b151a18224361323141605c7bf1c4493ca391d0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086727403619958960#m",
-      "date": "Mon, 10 Aug 2026 08:12:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPWLg1zWkAAjE3m.jpg"
-      ]
-    },
-    {
-      "id": "22fdbbb412d97dbc13068d429d9505560052f32719d11dd8a1448806c76960d1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086565107815813176#m",
-      "date": "Sun, 09 Aug 2026 21:27:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPT36B1XMAAGhuQ.jpg"
-      ]
-    },
-    {
-      "id": "75d0962f369d934cf7508d45cf993c89627a7fd759453353f789632a5889e9d7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086381696455258256#m",
-      "date": "Sun, 09 Aug 2026 09:18:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPRRGCrWsAAEysI.jpg"
-      ]
-    },
-    {
-      "id": "8b49701d510374e83b3887897cd73dcfaa2c65d880c7659296928357f80f450c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086238506502824341#m",
-      "date": "Sat, 08 Aug 2026 23:49:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPPO3WZXEAAt0TM.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "49fe25a087ed89ed2de0af1d7f72f320491e0c29aad8533a5de74fe059e83480",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/ankiiverse/status/2086684572226592909#m",
+      "date": "Mon, 10 Aug 2026 05:22:25 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPVkjotaIAAag5k.jpg"
+      ]
+    },
     {
       "id": "4c98c25b7eafb8ddf104b5e4bdc6e553085c5502f84e76f08762d24ba290072b",
       "anime": "onepiece",
@@ -368,6 +430,82 @@
       ]
     },
     {
+      "id": "694a7d5b5dcb9e5fcee3853e60682308427e0ba730c14e5a4771ada44a1ac8ef",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1998年8月11日発売 1998年37•38号掲載 第52話〝誓い〟 2003年8月11日発売 2003年37•38号掲載 第287話〝神殺し〟 2008年8月11日発売 2008年37•38号掲載 第510話〝麦わらの一味VS戦闘兵器〟 2014年8月11日発売 2014年37•38号掲載 第756話〝4段目〟 #ワンピース今日は何話の日",
+      "text": "1998年8月11日発売 1998年37•38号掲載 第52話〝誓い〟 2003年8月11日発売 2003年37•38号掲載 第287話〝神殺し〟 2008年8月11日発売 2008年37•38号掲載 第510話〝麦わらの一味VS戦闘兵器〟 2014年8月11日発売 2014年37•38号掲載 第756話〝4段目〟 #ワンピース今日は何話の日",
+      "url": "https://nitter.net/hamaboh_manga/status/2086958411602944282#m",
+      "date": "Mon, 10 Aug 2026 23:30:33 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZdnJCawAAeHgI.jpg"
+      ]
+    },
+    {
+      "id": "63012742af88a483b2a2a1075b258eb4574bca60332a29d3d70214816cf04f61",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "結局セブンイレブンでジャンプ購入 クリアしおりもゲット そして久々に食べたくなったラムネ",
+      "text": "結局セブンイレブンでジャンプ購入 クリアしおりもゲット そして久々に食べたくなったラムネ",
+      "url": "https://nitter.net/araage_tarutaru/status/2086708279821185338#m",
+      "date": "Mon, 10 Aug 2026 06:56:37 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPV6HCdaoAAeElh.jpg",
+        "https://nitter.net/pic/media%2FHPV6HCaaQAA6w80.jpg",
+        "https://nitter.net/pic/media%2FHPV6HCZaAAALzyN.jpg"
+      ]
+    },
+    {
+      "id": "8644a6ea8e0d7715d58f35083b0b80982e5561e2d9d4c0046da30b81593a3aa1",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 【エルバフ編関連話が無料開放中💨】 ⠀ ◆リトルガーデン ：13巻114話~15巻129話 ⠀ ◆ロビンとサウロの過去編 ：41巻391話~397話 ⠀ ◆エルバフ編 ：111巻1124話~112巻1143話 ⠀ BASEアプリで読む ▷…",
+      "text": "RT @Eiichiro_Staff: 【エルバフ編関連話が無料開放中💨】 ⠀ ◆リトルガーデン ：13巻114話~15巻129話 ⠀ ◆ロビンとサウロの過去編 ：41巻391話~397話 ⠀ ◆エルバフ編 ：111巻1124話~112巻1143話 ⠀ BASEアプリで読む ▷…",
+      "url": "https://nitter.net/Mugiwara_23/status/2086944660665065764#m",
+      "date": "Mon, 10 Aug 2026 22:35:55 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "3e9e87c11279b7ba9f9592418c5817b2ed84b6a909619688a0dfe7b08a96c8f5",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "A Post-apocalyptic Western written by Boichi! Marshall King Vol. 1 is available now.",
+      "text": "A Post-apocalyptic Western written by Boichi! Marshall King Vol. 1 is available now.",
+      "url": "https://nitter.net/VIZMedia/status/2086935694853763318#m",
+      "date": "Mon, 10 Aug 2026 22:00:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZI8DZWwAA_R22.jpg"
+      ]
+    },
+    {
+      "id": "965ac192efea0a338836798d327c0478d00b21af9a9500f3f5e55b2a708a742c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Schrodingers transfer window Madrid Zone (@theMadridZone) 🚨 BREAKING: Real Madrid's transfer window is NOT open. However, it is also NOT closed. @COPE — https://nitter.net/theMadridZone/status/208678",
+      "text": "Schrodingers transfer window Madrid Zone (@theMadridZone) 🚨 BREAKING: Real Madrid's transfer window is NOT open. However, it is also NOT closed. @COPE — https://nitter.net/theMadridZone/status/2086788538876493885#m",
+      "url": "https://nitter.net/globalwaffles/status/2086808445882159262#m",
+      "date": "Mon, 10 Aug 2026 13:34:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPXDDqlXQAANVnx.jpg",
+        "https://nitter.net/pic/media%2FHPXDHW_WkAAAwCK.jpg"
+      ]
+    },
+    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -456,6 +594,21 @@
       ]
     },
     {
+      "id": "a9d9ea475c6c201f35ec72b8877e5005c9bf54967c23b9d5e7f8d0770fde6759",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2086965014401863853#m",
+      "date": "Mon, 10 Aug 2026 23:56:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZjnqMWcAA2qcR.jpg"
+      ]
+    },
+    {
       "id": "888bf8657e4bd01ec30c2fed16e72337fe2450232477e7e8320402e0ff0aedf7",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -481,66 +634,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPWvMNtWgAAyhPD.jpg"
-      ]
-    },
-    {
-      "id": "868a4a087bb7d1136b11be7e9b151a18224361323141605c7bf1c4493ca391d0",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086727403619958960#m",
-      "date": "Mon, 10 Aug 2026 08:12:37 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPWLg1zWkAAjE3m.jpg"
-      ]
-    },
-    {
-      "id": "22fdbbb412d97dbc13068d429d9505560052f32719d11dd8a1448806c76960d1",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086565107815813176#m",
-      "date": "Sun, 09 Aug 2026 21:27:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPT36B1XMAAGhuQ.jpg"
-      ]
-    },
-    {
-      "id": "75d0962f369d934cf7508d45cf993c89627a7fd759453353f789632a5889e9d7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086381696455258256#m",
-      "date": "Sun, 09 Aug 2026 09:18:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPRRGCrWsAAEysI.jpg"
-      ]
-    },
-    {
-      "id": "8b49701d510374e83b3887897cd73dcfaa2c65d880c7659296928357f80f450c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2086238506502824341#m",
-      "date": "Sat, 08 Aug 2026 23:49:55 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPPO3WZXEAAt0TM.jpg"
       ]
     }
   ]
