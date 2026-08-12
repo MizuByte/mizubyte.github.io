@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:09:52.108Z",
+  "generatedAt": "2026-08-12T22:06:43.300Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -46,78 +46,19 @@
   ],
   "misc": [
     {
-      "id": "a0e43e736479a2448216f3a39062eaead8f0b6cd4cc69b449d57b91ea67eab81",
+      "id": "b92df055f4d41d900bc266a714c3a4347b93aa6a120dc8ec30dca6698afd5033",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @chusetto: Ha estado muy chulo 🌚",
-      "text": "RT @chusetto: Ha estado muy chulo 🌚",
-      "url": "https://nitter.net/Mugiwara_23/status/2087643809626677272#m",
-      "date": "Wed, 12 Aug 2026 20:54:05 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1054 Clever imagery by Oda using the hat to make it look like the moon eclipsing the sun This potentially backs up the theory that eventually there will be a total eclipse of the sun 'It's al",
+      "text": "#ONEPIECE1054 Clever imagery by Oda using the hat to make it look like the moon eclipsing the sun This potentially backs up the theory that eventually there will be a total eclipse of the sun 'It's always darkest before the dawn'",
+      "url": "https://nitter.net/TypicalJAnt/status/1550376037804122114#m",
+      "date": "Fri, 22 Jul 2022 07:03:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPjAxRlXAAISLSh.jpg"
-      ]
-    },
-    {
-      "id": "7c333c7c48614f69901835165d5b32eb7b0177d376d4de916b9140dbda5a7171",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Solo hoy puedes retuitear esto Video",
-      "text": "Solo hoy puedes retuitear esto Video",
-      "url": "https://nitter.net/Supertramp9713/status/2087606383600423048#m",
-      "date": "Wed, 12 Aug 2026 18:25:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087606358971482112%2Fimg%2FCfer1Nm3GJhjNu0Q.jpg"
-      ]
-    },
-    {
-      "id": "41cd5c97d023fdc4ecce0177663dbe2e4af34b79a08a1dbb8e2d13a39b1b2632",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingd",
-      "text": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingdom: 40% Physical, 60% Digital No matter what Sony does, there is still demand for physical games. Source: @Chris_Dring / Ampere Analysis",
-      "url": "https://nitter.net/Stealth40k/status/2087624889612087662#m",
-      "date": "Wed, 12 Aug 2026 19:38:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPi6S1YXEAAF25I.jpg"
-      ]
-    },
-    {
-      "id": "5d80b31b5817e8c7b10d58d7f66b7fca4fe4a17648e29d0d570753217433b7df",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que algu",
-      "text": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que alguien que está como las maracas de Machín utilice el término psicópata es un chiste. Rosa Díez (@rosadiezglez) Se cierra al público ( o sea, a ti, ciudadano español que pagas religiosamente tus impuestos) porque el puto amo va a coger un Falcon, ( que pagas tú) desde la Mareta ( también la pagas tú) para ver el eclipse desde Yebes. La desvergüenza de este psicópata no tiene límite. — https://nitter.net/rosadiezglez/status/2087121142611902792#m",
-      "url": "https://nitter.net/oscar_puente_/status/2087463700273758674#m",
-      "date": "Wed, 12 Aug 2026 08:58:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPbxne_WwAANsQE.jpg"
-      ]
-    },
-    {
-      "id": "495c631a9544abd150765768a532d84ff12950abcc0e5a971893e7b61a2da240",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Aunque los medios de comunicación han sido muy pesados con el #eclipse en los últimos días, la verdad es que verlo en persona ha sido una experiencia increíble. Ha durado muy poco, pero ha sido sufici",
-      "text": "Aunque los medios de comunicación han sido muy pesados con el #eclipse en los últimos días, la verdad es que verlo en persona ha sido una experiencia increíble. Ha durado muy poco, pero ha sido suficiente como para entender lo pequeños que somos en la inmensidad del cosmos ☀️🌑",
-      "url": "https://nitter.net/Mugiwara_23/status/2087612061941453246#m",
-      "date": "Wed, 12 Aug 2026 18:47:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPivbDxXUAET29W.jpg"
+        "https://nitter.net/pic/media%2FFYQKXU5XkAEjSyC.jpg",
+        "https://nitter.net/pic/media%2FFYQKXVRWIAAF6pk.jpg"
       ]
     },
     {
@@ -197,18 +138,78 @@
       ]
     },
     {
-      "id": "f9debc19d9d3ff386407ee412db584463d1ae7125ba196b5c5e0d5aadfaca612",
+      "id": "5dfd14ed0631c4d54a4aadda80e9f604375daf9172a16eb32a85202be4e607dd",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE] THEORY Title: “𝐀𝐤𝐚𝐢𝐧𝐮 𝐀 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞 𝐅𝐨𝐫 𝐅𝐢𝐧𝐚𝐥 𝐕𝐢𝐥𝐥𝐚𝐢𝐧” Lets begin.",
-      "text": "[#ONEPIECE] THEORY Title: “𝐀𝐤𝐚𝐢𝐧𝐮 𝐀 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞 𝐅𝐨𝐫 𝐅𝐢𝐧𝐚𝐥 𝐕𝐢𝐥𝐥𝐚𝐢𝐧” Lets begin.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2087279653673111752#m",
-      "date": "Tue, 11 Aug 2026 20:47:03 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "SUCCESS! Total Solar Eclipse 2026 from just outside the rural town of Duraton, Spain.",
+      "text": "SUCCESS! Total Solar Eclipse 2026 from just outside the rural town of Duraton, Spain.",
+      "url": "https://nitter.net/LaunchPhoto/status/2087624535189463142#m",
+      "date": "Wed, 12 Aug 2026 19:37:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPeByEtXIAAHMRR.jpg"
+        "https://nitter.net/pic/media%2FHPi7cC0aAAAO51M.jpg"
+      ]
+    },
+    {
+      "id": "a0e43e736479a2448216f3a39062eaead8f0b6cd4cc69b449d57b91ea67eab81",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @chusetto: Ha estado muy chulo 🌚",
+      "text": "RT @chusetto: Ha estado muy chulo 🌚",
+      "url": "https://nitter.net/Mugiwara_23/status/2087643809626677272#m",
+      "date": "Wed, 12 Aug 2026 20:54:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjAxRlXAAISLSh.jpg"
+      ]
+    },
+    {
+      "id": "7c333c7c48614f69901835165d5b32eb7b0177d376d4de916b9140dbda5a7171",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Solo hoy puedes retuitear esto Video",
+      "text": "Solo hoy puedes retuitear esto Video",
+      "url": "https://nitter.net/Supertramp9713/status/2087606383600423048#m",
+      "date": "Wed, 12 Aug 2026 18:25:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087606358971482112%2Fimg%2FCfer1Nm3GJhjNu0Q.jpg"
+      ]
+    },
+    {
+      "id": "41cd5c97d023fdc4ecce0177663dbe2e4af34b79a08a1dbb8e2d13a39b1b2632",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingd",
+      "text": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingdom: 40% Physical, 60% Digital No matter what Sony does, there is still demand for physical games. Source: @Chris_Dring / Ampere Analysis",
+      "url": "https://nitter.net/Stealth40k/status/2087624889612087662#m",
+      "date": "Wed, 12 Aug 2026 19:38:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPi6S1YXEAAF25I.jpg"
+      ]
+    },
+    {
+      "id": "5d80b31b5817e8c7b10d58d7f66b7fca4fe4a17648e29d0d570753217433b7df",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que algu",
+      "text": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que alguien que está como las maracas de Machín utilice el término psicópata es un chiste. Rosa Díez (@rosadiezglez) Se cierra al público ( o sea, a ti, ciudadano español que pagas religiosamente tus impuestos) porque el puto amo va a coger un Falcon, ( que pagas tú) desde la Mareta ( también la pagas tú) para ver el eclipse desde Yebes. La desvergüenza de este psicópata no tiene límite. — https://nitter.net/rosadiezglez/status/2087121142611902792#m",
+      "url": "https://nitter.net/oscar_puente_/status/2087463700273758674#m",
+      "date": "Wed, 12 Aug 2026 08:58:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPbxne_WwAANsQE.jpg"
       ]
     },
     {
@@ -388,78 +389,19 @@
       "attachments": []
     },
     {
-      "id": "a0e43e736479a2448216f3a39062eaead8f0b6cd4cc69b449d57b91ea67eab81",
+      "id": "b92df055f4d41d900bc266a714c3a4347b93aa6a120dc8ec30dca6698afd5033",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @chusetto: Ha estado muy chulo 🌚",
-      "text": "RT @chusetto: Ha estado muy chulo 🌚",
-      "url": "https://nitter.net/Mugiwara_23/status/2087643809626677272#m",
-      "date": "Wed, 12 Aug 2026 20:54:05 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1054 Clever imagery by Oda using the hat to make it look like the moon eclipsing the sun This potentially backs up the theory that eventually there will be a total eclipse of the sun 'It's al",
+      "text": "#ONEPIECE1054 Clever imagery by Oda using the hat to make it look like the moon eclipsing the sun This potentially backs up the theory that eventually there will be a total eclipse of the sun 'It's always darkest before the dawn'",
+      "url": "https://nitter.net/TypicalJAnt/status/1550376037804122114#m",
+      "date": "Fri, 22 Jul 2022 07:03:46 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPjAxRlXAAISLSh.jpg"
-      ]
-    },
-    {
-      "id": "7c333c7c48614f69901835165d5b32eb7b0177d376d4de916b9140dbda5a7171",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Solo hoy puedes retuitear esto Video",
-      "text": "Solo hoy puedes retuitear esto Video",
-      "url": "https://nitter.net/Supertramp9713/status/2087606383600423048#m",
-      "date": "Wed, 12 Aug 2026 18:25:22 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087606358971482112%2Fimg%2FCfer1Nm3GJhjNu0Q.jpg"
-      ]
-    },
-    {
-      "id": "41cd5c97d023fdc4ecce0177663dbe2e4af34b79a08a1dbb8e2d13a39b1b2632",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingd",
-      "text": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingdom: 40% Physical, 60% Digital No matter what Sony does, there is still demand for physical games. Source: @Chris_Dring / Ampere Analysis",
-      "url": "https://nitter.net/Stealth40k/status/2087624889612087662#m",
-      "date": "Wed, 12 Aug 2026 19:38:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPi6S1YXEAAF25I.jpg"
-      ]
-    },
-    {
-      "id": "5d80b31b5817e8c7b10d58d7f66b7fca4fe4a17648e29d0d570753217433b7df",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que algu",
-      "text": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que alguien que está como las maracas de Machín utilice el término psicópata es un chiste. Rosa Díez (@rosadiezglez) Se cierra al público ( o sea, a ti, ciudadano español que pagas religiosamente tus impuestos) porque el puto amo va a coger un Falcon, ( que pagas tú) desde la Mareta ( también la pagas tú) para ver el eclipse desde Yebes. La desvergüenza de este psicópata no tiene límite. — https://nitter.net/rosadiezglez/status/2087121142611902792#m",
-      "url": "https://nitter.net/oscar_puente_/status/2087463700273758674#m",
-      "date": "Wed, 12 Aug 2026 08:58:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPbxne_WwAANsQE.jpg"
-      ]
-    },
-    {
-      "id": "495c631a9544abd150765768a532d84ff12950abcc0e5a971893e7b61a2da240",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Aunque los medios de comunicación han sido muy pesados con el #eclipse en los últimos días, la verdad es que verlo en persona ha sido una experiencia increíble. Ha durado muy poco, pero ha sido sufici",
-      "text": "Aunque los medios de comunicación han sido muy pesados con el #eclipse en los últimos días, la verdad es que verlo en persona ha sido una experiencia increíble. Ha durado muy poco, pero ha sido suficiente como para entender lo pequeños que somos en la inmensidad del cosmos ☀️🌑",
-      "url": "https://nitter.net/Mugiwara_23/status/2087612061941453246#m",
-      "date": "Wed, 12 Aug 2026 18:47:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPivbDxXUAET29W.jpg"
+        "https://nitter.net/pic/media%2FFYQKXU5XkAEjSyC.jpg",
+        "https://nitter.net/pic/media%2FFYQKXVRWIAAF6pk.jpg"
       ]
     },
     {
@@ -539,18 +481,78 @@
       ]
     },
     {
-      "id": "f9debc19d9d3ff386407ee412db584463d1ae7125ba196b5c5e0d5aadfaca612",
+      "id": "5dfd14ed0631c4d54a4aadda80e9f604375daf9172a16eb32a85202be4e607dd",
       "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "[#ONEPIECE] THEORY Title: “𝐀𝐤𝐚𝐢𝐧𝐮 𝐀 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞 𝐅𝐨𝐫 𝐅𝐢𝐧𝐚𝐥 𝐕𝐢𝐥𝐥𝐚𝐢𝐧” Lets begin.",
-      "text": "[#ONEPIECE] THEORY Title: “𝐀𝐤𝐚𝐢𝐧𝐮 𝐀 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞 𝐅𝐨𝐫 𝐅𝐢𝐧𝐚𝐥 𝐕𝐢𝐥𝐥𝐚𝐢𝐧” Lets begin.",
-      "url": "https://nitter.net/BlacktyonteXavi/status/2087279653673111752#m",
-      "date": "Tue, 11 Aug 2026 20:47:03 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "SUCCESS! Total Solar Eclipse 2026 from just outside the rural town of Duraton, Spain.",
+      "text": "SUCCESS! Total Solar Eclipse 2026 from just outside the rural town of Duraton, Spain.",
+      "url": "https://nitter.net/LaunchPhoto/status/2087624535189463142#m",
+      "date": "Wed, 12 Aug 2026 19:37:30 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPeByEtXIAAHMRR.jpg"
+        "https://nitter.net/pic/media%2FHPi7cC0aAAAO51M.jpg"
+      ]
+    },
+    {
+      "id": "a0e43e736479a2448216f3a39062eaead8f0b6cd4cc69b449d57b91ea67eab81",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @chusetto: Ha estado muy chulo 🌚",
+      "text": "RT @chusetto: Ha estado muy chulo 🌚",
+      "url": "https://nitter.net/Mugiwara_23/status/2087643809626677272#m",
+      "date": "Wed, 12 Aug 2026 20:54:05 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjAxRlXAAISLSh.jpg"
+      ]
+    },
+    {
+      "id": "7c333c7c48614f69901835165d5b32eb7b0177d376d4de916b9140dbda5a7171",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Solo hoy puedes retuitear esto Video",
+      "text": "Solo hoy puedes retuitear esto Video",
+      "url": "https://nitter.net/Supertramp9713/status/2087606383600423048#m",
+      "date": "Wed, 12 Aug 2026 18:25:22 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087606358971482112%2Fimg%2FCfer1Nm3GJhjNu0Q.jpg"
+      ]
+    },
+    {
+      "id": "41cd5c97d023fdc4ecce0177663dbe2e4af34b79a08a1dbb8e2d13a39b1b2632",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingd",
+      "text": "Resident Evil Requiem Physical vs. Digital Breakdown: US: 22% Physical, 78% Digital France: 55% Physical, 45% Digital Japan: 51% Physical, 49% Digital Australia: 43% Physical, 57% Digital United Kingdom: 40% Physical, 60% Digital No matter what Sony does, there is still demand for physical games. Source: @Chris_Dring / Ampere Analysis",
+      "url": "https://nitter.net/Stealth40k/status/2087624889612087662#m",
+      "date": "Wed, 12 Aug 2026 19:38:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPi6S1YXEAAF25I.jpg"
+      ]
+    },
+    {
+      "id": "5d80b31b5817e8c7b10d58d7f66b7fca4fe4a17648e29d0d570753217433b7df",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que algu",
+      "text": "Pedro Sánchez no va a asistir al acto del observatorio de Yebes, que pertenece al @IGNSpain del @transportesgob y se cierra al acceso porque será el centro de seguimiento oficial del eclipse. Que alguien que está como las maracas de Machín utilice el término psicópata es un chiste. Rosa Díez (@rosadiezglez) Se cierra al público ( o sea, a ti, ciudadano español que pagas religiosamente tus impuestos) porque el puto amo va a coger un Falcon, ( que pagas tú) desde la Mareta ( también la pagas tú) para ver el eclipse desde Yebes. La desvergüenza de este psicópata no tiene límite. — https://nitter.net/rosadiezglez/status/2087121142611902792#m",
+      "url": "https://nitter.net/oscar_puente_/status/2087463700273758674#m",
+      "date": "Wed, 12 Aug 2026 08:58:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPbxne_WwAANsQE.jpg"
       ]
     },
     {
