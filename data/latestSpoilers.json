@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:29:19.810Z",
+  "generatedAt": "2026-08-14T14:03:32.196Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -35,66 +35,6 @@
   ],
   "misc": [
     {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "e8f47be1c2931814edc8e23cc161e207a1b8985107cfb529ffb82ce3a55a2984",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
-      "text": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634808805716110#m",
-      "date": "Wed, 12 Aug 2026 20:18:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjEynFawAAWMaP.jpg"
-      ]
-    },
-    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -183,18 +123,63 @@
       ]
     },
     {
-      "id": "6272bbf260e723f85fb63016b79d72db6bf387425997cf0f36ce3cd78bf8f6f7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088194948147417546#m",
-      "date": "Fri, 14 Aug 2026 09:24:07 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPrCPJjWMAA540c.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "e8f47be1c2931814edc8e23cc161e207a1b8985107cfb529ffb82ce3a55a2984",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
+      "text": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634808805716110#m",
+      "date": "Wed, 12 Aug 2026 20:18:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjEynFawAAWMaP.jpg"
       ]
     },
     {
@@ -228,36 +213,6 @@
       ]
     },
     {
-      "id": "ba7ed32b3f34776139e7f7dc9a483094d10b73ae424a3be2557bbe87a27045f9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2087503294109282799#m",
-      "date": "Wed, 12 Aug 2026 11:35:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhNLojXgAA356u.jpg"
-      ]
-    },
-    {
-      "id": "3ad162806951ff941d668a5c86a76ab06ac9d60a5b8ed9cb444d0f293afda36a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2087245706281033835#m",
-      "date": "Tue, 11 Aug 2026 18:32:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPdi56oW0AAAb1L.jpg"
-      ]
-    },
-    {
       "id": "3a1d78c43abdfc4a8cfc7bef9f01d7362249db5260066639a51dc1e5c125e5ef",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -270,6 +225,49 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPbmFE7XcAE9KGc.jpg"
+      ]
+    },
+    {
+      "id": "a9d9ea475c6c201f35ec72b8877e5005c9bf54967c23b9d5e7f8d0770fde6759",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2086965014401863853#m",
+      "date": "Mon, 10 Aug 2026 23:56:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZjnqMWcAA2qcR.jpg"
+      ]
+    },
+    {
+      "id": "888bf8657e4bd01ec30c2fed16e72337fe2450232477e7e8320402e0ff0aedf7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2086934641844310147#m",
+      "date": "Mon, 10 Aug 2026 21:56:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "65ac769859593d310effa389c73f96df175328056bb992e291491215b13c21c6",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "text": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2086766633033351375#m",
+      "date": "Mon, 10 Aug 2026 10:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPWvMNtWgAAyhPD.jpg"
       ]
     }
   ],
@@ -305,66 +303,6 @@
       ]
     },
     {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "e8f47be1c2931814edc8e23cc161e207a1b8985107cfb529ffb82ce3a55a2984",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
-      "text": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634808805716110#m",
-      "date": "Wed, 12 Aug 2026 20:18:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjEynFawAAWMaP.jpg"
-      ]
-    },
-    {
       "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -453,18 +391,63 @@
       ]
     },
     {
-      "id": "6272bbf260e723f85fb63016b79d72db6bf387425997cf0f36ce3cd78bf8f6f7",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088194948147417546#m",
-      "date": "Fri, 14 Aug 2026 09:24:07 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPrCPJjWMAA540c.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "e8f47be1c2931814edc8e23cc161e207a1b8985107cfb529ffb82ce3a55a2984",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
+      "text": "Bleach TYBW ep 44 poem Says There’s nothing I can do. I only want power. The power to protect,nothing more. It was like 2 talks the first 2 line said by ichigo? and last one by orihime #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634808805716110#m",
+      "date": "Wed, 12 Aug 2026 20:18:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjEynFawAAWMaP.jpg"
       ]
     },
     {
@@ -498,36 +481,6 @@
       ]
     },
     {
-      "id": "ba7ed32b3f34776139e7f7dc9a483094d10b73ae424a3be2557bbe87a27045f9",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2087503294109282799#m",
-      "date": "Wed, 12 Aug 2026 11:35:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhNLojXgAA356u.jpg"
-      ]
-    },
-    {
-      "id": "3ad162806951ff941d668a5c86a76ab06ac9d60a5b8ed9cb444d0f293afda36a",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2087245706281033835#m",
-      "date": "Tue, 11 Aug 2026 18:32:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPdi56oW0AAAb1L.jpg"
-      ]
-    },
-    {
       "id": "3a1d78c43abdfc4a8cfc7bef9f01d7362249db5260066639a51dc1e5c125e5ef",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -540,6 +493,49 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPbmFE7XcAE9KGc.jpg"
+      ]
+    },
+    {
+      "id": "a9d9ea475c6c201f35ec72b8877e5005c9bf54967c23b9d5e7f8d0770fde6759",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2086965014401863853#m",
+      "date": "Mon, 10 Aug 2026 23:56:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPZjnqMWcAA2qcR.jpg"
+      ]
+    },
+    {
+      "id": "888bf8657e4bd01ec30c2fed16e72337fe2450232477e7e8320402e0ff0aedf7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2086934641844310147#m",
+      "date": "Mon, 10 Aug 2026 21:56:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "65ac769859593d310effa389c73f96df175328056bb992e291491215b13c21c6",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "text": "🚨🚨A collaboration between wit studio and ufotable to animate the first berserk arc is being rumored. 🚨🚨",
+      "url": "https://nitter.net/daily_berserk/status/2086766633033351375#m",
+      "date": "Mon, 10 Aug 2026 10:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPWvMNtWgAAyhPD.jpg"
       ]
     }
   ]
