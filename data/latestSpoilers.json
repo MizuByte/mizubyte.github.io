@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T08:04:26.339Z",
+  "generatedAt": "2026-08-14T09:30:26.926Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -33,12 +33,12 @@
       ]
     },
     {
-      "id": "87c547622843f84802f02ac0e744bc44c274dd446ed86c4beed914cc7c5b86b7",
+      "id": "e80aeff6c41910dc71ace8acb9ef967e761b93bcd72b67e3f5398bdb3801e8ed",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6641 other members and enjoy free voice and text chat. disc",
-      "text": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6641 other members and enjoy free voice and text chat. discord.com",
+      "title": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6903 other members and enjoy free voice and text chat. disc",
+      "text": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6903 other members and enjoy free voice and text chat. discord.com",
       "url": "https://nitter.net/d0nut2x/status/2085625928709734637#m",
       "date": "Fri, 07 Aug 2026 07:15:45 GMT",
       "isSpoiler": true,
@@ -276,6 +276,21 @@
       ]
     },
     {
+      "id": "6272bbf260e723f85fb63016b79d72db6bf387425997cf0f36ce3cd78bf8f6f7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088194948147417546#m",
+      "date": "Fri, 14 Aug 2026 09:24:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPrCPJjWMAA540c.jpg"
+      ]
+    },
+    {
       "id": "512fe0c7970327f2d82d7340f272369432b8e58bc6f8e5c90b5ab40252eab627",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -334,21 +349,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPdi56oW0AAAb1L.jpg"
       ]
-    },
-    {
-      "id": "3a1d78c43abdfc4a8cfc7bef9f01d7362249db5260066639a51dc1e5c125e5ef",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2087108455857340874#m",
-      "date": "Tue, 11 Aug 2026 09:26:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPbmFE7XcAE9KGc.jpg"
-      ]
     }
   ],
   "items": [
@@ -383,12 +383,12 @@
       ]
     },
     {
-      "id": "87c547622843f84802f02ac0e744bc44c274dd446ed86c4beed914cc7c5b86b7",
+      "id": "e80aeff6c41910dc71ace8acb9ef967e761b93bcd72b67e3f5398bdb3801e8ed",
       "anime": "blackclover",
       "handle": "pacemanop",
       "sourceLabel": "Black Clover",
-      "title": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6641 other members and enjoy free voice and text chat. disc",
-      "text": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6641 other members and enjoy free voice and text chat. discord.com",
+      "title": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6903 other members and enjoy free voice and text chat. disc",
+      "text": "🫡🫡🫡 discord.gg/YN2UgTVhy Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord – hang out with 6903 other members and enjoy free voice and text chat. discord.com",
       "url": "https://nitter.net/d0nut2x/status/2085625928709734637#m",
       "date": "Fri, 07 Aug 2026 07:15:45 GMT",
       "isSpoiler": true,
@@ -624,6 +624,21 @@
       ]
     },
     {
+      "id": "6272bbf260e723f85fb63016b79d72db6bf387425997cf0f36ce3cd78bf8f6f7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088194948147417546#m",
+      "date": "Fri, 14 Aug 2026 09:24:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPrCPJjWMAA540c.jpg"
+      ]
+    },
+    {
       "id": "512fe0c7970327f2d82d7340f272369432b8e58bc6f8e5c90b5ab40252eab627",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -681,21 +696,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPdi56oW0AAAb1L.jpg"
-      ]
-    },
-    {
-      "id": "3a1d78c43abdfc4a8cfc7bef9f01d7362249db5260066639a51dc1e5c125e5ef",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2087108455857340874#m",
-      "date": "Tue, 11 Aug 2026 09:26:47 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPbmFE7XcAE9KGc.jpg"
       ]
     }
   ]
