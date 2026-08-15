@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T09:20:03.443Z",
+  "generatedAt": "2026-08-15T09:45:29.824Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -30,93 +30,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "23e8a56ea2e5b52ff2b08e6ab8a01f1de619c6d1412e625397f260dc634dd9e6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
-      "text": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
-      "url": "https://nitter.net/WorstGenHQ/status/2088551218222088592#m",
-      "date": "Sat, 15 Aug 2026 08:59:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "6fbacde36b765a37b6260cfb0b012acb51ca7d6c77c085c0fb76a91a2222d439",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
-      "text": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
-      "url": "https://nitter.net/AniKing/status/2088382282046337262#m",
-      "date": "Fri, 14 Aug 2026 21:48:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
-      ]
-    },
-    {
-      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
-      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
-      ]
-    },
-    {
-      "id": "b513657bb445bc129f754e66a43dcebd868b23909611e3acb4fef1aa294e1386",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
-      "text": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
-      "url": "https://nitter.net/ridvanaksu/status/2088358207181742134#m",
-      "date": "Fri, 14 Aug 2026 20:12:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2255a98d073367ca56be8921167221ce1eb1a1da5f58ee29859acc54a34b01a9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Prediction for next chapter guys?",
-      "text": "#ONEPIECE1191 Prediction for next chapter guys?",
-      "url": "https://nitter.net/WorstGenHQ/status/2088327961099591698#m",
-      "date": "Fri, 14 Aug 2026 18:12:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPs7NZvWkAA3TWr.jpg"
-      ]
-    },
-    {
-      "id": "e72d5ba79b07230b55175227f7c2c594582cfb612b4a202e55a8c466b83f9d82",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
-      "text": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2088327659654623410#m",
-      "date": "Fri, 14 Aug 2026 18:11:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPs67s0WwAMWSs7.jpg",
-        "https://nitter.net/pic/amplify_video_thumb%2F2088293211387129856%2Fimg%2FyHpPzf3QbXX3fUt5.jpg"
-      ]
-    },
     {
       "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
       "anime": "onepiece",
@@ -211,6 +124,93 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPvCEdaXoAAP-Dt.jpg"
+      ]
+    },
+    {
+      "id": "23e8a56ea2e5b52ff2b08e6ab8a01f1de619c6d1412e625397f260dc634dd9e6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "text": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "url": "https://nitter.net/WorstGenHQ/status/2088551218222088592#m",
+      "date": "Sat, 15 Aug 2026 08:59:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6fbacde36b765a37b6260cfb0b012acb51ca7d6c77c085c0fb76a91a2222d439",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "text": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "url": "https://nitter.net/AniKing/status/2088382282046337262#m",
+      "date": "Fri, 14 Aug 2026 21:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
+      ]
+    },
+    {
+      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
+      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
+      ]
+    },
+    {
+      "id": "b513657bb445bc129f754e66a43dcebd868b23909611e3acb4fef1aa294e1386",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
+      "text": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
+      "url": "https://nitter.net/ridvanaksu/status/2088358207181742134#m",
+      "date": "Fri, 14 Aug 2026 20:12:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "2255a98d073367ca56be8921167221ce1eb1a1da5f58ee29859acc54a34b01a9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Prediction for next chapter guys?",
+      "text": "#ONEPIECE1191 Prediction for next chapter guys?",
+      "url": "https://nitter.net/WorstGenHQ/status/2088327961099591698#m",
+      "date": "Fri, 14 Aug 2026 18:12:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPs7NZvWkAA3TWr.jpg"
+      ]
+    },
+    {
+      "id": "e72d5ba79b07230b55175227f7c2c594582cfb612b4a202e55a8c466b83f9d82",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
+      "text": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2088327659654623410#m",
+      "date": "Fri, 14 Aug 2026 18:11:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPs67s0WwAMWSs7.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2088293211387129856%2Fimg%2FyHpPzf3QbXX3fUt5.jpg"
       ]
     },
     {
@@ -358,93 +358,6 @@
       "attachments": []
     },
     {
-      "id": "23e8a56ea2e5b52ff2b08e6ab8a01f1de619c6d1412e625397f260dc634dd9e6",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
-      "text": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
-      "url": "https://nitter.net/WorstGenHQ/status/2088551218222088592#m",
-      "date": "Sat, 15 Aug 2026 08:59:48 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "6fbacde36b765a37b6260cfb0b012acb51ca7d6c77c085c0fb76a91a2222d439",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
-      "text": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
-      "url": "https://nitter.net/AniKing/status/2088382282046337262#m",
-      "date": "Fri, 14 Aug 2026 21:48:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
-      ]
-    },
-    {
-      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
-      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
-      ]
-    },
-    {
-      "id": "b513657bb445bc129f754e66a43dcebd868b23909611e3acb4fef1aa294e1386",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
-      "text": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
-      "url": "https://nitter.net/ridvanaksu/status/2088358207181742134#m",
-      "date": "Fri, 14 Aug 2026 20:12:51 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "2255a98d073367ca56be8921167221ce1eb1a1da5f58ee29859acc54a34b01a9",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Prediction for next chapter guys?",
-      "text": "#ONEPIECE1191 Prediction for next chapter guys?",
-      "url": "https://nitter.net/WorstGenHQ/status/2088327961099591698#m",
-      "date": "Fri, 14 Aug 2026 18:12:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPs7NZvWkAA3TWr.jpg"
-      ]
-    },
-    {
-      "id": "e72d5ba79b07230b55175227f7c2c594582cfb612b4a202e55a8c466b83f9d82",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
-      "text": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
-      "url": "https://nitter.net/WorstGenHQ/status/2088327659654623410#m",
-      "date": "Fri, 14 Aug 2026 18:11:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPs67s0WwAMWSs7.jpg",
-        "https://nitter.net/pic/amplify_video_thumb%2F2088293211387129856%2Fimg%2FyHpPzf3QbXX3fUt5.jpg"
-      ]
-    },
-    {
       "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -538,6 +451,93 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPvCEdaXoAAP-Dt.jpg"
+      ]
+    },
+    {
+      "id": "23e8a56ea2e5b52ff2b08e6ab8a01f1de619c6d1412e625397f260dc634dd9e6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "text": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "url": "https://nitter.net/WorstGenHQ/status/2088551218222088592#m",
+      "date": "Sat, 15 Aug 2026 08:59:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6fbacde36b765a37b6260cfb0b012acb51ca7d6c77c085c0fb76a91a2222d439",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "text": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "url": "https://nitter.net/AniKing/status/2088382282046337262#m",
+      "date": "Fri, 14 Aug 2026 21:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
+      ]
+    },
+    {
+      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
+      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
+      ]
+    },
+    {
+      "id": "b513657bb445bc129f754e66a43dcebd868b23909611e3acb4fef1aa294e1386",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
+      "text": "OFSAYTLA ALAKASI OLMAYAN POZİSYONDA POZİSYONUN BİTMESİNİN BEKLEMEDEN OFSAYT KALDIRDILAR ÇORUM GOLE GİDERKEN !!!!",
+      "url": "https://nitter.net/ridvanaksu/status/2088358207181742134#m",
+      "date": "Fri, 14 Aug 2026 20:12:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "2255a98d073367ca56be8921167221ce1eb1a1da5f58ee29859acc54a34b01a9",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Prediction for next chapter guys?",
+      "text": "#ONEPIECE1191 Prediction for next chapter guys?",
+      "url": "https://nitter.net/WorstGenHQ/status/2088327961099591698#m",
+      "date": "Fri, 14 Aug 2026 18:12:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPs7NZvWkAA3TWr.jpg"
+      ]
+    },
+    {
+      "id": "e72d5ba79b07230b55175227f7c2c594582cfb612b4a202e55a8c466b83f9d82",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
+      "text": "Hadi Corum!!! Vernichte Galatasaray 🙌 Deniz Curry (Çorum FK'lı Zoktay) (@denizbelligol) Gobellerden mesaj var Video — https://nitter.net/denizbelligol/status/2088293385719132633#m",
+      "url": "https://nitter.net/WorstGenHQ/status/2088327659654623410#m",
+      "date": "Fri, 14 Aug 2026 18:11:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPs67s0WwAMWSs7.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2088293211387129856%2Fimg%2FyHpPzf3QbXX3fUt5.jpg"
       ]
     },
     {
