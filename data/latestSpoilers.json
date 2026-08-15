@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:18:42.519Z",
+  "generatedAt": "2026-08-15T20:43:38.499Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -30,6 +30,19 @@
     }
   ],
   "misc": [
+    {
+      "id": "7e0bdeebed066646381500de607dbc3ccc3d41ca75f4e8b08eab7b639267c5c4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "url": "https://nitter.net/Mugiwara_23/status/2088727455146066034#m",
+      "date": "Sat, 15 Aug 2026 20:40:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
     {
       "id": "d6b28bbfb452317e36ef55f7f2b6e852d5e9b0c12b37c794bedbd0bf4d5debc8",
       "anime": "onepiece",
@@ -105,21 +118,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2088485842369261568%2Fimg%2Ftdzm6rOwKJXAWZnT.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
       ]
     },
     {
@@ -357,6 +355,19 @@
       "attachments": []
     },
     {
+      "id": "7e0bdeebed066646381500de607dbc3ccc3d41ca75f4e8b08eab7b639267c5c4",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "url": "https://nitter.net/Mugiwara_23/status/2088727455146066034#m",
+      "date": "Sat, 15 Aug 2026 20:40:06 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "d6b28bbfb452317e36ef55f7f2b6e852d5e9b0c12b37c794bedbd0bf4d5debc8",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -431,21 +442,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2088485842369261568%2Fimg%2Ftdzm6rOwKJXAWZnT.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
       ]
     },
     {
