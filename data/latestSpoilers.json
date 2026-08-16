@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:03:16.532Z",
+  "generatedAt": "2026-08-16T17:39:06.871Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,6 +31,47 @@
   ],
   "misc": [
     {
+      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
+      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس 3x🔥🔥",
+      "text": "#سبويلر_ون_بيس 3x🔥🔥",
+      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
+      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
+      ]
+    },
+    {
+      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
+      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -71,47 +112,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
-      ]
-    },
-    {
-      "id": "994813c56ed73072ad01a26009400d3facc812cb34e790b2cf1bce13d7c20eee",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
-      "text": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
-      "url": "https://nitter.net/WorstGenHQ/status/2088991852766646361#m",
-      "date": "Sun, 16 Aug 2026 14:10:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "394fef753a7a96340c9d38631a59ae7f2902cfaa38d6b6a647d041c005f1ff50",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Who's ready for next chapter ? #ONEPIECE1191",
-      "text": "Who's ready for next chapter ? #ONEPIECE1191",
-      "url": "https://nitter.net/MbokaKN/status/2088879313751785925#m",
-      "date": "Sun, 16 Aug 2026 06:43:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f51f2308eb92570357484142832aa6c97f2ce92e2eac9695257ea8898cde641d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
-      "text": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
-      "url": "https://nitter.net/6serefkaybi/status/2088587889487520180#m",
-      "date": "Sat, 15 Aug 2026 11:25:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088587810588553216%2Fimg%2FyfZgrm3ZSrX6aJ-d.jpg"
       ]
     },
     {
@@ -197,66 +197,6 @@
       "attachments": []
     },
     {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -312,6 +252,64 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+      ]
+    },
+    {
+      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
+      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
+      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     }
   ],
@@ -343,6 +341,47 @@
       "attachments": []
     },
     {
+      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
+      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس 3x🔥🔥",
+      "text": "#سبويلر_ون_بيس 3x🔥🔥",
+      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
+      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
+      ]
+    },
+    {
+      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
+      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -383,47 +422,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
-      ]
-    },
-    {
-      "id": "994813c56ed73072ad01a26009400d3facc812cb34e790b2cf1bce13d7c20eee",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
-      "text": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
-      "url": "https://nitter.net/WorstGenHQ/status/2088991852766646361#m",
-      "date": "Sun, 16 Aug 2026 14:10:43 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "394fef753a7a96340c9d38631a59ae7f2902cfaa38d6b6a647d041c005f1ff50",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Who's ready for next chapter ? #ONEPIECE1191",
-      "text": "Who's ready for next chapter ? #ONEPIECE1191",
-      "url": "https://nitter.net/MbokaKN/status/2088879313751785925#m",
-      "date": "Sun, 16 Aug 2026 06:43:32 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f51f2308eb92570357484142832aa6c97f2ce92e2eac9695257ea8898cde641d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
-      "text": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
-      "url": "https://nitter.net/6serefkaybi/status/2088587889487520180#m",
-      "date": "Sat, 15 Aug 2026 11:25:31 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088587810588553216%2Fimg%2FyfZgrm3ZSrX6aJ-d.jpg"
       ]
     },
     {
@@ -509,66 +507,6 @@
       "attachments": []
     },
     {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -624,6 +562,64 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+      ]
+    },
+    {
+      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
+      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
+      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     }
   ]
