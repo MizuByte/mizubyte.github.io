@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:15:13.649Z",
+  "generatedAt": "2026-08-16T20:42:46.758Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -30,90 +30,6 @@
     }
   ],
   "misc": [
-    {
-      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
-      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#سبويلر_ون_بيس 3x🔥🔥",
-      "text": "#سبويلر_ون_بيس 3x🔥🔥",
-      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
-      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
-      ]
-    },
-    {
-      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
-      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
-      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
-      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
-      ]
-    },
-    {
-      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Not many characters can survive that shit.",
-      "text": "Not many characters can survive that shit.",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
-      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
-      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
-      ]
-    },
     {
       "id": "86b32d1e8a13c2fd74d3ffb506ac7fe82747fddc507a279a02d59f0fee7faff6",
       "anime": "onepiece",
@@ -205,6 +121,90 @@
         "https://nitter.net/pic/media%2FHP16BjoXIAIiAFr.jpg",
         "https://nitter.net/pic/media%2FHP16CS3XsAAwqdh.jpg",
         "https://nitter.net/pic/media%2FHP16C5rXcAAohz-.jpg"
+      ]
+    },
+    {
+      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
+      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس 3x🔥🔥",
+      "text": "#سبويلر_ون_بيس 3x🔥🔥",
+      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
+      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
+      ]
+    },
+    {
+      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
+      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
+      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
+      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
+      ]
+    },
+    {
+      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Not many characters can survive that shit.",
+      "text": "Not many characters can survive that shit.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
+      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
+      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
       ]
     },
     {
@@ -354,90 +354,6 @@
       "attachments": []
     },
     {
-      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
-      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#سبويلر_ون_بيس 3x🔥🔥",
-      "text": "#سبويلر_ون_بيس 3x🔥🔥",
-      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
-      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
-      ]
-    },
-    {
-      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
-      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
-      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
-      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
-      ]
-    },
-    {
-      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Not many characters can survive that shit.",
-      "text": "Not many characters can survive that shit.",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
-      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
-      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
-      ]
-    },
-    {
       "id": "86b32d1e8a13c2fd74d3ffb506ac7fe82747fddc507a279a02d59f0fee7faff6",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -528,6 +444,90 @@
         "https://nitter.net/pic/media%2FHP16BjoXIAIiAFr.jpg",
         "https://nitter.net/pic/media%2FHP16CS3XsAAwqdh.jpg",
         "https://nitter.net/pic/media%2FHP16C5rXcAAohz-.jpg"
+      ]
+    },
+    {
+      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
+      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس 3x🔥🔥",
+      "text": "#سبويلر_ون_بيس 3x🔥🔥",
+      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
+      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
+      ]
+    },
+    {
+      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
+      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
+      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
+      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
+      ]
+    },
+    {
+      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Not many characters can survive that shit.",
+      "text": "Not many characters can survive that shit.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
+      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
+      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
       ]
     },
     {
