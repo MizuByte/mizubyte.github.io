@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:43:44.314Z",
+  "generatedAt": "2026-08-16T15:00:15.448Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -118,6 +118,19 @@
       ]
     },
     {
+      "id": "a4b430e5c5ffe0e2579fce1149abc06d7ac3ba96937d0d9bf6837cff66607200",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @OPcom_info: TVアニメ『#ONEPIECE』 1174話ご視聴ありがとうございました🏴‍☠️ 絵コンテ：村上 漢（Kan Murakami） 平山 美穂（Miho Hirayama） 演 出：村上 漢（Kan…",
+      "text": "RT @OPcom_info: TVアニメ『#ONEPIECE』 1174話ご視聴ありがとうございました🏴‍☠️ 絵コンテ：村上 漢（Kan Murakami） 平山 美穂（Miho Hirayama） 演 出：村上 漢（Kan…",
+      "url": "https://nitter.net/Mugiwara_23/status/2089000516969758812#m",
+      "date": "Sun, 16 Aug 2026 14:45:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "4e00c219228048a57f3641f2c7f21b0b9eae58154cf431c054425a84fd8ecef6",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -191,21 +204,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2088539929970458624%2Fimg%2FLYy9iuRrvZAqmAIL.jpg"
-      ]
-    },
-    {
-      "id": "ce87294050ac1d0b69f66b13d9481c8968ce44cdfdcafbbb481ecd8e8b38adc2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Es maravilloso que La Razón informe del precio del vestido de Ayuso y no de su tráfico de áticos. Y así todo. 😆😆 Chema Garrido (@JoseMGarrido) Del ático de lujo ni una línea, pero el escotazo sí es ",
-      "text": "Es maravilloso que La Razón informe del precio del vestido de Ayuso y no de su tráfico de áticos. Y así todo. 😆😆 Chema Garrido (@JoseMGarrido) Del ático de lujo ni una línea, pero el escotazo sí es portada. Así funciona la sincronizada: la corrupción de Ayuso, su gobierno y su familia se tapa; sus vestidos, se celebran. ¡Y cobran por esto, oye! ¡Vaya negocio! — https://nitter.net/JoseMGarrido/status/2088743220423356644#m",
-      "url": "https://nitter.net/JoseMGarrido/status/2088744440550522990#m",
-      "date": "Sat, 15 Aug 2026 21:47:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPy1_4YWsAAacGM.jpg"
       ]
     },
     {
@@ -295,33 +293,33 @@
       ]
     },
     {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
       ]
     },
     {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     }
   ],
@@ -440,6 +438,19 @@
       ]
     },
     {
+      "id": "a4b430e5c5ffe0e2579fce1149abc06d7ac3ba96937d0d9bf6837cff66607200",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @OPcom_info: TVアニメ『#ONEPIECE』 1174話ご視聴ありがとうございました🏴‍☠️ 絵コンテ：村上 漢（Kan Murakami） 平山 美穂（Miho Hirayama） 演 出：村上 漢（Kan…",
+      "text": "RT @OPcom_info: TVアニメ『#ONEPIECE』 1174話ご視聴ありがとうございました🏴‍☠️ 絵コンテ：村上 漢（Kan Murakami） 平山 美穂（Miho Hirayama） 演 出：村上 漢（Kan…",
+      "url": "https://nitter.net/Mugiwara_23/status/2089000516969758812#m",
+      "date": "Sun, 16 Aug 2026 14:45:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "4e00c219228048a57f3641f2c7f21b0b9eae58154cf431c054425a84fd8ecef6",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -513,21 +524,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2088539929970458624%2Fimg%2FLYy9iuRrvZAqmAIL.jpg"
-      ]
-    },
-    {
-      "id": "ce87294050ac1d0b69f66b13d9481c8968ce44cdfdcafbbb481ecd8e8b38adc2",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Es maravilloso que La Razón informe del precio del vestido de Ayuso y no de su tráfico de áticos. Y así todo. 😆😆 Chema Garrido (@JoseMGarrido) Del ático de lujo ni una línea, pero el escotazo sí es ",
-      "text": "Es maravilloso que La Razón informe del precio del vestido de Ayuso y no de su tráfico de áticos. Y así todo. 😆😆 Chema Garrido (@JoseMGarrido) Del ático de lujo ni una línea, pero el escotazo sí es portada. Así funciona la sincronizada: la corrupción de Ayuso, su gobierno y su familia se tapa; sus vestidos, se celebran. ¡Y cobran por esto, oye! ¡Vaya negocio! — https://nitter.net/JoseMGarrido/status/2088743220423356644#m",
-      "url": "https://nitter.net/JoseMGarrido/status/2088744440550522990#m",
-      "date": "Sat, 15 Aug 2026 21:47:36 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPy1_4YWsAAacGM.jpg"
       ]
     },
     {
@@ -617,33 +613,33 @@
       ]
     },
     {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
       ]
     },
     {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     }
   ]
