@@ -1,99 +1,117 @@
 {
-  "generatedAt": "2026-08-16T21:40:18.484Z",
+  "generatedAt": "2026-08-16T21:57:06.117Z",
   "source": "tools/monitor-spoilers/monitor.js",
-  "spoilers": [],
+  "spoilers": [
+    {
+      "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 670",
+      "text": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2088642952352702958#m",
+      "date": "Sat, 15 Aug 2026 15:04:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7ace42f2acc41a58bc6e363d53ae88d66a9f5f43d8a9dfed656190b71fc7697a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 oth",
+      "text": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2087587092058804585#m",
+      "date": "Wed, 12 Aug 2026 17:08:42 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    }
+  ],
   "misc": [
     {
-      "id": "86b32d1e8a13c2fd74d3ffb506ac7fe82747fddc507a279a02d59f0fee7faff6",
+      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "‘THE ODYSSEY’ is now eyeing a $1.6B+ finish at the worldwide box office.",
-      "text": "‘THE ODYSSEY’ is now eyeing a $1.6B+ finish at the worldwide box office.",
-      "url": "https://nitter.net/FilmUpdates/status/2089020970237382817#m",
-      "date": "Sun, 16 Aug 2026 16:06:26 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
+      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس 3x🔥🔥",
+      "text": "#سبويلر_ون_بيس 3x🔥🔥",
+      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
+      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP2xfqFW0AAd0sw.jpg"
+        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
       ]
     },
     {
-      "id": "38f63fa5b652918e6d3ea49473c80def80e5819e9302ab478aed214eded693ae",
+      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "特別付録は、 美麗表紙イラストを使用した 「聖闘士星矢 天界篇」 クリアファイル‼",
-      "text": "特別付録は、 美麗表紙イラストを使用した 「聖闘士星矢 天界篇」 クリアファイル‼",
-      "url": "https://nitter.net/M_ChampionRED/status/2088174067774074965#m",
-      "date": "Fri, 14 Aug 2026 08:01:08 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
+      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
+      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
+      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPqvOhlb0AAJbJL.jpg"
+        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
       ]
     },
     {
-      "id": "127435f014f27ae4ec507770fbb3135cbcab0756496405dc357b2aaa75688f7c",
+      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "\"Detective Conan\" creator Gosho Aoyama confirmed he has already written the storyboard for the final chapter in a recent TV program.",
-      "text": "\"Detective Conan\" creator Gosho Aoyama confirmed he has already written the storyboard for the final chapter in a recent TV program.",
-      "url": "https://nitter.net/MangaMoguraRE/status/2089023227255287990#m",
-      "date": "Sun, 16 Aug 2026 16:15:24 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Not many characters can survive that shit.",
+      "text": "Not many characters can survive that shit.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
+      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP2zMhuXkAAPiPF.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "d1b921e20707f0f42c49b3a2cfe10c0627d4eb92eb8c7dd08c805d25b0370a61",
+      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "I. II. III. IV. 👑",
-      "text": "I. II. III. IV. 👑",
-      "url": "https://nitter.net/_xFenrir/status/2088814829821694216#m",
-      "date": "Sun, 16 Aug 2026 02:27:18 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
+      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPz172CXAAAh6gY.jpg"
-      ]
-    },
-    {
-      "id": "1aab37d19e5f65488dc1bca3916737652307469b3501eab86ee68e4f4922554c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "A lo largo de sus viajes, Dietrich atrae la atención de gente de lo más dispar gracias a su aire enigmático. Algunos incluso están dispuestos a unírsele en los Juegos Heroicos, a pesar de que conocen ",
-      "text": "A lo largo de sus viajes, Dietrich atrae la atención de gente de lo más dispar gracias a su aire enigmático. Algunos incluso están dispuestos a unírsele en los Juegos Heroicos, a pesar de que conocen de sobre su insaciable sed de batalla. #FireEmblem",
-      "url": "https://nitter.net/NintendoES/status/2088913660194193602#m",
-      "date": "Sun, 16 Aug 2026 09:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPyFoSuWYAAJJb4.jpg"
-      ]
-    },
-    {
-      "id": "d04e90da3ae08d8138994eb21c3a3af9d9b86356d8beb83be8719cd456dbc9ea",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Maybe the most awesome thing to get signed by @ima_1966 We gave a Zelda Majoras Mask Adventure Kit ! And he was kind enough to made some illustrations as well!",
-      "text": "Maybe the most awesome thing to get signed by @ima_1966 We gave a Zelda Majoras Mask Adventure Kit ! And he was kind enough to made some illustrations as well!",
-      "url": "https://nitter.net/consolevariant/status/2088960003365359759#m",
-      "date": "Sun, 16 Aug 2026 12:04:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP16A9fWcAAyUzZ.jpg",
-        "https://nitter.net/pic/media%2FHP16BjoXIAIiAFr.jpg",
-        "https://nitter.net/pic/media%2FHP16CS3XsAAwqdh.jpg",
-        "https://nitter.net/pic/media%2FHP16C5rXcAAohz-.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
       ]
     },
     {
@@ -183,87 +201,63 @@
       ]
     },
     {
-      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
-      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#سبويلر_ون_بيس 3x🔥🔥",
-      "text": "#سبويلر_ون_بيس 3x🔥🔥",
-      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
-      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
       ]
     },
     {
-      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
-      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
-      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
-      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     },
     {
-      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Not many characters can survive that shit.",
-      "text": "Not many characters can survive that shit.",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
-      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
-      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     },
     {
@@ -295,101 +289,148 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+      ]
+    },
+    {
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
+      ]
+    },
+    {
+      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
+      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
       ]
     }
   ],
   "items": [
     {
-      "id": "86b32d1e8a13c2fd74d3ffb506ac7fe82747fddc507a279a02d59f0fee7faff6",
+      "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 670",
+      "text": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2088642952352702958#m",
+      "date": "Sat, 15 Aug 2026 15:04:19 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "7ace42f2acc41a58bc6e363d53ae88d66a9f5f43d8a9dfed656190b71fc7697a",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 oth",
+      "text": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2087587092058804585#m",
+      "date": "Wed, 12 Aug 2026 17:08:42 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "‘THE ODYSSEY’ is now eyeing a $1.6B+ finish at the worldwide box office.",
-      "text": "‘THE ODYSSEY’ is now eyeing a $1.6B+ finish at the worldwide box office.",
-      "url": "https://nitter.net/FilmUpdates/status/2089020970237382817#m",
-      "date": "Sun, 16 Aug 2026 16:06:26 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
+      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
+      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#سبويلر_ون_بيس 3x🔥🔥",
+      "text": "#سبويلر_ون_بيس 3x🔥🔥",
+      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
+      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP2xfqFW0AAd0sw.jpg"
+        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
       ]
     },
     {
-      "id": "38f63fa5b652918e6d3ea49473c80def80e5819e9302ab478aed214eded693ae",
+      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "特別付録は、 美麗表紙イラストを使用した 「聖闘士星矢 天界篇」 クリアファイル‼",
-      "text": "特別付録は、 美麗表紙イラストを使用した 「聖闘士星矢 天界篇」 クリアファイル‼",
-      "url": "https://nitter.net/M_ChampionRED/status/2088174067774074965#m",
-      "date": "Fri, 14 Aug 2026 08:01:08 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
+      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
+      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
+      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
+      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPqvOhlb0AAJbJL.jpg"
+        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
       ]
     },
     {
-      "id": "127435f014f27ae4ec507770fbb3135cbcab0756496405dc357b2aaa75688f7c",
+      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "\"Detective Conan\" creator Gosho Aoyama confirmed he has already written the storyboard for the final chapter in a recent TV program.",
-      "text": "\"Detective Conan\" creator Gosho Aoyama confirmed he has already written the storyboard for the final chapter in a recent TV program.",
-      "url": "https://nitter.net/MangaMoguraRE/status/2089023227255287990#m",
-      "date": "Sun, 16 Aug 2026 16:15:24 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Not many characters can survive that shit.",
+      "text": "Not many characters can survive that shit.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
+      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
       "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP2zMhuXkAAPiPF.jpg"
-      ]
+      "hasAttachments": false,
+      "attachments": []
     },
     {
-      "id": "d1b921e20707f0f42c49b3a2cfe10c0627d4eb92eb8c7dd08c805d25b0370a61",
+      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
       "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "I. II. III. IV. 👑",
-      "text": "I. II. III. IV. 👑",
-      "url": "https://nitter.net/_xFenrir/status/2088814829821694216#m",
-      "date": "Sun, 16 Aug 2026 02:27:18 GMT",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
+      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
+      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPz172CXAAAh6gY.jpg"
-      ]
-    },
-    {
-      "id": "1aab37d19e5f65488dc1bca3916737652307469b3501eab86ee68e4f4922554c",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "A lo largo de sus viajes, Dietrich atrae la atención de gente de lo más dispar gracias a su aire enigmático. Algunos incluso están dispuestos a unírsele en los Juegos Heroicos, a pesar de que conocen ",
-      "text": "A lo largo de sus viajes, Dietrich atrae la atención de gente de lo más dispar gracias a su aire enigmático. Algunos incluso están dispuestos a unírsele en los Juegos Heroicos, a pesar de que conocen de sobre su insaciable sed de batalla. #FireEmblem",
-      "url": "https://nitter.net/NintendoES/status/2088913660194193602#m",
-      "date": "Sun, 16 Aug 2026 09:00:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPyFoSuWYAAJJb4.jpg"
-      ]
-    },
-    {
-      "id": "d04e90da3ae08d8138994eb21c3a3af9d9b86356d8beb83be8719cd456dbc9ea",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Maybe the most awesome thing to get signed by @ima_1966 We gave a Zelda Majoras Mask Adventure Kit ! And he was kind enough to made some illustrations as well!",
-      "text": "Maybe the most awesome thing to get signed by @ima_1966 We gave a Zelda Majoras Mask Adventure Kit ! And he was kind enough to made some illustrations as well!",
-      "url": "https://nitter.net/consolevariant/status/2088960003365359759#m",
-      "date": "Sun, 16 Aug 2026 12:04:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP16A9fWcAAyUzZ.jpg",
-        "https://nitter.net/pic/media%2FHP16BjoXIAIiAFr.jpg",
-        "https://nitter.net/pic/media%2FHP16CS3XsAAwqdh.jpg",
-        "https://nitter.net/pic/media%2FHP16C5rXcAAohz-.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
       ]
     },
     {
@@ -479,87 +520,63 @@
       ]
     },
     {
-      "id": "621f1a3913bff2b73864e96864cbcb84d92b242f4642f3708898f01d7db9d937",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "text": "#ONEPIECE1191 🔥🔥🔥🔥🔥",
-      "url": "https://nitter.net/WorstGenHQ/status/2089041275534098571#m",
-      "date": "Sun, 16 Aug 2026 17:27:07 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "add01a2352bb6630d8c99a89e1bbfc8c4476222b24d6848956d69fb305cb24f1",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#سبويلر_ون_بيس 3x🔥🔥",
-      "text": "#سبويلر_ون_بيس 3x🔥🔥",
-      "url": "https://nitter.net/li1il1/status/2089030413603794966#m",
-      "date": "Sun, 16 Aug 2026 16:43:57 GMT",
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP26FbuWUAA0NDj.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
       ]
     },
     {
-      "id": "f926d029a1d98505f464e081ec1709cb4bc0df5dbc7ab70b0d2175283aa23d07",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "text": "#ONEPIECE1191 MY ANOTHER GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLOKI",
-      "url": "https://nitter.net/WorstGenHQ/status/2089037771541536817#m",
-      "date": "Sun, 16 Aug 2026 17:13:11 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "f2a9fe2e39ab8db5a10ba368e5ec1f0e8f821bd8f7bf146dcffcde1608a47ee3",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got ",
-      "text": "#ONEPIECE1191 Can we talk about Luffy endurance? He took a life draining sword and another sword which destroyed everything on his path and still he was in Gear 5... Anyone else would die if they got stabbed like Luffy got with two god like swords...",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032257507824087#m",
-      "date": "Sun, 16 Aug 2026 16:51:17 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP27nmyXgAAhtdF.png"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     },
     {
-      "id": "be74a88a693a52809908d3fc203622feba739a7f95a279955de7cd62c8e654a5",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Not many characters can survive that shit.",
-      "text": "Not many characters can survive that shit.",
-      "url": "https://nitter.net/WorstGenHQ/status/2089032352936718722#m",
-      "date": "Sun, 16 Aug 2026 16:51:39 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "c86080536bd2f4c4a481eeebb5af30ddceb7cd0d660eef9131931fa138183bce",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "text": "#ONEPIECE Imagine if they go all out for fake Nidhogg, imagine what they do with the real one... 💀🤣 Video",
-      "url": "https://nitter.net/WorstGenHQ/status/2089008967154274444#m",
-      "date": "Sun, 16 Aug 2026 15:18:44 GMT",
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2089008912510926849%2Fimg%2FA9T5VGTm1udF0okN.jpg"
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     },
     {
@@ -591,6 +608,36 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+      ]
+    },
+    {
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
+      ]
+    },
+    {
+      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
+      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
       ]
     }
   ]
