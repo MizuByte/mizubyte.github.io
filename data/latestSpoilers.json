@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:03:09.063Z",
+  "generatedAt": "2026-08-16T14:43:44.314Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,6 +31,19 @@
   ],
   "misc": [
     {
+      "id": "994813c56ed73072ad01a26009400d3facc812cb34e790b2cf1bce13d7c20eee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
+      "text": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
+      "url": "https://nitter.net/WorstGenHQ/status/2088991852766646361#m",
+      "date": "Sun, 16 Aug 2026 14:10:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "394fef753a7a96340c9d38631a59ae7f2902cfaa38d6b6a647d041c005f1ff50",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -102,21 +115,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
-      ]
-    },
-    {
-      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
-      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
       ]
     },
     {
@@ -297,33 +295,33 @@
       ]
     },
     {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
+      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
       ]
     },
     {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     }
   ],
@@ -355,6 +353,19 @@
       "attachments": []
     },
     {
+      "id": "994813c56ed73072ad01a26009400d3facc812cb34e790b2cf1bce13d7c20eee",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
+      "text": "#ONEPIECE1191 MY GLORIOUS KING!!! 🔥🔥🔥🔥 #FearLUFFY",
+      "url": "https://nitter.net/WorstGenHQ/status/2088991852766646361#m",
+      "date": "Sun, 16 Aug 2026 14:10:43 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
       "id": "394fef753a7a96340c9d38631a59ae7f2902cfaa38d6b6a647d041c005f1ff50",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -426,21 +437,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
-      ]
-    },
-    {
-      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
-      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
-      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
       ]
     },
     {
@@ -621,33 +617,33 @@
       ]
     },
     {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
+      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
       ]
     },
     {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     }
   ]
