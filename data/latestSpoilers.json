@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:21:26.151Z",
+  "generatedAt": "2026-08-16T08:52:02.206Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,93 +31,153 @@
   ],
   "misc": [
     {
-      "id": "7e0bdeebed066646381500de607dbc3ccc3d41ca75f4e8b08eab7b639267c5c4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "url": "https://nitter.net/Mugiwara_23/status/2088727455146066034#m",
-      "date": "Sat, 15 Aug 2026 20:40:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d6b28bbfb452317e36ef55f7f2b6e852d5e9b0c12b37c794bedbd0bf4d5debc8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "━━━🌾*＼情報解禁①／*🌾━━━ TVアニメ『#薬屋のひとりごと』 第３期 PV解禁 ━━━━━━━━━━━━━━━━ OPテーマは #ヨルシカ「雲を抜け風下へ私だけ」🍃 2026年10月2日（金）から放送開始！✨ 日本テレビ系フラアニにて 毎週金曜よる 11 時～全国同時放送！ Video",
-      "text": "━━━🌾*＼情報解禁①／*🌾━━━ TVアニメ『#薬屋のひとりごと』 第３期 PV解禁 ━━━━━━━━━━━━━━━━ OPテーマは #ヨルシカ「雲を抜け風下へ私だけ」🍃 2026年10月2日（金）から放送開始！✨ 日本テレビ系フラアニにて 毎週金曜よる 11 時～全国同時放送！ Video",
-      "url": "https://nitter.net/kusuriya_PR/status/2088587429183947183#m",
-      "date": "Sat, 15 Aug 2026 11:23:41 GMT",
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088587364193214464%2Fimg%2FaSvtjIvPjdEXJmVX.jpg"
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     },
     {
-      "id": "4b38db2f0914946bcb14d5f6536ccf4d10dd5b4918d3bb1fd923bc996495d641",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「薬屋のひとりごと」第3期に上田麗奈、PVも公開 劇場版オリキャラもお披露目（動画あり / コメントあり） natalie.mu/comic/news/685312 #薬屋のひとりごと #亡妃の秘宝",
-      "text": "「薬屋のひとりごと」第3期に上田麗奈、PVも公開 劇場版オリキャラもお披露目（動画あり / コメントあり） natalie.mu/comic/news/685312 #薬屋のひとりごと #亡妃の秘宝",
-      "url": "https://nitter.net/comic_natalie/status/2088589085946658994#m",
-      "date": "Sat, 15 Aug 2026 11:30:16 GMT",
+      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
+      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPwos7na4AAkpij.jpg",
-        "https://nitter.net/pic/media%2FHPwotFhbEAAekGQ.jpg",
-        "https://nitter.net/pic/media%2FHPwotMzaIAAKRtl.jpg"
+        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
       ]
     },
     {
-      "id": "a66df0c8aaeaab84d492dff05d55b1e0a40f4db1fa8a8f25e977e64a31e05d44",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "実家帰ったらグラバト3の非売品クロス出てきたけど、ネット上を探してもそれらしいアイテムが出てこない…",
-      "text": "実家帰ったらグラバト3の非売品クロス出てきたけど、ネット上を探してもそれらしいアイテムが出てこない…",
-      "url": "https://nitter.net/edward_new_gate/status/2088592712597688605#m",
-      "date": "Sat, 15 Aug 2026 11:44:41 GMT",
+      "id": "2ae71c635d6bbed03625b210e15281c621c20d172326b6f61ed619dd1480178d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088385259846930594#m",
+      "date": "Fri, 14 Aug 2026 22:00:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPwr_Y2bIAAXhKL.jpg"
+        "https://nitter.net/pic/media%2FHPtvUtsXIAA7rdI.jpg"
       ]
     },
     {
-      "id": "df84249f61ee9a22b36e24bf3d98fe04c00d8beb68726793ab29b0ee24c2db8f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Pues así de primeras, me parece muy buen cast para los nuevos X-Men, especialmente por eso, porque son todos “nuevos” para el UCM. Y Adam Driver como Míster Siniestro me parece la guinda del pastel 🤩",
-      "text": "Pues así de primeras, me parece muy buen cast para los nuevos X-Men, especialmente por eso, porque son todos “nuevos” para el UCM. Y Adam Driver como Míster Siniestro me parece la guinda del pastel 🤩 Muchas ganas de ver estos X-Men, espero que la película merezca la pena. Marvel Studios (@MarvelStudios) The X-Men are coming to the MCU: Sadie Sink is Jean Grey Kit Connor is Cyclops Christopher Abbott is Professor Charles Xavier Samara Weaving is Emma Frost Inde Navarrette is Rogue Maya Boyd is Storm Adam Driver is Nathaniel Milbury Only in theaters May 5, 2028. Video — https://nitter.net/MarvelStudios/status/2088486248172417473#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2088572265570910623#m",
-      "date": "Sat, 15 Aug 2026 10:23:26 GMT",
+      "id": "6272bbf260e723f85fb63016b79d72db6bf387425997cf0f36ce3cd78bf8f6f7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088194948147417546#m",
+      "date": "Fri, 14 Aug 2026 09:24:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088485842369261568%2Fimg%2Ftdzm6rOwKJXAWZnT.jpg"
+        "https://nitter.net/pic/media%2FHPrCPJjWMAA540c.jpg"
       ]
     },
     {
-      "id": "cf99a37200c6997ef2b80b5fb5a39fe22befaa648b8ddf85d4e2479b8fdee553",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The X-Men are coming to the MCU: Sadie Sink is Jean Grey Kit Connor is Cyclops Christopher Abbott is Professor Charles Xavier Samara Weaving is Emma Frost Inde Navarrette is Rogue Maya Boyd is Storm A",
-      "text": "The X-Men are coming to the MCU: Sadie Sink is Jean Grey Kit Connor is Cyclops Christopher Abbott is Professor Charles Xavier Samara Weaving is Emma Frost Inde Navarrette is Rogue Maya Boyd is Storm Adam Driver is Nathaniel Milbury Only in theaters May 5, 2028. Video",
-      "url": "https://nitter.net/MarvelStudios/status/2088486248172417473#m",
-      "date": "Sat, 15 Aug 2026 04:41:38 GMT",
+      "id": "512fe0c7970327f2d82d7340f272369432b8e58bc6f8e5c90b5ab40252eab627",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2087917105375060241#m",
+      "date": "Thu, 13 Aug 2026 15:00:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088485842369261568%2Fimg%2Ftdzm6rOwKJXAWZnT.jpg"
+        "https://nitter.net/pic/media%2FHPnFiklWUAAaN3m.jpg"
+      ]
+    },
+    {
+      "id": "370e0c08216b1bc611377591edf0dc73c8a997fe42152a3bb160b1fd9f9c02d3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2087811607850004482#m",
+      "date": "Thu, 13 Aug 2026 08:00:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPlllzHWIAEoS0q.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     },
     {
@@ -204,126 +264,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLk_FcxWsAAaB9O.jpg"
-      ]
-    },
-    {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
-      ]
-    },
-    {
-      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
-      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
-      ]
-    },
-    {
-      "id": "2ae71c635d6bbed03625b210e15281c621c20d172326b6f61ed619dd1480178d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088385259846930594#m",
-      "date": "Fri, 14 Aug 2026 22:00:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPtvUtsXIAA7rdI.jpg"
-      ]
-    },
-    {
-      "id": "512fe0c7970327f2d82d7340f272369432b8e58bc6f8e5c90b5ab40252eab627",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2087917105375060241#m",
-      "date": "Thu, 13 Aug 2026 15:00:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPnFiklWUAAaN3m.jpg"
       ]
     }
   ],
@@ -355,93 +295,153 @@
       "attachments": []
     },
     {
-      "id": "7e0bdeebed066646381500de607dbc3ccc3d41ca75f4e8b08eab7b639267c5c4",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 800位～601位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "url": "https://nitter.net/Mugiwara_23/status/2088727455146066034#m",
-      "date": "Sat, 15 Aug 2026 20:40:06 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "d6b28bbfb452317e36ef55f7f2b6e852d5e9b0c12b37c794bedbd0bf4d5debc8",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "━━━🌾*＼情報解禁①／*🌾━━━ TVアニメ『#薬屋のひとりごと』 第３期 PV解禁 ━━━━━━━━━━━━━━━━ OPテーマは #ヨルシカ「雲を抜け風下へ私だけ」🍃 2026年10月2日（金）から放送開始！✨ 日本テレビ系フラアニにて 毎週金曜よる 11 時～全国同時放送！ Video",
-      "text": "━━━🌾*＼情報解禁①／*🌾━━━ TVアニメ『#薬屋のひとりごと』 第３期 PV解禁 ━━━━━━━━━━━━━━━━ OPテーマは #ヨルシカ「雲を抜け風下へ私だけ」🍃 2026年10月2日（金）から放送開始！✨ 日本テレビ系フラアニにて 毎週金曜よる 11 時～全国同時放送！ Video",
-      "url": "https://nitter.net/kusuriya_PR/status/2088587429183947183#m",
-      "date": "Sat, 15 Aug 2026 11:23:41 GMT",
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088587364193214464%2Fimg%2FaSvtjIvPjdEXJmVX.jpg"
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     },
     {
-      "id": "4b38db2f0914946bcb14d5f6536ccf4d10dd5b4918d3bb1fd923bc996495d641",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "「薬屋のひとりごと」第3期に上田麗奈、PVも公開 劇場版オリキャラもお披露目（動画あり / コメントあり） natalie.mu/comic/news/685312 #薬屋のひとりごと #亡妃の秘宝",
-      "text": "「薬屋のひとりごと」第3期に上田麗奈、PVも公開 劇場版オリキャラもお披露目（動画あり / コメントあり） natalie.mu/comic/news/685312 #薬屋のひとりごと #亡妃の秘宝",
-      "url": "https://nitter.net/comic_natalie/status/2088589085946658994#m",
-      "date": "Sat, 15 Aug 2026 11:30:16 GMT",
+      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
+      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPwos7na4AAkpij.jpg",
-        "https://nitter.net/pic/media%2FHPwotFhbEAAekGQ.jpg",
-        "https://nitter.net/pic/media%2FHPwotMzaIAAKRtl.jpg"
+        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
       ]
     },
     {
-      "id": "a66df0c8aaeaab84d492dff05d55b1e0a40f4db1fa8a8f25e977e64a31e05d44",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "実家帰ったらグラバト3の非売品クロス出てきたけど、ネット上を探してもそれらしいアイテムが出てこない…",
-      "text": "実家帰ったらグラバト3の非売品クロス出てきたけど、ネット上を探してもそれらしいアイテムが出てこない…",
-      "url": "https://nitter.net/edward_new_gate/status/2088592712597688605#m",
-      "date": "Sat, 15 Aug 2026 11:44:41 GMT",
+      "id": "2ae71c635d6bbed03625b210e15281c621c20d172326b6f61ed619dd1480178d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088385259846930594#m",
+      "date": "Fri, 14 Aug 2026 22:00:20 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHPwr_Y2bIAAXhKL.jpg"
+        "https://nitter.net/pic/media%2FHPtvUtsXIAA7rdI.jpg"
       ]
     },
     {
-      "id": "df84249f61ee9a22b36e24bf3d98fe04c00d8beb68726793ab29b0ee24c2db8f",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Pues así de primeras, me parece muy buen cast para los nuevos X-Men, especialmente por eso, porque son todos “nuevos” para el UCM. Y Adam Driver como Míster Siniestro me parece la guinda del pastel 🤩",
-      "text": "Pues así de primeras, me parece muy buen cast para los nuevos X-Men, especialmente por eso, porque son todos “nuevos” para el UCM. Y Adam Driver como Míster Siniestro me parece la guinda del pastel 🤩 Muchas ganas de ver estos X-Men, espero que la película merezca la pena. Marvel Studios (@MarvelStudios) The X-Men are coming to the MCU: Sadie Sink is Jean Grey Kit Connor is Cyclops Christopher Abbott is Professor Charles Xavier Samara Weaving is Emma Frost Inde Navarrette is Rogue Maya Boyd is Storm Adam Driver is Nathaniel Milbury Only in theaters May 5, 2028. Video — https://nitter.net/MarvelStudios/status/2088486248172417473#m",
-      "url": "https://nitter.net/Mugiwara_23/status/2088572265570910623#m",
-      "date": "Sat, 15 Aug 2026 10:23:26 GMT",
+      "id": "6272bbf260e723f85fb63016b79d72db6bf387425997cf0f36ce3cd78bf8f6f7",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088194948147417546#m",
+      "date": "Fri, 14 Aug 2026 09:24:07 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088485842369261568%2Fimg%2Ftdzm6rOwKJXAWZnT.jpg"
+        "https://nitter.net/pic/media%2FHPrCPJjWMAA540c.jpg"
       ]
     },
     {
-      "id": "cf99a37200c6997ef2b80b5fb5a39fe22befaa648b8ddf85d4e2479b8fdee553",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "The X-Men are coming to the MCU: Sadie Sink is Jean Grey Kit Connor is Cyclops Christopher Abbott is Professor Charles Xavier Samara Weaving is Emma Frost Inde Navarrette is Rogue Maya Boyd is Storm A",
-      "text": "The X-Men are coming to the MCU: Sadie Sink is Jean Grey Kit Connor is Cyclops Christopher Abbott is Professor Charles Xavier Samara Weaving is Emma Frost Inde Navarrette is Rogue Maya Boyd is Storm Adam Driver is Nathaniel Milbury Only in theaters May 5, 2028. Video",
-      "url": "https://nitter.net/MarvelStudios/status/2088486248172417473#m",
-      "date": "Sat, 15 Aug 2026 04:41:38 GMT",
+      "id": "512fe0c7970327f2d82d7340f272369432b8e58bc6f8e5c90b5ab40252eab627",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2087917105375060241#m",
+      "date": "Thu, 13 Aug 2026 15:00:04 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088485842369261568%2Fimg%2Ftdzm6rOwKJXAWZnT.jpg"
+        "https://nitter.net/pic/media%2FHPnFiklWUAAaN3m.jpg"
+      ]
+    },
+    {
+      "id": "370e0c08216b1bc611377591edf0dc73c8a997fe42152a3bb160b1fd9f9c02d3",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2087811607850004482#m",
+      "date": "Thu, 13 Aug 2026 08:00:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPlllzHWIAEoS0q.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     },
     {
@@ -528,126 +528,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHLk_FcxWsAAaB9O.jpg"
-      ]
-    },
-    {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
-      ]
-    },
-    {
-      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
-      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
-      ]
-    },
-    {
-      "id": "2ae71c635d6bbed03625b210e15281c621c20d172326b6f61ed619dd1480178d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088385259846930594#m",
-      "date": "Fri, 14 Aug 2026 22:00:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPtvUtsXIAA7rdI.jpg"
-      ]
-    },
-    {
-      "id": "512fe0c7970327f2d82d7340f272369432b8e58bc6f8e5c90b5ab40252eab627",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2087917105375060241#m",
-      "date": "Thu, 13 Aug 2026 15:00:04 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPnFiklWUAAaN3m.jpg"
       ]
     }
   ]
