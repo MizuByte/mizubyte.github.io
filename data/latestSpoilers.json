@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:25:21.250Z",
+  "generatedAt": "2026-08-16T11:57:39.826Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,6 +31,95 @@
   ],
   "misc": [
     {
+      "id": "394fef753a7a96340c9d38631a59ae7f2902cfaa38d6b6a647d041c005f1ff50",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Who's ready for next chapter ? #ONEPIECE1191",
+      "text": "Who's ready for next chapter ? #ONEPIECE1191",
+      "url": "https://nitter.net/MbokaKN/status/2088879313751785925#m",
+      "date": "Sun, 16 Aug 2026 06:43:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f51f2308eb92570357484142832aa6c97f2ce92e2eac9695257ea8898cde641d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
+      "text": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
+      "url": "https://nitter.net/6serefkaybi/status/2088587889487520180#m",
+      "date": "Sat, 15 Aug 2026 11:25:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088587810588553216%2Fimg%2FyfZgrm3ZSrX6aJ-d.jpg"
+      ]
+    },
+    {
+      "id": "ae2343aa59c60db88eb8f2e601cefeb24aca93a0299b311f1875f77d7e1179da",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Loki has ▫️The superior Base line ▫️ The superior Devil Fruit ▫️ The superior weapon ▫️ The superior Haki We moved on from Wano, time to stop 🫂🫂🫂 joy boy ♎ (@luffy_d_monki) Is kaido still the stron",
+      "text": "Loki has ▫️The superior Base line ▫️ The superior Devil Fruit ▫️ The superior weapon ▫️ The superior Haki We moved on from Wano, time to stop 🫂🫂🫂 joy boy ♎ (@luffy_d_monki) Is kaido still the strongest creature? Or who do you think is taking the win here? — https://nitter.net/luffy_d_monki/status/2088392971456852146#m",
+      "url": "https://nitter.net/dengekivinsmoke/status/2088550234477478230#m",
+      "date": "Sat, 15 Aug 2026 08:55:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPwFFO-XQAAr4ZR.jpg",
+        "https://nitter.net/pic/media%2FHPwFNn-WwAAyyDL.jpg",
+        "https://nitter.net/pic/media%2FHPwFMbkWQAAxvEu.jpg",
+        "https://nitter.net/pic/media%2FHPt2UwmWwAAi_sL.jpg"
+      ]
+    },
+    {
+      "id": "23e8a56ea2e5b52ff2b08e6ab8a01f1de619c6d1412e625397f260dc634dd9e6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "text": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "url": "https://nitter.net/WorstGenHQ/status/2088551218222088592#m",
+      "date": "Sat, 15 Aug 2026 08:59:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6fbacde36b765a37b6260cfb0b012acb51ca7d6c77c085c0fb76a91a2222d439",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "text": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "url": "https://nitter.net/AniKing/status/2088382282046337262#m",
+      "date": "Fri, 14 Aug 2026 21:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
+      ]
+    },
+    {
+      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
+      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
+      ]
+    },
+    {
       "id": "6a74ec7dfd189aa84e7c0f456768e3bec5ffc4a08af3baffe69664f392c7d401",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -235,96 +324,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
-      ]
-    },
-    {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
-      ]
-    },
-    {
-      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
-      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
-      ]
-    },
-    {
-      "id": "2ae71c635d6bbed03625b210e15281c621c20d172326b6f61ed619dd1480178d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088385259846930594#m",
-      "date": "Fri, 14 Aug 2026 22:00:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPtvUtsXIAA7rdI.jpg"
       ]
     }
   ],
@@ -356,6 +355,95 @@
       "attachments": []
     },
     {
+      "id": "394fef753a7a96340c9d38631a59ae7f2902cfaa38d6b6a647d041c005f1ff50",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Who's ready for next chapter ? #ONEPIECE1191",
+      "text": "Who's ready for next chapter ? #ONEPIECE1191",
+      "url": "https://nitter.net/MbokaKN/status/2088879313751785925#m",
+      "date": "Sun, 16 Aug 2026 06:43:32 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "f51f2308eb92570357484142832aa6c97f2ce92e2eac9695257ea8898cde641d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
+      "text": "Çorum taraftarı 1. Gole sevinirken Uğurcan 2. Golü içine alıyor Video",
+      "url": "https://nitter.net/6serefkaybi/status/2088587889487520180#m",
+      "date": "Sat, 15 Aug 2026 11:25:31 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088587810588553216%2Fimg%2FyfZgrm3ZSrX6aJ-d.jpg"
+      ]
+    },
+    {
+      "id": "ae2343aa59c60db88eb8f2e601cefeb24aca93a0299b311f1875f77d7e1179da",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Loki has ▫️The superior Base line ▫️ The superior Devil Fruit ▫️ The superior weapon ▫️ The superior Haki We moved on from Wano, time to stop 🫂🫂🫂 joy boy ♎ (@luffy_d_monki) Is kaido still the stron",
+      "text": "Loki has ▫️The superior Base line ▫️ The superior Devil Fruit ▫️ The superior weapon ▫️ The superior Haki We moved on from Wano, time to stop 🫂🫂🫂 joy boy ♎ (@luffy_d_monki) Is kaido still the strongest creature? Or who do you think is taking the win here? — https://nitter.net/luffy_d_monki/status/2088392971456852146#m",
+      "url": "https://nitter.net/dengekivinsmoke/status/2088550234477478230#m",
+      "date": "Sat, 15 Aug 2026 08:55:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPwFFO-XQAAr4ZR.jpg",
+        "https://nitter.net/pic/media%2FHPwFNn-WwAAyyDL.jpg",
+        "https://nitter.net/pic/media%2FHPwFMbkWQAAxvEu.jpg",
+        "https://nitter.net/pic/media%2FHPt2UwmWwAAi_sL.jpg"
+      ]
+    },
+    {
+      "id": "23e8a56ea2e5b52ff2b08e6ab8a01f1de619c6d1412e625397f260dc634dd9e6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "text": "#ONEPIECE1191 How a certain fandom gonna move next chapter....",
+      "url": "https://nitter.net/WorstGenHQ/status/2088551218222088592#m",
+      "date": "Sat, 15 Aug 2026 08:59:48 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6fbacde36b765a37b6260cfb0b012acb51ca7d6c77c085c0fb76a91a2222d439",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "text": "🚨New Eiichiro Oda Art for Kingdom's 20th anniversary!",
+      "url": "https://nitter.net/AniKing/status/2088382282046337262#m",
+      "date": "Fri, 14 Aug 2026 21:48:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPtsk6EWYAAXfY4.jpg"
+      ]
+    },
+    {
+      "id": "7beb24214b79525dcb220ee76c95fbf7246cdb601e553f043f1f3ef76aa25209",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "text": "MAÇ SONUCU | 2-2 #GSvÇFK",
+      "url": "https://nitter.net/corumfk/status/2088362713021841618#m",
+      "date": "Fri, 14 Aug 2026 20:30:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPta0NyXUAEq-JZ.jpg"
+      ]
+    },
+    {
       "id": "6a74ec7dfd189aa84e7c0f456768e3bec5ffc4a08af3baffe69664f392c7d401",
       "anime": "onepiece",
       "handle": "mugiwara_23",
@@ -560,96 +648,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
-      ]
-    },
-    {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
-      ]
-    },
-    {
-      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
-      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
-      ]
-    },
-    {
-      "id": "2ae71c635d6bbed03625b210e15281c621c20d172326b6f61ed619dd1480178d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088385259846930594#m",
-      "date": "Fri, 14 Aug 2026 22:00:20 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPtvUtsXIAA7rdI.jpg"
       ]
     }
   ]
