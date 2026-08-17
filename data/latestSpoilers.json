@@ -1,35 +1,145 @@
 {
-  "generatedAt": "2026-08-17T20:03:29.496Z",
+  "generatedAt": "2026-08-17T20:48:11.105Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
-      "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 670",
-      "text": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2088642952352702958#m",
-      "date": "Sat, 15 Aug 2026 15:04:19 GMT",
+      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
+      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
+        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
+      ]
     },
     {
-      "id": "7ace42f2acc41a58bc6e363d53ae88d66a9f5f43d8a9dfed656190b71fc7697a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 oth",
-      "text": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2087587092058804585#m",
-      "date": "Wed, 12 Aug 2026 17:08:42 GMT",
+      "id": "9ff144c103a473c120f674e8734a60119fcfb304f0a2ff605c6a9fc17091c58d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "More Information to Imu‘s new form (Thanks to Redon @Mugiwara_23 ) #ONEPIECE1191 #OPSPOILERS",
+      "text": "More Information to Imu‘s new form (Thanks to Redon @Mugiwara_23 ) #ONEPIECE1191 #OPSPOILERS",
+      "url": "https://nitter.net/AniKing/status/2089444453702332435#m",
+      "date": "Mon, 17 Aug 2026 20:09:12 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8yqAPWcAAN8K5.jpg"
+      ]
     }
   ],
   "misc": [
+    {
+      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
+      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
+      ]
+    },
+    {
+      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
+      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
+      ]
+    },
+    {
+      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
+      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
+      ]
+    },
+    {
+      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
+      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
+      ]
+    },
+    {
+      "id": "c2d1fc36b99c728035ce92dc45953bb274f0511130800c1cfc11f00a9c28c437",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New official onepiece art for Bon Clay birthday",
+      "text": "New official onepiece art for Bon Clay birthday",
+      "url": "https://nitter.net/pewpiece/status/2088281041513386054#m",
+      "date": "Fri, 14 Aug 2026 15:06:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPsQiQCWcAEJ8KR.jpg"
+      ]
+    },
+    {
+      "id": "86a2604f70e1c73ed5f14e0a31610906c580b9b257f38393ffcb2c1dec1cbbd6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Mekanın cennet olsun Oğuzhan evladım 💛💙",
+      "text": "Mekanın cennet olsun Oğuzhan evladım 💛💙",
+      "url": "https://nitter.net/mumtazreiss/status/2089406869303431424#m",
+      "date": "Mon, 17 Aug 2026 17:39:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8Qd7uWkAA0cUi.jpg"
+      ]
+    },
+    {
+      "id": "622eb35607882221c7631c3d37dbde1c8eccf26fd8a71d429d2cfa60f79e947f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 70+year old Gaban, who's not in his prime anymore, really made Imu say: “The brat from God Valley? I never expected you to become this strong. If I had known, I would have eliminated you",
+      "text": "#ONEPIECE1191 70+year old Gaban, who's not in his prime anymore, really made Imu say: “The brat from God Valley? I never expected you to become this strong. If I had known, I would have eliminated you along with Rocks.” LURKING LEGEND INDEED 💯🔥🔥🔥",
+      "url": "https://nitter.net/TheWillOfMarco/status/2089434050952147123#m",
+      "date": "Mon, 17 Aug 2026 19:27:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8oSwAa0AEqsIp.jpg"
+      ]
+    },
     {
       "id": "397b8250c9f8653ed49990a3db59920aa4cf528b793bd32513e84d0361b9acbe",
       "anime": "onepiece",
@@ -77,51 +187,6 @@
         "https://nitter.net/pic/media%2FHP8mxNvWoAA_cdq.jpg",
         "https://nitter.net/pic/media%2FHP8mxNpXgAET-S8.jpg",
         "https://nitter.net/pic/media%2FHP8mxNrXIAAsJqo.jpg"
-      ]
-    },
-    {
-      "id": "5227d28a2ebb978df376c2c1a540c8f6bfe5ce3eb88968cde87a53124206c31d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 It wasn't just the Rocks Pirates who became significantly stronger after God Valley. Roger and his crew also grew stronger. The fact that Imu praises Gaban here serves to build genuine h",
-      "text": "#ONEPIECE1191 It wasn't just the Rocks Pirates who became significantly stronger after God Valley. Roger and his crew also grew stronger. The fact that Imu praises Gaban here serves to build genuine hype for the Pirate King. It wasn't for nothing that Kaido hyped Roger so much.",
-      "url": "https://nitter.net/WorstGenHQ/status/2089426644616220885#m",
-      "date": "Mon, 17 Aug 2026 18:58:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8iU5mX0AADNdq.png"
-      ]
-    },
-    {
-      "id": "aaa226f9f5748d03de59868024c83917eff9841fff1871fcb848a633564a6952",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Luffy,Loki and Hajrudin together used Ocean Sovereignty and hit Imu with it. Now Luffy also can use that technique!!",
-      "text": "#ONEPIECE1191 Luffy,Loki and Hajrudin together used Ocean Sovereignty and hit Imu with it. Now Luffy also can use that technique!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2089422444851278092#m",
-      "date": "Mon, 17 Aug 2026 18:41:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8eowBWQAApyZl.jpg"
-      ]
-    },
-    {
-      "id": "1ec011ee0db29dc7fe0ed3969909ca3c500163734ccd1dd2ca1f2779866f3026",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Imu sustained good damage from Gaban's attack and praised him for his immense strength. The last attack of Gaban lead Imu to use his new Demon form!! Gaban was praised alongside Xebec!! ",
-      "text": "#ONEPIECE1191 Imu sustained good damage from Gaban's attack and praised him for his immense strength. The last attack of Gaban lead Imu to use his new Demon form!! Gaban was praised alongside Xebec!! WABAN!!!!!!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2089421807099011421#m",
-      "date": "Mon, 17 Aug 2026 18:39:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8dnOtWIAAL96w.jpg"
       ]
     },
     {
@@ -211,66 +276,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHP7lcFLbUAAYIUq.jpg"
-      ]
-    },
-    {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     },
     {
@@ -334,30 +339,140 @@
   ],
   "items": [
     {
-      "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 670",
-      "text": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2088642952352702958#m",
-      "date": "Sat, 15 Aug 2026 15:04:19 GMT",
+      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
+      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
+        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
+      ]
     },
     {
-      "id": "7ace42f2acc41a58bc6e363d53ae88d66a9f5f43d8a9dfed656190b71fc7697a",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 oth",
-      "text": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 6705 other members and enjoy free voice and text chat. discord.com",
-      "url": "https://nitter.net/PacemanOP/status/2087587092058804585#m",
-      "date": "Wed, 12 Aug 2026 17:08:42 GMT",
+      "id": "9ff144c103a473c120f674e8734a60119fcfb304f0a2ff605c6a9fc17091c58d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "More Information to Imu‘s new form (Thanks to Redon @Mugiwara_23 ) #ONEPIECE1191 #OPSPOILERS",
+      "text": "More Information to Imu‘s new form (Thanks to Redon @Mugiwara_23 ) #ONEPIECE1191 #OPSPOILERS",
+      "url": "https://nitter.net/AniKing/status/2089444453702332435#m",
+      "date": "Mon, 17 Aug 2026 20:09:12 GMT",
       "isSpoiler": true,
-      "hasAttachments": false,
-      "attachments": []
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8yqAPWcAAN8K5.jpg"
+      ]
+    },
+    {
+      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
+      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
+      ]
+    },
+    {
+      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
+      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
+      ]
+    },
+    {
+      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
+      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
+      ]
+    },
+    {
+      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
+      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
+      ]
+    },
+    {
+      "id": "c2d1fc36b99c728035ce92dc45953bb274f0511130800c1cfc11f00a9c28c437",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New official onepiece art for Bon Clay birthday",
+      "text": "New official onepiece art for Bon Clay birthday",
+      "url": "https://nitter.net/pewpiece/status/2088281041513386054#m",
+      "date": "Fri, 14 Aug 2026 15:06:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPsQiQCWcAEJ8KR.jpg"
+      ]
+    },
+    {
+      "id": "86a2604f70e1c73ed5f14e0a31610906c580b9b257f38393ffcb2c1dec1cbbd6",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Mekanın cennet olsun Oğuzhan evladım 💛💙",
+      "text": "Mekanın cennet olsun Oğuzhan evladım 💛💙",
+      "url": "https://nitter.net/mumtazreiss/status/2089406869303431424#m",
+      "date": "Mon, 17 Aug 2026 17:39:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8Qd7uWkAA0cUi.jpg"
+      ]
+    },
+    {
+      "id": "622eb35607882221c7631c3d37dbde1c8eccf26fd8a71d429d2cfa60f79e947f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 70+year old Gaban, who's not in his prime anymore, really made Imu say: “The brat from God Valley? I never expected you to become this strong. If I had known, I would have eliminated you",
+      "text": "#ONEPIECE1191 70+year old Gaban, who's not in his prime anymore, really made Imu say: “The brat from God Valley? I never expected you to become this strong. If I had known, I would have eliminated you along with Rocks.” LURKING LEGEND INDEED 💯🔥🔥🔥",
+      "url": "https://nitter.net/TheWillOfMarco/status/2089434050952147123#m",
+      "date": "Mon, 17 Aug 2026 19:27:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8oSwAa0AEqsIp.jpg"
+      ]
     },
     {
       "id": "397b8250c9f8653ed49990a3db59920aa4cf528b793bd32513e84d0361b9acbe",
@@ -406,51 +521,6 @@
         "https://nitter.net/pic/media%2FHP8mxNvWoAA_cdq.jpg",
         "https://nitter.net/pic/media%2FHP8mxNpXgAET-S8.jpg",
         "https://nitter.net/pic/media%2FHP8mxNrXIAAsJqo.jpg"
-      ]
-    },
-    {
-      "id": "5227d28a2ebb978df376c2c1a540c8f6bfe5ce3eb88968cde87a53124206c31d",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 It wasn't just the Rocks Pirates who became significantly stronger after God Valley. Roger and his crew also grew stronger. The fact that Imu praises Gaban here serves to build genuine h",
-      "text": "#ONEPIECE1191 It wasn't just the Rocks Pirates who became significantly stronger after God Valley. Roger and his crew also grew stronger. The fact that Imu praises Gaban here serves to build genuine hype for the Pirate King. It wasn't for nothing that Kaido hyped Roger so much.",
-      "url": "https://nitter.net/WorstGenHQ/status/2089426644616220885#m",
-      "date": "Mon, 17 Aug 2026 18:58:26 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8iU5mX0AADNdq.png"
-      ]
-    },
-    {
-      "id": "aaa226f9f5748d03de59868024c83917eff9841fff1871fcb848a633564a6952",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Luffy,Loki and Hajrudin together used Ocean Sovereignty and hit Imu with it. Now Luffy also can use that technique!!",
-      "text": "#ONEPIECE1191 Luffy,Loki and Hajrudin together used Ocean Sovereignty and hit Imu with it. Now Luffy also can use that technique!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2089422444851278092#m",
-      "date": "Mon, 17 Aug 2026 18:41:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8eowBWQAApyZl.jpg"
-      ]
-    },
-    {
-      "id": "1ec011ee0db29dc7fe0ed3969909ca3c500163734ccd1dd2ca1f2779866f3026",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "#ONEPIECE1191 Imu sustained good damage from Gaban's attack and praised him for his immense strength. The last attack of Gaban lead Imu to use his new Demon form!! Gaban was praised alongside Xebec!! ",
-      "text": "#ONEPIECE1191 Imu sustained good damage from Gaban's attack and praised him for his immense strength. The last attack of Gaban lead Imu to use his new Demon form!! Gaban was praised alongside Xebec!! WABAN!!!!!!!",
-      "url": "https://nitter.net/WorstGenHQ/status/2089421807099011421#m",
-      "date": "Mon, 17 Aug 2026 18:39:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8dnOtWIAAL96w.jpg"
       ]
     },
     {
@@ -540,66 +610,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHP7lcFLbUAAYIUq.jpg"
-      ]
-    },
-    {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     },
     {
