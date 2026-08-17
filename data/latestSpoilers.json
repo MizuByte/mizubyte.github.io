@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:35:18.021Z",
+  "generatedAt": "2026-08-17T17:04:54.210Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -120,6 +120,34 @@
       ]
     },
     {
+      "id": "cb2f438022f8cf5ceeed7e79d184c6211b37e3e7d83db6a9d2cda73898dc61ad",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 👀👀",
+      "text": "#ONEPIECE1191 👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2089396337418834341#m",
+      "date": "Mon, 17 Aug 2026 16:58:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bc2e8d04228f82c171d1de2b39669f71c6f26833e6e3866f2f259982ead8e52f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 What are your thoughts on Gaban? What did you think of his performance and his fight against Imu? Based on what he showed, do you think it was really good?",
+      "text": "#ONEPIECE1191 What are your thoughts on Gaban? What did you think of his performance and his fight against Imu? Based on what he showed, do you think it was really good?",
+      "url": "https://nitter.net/WorstGenHQ/status/2089392043583734029#m",
+      "date": "Mon, 17 Aug 2026 16:40:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8C8SyXwAAiZaj.jpg"
+      ]
+    },
+    {
       "id": "1328a3b63b5e396197f7c82a79b752b994d401bbc960cc81ec450f406d1aef4d",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -146,19 +174,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
       ]
-    },
-    {
-      "id": "c490555b90b77ca79d88cb1f3dc862c06c5bebf7642af15f72d84b4ecf2496dd",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @Mugiwara_23:",
-      "text": "RT @Mugiwara_23:",
-      "url": "https://nitter.net/WorstGenHQ/status/2089279608545775718#m",
-      "date": "Mon, 17 Aug 2026 09:14:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "918393d0980d718684de1f387135983a7c6d0203df122ae50623f23ef98b8147",
@@ -188,22 +203,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHP6GCRtWwAAosCg.jpg"
-      ]
-    },
-    {
-      "id": "7c81a3cdc6bf4e274c54226d4901c0f319bc83b416e2b640b0c14e70ca01a16f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Hayden Panettiere, best known for her roles in \"Heroes\" and \"Nashville,\" has died at 36 💔 buff.ly/FsOPZze",
-      "text": "Hayden Panettiere, best known for her roles in \"Heroes\" and \"Nashville,\" has died at 36 💔 buff.ly/FsOPZze",
-      "url": "https://nitter.net/TMZ/status/2089188400561566180#m",
-      "date": "Mon, 17 Aug 2026 03:11:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP5JvkjWkAAsrNG.jpg",
-        "https://nitter.net/pic/media%2FHP5JwybXoAAwCby.jpg"
       ]
     },
     {
@@ -264,6 +263,67 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
+      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
+      ]
+    },
+    {
+      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
+      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
+        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
+      ]
+    },
+    {
+      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
+      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+      ]
+    },
+    {
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     }
   ],
@@ -384,6 +444,34 @@
       ]
     },
     {
+      "id": "cb2f438022f8cf5ceeed7e79d184c6211b37e3e7d83db6a9d2cda73898dc61ad",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 👀👀",
+      "text": "#ONEPIECE1191 👀👀",
+      "url": "https://nitter.net/WorstGenHQ/status/2089396337418834341#m",
+      "date": "Mon, 17 Aug 2026 16:58:00 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "bc2e8d04228f82c171d1de2b39669f71c6f26833e6e3866f2f259982ead8e52f",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 What are your thoughts on Gaban? What did you think of his performance and his fight against Imu? Based on what he showed, do you think it was really good?",
+      "text": "#ONEPIECE1191 What are your thoughts on Gaban? What did you think of his performance and his fight against Imu? Based on what he showed, do you think it was really good?",
+      "url": "https://nitter.net/WorstGenHQ/status/2089392043583734029#m",
+      "date": "Mon, 17 Aug 2026 16:40:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8C8SyXwAAiZaj.jpg"
+      ]
+    },
+    {
       "id": "1328a3b63b5e396197f7c82a79b752b994d401bbc960cc81ec450f406d1aef4d",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -410,19 +498,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
       ]
-    },
-    {
-      "id": "c490555b90b77ca79d88cb1f3dc862c06c5bebf7642af15f72d84b4ecf2496dd",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "RT @Mugiwara_23:",
-      "text": "RT @Mugiwara_23:",
-      "url": "https://nitter.net/WorstGenHQ/status/2089279608545775718#m",
-      "date": "Mon, 17 Aug 2026 09:14:10 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
     },
     {
       "id": "918393d0980d718684de1f387135983a7c6d0203df122ae50623f23ef98b8147",
@@ -452,22 +527,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHP6GCRtWwAAosCg.jpg"
-      ]
-    },
-    {
-      "id": "7c81a3cdc6bf4e274c54226d4901c0f319bc83b416e2b640b0c14e70ca01a16f",
-      "anime": "onepiece",
-      "handle": "worstgenhq",
-      "sourceLabel": "One Piece β",
-      "title": "Hayden Panettiere, best known for her roles in \"Heroes\" and \"Nashville,\" has died at 36 💔 buff.ly/FsOPZze",
-      "text": "Hayden Panettiere, best known for her roles in \"Heroes\" and \"Nashville,\" has died at 36 💔 buff.ly/FsOPZze",
-      "url": "https://nitter.net/TMZ/status/2089188400561566180#m",
-      "date": "Mon, 17 Aug 2026 03:11:44 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP5JvkjWkAAsrNG.jpg",
-        "https://nitter.net/pic/media%2FHP5JwybXoAAwCby.jpg"
       ]
     },
     {
@@ -528,6 +587,67 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
+      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
+      ]
+    },
+    {
+      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
+      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
+        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
+      ]
+    },
+    {
+      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
+      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+      ]
+    },
+    {
+      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "",
+      "text": "",
+      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
+      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     }
   ]
