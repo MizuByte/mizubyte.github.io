@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-08-18T07:24:54.416Z",
+  "generatedAt": "2026-08-18T08:01:27.177Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -47,81 +31,6 @@
   ],
   "misc": [
     {
-      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
-      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
-      ]
-    },
-    {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
-      ]
-    },
-    {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
-      ]
-    },
-    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -266,101 +175,9 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
-    },
-    {
-      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
-      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
-      ]
-    },
-    {
-      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
-      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
-      ]
-    },
-    {
-      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
-      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
-        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
-      ]
-    },
-    {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
-      ]
-    },
-    {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
-      ]
     }
   ],
   "items": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -388,81 +205,6 @@
       "attachments": []
     },
     {
-      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
-      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
-      ]
-    },
-    {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
-      ]
-    },
-    {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
-      ]
-    },
-    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -606,82 +348,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
-      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
-      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
-      ]
-    },
-    {
-      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
-      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
-      ]
-    },
-    {
-      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
-      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
-        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
-      ]
-    },
-    {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
-      ]
-    },
-    {
-      "id": "b4b856cb0afe5e31d406b8a03854ea09b95b344adc418e48f0fd086c2f676f27",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "",
-      "text": "",
-      "url": "https://nitter.net/daily_berserk/status/2088667264950153475#m",
-      "date": "Sat, 15 Aug 2026 16:40:56 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
     }
   ]
