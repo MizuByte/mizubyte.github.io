@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:42:51.069Z",
+  "generatedAt": "2026-08-18T21:58:50.208Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -266,6 +266,82 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
+    },
+    {
+      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
+      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+      ]
+    },
+    {
+      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
+      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
+      ]
+    },
+    {
+      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
+      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
+      ]
+    },
+    {
+      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
+      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
+        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
+      ]
+    },
+    {
+      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
+      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
+      ]
     }
   ],
   "items": [
@@ -530,6 +606,82 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
+      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+      ]
+    },
+    {
+      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
+      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
+      ]
+    },
+    {
+      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
+      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
+      ]
+    },
+    {
+      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
+      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
+        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
+      ]
+    },
+    {
+      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
+      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
       ]
     }
   ]
