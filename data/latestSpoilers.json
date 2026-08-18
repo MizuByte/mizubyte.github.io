@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-08-18T04:56:34.604Z",
+  "generatedAt": "2026-08-18T05:23:50.167Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -47,164 +31,92 @@
   ],
   "misc": [
     {
-      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
+      "id": "3fe56fc6e2c09e9de53ea42df0fbfae0faecd39bf21058fec43947dffdaa0b06",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
-      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy birthday Ikue Otani! 🎉 #IkueOtani #大谷育江 #大谷育江生誕祭2026",
+      "text": "Happy birthday Ikue Otani! 🎉 #IkueOtani #大谷育江 #大谷育江生誕祭2026",
+      "url": "https://nitter.net/seiyuucorner/status/2089366651745579469#m",
+      "date": "Mon, 17 Aug 2026 15:00:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
+        "https://nitter.net/pic/media%2FHP7hcrwboAAGN58.jpg"
       ]
     },
     {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
+      "id": "12bdeefea029c310a3883c0dcf2c9ac57bb35919d5238b92e1124898f73dcf0a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Oda with his voice in 2003🥰🥰: When I come up with a story for One Piece, what usually comes to me first is a key scene showing how it will all play out in the end. Once I can see that climactic mome",
+      "text": "Oda with his voice in 2003🥰🥰: When I come up with a story for One Piece, what usually comes to me first is a key scene showing how it will all play out in the end. Once I can see that climactic moment clearly, I feel reassured, because I know I can make that part work. So even if audience tell me the story isn’t very interesting in the middle, it doesn’t scare me at all. I’m thinking, “Just wait until you see the ending!!🔥” Video",
+      "url": "https://nitter.net/sandman_AP/status/2089299722901024957#m",
+      "date": "Mon, 17 Aug 2026 10:34:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2089299700843466752%2Fimg%2FPxi8pY1hrdnfgC96.jpg"
       ]
     },
     {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
+      "id": "6b29ead635b387e662a41805d0e75d81717fffc7b24cb6bb90ff51f7eb169d14",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
-      ]
-    },
-    {
-      "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "text": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2088926811321159819#m",
-      "date": "Sun, 16 Aug 2026 09:52:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1b3NsWoAAbgzJ.jpg"
-      ]
-    },
-    {
-      "id": "7db962655a08fa7e8fddd4e72b00289173ff73af1a46881040d26f136165d591",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated o",
-      "text": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated on MANGA Plus on 8/21 (Fri.). We sincerely apologize to readers. The series will resume with the MANGA Plus update on 9/18 (Fri.). Thank you for understanding. — https://nitter.net/NARUTO_info_en/status/2088120933211050119#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2088493311648506000#m",
-      "date": "Sat, 15 Aug 2026 05:09:42 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 【コラボ情報】 ⠀ セイコーより ONE PIECE新幹線『せとうちブルー号』と コラボした腕時計が登場⌚️ ⠀ 5,000点の数量限定で 裏蓋にはエディションナンバーを刻印。 ⠀ PREMICOオンラインショップにて 本日8.17(月)…",
+      "text": "RT @Eiichiro_Staff: 【コラボ情報】 ⠀ セイコーより ONE PIECE新幹線『せとうちブルー号』と コラボした腕時計が登場⌚️ ⠀ 5,000点の数量限定で 裏蓋にはエディションナンバーを刻印。 ⠀ PREMICOオンラインショップにて 本日8.17(月)…",
+      "url": "https://nitter.net/Mugiwara_23/status/2089487600499179650#m",
+      "date": "Mon, 17 Aug 2026 23:00:39 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-",
-      "text": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-new limited anime series, streams August 5 on @DisneyPlus and @hulu. Video — https://nitter.net/starwars/status/2084308408518476014#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2084619267190796698#m",
-      "date": "Tue, 04 Aug 2026 12:35:38 GMT",
+      "id": "4ac20870cdd20376cd17cadfbdd261c74162253f7e0ec456cf8795fa35336598",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1935. #ITWelcomeToDerry will return for Season Two. Video",
+      "text": "1935. #ITWelcomeToDerry will return for Season Two. Video",
+      "url": "https://nitter.net/hbomax/status/2089381999463076018#m",
+      "date": "Mon, 17 Aug 2026 16:01:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOz0PB2bEAAC7UZ.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2089381095242452992%2Fimg%2FQ5kf1B_Ad37Ol1IG.jpg"
       ]
     },
     {
-      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kawaki during Boruto TBV: #BORUTO",
-      "text": "Kawaki during Boruto TBV: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
-      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
+      "id": "e90573e7e9527b57d2e9005a2f4fe539d5fb0b319b072846d6da976cef8d6986",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🤣",
+      "text": "🤣",
+      "url": "https://nitter.net/adamemedia1/status/2089133434736099795#m",
+      "date": "Sun, 16 Aug 2026 23:33:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+        "https://nitter.net/pic/media%2FHP4XyVrW4AA9fzS.jpg"
       ]
     },
     {
-      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
-      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
-      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
-      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "id": "b31ce77ab8290ddfe49dc324e01e570f75dcbb2205b4d751b75251c327e5c81c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Que hace 1 año aprobara este Decreto que le garantiza al menos 4 años de vivienda es casualidad. Que 4 meses después aprobara una transferencia de crédito de 9 millones a Planifica y que ésta comprara",
+      "text": "Que hace 1 año aprobara este Decreto que le garantiza al menos 4 años de vivienda es casualidad. Que 4 meses después aprobara una transferencia de crédito de 9 millones a Planifica y que ésta comprara 5 meses después el ático opacamente por 6,3 millones fue una mera coincidencia elDiario.es (@eldiarioes) Ayuso, sobre la polémica del ático: “No voy a necesitar una residencia oficial a 10 meses de las elecciones” eldiario.es/madrid/ayuso-pol… Video — https://nitter.net/eldiarioes/status/2089307233221759485#m",
+      "url": "https://nitter.net/ciudadano_o2/status/2089311481800138962#m",
+      "date": "Mon, 17 Aug 2026 11:20:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+        "https://nitter.net/pic/media%2FHP65uBLWsAAdmRu.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2089307189550686208%2Fimg%2FoUDEIR-zWlUSnBha.jpg"
       ]
     },
     {
@@ -342,25 +254,24 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
       ]
+    },
+    {
+      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
+      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -388,164 +299,92 @@
       "attachments": []
     },
     {
-      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
+      "id": "3fe56fc6e2c09e9de53ea42df0fbfae0faecd39bf21058fec43947dffdaa0b06",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
-      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Happy birthday Ikue Otani! 🎉 #IkueOtani #大谷育江 #大谷育江生誕祭2026",
+      "text": "Happy birthday Ikue Otani! 🎉 #IkueOtani #大谷育江 #大谷育江生誕祭2026",
+      "url": "https://nitter.net/seiyuucorner/status/2089366651745579469#m",
+      "date": "Mon, 17 Aug 2026 15:00:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
+        "https://nitter.net/pic/media%2FHP7hcrwboAAGN58.jpg"
       ]
     },
     {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
+      "id": "12bdeefea029c310a3883c0dcf2c9ac57bb35919d5238b92e1124898f73dcf0a",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Oda with his voice in 2003🥰🥰: When I come up with a story for One Piece, what usually comes to me first is a key scene showing how it will all play out in the end. Once I can see that climactic mome",
+      "text": "Oda with his voice in 2003🥰🥰: When I come up with a story for One Piece, what usually comes to me first is a key scene showing how it will all play out in the end. Once I can see that climactic moment clearly, I feel reassured, because I know I can make that part work. So even if audience tell me the story isn’t very interesting in the middle, it doesn’t scare me at all. I’m thinking, “Just wait until you see the ending!!🔥” Video",
+      "url": "https://nitter.net/sandman_AP/status/2089299722901024957#m",
+      "date": "Mon, 17 Aug 2026 10:34:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2089299700843466752%2Fimg%2FPxi8pY1hrdnfgC96.jpg"
       ]
     },
     {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
+      "id": "6b29ead635b387e662a41805d0e75d81717fffc7b24cb6bb90ff51f7eb169d14",
       "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
-      ]
-    },
-    {
-      "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "text": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2088926811321159819#m",
-      "date": "Sun, 16 Aug 2026 09:52:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1b3NsWoAAbgzJ.jpg"
-      ]
-    },
-    {
-      "id": "7db962655a08fa7e8fddd4e72b00289173ff73af1a46881040d26f136165d591",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated o",
-      "text": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated on MANGA Plus on 8/21 (Fri.). We sincerely apologize to readers. The series will resume with the MANGA Plus update on 9/18 (Fri.). Thank you for understanding. — https://nitter.net/NARUTO_info_en/status/2088120933211050119#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2088493311648506000#m",
-      "date": "Sat, 15 Aug 2026 05:09:42 GMT",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 【コラボ情報】 ⠀ セイコーより ONE PIECE新幹線『せとうちブルー号』と コラボした腕時計が登場⌚️ ⠀ 5,000点の数量限定で 裏蓋にはエディションナンバーを刻印。 ⠀ PREMICOオンラインショップにて 本日8.17(月)…",
+      "text": "RT @Eiichiro_Staff: 【コラボ情報】 ⠀ セイコーより ONE PIECE新幹線『せとうちブルー号』と コラボした腕時計が登場⌚️ ⠀ 5,000点の数量限定で 裏蓋にはエディションナンバーを刻印。 ⠀ PREMICOオンラインショップにて 本日8.17(月)…",
+      "url": "https://nitter.net/Mugiwara_23/status/2089487600499179650#m",
+      "date": "Mon, 17 Aug 2026 23:00:39 GMT",
       "isSpoiler": false,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-",
-      "text": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-new limited anime series, streams August 5 on @DisneyPlus and @hulu. Video — https://nitter.net/starwars/status/2084308408518476014#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2084619267190796698#m",
-      "date": "Tue, 04 Aug 2026 12:35:38 GMT",
+      "id": "4ac20870cdd20376cd17cadfbdd261c74162253f7e0ec456cf8795fa35336598",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "1935. #ITWelcomeToDerry will return for Season Two. Video",
+      "text": "1935. #ITWelcomeToDerry will return for Season Two. Video",
+      "url": "https://nitter.net/hbomax/status/2089381999463076018#m",
+      "date": "Mon, 17 Aug 2026 16:01:02 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHOz0PB2bEAAC7UZ.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2089381095242452992%2Fimg%2FQ5kf1B_Ad37Ol1IG.jpg"
       ]
     },
     {
-      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kawaki during Boruto TBV: #BORUTO",
-      "text": "Kawaki during Boruto TBV: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
-      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
+      "id": "e90573e7e9527b57d2e9005a2f4fe539d5fb0b319b072846d6da976cef8d6986",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "🤣",
+      "text": "🤣",
+      "url": "https://nitter.net/adamemedia1/status/2089133434736099795#m",
+      "date": "Sun, 16 Aug 2026 23:33:19 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+        "https://nitter.net/pic/media%2FHP4XyVrW4AA9fzS.jpg"
       ]
     },
     {
-      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
-      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
-      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
-      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "id": "b31ce77ab8290ddfe49dc324e01e570f75dcbb2205b4d751b75251c327e5c81c",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Que hace 1 año aprobara este Decreto que le garantiza al menos 4 años de vivienda es casualidad. Que 4 meses después aprobara una transferencia de crédito de 9 millones a Planifica y que ésta comprara",
+      "text": "Que hace 1 año aprobara este Decreto que le garantiza al menos 4 años de vivienda es casualidad. Que 4 meses después aprobara una transferencia de crédito de 9 millones a Planifica y que ésta comprara 5 meses después el ático opacamente por 6,3 millones fue una mera coincidencia elDiario.es (@eldiarioes) Ayuso, sobre la polémica del ático: “No voy a necesitar una residencia oficial a 10 meses de las elecciones” eldiario.es/madrid/ayuso-pol… Video — https://nitter.net/eldiarioes/status/2089307233221759485#m",
+      "url": "https://nitter.net/ciudadano_o2/status/2089311481800138962#m",
+      "date": "Mon, 17 Aug 2026 11:20:49 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+        "https://nitter.net/pic/media%2FHP65uBLWsAAdmRu.jpg",
+        "https://nitter.net/pic/amplify_video_thumb%2F2089307189550686208%2Fimg%2FoUDEIR-zWlUSnBha.jpg"
       ]
     },
     {
@@ -682,6 +521,21 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPxvzcyWoAE8PbS.jpg"
+      ]
+    },
+    {
+      "id": "8bc1b47043f3e8449ad8955356cc0df982057ac9c838b70c4a9d5ab3b89a5cc5",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2088614471350497647#m",
+      "date": "Sat, 15 Aug 2026 13:11:09 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPw_ypkXEAALue8.jpg"
       ]
     }
   ]
