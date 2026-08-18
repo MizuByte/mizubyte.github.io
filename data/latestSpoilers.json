@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-08-17T23:58:59.324Z",
+  "generatedAt": "2026-08-18T01:23:49.932Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "9ff144c103a473c120f674e8734a60119fcfb304f0a2ff605c6a9fc17091c58d",
       "anime": "onepiece",
@@ -62,81 +46,6 @@
   ],
   "misc": [
     {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
-      ]
-    },
-    {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
-      ]
-    },
-    {
-      "id": "c2d1fc36b99c728035ce92dc45953bb274f0511130800c1cfc11f00a9c28c437",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New official onepiece art for Bon Clay birthday",
-      "text": "New official onepiece art for Bon Clay birthday",
-      "url": "https://nitter.net/pewpiece/status/2088281041513386054#m",
-      "date": "Fri, 14 Aug 2026 15:06:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPsQiQCWcAEJ8KR.jpg"
-      ]
-    },
-    {
       "id": "c5348954f7c5bba9d95ef57264acf888a9d3cf08606f249a45dee0fa23bb0222",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -361,25 +270,82 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
       ]
+    },
+    {
+      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
+      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
+      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
     }
   ],
   "items": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "9ff144c103a473c120f674e8734a60119fcfb304f0a2ff605c6a9fc17091c58d",
       "anime": "onepiece",
@@ -422,81 +388,6 @@
       "attachments": []
     },
     {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
-      ]
-    },
-    {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
-      ]
-    },
-    {
-      "id": "c2d1fc36b99c728035ce92dc45953bb274f0511130800c1cfc11f00a9c28c437",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New official onepiece art for Bon Clay birthday",
-      "text": "New official onepiece art for Bon Clay birthday",
-      "url": "https://nitter.net/pewpiece/status/2088281041513386054#m",
-      "date": "Fri, 14 Aug 2026 15:06:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPsQiQCWcAEJ8KR.jpg"
-      ]
-    },
-    {
       "id": "c5348954f7c5bba9d95ef57264acf888a9d3cf08606f249a45dee0fa23bb0222",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -720,6 +611,79 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
+      ]
+    },
+    {
+      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
+      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
+      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
+      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
+      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
       ]
     }
   ]
