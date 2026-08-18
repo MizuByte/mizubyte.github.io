@@ -1,7 +1,38 @@
 {
-  "generatedAt": "2026-08-18T08:01:27.177Z",
+  "generatedAt": "2026-08-18T08:45:12.017Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
+    {
+      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
+      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
+        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
+      ]
+    },
+    {
+      "id": "68a2b165d8583279a6d936b97135b307fd9f891728972c7099c9bcc597b237ed",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Art source: instagram.com/p/DO2hWaxks3U/ Link Jazyl Homavazir | Anime Artist / Animator (@jazylhdraws) • Instagram photo instagram.com",
+      "text": "Art source: instagram.com/p/DO2hWaxks3U/ Link Jazyl Homavazir | Anime Artist / Animator (@jazylhdraws) • Instagram photo instagram.com",
+      "url": "https://nitter.net/WorstGenHQ/status/2089620326627803276#m",
+      "date": "Tue, 18 Aug 2026 07:48:03 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2089620369367867392%2FRBDQaimA%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -31,6 +62,219 @@
   ],
   "misc": [
     {
+      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
+      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
+      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
+      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
+      ]
+    },
+    {
+      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
+      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
+      ]
+    },
+    {
+      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
+      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
+      ]
+    },
+    {
+      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
+      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
+      ]
+    },
+    {
+      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
+      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
+      ]
+    },
+    {
+      "id": "16a951dee08e1a861b5ae08036aa11d1578693dececfdb3d6fc9088673e3ae9e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Robin asks Chopper to go to Biblo because she has noticed something. And Bilbo tells Chopper something that leaves him shocked.... We do not know what Biblo said, but Chopper appears to ",
+      "text": "#ONEPIECE1191 Robin asks Chopper to go to Biblo because she has noticed something. And Bilbo tells Chopper something that leaves him shocked.... We do not know what Biblo said, but Chopper appears to be very shocked.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089622530134872246#m",
+      "date": "Tue, 18 Aug 2026 07:56:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_UeIEW8AADMl0.png"
+      ]
+    },
+    {
+      "id": "6e1ce58ad9c535e895ebb7552faa3a394ea593e1dad623256a26ecc38b0ea91d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 People are surprised by the comparison(powerscaling) between Xebec and Gaban However, many forget that Xebec never reached his prime, as it was hinted by Eris. Through Teach, we will see",
+      "text": "#ONEPIECE1191 People are surprised by the comparison(powerscaling) between Xebec and Gaban However, many forget that Xebec never reached his prime, as it was hinted by Eris. Through Teach, we will see the potential of a prime Xebec, if he had not died at God Valley.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089618950501884273#m",
+      "date": "Tue, 18 Aug 2026 07:42:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_RXCHWIAA4NDr.jpg"
+      ]
+    },
+    {
+      "id": "f85679a7ee7bb8579459c2a5a4c3b286bb196cdf2b1f671e9661393703b3e819",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I've always said that Detective Conan will finish first before One Piece Anime Tokki (@AnimeTokki) The storyboard for the finale of 'Detective Conan' is complete. Confirmed by the Creator Gosho Aoyama",
+      "text": "I've always said that Detective Conan will finish first before One Piece Anime Tokki (@AnimeTokki) The storyboard for the finale of 'Detective Conan' is complete. Confirmed by the Creator Gosho Aoyama. — https://nitter.net/AnimeTokki/status/2089369400558129365#m",
+      "url": "https://nitter.net/TheWillOfMarco/status/2089507187869823350#m",
+      "date": "Tue, 18 Aug 2026 00:18:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP7uGirX0AAtT65.jpg",
+        "https://nitter.net/pic/media%2FHP7uS4vW0AAL2PA.jpg"
+      ]
+    },
+    {
+      "id": "c5348954f7c5bba9d95ef57264acf888a9d3cf08606f249a45dee0fa23bb0222",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Luffy Loki Hajrudin Video WorstGenHQ (@WorstGenHQ) #ONEPIECE1191 🔥🔥🔥 #FearLOKI #FearLUFFY #FearHajrudinIGuess? — https://nitter.net/WorstGenHQ/status/2089272185105924556#m",
+      "text": "#ONEPIECE1191 Luffy Loki Hajrudin Video WorstGenHQ (@WorstGenHQ) #ONEPIECE1191 🔥🔥🔥 #FearLOKI #FearLUFFY #FearHajrudinIGuess? — https://nitter.net/WorstGenHQ/status/2089272185105924556#m",
+      "url": "https://nitter.net/Slightly_Two3/status/2089344688461590889#m",
+      "date": "Mon, 17 Aug 2026 13:32:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F1828590063737032704%2Fimg%2Fos-ephgvO7bDmAj2.jpg",
+        "https://nitter.net/pic/media%2FHP6V-kfXUAAJjeT.jpg"
+      ]
+    },
+    {
+      "id": "3704bcc43e26dceddc4c2c6b8a594ae7bf14d8bf4a322fc2ed0c6bdcfabbac01",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "2- الباف والحاكم الشيطاني ✡️ ذكرت لكم انه كلمة الباف تدل على الايلف ولكن قد تدل الكلمة على معنى آخر موجود في الاساطير حاكم شيطاني اسمه Baphomet ، و كلمة الباف تدل على الحاكم هذا وخلوني اعطيكم الادلة ✍",
+      "text": "2- الباف والحاكم الشيطاني ✡️ ذكرت لكم انه كلمة الباف تدل على الايلف ولكن قد تدل الكلمة على معنى آخر موجود في الاساطير حاكم شيطاني اسمه Baphomet ، و كلمة الباف تدل على الحاكم هذا وخلوني اعطيكم الادلة ✍🏻 #حرق_ون_بيس",
+      "url": "https://nitter.net/Riiezx/status/1853475585638432906#m",
+      "date": "Mon, 04 Nov 2024 16:33:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FGbjeN1hXUAAi_cz.jpg",
+        "https://nitter.net/pic/media%2FGbjeN1iW0AAGInr.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -115,69 +359,40 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
       ]
-    },
-    {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
+      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
+      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
+        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
+      ]
+    },
+    {
+      "id": "68a2b165d8583279a6d936b97135b307fd9f891728972c7099c9bcc597b237ed",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "Art source: instagram.com/p/DO2hWaxks3U/ Link Jazyl Homavazir | Anime Artist / Animator (@jazylhdraws) • Instagram photo instagram.com",
+      "text": "Art source: instagram.com/p/DO2hWaxks3U/ Link Jazyl Homavazir | Anime Artist / Animator (@jazylhdraws) • Instagram photo instagram.com",
+      "url": "https://nitter.net/WorstGenHQ/status/2089620326627803276#m",
+      "date": "Tue, 18 Aug 2026 07:48:03 GMT",
+      "isSpoiler": true,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/card_img%2F2089620369367867392%2FRBDQaimA%3Fformat%3Djpg%26name%3D800x419"
+      ]
+    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -205,6 +420,219 @@
       "attachments": []
     },
     {
+      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
+      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
+      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
+      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
+      ]
+    },
+    {
+      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
+      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
+      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
+      ]
+    },
+    {
+      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
+      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
+      ]
+    },
+    {
+      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
+      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
+      ]
+    },
+    {
+      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
+      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
+      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
+      ]
+    },
+    {
+      "id": "16a951dee08e1a861b5ae08036aa11d1578693dececfdb3d6fc9088673e3ae9e",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Robin asks Chopper to go to Biblo because she has noticed something. And Bilbo tells Chopper something that leaves him shocked.... We do not know what Biblo said, but Chopper appears to ",
+      "text": "#ONEPIECE1191 Robin asks Chopper to go to Biblo because she has noticed something. And Bilbo tells Chopper something that leaves him shocked.... We do not know what Biblo said, but Chopper appears to be very shocked.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089622530134872246#m",
+      "date": "Tue, 18 Aug 2026 07:56:49 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_UeIEW8AADMl0.png"
+      ]
+    },
+    {
+      "id": "6e1ce58ad9c535e895ebb7552faa3a394ea593e1dad623256a26ecc38b0ea91d",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 People are surprised by the comparison(powerscaling) between Xebec and Gaban However, many forget that Xebec never reached his prime, as it was hinted by Eris. Through Teach, we will see",
+      "text": "#ONEPIECE1191 People are surprised by the comparison(powerscaling) between Xebec and Gaban However, many forget that Xebec never reached his prime, as it was hinted by Eris. Through Teach, we will see the potential of a prime Xebec, if he had not died at God Valley.",
+      "url": "https://nitter.net/WorstGenHQ/status/2089618950501884273#m",
+      "date": "Tue, 18 Aug 2026 07:42:35 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_RXCHWIAA4NDr.jpg"
+      ]
+    },
+    {
+      "id": "f85679a7ee7bb8579459c2a5a4c3b286bb196cdf2b1f671e9661393703b3e819",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "I've always said that Detective Conan will finish first before One Piece Anime Tokki (@AnimeTokki) The storyboard for the finale of 'Detective Conan' is complete. Confirmed by the Creator Gosho Aoyama",
+      "text": "I've always said that Detective Conan will finish first before One Piece Anime Tokki (@AnimeTokki) The storyboard for the finale of 'Detective Conan' is complete. Confirmed by the Creator Gosho Aoyama. — https://nitter.net/AnimeTokki/status/2089369400558129365#m",
+      "url": "https://nitter.net/TheWillOfMarco/status/2089507187869823350#m",
+      "date": "Tue, 18 Aug 2026 00:18:29 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP7uGirX0AAtT65.jpg",
+        "https://nitter.net/pic/media%2FHP7uS4vW0AAL2PA.jpg"
+      ]
+    },
+    {
+      "id": "c5348954f7c5bba9d95ef57264acf888a9d3cf08606f249a45dee0fa23bb0222",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "#ONEPIECE1191 Luffy Loki Hajrudin Video WorstGenHQ (@WorstGenHQ) #ONEPIECE1191 🔥🔥🔥 #FearLOKI #FearLUFFY #FearHajrudinIGuess? — https://nitter.net/WorstGenHQ/status/2089272185105924556#m",
+      "text": "#ONEPIECE1191 Luffy Loki Hajrudin Video WorstGenHQ (@WorstGenHQ) #ONEPIECE1191 🔥🔥🔥 #FearLOKI #FearLUFFY #FearHajrudinIGuess? — https://nitter.net/WorstGenHQ/status/2089272185105924556#m",
+      "url": "https://nitter.net/Slightly_Two3/status/2089344688461590889#m",
+      "date": "Mon, 17 Aug 2026 13:32:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F1828590063737032704%2Fimg%2Fos-ephgvO7bDmAj2.jpg",
+        "https://nitter.net/pic/media%2FHP6V-kfXUAAJjeT.jpg"
+      ]
+    },
+    {
+      "id": "3704bcc43e26dceddc4c2c6b8a594ae7bf14d8bf4a322fc2ed0c6bdcfabbac01",
+      "anime": "onepiece",
+      "handle": "worstgenhq",
+      "sourceLabel": "One Piece β",
+      "title": "2- الباف والحاكم الشيطاني ✡️ ذكرت لكم انه كلمة الباف تدل على الايلف ولكن قد تدل الكلمة على معنى آخر موجود في الاساطير حاكم شيطاني اسمه Baphomet ، و كلمة الباف تدل على الحاكم هذا وخلوني اعطيكم الادلة ✍",
+      "text": "2- الباف والحاكم الشيطاني ✡️ ذكرت لكم انه كلمة الباف تدل على الايلف ولكن قد تدل الكلمة على معنى آخر موجود في الاساطير حاكم شيطاني اسمه Baphomet ، و كلمة الباف تدل على الحاكم هذا وخلوني اعطيكم الادلة ✍🏻 #حرق_ون_بيس",
+      "url": "https://nitter.net/Riiezx/status/1853475585638432906#m",
+      "date": "Mon, 04 Nov 2024 16:33:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FGbjeN1hXUAAi_cz.jpg",
+        "https://nitter.net/pic/media%2FGbjeN1iW0AAGInr.jpg"
+      ]
+    },
+    {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -288,66 +716,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
-      ]
-    },
-    {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
       ]
     }
   ]
