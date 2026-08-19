@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T13:15:22.945Z",
+  "generatedAt": "2026-08-19T14:02:19.921Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -47,6 +47,21 @@
   ],
   "misc": [
     {
+      "id": "7e300b7468c01082ade34c6b1d2f9b18336995054eb51c63ec61647fcb644263",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New Nike x Onepiece commercial video Video",
+      "text": "New Nike x Onepiece commercial video Video",
+      "url": "https://nitter.net/pewpiece/status/2090070895540806120#m",
+      "date": "Wed, 19 Aug 2026 13:38:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2090068575323398144%2Fimg%2FL1jKG1gHSbBt5VIe.jpg"
+      ]
+    },
+    {
       "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -104,21 +119,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
       ]
     },
     {
@@ -212,92 +212,6 @@
       ]
     },
     {
-      "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "text": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2088926811321159819#m",
-      "date": "Sun, 16 Aug 2026 09:52:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1b3NsWoAAbgzJ.jpg"
-      ]
-    },
-    {
-      "id": "7db962655a08fa7e8fddd4e72b00289173ff73af1a46881040d26f136165d591",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated o",
-      "text": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated on MANGA Plus on 8/21 (Fri.). We sincerely apologize to readers. The series will resume with the MANGA Plus update on 9/18 (Fri.). Thank you for understanding. — https://nitter.net/NARUTO_info_en/status/2088120933211050119#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2088493311648506000#m",
-      "date": "Sat, 15 Aug 2026 05:09:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-",
-      "text": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-new limited anime series, streams August 5 on @DisneyPlus and @hulu. Video — https://nitter.net/starwars/status/2084308408518476014#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2084619267190796698#m",
-      "date": "Tue, 04 Aug 2026 12:35:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOz0PB2bEAAC7UZ.jpg"
-      ]
-    },
-    {
-      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kawaki during Boruto TBV: #BORUTO",
-      "text": "Kawaki during Boruto TBV: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
-      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
-      ]
-    },
-    {
-      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
-      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
-      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
-      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
-      ]
-    },
-    {
       "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -340,6 +254,97 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2090058172492910670#m",
+      "date": "Wed, 19 Aug 2026 12:47:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFg1H7WEAA__mO.jpg"
+      ]
+    },
+    {
+      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
+      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+      ]
+    },
+    {
+      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
+      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
+      ]
+    },
+    {
+      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
+      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
+      ]
+    },
+    {
+      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
+      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
+        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
       ]
     }
   ],
@@ -387,6 +392,21 @@
       "attachments": []
     },
     {
+      "id": "7e300b7468c01082ade34c6b1d2f9b18336995054eb51c63ec61647fcb644263",
+      "anime": "onepiece",
+      "handle": "pewpiece",
+      "sourceLabel": "One Piece α",
+      "title": "New Nike x Onepiece commercial video Video",
+      "text": "New Nike x Onepiece commercial video Video",
+      "url": "https://nitter.net/pewpiece/status/2090070895540806120#m",
+      "date": "Wed, 19 Aug 2026 13:38:27 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2090068575323398144%2Fimg%2FL1jKG1gHSbBt5VIe.jpg"
+      ]
+    },
+    {
       "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
       "anime": "onepiece",
       "handle": "pewpiece",
@@ -444,21 +464,6 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
-      "id": "b7e7609a1a80e82be0200496cdee3cf77351de5ba5bf949b14b48bef6e1a45fe",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "text": "Eiichiro Oda's new illustration for Kindom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088410921240506477#m",
-      "date": "Fri, 14 Aug 2026 23:42:19 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuGqYWWwAAC5W7.jpg"
       ]
     },
     {
@@ -552,92 +557,6 @@
       ]
     },
     {
-      "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "text": "Day 1 of exposing Naruto fan artists #NARUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2088926811321159819#m",
-      "date": "Sun, 16 Aug 2026 09:52:16 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1b3NsWoAAbgzJ.jpg"
-      ]
-    },
-    {
-      "id": "7db962655a08fa7e8fddd4e72b00289173ff73af1a46881040d26f136165d591",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated o",
-      "text": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated on MANGA Plus on 8/21 (Fri.). We sincerely apologize to readers. The series will resume with the MANGA Plus update on 9/18 (Fri.). Thank you for understanding. — https://nitter.net/NARUTO_info_en/status/2088120933211050119#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2088493311648506000#m",
-      "date": "Sat, 15 Aug 2026 05:09:42 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-",
-      "text": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-new limited anime series, streams August 5 on @DisneyPlus and @hulu. Video — https://nitter.net/starwars/status/2084308408518476014#m",
-      "url": "https://nitter.net/SchmurfiV1/status/2084619267190796698#m",
-      "date": "Tue, 04 Aug 2026 12:35:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHOz0PB2bEAAC7UZ.jpg"
-      ]
-    },
-    {
-      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Kawaki during Boruto TBV: #BORUTO",
-      "text": "Kawaki during Boruto TBV: #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
-      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
-      ]
-    },
-    {
-      "id": "b35351daea7943f8137468dec6a4b69bca94aad6e289ed51d64371411560f988",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly a",
-      "text": "Had to come back to twitter for an information I just found. (Y’all probably already know about this.) There will be no Boruto TBV chapter in August. Ikemoto and Kishimoto releasing chapters monthly and still need to do a hiatus lmao #BORUTO",
-      "url": "https://nitter.net/SchmurfiV1/status/2077790715937993155#m",
-      "date": "Thu, 16 Jul 2026 16:21:24 GMT",
-      "isSpoiler": false,
-      "hasAttachments": false,
-      "attachments": []
-    },
-    {
-      "id": "43e46fe9c43105b05ddd3bc6c09255c01a0f9caded9f4037422e7a2a6a22e201",
-      "anime": "boruto",
-      "handle": "schmurfiv1",
-      "sourceLabel": "Boruto",
-      "title": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "text": "Coming back from inactivity to celebrate a special day for the Boruto Twitter fandom… Today 67 years ago the biggest pillar of Boruto Twitter was born. Happy birthday to Smurfy (Me🤭🥳)",
-      "url": "https://nitter.net/SchmurfiV1/status/2071123095369240993#m",
-      "date": "Sun, 28 Jun 2026 06:46:40 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHL4bejYWoAAvITd.jpg"
-      ]
-    },
-    {
       "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -680,6 +599,97 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2090058172492910670#m",
+      "date": "Wed, 19 Aug 2026 12:47:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFg1H7WEAA__mO.jpg"
+      ]
+    },
+    {
+      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
+      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+      ]
+    },
+    {
+      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
+      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
+      ]
+    },
+    {
+      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
+      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
+      ]
+    },
+    {
+      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
+      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
+      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
+        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
       ]
     }
   ]
