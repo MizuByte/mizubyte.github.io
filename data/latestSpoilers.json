@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:21:32.005Z",
+  "generatedAt": "2026-08-19T17:45:54.244Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -17,98 +17,35 @@
         "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
         "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
       ]
-    }
-  ],
-  "misc": [
-    {
-      "id": "2a03cec2b5249a61ecc0251d9a9352f61210d4e757b90aa7d15388c2f2f7f549",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
-      "text": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
-      "url": "https://nitter.net/shonenjump/status/2090122907842232381#m",
-      "date": "Wed, 19 Aug 2026 17:05:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQGbsRzWwAAvkWr.jpg"
-      ]
     },
     {
-      "id": "e74a21563669fd6c3e79309d982f0932f1baeba97d8c2ad53ed858f9a3362318",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
-      "text": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
-      "url": "https://nitter.net/Mugiwara_23/status/2090123854655984031#m",
-      "date": "Wed, 19 Aug 2026 17:08:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQGcEq7akAANYsA.jpg"
-      ]
-    },
-    {
-      "id": "bd519c239410564d87f836481d812ae878f3de9626e25c87db94faa1904b3155",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha v",
-      "text": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha vivido en un ático. Es la primera vez que veo que se persigue dónde vive un político... Increíble — https://nitter.net/marodriguezb/status/2090088335670739282#m",
-      "url": "https://nitter.net/gabrielrufian/status/2090108784110600553#m",
-      "date": "Wed, 19 Aug 2026 16:09:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQGO3BPWAAEDJUD.jpg"
-      ]
-    },
-    {
-      "id": "ed8d87472ed2d9a5d36e64698c23d5e530cf2b85a2f7b5e37576b60e74c2d617",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "url": "https://nitter.net/Mugiwara_23/status/2090093340175876542#m",
-      "date": "Wed, 19 Aug 2026 15:07:39 GMT",
-      "isSpoiler": false,
+      "id": "a7ac5460eb2ddddd6632f1e92e4118471243c0ad191efdf1e0480e0754b73671",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 704",
+      "text": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 7047 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2088642952352702958#m",
+      "date": "Sat, 15 Aug 2026 15:04:19 GMT",
+      "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "e392252ddddca58a37d71f75427fb4746f7d6ce933f55ab6effc4f4e4fa1e61a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
-      "text": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
-      "url": "https://nitter.net/mi_ichikawa0728/status/2089985915359801613#m",
-      "date": "Wed, 19 Aug 2026 08:00:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQEfHHHXIAA9EB9.jpg",
-        "https://nitter.net/pic/media%2FHQEfHUiW4AASRsP.jpg"
-      ]
-    },
-    {
-      "id": "5bda409f7ed41992023deef5a4efad840640931613a766fa7ab0480f5c286997",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
-      "text": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
-      "url": "https://nitter.net/animehaikyu_com/status/2090051206949617998#m",
-      "date": "Wed, 19 Aug 2026 12:20:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQFX4ZUagAAGjzF.jpg"
-      ]
-    },
+      "id": "093b606547e4af7f4a2f22b34766e43f4abacab34dffc5283c9fd139ca61aa41",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 7047 oth",
+      "text": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 7047 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2087587092058804585#m",
+      "date": "Wed, 12 Aug 2026 17:08:42 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
+    }
+  ],
+  "misc": [
     {
       "id": "7e300b7468c01082ade34c6b1d2f9b18336995054eb51c63ec61647fcb644263",
       "anime": "onepiece",
@@ -182,6 +119,98 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
+      ]
+    },
+    {
+      "id": "057cfdea54a97ec96c34f3ff1cc59b1c5b5788d9460ec515bcb1cac25867ec48",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#JuanTamariz en las viñetas de @A_idigoras, @santygutierrez @latiradeoroz [fragmento] y @ManelFontdevila ➕#humor 19/8/26 #cartoon 👉vetustideces.blogspot.com/20…",
+      "text": "#JuanTamariz en las viñetas de @A_idigoras, @santygutierrez @latiradeoroz [fragmento] y @ManelFontdevila ➕#humor 19/8/26 #cartoon 👉vetustideces.blogspot.com/20…",
+      "url": "https://nitter.net/SieteSofi/status/2089963866683785267#m",
+      "date": "Wed, 19 Aug 2026 06:33:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQEKDpHWsAAAXT6.jpg",
+        "https://nitter.net/pic/media%2FHQEKDpmWYAAD9eu.jpg",
+        "https://nitter.net/pic/media%2FHQEKI9mWEAAdjD5.jpg",
+        "https://nitter.net/pic/media%2FHQEKI9rWoAApZzy.jpg"
+      ]
+    },
+    {
+      "id": "2a03cec2b5249a61ecc0251d9a9352f61210d4e757b90aa7d15388c2f2f7f549",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
+      "text": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
+      "url": "https://nitter.net/shonenjump/status/2090122907842232381#m",
+      "date": "Wed, 19 Aug 2026 17:05:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQGbsRzWwAAvkWr.jpg"
+      ]
+    },
+    {
+      "id": "e74a21563669fd6c3e79309d982f0932f1baeba97d8c2ad53ed858f9a3362318",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
+      "text": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
+      "url": "https://nitter.net/Mugiwara_23/status/2090123854655984031#m",
+      "date": "Wed, 19 Aug 2026 17:08:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQGcEq7akAANYsA.jpg"
+      ]
+    },
+    {
+      "id": "bd519c239410564d87f836481d812ae878f3de9626e25c87db94faa1904b3155",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha v",
+      "text": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha vivido en un ático. Es la primera vez que veo que se persigue dónde vive un político... Increíble — https://nitter.net/marodriguezb/status/2090088335670739282#m",
+      "url": "https://nitter.net/gabrielrufian/status/2090108784110600553#m",
+      "date": "Wed, 19 Aug 2026 16:09:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQGO3BPWAAEDJUD.jpg"
+      ]
+    },
+    {
+      "id": "ed8d87472ed2d9a5d36e64698c23d5e530cf2b85a2f7b5e37576b60e74c2d617",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "url": "https://nitter.net/Mugiwara_23/status/2090093340175876542#m",
+      "date": "Wed, 19 Aug 2026 15:07:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e392252ddddca58a37d71f75427fb4746f7d6ce933f55ab6effc4f4e4fa1e61a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
+      "text": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
+      "url": "https://nitter.net/mi_ichikawa0728/status/2089985915359801613#m",
+      "date": "Wed, 19 Aug 2026 08:00:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQEfHHHXIAA9EB9.jpg",
+        "https://nitter.net/pic/media%2FHQEfHUiW4AASRsP.jpg"
       ]
     },
     {
@@ -271,48 +300,48 @@
       ]
     },
     {
-      "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2090058172492910670#m",
-      "date": "Wed, 19 Aug 2026 12:47:54 GMT",
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHQFg1H7WEAA__mO.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
       ]
     },
     {
-      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
-      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     },
     {
-      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
-      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
       ]
     }
   ],
@@ -334,93 +363,30 @@
       ]
     },
     {
-      "id": "2a03cec2b5249a61ecc0251d9a9352f61210d4e757b90aa7d15388c2f2f7f549",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
-      "text": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
-      "url": "https://nitter.net/shonenjump/status/2090122907842232381#m",
-      "date": "Wed, 19 Aug 2026 17:05:08 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQGbsRzWwAAvkWr.jpg"
-      ]
-    },
-    {
-      "id": "e74a21563669fd6c3e79309d982f0932f1baeba97d8c2ad53ed858f9a3362318",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
-      "text": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
-      "url": "https://nitter.net/Mugiwara_23/status/2090123854655984031#m",
-      "date": "Wed, 19 Aug 2026 17:08:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQGcEq7akAANYsA.jpg"
-      ]
-    },
-    {
-      "id": "bd519c239410564d87f836481d812ae878f3de9626e25c87db94faa1904b3155",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha v",
-      "text": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha vivido en un ático. Es la primera vez que veo que se persigue dónde vive un político... Increíble — https://nitter.net/marodriguezb/status/2090088335670739282#m",
-      "url": "https://nitter.net/gabrielrufian/status/2090108784110600553#m",
-      "date": "Wed, 19 Aug 2026 16:09:01 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQGO3BPWAAEDJUD.jpg"
-      ]
-    },
-    {
-      "id": "ed8d87472ed2d9a5d36e64698c23d5e530cf2b85a2f7b5e37576b60e74c2d617",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
-      "url": "https://nitter.net/Mugiwara_23/status/2090093340175876542#m",
-      "date": "Wed, 19 Aug 2026 15:07:39 GMT",
-      "isSpoiler": false,
+      "id": "a7ac5460eb2ddddd6632f1e92e4118471243c0ad191efdf1e0480e0754b73671",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 704",
+      "text": "discord.gg/qHUU2T6we Bleach TYBW Ep. 44 is up in the server! Join to watch. #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 7047 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2088642952352702958#m",
+      "date": "Sat, 15 Aug 2026 15:04:19 GMT",
+      "isSpoiler": true,
       "hasAttachments": false,
       "attachments": []
     },
     {
-      "id": "e392252ddddca58a37d71f75427fb4746f7d6ce933f55ab6effc4f4e4fa1e61a",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
-      "text": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
-      "url": "https://nitter.net/mi_ichikawa0728/status/2089985915359801613#m",
-      "date": "Wed, 19 Aug 2026 08:00:46 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQEfHHHXIAA9EB9.jpg",
-        "https://nitter.net/pic/media%2FHQEfHUiW4AASRsP.jpg"
-      ]
-    },
-    {
-      "id": "5bda409f7ed41992023deef5a4efad840640931613a766fa7ab0480f5c286997",
-      "anime": "onepiece",
-      "handle": "mugiwara_23",
-      "sourceLabel": "One Piece γ",
-      "title": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
-      "text": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
-      "url": "https://nitter.net/animehaikyu_com/status/2090051206949617998#m",
-      "date": "Wed, 19 Aug 2026 12:20:13 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHQFX4ZUagAAGjzF.jpg"
-      ]
+      "id": "093b606547e4af7f4a2f22b34766e43f4abacab34dffc5283c9fd139ca61aa41",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 7047 oth",
+      "text": "discord.gg/qHUU2T6we Join for more Bleach and other Ani Manga Spoilers #Bleach Link Join the Spoiler Central Discord Server! Check out the Spoiler Central community on Discord - hang out with 7047 other members and enjoy free voice and text chat. discord.com",
+      "url": "https://nitter.net/PacemanOP/status/2087587092058804585#m",
+      "date": "Wed, 12 Aug 2026 17:08:42 GMT",
+      "isSpoiler": true,
+      "hasAttachments": false,
+      "attachments": []
     },
     {
       "id": "7e300b7468c01082ade34c6b1d2f9b18336995054eb51c63ec61647fcb644263",
@@ -495,6 +461,98 @@
       "hasAttachments": true,
       "attachments": [
         "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
+      ]
+    },
+    {
+      "id": "057cfdea54a97ec96c34f3ff1cc59b1c5b5788d9460ec515bcb1cac25867ec48",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "#JuanTamariz en las viñetas de @A_idigoras, @santygutierrez @latiradeoroz [fragmento] y @ManelFontdevila ➕#humor 19/8/26 #cartoon 👉vetustideces.blogspot.com/20…",
+      "text": "#JuanTamariz en las viñetas de @A_idigoras, @santygutierrez @latiradeoroz [fragmento] y @ManelFontdevila ➕#humor 19/8/26 #cartoon 👉vetustideces.blogspot.com/20…",
+      "url": "https://nitter.net/SieteSofi/status/2089963866683785267#m",
+      "date": "Wed, 19 Aug 2026 06:33:10 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQEKDpHWsAAAXT6.jpg",
+        "https://nitter.net/pic/media%2FHQEKDpmWYAAD9eu.jpg",
+        "https://nitter.net/pic/media%2FHQEKI9mWEAAdjD5.jpg",
+        "https://nitter.net/pic/media%2FHQEKI9rWoAApZzy.jpg"
+      ]
+    },
+    {
+      "id": "2a03cec2b5249a61ecc0251d9a9352f61210d4e757b90aa7d15388c2f2f7f549",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
+      "text": "Garo and Suiryu go all out, holding nothing back! Read One-Punch Man, Ch. 235 in Shonen Jump for free! bit.ly/4gEkL1F",
+      "url": "https://nitter.net/shonenjump/status/2090122907842232381#m",
+      "date": "Wed, 19 Aug 2026 17:05:08 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQGbsRzWwAAvkWr.jpg"
+      ]
+    },
+    {
+      "id": "e74a21563669fd6c3e79309d982f0932f1baeba97d8c2ad53ed858f9a3362318",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
+      "text": "RT @Eiichiro_Staff: アニメ『LEGO® ONE PIECE』 まもなく予告映像、解禁。 #ONEPIECE #LEGOONEPIECE #ネトフリワンピ",
+      "url": "https://nitter.net/Mugiwara_23/status/2090123854655984031#m",
+      "date": "Wed, 19 Aug 2026 17:08:54 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQGcEq7akAANYsA.jpg"
+      ]
+    },
+    {
+      "id": "bd519c239410564d87f836481d812ae878f3de9626e25c87db94faa1904b3155",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha v",
+      "text": "MÁR (@marodriguezb) ¿Hay interés periodístico en publicar dónde reside la presidenta Díaz Ayuso (salvo que se hubiera alquilado una sauna de prostitución del padre de Begoña)? La presidenta nunca ha vivido en un ático. Es la primera vez que veo que se persigue dónde vive un político... Increíble — https://nitter.net/marodriguezb/status/2090088335670739282#m",
+      "url": "https://nitter.net/gabrielrufian/status/2090108784110600553#m",
+      "date": "Wed, 19 Aug 2026 16:09:01 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQGO3BPWAAEDJUD.jpg"
+      ]
+    },
+    {
+      "id": "ed8d87472ed2d9a5d36e64698c23d5e530cf2b85a2f7b5e37576b60e74c2d617",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "text": "RT @Eiichiro_Staff: 🔔━━━━━━━━━━━━━ 🔔 ⠀ ⠀ 第2回 世界人気投票「WT100」 ⠀ 最終結果発表カウントダウン ⠀ ⠀ ▶︎▶︎ 300位～201位 ◀︎◀︎ ⠀ 🔔━━━━━━━━━━━━━ 🔔 ⠀ 最終結…",
+      "url": "https://nitter.net/Mugiwara_23/status/2090093340175876542#m",
+      "date": "Wed, 19 Aug 2026 15:07:39 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "e392252ddddca58a37d71f75427fb4746f7d6ce933f55ab6effc4f4e4fa1e61a",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
+      "text": "悪徳の街ロアナプラで血風吹き荒れる抗争が始まる！！ #広江礼威 先生 『ＢＬＡＣＫ ＬＡＧＯＯＮ ０１４』 「奪うものは命、贖うものは愛、挑むものは絶望。」 #BLACKLAGOON #サンデーGX コミックス",
+      "url": "https://nitter.net/mi_ichikawa0728/status/2089985915359801613#m",
+      "date": "Wed, 19 Aug 2026 08:00:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQEfHHHXIAA9EB9.jpg",
+        "https://nitter.net/pic/media%2FHQEfHUiW4AASRsP.jpg"
       ]
     },
     {
@@ -584,48 +642,48 @@
       ]
     },
     {
-      "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2090058172492910670#m",
-      "date": "Wed, 19 Aug 2026 12:47:54 GMT",
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHQFg1H7WEAA__mO.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
       ]
     },
     {
-      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
-      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
       ]
     },
     {
-      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
-      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
       ]
     }
   ]
