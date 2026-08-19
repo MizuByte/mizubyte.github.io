@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-08-19T14:02:19.921Z",
+  "generatedAt": "2026-08-19T14:57:22.792Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -47,81 +31,6 @@
   ],
   "misc": [
     {
-      "id": "7e300b7468c01082ade34c6b1d2f9b18336995054eb51c63ec61647fcb644263",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New Nike x Onepiece commercial video Video",
-      "text": "New Nike x Onepiece commercial video Video",
-      "url": "https://nitter.net/pewpiece/status/2090070895540806120#m",
-      "date": "Wed, 19 Aug 2026 13:38:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2090068575323398144%2Fimg%2FL1jKG1gHSbBt5VIe.jpg"
-      ]
-    },
-    {
-      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
-      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
-      ]
-    },
-    {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
-      ]
-    },
-    {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
       "id": "1e3d8b8e1b3062b6bbf8842d224d75b8a1ba5e5aa15d2ef8bfcfefe1bcb0c3fe",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -212,6 +121,100 @@
       ]
     },
     {
+      "id": "5bda409f7ed41992023deef5a4efad840640931613a766fa7ab0480f5c286997",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
+      "text": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
+      "url": "https://nitter.net/animehaikyu_com/status/2090051206949617998#m",
+      "date": "Wed, 19 Aug 2026 12:20:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFX4ZUagAAGjzF.jpg"
+      ]
+    },
+    {
+      "id": "ea127ab6b8decb56843d2a8e290d35e906cc434a922e2732735c0143c4d60fbb",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: #万物は望まれてこの世に生まれる #ONEPIECE Video",
+      "text": "RT @Eiichiro_Staff: #万物は望まれてこの世に生まれる #ONEPIECE Video",
+      "url": "https://nitter.net/Mugiwara_23/status/2090075777567994011#m",
+      "date": "Wed, 19 Aug 2026 13:57:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2090068575323398144%2Fimg%2FL1jKG1gHSbBt5VIe.jpg"
+      ]
+    },
+    {
+      "id": "37ef2fc4db3f1c0ddc2a98da463b47ee59c0b0bde1498c01cce03c4ec098bc12",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "万極さんの特典が余ってました",
+      "text": "万極さんの特典が余ってました",
+      "url": "https://nitter.net/hamaboh_manga/status/2090059892979851288#m",
+      "date": "Wed, 19 Aug 2026 12:54:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFiZPAbYAIDzWI.jpg"
+      ]
+    },
+    {
+      "id": "7f0a849029cb35ce41b0f16628b4ad06261214f2f5cd13e75e4e62733e2d2926",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón 🇯🇵!! Tras 8 días de vacaciones, hoy he recogido 9 paquetes entre Correos y puntos de recogida 🤣🤣🤣 Os los iré enseñando por orden, empezando por el libro “Pokémon Offici",
+      "text": "¡¡Nuevo pedido desde Japón 🇯🇵!! Tras 8 días de vacaciones, hoy he recogido 9 paquetes entre Correos y puntos de recogida 🤣🤣🤣 Os los iré enseñando por orden, empezando por el libro “Pokémon Official National Pokédex 1996-2026” para celebrar el 30º aniversario de Pokémon 😍😍😍",
+      "url": "https://nitter.net/Mugiwara_23/status/2090054111798464563#m",
+      "date": "Wed, 19 Aug 2026 12:31:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFcoaYWkAAhynE.jpg",
+        "https://nitter.net/pic/media%2FHQFcoaZWUAAoj4X.jpg",
+        "https://nitter.net/pic/media%2FHQFcoaVWUAAmmqp.jpg",
+        "https://nitter.net/pic/media%2FHQFcoaaWMAAHlHC.jpg"
+      ]
+    },
+    {
+      "id": "e3d5adaca9a29fa8f3835682ef19df4cb9f019e6c25edfba38df3a11167f4c62",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Por si alguien tiene dudas sobre el contenido del libro, es literalmente una Pokédex en papel con TODOS los Pokémon que hay hasta hoy. Y TODOS tienen su ficha. Supongo que un libro así acabará saliend",
+      "text": "Por si alguien tiene dudas sobre el contenido del libro, es literalmente una Pokédex en papel con TODOS los Pokémon que hay hasta hoy. Y TODOS tienen su ficha. Supongo que un libro así acabará saliendo fuera de Japón, así que a lo mejor tenemos una versión en español algún día 🙂",
+      "url": "https://nitter.net/Mugiwara_23/status/2090061289099800630#m",
+      "date": "Wed, 19 Aug 2026 13:00:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6b832b1114550fadff264d1f375a0ab76b162a7f8980f206ded4157d05adf2dd",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nueva Weekly Shonen Jump para la colección 😍😍😍!! Hoy tenemos la número doble #37-38 de 2026 que salió la semana pasada en Japón. El Luffy fantasma de la portada me encanta 😂😂😂 Magníficas págin",
+      "text": "¡¡Nueva Weekly Shonen Jump para la colección 😍😍😍!! Hoy tenemos la número doble #37-38 de 2026 que salió la semana pasada en Japón. El Luffy fantasma de la portada me encanta 😂😂😂 Magníficas páginas a color de “Akane-banashi” e interesante one-shot de Kōhei Horikoshi 😲😲😲",
+      "url": "https://nitter.net/Mugiwara_23/status/2090057655981097125#m",
+      "date": "Wed, 19 Aug 2026 12:45:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFe9E-WgAAlDY5.jpg",
+        "https://nitter.net/pic/media%2FHQFe9E7XYAAmb50.jpg",
+        "https://nitter.net/pic/media%2FHQFe9E7WIAEcTv5.jpg",
+        "https://nitter.net/pic/media%2FHQFe9FAWsAArATv.jpg"
+      ]
+    },
+    {
       "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -272,99 +275,65 @@
       ]
     },
     {
-      "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2090058172492910670#m",
-      "date": "Wed, 19 Aug 2026 12:47:54 GMT",
+      "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Day 1 of exposing Naruto fan artists #NARUTO",
+      "text": "Day 1 of exposing Naruto fan artists #NARUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2088926811321159819#m",
+      "date": "Sun, 16 Aug 2026 09:52:16 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHQFg1H7WEAA__mO.jpg"
+        "https://nitter.net/pic/media%2FHP1b3NsWoAAbgzJ.jpg"
       ]
     },
     {
-      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
-      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "id": "7db962655a08fa7e8fddd4e72b00289173ff73af1a46881040d26f136165d591",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated o",
+      "text": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated on MANGA Plus on 8/21 (Fri.). We sincerely apologize to readers. The series will resume with the MANGA Plus update on 9/18 (Fri.). Thank you for understanding. — https://nitter.net/NARUTO_info_en/status/2088120933211050119#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2088493311648506000#m",
+      "date": "Sat, 15 Aug 2026 05:09:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-",
+      "text": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-new limited anime series, streams August 5 on @DisneyPlus and @hulu. Video — https://nitter.net/starwars/status/2084308408518476014#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2084619267190796698#m",
+      "date": "Tue, 04 Aug 2026 12:35:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+        "https://nitter.net/pic/media%2FHOz0PB2bEAAC7UZ.jpg"
       ]
     },
     {
-      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
-      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kawaki during Boruto TBV: #BORUTO",
+      "text": "Kawaki during Boruto TBV: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
+      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
-      ]
-    },
-    {
-      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
-      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
-      ]
-    },
-    {
-      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
-      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
-        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
+        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
       ]
     }
   ],
   "items": [
-    {
-      "id": "8bca88d7937583590509288f9181cc18def6f456152b9fca74e21a50f2d1ba62",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "text": "#onepiece1191 Brief spoilers for onepiece chapter 1191 by me",
-      "url": "https://nitter.net/pewpiece/status/2089419176179913082#m",
-      "date": "Mon, 17 Aug 2026 18:28:45 GMT",
-      "isSpoiler": true,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP8bqEVXQAAiagC.jpg",
-        "https://nitter.net/pic/media%2FHP8bqj_XQAE4tbR.jpg"
-      ]
-    },
     {
       "id": "f2d0e265a850cbd9f608936737e344b2c217158b75ab1f6b8a6476c55c797205",
       "anime": "blackclover",
@@ -392,81 +361,6 @@
       "attachments": []
     },
     {
-      "id": "7e300b7468c01082ade34c6b1d2f9b18336995054eb51c63ec61647fcb644263",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "New Nike x Onepiece commercial video Video",
-      "text": "New Nike x Onepiece commercial video Video",
-      "url": "https://nitter.net/pewpiece/status/2090070895540806120#m",
-      "date": "Wed, 19 Aug 2026 13:38:27 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2090068575323398144%2Fimg%2FL1jKG1gHSbBt5VIe.jpg"
-      ]
-    },
-    {
-      "id": "036639fa4bd31ec36341fd826872c0baae989e6539c2a83499b5347e9547c09e",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "text": "#onepiece1191 From : @Mugiwara_23 about Imu new transformation",
-      "url": "https://nitter.net/pewpiece/status/2089529610979422346#m",
-      "date": "Tue, 18 Aug 2026 01:47:35 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP-AGpSW4AERfEY.jpg"
-      ]
-    },
-    {
-      "id": "f1dcc0775350e131d1a7f90d56a8310663e107b048eac0a92bbb0ca427c109e5",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "text": "Official 🚨🚨🚨🚨 There will be a break next week again after onepiece chapter 1191.",
-      "url": "https://nitter.net/pewpiece/status/2089313683843269015#m",
-      "date": "Mon, 17 Aug 2026 11:29:34 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP67uKMWkAAWIq2.jpg"
-      ]
-    },
-    {
-      "id": "a81b1e4cb8b9ebabcc86796ae3ee48ff9372f7a400781472b8bc7c64b6304f87",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "text": "Masashi Kishimoto (Naruto) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440300565839896#m",
-      "date": "Sat, 15 Aug 2026 01:39:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPufTYwXwAAgrer.jpg"
-      ]
-    },
-    {
-      "id": "9e718fc932cd6011a11ba4d65c0a5e224f6bc3aa7ea65630c615cc7cf83330b2",
-      "anime": "onepiece",
-      "handle": "pewpiece",
-      "sourceLabel": "One Piece α",
-      "title": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "text": "Yoshihiro Togashi (Hunter x Hunter) new illustration for Kingdom 20 anniversary",
-      "url": "https://nitter.net/pewpiece/status/2088440223139074106#m",
-      "date": "Sat, 15 Aug 2026 01:38:45 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPuhTudWQAAzypk.jpg"
-      ]
-    },
-    {
       "id": "1e3d8b8e1b3062b6bbf8842d224d75b8a1ba5e5aa15d2ef8bfcfefe1bcb0c3fe",
       "anime": "onepiece",
       "handle": "worstgenhq",
@@ -557,6 +451,100 @@
       ]
     },
     {
+      "id": "5bda409f7ed41992023deef5a4efad840640931613a766fa7ab0480f5c286997",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
+      "text": "『劇場版ハイキュー!! #VS小さな巨人』 コンセプトビジュアル解禁!! ━━━━━━━━━━━━━━━━━━ 同じ目線で戦う日向翔陽と星海光来 最小スパイカーたちの ”小さな巨人”対決が開幕する！ 『劇場版ハイキュー!! #VS小さな巨人』 2027年 ロードショー #ハイキュー #hq_anime",
+      "url": "https://nitter.net/animehaikyu_com/status/2090051206949617998#m",
+      "date": "Wed, 19 Aug 2026 12:20:13 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFX4ZUagAAGjzF.jpg"
+      ]
+    },
+    {
+      "id": "ea127ab6b8decb56843d2a8e290d35e906cc434a922e2732735c0143c4d60fbb",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "RT @Eiichiro_Staff: #万物は望まれてこの世に生まれる #ONEPIECE Video",
+      "text": "RT @Eiichiro_Staff: #万物は望まれてこの世に生まれる #ONEPIECE Video",
+      "url": "https://nitter.net/Mugiwara_23/status/2090075777567994011#m",
+      "date": "Wed, 19 Aug 2026 13:57:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2090068575323398144%2Fimg%2FL1jKG1gHSbBt5VIe.jpg"
+      ]
+    },
+    {
+      "id": "37ef2fc4db3f1c0ddc2a98da463b47ee59c0b0bde1498c01cce03c4ec098bc12",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "万極さんの特典が余ってました",
+      "text": "万極さんの特典が余ってました",
+      "url": "https://nitter.net/hamaboh_manga/status/2090059892979851288#m",
+      "date": "Wed, 19 Aug 2026 12:54:44 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFiZPAbYAIDzWI.jpg"
+      ]
+    },
+    {
+      "id": "7f0a849029cb35ce41b0f16628b4ad06261214f2f5cd13e75e4e62733e2d2926",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nuevo pedido desde Japón 🇯🇵!! Tras 8 días de vacaciones, hoy he recogido 9 paquetes entre Correos y puntos de recogida 🤣🤣🤣 Os los iré enseñando por orden, empezando por el libro “Pokémon Offici",
+      "text": "¡¡Nuevo pedido desde Japón 🇯🇵!! Tras 8 días de vacaciones, hoy he recogido 9 paquetes entre Correos y puntos de recogida 🤣🤣🤣 Os los iré enseñando por orden, empezando por el libro “Pokémon Official National Pokédex 1996-2026” para celebrar el 30º aniversario de Pokémon 😍😍😍",
+      "url": "https://nitter.net/Mugiwara_23/status/2090054111798464563#m",
+      "date": "Wed, 19 Aug 2026 12:31:46 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFcoaYWkAAhynE.jpg",
+        "https://nitter.net/pic/media%2FHQFcoaZWUAAoj4X.jpg",
+        "https://nitter.net/pic/media%2FHQFcoaVWUAAmmqp.jpg",
+        "https://nitter.net/pic/media%2FHQFcoaaWMAAHlHC.jpg"
+      ]
+    },
+    {
+      "id": "e3d5adaca9a29fa8f3835682ef19df4cb9f019e6c25edfba38df3a11167f4c62",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "Por si alguien tiene dudas sobre el contenido del libro, es literalmente una Pokédex en papel con TODOS los Pokémon que hay hasta hoy. Y TODOS tienen su ficha. Supongo que un libro así acabará saliend",
+      "text": "Por si alguien tiene dudas sobre el contenido del libro, es literalmente una Pokédex en papel con TODOS los Pokémon que hay hasta hoy. Y TODOS tienen su ficha. Supongo que un libro así acabará saliendo fuera de Japón, así que a lo mejor tenemos una versión en español algún día 🙂",
+      "url": "https://nitter.net/Mugiwara_23/status/2090061289099800630#m",
+      "date": "Wed, 19 Aug 2026 13:00:17 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "6b832b1114550fadff264d1f375a0ab76b162a7f8980f206ded4157d05adf2dd",
+      "anime": "onepiece",
+      "handle": "mugiwara_23",
+      "sourceLabel": "One Piece γ",
+      "title": "¡¡Nueva Weekly Shonen Jump para la colección 😍😍😍!! Hoy tenemos la número doble #37-38 de 2026 que salió la semana pasada en Japón. El Luffy fantasma de la portada me encanta 😂😂😂 Magníficas págin",
+      "text": "¡¡Nueva Weekly Shonen Jump para la colección 😍😍😍!! Hoy tenemos la número doble #37-38 de 2026 que salió la semana pasada en Japón. El Luffy fantasma de la portada me encanta 😂😂😂 Magníficas páginas a color de “Akane-banashi” e interesante one-shot de Kōhei Horikoshi 😲😲😲",
+      "url": "https://nitter.net/Mugiwara_23/status/2090057655981097125#m",
+      "date": "Wed, 19 Aug 2026 12:45:51 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQFe9E-WgAAlDY5.jpg",
+        "https://nitter.net/pic/media%2FHQFe9E7XYAAmb50.jpg",
+        "https://nitter.net/pic/media%2FHQFe9E7WIAEcTv5.jpg",
+        "https://nitter.net/pic/media%2FHQFe9FAWsAArATv.jpg"
+      ]
+    },
+    {
       "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
       "anime": "blackclover",
       "handle": "pacemanop",
@@ -617,79 +605,61 @@
       ]
     },
     {
-      "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2090058172492910670#m",
-      "date": "Wed, 19 Aug 2026 12:47:54 GMT",
+      "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Day 1 of exposing Naruto fan artists #NARUTO",
+      "text": "Day 1 of exposing Naruto fan artists #NARUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2088926811321159819#m",
+      "date": "Sun, 16 Aug 2026 09:52:16 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHQFg1H7WEAA__mO.jpg"
+        "https://nitter.net/pic/media%2FHP1b3NsWoAAbgzJ.jpg"
       ]
     },
     {
-      "id": "0d5fba8a5df002d5937274a5fbeec2de3cb617704618015b51ef2dc7a54c2363",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089663473407914396#m",
-      "date": "Tue, 18 Aug 2026 10:39:30 GMT",
+      "id": "7db962655a08fa7e8fddd4e72b00289173ff73af1a46881040d26f136165d591",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated o",
+      "text": "The concept of releasing chapters monthly but still taking a hiatus #BORUTO NARUTO OFFICIAL (@NARUTO_info_en) [Hiatus Notice] Boruto: Two Blue Vortex will take a short hiatus and will not be updated on MANGA Plus on 8/21 (Fri.). We sincerely apologize to readers. The series will resume with the MANGA Plus update on 9/18 (Fri.). Thank you for understanding. — https://nitter.net/NARUTO_info_en/status/2088120933211050119#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2088493311648506000#m",
+      "date": "Sat, 15 Aug 2026 05:09:42 GMT",
+      "isSpoiler": false,
+      "hasAttachments": false,
+      "attachments": []
+    },
+    {
+      "id": "8b406654fe36666dd8ce14e3a2cff2ffe7766af431b1314c26291f4621553caf",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-",
+      "text": "Studio Pierrot better sue Disney for stealing Tsubaki‘s design #BORUTO Star Wars (@starwars) Beyond light and dark lies a power never seen before. Star Wars: Visions Presents - The Ninth Jedi, an all-new limited anime series, streams August 5 on @DisneyPlus and @hulu. Video — https://nitter.net/starwars/status/2084308408518476014#m",
+      "url": "https://nitter.net/SchmurfiV1/status/2084619267190796698#m",
+      "date": "Tue, 04 Aug 2026 12:35:38 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP_52lDWwAAV3Lj.jpg"
+        "https://nitter.net/pic/media%2FHOz0PB2bEAAC7UZ.jpg"
       ]
     },
     {
-      "id": "6efe0d09faeda8581cd3363550ce96e486ae34590ffeee9aed91a5330f69f8dc",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089426842885218352#m",
-      "date": "Mon, 17 Aug 2026 18:59:13 GMT",
+      "id": "c7b32321ba6271c095488a007ab04cbebcad0e26af371136939c954adac848e0",
+      "anime": "boruto",
+      "handle": "schmurfiv1",
+      "sourceLabel": "Boruto",
+      "title": "Kawaki during Boruto TBV: #BORUTO",
+      "text": "Kawaki during Boruto TBV: #BORUTO",
+      "url": "https://nitter.net/SchmurfiV1/status/2078415752093155669#m",
+      "date": "Sat, 18 Jul 2026 09:45:05 GMT",
       "isSpoiler": false,
       "hasAttachments": true,
       "attachments": [
-        "https://nitter.net/pic/media%2FHP8ioxLW0AAI6Tg.jpg"
-      ]
-    },
-    {
-      "id": "53b8356661668795a48f0985981645bf6723f5c0e0a0aefa4cc1b9e14679425c",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2089297596208513143#m",
-      "date": "Mon, 17 Aug 2026 10:25:38 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP6tFt_W0AAXHN7.jpg"
-      ]
-    },
-    {
-      "id": "af0707e3fcb2a9cb32de8285f1e6e331804455f10a643d217d1f339cd45a285d",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "text": "🚨BERSERK Y REMAKE DE TOKYO GHOUL PROGRAMADOS PARA 2027 Estudio de Animación: MAPPA",
-      "url": "https://nitter.net/daily_berserk/status/2089075186486157413#m",
-      "date": "Sun, 16 Aug 2026 19:41:52 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
-        "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
+        "https://nitter.net/pic/media%2FHNgEHBNXIAA39W_.jpg"
       ]
     }
   ]
