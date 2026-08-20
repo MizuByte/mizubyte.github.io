@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:59:40.043Z",
+  "generatedAt": "2026-08-20T01:25:08.091Z",
   "source": "tools/monitor-spoilers/monitor.js",
   "spoilers": [
     {
@@ -31,66 +31,6 @@
   ],
   "misc": [
     {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -177,6 +117,81 @@
       ]
     },
     {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "c61c7f39dcd959a1278a0dd0414430f6693bdb7162cf8a7120ec09ec99d45188",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2090239222334505035#m",
+      "date": "Thu, 20 Aug 2026 00:47:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQIFfnmXcAALPa7.jpg"
+      ]
+    },
+    {
       "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -250,21 +265,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
         "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
-      ]
-    },
-    {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
       ]
     }
   ],
@@ -296,66 +296,6 @@
       "attachments": []
     },
     {
-      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "#BLEACH Kanno HOS Cinema Video",
-      "text": "#BLEACH Kanno HOS Cinema Video",
-      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
-      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
-      ]
-    },
-    {
-      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "🧐🧐🧐🧐 Video",
-      "text": "🧐🧐🧐🧐 Video",
-      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
-      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
-      ]
-    },
-    {
-      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
-      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
-      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
-      ]
-    },
-    {
-      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
-      "anime": "blackclover",
-      "handle": "pacemanop",
-      "sourceLabel": "Black Clover",
-      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
-      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
-      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
-      ]
-    },
-    {
       "id": "9cc58b538434dbb0cdacc9b255ff623160a3d5f7d69344ac4814cc53ed53bf0e",
       "anime": "boruto",
       "handle": "schmurfiv1",
@@ -442,6 +382,81 @@
       ]
     },
     {
+      "id": "ad2e8c0279b28a7c3fc5a7df52d15b5a5b54f54354a151f958d3cbcad4f1fba4",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "#BLEACH Kanno HOS Cinema Video",
+      "text": "#BLEACH Kanno HOS Cinema Video",
+      "url": "https://nitter.net/0ciha/status/2088636845491892580#m",
+      "date": "Sat, 15 Aug 2026 14:40:03 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2088636752491577344%2Fimg%2FwEAZGE1Vgr3YBo59.jpg"
+      ]
+    },
+    {
+      "id": "0e2d2604eaca2bbc62f72e6e9638d38b39c68f75691655987e60564c43f5c76c",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "🧐🧐🧐🧐 Video",
+      "text": "🧐🧐🧐🧐 Video",
+      "url": "https://nitter.net/PacemanOP/status/2088201184222069159#m",
+      "date": "Fri, 14 Aug 2026 09:48:53 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/amplify_video_thumb%2F2087955860949532672%2Fimg%2Fs7Tn2RQ4Q0KxiJ7E.jpg"
+      ]
+    },
+    {
+      "id": "9affec7716b987459e6993c8b42992f9324992c57dcfa31bb4eb3192f67bfcf0",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "text": "BLEACH TYBW FINAL ARC EP 44 FULL STAFF #Bleach Next EP title - Defend You",
+      "url": "https://nitter.net/PacemanOP/status/2087523956068921591#m",
+      "date": "Wed, 12 Aug 2026 12:57:50 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPhf-CcbcAAJ2MW.jpg"
+      ]
+    },
+    {
+      "id": "00df23b584c31b9a976e3e354cad2441b5d25fe2a0f96b991125bc6b5933df2f",
+      "anime": "blackclover",
+      "handle": "pacemanop",
+      "sourceLabel": "Black Clover",
+      "title": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "text": "Bleach TYBW FINAL COUR EP 44 ENDS here Once Toshiro Finish talking #Bleach",
+      "url": "https://nitter.net/PacemanOP/status/2087634856121598421#m",
+      "date": "Wed, 12 Aug 2026 20:18:30 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHPjE1bVaIAEj_M3.jpg"
+      ]
+    },
+    {
+      "id": "c61c7f39dcd959a1278a0dd0414430f6693bdb7162cf8a7120ec09ec99d45188",
+      "anime": "berserk",
+      "handle": "daily_berserk",
+      "sourceLabel": "Berserk",
+      "title": "#BERSERK #ベルセルク",
+      "text": "#BERSERK #ベルセルク",
+      "url": "https://nitter.net/daily_berserk/status/2090239222334505035#m",
+      "date": "Thu, 20 Aug 2026 00:47:20 GMT",
+      "isSpoiler": false,
+      "hasAttachments": true,
+      "attachments": [
+        "https://nitter.net/pic/media%2FHQIFfnmXcAALPa7.jpg"
+      ]
+    },
+    {
       "id": "f832d82860de1ee1bb8ce7f543e7d4517e2987c7baeac8a8cbd563fa4dfde72b",
       "anime": "berserk",
       "handle": "daily_berserk",
@@ -515,21 +530,6 @@
       "attachments": [
         "https://nitter.net/pic/media%2FHP3izwwXIAAg9tj.jpg",
         "https://nitter.net/pic/media%2FHP3izwzWEAEUjfp.jpg"
-      ]
-    },
-    {
-      "id": "f87821a0c8c51d9f2ed5d8bad36894c80c59cfd385dacd410ae0754f39791425",
-      "anime": "berserk",
-      "handle": "daily_berserk",
-      "sourceLabel": "Berserk",
-      "title": "#BERSERK #ベルセルク",
-      "text": "#BERSERK #ベルセルク",
-      "url": "https://nitter.net/daily_berserk/status/2088936281635992055#m",
-      "date": "Sun, 16 Aug 2026 10:29:54 GMT",
-      "isSpoiler": false,
-      "hasAttachments": true,
-      "attachments": [
-        "https://nitter.net/pic/media%2FHP1kefqXAAA_bQg.jpg"
       ]
     }
   ]
